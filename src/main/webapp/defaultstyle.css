@@ -1,0 +1,52 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 10, 2017, 5:02:09 PM
+    Author     : dganguly
+*/
+
+.OverallPage
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.ResultTitleStyle
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+}
+
+.ResultSnippetStyle
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    font-size: smaller;
+}
+
+.ResultURLStyle
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    font-size: smaller;
+    color: #009900;
+}
+
+.SmallerFont
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    font-size: smaller;
+}
+
+a:link {color:blue; text-decoration:underline;}
+a:visited {color:purple; text-decoration:underline;}
+
+li {
+    margin-bottom: 10px;
+}
+
+th { font-size: smaller; }
+td { font-size: smaller; }
