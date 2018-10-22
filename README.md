@@ -6,7 +6,7 @@ Copyright (c): Apache License Version 2.0
 
 Created by HBCP team, IBM Research, Dublin
 
-* Main author: Debasis Ganguli
+* Main author: Debasis Ganguly
 * Code contributions: Francesca Bonin, Yufang Hou, Lea Deleris
 
 Java version: "1.8.0"
@@ -21,12 +21,7 @@ The project executes the following action:
 
 
 ### Running the project
-To run the project, simply type from your command-line.
-```
-sh scripts/hbcpie.sh
-```
-
-In case you're working on windows, type the following command to index the collection.
+Type the following command to index the collection.
 ```
 mvn exec:java@indexer
 ```
