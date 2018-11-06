@@ -21,8 +21,7 @@ import springfox.documentation.spring.web.plugins.Docket;
 import springfox.documentation.swagger2.annotations.EnableSwagger2;
 
 /**
- * This class configures the swagger interface for demonstrating the REST APIs.
- * 
+ *
  * @author dganguly
  */
 
@@ -43,11 +42,13 @@ public class SwaggerConfig {
     private ApiInfo apiInfo() {
         return new ApiInfoBuilder()
             .title("HBCP Information Extraction API")
+            
             .description("HBCP information extraction APIs allow users to extract information from " +
-"behaviour change literature according to Human Behaviour Change Ontology (HBCO). \n" +
-"Using this page to test APIs directly. For each API, please use the browse button to upload a pdf file (i.e., a human behaviour change clinical study article) from which you want to extract information and click the \"try it out\" button.\n"
+"behaviour change literature according to Human Behaviour Change Ontology (HBCO). \n"+ 
+                    "This API has been developed in the context of the HBCP project. Please refer to the project website for any detail: https://www.humanbehaviourchange.org/ \n" +
+"\nUse this page to test APIs directly. \n"
 + "# Available APIs \n "
-+ "## (1) Extract BCTs \n"
++ "## Extract BCTs \n"
 + "We provide two APIs (/extract/allbcts, /extract/allbcts/supervised) to extract all BCTs for a given research paper. Currently the following 10 BCTs are supported: \n" +
                     "* 1.1 Goal setting (behavior)\n" +
 "* 1.2 Problem solving\n" +
@@ -61,11 +62,9 @@ public class SwaggerConfig {
 "* 11.2 Reduce negative emotions\n " +
 "\n\n Users can also extract a specific BCT using /extract/bcts or /extract/bcts/supervised\n" +
 "by specifying the targeting BCT code (e.g., 1.1 or 1.2). \n\n" +
-"## (2) Extract clinical study population characteristics: \n" +
+"## Extract clinical study population characteristics: \n" +
 "Currently four APIs are provided to extract the gender, maximum age,\n" +
-"mean age, and minimum age information from a given research paper. \n\n"
-//+ "## [HBCP JavaDoc](../apidocs/index.html)"
-            )
+"mean age, and minimum age information from a given research paper.")
             .contact(new Contact("HBCP team, IBM Research, Dublin", "https://researcher.watson.ibm.com/researcher/view_group.php?id=8205", "debasis.ganguly1@ie.ibm.com"))
             .license("Apache License Version 2.0")
             .licenseUrl("https://github.ibm.com/Dublin-Research-Lab/hbcpIE")
