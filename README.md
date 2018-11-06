@@ -1,6 +1,6 @@
 # Human Behaviour Change Project Information Extraction (hbcpIE)  version 0.1
 
-02/10/2018
+06/11/2018
 
 Copyright (c): Apache License Version 2.0
 
@@ -21,7 +21,23 @@ To cite the work please cite:
 
 Debasis Ganguly, Léa A. Deleris, Pol Mac Aonghusa, Alison J. Wright, Ailbhe N. Finnerty, Emma Norris, Marta M. Marques, Susan Michie:
 Unsupervised Information Extraction from Behaviour Change Literature. MIE 2018: 680-684
- 
+```@inproceedings{DBLP:conf/mie/GangulyAAWFNMM18,
+  author    = {Debasis Ganguly and
+               L{\'{e}}a A. Deleris and
+               Pol Mac Aonghusa and
+               Alison J. Wright and
+               Ailbhe N. Finnerty and
+               Emma Norris and
+               Marta M. Marques and
+               Susan Michie},
+  title     = {Unsupervised Information Extraction from Behaviour Change Literature},
+  booktitle = {Building Continents of Knowledge in Oceans of Data: The Future of
+               Co-Created eHealth - Proceedings of {MIE} 2018, Medical Informatics
+               Europe, Gothenburg, Sweden, April 24-26, 2018},
+  pages     = {680--684},
+  year      = {2018}
+}
+```
 [bibtex](https://dblp.uni-trier.de/rec/bibtex/conf/mie/GangulyAAWFNMM18)
 
 ### Note:
@@ -31,22 +47,30 @@ Feel free to download the code and use it, as well as to send us feedback and bu
 
 ## Description
 The project takes as input pdfs (scientific articles of behavioural change) and return several attributes encoded in the behavioural change ontology developed by UCL in the context of the HBCP project (https://www.humanbehaviourchange.org/).
-A rest API with a Swagger UI is provided.
+A rest API with a Swagger UI is provided. This allow everybody to test the system from a web browser: [http://23.97.177.82:8180/swagger-ui.html](http://23.97.177.82:8180/swagger-ui.html)
+ 
+Supported entities for the moment:
+Population caractheristics: min age, max age, gender and mean age.
 
-Examples of extracted attributes:
+Behavioral Change Intervention: Goal Setting (Behaviour), Problem Solving, Action Planning, Feedback on behaviour, Self-monitoring of behaviour, Social support (unspecified), Information about health consequences, Information about social and Pharmacological support environmental consequences and Reduce negative emotions.
 
-Features of the population of the study:
-- minimun age 
-- max age
-- gender
-
-Behavioral Change Intervention described in the study:
-- goal settings
-- problem solving
-- ...
 
 ## Requirements
 Most recent version of Maven: https://maven.apache.org/download.cgi
+
+## What has been released in this repository
+
+We are releasing:
+- code for supervised, semisupervised and unsupersived retrieval of a selection of BCTs
+- Swagger api facilities
+- Java documentation for each class
+- 17 fully annotated open access papers
+
+## Dataset
+In the context of the [HBCP] (https://www.humanbehaviourchange.org/), 244 papers of behavior science literature have been anontated for 10 behavioral change techniques and 4 population caractheristics ( min age, max age, mean age and gender) according to the BCI Ontology. 
+Our pre-trained model is trained on a subset of 111 papers.
+We release 17 papers (that the model has not been trained on) as a sample dataset. Those 17 papers are open access and publily avaliable.
+
 
 ## Quickstart
 
@@ -69,9 +93,9 @@ mvn exec:java@extractor
 
 
 ## Test REST API with Swagger UI
-The project uses spring boot and spring fox with swagger ui.
+The project uses spring boot and spring fox with swagger ui. 
 
-From the command line, execute
+From the command line, locate yourself in the project HOME (hbcpIE/) and execute
 ```
 mvn spring-boot:run
 ```
@@ -93,4 +117,7 @@ This program is free software; you can redistribute it and/or
  modify it under the terms of the Apache License Version 2.0.
 
 ## Contact
-For all information please contact the HBCP team (humanbehaviourchange@ucl.ac.uk) 
+
+For help or issues using the HBCP code, please submit a GitHub issue.
+
+For personal communication related to the project, please contact the HBCP team (humanbehaviourchange@ucl.ac.uk) 
