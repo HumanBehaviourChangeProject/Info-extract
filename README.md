@@ -46,12 +46,11 @@ Feel free to download the code and use it, as well as to send us feedback and bu
 
 
 ## Description
-The project takes as input pdfs (scientific articles of behavioural change) and return several attributes encoded in the behavioural change ontology developed by UCL in the context of the HBCP project (https://www.humanbehaviourchange.org/).
-A rest API with a Swagger UI is provided. This allow everybody to test the system from a web browser: [http://23.97.177.82:8180/swagger-ui.html](http://23.97.177.82:8180/swagger-ui.html)
+The project takes as input pdfs (scientific articles of behavioural change interventionsThe project takes as input pdfs (scientific articles of behaviour change interventions) and returns several attributes encoded by the Behaviour Change Intervention Ontology developed by UCL in the context of the Human Behaviour Change Project (HBCP) (https://www.humanbehaviourchange.org/). A rest API with a Swagger UI is provided. This allows everybody to test the system from a web browser: [http://23.97.177.82:8180/swagger-ui.html](http://23.97.177.82:8180/swagger-ui.html)
  
 Supported entities for the moment:
 
-Population caractheristics: min age, max age, gender and mean age.
+Population characteristics:  min age, max age, gender and mean age.
 
 Behavioural Change Techniques: Goal Setting (Behaviour), Problem Solving, Action Planning, Feedback on behaviour, Self-monitoring of behaviour, Social support (unspecified), Information about health consequences, Information about social and environmental consequences, Pharmacological support and Reduce negative emotions.
 
@@ -68,9 +67,9 @@ We are releasing:
 - 17 fully annotated open access papers
 
 ## Dataset
-In the context of the [HBCP] (https://www.humanbehaviourchange.org/), 244 papers of behaviour science literature have been anontated for 10 behavioural change techniques and 4 population characteristic ( min age, max age, mean age and gender) according to the Behaviour Change Intervention Ontology. 
-Our pre-trained model is trained on a subset of 111 papers.
-We release 17 papers (that the model has not been trained on) as a sample dataset. Those 17 papers are open access and publicly avaliable.
+
+In the context of the HBCP (https://www.humanbehaviourchange.org/), 244 papers of behaviour science intervention papers have been annotated for 10 behaviour change techniques and 4 population characteristics (min age, max age, mean age and gender) according to the Behaviour Change Intervention Ontology. Our pre-trained model is trained on a subset of 111 papers. We release 17 papers (that the model has not been trained on) as a sample dataset. Those 17 papers are open access and publicly available.
+
 
 
 ## Quickstart for behavioural science users
