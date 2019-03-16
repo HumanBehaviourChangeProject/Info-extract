@@ -129,7 +129,7 @@ Open a browser and hit this [URL] (http://localhost:8180/swagger-ui.html)
 
 
 ## Java Documentation
-[Javadoc](apidocs/index.html)
+[Javadoc](https://humanbehaviourchangeproject.github.io/Info-extract)
 
 
 ## THANKS
