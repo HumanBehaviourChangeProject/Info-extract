@@ -49,7 +49,7 @@ Feel free to download the code and use it, as well as to send us feedback and bu
 
 
 The project takes as input pdfs (scientific articles of behaviour change interventions) and returns several attributes encoded by the Behaviour Change Intervention Ontology developed by UCL in the context of the Human Behaviour Change Project (HBCP) (https://www.humanbehaviourchange.org/). 
-A rest API with a Swagger UI is provided. This allows everybody to test the system from a web browser: http://23.97.177.82:8180/swagger-ui.html
+A rest API with a Swagger UI is provided. This allows everybody to test the system from a web browser. (Demo site offline at the moment.)
 
 
 Supported entities for the moment:
@@ -78,7 +78,7 @@ In the context of the HBCP (https://www.humanbehaviourchange.org/), 244 papers o
 
 
 ## Quickstart for behavioural science users
-- Visit this page to demo the system http://23.97.177.82:8180/swagger-ui.html
+- Visit this page to demo the system (apologies: the demo site is offline currently)
 - Click on doc-extract-info
 - Choose the entity you want to extract from your pdf:
      - all BCT present in the paper (allbcts)
@@ -125,7 +125,7 @@ From the command line, locate yourself in the project HOME (hbcpIE/) and execute
 ```
 mvn spring-boot:run
 ```
-Open a browser and hit this [URL] (http://localhost:8180/swagger-ui.html)
+Open a browser and hit this [URL] (demo site currently offline)
 
 
 ## Java Documentation
