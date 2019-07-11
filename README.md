@@ -1,8 +1,10 @@
 # Human Behaviour Change Project Information Extraction (hbcpIE)
-## version 2.0.0
+version 2.0.0
 
 
-##Update: demo currently down due to security issue
+### Update: 
+demo currently down due to security issue.
+The system can be run locally following the instructions below.
 
 
 17/04/2019
