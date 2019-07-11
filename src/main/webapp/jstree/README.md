@@ -29,7 +29,7 @@ _Aside from this readme you can find a lot more info on [jstree.com](http://www.
   - [Populating the tree using AJAX and lazy loading nodes](#populating-the-tree-using-ajax-and-lazy-loading-nodes)
   - [Populating the tree using a callback function](#populating-the-tree-using-a-callback-function)
 - [Working with events](#working-with-events)
-- [Interacting with the tree using the API](#interacting-with-the-tree-using-the-api)
+- [Interacting with the tree using the API](#interacting-with-the-tree-using-the-com.ibm.drl.hbcp.api)
 - [More on configuration](#more-on-configuration)
 - [Plugins](#plugins)
   - [checkbox](#checkbox)
@@ -109,7 +109,7 @@ Building trees from HTML is easy, but it is not very flexible, inline JS data is
 <script>
 $(function() {
   $('#container').jstree({
-    'core' : {
+    'com.ibm.drl.hbcp.core' : {
       'data' : [
         { "text" : "Root node", "children" : [
             { "text" : "Child node 1" },
@@ -127,7 +127,7 @@ $(function() {
 
 Unlike the previous simple HTML example, this time the `.jstree()` function accepts a config object.
 
-For now it is important to note that jstree will try to parse any data you specify in the  `core.data` key and use it to create a tree. As seen in the previous example, if this key is missing jstree will try to parse the inline HTML of the container.
+For now it is important to note that jstree will try to parse any data you specify in the  `com.ibm.drl.hbcp.core.data` key and use it to create a tree. As seen in the previous example, if this key is missing jstree will try to parse the inline HTML of the container.
 
 #### The required JSON format
 
@@ -161,7 +161,7 @@ Here is a new demo with some of those properties set:
 <script>
 $(function() {
   $('#container').jstree({
-    'core' : {
+    'com.ibm.drl.hbcp.core' : {
       'data' : [
           {
               "text" : "Root node",
@@ -195,7 +195,7 @@ Building off of the previous example, let's see how to have jstree make AJAX req
 <script>
 $(function() {
   $('#container').jstree({
-    'core' : {
+    'com.ibm.drl.hbcp.core' : {
       'data' : {
         "url" : "//www.jstree.com/fiddle/",
         "dataType" : "json" // needed only if you do not supply JSON headers
@@ -218,10 +218,10 @@ The server response is:
 
 [view result](http://jsfiddle.net/vakata/2kwkh2uL/4/)
 
-Instead of a JS array, you can set `core.data` to a [jQuery AJAX config](http://api.jquery.com/jQuery.ajax/)
+Instead of a JS array, you can set `com.ibm.drl.hbcp.core.data` to a [jQuery AJAX config](http://com.ibm.drl.hbcp.api.jquery.com/jQuery.ajax/)
 jsTree will hit that URL, and provided you return properly formatted JSON it will be displayed.
 
-_If you cannot provide proper JSON headers, set `core.data.dataType` to `"json"`._
+_If you cannot provide proper JSON headers, set `com.ibm.drl.hbcp.core.data.dataType` to `"json"`._
 
 The ids in the server response make it possible to identify nodes later (which we will see in the next few demos), but they are not required.
 
@@ -240,7 +240,7 @@ Here we take our previous example, and lazy load the "Child node 1" node.
 <script>
 $(function() {
   $('#container').jstree({
-    'core' : {
+    'com.ibm.drl.hbcp.core' : {
       'data' : {
         "url" : "//www.jstree.com/fiddle/?lazy",
         "data" : function (node) {
@@ -297,7 +297,7 @@ Sometimes you may not want jsTree to make AJAX calls for you - you might want to
 <script>
 $(function() {
   $('#container').jstree({
-    'core' : {
+    'com.ibm.drl.hbcp.core' : {
       'data' : function (node, cb) {
         if(node.id === "#") {
           cb([{"text" : "Root", "id" : "1", "children" : true}]);
@@ -328,7 +328,7 @@ Let's use the most basic event `changed` - it fires when selection on the tree c
 <script>
 $(function() {
   $('#container').jstree({
-    'core' : {
+    'com.ibm.drl.hbcp.core' : {
       'data' : [
         {"id" : 1, "text" : "Node 1"},
         {"id" : 2, "text" : "Node 2"},
@@ -374,7 +374,7 @@ We scratcched the surface on interacting with the tree in the previous example. 
 <script>
 $(function() {
   $('#container').jstree({
-    'core' : {
+    'com.ibm.drl.hbcp.core' : {
       'data' : [
         {"id" : 1, "text" : "Node 1"},
         {"id" : 2, "text" : "Node 2"},
@@ -410,8 +410,8 @@ We already covered the config object in general (when we specified inline & AJAX
 $("#tree").jstree({ /* config object goes here */ });
 ```
 
-Each key in the config object corresponds to a plugin, and the value of that key is the configuration for that plugin. There are also two special keys `"core"` and `"plugins"`:
- * `"core"` stores the core configuration options
+Each key in the config object corresponds to a plugin, and the value of that key is the configuration for that plugin. There are also two special keys `"com.ibm.drl.hbcp.core"` and `"plugins"`:
+ * `"com.ibm.drl.hbcp.core"` stores the com.ibm.drl.hbcp.core configuration options
  * `"plugins"` is an array of plugin names (strings) you want active on the instance
 
 When configuring you only need to set values that you want to be different from the defaults.
@@ -420,7 +420,7 @@ __All config options and defaults are documented in the API docs__
 
 ```js
 $("#tree").jstree({
-  "core" : { // core options go here
+  "com.ibm.drl.hbcp.core" : { // com.ibm.drl.hbcp.core options go here
     "multiple" : false, // no multiselection
     "themes" : {
       "dots" : false // no connecting dots between dots
@@ -438,7 +438,7 @@ __Keep in mind by default all modifications to the structure are prevented - tha
 
 ```js
 $("#tree").jstree({
-  "core" : {
+  "com.ibm.drl.hbcp.core" : {
     "check_callback" : true, // enable all modifications
   },
   "plugins" : ["dnd","contextmenu"]
@@ -447,11 +447,11 @@ $("#tree").jstree({
 
 [view result](http://jsfiddle.net/vakata/2kwkh2uL/9/)
 
-`"core.check_callback"` can also be set to a function, that will be invoked every time a modification is about to happen (or when jstree needs to check if a modification is possible). If you return `true` the operation will be allowed, a value of `false` means it will not be allowed.
+`"com.ibm.drl.hbcp.core.check_callback"` can also be set to a function, that will be invoked every time a modification is about to happen (or when jstree needs to check if a modification is possible). If you return `true` the operation will be allowed, a value of `false` means it will not be allowed.
 
 ```js
 $("#tree").jstree({
-  "core" : {
+  "com.ibm.drl.hbcp.core" : {
     "check_callback" : function (operation, node, parent, position, more) {
       if(operation === "copy_node" || operation === "move_node") {
         if(parent.id === "#") {
@@ -471,7 +471,7 @@ The `more` parameter you receive contains other information related to the check
 
 __For example__: `move_node` & `copy_node` checks will fire repeatedly while the user drags a node, if the check was triggered by the `dnd` plugin `more` will contain a `dnd` key, which will be set to `true`.
 You can check for `more.dnd` and only perform a certain action if `dnd` triggered the check.
-If you only want to perform an operation when a node is really about to be dropped check for `more.core`.
+If you only want to perform an operation when a node is really about to be dropped check for `more.com.ibm.drl.hbcp.core`.
 
 ## Plugins
 
@@ -495,7 +495,7 @@ Makes it possible to right click nodes and shows a list of configurable actions 
 
 ```js
 $("#tree").jstree({
-  "core" : { "check_callback" : true }, // so that modifying operations work
+  "com.ibm.drl.hbcp.core" : { "check_callback" : true }, // so that modifying operations work
   "plugins" : ["contextmenu"]
 });
 ```
@@ -507,7 +507,7 @@ Makes it possible to drag and drop tree nodes and rearrange the tree.
 
 ```js
 $("#tree").jstree({
-  "core" : { "check_callback" : true }, // so that operations work
+  "com.ibm.drl.hbcp.core" : { "check_callback" : true }, // so that operations work
   "plugins" : ["dnd"]
 });
 ```
@@ -519,7 +519,7 @@ Makes it possible to load multiple nodes in a single go (for a lazy loaded tree)
 
 ```js
 $("#tree").jstree({
-  "core" : {
+  "com.ibm.drl.hbcp.core" : {
     "data" : { .. AJAX config .. }
   },
   "massload" : {

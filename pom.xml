@@ -7,22 +7,30 @@
     <version>0.0.1-SNAPSHOT</version>
     <packaging>war</packaging>
 
-    <name>hbcpIE</name>
+    <name>hbcpIE_UCL</name>
 
     <properties>
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <maven.compiler.source>1.7</maven.compiler.source>
-        <maven.compiler.target>1.7</maven.compiler.target>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
     </properties>
-    
+
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>2.0.5.RELEASE</version>
+        <version>2.1.2.RELEASE</version>
+        <relativePath/> <!-- lookup parent from repository -->
     </parent>
     
     <dependencies>
+        <!-- https://mvnrepository.com/artifact/org.apache.httpcomponents/httpclient -->
+        <dependency>
+            <groupId>org.apache.httpcomponents</groupId>
+            <artifactId>httpclient</artifactId>
+            <version>4.5.6</version>
+        </dependency>        
+        
         <!--- start Spring -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
@@ -34,21 +42,27 @@
    		</exclusion>
  	</exclusions>
 
-        </dependency>        
+        </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
-	<exclusions>
-   		<exclusion>
-     			<groupId>org.springframework.boot</groupId>
-     			<artifactId>spring-boot-starter-logging</artifactId>
-   		</exclusion>
- 	</exclusions>
+            <!--exclusions>
+                <exclusion>
+                    <groupId>org.springframework.boot</groupId>
+                    <artifactId>spring-boot-starter-logging</artifactId>
+                </exclusion>
+            </exclusions-->
         </dependency>
+
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-web</artifactId>
+
         </dependency>
         <dependency>
             <groupId>com.jayway.jsonpath</groupId>
@@ -61,6 +75,16 @@
     	<groupId>org.codehaus.mojo</groupId>
     	<artifactId>exec-maven-plugin</artifactId>
     	<version>1.6.0</version>
+    	<exclusions>
+    		<exclusion>
+    			<groupId>org.slf4j</groupId>
+    			<artifactId>slf4j-nop</artifactId>
+    		</exclusion>
+    		<exclusion>
+    			<groupId>org.slf4j</groupId>
+    			<artifactId>slf4j-jdk14</artifactId>
+    		</exclusion>
+    	</exclusions>
 	</dependency>
 
         <dependency>
@@ -94,7 +118,13 @@
   		<artifactId>lucene-core</artifactId>
   		<version>5.3.1</version>
   	</dependency>
-  	<dependency>
+    <!-- https://mvnrepository.com/artifact/com.google.guava/guava -->
+    <dependency>
+        <groupId>com.google.guava</groupId>
+        <artifactId>guava</artifactId>
+        <version>27.1-jre</version>
+    </dependency>
+    <dependency>
   		<groupId>org.apache.lucene</groupId>
   		<artifactId>lucene-queryparser</artifactId>
   		<version>5.3.1</version>
@@ -120,10 +150,12 @@
   		<artifactId>jsoup</artifactId>
   		<version>1.10.2</version>
   	</dependency>
+        <!--
   	<dependency>
   		<groupId>org.slf4j</groupId>
-  		<artifactId>slf4j-api</artifactId>
+  		<artifactId>slf4j-com.ibm.drl.hbcp.api</artifactId>
   	</dependency>
+        -->
   	<dependency>
   		<groupId>org.apache.tika</groupId>
   		<artifactId>tika-app</artifactId>
@@ -215,10 +247,6 @@
         <artifactId>stanford-corenlp</artifactId>
         <version>3.9.1</version>
 </dependency>
-<!--dependency>
-        <groupId>org.springframework.boot</groupId>
-        <artifactId>spring-boot-starter-tomcat</artifactId>
-</dependency-->
 
 <dependency>
   <groupId>org.springframework.boot</groupId>
@@ -241,6 +269,8 @@
     </exclusion>
   </exclusions>
 </dependency>
+
+
     </dependencies>
     
     <build>
@@ -251,8 +281,8 @@
                 <artifactId>maven-compiler-plugin</artifactId>
                 <version>3.1</version>
                 <configuration>
-                    <source>1.7</source>
-                    <target>1.7</target>
+                    <source>1.8</source>
+                    <target>1.8</target>
                     <compilerArguments>
                         <endorseddirs>${endorsed.dir}</endorseddirs>
                     </compilerArguments>
@@ -282,7 +312,7 @@
                             <artifactItems>
                                 <artifactItem>
                                     <groupId>javax</groupId>
-                                    <artifactId>javaee-endorsed-api</artifactId>
+                                    <artifactId>javaee-endorsed-com.ibm.drl.hbcp.api</artifactId>
                                     <version>7.0</version>
                                     <type>jar</type>
                                 </artifactItem>
@@ -295,7 +325,7 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
             <!--configuration>
-            <mainClass>api.DocExtractInfo</mainClass>
+            <mainClass>com.ibm.drl.hbcp.api.DocExtractInfo</mainClass>
             <layout>ZIP</layout>
             </configuration>                
             <executions>
@@ -319,7 +349,16 @@
                         <goal>java</goal>
                     </goals>
                     <configuration>
-                        <mainClass>indexer.PaperIndexer</mainClass>
+                        <mainClass>com.ibm.drl.hbcp.inforetrieval.indexer.PaperIndexer</mainClass>
+                    </configuration>
+                </execution>
+                <execution>
+                    <id>cloudantexport</id>
+                    <goals>
+                        <goal>java</goal>
+                    </goals>
+                    <configuration>
+                        <mainClass>com.ibm.drl.hbcp.api.BatchJSONUploader</mainClass>
                     </configuration>
                 </execution>
                 <execution>
@@ -328,7 +367,52 @@
                         <goal>java</goal>
                     </goals>
                     <configuration>
-                        <mainClass>extractor.InformationExtractor</mainClass>
+                        <mainClass>com.ibm.drl.hbcp.extractor.InformationExtractor</mainClass>
+                    </configuration>
+                </execution>
+                <execution>
+                    <id>apindex</id>
+                    <goals>
+                        <goal>java</goal>
+                    </goals>
+                    <configuration>
+                        <mainClass>com.ibm.drl.hbcp.inforetrieval.apr.ParagraphIndexer</mainClass>
+                    </configuration>
+                </execution>
+                <execution>
+                    <id>apretrieve</id>
+                    <goals>
+                        <goal>java</goal>
+                    </goals>
+                    <configuration>
+                        <mainClass>com.ibm.drl.hbcp.inforetrieval.apr.Retriever</mainClass>
+                    </configuration>
+                </execution>
+                <execution>
+                    <id>prediction_graphbuild</id>
+                    <goals>
+                        <goal>java</goal>
+                    </goals>
+                    <configuration>
+                        <mainClass>com.ibm.drl.hbcp.predictor.graph.RelationGraphBuilder</mainClass>
+                    </configuration>
+                </execution>
+                <execution>
+                    <id>predict</id>
+                    <goals>
+                        <goal>java</goal>
+                    </goals>
+                    <configuration>
+                        <mainClass>com.ibm.drl.hbcp.predictor.EndToEndEvaluationPipeline</mainClass>
+                    </configuration>
+                </execution>
+                <execution>
+                    <id>getannotations</id>
+                    <goals>
+                        <goal>java</goal>
+                    </goals>
+                    <configuration>
+                        <mainClass>com.ibm.drl.hbcp.util.AttributeIdLookup</mainClass>
                     </configuration>
                 </execution>
             </executions>
@@ -339,8 +423,8 @@
         <artifactId>exec-maven-plugin</artifactId>
         <version>1.6.0</version>
         <configuration>
-		<mainClass>indexer.PaperIndexer</mainClass>
-		<mainClass>extractor.InformationExtractor</mainClass>
+		<mainClass>com.ibm.drl.hbcp.inforetrieval.indexer.PaperIndexer</mainClass>
+		<mainClass>com.ibm.drl.hbcp.extractor.InformationExtractor</mainClass>
 		<arguments>
 			<argument>-jar</argument>
 			<argument>target/</argument>
