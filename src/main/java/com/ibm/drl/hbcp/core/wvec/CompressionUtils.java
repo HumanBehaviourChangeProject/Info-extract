@@ -5,12 +5,13 @@
  */
 package com.ibm.drl.hbcp.core.wvec;
 
+import org.apache.lucene.util.BytesRef;
+
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;
 import java.io.InputStream;
 import java.util.zip.GZIPInputStream;
 import java.util.zip.GZIPOutputStream;
-import org.apache.lucene.util.BytesRef;
 
 /**
  * Provides compress/decompress capabilities for a String.

@@ -1,0 +1,910 @@
+{
+  "blocks": [
+    {
+      "type": "LINES",
+      "value": "In-practice management versus quitline referral for enhancing smoking cessation in general practice: a cluster randomized trial",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "In-practice management versus quitline referral for enhancing smoking cessation in general practice: a cluster randomized trial.Family Practice 2008; 25: 382-389. Background and objective. GPs are an important source of smoking cessation advice. This research examined whether a model encouraging GP referral of patients who smoke to a specialist service would be acceptable and effective for increased smoking cessation when compared with a model of in-practice management. Methods. The study design was cluster randomized controlled trial. Practices were randomized to one of two interventions, at a rate of 1:2: (i) standard in-practice GP management or (ii) referral to a quitline service. The main outcome measures were sustained abstinence of >1 month duration at 3-month follow-up and >10 months duration at 12 months, using intention to treat analysis. Results. At 3-month follow-up, patients in the referral condition were twice as likely to report sustained abstinence than those in the in-practice condition [12.3% compared with 6.9%; odds ratio (OR) = 1.92 (95% confidence interval (CI) 1.17-3.13]. At 12-month follow-up, patients in the referral condition had nearly three times the odds of sustained abstinence [6.5% compared with 2.6%; OR = 2.86 (95% CI 0.94-8.71)]. The intervention effect was mediated by the amount of help received outside the practice. Conclusions. This research provided evidence that GPs referring smokers to an evidence-based quitline service results in increased cessation. The benefit is largely due to patients in the referral condition receiving more external help than patients in the in-practice condition, as they received equivalent practice-based help. Where suitable services exist, we recommend that referral become the normative strategy for management of smoking cessation in general practice to complement any practice-based help provided.",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "GPs have a responsibility to indicate the harms associated with smoking to their patients who smoke, and where possible to encourage and support them to quit.\nBrief counselling (as little as 3 minutes duration) from a GP can substantially increase quit rates, with effectiveness increasing at higher levels of intensity. The major effect is to help motivate a quit attempt. Nonetheless, GP engagement in helping patients to quit remains limited. Systemic barriers that continue to inhibit the routine delivery of cessation counselling include perceived lack of effect, reluctance to raise the issue due to patient sensitivity about smoking, lack of time and inadequate training. In Australia, two pharmacotherapies for smoking cessation (bupropion and varenicline) are available only on prescription, but not routinely prescribed to patients who smoke. Both are eligible for reimbursement via the Pharmaceutical Benefits Scheme, meaning a complete course can be purchased for around AUD$60 (around 40 Euro).\nTo promote physician involvement, several countries, including Australia, have developed evidence-based clinical guidelines for the treatment of tobacco dependence in general practice. An important innovation in the Australian guidelines 3 is the offer of two evidencebased strategies for providing cessation assistance: within the consultation and/or referral to specialist cessation services. In Australia, the main available service is the network of state-based quitlines that provide callback counselling and other forms of cessation support.\nGPs can either encourage their smoking patients to contact the quitline service directly or can use fax referral forms that prompt a phone call to their patients from a trained quitline advisor. For referrals, the quitline calls the smoker and discusses options for assistance, which allows callers to be directed to or offered the most appropriate form of support. Currently, it is not known whether encouraging referral (to quitline) will result in improved outcomes. In this research, we focussed on two services from the range provided by the Victorian Quitline: callback counselling and the QuitCoach, an internet-delivered, automated personalized advice programme. Both callback counselling in general and the Victorian service are demonstrably effective. Similarly, telehealth strategies can be effective, with the QuitCoach being one example. 11 These services have a number of advantages over face-to-face cessation counselling, namely convenience, accessibility and making multiple contacts easier 7 ; however, this does not guarantee that the contacts will occur. This is a study of the effectiveness of two management strategies, not a study of the effectiveness of the interventions used per se. The objectives of the study were as follows:\n(i) To investigate the relative effectiveness of inpractice GP management versus referral for increasing smoking cessation and (ii) To determine whether any benefits of one approach over the other was a function of the amount of assistance provided to the patient.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Study design A two-group cluster randomized controlled trial with GPs randomized on a ratio of 1:2 to in-practice management or referral to the quitline service to maximize capacity to explore effects of use of Quitline's different services. GPs were randomized by computer prior to their attendance at an education session during which they consented to participate in the study, completed a baseline survey, were informed of the condition to which they had been assigned and received training in either referral or in-practice management depending on their allocation.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Between September 2004 and December 2005, 45 primary care physicians (30 referral, 15 in-practice) recruited an average of 23.1 patients (SD 12.6, range 3-52, equivalent by condition: P = 0.79). GP recruitment was undertaken using a range of strategies, described in resulting in a diverse sample. Of note, 69 GP practices were initially randomized but 24 failed to recruit (13 referral, 11 inpractice). Patients who presented for any reason who were current smokers (age > 18 years), spoke English and were able to provide informed consent were eligible for recruitment. GPs, or preferably, their practice staff, were asked to recruit all eligible patients and record both refusals and failures to invite. Practices were paid $20 per recruited patient and GPs received Quality Assurance and Continuing Professional Development (QA&CPD) points for participating. Additional QA&CPD points were available if GPs concurrently audited their smoking cessation activities. Overall, 1039 smokers were recruited: 728 (70.1%) to the referral condition and 311 (29.9%) to the in-practice condition. This was less than the target sample size of 1520 from 45 GPs based on an effect size of 5% over a baseline of 5% sustained abstinence with an intracluster correlation coefficient of 0.013. Difficulties in recruiting and motivating GPs, 12 resulting in increased costs, required premature termination of recruitment.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Outcome measures. The primary outcomes were sustained abstinence, defined as abstinence at the point of follow-up of >1 month at 3-month follow-up and >10 months at 12 months. The secondary outcomes were 24-hour point prevalence abstinence at both end points. Three sets of analyses were conducted: (i) using only empirically established outcomes, regardless of uptake of intervention (intention to treat); (ii) imputing 3-month outcome where possible from 12-month data; and (iii) a conservative analysis, in which all missing cases were coded as treatment failures (i.e. smokers). Reviews confirm the accuracy of self-report measures and conclude that biochemical validation of smoking status is unnecessary in trials where there is no strong association between the interviewer and respondent. Process measures. External behavioural help was defined as having received callback counselling or used the QuitCoach at least once, or attended a face-to-face cessation programme, by 3-month follow-up. In addition, we computed a measure of combined behavioural help/pharmacotherapy use (intensive assistance). Participants were coded as having received intensive assistance if they had accessed a quitline service, used pharmacotherapy, or both, in the first 3 months postrecruitment.\nData analysis. Statistical analyses were performed with Stata, controlling for practice as a clustering variable. An alpha level of 0.05 was used for all statistical Family Practice-an international journal tests. In order to take into account the correlated nature of the data and repeated measures overtime, generalized estimating equations were used fora final analysis of outcomes. We assumed an exchangeable correlation structure. Robust (or empirical) variance was used to compute the P-values for the parameter estimates. Mediated regression analyses were also conducted to explore the possible mechanism of the treatment effect. The primary analyses used intention to treat, but we conducted subsidiary analyses using a conservative analysis of all cases with those missing outcome data assumed to be smoking.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Participant recruitment was conducted by the GP in 28 practices (62%), in 12 (27%) by a combination of GP and practice staff and in 5 (11%) by practice staff only. This deviated from the original protocol. Method of patient recruitment did not differ by condition (P = 0.79). Those conducting recruitment were instructed to ask all patients who smoke whether they would be interested in participating. Patients read and signed a consent form and completed a one-page baseline questionnaire. They were informed that their decision to participate or not would have no implications for care provided by their GP. GPs were not blind to treatment condition. Participating patients consented to participate in the research; acceptance of any intervention was treated entirely as a clinical issue.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "In both treatment conditions, GPs were instructed to adhere to standard expectations of care outlined in the National Guidelines, including a brief assessment of readiness to quit and, if relevant, to deal with use of pharmacotherapy. At this point, the expected interventions diverged.\nGPs allocated to the in-practice management condition were encouraged to provide smokers with additional information and help to stop smoking, either personally or through other practice staff. They were not precluded from recommending external assistance or indeed from referring patients to the quitline, if this was their clinical preference.\nIn the referral condition, GPs were encouraged to offer smokers with any interest in quitting referral to the Victorian Quitline. Patients who consented had their referral faxed to the quitline and were provided with a brochure on quitline services. The patient then received an introductory call from the quitline, generally within 2-3 days. Those unable to be reached by telephone were sent a brief letter notifying them of the failure and inviting them to call. When contact was made, the quitline advisor determined the patient's interest in discussing their smoking, discussed treatment options and encouraged the smoker to choose the most appropriate service for them. Decisions not to accept a service were respected.\nThe callback service offers up to two pre-quitting and four post-quitting telephone counselling sessions delivered by trained smoking cessation counsellors. Callbacks are scheduled in consultation with the client, but typically follow the relapse-sensitive schedule recommended by Zhu et al. The QuitCoach is an internet-delivered, interactive, multisession automated advice programme. Users complete a brief smoking assessment in order to obtain tailored cessation advice, and reassessments are encouraged through email prompts. It is designed to be used on multiple occasions, guiding the user through the process of smoking cessation. The QuitCoach is described in greater detail in Balmford, Borland and Benda. Both of the quitline services provided email feedback to GPs on patients' acceptance and use of services and on their quitting outcomes to facilitate ongoing patient management.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "There were no significant differences in demographic or practice-related variables between GPs allocated to the referral and in-practice conditions.\nOverall, 55.3% of participants were female and the average age was 40.7 years (SD 13.7). presents the baseline demographic and smoking characteristics of the patient sample by condition. No significant differences were observed.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "At 3 months, data were obtained from 74.1% (n = 771) of patients: 547 (75.1%) in the referral condition and 224 (72%) in the in-practice condition. A retention rate of 66.3% (n = 690) was achieved at 12-month follow-up: 495 (67.2%) in the referral and 195 (61.9%) in the in-practice condition. Attrition did not differ by condition at either 3-or 12-month follow-up (P = 0.51 and P = 0.28, respectively).\nThree-month outcomes were imputed (blind to condition) from the 12-month surveys of 79 cases. Those who reported having been quit fora sustained period of 9 months or more were imputed to have been point prevalence quit at 3 months, else they were imputed to have been smoking. Including the imputed cases, the 3-month sample was 850 (81.7% of the original sample). The retention rate in the increased sample did not differ by condition (P = 0.29). illustrates the flow of patients through the study.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Participants in the in-practice condition were no more likely than those in the referral condition to recall having received in-practice cessation assistance (see). A marginally greater proportion of participants in the referral condition rated the advice provided by their GP as 'very helpful' compared with in-practice participants (54.1% and 43.8%, respectively, P = 0.10).\nJust under half of all patients (47.5%, n = 366) reported having been referred to the quitline. All but 11 of these were in the referral condition (i.e. 78.1% of this group). Most referred patients (76.8%, n = 281) were able to be contacted by the quitline, and of those contacted, almost three-quarters (73.5%, n = 206) accepted an intensive service.\nAs can be seen in, 25.3% (n = 195) of participants reported receiving external behavioural help, mainly the callback counselling. As expected, participants in the referral condition were more likely to receive external behavioural help (P < 0.01). At 3-month follow-up, 24% overall (n = 185) reported having used some form of pharmacotherapy. Use of pharmacotherapy did not differ significantly by condition (P = 0.23). Among those using pharmacotherapy, the nicotine patch (60%) was the most frequently used type, followed by bupropion (23.2%). also shows that patients in the referral condition were significantly more likely to report having received any form of cessation assistance from outside the practice.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "At 3-month follow-up, 50.7% (n = 391) reported having made a quit attempt since baseline, more in the referral condition (53%) than in the in-practice condition (46%, P = 0.07). shows outcome data by condition at the 3-and 12-month follow-up (controlling forage, gender and baseline nicotine dependence). The unadjusted results were similar although the effects were slightly weaker. At 3 months, patients in the referral condition were approximately twice as likely to have achieved point prevalence as those in the in-practice condition. Using the conservative analysis (with missing data coded as smokers), a similar pattern of results was found. Removing the cases with imputed data also did not change this pattern.\nSimilar results were found at both follow-up points for sustained abstinence (see); however, the 12-month result was not significant (just failed to reach significance) for the intention to treat analysis, but was in the all-cases analysis. The pattern of results was similar before adjusting for the covariates.\nGiven the marginal significance of the intervention on sustained cessation at 12 months, we conducted multilevel mixed-effects logistic regression to explore whether there was any evidence of a significant interaction between follow-up period and outcome. Ina regression model including the same covariates as above, the main effect of the intervention was significant (P = 0.02), demonstrating sustained benefit of the referral model. The time effect was also significant, indicating the reduced percentages remaining quit overtime. The interaction between condition and time (3 months, 12 months) was not significant (P = 0.57), demonstrating that the effect size did not differ significantly.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Among those who made a quit attempt by 3-month follow-up, 38% (n = 147) had used pharmacotherapy and 30% (n = 119) had received external behavioural help. Patients who had received external behavioural help were more likely to have achieved both point prevalence and sustained abstinence at 3 and 12 months than those who had not (all P < 0.05). Those who used the QuitCoach were numerically more likely to be quit at both follow-ups than those using the callback service, but there were insufficient cases in the former to assess this statistically. Use of intensive assistance (i.e. external behavioural help and/or pharmacotherapy) was also significantly related to making a quit attempt and abstinence at 3-month follow-up (both P < 0.01) and sustained abstinence at 12 months (P < 0.001).\nUse of intensive assistance was examined as a mediator of the relationship between treatment condition and sustained abstinence at 12 months. The requirements for showing mediation were successfully met: treatment condition was significantly correlated with cessation outcomes and the potential mediator and intensive assistance was significantly related to outcomes when the effect of condition on outcome was controlled. Sobel-Goodman tests of mediation confirmed that after controlling for use of intensive assistance, the relationship between treatment condition and sustained abstinence at 12 months was no longer significant (P = 0.45), with 58% of the treatment condition effect mediated.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "This research found that a system of encouraging GPs to refer smokers to an evidence-based cessation service resulted in cessation rates two to three times that of encouraging GPs to provide in-practice management. The effect was due to the smokers getting extra help to quit from outside the practice, while getting the same amount of help from within it. The benefit seems to be due to a combination of the extra help increasing both the number and success of quit attempts. The beneficial effect on quitting in the referral condition was sustained overtime. The findings add to the growing body of evidence that health professional referral of patients who smoke to evidence-based Quit services is effective and acceptable to smokers. Readers need to remember that this is atrial of two systems of help provision, not of the efficacy of either kind. The quit rates are lower in this study than among those where acceptance of the selected intervention is a prerequisite for randomization. Most of the smokers in both arms did not receive intensive cessation assistance.  Defined as having used callback service, QuitCoach or a quit course. There was some overlap; nine participants used more than one type of out-of-practice help (seven referral, two in-practice).\nBecause GPs were not compliant in keeping records on how many presenting smokers they did not recruit into the study, we are unable to be certain to what extent bias occurred. We acknowledge that because GPs carried out much of the participant recruitment, bias may have occurred in terms of their perceptions of their patients' interest in quitting. The most likely effect is that GPs in the in-practice condition would be less likely than those in the referral condition to recruit smokers low in perceived interest, as the GPs would have had less expectation that they would be able to effectively intervene. If so, the in-practice group may have been a more motivated sample, resulting in reduced capacity to find an effect. We see no other potential bias.\nConsistent with our expectations, levels of external help were higher in the referral condition than in the in-practice condition. The additional external help was mainly more cognitive-behavioural assistance, as rates of use of pharmacotherapies were similar. Higher levels of external help mediated most of the increased cessation. The effect of treatment on outcomes was mediated by the amount of help patients received beyond that provided by their GP. We thus conclude that more smokers quit in the referral than in the in-practice condition because they received more external help, while getting the same amount of practice-based help.\nActive referral of smokers to the quitline service appeared acceptable to both GPs and the majority of their patients. A higher than anticipated number of referrals to the quitline occurred, and almost three-quarters of those contacted by the quitline accepted an intensive service. It was anticipated that around one-half of all patients in the referral arm would be referred, and that half of these would accept callback counselling, inline with Victorian Quitline estimates. A notable finding was that the option of referral did not result in GPs providing less effective smoking cessation counselling within the consultation. This finding is important as it demonstrates that, at least in this case, referral was not compromising the quality of assistance provided within the practice. The sample of GPs almost certainly had a more than average interest in the issue of smoking. It was difficult recruiting GPs for this research and some of this stemmed from a reluctance to commit to extensive in-practice management. It is likely that GPs who did not participate in our research were overall less interested in providing smoking cessation assistance than those recruited. Therefore, the levels of in-practice management achieved are likely to be overestimates of what is actually occurring. Referral provides a concrete outcome to a brief motivational intervention directed at encouraging quitting. Referral to effective help should be the preferred option for general practice, except perhaps where practices are prepared to invest in systematic cessation services. In this regard, it is also likely that rates of referral we obtained are unlikely to be replicated in routine practice.\nThe callback counselling service was chosen by afar greater proportion of referred patients than the QuitCoach. It was expected that as patients referred by their GP may have been less motivated to quit than typical users of quitline services (i.e. those who proactively contact the service), they may have preferred the anonymity and lower intensity of the QuitCoach. However, in the context of an active referral by a GP, a personal service appears to be more acceptable than an automated, internet-based service. Perhaps having accepted an initial call from the quitline and becoming comfortable with the idea of talking to a counsellor about smoking cessation, any fears about the callback service were allayed. GP referral may thus bean effective means of reducing smoker reluctance to use the quitline, reasons for which include alack of understanding about what the service offers. It is also notable that the absolute size of the difference in cessation rates for the point prevalence estimates was greater than for the corresponding sustained cessation effects, suggesting that those in the referral condition were continuing to make quit attempts throughout the follow-up period. This is evidence that referral (and the accompanying assistance) did not achieve its effect by bringing quit attempts forward that would otherwise have happened, but has had a sustained effect on cessation.\nIn conclusion, this research shows that an active referral strategy results in smokers getting more assistance to quit, and as such supports the view that referral to an evidence-based cessation service should become the normative strategy for management of smoking cessation in general practice. It also shows that a telephone quitline service is an appropriate vehicle for referral. Health authorities need to develop programs to encourage GPs to refer to quitlines, and in cases where they are provided free or subsidized to smokers, ensure that sufficient resources are allocated to enable counselling for all those who want it.\nby RB, JB and NB and other authors provided input, comments and additional text on various drafts. All authors have approved the final version.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Funding: National Health and Medical Research Council (284346). Ethical approval: This project was approved by the appropriate institutional ethics committees at The University of Melbourne, The Cancer Council Victoria and Monash University. Conflicts of interest: RB, JB and NB are employees of The Cancer Council Victoria that runs the quitline service used in this study. None are involved in day today operations of the service.\n",
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "12.3%",
+          "rowHeaders": [
+            "One-month sustained abstinence"
+          ],
+          "columnHeaders": [
+            "Adjusted outcome data at 3- and 12-month follow-up by condition",
+            "Referral"
+          ]
+        },
+        {
+          "value": "6.9%",
+          "rowHeaders": [
+            "One-month sustained abstinence"
+          ],
+          "columnHeaders": [
+            "Adjusted outcome data at 3- and 12-month follow-up by condition",
+            "In-practice"
+          ]
+        },
+        {
+          "value": "<0.01",
+          "rowHeaders": [
+            "One-month sustained abstinence"
+          ],
+          "columnHeaders": [
+            "Adjusted outcome data at 3- and 12-month follow-up by condition",
+            "Adjusted P"
+          ]
+        },
+        {
+          "value": "1.92 (1.17-3.13)",
+          "rowHeaders": [
+            "One-month sustained abstinence"
+          ],
+          "columnHeaders": [
+            "Adjusted outcome data at 3- and 12-month follow-up by condition",
+            "Adjusted OR (95% CI)"
+          ]
+        },
+        {
+          "value": "16.2%",
+          "rowHeaders": [
+            "Point prevalence"
+          ],
+          "columnHeaders": [
+            "Adjusted outcome data at 3- and 12-month follow-up by condition",
+            "Referral"
+          ]
+        },
+        {
+          "value": "9.8%",
+          "rowHeaders": [
+            "Point prevalence"
+          ],
+          "columnHeaders": [
+            "Adjusted outcome data at 3- and 12-month follow-up by condition",
+            "In-practice"
+          ]
+        },
+        {
+          "value": "<0.01",
+          "rowHeaders": [
+            "Point prevalence"
+          ],
+          "columnHeaders": [
+            "Adjusted outcome data at 3- and 12-month follow-up by condition",
+            "Adjusted P"
+          ]
+        },
+        {
+          "value": "1.84 (1.17-2.88)",
+          "rowHeaders": [
+            "Point prevalence"
+          ],
+          "columnHeaders": [
+            "Adjusted outcome data at 3- and 12-month follow-up by condition",
+            "Adjusted OR (95% CI)"
+          ]
+        },
+        {
+          "value": "10.2%",
+          "rowHeaders": [
+            "One-month sustained abstinence"
+          ],
+          "columnHeaders": [
+            "Adjusted outcome data at 3- and 12-month follow-up by condition",
+            "Referral"
+          ]
+        },
+        {
+          "value": "5.5%",
+          "rowHeaders": [
+            "One-month sustained abstinence"
+          ],
+          "columnHeaders": [
+            "Adjusted outcome data at 3- and 12-month follow-up by condition",
+            "In-practice"
+          ]
+        },
+        {
+          "value": "<0.01",
+          "rowHeaders": [
+            "One-month sustained abstinence"
+          ],
+          "columnHeaders": [
+            "Adjusted outcome data at 3- and 12-month follow-up by condition",
+            "Adjusted P"
+          ]
+        },
+        {
+          "value": "2.02 (1.22-3.33)",
+          "rowHeaders": [
+            "One-month sustained abstinence"
+          ],
+          "columnHeaders": [
+            "Adjusted outcome data at 3- and 12-month follow-up by condition",
+            "Adjusted OR (95% CI)"
+          ]
+        },
+        {
+          "value": "13.5%",
+          "rowHeaders": [
+            "Point prevalence"
+          ],
+          "columnHeaders": [
+            "Adjusted outcome data at 3- and 12-month follow-up by condition",
+            "Referral"
+          ]
+        },
+        {
+          "value": "7.7%",
+          "rowHeaders": [
+            "Point prevalence"
+          ],
+          "columnHeaders": [
+            "Adjusted outcome data at 3- and 12-month follow-up by condition",
+            "In-practice"
+          ]
+        },
+        {
+          "value": "<0.01",
+          "rowHeaders": [
+            "Point prevalence"
+          ],
+          "columnHeaders": [
+            "Adjusted outcome data at 3- and 12-month follow-up by condition",
+            "Adjusted P"
+          ]
+        },
+        {
+          "value": "1.91 (1.20-3.02)",
+          "rowHeaders": [
+            "Point prevalence"
+          ],
+          "columnHeaders": [
+            "Adjusted outcome data at 3- and 12-month follow-up by condition",
+            "Adjusted OR (95% CI)"
+          ]
+        },
+        {
+          "value": "6.5%",
+          "rowHeaders": [
+            "Ten-month sustained abstinence"
+          ],
+          "columnHeaders": [
+            "Adjusted outcome data at 3- and 12-month follow-up by condition",
+            "Referral",
+            "(n = 690)"
+          ]
+        },
+        {
+          "value": "2.6%",
+          "rowHeaders": [
+            "Ten-month sustained abstinence"
+          ],
+          "columnHeaders": [
+            "Adjusted outcome data at 3- and 12-month follow-up by condition",
+            "In-practice",
+            "(n = 690)"
+          ]
+        },
+        {
+          "value": "0.06",
+          "rowHeaders": [
+            "Ten-month sustained abstinence"
+          ],
+          "columnHeaders": [
+            "Adjusted outcome data at 3- and 12-month follow-up by condition",
+            "Adjusted P",
+            "(n = 690)"
+          ]
+        },
+        {
+          "value": "2.86 (0.94-8.71)",
+          "rowHeaders": [
+            "Ten-month sustained abstinence"
+          ],
+          "columnHeaders": [
+            "Adjusted outcome data at 3- and 12-month follow-up by condition",
+            "Adjusted OR (95% CI)",
+            "(n = 690)"
+          ]
+        },
+        {
+          "value": "22.6%",
+          "rowHeaders": [
+            "Point prevalence"
+          ],
+          "columnHeaders": [
+            "Adjusted outcome data at 3- and 12-month follow-up by condition",
+            "Referral",
+            "(n = 690)"
+          ]
+        },
+        {
+          "value": "14.4%",
+          "rowHeaders": [
+            "Point prevalence"
+          ],
+          "columnHeaders": [
+            "Adjusted outcome data at 3- and 12-month follow-up by condition",
+            "In-practice",
+            "(n = 690)"
+          ]
+        },
+        {
+          "value": "0.01",
+          "rowHeaders": [
+            "Point prevalence"
+          ],
+          "columnHeaders": [
+            "Adjusted outcome data at 3- and 12-month follow-up by condition",
+            "Adjusted P",
+            "(n = 690)"
+          ]
+        },
+        {
+          "value": "1.93 (1.16-3.21)",
+          "rowHeaders": [
+            "Point prevalence"
+          ],
+          "columnHeaders": [
+            "Adjusted outcome data at 3- and 12-month follow-up by condition",
+            "Adjusted OR (95% CI)",
+            "(n = 690)"
+          ]
+        },
+        {
+          "value": "4.4%",
+          "rowHeaders": [
+            "Ten-month sustained abstinence"
+          ],
+          "columnHeaders": [
+            "Adjusted outcome data at 3- and 12-month follow-up by condition",
+            "Referral",
+            "(n = 690)",
+            "(n = 1039)"
+          ]
+        },
+        {
+          "value": "1.6%",
+          "rowHeaders": [
+            "Ten-month sustained abstinence"
+          ],
+          "columnHeaders": [
+            "Adjusted outcome data at 3- and 12-month follow-up by condition",
+            "In-practice",
+            "(n = 690)",
+            "(n = 1039)"
+          ]
+        },
+        {
+          "value": "0.05",
+          "rowHeaders": [
+            "Ten-month sustained abstinence"
+          ],
+          "columnHeaders": [
+            "Adjusted outcome data at 3- and 12-month follow-up by condition",
+            "Adjusted P",
+            "(n = 690)",
+            "(n = 1039)"
+          ]
+        },
+        {
+          "value": "3.08 (1.02-9.28)",
+          "rowHeaders": [
+            "Ten-month sustained abstinence"
+          ],
+          "columnHeaders": [
+            "Adjusted outcome data at 3- and 12-month follow-up by condition",
+            "Adjusted OR (95% CI)",
+            "(n = 690)",
+            "(n = 1039)"
+          ]
+        },
+        {
+          "value": "15.4%",
+          "rowHeaders": [
+            "Point prevalence"
+          ],
+          "columnHeaders": [
+            "Adjusted outcome data at 3- and 12-month follow-up by condition",
+            "Referral",
+            "(n = 690)",
+            "(n = 1039)"
+          ]
+        },
+        {
+          "value": "9.0%",
+          "rowHeaders": [
+            "Point prevalence"
+          ],
+          "columnHeaders": [
+            "Adjusted outcome data at 3- and 12-month follow-up by condition",
+            "In-practice",
+            "(n = 690)",
+            "(n = 1039)"
+          ]
+        },
+        {
+          "value": "<0.01",
+          "rowHeaders": [
+            "Point prevalence"
+          ],
+          "columnHeaders": [
+            "Adjusted outcome data at 3- and 12-month follow-up by condition",
+            "Adjusted P",
+            "(n = 690)",
+            "(n = 1039)"
+          ]
+        },
+        {
+          "value": "2.05 (1.24-3.42)",
+          "rowHeaders": [
+            "Point prevalence"
+          ],
+          "columnHeaders": [
+            "Adjusted outcome data at 3- and 12-month follow-up by condition",
+            "Adjusted OR (95% CI)",
+            "(n = 690)",
+            "(n = 1039)"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "67.3%",
+          "rowHeaders": [
+            "In-practice help",
+            "Intensive behavioural only"
+          ],
+          "columnHeaders": [
+            "Receipt of in-practice and out-of-practice quit assistance by",
+            "Treatment condition",
+            "Referral",
+            "(n = 547)"
+          ]
+        },
+        {
+          "value": "65.2%",
+          "rowHeaders": [
+            "In-practice help",
+            "Intensive behavioural only"
+          ],
+          "columnHeaders": [
+            "Receipt of in-practice and out-of-practice quit assistance by",
+            "Treatment condition",
+            "In-practice",
+            "(n = 224)"
+          ]
+        },
+        {
+          "value": "66.7%",
+          "rowHeaders": [
+            "In-practice help",
+            "Intensive behavioural only"
+          ],
+          "columnHeaders": [
+            "Receipt of in-practice and out-of-practice quit assistance by",
+            "Treatment condition",
+            "Total",
+            "(n = 771)"
+          ]
+        },
+        {
+          "value": "0.73",
+          "rowHeaders": [
+            "In-practice help",
+            "Intensive behavioural only"
+          ],
+          "columnHeaders": [
+            "Receipt of in-practice and out-of-practice quit assistance by",
+            "Treatment condition",
+            "P",
+            "(n = 771)"
+          ]
+        },
+        {
+          "value": "34.6%",
+          "rowHeaders": [
+            "Out-of-practice help",
+            "Intensive behavioural only"
+          ],
+          "columnHeaders": [
+            "Receipt of in-practice and out-of-practice quit assistance by",
+            "Treatment condition",
+            "Referral",
+            "(n = 547)"
+          ]
+        },
+        {
+          "value": "2.7%",
+          "rowHeaders": [
+            "Out-of-practice help",
+            "Intensive behavioural only"
+          ],
+          "columnHeaders": [
+            "Receipt of in-practice and out-of-practice quit assistance by",
+            "Treatment condition",
+            "In-practice",
+            "(n = 224)"
+          ]
+        },
+        {
+          "value": "25.3%",
+          "rowHeaders": [
+            "Out-of-practice help",
+            "Intensive behavioural only"
+          ],
+          "columnHeaders": [
+            "Receipt of in-practice and out-of-practice quit assistance by",
+            "Treatment condition",
+            "Total",
+            "(n = 771)"
+          ]
+        },
+        {
+          "value": "<0.01",
+          "rowHeaders": [
+            "Out-of-practice help",
+            "Intensive behavioural only"
+          ],
+          "columnHeaders": [
+            "Receipt of in-practice and out-of-practice quit assistance by",
+            "Treatment condition",
+            "P",
+            "(n = 771)"
+          ]
+        },
+        {
+          "value": "30.5%",
+          "rowHeaders": [
+            "Intensive behavioural only"
+          ],
+          "columnHeaders": [
+            "Receipt of in-practice and out-of-practice quit assistance by",
+            "Treatment condition",
+            "Referral",
+            "(n = 547)"
+          ]
+        },
+        {
+          "value": "2.2%",
+          "rowHeaders": [
+            "Intensive behavioural only"
+          ],
+          "columnHeaders": [
+            "Receipt of in-practice and out-of-practice quit assistance by",
+            "Treatment condition",
+            "In-practice",
+            "(n = 224)"
+          ]
+        },
+        {
+          "value": "22.3%",
+          "rowHeaders": [
+            "Intensive behavioural only"
+          ],
+          "columnHeaders": [
+            "Receipt of in-practice and out-of-practice quit assistance by",
+            "Treatment condition",
+            "Total",
+            "(n = 771)"
+          ]
+        },
+        {
+          "value": "<0.01",
+          "rowHeaders": [
+            "Intensive behavioural only"
+          ],
+          "columnHeaders": [
+            "Receipt of in-practice and out-of-practice quit assistance by",
+            "Treatment condition",
+            "P",
+            "(n = 771)"
+          ]
+        },
+        {
+          "value": "4.4%",
+          "rowHeaders": [
+            "Intensive behavioural only"
+          ],
+          "columnHeaders": [
+            "Receipt of in-practice and out-of-practice quit assistance by",
+            "Treatment condition",
+            "Referral",
+            "(n = 547)"
+          ]
+        },
+        {
+          "value": "0.5%",
+          "rowHeaders": [
+            "Intensive behavioural only"
+          ],
+          "columnHeaders": [
+            "Receipt of in-practice and out-of-practice quit assistance by",
+            "Treatment condition",
+            "In-practice",
+            "(n = 224)"
+          ]
+        },
+        {
+          "value": "3.2%",
+          "rowHeaders": [
+            "Intensive behavioural only"
+          ],
+          "columnHeaders": [
+            "Receipt of in-practice and out-of-practice quit assistance by",
+            "Treatment condition",
+            "Total",
+            "(n = 771)"
+          ]
+        },
+        {
+          "value": "<0.01",
+          "rowHeaders": [
+            "Intensive behavioural only"
+          ],
+          "columnHeaders": [
+            "Receipt of in-practice and out-of-practice quit assistance by",
+            "Treatment condition",
+            "P",
+            "(n = 771)"
+          ]
+        },
+        {
+          "value": "0.9%",
+          "rowHeaders": [
+            "Intensive behavioural only"
+          ],
+          "columnHeaders": [
+            "Receipt of in-practice and out-of-practice quit assistance by",
+            "Treatment condition",
+            "Referral",
+            "(n = 547)"
+          ]
+        },
+        {
+          "value": "0.9%",
+          "rowHeaders": [
+            "Intensive behavioural only"
+          ],
+          "columnHeaders": [
+            "Receipt of in-practice and out-of-practice quit assistance by",
+            "Treatment condition",
+            "In-practice",
+            "(n = 224)"
+          ]
+        },
+        {
+          "value": "0.9%",
+          "rowHeaders": [
+            "Intensive behavioural only"
+          ],
+          "columnHeaders": [
+            "Receipt of in-practice and out-of-practice quit assistance by",
+            "Treatment condition",
+            "Total",
+            "(n = 771)"
+          ]
+        },
+        {
+          "value": "0.98",
+          "rowHeaders": [
+            "Intensive behavioural only"
+          ],
+          "columnHeaders": [
+            "Receipt of in-practice and out-of-practice quit assistance by",
+            "Treatment condition",
+            "P",
+            "(n = 771)"
+          ]
+        },
+        {
+          "value": "26.1%",
+          "rowHeaders": [
+            "Used pharmacotherapy",
+            "Intensive behavioural only"
+          ],
+          "columnHeaders": [
+            "Receipt of in-practice and out-of-practice quit assistance by",
+            "Treatment condition",
+            "Referral",
+            "(n = 547)"
+          ]
+        },
+        {
+          "value": "18.8%",
+          "rowHeaders": [
+            "Used pharmacotherapy",
+            "Intensive behavioural only"
+          ],
+          "columnHeaders": [
+            "Receipt of in-practice and out-of-practice quit assistance by",
+            "Treatment condition",
+            "In-practice",
+            "(n = 224)"
+          ]
+        },
+        {
+          "value": "24.0%",
+          "rowHeaders": [
+            "Used pharmacotherapy",
+            "Intensive behavioural only"
+          ],
+          "columnHeaders": [
+            "Receipt of in-practice and out-of-practice quit assistance by",
+            "Treatment condition",
+            "Total",
+            "(n = 771)"
+          ]
+        },
+        {
+          "value": "0.23",
+          "rowHeaders": [
+            "Used pharmacotherapy",
+            "Intensive behavioural only"
+          ],
+          "columnHeaders": [
+            "Receipt of in-practice and out-of-practice quit assistance by",
+            "Treatment condition",
+            "P",
+            "(n = 771)"
+          ]
+        },
+        {
+          "value": "22.9%",
+          "rowHeaders": [
+            "Used pharmacotherapy",
+            "Intensive behavioural only"
+          ],
+          "columnHeaders": [
+            "Receipt of in-practice and out-of-practice quit assistance by",
+            "Treatment condition",
+            "Referral",
+            "(n = 547)"
+          ]
+        },
+        {
+          "value": "1.3%",
+          "rowHeaders": [
+            "Used pharmacotherapy",
+            "Intensive behavioural only"
+          ],
+          "columnHeaders": [
+            "Receipt of in-practice and out-of-practice quit assistance by",
+            "Treatment condition",
+            "In-practice",
+            "(n = 224)"
+          ]
+        },
+        {
+          "value": "16.6%",
+          "rowHeaders": [
+            "Used pharmacotherapy",
+            "Intensive behavioural only"
+          ],
+          "columnHeaders": [
+            "Receipt of in-practice and out-of-practice quit assistance by",
+            "Treatment condition",
+            "Total",
+            "(n = 771)"
+          ]
+        },
+        {
+          "value": "<0.01",
+          "rowHeaders": [
+            "Used pharmacotherapy",
+            "Intensive behavioural only"
+          ],
+          "columnHeaders": [
+            "Receipt of in-practice and out-of-practice quit assistance by",
+            "Treatment condition",
+            "P",
+            "(n = 771)"
+          ]
+        },
+        {
+          "value": "14.4%",
+          "rowHeaders": [
+            "Used pharmacotherapy",
+            "Pharmacotherapy only"
+          ],
+          "columnHeaders": [
+            "Receipt of in-practice and out-of-practice quit assistance by",
+            "Treatment condition",
+            "Referral",
+            "(n = 547)"
+          ]
+        },
+        {
+          "value": "17.4%",
+          "rowHeaders": [
+            "Used pharmacotherapy",
+            "Pharmacotherapy only"
+          ],
+          "columnHeaders": [
+            "Receipt of in-practice and out-of-practice quit assistance by",
+            "Treatment condition",
+            "In-practice",
+            "(n = 224)"
+          ]
+        },
+        {
+          "value": "15.3%",
+          "rowHeaders": [
+            "Used pharmacotherapy",
+            "Pharmacotherapy only"
+          ],
+          "columnHeaders": [
+            "Receipt of in-practice and out-of-practice quit assistance by",
+            "Treatment condition",
+            "Total",
+            "(n = 771)"
+          ]
+        },
+        {
+          "value": "11.7%",
+          "rowHeaders": [
+            "Both"
+          ],
+          "columnHeaders": [
+            "Receipt of in-practice and out-of-practice quit assistance by",
+            "Treatment condition",
+            "Referral",
+            "(n = 547)"
+          ]
+        },
+        {
+          "value": "1.3%",
+          "rowHeaders": [
+            "Both"
+          ],
+          "columnHeaders": [
+            "Receipt of in-practice and out-of-practice quit assistance by",
+            "Treatment condition",
+            "In-practice",
+            "(n = 224)"
+          ]
+        },
+        {
+          "value": "8.7%",
+          "rowHeaders": [
+            "Both"
+          ],
+          "columnHeaders": [
+            "Receipt of in-practice and out-of-practice quit assistance by",
+            "Treatment condition",
+            "Total",
+            "(n = 771)"
+          ]
+        },
+        {
+          "value": "49.0%",
+          "rowHeaders": [
+            "Total intense help"
+          ],
+          "columnHeaders": [
+            "Receipt of in-practice and out-of-practice quit assistance by",
+            "Treatment condition",
+            "Referral",
+            "(n = 547)"
+          ]
+        },
+        {
+          "value": "20.1%",
+          "rowHeaders": [
+            "Total intense help"
+          ],
+          "columnHeaders": [
+            "Receipt of in-practice and out-of-practice quit assistance by",
+            "Treatment condition",
+            "In-practice",
+            "(n = 224)"
+          ]
+        },
+        {
+          "value": "40.6%",
+          "rowHeaders": [
+            "Total intense help"
+          ],
+          "columnHeaders": [
+            "Receipt of in-practice and out-of-practice quit assistance by",
+            "Treatment condition",
+            "Total",
+            "(n = 771)"
+          ]
+        },
+        {
+          "value": "<0.01",
+          "rowHeaders": [
+            "Total intense help"
+          ],
+          "columnHeaders": [
+            "Receipt of in-practice and out-of-practice quit assistance by",
+            "Treatment condition",
+            "P",
+            "(n = 771)"
+          ]
+        }
+      ],
+      "page": 1
+    }
+  ]
+}

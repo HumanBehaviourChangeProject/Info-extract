@@ -1,0 +1,220 @@
+{
+  "blocks": [
+    {
+      "type": "LINES",
+      "value": "2108 From the Departments of Medicine",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "We conducted a five-group randomized, controlled trial comparing usual care with four incentive programs aimed at promoting sustained abstinence from smoking. The protocol (available with the full text of this article at NEJM.org) was approved by the institutional review board at the University of Pennsylvania. The first author vouches for the accuracy and completeness of the data and for the fidelity of the study to the protocol.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "We used a multifaceted recruitment scheme in the Supplementary Appendix, available at NEJM.org) to enroll CVS Caremark employees or their relatives and friends across the United States. Eligible participants were at least 18 years of age, reported smoking at least 5 cigarettes per day, had Internet access, and indicated an interest in learning about ways to stop smoking. Recruitment occurred from February 2012 through October 2012. Using the Way to Health Web-based research portal created for this and other studies, participants opened an account, electronically signed the informedconsent document, and completed a baseline questionnaire. Participants were told that they would be paid for completing questionnaires and submitting samples to confirm smoking abstinence and that the study tested different ways of providing financial incentives to promote cessation. To dissuade nonsmokers from enrolling, we also informed potential participants that we would randomly screen for baseline smoking.\nAfter randomization, participants learned the details of their assigned intervention, were asked to accept or decline their intervention, and chose a target quit date between 1 and 90 days after enrollment. We then selected a random sample of 5% of these enrolled participants to undergo baseline cotinine screening and offered $100 for completing a cotinine assay.\nParticipants were randomly assigned on an individual basis to one of five groups. Randomization was stratified according to two dichotomous variables: whether participants had full healthcare benefits through CVS Caremark and whether their annual household income was at least $60,000 (the CVS Caremark workforce median) or less than $60,000. We developed an adaptive randomization algorithm that updated the assignment probabilities to the five groups after every third enrolled participant. Updated probabilities reflected the inverse of the proportion of participants assigned to that group who accepted the intervention, relative to total acceptance across groups. This approach balances recruitment of accepting participants across groups by increasing the odds of randomization to interventions that previous participants declined.\nAll the participants were offered usual care, consisting of information about local smokingcessation resources, cessation guides produced by the American Cancer Society, and, for the 41% of the participants receiving health benefits through CVS Caremark, free access to a behavioral-modification program and nicotine-replacement therapy. Participants assigned to the two individual-incentive groups were also eligible to receive $200 if they had biochemically confirmed abstinence at each of three times: 14 days, 30 days, and 6 months after their target quit dates. Participants would get an additional $200 bonus at 6 months, fora total of $800 ( in the Supplementary Appendix). In the individual-deposit group, this sum included a $150 deposit that would be refunded to participants who quit smoking.\nIn the collaborative-reward and competitivedeposit groups, cohorts of six smokers each were formed on a rolling basis, linking participants\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Financial-Incentive Progr ams for Smoking Cessation who selected quit dates nearest each other. In the collaborative-reward group, payments to successful group members at each time point increased with increasing group success rates, from $100 per time point if one participant quit to $600 per time point per participant if all six quit. We sought to foster collaboration among participants with the use of a Web-based chatroom through which they could communicate throughout the study.\nIn the competitive-deposit group, $150 deposits from each of six group members, plus a $450 matching reward per member ($3,600 total), was redistributed among members who quit at each time point. For example, if only two participants in a group quit at 14 days but returned to smoking by 30 days, those two participants would receive $600 each at 14 days, and there would be no further payouts to the members of that group. Members of competitive cohorts received accurate but anonymous descriptions of their competitors to make vivid the possibility that others might benefit from their own lack of change 21 without enabling participants to undermine a competitor's efforts.\nParticipants in the group-incentive groups were also given a $200 bonus if they sustained abstinence through 6 months. Thus, the four interventions differed in how incentives would accrue and be disbursed ( in the Supplementary Appendix), but the payment schedule and bonus were identical, and on the basis of anticipated success rates, we estimated that each intervention carried an expected value of $800.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The primary outcome was sustained abstinence from smoking for 6 months after the target quit date. Achievement of sustained abstinence required that submitted saliva samples had a cotinine concentration of less than 10 ng per milliliter 28 at 14 days, 30 days, and 6 months. For users of nicotine-replacement therapy, a urinary sample with an anabasine concentration of less than 3 ng per milliliter was considered to show sustained abstinence. Participants who did not submit samples were coded as actively smoking. Secondary outcomes included the initial quit rate at 14 days, sustained abstinence for 30 days, and sustained abstinence through 12 months (i.e., 6 months after the final incentive disbursement).\nIncentive acceptance rates reflected the proportion of participants assigned to that incentive who agreed to the contract. In the two groups requiring deposits, we considered participants to have accepted the intervention if they made $150 deposits by creditor debit card within 60 days after enrollment or before their selected quit date, whichever came first. Consenting participants who declined their assigned program remained in their assigned group for intentionto-treat analyses and were treated identically to those in the usual-care group.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "We specified three analyses corresponding to the aims of the study. First, we used logistic regression to compare acceptance of the interventions, adjusting for the two variables according to which the randomization was stratified. Second, we conducted intention-to-treat analyses using logistic regression to compare the effectiveness of incentive programs among all randomly assigned participants. Third, we compared the efficacy of the interventions. We first conducted traditional per-protocol analyses, comparing groups of participants who accepted different interventions. However, because such analyses are subject to selection biases, 31 our primary approach to measure efficacy modeled the randomization group as an instrumental variable in analyses of the complier average treatment effect. These analyses, described in detail in the Supplementary Appendix, used data on all randomly assigned participants to estimate treatment effects for participants who would have accepted each intervention.\nWe estimated that a sample of 2185 participants would provide 80% power to detect absolute differences of at least 7.5 percentage points in the rate of sustained abstinence between anyone of the three novel incentive programs and the individual-reward program. Details of this calculation are provided in the Supplementary Appendix. 58 54 49 Other 60 45 74 76 46 Years of education ‡\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Of 2070 participants assigned to one of the four intervention groups, 1060 (51.2%) accepted that intervention. Participants were much more likely to accept the two reward-based incentive programs (combined acceptance rate, 90.0%) than the two deposit-based programs (combined acceptance rate, 13.7%) (P<0.001). Participants were similarly likely to accept the individual incentives (combined acceptance rate, 50.6%) and the group incentives (combined acceptance rate, 51.9%) (P = 0.55).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Median payouts to participants who stopped smoking in the four incentive groups were similar in the Supplementary Appendix). In intention-to-treat analyses, all four programs yielded greater rates of sustained abstinence from smoking through 6 months (range, 9.4 to 16.0%) than did usual care (6.0%) (P<0.05 for all comparisons), and in the Supplementary Appendix). At 12 months (6 months after the cessation of incentives), roughly half the participants who were abstinent through 6 months in all groups submitted negative cotinine assays, and only the reward-based incentive programs remained superior to usual care. The proportion of self-reported quitters who submitted a cotinine sample was lower at 12 months than at 30 days or 6 months in all groups in the Supplementary Appendix). In secondary analyses of self-reported abstinence at 12 months, relapsed smoking was much less common than in analyses requiring biochemical confirmation, and all incentive groups remained superior to usual care in the Supplementary Appendix). At 6 months, the proportion of participants with sustained abstinence was greater with reward-based incentives (15.7%) than with depositbased incentives (10.2%) (P<0.001) in the Supplementary Appendix) and was similar between participants assigned to individualincentive programs and those assigned to groupincentive programs (12.1% vs. 13.7%, P = 0.29) in the Supplementary Appendix). Participants with access to free pharmacologic cessation aids through their CVS Caremark benefits did not have higher abstinence rates than participants without such benefits in the Supplementary Appendix). Total costs spent per participant who had sustained abstinence were lower in the deposit-based groups than in the reward-based groups in the Supplementary Appendix).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Given the similar effectiveness of individual rewards and collaborative rewards and of individ- Currently using other methods to quit smoking -no. (%)** 65 51 71 73 47 * The intention-to-treat population includes all participants who underwent randomization to the five study groups. There were no significant differences between the study groups in any of the baseline characteristics listed (P>0.05). NRT denotes nicotine-replacement therapy. † Race was self-reported. ‡ Years of education range from grade 1 to 17, with 17 representing \"at least some graduate school\" and 13 to 16 representing 1 to 4 years of college. § The CVS Caremark healthcare plan includes free access to a behavioral-modification program and NRT. ¶ The level of dependence is based on the score on the Fagerström Test for Nicotine Dependence. Scores range from 1 to 10, with higher scores indicating a more intense physical dependence on nicotine. Low dependence corresponds to a score of 1 or 2, low-to-moderate dependence a score of 3 or 4, moderate dependence a score of 5 to 7, and high dependence a score of 8 to 10. ‖ The participants were asked, \"Are you seriously thinking of quitting smoking?\" and were given three options to select: yes, within the next 30 days (preparation stage); yes, within the next 6 months (contemplation stage); or no, not thinking of quitting (precontemplation stage). The values for contemplation stage include 10 participants in the precontemplation stage: 2 participants in the usual-care group, 2 participants in the individual-reward group, 2 participants in the collaborative-reward group, 3 participants in the individual-deposit group, and 1 participant in the competitive-deposit group. Data were missing for 1 participant in the competitive-deposit group. ** Participant is currently using NRT, behavioral therapy, prescription medication, or other method to quit smoking. Th e new e ngl and jou r na lo f me dicine ual deposits and competitive deposits, we grouped the reward-based incentives as well as the deposit-based incentives for efficacy analyses. In standard per-protocol analyses, 52.3% of those who accepted deposits versus 17.1% of those who accepted rewards had sustained abstinence through 6 months (P<0.001), and similarly large differences were observed at all time points in the Supplementary Appendix). In analyses of the complier average treatment effect, which adjust for the selection effects inherent in per-protocol analyses, the rate of abstinence at 6 months was 13.2 percentage points (95% confidence interval, 3.1 to 22.8) higher in the deposit-based programs than in the reward-based programs among the 13.7% of smokers who would accept either type of incentive). According to this approach, deposits were superior to rewards even if we assumed that participants who would accept deposits had up to 12.5 times greater underlying propensities to stop smoking than participants who would accept rewards only.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Among 150 participants asked to submit a cotinine assay at baseline to confirm smoking status, 9 (6.0%) submitted negative assays and 21 (14.0%) did not return assays. These rates were similar across groups, and sensitivity analyses adjusting for the possibility that up to 20% of the participants were not smokers revealed nearly identical estimates of effectiveness in the Supplementary Appendix).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "More than 50 years after the release of the first Surgeon General's report on the harmful effects of smoking, national policies, behavioral programs, and pharmacologic approaches have helped reduce smoking rates in the United States. However, the need for new approaches is clear because smoking remains the leading cause of preventable illness and death. In this large randomized trial across the United States, we found that four different incentive programs with expected values of $800 were each effective in promoting sustained abstinence from smoking. Perhaps the most important finding is that incentive programs that required people to deposit $150 of their own money were less effective overall than rewardbased programs of similar value because few people accepted such deposit programs. This was true despite the $650 reward offered to depositarm participants in addition to the return of their original $150 deposits. However, analyses that account for the different acceptance rates of the interventions showed that deposit-based incentives were substantially more efficacious than reward-based incentives among people who would have accepted either. The robustness of this result to reasonably large potential selection effects suggests that incentives that build on participants' loss aversion 13 may meaningfully change behavior.\nSecond, we found that group-oriented reward programs were not significantly more effective than individual-oriented programs. The results of this large trial are therefore consistent with those of small randomized, controlled trials of incentives for weight loss in which group-oriented Acceptance rates were adjusted for two stratifying variables : whether participants received their health insurance through CVS Caremark and whether their annual household income was at least $60,000 or less than $60,000. I bars denote 95% confidence intervals. In parentheses, the numerator indicates the number of participants accepting each intervention, and the denominator indicates the number of participants assigned to each intervention. The usual-care group is not shown, because there was no option to decline usual care.  payments, as compared with individual-oriented payments, produced small early benefits that were not sustained overtime. Finally, the finding that individual rewards of $800, as compared with usual care, nearly tripled the rate of smoking cessation among CVS Caremark employees and their friends and family confirms and extends the generalizability of our finding from a previous trial involving General Electric employees. 8 In addition to the public health effects of such smoking reductions, these findings are important for employers. Because employing a smoker is estimated to cost $5,816 more each year than employing a nonsmoker, even an $800 payment borne entirely by employers and paid only to those who quit would be highly cost-saving.\nThis study has limitations. First, the low rate of acceptance of the deposit programs required protocol modifications to restrict the proportions of participants who would be randomly assigned to those groups. Implementing these limitations preserved balance in participant characteristics across groups and preserved power for all effectiveness analyses but limited the precision of analyses comparing the efficacy of reward and deposit groups. Second, only 41% of the participants had access to free pharmacologic and behavioral cessation aids through their employee benefits. However, smoking-cessation rates were not higher among those with access to such aids, a finding that suggests that the superiority of incentives would hold in populations with universal access. Third, in all trial groups, nearly half the smokers who quit at the end of the intervention at 6 months did not document sustained abstinence through 12 months. This suggests similar durability of financial incentives to nicotine-replacement therapy and bupropion, for which relapse after completion of treatment has also occurred in roughly 50% of the participants. 41,42 Secondary analyses suggest that the true relapse rates in our trial may have been lower, given the reduction in submission of any samples at 12 months across groups.\nThis study also has several strengths. In addition to comparing financial incentives for smoking cessation in a large number of participants, the trial measured the specific contributions of acceptance and efficacy of the interventions to their overall effectiveness. This trial also compared multiple incentive programs with design features based on behavioral economic theory, including repeated payments to reinforce target behaviors, 43 bonus payments at the end of the intervention to offset smokers' tendencies to discount the importance of future events, 44,45 and the provision of ongoing feedback regarding participants' accrued gains and losses contingent on their self-reported smoking status to maximize the effect of regret aversion. 20,21 Finally, this trial randomly selected participants for screening cotinine tests to prevent nonsmokers from enrolling. The robustness of our findings in analyses accounting for potential participation of nonsmokers provides strong evidence regarding the effectiveness of incentives. The primary outcome was sustained abstinence through 6 months. Asterisks indicate P values (* for P<0.05, ** for P<0.01, and *** for P<0.001) for the comparison of the four intervention groups to usual care, with adjustment for the two stratifying variables : whether participants received their health insurance through CVS Caremark and whether their annual household income was at least $60,000 or less than $60,000. I bars indicate 95% confidence intervals. In summary, this trial shows that among several financial-incentive programs for smoking cessation, rewards for smoking cessation are more effective overall than are deposit-based contracts owing to their much higher rate of acceptance. In addition, the efficacy of depositbased contracts among those who use them and the cost-effectiveness of such contracts for employers suggest that future innovations in employee benefit design should seek to establish the effectiveness of smoking-cessation programs requiring deposits smaller than the $150 used in this trial.\nSupported by a grant from the National Cancer Institute (R01 CA159932, to Dr. Halpern), a grant from the National Institute on Aging (RC2 AG036592, to Drs. Asch and Volpp), and CVS Caremark.\nDisclosure forms provided by the authors are available with the full text of this article at NEJM.org. * A detailed explanation of this analysis is provided in the Supplementary Appendix. In brief, this method uses the randomization group as an instrumental variable, thereby providing estimates of the efficacy of interventions among people who accept them. Unlike traditional per-protocol analyses, this approach uses data on all randomly assigned participants and adjusts estimates of efficacy for the selection biases that may arise if participants' decisions to accept or decline their assigned interventions are related to their underlying odds of smoking cessation. This analysis assumes that participants who would accept deposits would have also accepted rewards if rewards had instead been offered. Estimates are on the additive scale; thus, absolute risk differences are shown with 95% confidence intervals (CIs). † The efficacy of deposit contracts is statistically superior to the efficacy of rewards as long as the underlying odds of quitting among participants who accept deposits are no more than 12.5 times greater than the odds of quitting among participants who would only accept rewards.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "300 (64)",
+          "rowHeaders": [
+            "Female sex - no. (%)"
+          ],
+          "columnHeaders": [
+            "ne w e ngl a nd jou r na l o f m e dicine",
+            "Individual",
+            "Usual Care",
+            "(N = 468)",
+            "34",
+            "26-47"
+          ]
+        },
+        {
+          "value": "312 (63)",
+          "rowHeaders": [
+            "Female sex - no. (%)"
+          ],
+          "columnHeaders": [
+            "ne w e ngl a nd jou r na l o f m e dicine",
+            "Individual",
+            "Reward",
+            "(N = 498)",
+            "32",
+            "25-46"
+          ]
+        },
+        {
+          "value": "322 (62)",
+          "rowHeaders": [
+            "Female sex - no. (%)"
+          ],
+          "columnHeaders": [
+            "ne w e ngl a nd jou r na l o f m e dicine",
+            "Collaborative",
+            "Reward",
+            "(N = 519)",
+            "32",
+            "25-45"
+          ]
+        },
+        {
+          "value": "367 (63)",
+          "rowHeaders": [
+            "Female sex - no. (%)"
+          ],
+          "columnHeaders": [
+            "ne w e ngl a nd jou r na l o f m e dicine",
+            "Individual",
+            "Deposit",
+            "(N = 582)",
+            "33",
+            "25-48"
+          ]
+        },
+        {
+          "value": "293 (62)",
+          "rowHeaders": [
+            "Female sex - no. (%)"
+          ],
+          "columnHeaders": [
+            "ne w e ngl a nd jou r na l o f m e dicine",
+            "Competitive",
+            "Deposit",
+            "(N = 471)",
+            "33",
+            "25-45"
+          ]
+        },
+        {
+          "value": "365 (78)",
+          "rowHeaders": [
+            "White"
+          ],
+          "columnHeaders": [
+            "ne w e ngl a nd jou r na l o f m e dicine",
+            "Individual",
+            "Usual Care",
+            "(N = 468)",
+            "34",
+            "26-47"
+          ]
+        },
+        {
+          "value": "409 (82)",
+          "rowHeaders": [
+            "White"
+          ],
+          "columnHeaders": [
+            "ne w e ngl a nd jou r na l o f m e dicine",
+            "Individual",
+            "Reward",
+            "(N = 498)",
+            "32",
+            "25-46"
+          ]
+        },
+        {
+          "value": "387 (75)",
+          "rowHeaders": [
+            "White"
+          ],
+          "columnHeaders": [
+            "ne w e ngl a nd jou r na l o f m e dicine",
+            "Collaborative",
+            "Reward",
+            "(N = 519)",
+            "32",
+            "25-45"
+          ]
+        },
+        {
+          "value": "452 (78)",
+          "rowHeaders": [
+            "White"
+          ],
+          "columnHeaders": [
+            "ne w e ngl a nd jou r na l o f m e dicine",
+            "Individual",
+            "Deposit",
+            "(N = 582)",
+            "33",
+            "25-48"
+          ]
+        },
+        {
+          "value": "376 (80)",
+          "rowHeaders": [
+            "White"
+          ],
+          "columnHeaders": [
+            "ne w e ngl a nd jou r na l o f m e dicine",
+            "Competitive",
+            "Deposit",
+            "(N = 471)",
+            "33",
+            "25-45"
+          ]
+        }
+      ],
+      "page": 1
+    }
+  ]
+}

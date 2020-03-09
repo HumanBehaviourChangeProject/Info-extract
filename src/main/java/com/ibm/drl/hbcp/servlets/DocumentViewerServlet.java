@@ -6,22 +6,19 @@
 package com.ibm.drl.hbcp.servlets;
 
 import com.ibm.drl.hbcp.inforetrieval.indexer.ResearchDoc;
-import java.io.File;
-import java.io.FileReader;
-import java.io.IOException;
-import java.io.PrintWriter;
-import java.util.Properties;
+import org.apache.lucene.document.Document;
+import org.apache.lucene.index.DirectoryReader;
+import org.apache.lucene.index.IndexReader;
+import org.apache.lucene.store.FSDirectory;
+
 import javax.servlet.ServletConfig;
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
-import javax.servlet.http.HttpSession;
-import org.apache.http.HttpRequest;
-import org.apache.lucene.document.Document;
-import org.apache.lucene.index.DirectoryReader;
-import org.apache.lucene.index.IndexReader;
-import org.apache.lucene.store.FSDirectory;
+import java.io.File;
+import java.io.IOException;
+import java.io.PrintWriter;
 
 /**
  * Servlet for viewing documents (e.g., documents returned by {@link PassageSearchServlet})

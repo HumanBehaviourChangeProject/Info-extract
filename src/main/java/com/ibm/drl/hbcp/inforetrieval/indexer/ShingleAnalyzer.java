@@ -4,14 +4,16 @@
  * and open the template in the editor.
  */
 package com.ibm.drl.hbcp.inforetrieval.indexer;
-import java.util.*;
+
 import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.analysis.TokenStream;
 import org.apache.lucene.analysis.Tokenizer;
-import org.apache.lucene.analysis.ngram.NGramTokenFilter;
-import org.apache.lucene.analysis.ngram.NGramTokenizer;
 import org.apache.lucene.analysis.shingle.ShingleFilterFactory;
 import org.apache.lucene.analysis.standard.StandardTokenizer;
+
+import java.util.HashMap;
+import java.util.Map;
+import java.util.Properties;
 
 /**
  * Provides the functionality to take into word level n-grams for matching

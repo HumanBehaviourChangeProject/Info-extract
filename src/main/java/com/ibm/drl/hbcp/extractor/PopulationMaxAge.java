@@ -8,20 +8,16 @@ package com.ibm.drl.hbcp.extractor;
 import com.ibm.drl.hbcp.core.attributes.AttributeType;
 import com.ibm.drl.hbcp.extractor.matcher.CandidateAnswer;
 import com.ibm.drl.hbcp.extractor.matcher.CandidateAnswers;
-import java.util.ArrayList;
-import java.util.HashSet;
-import java.util.List;
-import java.util.Set;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
-
+import com.ibm.drl.hbcp.inforetrieval.indexer.PaperIndexer;
+import com.ibm.drl.hbcp.parser.CodeSetTree;
+import com.ibm.drl.hbcp.util.LuceneField;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.document.Field;
-
-import com.ibm.drl.hbcp.inforetrieval.indexer.PaperIndexer;
-import java.util.Arrays;
 import org.apache.lucene.search.Query;
-import com.ibm.drl.hbcp.parser.CodeSetTree;
+
+import java.util.*;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 /**
  * This class is used to extract the maximum age of a population.
@@ -197,7 +193,7 @@ public class PopulationMaxAge extends InformationUnit {
     public void appendFields(Document doc) {
         doc.add(new Field(InformationUnit.ATTRIB_ID_FIELD,
                 String.valueOf(ATTRIB_ID),
-                Field.Store.YES, Field.Index.NOT_ANALYZED));
+                LuceneField.STORED_NOT_ANALYZED.getType()));
     }
 
     @Override

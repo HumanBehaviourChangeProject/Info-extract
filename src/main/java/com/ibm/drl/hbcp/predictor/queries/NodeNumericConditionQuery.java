@@ -1,8 +1,8 @@
 package com.ibm.drl.hbcp.predictor.queries;
 
 import com.google.common.collect.Lists;
-import com.ibm.drl.hbcp.predictor.graph.AttributeValueNode;
 import com.ibm.drl.hbcp.core.wvec.NodeVecs;
+import com.ibm.drl.hbcp.predictor.graph.AttributeValueNode;
 
 import java.util.List;
 
@@ -30,7 +30,7 @@ public abstract class NodeNumericConditionQuery extends NodeQuery {
 
     @Override
     public List<SearchResult> search(NodeVecs vecs) {
-        return Lists.newArrayList(super.filter(sr -> isValidMatchingNode(sr.node)).search(vecs));
+        return Lists.newArrayList(super.filteredWith(sr -> isValidMatchingNode(sr.node)).search(vecs));
     }
 
     public abstract boolean isValidNumericValue(double candidateNodeValue, double queryNodeValue);

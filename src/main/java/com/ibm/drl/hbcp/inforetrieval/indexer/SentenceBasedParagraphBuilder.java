@@ -5,17 +5,18 @@
  */
 package com.ibm.drl.hbcp.inforetrieval.indexer;
 
-import java.io.IOException;
-import java.io.StringReader;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.regex.Pattern;
-
+import lombok.Data;
 import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.analysis.TokenStream;
 import org.apache.lucene.analysis.core.WhitespaceAnalyzer;
 import org.apache.lucene.analysis.tokenattributes.CharTermAttribute;
+
+import java.io.IOException;
+import java.io.StringReader;
+import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.List;
+import java.util.regex.Pattern;
 
 /**
  * This class is used to split a document into sentences instead of fixed
@@ -24,9 +25,10 @@ import java.util.Arrays;
  * @author Debasis and Francesca
  */
 
-public class SentenceBasedParagraphBuilder {
+public class SentenceBasedParagraphBuilder implements ParagraphBuilder {
     
     int paraNumberOfSentences;
+    private final IndexingMethod indexingMethod;
     Analyzer analyzer;
    
     private static final String[] ABBREVIATIONS = {
@@ -39,7 +41,17 @@ public class SentenceBasedParagraphBuilder {
 
     public SentenceBasedParagraphBuilder(int paraNumberOfSentences, Analyzer analyzer) {
         this.paraNumberOfSentences = paraNumberOfSentences;
+        indexingMethod = new SentenceBasedMethod();
         this.analyzer = analyzer;                
+    }
+
+    @Data
+    public static class SentenceBasedMethod implements IndexingMethod {
+
+        @Override
+        public String toString() {
+            return "sentence";
+        }
     }
 
     /**
@@ -47,7 +59,8 @@ public class SentenceBasedParagraphBuilder {
      * @param docId Id of a document from an index.
      * @param content The text content of the document stored in the Lucene index.
      * @return A list of 'Paragraph' objects constructed from this document text.
-     */    
+     */
+    @Override
     public List<Paragraph> constructParagraphs(int docId, String content) throws IOException {
         List<Paragraph> parList = new ArrayList<>();
         
@@ -80,7 +93,7 @@ public class SentenceBasedParagraphBuilder {
             if (numSentences==paraNumberOfSentences){
                 // create a paragraph
             	numSentences++;
-                Paragraph p = new Paragraph(docId + "_" + String.valueOf(id++), tokens);
+                Paragraph p = new Paragraph(docId + "_" + String.valueOf(id++), tokens, indexingMethod);
               //  System.out.println(tokens);
                 tokens.clear();
                 numSentences = 0;
@@ -91,7 +104,7 @@ public class SentenceBasedParagraphBuilder {
         
         //FB check this case:
         if (numSentences > 0) {
-            Paragraph p = new Paragraph(docId + "_" + String.valueOf(id++), tokens);            
+            Paragraph p = new Paragraph(docId + "_" + String.valueOf(id++), tokens, indexingMethod);
             splitAndAddParagraph(parList, p);
         }
 

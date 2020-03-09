@@ -5,15 +5,17 @@
  */
 package com.ibm.drl.hbcp.inforetrieval.indexer;
 
-import static com.ibm.drl.hbcp.inforetrieval.indexer.PaperIndexer.analyze;
-import java.io.BufferedWriter;
-import java.io.File;
-import java.io.FileWriter;
 import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.index.DirectoryReader;
 import org.apache.lucene.index.IndexReader;
 import org.apache.lucene.store.FSDirectory;
+
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileWriter;
+
+import static com.ibm.drl.hbcp.inforetrieval.indexer.PaperIndexer.analyze;
 
 /**
  * Generates a text file (concatenated text extracted from all documents in the collection)

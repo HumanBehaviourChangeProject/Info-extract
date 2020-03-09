@@ -5,9 +5,9 @@
  */
 package com.ibm.drl.hbcp.extractor;
 
-import com.ibm.drl.hbcp.extractor.matcher.QueryTermMatches;
 import com.ibm.drl.hbcp.extractor.matcher.CandidateAnswer;
 import com.ibm.drl.hbcp.extractor.matcher.CandidateAnswers;
+import com.ibm.drl.hbcp.extractor.matcher.QueryTermMatches;
 
 /**
  * Store this class' objects in the aggregate function.

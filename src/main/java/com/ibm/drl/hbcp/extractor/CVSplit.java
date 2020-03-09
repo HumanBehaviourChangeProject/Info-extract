@@ -5,18 +5,18 @@
  */
 package com.ibm.drl.hbcp.extractor;
 
-import java.util.ArrayList;
-import java.util.HashSet;
-import java.util.List;
-import java.util.Set;
-
-import org.apache.lucene.index.IndexReader;
-
 import com.ibm.drl.hbcp.inforetrieval.indexer.ResearchDoc;
 import com.ibm.drl.hbcp.parser.AnnotatedAttributeValuePair;
 import com.ibm.drl.hbcp.parser.CodeSetTree;
 import com.ibm.drl.hbcp.parser.CodeSetTreeNode;
 import com.ibm.drl.hbcp.parser.PerDocRefs;
+import org.apache.lucene.index.IndexReader;
+
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.HashSet;
+import java.util.List;
+import java.util.Set;
 
 /**
  *
@@ -27,7 +27,7 @@ class DocIdNamePair {
     int id;
     String name;
 
-    public DocIdNamePair(InformationUnit iu, int id) throws Exception {
+    public DocIdNamePair(InformationUnit iu, int id) throws IOException {
         this.id = id;
         name = iu.extractor.reader.document(id).get(ResearchDoc.FIELD_NAME);
     }
@@ -83,7 +83,7 @@ public class CVSplit {
      * To be called during initiating the REST APIs.
      * @param iu Information unit object encoding the attribute to extract
      */    
-    public CVSplit(InformationUnit iu) throws Exception {
+    public CVSplit(InformationUnit iu) throws IOException {
         trainDocs = new ArrayList<>();
         testDocs = new ArrayList<>();
         
@@ -154,7 +154,7 @@ public class CVSplit {
         
     }
     
-    public void getTrainingDocNames() throws Exception {
+    public void getTrainingDocNames() {
         trainingDocNames = new HashSet<>();        
         for (DocIdNamePair docIdNamePair: trainDocs) {
             trainingDocNames.add(docIdNamePair.name);
@@ -181,7 +181,7 @@ public class CVSplit {
         return unannotatedDocs;
     }
     
-    void loadTrainingAttribs() throws Exception {
+    void loadTrainingAttribs() throws IOException {
         
         getTrainingDocNames();
         

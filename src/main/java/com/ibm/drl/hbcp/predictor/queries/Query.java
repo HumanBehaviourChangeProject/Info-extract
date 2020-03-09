@@ -43,7 +43,7 @@ public interface Query {
      * @param validityPredicate the condition for search results to be kept (true: keep, false: throw away)
      * @return new query equivalent to the original, but with a filter on results
      */
-    default Query filter(Predicate<SearchResult> validityPredicate) {
+    default Query filteredWith(Predicate<SearchResult> validityPredicate) {
         final Query originalQuery = this;
         return (vecs) -> Iterables.filter(originalQuery.search(vecs), validityPredicate::test);
     }

@@ -6,12 +6,7 @@ package com.ibm.drl.hbcp.core.wvec;
 
 import javax.annotation.Nullable;
 import java.io.*;
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
-import java.util.Properties;
+import java.util.*;
 
 /**
  * A collection of WordVec instances for each unique term in
@@ -55,6 +50,10 @@ public class WordVecs {
      */
     public WordVecs(@Nullable InputStream input, Properties props) throws IOException {
         init(input, props);
+    }
+    
+    public WordVecs(@Nullable InputStream input) {
+        loadFromTextFile(input);        
     }
     
     void init(InputStream input, Properties prop) throws IOException {

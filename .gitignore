@@ -1,1 +1,30 @@
 /target/
+/output/
+**/.DS_Store
+scripts/bcts.supervised.properties
+logs/
+bct-s.properties
+scripts/*.properties
+scripts/res*.txt
+test_ie_index/
+PropertiesExplained.properties
+PropertiesExplained
+com.ibm.drl.hbcp.inforetrieval.apr/*.properties
+trec_eval/trec_eval
+
+# Binaries
+*.class
+
+# eclipse project file
+.settings/
+.classpath
+.project
+
+# IntelliJ files
+.idea/
+hbcpIE.iml
+/nbproject/
+
+# Grobid-related files/folders
+/grobid-0.5.3
+grobid.log*

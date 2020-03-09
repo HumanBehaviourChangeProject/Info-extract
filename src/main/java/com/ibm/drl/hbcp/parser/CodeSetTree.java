@@ -5,11 +5,12 @@
  */
 package com.ibm.drl.hbcp.parser;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
 import java.io.BufferedWriter;
 import java.io.IOException;
 import java.util.*;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
 
 /**
  *  Tree data structure for the code set hierarchy.  The JSON parser
@@ -175,5 +176,13 @@ public class CodeSetTree {
         return cacheArms.get(attribId);
     }
 
-    
+    public CodeSetTreeNode getRoot() { return root; }
+
+    public enum TREE_INFO_ENUM {
+        NONE,
+        CODESET_ONLY,
+        CODESET_AND_PERDOC_INFO,
+        CODESET_AND_PERDOC_INFO_IN_CSV,
+        CODESET_AND_PERDOC_ARM_INFO
+    };
 }

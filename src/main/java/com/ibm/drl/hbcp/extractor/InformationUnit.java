@@ -5,15 +5,19 @@
  */
 package com.ibm.drl.hbcp.extractor;
 
-import com.ibm.drl.hbcp.core.attributes.Attribute;
+import com.ibm.drl.hbcp.api.IUnitPOJO;
 import com.ibm.drl.hbcp.core.attributes.AttributeType;
 import com.ibm.drl.hbcp.extractor.matcher.CandidateAnswer;
 import com.ibm.drl.hbcp.extractor.matcher.CandidateAnswers;
 import com.ibm.drl.hbcp.extractor.matcher.QueryTermMatches;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
-
+import com.ibm.drl.hbcp.glm.QueryExpander;
+import com.ibm.drl.hbcp.inforetrieval.indexer.PaperIndexer;
+import com.ibm.drl.hbcp.inforetrieval.indexer.ResearchDoc;
+import com.ibm.drl.hbcp.parser.AnnotatedAttributeValuePair;
+import com.ibm.drl.hbcp.parser.CodeSetTree;
+import com.ibm.drl.hbcp.parser.CodeSetTreeNode;
+import com.ibm.drl.hbcp.parser.PerDocRefs;
+import com.ibm.drl.hbcp.util.LuceneField;
 import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.document.Field;
@@ -27,14 +31,9 @@ import org.apache.lucene.search.similarities.Similarity;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import com.ibm.drl.hbcp.api.IUnitPOJO;
-import com.ibm.drl.hbcp.glm.QueryExpander;
-import com.ibm.drl.hbcp.inforetrieval.indexer.PaperIndexer;
-import com.ibm.drl.hbcp.inforetrieval.indexer.ResearchDoc;
-import com.ibm.drl.hbcp.parser.AnnotatedAttributeValuePair;
-import com.ibm.drl.hbcp.parser.CodeSetTree;
-import com.ibm.drl.hbcp.parser.CodeSetTreeNode;
-import com.ibm.drl.hbcp.parser.PerDocRefs;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
 
 /**
  * The object responsible for performing the basic functionalities for information extraction.
@@ -72,6 +71,8 @@ public abstract class InformationUnit implements Comparable<InformationUnit> {
     public static final String ATTRIB_ID_FIELD = "ATTRIB_ID";
     public static final String ATTRIB_NAME_FIELD = "ATTRIB_NAME";
     public static final String EXTRACTED_VALUE_FIELD = "EXTRACTED_VALUE";
+    public static final String ARM_ID = "ARM_ID";
+    public static final String ARM_NAME = "ARM_NAME";
     public static final String JSON_FIELD = "JSON";
     public static final String CONTEXT_FIELD = "CONTEXT";
     public static final String DOCNAME_FIELD = "DOCNAME";
@@ -140,24 +141,24 @@ public abstract class InformationUnit implements Comparable<InformationUnit> {
         // meaningful info here?
         doc.add(new Field(InformationUnit.ATTRIB_TYPE_FIELD,
             this.typePresenceDetect? "Intervention" : "Context",
-            Field.Store.YES, Field.Index.NOT_ANALYZED));
+                LuceneField.STORED_NOT_ANALYZED.getType()));
         ///---IE-CODE-REFACTOR
         
         doc.add(new Field(InformationUnit.DOCNAME_FIELD,
             docName,
-            Field.Store.YES, Field.Index.NOT_ANALYZED));
+                LuceneField.STORED_NOT_ANALYZED.getType()));
         
         doc.add(new Field(InformationUnit.ATTRIB_NAME_FIELD,
             getName(),
-            Field.Store.YES, Field.Index.NOT_ANALYZED));
+                LuceneField.STORED_NOT_ANALYZED.getType()));
         
         doc.add(new Field(InformationUnit.EXTRACTED_VALUE_FIELD,
             this.mostLikelyAnswer.getKey(),
-            Field.Store.YES, Field.Index.NOT_ANALYZED));
+                LuceneField.STORED_NOT_ANALYZED.getType()));
         
         doc.add(new Field(InformationUnit.CONTEXT_FIELD,
             this.mostLikelyAnswer.getContext(),
-            Field.Store.YES, Field.Index.NOT_ANALYZED));
+                LuceneField.STORED_NOT_ANALYZED.getType()));
 
         // For exporting JSONs
         IUnitPOJO iupojo = new IUnitPOJO(
@@ -166,7 +167,7 @@ public abstract class InformationUnit implements Comparable<InformationUnit> {
         
         doc.add(new Field(InformationUnit.JSON_FIELD,
             iupojo.toString(),
-            Field.Store.YES, Field.Index.NOT_ANALYZED));
+                LuceneField.STORED_NOT_ANALYZED.getType()));
 
         // Leave it upto the concrete instances to fill up specific fields,
         // e.g. the attribute id etc.

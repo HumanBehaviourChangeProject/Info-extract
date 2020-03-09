@@ -6,6 +6,7 @@
 package com.ibm.drl.hbcp.extractor;
 
 import com.ibm.drl.hbcp.extractor.matcher.CandidateAnswer;
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashMap;

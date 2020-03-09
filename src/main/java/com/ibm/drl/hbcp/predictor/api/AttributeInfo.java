@@ -3,7 +3,6 @@ package com.ibm.drl.hbcp.predictor.api;
 import com.google.common.collect.Lists;
 import com.ibm.drl.hbcp.core.attributes.Attribute;
 import com.ibm.drl.hbcp.core.attributes.AttributeType;
-import com.ibm.drl.hbcp.parser.JSONRefParser;
 
 import javax.json.Json;
 import javax.json.JsonArrayBuilder;
@@ -21,14 +20,14 @@ public class AttributeInfo extends Attribute implements Jsonable {
     public final String shortStringType;
     public final AttributeValueType valueType;
 
-    public AttributeInfo(String type, String id, String name, AttributeValueType valueType) {
-        super(id, AttributeType.getFromShortString(type), name);
-        shortStringType = type;
+    public AttributeInfo(Attribute attribute, AttributeValueType valueType) {
+        super(attribute.getId(), attribute.getType(), attribute.getName());
+        shortStringType = attribute.getType().getShortString();
         this.valueType = valueType;
     }
 
-    public AttributeInfo(String type, String id, String name) {
-        this(type, id, name, AttributeValueType.defaultType(type));
+    public AttributeInfo(Attribute attribute) {
+        this(attribute, AttributeValueType.defaultType(attribute.getType()));
     }
 
     public static String getType(int treeIndex) {
@@ -56,8 +55,8 @@ public class AttributeInfo extends Attribute implements Jsonable {
             this.values = values;
         }
 
-        public static AttributeValueType defaultType(String type) {
-            if (type.equals("I")) {
+        public static AttributeValueType defaultType(AttributeType type) {
+            if (type == AttributeType.INTERVENTION) {
                 return new AttributeValueType(ValueType.BINARY, Lists.newArrayList());
             } else {
                 return new AttributeValueType(ValueType.TEXT, Lists.newArrayList());

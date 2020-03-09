@@ -1,7 +1,5 @@
 package com.ibm.drl.hbcp.core.attributes;
 
-import org.jetbrains.annotations.NotNull;
-
 import java.util.Comparator;
 import java.util.Objects;
 

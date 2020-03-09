@@ -4,23 +4,18 @@
  */
 package com.ibm.drl.hbcp.core.wvec;
 
+import org.apache.lucene.document.Document;
+import org.apache.lucene.index.DirectoryReader;
+import org.apache.lucene.index.IndexReader;
+import org.apache.lucene.index.Term;
+import org.apache.lucene.search.*;
+import org.apache.lucene.store.FSDirectory;
+
 import java.io.File;
 import java.io.FileReader;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Properties;
-import org.apache.lucene.document.Document;
-import org.apache.lucene.index.DirectoryReader;
-import org.apache.lucene.index.IndexReader;
-import org.apache.lucene.index.Term;
-import org.apache.lucene.search.BooleanClause;
-import org.apache.lucene.search.BooleanQuery;
-import org.apache.lucene.search.IndexSearcher;
-import org.apache.lucene.search.Query;
-import org.apache.lucene.search.TermQuery;
-import org.apache.lucene.search.TopDocs;
-import org.apache.lucene.search.TopScoreDocCollector;
-import org.apache.lucene.store.FSDirectory;
 
 /**
  * A collection of WordVec instances for each unique term in
@@ -86,16 +81,17 @@ public class ClusteredWordVecs {
     }
 
     Query getLuceneQueryObject(String word) {
-        BooleanQuery q = new BooleanQuery();
+        BooleanQuery.Builder q = new BooleanQuery.Builder();
         TermQuery tq = new TermQuery(new Term(WordVecsIndexer.FIELD_WORD_NAME, word));
         q.add(tq, BooleanClause.Occur.MUST);
-        return q;
+        return q.build();
     }
 
     public WordVec getVec(String word) throws Exception {
         TopScoreDocCollector collector;
         TopDocs topDocs;
-        collector = TopScoreDocCollector.create(1);
+        // TODO: marting: I set "totalHitsThreshold" to 0 here (port to Lucene 8), but I'm not sure that's correct
+        collector = TopScoreDocCollector.create(1, 0);
         searcher.search(getLuceneQueryObject(word), collector);
         topDocs = collector.topDocs();
         

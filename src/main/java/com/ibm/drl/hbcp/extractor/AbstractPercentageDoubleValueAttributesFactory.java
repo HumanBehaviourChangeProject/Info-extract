@@ -7,10 +7,10 @@ package com.ibm.drl.hbcp.extractor;
 
 import com.ibm.drl.hbcp.core.attributes.AttributeType;
 import com.ibm.drl.hbcp.inforetrieval.indexer.ResearchDoc;
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Properties;
-import com.ibm.drl.hbcp.parser.JSONRefParser;
 
 /**
  *

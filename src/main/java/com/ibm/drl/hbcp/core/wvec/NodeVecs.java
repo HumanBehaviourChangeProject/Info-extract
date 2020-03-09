@@ -3,15 +3,21 @@
  */
 package com.ibm.drl.hbcp.core.wvec;
 
+import com.google.common.collect.Lists;
+import com.ibm.drl.hbcp.core.attributes.Attribute;
+import com.ibm.drl.hbcp.core.attributes.AttributeType;
+import com.ibm.drl.hbcp.core.attributes.AttributeValuePair;
+import com.ibm.drl.hbcp.predictor.graph.AttributeValueNode;
+import com.ibm.drl.hbcp.util.ParsingUtils;
+import com.ibm.drl.hbcp.util.Props;
+import lombok.Getter;
+
 import java.io.*;
 import java.util.*;
 import java.util.Map.Entry;
 import java.util.stream.Collector;
 import java.util.stream.Collectors;
-
-import com.google.common.collect.Lists;
-import com.ibm.drl.hbcp.core.attributes.AttributeType;
-import com.ibm.drl.hbcp.predictor.graph.AttributeValueNode;
+import javax.annotation.Nullable;
 
 /**
  * A collection of vectorized attribute instances. The result of the node2vec algorithm applied on a graph
@@ -23,21 +29,22 @@ public class NodeVecs extends WordVecs {
     public Map<AttributeType, Map<String, WordVec>> attTypeVecMap;
     NodeMetric metric;
 
-
-    /**
-     * 
-     * @param prop
-     * @throws IOException 
-     */
-    // TODO: remove every dependency to Properties, just replace this with the actual typed arguments you need
-    public NodeVecs(Properties prop) throws IOException {
-        this(new FileInputStream(new File(prop.getProperty("nodevecs.vecfile"))), prop);
-    }
+    // TODO add the min values too at some point
+    private final Map<Attribute, Double> maxValuesPerAttribute;
+    @Getter
+    private final Set<String> attributeIds;
 
     public NodeVecs(InputStream inputFile, Properties prop) throws IOException {
         super(inputFile, prop);
         metric = new NodeMetric(prop);
         groupVectorsByAttributeType();
+        maxValuesPerAttribute = getMaxValuesPerAttribute();
+        attributeIds = buildAttributeIds();
+    }
+
+    // TODO: remove every dependency to Properties, just replace this with the actual typed arguments you need
+    public NodeVecs(Properties prop) throws IOException {
+        this(new FileInputStream(new File(prop.getProperty("nodevecs.vecfile"))), prop);
     }
     
     /* DG: loadFromTextFile is called from the constructor... so this is an instance
@@ -65,7 +72,11 @@ public class NodeVecs extends WordVecs {
             ex.printStackTrace();
         }
     }
-        
+    
+    public int getDimension() {
+        return Integer.parseInt(prop.getProperty("node2vec.layer1_size", "128"));
+    }
+    
     private void groupVectorsByAttributeType() {
         attTypeVecMap = new HashMap<>();
         // for POPULATION, INTERVENTION, OUTCOME, and OUTCOME VALUES
@@ -84,6 +95,28 @@ public class NodeVecs extends WordVecs {
         
     }
 
+    private Map<Attribute, Double> getMaxValuesPerAttribute() {
+        Map<Attribute, Double> res = new HashMap<>();
+        for (String nodeId : attTypeVecMap.values().stream().flatMap(map -> map.keySet().stream()).collect(Collectors.toSet())) {
+            AttributeValuePair avp = AttributeValueNode.parse(nodeId);
+            Double numericValue = getNumericValue(nodeId);
+            if (numericValue != null) {
+                res.putIfAbsent(avp.getAttribute(), Double.NEGATIVE_INFINITY);
+                res.put(avp.getAttribute(), Double.max(res.get(avp.getAttribute()), numericValue));
+            }
+        }
+        return res;
+    }
+
+    private Set<String> buildAttributeIds() {
+        Set<String> res = new HashSet<>();
+        for (String nodeId : attTypeVecMap.values().stream().flatMap(map -> map.keySet().stream()).collect(Collectors.toSet())) {
+            AttributeValuePair avp = AttributeValueNode.parse(nodeId);
+            res.add(avp.getAttribute().getId());
+        }
+        return res;
+    }
+
     /** return the numeric value if numeric node, null otherwise
      * assumes nodeInstName is always of the form type:id:value */
     public static Double getNumericValue(String nodeInstName) {
@@ -92,7 +125,7 @@ public class NodeVecs extends WordVecs {
             if (tokens.length == 2)
                 return null;
             
-            return Double.parseDouble(tokens[2]);
+            return ParsingUtils.parseFirstDouble(tokens[2]);
         }
         catch (NumberFormatException e) {
             return null;
@@ -213,6 +246,10 @@ public class NodeVecs extends WordVecs {
     }
 
     public long getSize() { return attTypeVecMap.values().stream().flatMap(map -> map.values().stream()).count(); }
+
+    public Double getMaxValue(Attribute attribute) {
+        return maxValuesPerAttribute.get(attribute);
+    }
     
     /**
      * @param args
@@ -261,7 +298,9 @@ public class NodeVecs extends WordVecs {
             
             // Testing the Mixed Gender types
             
-            nodeInstance = "C:4507427:M_(75.8)_F_(24.2)";
+            //nodeInstance = "C:4507427:M_(75.8)_F_(24.2)";
+            nodeInstance = "C:5579088:22.8";
+            
             AttributeValueNode qnodeAttributeValue = AttributeValueNode.parse(nodeInstance);
             List<String> nnList = nodeVecs.getClosestAttributeInstances(qnodeAttributeValue);
             System.out.println(nnList.size());

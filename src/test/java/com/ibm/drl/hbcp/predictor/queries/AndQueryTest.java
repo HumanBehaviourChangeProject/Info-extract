@@ -36,16 +36,22 @@ public class AndQueryTest {
     public void testExactAndQuery() {
         assertEquals(6, smallGraph.getSize());
         // queries 2 nodes we know are in the graph
-        Query query = new AndQuery(Lists.newArrayList(
+        List<Query> queries = Lists.newArrayList(
                 new NodeQuery(AttributeValueNode.parse("C:10:1")),
                 new NodeQuery(AttributeValueNode.parse("I:11:1"))
-        )).filter(sr -> sr.node.getAttribute().getType() == AttributeType.OUTCOME);
-        // request the top 10 results (there are only 4 possible results)
-        List<SearchResult> res = query.searchTopK(smallGraph, 10);
-        assertEquals(4, res.size());
-        // discard the score (the order should be sufficient to test)
-        List<AttributeValueNode> attributeValueNodes = res.stream().map(sr -> sr.node).collect(Collectors.toList());
-        List<String> rawExpected = Lists.newArrayList("O:1:1", "O:2:1", "O:3:1", "O:4:1");
-        assertEquals(rawExpected.stream().map(AttributeValueNode::parse).collect(Collectors.toList()), attributeValueNodes);
+        );
+        List<Query> andQueries = Lists.newArrayList(
+                new AndQuery(queries).filteredWith(sr -> sr.node.getAttribute().getType() == AttributeType.OUTCOME),
+                new AndQuerySimple(queries).filteredWith(sr -> sr.node.getAttribute().getType() == AttributeType.OUTCOME)
+        );
+        for (Query query : andQueries) {
+            // request the top 10 results (there are only 4 possible results)
+            List<SearchResult> res = query.searchTopK(smallGraph, 10);
+            assertEquals(4, res.size());
+            // discard the score (the order should be sufficient to test)
+            List<AttributeValueNode> attributeValueNodes = res.stream().map(sr -> sr.node).collect(Collectors.toList());
+            List<String> rawExpected = Lists.newArrayList("O:1:1", "O:2:1", "O:3:1", "O:4:1");
+            assertEquals(rawExpected.stream().map(AttributeValueNode::parse).collect(Collectors.toList()), attributeValueNodes);
+        }
     }
 }

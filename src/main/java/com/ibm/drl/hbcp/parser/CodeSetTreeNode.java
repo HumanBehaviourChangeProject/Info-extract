@@ -5,12 +5,13 @@
  */
 package com.ibm.drl.hbcp.parser;
 
+import com.ibm.drl.hbcp.core.attributes.Attribute;
+import com.ibm.drl.hbcp.core.attributes.AttributeType;
+
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
-
-import com.ibm.drl.hbcp.core.attributes.Attribute;
-import com.ibm.drl.hbcp.core.attributes.AttributeType;
+import java.util.function.Function;
 
 /**
  * Code set or attribute node in the attribute hierarchy.
@@ -32,7 +33,7 @@ public class CodeSetTreeNode {
 
     CodeSetTreeNode parent;
     public List<CodeSetTreeNode> children;
-    boolean isRoot;
+    public boolean isRoot;
     protected Attribute attribute;  // code-set attribute 
     protected String name;
     protected String id;
@@ -40,6 +41,28 @@ public class CodeSetTreeNode {
 
     public CodeSetTreeNode() {
         refs = new PerDocRefs();
+    }
+
+    public static CodeSetTreeNode buildRoot(String name, String id, Function<CodeSetTreeNode, List<CodeSetTreeNode>> childrenBuilder) {
+        CodeSetTreeNode res = new CodeSetTreeNode();
+        res.parent = null;
+        res.isRoot = true;
+        res.attribute = null;
+        res.name = name;
+        res.id = id;
+        res.children = childrenBuilder.apply(res);
+        return res;
+    }
+
+    public static CodeSetTreeNode buildAttributeNode(Attribute attribute, CodeSetTreeNode parent,  Function<CodeSetTreeNode, List<CodeSetTreeNode>> childrenBuilder) {
+        CodeSetTreeNode res = new CodeSetTreeNode();
+        res.parent = parent;
+        res.isRoot = false;
+        res.attribute = attribute;
+        res.name = attribute.getName();
+        res.id = attribute.getId();
+        res.children = childrenBuilder.apply(res);
+        return res;
     }
 
     /**
@@ -187,6 +210,8 @@ public class CodeSetTreeNode {
     public CodeSetTreeNode getParent() {
         return parent;
     }
+
+    public boolean isRoot() { return isRoot; }
 
     public Attribute getAttribute() {
         return attribute;

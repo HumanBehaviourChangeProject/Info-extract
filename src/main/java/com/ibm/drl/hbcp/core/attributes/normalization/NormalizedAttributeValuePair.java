@@ -1,5 +1,6 @@
 package com.ibm.drl.hbcp.core.attributes.normalization;
 
+import com.ibm.drl.hbcp.core.attributes.Arm;
 import com.ibm.drl.hbcp.core.attributes.ArmifiedAttributeValuePair;
 
 /**
@@ -13,9 +14,14 @@ public class NormalizedAttributeValuePair extends ArmifiedAttributeValuePair {
 
     public NormalizedAttributeValuePair(ArmifiedAttributeValuePair pair, String normalizedValue) {
         // note here the "normalizedValue" passed as value in the super constructor
-        super(pair.getAttribute(), normalizedValue, pair.getDocNames().iterator().next(), pair.getArm());
+        super(pair.getAttribute(), normalizedValue, pair.getDocName(), pair.getArm(), pair.getContext(), pair.getPageNumber());
         original = pair;
         this.normalizedValue = normalizedValue;
+    }
+
+    @Override
+    public NormalizedAttributeValuePair withArm(Arm arm) {
+        return new NormalizedAttributeValuePair(original.withArm(arm), normalizedValue);
     }
 
     public final String getNormalizedValue() { return normalizedValue; }

@@ -5,16 +5,17 @@
  */
 package com.ibm.drl.hbcp.extractor;
 
+import com.ibm.drl.hbcp.core.attributes.AttributeType;
+import com.ibm.drl.hbcp.parser.CodeSetTree;
+import com.ibm.drl.hbcp.parser.CodeSetTreeNode;
+import com.ibm.drl.hbcp.util.LuceneField;
+import org.apache.lucene.document.Document;
+import org.apache.lucene.document.Field;
+
 import java.util.HashSet;
 import java.util.Set;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-
-import com.ibm.drl.hbcp.core.attributes.AttributeType;
-import org.apache.lucene.document.Document;
-import org.apache.lucene.document.Field;
-import com.ibm.drl.hbcp.parser.CodeSetTree;
-import com.ibm.drl.hbcp.parser.CodeSetTreeNode;
 
 /**
  * This class is used for extracting outcome values.
@@ -136,7 +137,7 @@ public class PercentageDoubleValueUnit extends InformationUnit {
     public void appendFields(Document doc) {
         doc.add(new Field(InformationUnit.ATTRIB_ID_FIELD,
             String.valueOf(attribId),
-            Field.Store.YES, Field.Index.NOT_ANALYZED));
+                LuceneField.STORED_NOT_ANALYZED.getType()));
     }
 
     @Override

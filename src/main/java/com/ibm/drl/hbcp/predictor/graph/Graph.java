@@ -1,11 +1,7 @@
 package com.ibm.drl.hbcp.predictor.graph;
 
-import java.io.BufferedReader;
-import java.io.File;
-import java.io.FileReader;
-import java.io.IOException;
-import java.util.ArrayList;
 import java.util.List;
+import java.util.Objects;
 
 /**
  * A simple graph as the list of its (weighted) edges.
@@ -28,6 +24,20 @@ public interface Graph<E> {
 
         public Edge(E source, E target, double weight) {
             this.source = source; this.target = target; this.weight = weight;
+        }
+
+        @Override
+        public boolean equals(Object o) {
+            if (this == o) return true;
+            if (o == null || getClass() != o.getClass()) return false;
+            Edge<?> edge = (Edge<?>) o;
+            return source.equals(edge.source) &&
+                    target.equals(edge.target);
+        }
+
+        @Override
+        public int hashCode() {
+            return Objects.hash(source, target, weight);
         }
 
         @Override

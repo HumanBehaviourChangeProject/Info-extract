@@ -2,6 +2,7 @@ package com.ibm.drl.hbcp.core.attributes.collection;
 
 import com.google.common.collect.Lists;
 import com.google.common.collect.Multiset;
+import com.ibm.drl.hbcp.core.attributes.Arm;
 import com.ibm.drl.hbcp.core.attributes.ArmifiedAttributeValuePair;
 import com.ibm.drl.hbcp.core.attributes.Attribute;
 import com.ibm.drl.hbcp.core.attributes.AttributeType;
@@ -21,6 +22,9 @@ import java.util.stream.Collectors;
  */
 public class AttributeValueCollectionTest {
 
+    public static Arm A = new Arm("A", "A");
+    public static Arm B = new Arm("B", "B");
+
     public static Attribute[] attributes = {
             new Attribute("1", AttributeType.POPULATION, ""),
             new Attribute("2", AttributeType.INTERVENTION, ""),
@@ -30,20 +34,20 @@ public class AttributeValueCollectionTest {
 
     public static List<ArmifiedAttributeValuePair> originalPairs = Lists.newArrayList(
             // same doc checks
-            new ArmifiedAttributeValuePair(attributes[0], "ValueOf1", "Document1", "A"),
-            new ArmifiedAttributeValuePair(attributes[0], "AnotherValueOf1", "Document1", "A"),
-            new ArmifiedAttributeValuePair(attributes[1], "ValueOf2", "Document1", "A"),
-            new ArmifiedAttributeValuePair(attributes[1], "ValueOf2InOtherArm", "Document1", "B"),
+            new ArmifiedAttributeValuePair(attributes[0], "ValueOf1", "Document1", A),
+            new ArmifiedAttributeValuePair(attributes[0], "AnotherValueOf1", "Document1", A),
+            new ArmifiedAttributeValuePair(attributes[1], "ValueOf2", "Document1", A),
+            new ArmifiedAttributeValuePair(attributes[1], "ValueOf2InOtherArm", "Document1", B),
             // with another doc
             new ArmifiedAttributeValuePair(attributes[0], "ValueOf1InOtherDoc", "Document2", "Some arm"),
             // null checks
             new ArmifiedAttributeValuePair(null, "ValueOfNull", "DocumentNullId", "ArmNullId"),
             new ArmifiedAttributeValuePair(attributes[2], null, "DocumentNullValue", "ArmNullValue"),
-            new ArmifiedAttributeValuePair(attributes[2], "ValueOf3", (String) null, "ArmNullDoc"),
-            new ArmifiedAttributeValuePair(attributes[2], "ValueOf3", "DocumentNullArm", null),
+            new ArmifiedAttributeValuePair(attributes[2], "ValueOf3", null, "ArmNullDoc"),
+            new ArmifiedAttributeValuePair(attributes[2], "ValueOf3", "DocumentNullArm", (Arm) null),
             // multiset check (pairs can be in the collection twice)
-            new ArmifiedAttributeValuePair(attributes[3], "ValueOf4", "Document4", "A"),
-            new ArmifiedAttributeValuePair(attributes[3], "ValueOf4", "Document4", "A")
+            new ArmifiedAttributeValuePair(attributes[3], "ValueOf4", "Document4", A),
+            new ArmifiedAttributeValuePair(attributes[3], "ValueOf4", "Document4", A)
     );
 
     private static AttributeValueCollection<ArmifiedAttributeValuePair> collection;
@@ -88,20 +92,20 @@ public class AttributeValueCollectionTest {
     public void testIndexingById() {
         performMultisetCheck(collection.getPairsOfId("1"),
                 Lists.newArrayList(
-                        new ArmifiedAttributeValuePair(attributes[0], "ValueOf1", "Document1", "A"),
-                        new ArmifiedAttributeValuePair(attributes[0], "AnotherValueOf1", "Document1", "A"),
+                        new ArmifiedAttributeValuePair(attributes[0], "ValueOf1", "Document1", A),
+                        new ArmifiedAttributeValuePair(attributes[0], "AnotherValueOf1", "Document1", A),
                         new ArmifiedAttributeValuePair(attributes[0], "ValueOf1InOtherDoc", "Document2", "Some arm")
                 ));
         performMultisetCheck(collection.getPairsOfId("2"),
                 Lists.newArrayList(
-                        new ArmifiedAttributeValuePair(attributes[1], "ValueOf2", "Document1", "A"),
-                        new ArmifiedAttributeValuePair(attributes[1], "ValueOf2InOtherArm", "Document1", "B")
+                        new ArmifiedAttributeValuePair(attributes[1], "ValueOf2", "Document1", A),
+                        new ArmifiedAttributeValuePair(attributes[1], "ValueOf2InOtherArm", "Document1", B)
                 ));
         // this is definitely failing if Multiset is replaced with a regular set
         performMultisetCheck(collection.getPairsOfId("4"),
                 Lists.newArrayList(
-                        new ArmifiedAttributeValuePair(attributes[3], "ValueOf4", "Document4", "A"),
-                        new ArmifiedAttributeValuePair(attributes[3], "ValueOf4", "Document4", "A")
+                        new ArmifiedAttributeValuePair(attributes[3], "ValueOf4", "Document4", A),
+                        new ArmifiedAttributeValuePair(attributes[3], "ValueOf4", "Document4", A)
                 ));
     }
 
@@ -113,16 +117,16 @@ public class AttributeValueCollectionTest {
 
     @Test
     public void testIndexingByArm() {
-        Map<String, Multiset<ArmifiedAttributeValuePair>> armified = collection.getArmifiedPairsInDoc("Document1");
-        performMultisetCheck(armified.get("A"),
+        Map<Arm, Multiset<ArmifiedAttributeValuePair>> armified = collection.getArmifiedPairsInDoc("Document1");
+        performMultisetCheck(armified.get(A),
                 Lists.newArrayList(
-                        new ArmifiedAttributeValuePair(attributes[0], "ValueOf1", "Document1", "A"),
-                        new ArmifiedAttributeValuePair(attributes[0], "AnotherValueOf1", "Document1", "A"),
-                        new ArmifiedAttributeValuePair(attributes[1], "ValueOf2", "Document1", "A")
+                        new ArmifiedAttributeValuePair(attributes[0], "ValueOf1", "Document1", A),
+                        new ArmifiedAttributeValuePair(attributes[0], "AnotherValueOf1", "Document1", A),
+                        new ArmifiedAttributeValuePair(attributes[1], "ValueOf2", "Document1", A)
                 ));
-        performMultisetCheck(armified.get("B"),
+        performMultisetCheck(armified.get(B),
                 Lists.newArrayList(
-                        new ArmifiedAttributeValuePair(attributes[1], "ValueOf2InOtherArm", "Document1", "B")
+                        new ArmifiedAttributeValuePair(attributes[1], "ValueOf2InOtherArm", "Document1", B)
                 ));
     }
 

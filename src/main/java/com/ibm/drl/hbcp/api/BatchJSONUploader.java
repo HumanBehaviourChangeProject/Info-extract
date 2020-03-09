@@ -6,12 +6,6 @@
 package com.ibm.drl.hbcp.api;
 
 import com.ibm.drl.hbcp.inforetrieval.indexer.ExtractedInfoRetriever;
-import java.io.IOException;
-import java.io.InputStream;
-import java.io.UnsupportedEncodingException;
-import java.net.URI;
-import java.util.List;
-import java.util.Properties;
 import org.apache.http.HttpEntity;
 import org.apache.http.HttpResponse;
 import org.apache.http.client.HttpClient;
@@ -21,6 +15,13 @@ import org.apache.http.entity.StringEntity;
 import org.apache.http.impl.client.DefaultHttpClient;
 import org.apache.http.impl.client.HttpClients;
 import org.apache.http.util.EntityUtils;
+
+import java.io.IOException;
+import java.io.InputStream;
+import java.io.UnsupportedEncodingException;
+import java.net.URI;
+import java.util.List;
+import java.util.Properties;
 
 /**
  * Used to export the extracted values in JSON format into a Cloudant database.

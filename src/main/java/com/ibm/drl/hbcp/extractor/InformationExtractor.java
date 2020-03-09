@@ -5,54 +5,41 @@
  */
 package com.ibm.drl.hbcp.extractor;
 
+import com.ibm.drl.hbcp.core.attributes.Arm;
+import com.ibm.drl.hbcp.core.wvec.WordVecs;
 import com.ibm.drl.hbcp.extractor.matcher.CandidateAnswer;
-import com.ibm.drl.hbcp.inforetrieval.indexer.ExtractedInfoIndexer;
-import com.ibm.drl.hbcp.inforetrieval.indexer.PaperIndexer;
-import com.ibm.drl.hbcp.inforetrieval.indexer.Paragraph;
-import com.ibm.drl.hbcp.inforetrieval.indexer.ResearchDoc;
-import com.ibm.drl.hbcp.inforetrieval.indexer.SentenceBasedParagraphBuilder;
-import com.ibm.drl.hbcp.inforetrieval.indexer.SlindingWindowParagraphBuilder;
-
-import java.io.*;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.HashSet;
-import java.util.List;
-import java.util.Map;
-import java.util.Properties;
-import java.util.Set;
-import com.ibm.drl.hbcp.nb.DPAttribNBClassifier;
+import com.ibm.drl.hbcp.inforetrieval.indexer.*;
 import com.ibm.drl.hbcp.inforetrieval.normrsv.NormalizedRSVRetriever;
+import com.ibm.drl.hbcp.nb.DPAttribNBClassifier;
+import com.ibm.drl.hbcp.parser.JSONRefParser;
+import com.ibm.drl.hbcp.util.LuceneField;
+import com.ibm.drl.hbcp.util.Props;
 import org.apache.commons.io.FileUtils;
 import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.analysis.core.KeywordAnalyzer;
 import org.apache.lucene.classification.SimpleNaiveBayesClassifier;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.document.Field;
-import org.apache.lucene.index.DirectoryReader;
-import org.apache.lucene.index.IndexReader;
-import org.apache.lucene.index.IndexWriter;
-import org.apache.lucene.index.IndexWriterConfig;
-import org.apache.lucene.index.Term;
+import org.apache.lucene.index.*;
 import org.apache.lucene.queryparser.classic.ParseException;
 import org.apache.lucene.queryparser.flexible.core.QueryNodeException;
 import org.apache.lucene.queryparser.flexible.standard.StandardQueryParser;
-import org.apache.lucene.search.IndexSearcher;
+import org.apache.lucene.search.*;
 import org.apache.lucene.search.similarities.LMJelinekMercerSimilarity;
-import org.apache.lucene.store.FSDirectory;
-import org.apache.lucene.search.Query;
-import org.apache.lucene.search.ScoreDoc;
-import org.apache.lucene.search.TermQuery;
-import org.apache.lucene.search.TopDocs;
 import org.apache.lucene.search.similarities.Similarity;
 import org.apache.lucene.store.Directory;
+import org.apache.lucene.store.FSDirectory;
+import org.apache.lucene.store.MMapDirectory;
 import org.apache.lucene.store.RAMDirectory;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import com.ibm.drl.hbcp.parser.JSONRefParser;
-import com.ibm.drl.hbcp.parser.JSONRefParser4Armification;
-import com.ibm.drl.hbcp.core.wvec.WordVecs;
+
+import java.io.Closeable;
+import java.io.File;
+import java.io.FileReader;
+import java.io.IOException;
+import java.nio.file.Files;
+import java.util.*;
 
 /**
  * This class extracts information from unstructured text indexed as fixed length word
@@ -72,7 +59,7 @@ public class InformationExtractor implements Closeable {
 
     JSONRefParser refBuilder;
     Map<String, Set<String>> docBySprint;
-    Map<String, Set<String>> armInfo;
+    Map<String, Set<Arm>> armInfo;
     Boolean armification;
     private String propFile;
 
@@ -89,8 +76,9 @@ public class InformationExtractor implements Closeable {
     public InformationExtractor() throws Exception {
         analyzer = PaperIndexer.constructAnalyzer(this.getClass().getClassLoader().getResource("stop.txt").getPath());
         this.armification = Boolean.parseBoolean(prop.getProperty("armification"));
+        propFile = this.getClass().getClassLoader().getResource("init.properties").getPath();
         prop = new Properties();
-        prop.load(new FileReader(this.getClass().getClassLoader().getResource("init.properties").getPath()));
+        prop.load(new FileReader(propFile));
 
         if (Integer.parseInt(prop.getProperty("qe.nn", "0")) > 0)
             wvecs = new WordVecs(prop);
@@ -111,27 +99,8 @@ public class InformationExtractor implements Closeable {
      * @param propFile Path to the properties file.
      */    
     public InformationExtractor(String propFile) throws IOException {
+        this(Props.loadProperties(propFile));
         this.propFile = propFile;
-        prop = new Properties();
-        prop.load(new FileReader(propFile));
-        this.armification = Boolean.parseBoolean(prop.getProperty("armification"));
-
-        if (Integer.parseInt(prop.getProperty("qe.nn", "0")) > 0)
-            wvecs = new WordVecs(prop);
-
-        String indexPath = prop.getProperty("index");
-        File indexDir = new File(indexPath);
-
-        reader = DirectoryReader.open(FSDirectory.open(indexDir.toPath()));
-        indexDir = new File(indexPath + "/para/");
-
-        analyzer = PaperIndexer.constructAnalyzer(prop.getProperty("stopfile"));
-
-        paraReadersMap = new HashMap<>();
-
-        armInfo = new HashMap();
-        // Load the ground-truth
-        loadGroundTruth();
     }
     
     /**
@@ -190,14 +159,16 @@ public class InformationExtractor implements Closeable {
     }
 
     void loadGroundTruth() throws IOException {
-        if (armification){
-            refBuilder = new JSONRefParser4Armification(prop);
-            armInfo = ((JSONRefParser4Armification)refBuilder).getArmsInfo();
-        }else{
-            refBuilder = new JSONRefParser(prop);
-        }
-
+//        if (armification){
+//            refBuilder = new JSONRefParser4Armification(prop);
+//        }else{
+//            refBuilder = new JSONRefParser(prop);
+//        }
+        refBuilder = new JSONRefParser(prop);
         refBuilder.buildAll();
+        armInfo = refBuilder.getArmsInfo();
+//        if(armification)
+//            armInfo = ((JSONRefParser4Armification)refBuilder).getArmsInfo();
         docBySprint = refBuilder.docsBySprint();
     }
 
@@ -225,7 +196,7 @@ public class InformationExtractor implements Closeable {
     // To be called during negative sampling.
     public Directory buildParaIndex(int refDocId, int ws) throws IOException {
 
-        Directory ramdir = new RAMDirectory();                
+        Directory ramdir = new RAMDirectory();//new MMapDirectory(Files.createTempDirectory("doc_" + refDocId + "_paraIndex"));
         IndexWriterConfig iwcfg = new IndexWriterConfig(analyzer);
         IndexWriter writer = new IndexWriter(ramdir, iwcfg);
 
@@ -259,7 +230,7 @@ public class InformationExtractor implements Closeable {
         int paraNumberOfSentences= Integer.parseInt(prop.getProperty("para.number.of.sentences", "1"));
 
         SentenceBasedParagraphBuilder builderSB= new SentenceBasedParagraphBuilder(paraNumberOfSentences, analyzer);
-        SlindingWindowParagraphBuilder builder= new SlindingWindowParagraphBuilder(windowSize, analyzer);
+        SlidingWindowParagraphBuilder builder= new SlidingWindowParagraphBuilder(windowSize, analyzer);
 
         String content = reader.document(docId).get(ResearchDoc.FIELD_CONTENT);
         // Write out paragraphs...
@@ -272,9 +243,9 @@ public class InformationExtractor implements Closeable {
 
         for (Paragraph p : paragraphs) {
             Document doc = new Document();
-            doc.add(new Field(ResearchDoc.FIELD_ID, p.id, Field.Store.YES, Field.Index.NOT_ANALYZED));
+            doc.add(new Field(ResearchDoc.FIELD_ID, p.id, LuceneField.STORED_NOT_ANALYZED.getType()));
             doc.add(new Field(ResearchDoc.FIELD_CONTENT, p.content,
-                    Field.Store.YES, Field.Index.ANALYZED, Field.TermVector.WITH_POSITIONS));
+                    new LuceneField().stored(true).analyzed(true).termVectorsWithPositions().getType()));
 
             logger.debug(p.content);
 
@@ -486,15 +457,13 @@ public class InformationExtractor implements Closeable {
         // For saving the extracted information in an index...
         // To be used by the web interface and also to be viewed
         // independently of this application.
-        ExtractedInfoIndexer ieIndexer = new ExtractedInfoIndexer(getPropFile());
+        try (ExtractedInfoIndexer ieIndexer = new ExtractedInfoIndexer(getPropFile())) {
+            for (InformationUnit toExtract : listToExtract) {
+                extractInformationIU(toExtract, ieIndexer);
+            }
 
-        for (InformationUnit toExtract : listToExtract) { 
-            extractInformationIU(toExtract, ieIndexer);                        
+            printSummaryEval(listToExtract, false);
         }
-
-        printSummaryEval(listToExtract, false);
-
-        ieIndexer.close();
     }
 
     void printSummaryEval(List<InformationUnit> iuList, boolean supervised) {

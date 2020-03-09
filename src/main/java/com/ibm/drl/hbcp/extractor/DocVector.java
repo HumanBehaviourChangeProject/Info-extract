@@ -7,11 +7,15 @@ package com.ibm.drl.hbcp.extractor;
 
 import com.ibm.drl.hbcp.inforetrieval.indexer.NGramAnalyzer;
 import com.ibm.drl.hbcp.inforetrieval.indexer.ShingleAnalyzer;
-import java.io.*;
-import java.util.*;
 import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.analysis.TokenStream;
 import org.apache.lucene.analysis.tokenattributes.CharTermAttribute;
+
+import java.io.StringReader;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Properties;
 
 class TermFreq {
     String term;

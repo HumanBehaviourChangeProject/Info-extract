@@ -5,27 +5,6 @@
  */
 package com.ibm.drl.hbcp.nb;
 
-import java.io.IOException;
-import java.util.List;
-import java.util.Properties;
-
-import org.apache.lucene.analysis.Analyzer;
-import org.apache.lucene.classification.ClassificationResult;
-import org.apache.lucene.classification.SimpleNaiveBayesClassifier;
-import org.apache.lucene.document.Document;
-import org.apache.lucene.document.Field;
-import org.apache.lucene.index.DirectoryReader;
-import org.apache.lucene.index.IndexReader;
-import org.apache.lucene.index.IndexWriter;
-import org.apache.lucene.index.IndexWriterConfig;
-import org.apache.lucene.index.LeafReader;
-import org.apache.lucene.index.SlowCompositeReaderWrapper;
-import org.apache.lucene.store.Directory;
-import org.apache.lucene.store.RAMDirectory;
-import org.apache.lucene.util.BytesRef;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
-
 import com.ibm.drl.hbcp.extractor.AbstractDetectPresenceAttribute;
 import com.ibm.drl.hbcp.extractor.CVSplit;
 import com.ibm.drl.hbcp.extractor.InformationExtractor;
@@ -33,6 +12,22 @@ import com.ibm.drl.hbcp.extractor.InformationUnit;
 import com.ibm.drl.hbcp.inforetrieval.indexer.PaperIndexer;
 import com.ibm.drl.hbcp.inforetrieval.indexer.ResearchDoc;
 import com.ibm.drl.hbcp.parser.AnnotatedAttributeValuePair;
+import com.ibm.drl.hbcp.util.LuceneField;
+import org.apache.lucene.analysis.Analyzer;
+import org.apache.lucene.classification.ClassificationResult;
+import org.apache.lucene.classification.SimpleNaiveBayesClassifier;
+import org.apache.lucene.document.Document;
+import org.apache.lucene.document.Field;
+import org.apache.lucene.index.*;
+import org.apache.lucene.store.Directory;
+import org.apache.lucene.store.RAMDirectory;
+import org.apache.lucene.util.BytesRef;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
+import java.io.IOException;
+import java.util.List;
+import java.util.Properties;
 
 /**
  * Train a Naive Bayes classifier: pos-samples - the annotated text from training set
@@ -64,13 +59,13 @@ public class DPAttribNBClassifier {
      */
     public DPAttribNBClassifier(Properties prop, CVSplit cvsplit, InformationUnit iunit) throws Exception {
         this.prop = prop;
-        classifier = new SimpleNaiveBayesClassifier();
         //classifier = new KNearestNeighborClassifier(5);
         
         this.cvsplit = cvsplit;
         this.iunit = iunit;
-        analyzer = PaperIndexer.constructAnalyzer(this.getClass().getClassLoader().getResource("stop.txt").getPath());        
-        //analyzer = new ShingleAnalyzer(prop);
+       // analyzer = PaperIndexer.constructAnalyzer(this.getClass().getClassLoader().getResource("stop.txt").getPath());        
+        analyzer = PaperIndexer.constructAnalyzer("./data/stop.txt");        
+//analyzer = new ShingleAnalyzer(prop);
     }
     
     /**
@@ -97,12 +92,14 @@ public class DPAttribNBClassifier {
         writer.close();
                 
         IndexReader trainIndexReader = DirectoryReader.open(ramdir);
-        LeafReader lreader = SlowCompositeReaderWrapper.wrap(trainIndexReader);
+        //LeafReader lreader = SlowCompositeReaderWrapper.wrap(trainIndexReader);
         
         printTrainingSet(trainIndexReader);
         
         // Train the NB classifier
-        classifier.train(lreader, ResearchDoc.FIELD_CONTENT, FIELD_CLASS_LABEL, analyzer);
+        // formerly
+        //classifier.train(lreader, ResearchDoc.FIELD_CONTENT, FIELD_CLASS_LABEL, analyzer);
+        classifier = new SimpleNaiveBayesClassifier(trainIndexReader, analyzer, null, FIELD_CLASS_LABEL, ResearchDoc.FIELD_CONTENT);
     }
 
     void printTrainingSet(IndexReader trainIndexReader) throws Exception {
@@ -118,9 +115,9 @@ public class DPAttribNBClassifier {
     void addExample(IndexWriter writer, String text, int label) throws Exception {
         Document doc = new Document();
         doc.add(new Field(ResearchDoc.FIELD_CONTENT, text,
-            Field.Store.YES, Field.Index.ANALYZED, Field.TermVector.NO));  // content
+                LuceneField.STORED_NOT_ANALYZED.with(ft -> ft.setStoreTermVectors(false)).getType())); // content
         doc.add(new Field(FIELD_CLASS_LABEL, String.valueOf(label),
-            Field.Store.YES, Field.Index.NOT_ANALYZED, Field.TermVector.NO));  // label
+                LuceneField.STORED_NOT_ANALYZED.with(ft -> ft.setStoreTermVectors(false)).getType()));  // label
         
         writer.addDocument(doc);
     }

@@ -7,8 +7,6 @@ package com.ibm.drl.hbcp.api;
 
 import com.ibm.drl.hbcp.inforetrieval.indexer.PaperIndexer;
 import com.ibm.drl.hbcp.inforetrieval.indexer.ResearchDoc;
-import java.io.InputStream;
-
 import org.apache.commons.io.FilenameUtils;
 import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.document.Document;
@@ -16,6 +14,11 @@ import org.apache.lucene.index.IndexWriter;
 import org.apache.lucene.index.IndexWriterConfig;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.RAMDirectory;
+import org.apache.tika.exception.TikaException;
+import org.xml.sax.SAXException;
+
+import java.io.IOException;
+import java.io.InputStream;
 
 /**
  * This class builds an in-memory index from a supplied pdf document. It first
@@ -46,7 +49,7 @@ public class InMemDocIndexer {
      * @param windowSize   Size of a passage in terms of the number of words.
      * @return A pointer to an in-memory Lucene index (a 'Directory' object).
     */
-    Directory indexFile(int windowSize) throws Exception {
+    Directory indexFile(int windowSize) throws IOException, TikaException, SAXException {
         
         String extension = FilenameUtils.getExtension(fileName);
         if (!extension.equalsIgnoreCase("pdf"))

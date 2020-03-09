@@ -5,12 +5,15 @@
  */
 package com.ibm.drl.hbcp.extractor;
 
-import static com.ibm.drl.hbcp.extractor.InformationExtractor.logger;
+import com.ibm.drl.hbcp.nb.DPAttribNBClassifier;
+
 import java.io.FileInputStream;
 import java.io.ObjectInputStream;
-import java.util.*;
-import com.ibm.drl.hbcp.nb.DPAttribNBClassifier;
-import org.apache.lucene.classification.SimpleNaiveBayesClassifier;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Properties;
+
+import static com.ibm.drl.hbcp.extractor.InformationExtractor.logger;
 
 /**
  * Use this class to:

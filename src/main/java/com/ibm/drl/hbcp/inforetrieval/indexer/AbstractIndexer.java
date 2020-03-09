@@ -5,23 +5,28 @@
  */
 package com.ibm.drl.hbcp.inforetrieval.indexer;
 
+import com.ibm.drl.hbcp.util.Props;
+import org.apache.commons.io.FileUtils;
+
 import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.Properties;
-import org.apache.commons.io.FileUtils;
 
 /**
  * Implements some of the common functionalities for creating/removing indexes.
  * @author dganguly
  */
 public class AbstractIndexer {
-    Properties prop;
+    protected final Properties prop;
     String indexDir;
-    
+
+    public AbstractIndexer(Properties props) throws IOException {
+        prop = props;
+    }
+
     public AbstractIndexer(String propFile) throws IOException {
-        prop = new Properties();
-        prop.load(new FileReader(propFile));                
+        this(Props.loadProperties(propFile));
     }
 
     /**

@@ -5,15 +5,16 @@
  */
 package com.ibm.drl.hbcp.inforetrieval.normrsv;
 
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.Comparator;
-
 import org.apache.lucene.search.IndexSearcher;
 import org.apache.lucene.search.ScoreDoc;
 import org.apache.lucene.search.TopDocs;
+import org.apache.lucene.search.TotalHits;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Comparator;
 
 /**
  *
@@ -83,7 +84,7 @@ public class NormalizedRSVRetriever {
         ScoreDoc[] newsd = new ScoreDoc[rerankedSDList.size()];
         newsd = rerankedSDList.toArray(newsd);
         
-        TopDocs rerankedTopDocs = new TopDocs(newsd.length, newsd, newsd[0].score);        
+        TopDocs rerankedTopDocs = new TopDocs(new TotalHits(newsd.length, TotalHits.Relation.EQUAL_TO), newsd);
         return rerankedTopDocs;
     }
     

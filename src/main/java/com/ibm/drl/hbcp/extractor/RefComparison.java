@@ -26,6 +26,13 @@ public class RefComparison {
     float precision;
     float fscore;
     float meteor;  // sim between GT and retrieved, only for text
+
+    public RefComparison() {}
+
+    public RefComparison(int tp, int fp, int fn, int tn) {
+        this();
+        this.tp = tp; this.fp = fp; this.fn = fn; this.tn = tn;
+    }
     
     String getFscore() { // +ve class
         computeFscoreVal();
@@ -43,6 +50,22 @@ public class RefComparison {
         return precision +" (" + tp + "/" + (tp+fp) + ")";
     }
     
+    public int getTp() {
+        return tp;
+    }
+
+    public int getFp() {
+        return fp;
+    }
+
+    public int getFn() {
+        return fn;
+    }
+
+    public int getTn() {
+        return tn;
+    }
+
     public String getMeteor() {
         meteor = this.computeMeteorWithGT();
         return String.valueOf(meteor);       
@@ -114,7 +137,14 @@ public class RefComparison {
         computeFscoreVal();
         computeMeteorWithGT();
     }
-    
+
+    public void addConfusionMatrixCounts(RefComparison comparison) {
+        tp += comparison.tp;
+        fp += comparison.fp;
+        tn += comparison.tn;
+        fn += comparison.fn;
+    }
+
     /**
      * Computes and returns a formatted string of the precision. recall and accuracy
      * measures of this object, which represents an aggregate measure over a set
@@ -150,7 +180,11 @@ public class RefComparison {
         }
         
         return buff.toString();
-        
+    }
+
+    @Override
+    public String toString() {
+        return toString(false, true, false);
     }
 }
 

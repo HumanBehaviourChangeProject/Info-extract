@@ -5,12 +5,7 @@
  */
 package com.ibm.drl.hbcp.core.wvec;
 
-import java.io.BufferedReader;
-import java.io.File;
-import java.io.FileReader;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Properties;
+import com.ibm.drl.hbcp.util.LuceneField;
 import org.apache.commons.math3.exception.DimensionMismatchException;
 import org.apache.commons.math3.ml.clustering.CentroidCluster;
 import org.apache.commons.math3.ml.clustering.KMeansPlusPlusClusterer;
@@ -24,6 +19,13 @@ import org.apache.lucene.index.IndexReader;
 import org.apache.lucene.index.IndexWriter;
 import org.apache.lucene.index.IndexWriterConfig;
 import org.apache.lucene.store.FSDirectory;
+
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileReader;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Properties;
 
 class CosineDistance implements DistanceMeasure {
 
@@ -80,18 +82,18 @@ public class WordVecsIndexer {
 
     Document constructDoc(String id, String line) throws Exception {        
         Document doc = new Document();
-        doc.add(new Field(FIELD_WORD_NAME, id, Field.Store.YES, Field.Index.NOT_ANALYZED));        
+        doc.add(new Field(FIELD_WORD_NAME, id, LuceneField.STORED_NOT_ANALYZED.getType()));
         doc.add(new Field(FIELD_WORD_VEC, line,
-                Field.Store.YES, Field.Index.NOT_ANALYZED, Field.TermVector.NO));
+                LuceneField.STORED_NOT_ANALYZED.with(ft -> ft.setStoreTermVectors(false)).getType()));
         return doc;        
     }
     
     // Store the sum vecs in the index
     Document constructDoc(String id, String clusterId, WordVec cvec) throws Exception {        
         Document doc = new Document();
-        doc.add(new Field(FIELD_WORD_NAME, id, Field.Store.YES, Field.Index.NOT_ANALYZED));        
+        doc.add(new Field(FIELD_WORD_NAME, id, LuceneField.STORED_NOT_ANALYZED.getType()));
         doc.add(new Field(FIELD_WORD_VEC, clusterId,
-                Field.Store.YES, Field.Index.NOT_ANALYZED, Field.TermVector.NO));
+                LuceneField.STORED_NOT_ANALYZED.with(ft -> ft.setStoreTermVectors(false)).getType()));
         doc.add(new StoredField(FIELD_CENTROID_VEC, CompressionUtils.compress(cvec.toString())));
         return doc;        
     }

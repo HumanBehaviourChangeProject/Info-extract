@@ -5,13 +5,11 @@
  */
 package com.ibm.drl.hbcp.predictor.evaluation;
 
-import java.util.Collections;
-import java.util.Comparator;
-import java.util.List;
-
 import com.ibm.drl.hbcp.extractor.DocVector;
 import com.ibm.drl.hbcp.predictor.graph.AttributeValueNode;
 import com.ibm.drl.hbcp.predictor.queries.SearchResult;
+
+import java.util.List;
 
 /**
  * Treats a ground-truth as a text string and evaluates how similar is the
@@ -33,23 +31,9 @@ public class TextSimEvaluationLogic extends BaseEvaluationLogic {
      */
     @Override
     public float evaluate(int qid, List<SearchResult> srchResList) {
-        List<AttributeValueNode> gtlist = gt.groundTruth(qid);
         
-        Collections.sort(gtlist);
-        
-        Collections.sort(srchResList, new Comparator<SearchResult>() {
-            @Override
-            public int compare(SearchResult thisRes, SearchResult thatRes) {
-                return Integer.parseInt(thisRes.node.getId()) - Integer.parseInt(thatRes.node.getId());
-            }
-        });
+        List<AttributeValueNode> gtlist = getGTList(qid, srchResList);
 
-        StringBuffer buff = new StringBuffer(String.format("GT (%d): ", qid));
-        for (AttributeValueNode a: gtlist) {
-            buff.append(a.getId()).append(":").append(a.getValue()).append(", ");
-        }
-        System.out.println(buff.toString());
-        
         float sim = 0;
         int i = 0, j = 0, gtlen = gtlist.size(), srchResLen = srchResList.size();
         float this_sim = 0;
@@ -77,5 +61,10 @@ public class TextSimEvaluationLogic extends BaseEvaluationLogic {
     @Override
     public String getMetricName() {
         return "cos-sim";
+    }
+
+    @Override
+    public PredictionTuple evaluate(int qid, SearchResult predResult) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 }

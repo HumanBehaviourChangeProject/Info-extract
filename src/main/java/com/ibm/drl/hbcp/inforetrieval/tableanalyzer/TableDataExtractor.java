@@ -7,8 +7,10 @@ package com.ibm.drl.hbcp.inforetrieval.tableanalyzer;
 
 import com.ibm.drl.hbcp.inforetrieval.indexer.BaseDirInfo;
 import com.ibm.drl.hbcp.inforetrieval.indexer.ResearchDoc;
-import java.util.*;
-import java.io.*;
+
+import java.io.File;
+import java.util.ArrayList;
+import java.util.List;
 
 /**
  *

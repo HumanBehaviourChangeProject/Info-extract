@@ -5,9 +5,14 @@ import com.google.gson.GsonBuilder;
 import com.google.gson.JsonElement;
 import com.google.gson.JsonParser;
 
+import javax.json.Json;
+import javax.json.JsonArray;
+import javax.json.JsonArrayBuilder;
 import javax.json.JsonValue;
 import java.io.*;
 import java.nio.charset.StandardCharsets;
+import java.util.List;
+import java.util.Map;
 
 /**
  * An object that can be serialized to JSON.
@@ -44,5 +49,42 @@ public interface Jsonable {
             e.printStackTrace();
             return null;
         }
+    }
+
+    static <T extends Jsonable> String getJsonList(List<T> options) {
+        return toPrettyString(getJsonArrayFromList(options));
+    }
+
+    static <T extends Jsonable> String getJsonStringToListMap(Map<String, List<T>> map) {
+        JsonArrayBuilder builder = Json.createArrayBuilder();
+        for (String key : map.keySet()) {
+            builder.add(
+                    Json.createObjectBuilder()
+                            .add("key", key)
+                            .add("value", getJsonArrayFromList(map.get(key)))
+                            .build()
+            );
+        }
+        return toPrettyString(builder.build());
+    }
+
+    static <T extends Jsonable> JsonArray getJsonArrayFromList(List<T> list) {
+        JsonArrayBuilder builder = Json.createArrayBuilder();
+        for (T element : list) {
+            builder.add(element.toJson());
+        }
+        return builder.build();
+    }
+
+    static JsonArray getJsonArrayFromStrings(List<String> elements) {
+        JsonArrayBuilder builder = Json.createArrayBuilder();
+        for (String element : elements) {
+            builder.add(element);
+        }
+        return builder.build();
+    }
+
+    static String getJsonStringList(List<String> elements) {
+        return toPrettyString(getJsonArrayFromStrings(elements));
     }
 }

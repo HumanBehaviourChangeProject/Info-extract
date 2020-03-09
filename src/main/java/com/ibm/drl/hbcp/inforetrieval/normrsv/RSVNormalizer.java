@@ -5,20 +5,14 @@
  */
 package com.ibm.drl.hbcp.inforetrieval.normrsv;
 
-import java.io.IOException;
-
 import org.apache.lucene.index.IndexReader;
 import org.apache.lucene.index.Term;
 import org.apache.lucene.index.Terms;
 import org.apache.lucene.index.TermsEnum;
-import org.apache.lucene.search.BooleanClause;
-import org.apache.lucene.search.BooleanQuery;
-import org.apache.lucene.search.IndexSearcher;
-import org.apache.lucene.search.Query;
-import org.apache.lucene.search.ScoreDoc;
-import org.apache.lucene.search.TermQuery;
-import org.apache.lucene.search.TopDocs;
+import org.apache.lucene.search.*;
 import org.apache.lucene.util.BytesRef;
+
+import java.io.IOException;
 
 
 /**
@@ -49,7 +43,7 @@ public class RSVNormalizer  {
         BytesRef term;
         TermsEnum termsEnum;
 
-        BooleanQuery dAndQ = new BooleanQuery();
+        BooleanQuery.Builder dAndQ = new BooleanQuery.Builder();
         
         tfvector = reader.getTermVector(docId, fieldName);
         if (tfvector == null || tfvector.size() == 0)
@@ -62,11 +56,11 @@ public class RSVNormalizer  {
             int tf = (int)termsEnum.totalTermFreq();
             
             TermQuery tq = new TermQuery(new Term(fieldName, termText));
-            tq.setBoost(tf);
-            dAndQ.add(tq, BooleanClause.Occur.SHOULD);
+            BoostQuery bq = new BoostQuery(tq, tf);
+            dAndQ.add(bq, BooleanClause.Occur.SHOULD);
         }
 
-        return dAndQ;
+        return dAndQ.build();
     }
     
     float getDocNorm(int docId) throws Exception {

@@ -5,6 +5,8 @@
  */
 package com.ibm.drl.hbcp.inforetrieval.indexer;
 
+import org.apache.commons.lang3.StringUtils;
+
 import java.util.List;
 
 /**
@@ -15,20 +17,20 @@ import java.util.List;
 public class Paragraph {
     public String id;
     public String content;
+    public IndexingMethod indexingMethod;
 
-    public Paragraph(String id, String content) {
+    public Paragraph(String id, String content, IndexingMethod indexingMethod) {
         this.id = id;
         this.content = content;
+        this.indexingMethod = indexingMethod;
+    }
+
+    public Paragraph(String id, String content) {
+        this(id, content, IndexingMethod.NONE);
     }
     
-    public Paragraph(String id, List<String> tokens) {
-        this.id = id;
-        StringBuffer buff = new StringBuffer();
-        
-        for (String token : tokens) {
-            buff.append(token).append(" ");
-        }
-        content = buff.toString();
+    public Paragraph(String id, List<String> tokens, IndexingMethod indexingMethod) {
+        this(id, StringUtils.join(tokens, " "), indexingMethod);
     }
 }
 

@@ -5,12 +5,13 @@
  */
 package com.ibm.drl.hbcp.core.wvec;
 
-import java.io.File;
-import java.util.*;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.index.DirectoryReader;
 import org.apache.lucene.index.IndexReader;
 import org.apache.lucene.store.FSDirectory;
+
+import java.io.File;
+import java.util.*;
 
 /**
  * Builds up the list of sum vectors in memory

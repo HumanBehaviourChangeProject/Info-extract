@@ -5,22 +5,16 @@
  */
 package com.ibm.drl.hbcp.inforetrieval.indexer;
 
-import com.ibm.drl.hbcp.core.attributes.collection.AttributeValueCollection;
 import com.ibm.drl.hbcp.extractor.InformationUnit;
-import com.ibm.drl.hbcp.parser.AnnotatedAttributeValuePair;
+import org.apache.lucene.analysis.core.WhitespaceAnalyzer;
+import org.apache.lucene.document.Document;
+import org.apache.lucene.index.IndexWriter;
+import org.apache.lucene.index.IndexWriterConfig;
+import org.apache.lucene.store.FSDirectory;
 
 import java.io.Closeable;
 import java.io.File;
-import java.io.FileReader;
 import java.io.IOException;
-import java.util.Properties;
-import org.apache.lucene.analysis.core.WhitespaceAnalyzer;
-import org.apache.lucene.document.Document;
-import org.apache.lucene.index.IndexDeletionPolicy;
-import org.apache.lucene.index.IndexWriter;
-import org.apache.lucene.index.IndexWriterConfig;
-import org.apache.lucene.store.Directory;
-import org.apache.lucene.store.FSDirectory;
 
 /**
  * Class to manage loading/storing of extracted values for each attribute.
@@ -55,7 +49,14 @@ public class ExtractedInfoIndexer extends AbstractIndexer implements Closeable {
      * @param iu An information unit object that is to be stored.
      */    
     public void addRecord(InformationUnit iu) throws IOException {
-        Document doc = iu.constructIndexRecord();
+        addDocument(iu.constructIndexRecord());
+    }
+
+    /**
+     * Adds a document in the index.
+     * @param doc A value converted to a Document.
+     */
+    public void addDocument(Document doc) throws IOException {
         writer.addDocument(doc);
     }
 }

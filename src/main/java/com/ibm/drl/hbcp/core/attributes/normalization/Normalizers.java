@@ -38,6 +38,12 @@ public class Normalizers {
         normalizers = getNormalizersPerCondition();
     }
 
+    public Set<String> numericalAttributes() { return numericalAttributes; }
+    public Set<String> presenceAttributes() { return presenceAttributes; }
+    public Set<String> weekMonthAttributes() { return weekMonthAttributes; }
+    public Set<String> mixedGenderAttributes() { return mixedGenderAttributes; }
+    public Set<String> categoricalAttributes() { return categoricalAttributes; }
+    
     /**
      * Normalize the value of several pairs belonging to the same attribute. Batch normalization is often
      * required because the normalization of one value can necessitate knowing the full distribution of values of its
@@ -59,6 +65,11 @@ public class Normalizers {
                 .collect(Collectors.toList());
     }
 
+    /**
+     * Normalize the value of one pair.
+     * @param pair Attribute-value pair
+     * @return the same pair, with a normalized value
+     */
     public NormalizedAttributeValuePair normalize(ArmifiedAttributeValuePair pair) {
         return normalize(Lists.newArrayList(pair)).get(0);
     }
@@ -78,6 +89,7 @@ public class Normalizers {
         for (String id : numericalAttributes) {
             res.add(Pair.of(new NormalizerCondition(id), numNormalizer));
         }
+        res.add(Pair.of(new NormalizerCondition(AttributeType.OUTCOME_VALUE), numNormalizer));
         // binary attributes
         BinaryAttributeNormalizer binaryNormalizer = new BinaryAttributeNormalizer();
         for (String id : presenceAttributes) {
@@ -124,9 +136,14 @@ public class Normalizers {
             return (attribute.getId() != null && attribute.getId().equals(attributeId))
                     || (attribute.getType() != null && attribute.getType() == attributeType);
         }
+
+        @Override
+        public String toString() {
+            return attributeId != null ? attributeId : attributeType.toString();
+        }
     }
 
-    private Set<String> getAttributeIdsFromPropertyPrefix(Properties props, String propertyPrefix) {
+    public static Set<String> getAttributeIdsFromPropertyPrefix(Properties props, String propertyPrefix) {
         return props.keySet().stream()
                 .filter(propName -> propName.toString().startsWith(propertyPrefix))
                 .map(propName -> propName.toString().substring(propName.toString().lastIndexOf(".") + 1))

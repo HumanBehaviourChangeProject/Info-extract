@@ -7,9 +7,10 @@ package com.ibm.drl.hbcp.extractor;
 
 import com.ibm.drl.hbcp.core.attributes.AttributeType;
 import com.ibm.drl.hbcp.inforetrieval.indexer.ResearchDoc;
-import java.util.*;
 
-import com.ibm.drl.hbcp.parser.JSONRefParser;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Properties;
 
 /**
  * The factory class for creating the information extractor objects.

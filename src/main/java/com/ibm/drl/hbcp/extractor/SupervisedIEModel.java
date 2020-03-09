@@ -5,8 +5,11 @@
  */
 package com.ibm.drl.hbcp.extractor;
 
-import java.io.*;
 import org.apache.lucene.classification.SimpleNaiveBayesClassifier;
+
+import java.io.FileOutputStream;
+import java.io.ObjectOutputStream;
+import java.io.Serializable;
 
 /**
  * A model for a particular BCT

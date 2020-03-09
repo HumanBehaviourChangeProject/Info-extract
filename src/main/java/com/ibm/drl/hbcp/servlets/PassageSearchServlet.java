@@ -5,36 +5,28 @@ package com.ibm.drl.hbcp.servlets;
  *
  * @author dganguly
  */
+
 import com.ibm.drl.hbcp.extractor.InformationExtractor;
 import com.ibm.drl.hbcp.extractor.InformationExtractorFactory;
 import com.ibm.drl.hbcp.extractor.InformationUnit;
 import com.ibm.drl.hbcp.inforetrieval.indexer.PassageRetriever;
 import com.ibm.drl.hbcp.inforetrieval.indexer.ResearchDoc;
-import java.io.IOException;
-import java.io.PrintWriter;
-import java.util.List;
+import org.apache.lucene.analysis.Analyzer;
+import org.apache.lucene.analysis.TokenStream;
+import org.apache.lucene.document.Document;
+import org.apache.lucene.index.Term;
+import org.apache.lucene.search.*;
+import org.apache.lucene.search.highlight.*;
+
 import javax.servlet.ServletConfig;
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
-import org.apache.lucene.analysis.Analyzer;
-import org.apache.lucene.analysis.TokenStream;
-import org.apache.lucene.document.Document;
-import org.apache.lucene.index.Term;
-import org.apache.lucene.search.BooleanClause;
-import org.apache.lucene.search.BooleanQuery;
-import org.apache.lucene.search.IndexSearcher;
-import org.apache.lucene.search.Query;
-import org.apache.lucene.search.ScoreDoc;
-import org.apache.lucene.search.TermQuery;
-import org.apache.lucene.search.TopDocs;
-import org.apache.lucene.search.highlight.Highlighter;
-import org.apache.lucene.search.highlight.QueryScorer;
-import org.apache.lucene.search.highlight.SimpleHTMLFormatter;
-import org.apache.lucene.search.highlight.TextFragment;
-import org.apache.lucene.search.highlight.TokenSources;
+import java.io.IOException;
+import java.io.PrintWriter;
+import java.util.List;
 
 public class PassageSearchServlet extends HttpServlet {
     
@@ -133,13 +125,13 @@ public class PassageSearchServlet extends HttpServlet {
             return "";
         }
         
-        BooleanQuery docMatchQuery = new BooleanQuery();
+        BooleanQuery.Builder docMatchQuery = new BooleanQuery.Builder();
         docMatchQuery.add(new TermQuery(new Term(ResearchDoc.FIELD_NAME, docName)), BooleanClause.Occur.MUST);
         
         Query q = iunit.constructQuery();
         docMatchQuery.add(q, BooleanClause.Occur.SHOULD);
         
-        TopDocs topDocs = retriever.retrieve(docMatchQuery, NUM_EVIDENCES_FOR_IE);
+        TopDocs topDocs = retriever.retrieve(docMatchQuery.build(), NUM_EVIDENCES_FOR_IE);
         
         return getSearchResultsDisplayString(q, topDocs, 1); // only a single page
     }

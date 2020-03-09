@@ -16,22 +16,19 @@ package com.ibm.drl.hbcp.extractor;
  */
 
 
+import com.ibm.drl.hbcp.core.attributes.Arm;
 import com.ibm.drl.hbcp.core.attributes.AttributeType;
 import com.ibm.drl.hbcp.extractor.matcher.CandidateAnswer;
 import com.ibm.drl.hbcp.extractor.matcher.CandidateAnswers;
 import com.ibm.drl.hbcp.parser.CodeSetTree;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.HashSet;
-import java.util.List;
-import java.util.Map;
-import java.util.Set;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
-import net.bytebuddy.asm.Advice;
+import com.ibm.drl.hbcp.util.LuceneField;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.document.Field;
 import org.apache.lucene.search.Query;
+
+import java.util.*;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 
 /**
@@ -123,7 +120,7 @@ public class ArmsIdentifier extends InformationUnit{
     public void appendFields(Document doc) {
         doc.add(new Field(InformationUnit.ATTRIB_ID_FIELD,
                 String.valueOf(ATTRIB_ID),
-                Field.Store.YES, Field.Index.NOT_ANALYZED));
+                LuceneField.STORED_NOT_ANALYZED.getType()));
     }
     
     private boolean comparedPredicted2GoldAnnotation(String predict, String goldAnnotation){
@@ -192,13 +189,16 @@ public class ArmsIdentifier extends InformationUnit{
             if(!predictArmIsAmongAnnotation)
                 rc.fp++;
         }
-
     }
 
-    public void compareWithRef1(CodeSetTree gt, InformationUnit predicted, RefComparison rc, boolean armification, Map<String, Set<String>> armInfo) {
-        Set<String> annotatedArms = null;
+
+    void compareWithRef1(CodeSetTree gt, InformationUnit predicted, RefComparison rc, boolean armification, Map<String, Set<Arm>> armInfo) {
+        Set<String> annotatedArms = new HashSet();
+
         if (armInfo.containsKey(docName)) {
-            annotatedArms = armInfo.get(docName);
+            for(Arm arm: armInfo.get(docName)){
+                annotatedArms.addAll(arm.getAllNames());
+            }
         }
         Set<String> prediction = new HashSet();
         if(predicted!=null){

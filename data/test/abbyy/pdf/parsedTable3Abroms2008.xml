@@ -1,0 +1,195 @@
+<block blockType="Table" blockName="">
+<row>
+<cell rowSpan="2">
+<text>
+<par>
+<line>Outcome&#xa;</line></par>
+</text></cell>
+<cell colSpan="2">
+<text>
+<par>
+<line>3-Month follow-up&#xa;</line></par>
+</text></cell>
+<cell colSpan="2">
+<text>
+<par align="Center">
+<line>6-Month follow-up&#xa;</line></par>
+</text></cell></row>
+<row>
+<cell>
+<text>
+<par>
+<line>X-Pack group&#xa;</line></par>
+<par align="Center">
+<line>(n=48)&#xa;</line></par>
+</text></cell>
+<cell>
+<text>
+<par>
+<line>CTA group (n=35) p value3&#xa;</line></par>
+</text></cell>
+<cell>
+<text>
+<par align="Center">
+<line>X-Pack group&#xa;</line></par>
+<par align="Center">
+<line>(n=48)&#xa;</line></par>
+</text></cell>
+<cell>
+<text>
+<par>
+<line>CTA group&#xa;</line></par>
+<par>
+<line>(n=35) p value3&#xa;</line></par>
+</text></cell></row>
+<row>
+<cell>
+<text>
+<par>
+<line>Quit rate (self-report of past-7-day smoking)b&#xa;</line></par>
+</text></cell>
+<cell>
+<text>
+<par>
+<line>31.3&#xa;</line></par>
+</text></cell>
+<cell>
+<text>
+<par>
+<line>20.0&#xa;</line></par>
+</text></cell>
+<cell>
+<text>
+<par>
+<line>25.0&#xa;</line></par>
+</text></cell>
+<cell>
+<text>
+<par>
+<line>14.3&#xa;</line></par>
+</text></cell></row>
+<row>
+<cell>
+<text>
+<par>
+<line>Quit rate (cotinine verified)b&#xa;</line></par>
+</text></cell>
+<cell>
+<text>
+<par></par>
+</text></cell>
+<cell>
+<text>
+<par></par>
+</text></cell>
+<cell>
+<text>
+<par>
+<line>10.2d&#xa;</line></par>
+</text></cell>
+<cell>
+<text>
+<par>
+<line>5.7&#xa;</line></par>
+</text></cell></row>
+<row>
+<cell>
+<text>
+<par>
+<line>Days since last cigarette (SD)c&#xa;</line></par>
+</text></cell>
+<cell>
+<text>
+<par>
+<line>13.7 (22.9)&#xa;</line></par>
+</text></cell>
+<cell>
+<text>
+<par>
+<line>4.5 (9.1) *&#xa;</line></par>
+</text></cell>
+<cell>
+<text>
+<par>
+<line>20.0 (47.6)&#xa;</line></par>
+</text></cell>
+<cell>
+<text>
+<par>
+<line>7.7 (23.1)&#xa;</line></par>
+</text></cell></row>
+<row>
+<cell>
+<text>
+<par>
+<line>Consecutive days quit (SD)c&#xa;</line></par>
+</text></cell>
+<cell>
+<text>
+<par>
+<line>16.3 (17.7)&#xa;</line></par>
+</text></cell>
+<cell>
+<text>
+<par>
+<line>8.1 (10.0) *&#xa;</line></par>
+</text></cell>
+<cell>
+<text>
+<par>
+<line>34.0 (49.3)&#xa;</line></par>
+</text></cell>
+<cell>
+<text>
+<par>
+<line>13.4 (24.4) *&#xa;</line></par>
+</text></cell></row>
+<row>
+<cell>
+<text>
+<par>
+<line>Change in number of cigarettes smoked/week&#xa;</line></par>
+</text></cell>
+<cell>
+<text>
+<par>
+<line>-41.9 (45.0)&#xa;</line></par>
+</text></cell>
+<cell>
+<text>
+<par>
+<line>-29.8 (35.8)&#xa;</line></par>
+</text></cell>
+<cell>
+<text>
+<par align="Center">
+<line>-35.9(36.4)&#xa;</line></par>
+</text></cell>
+<cell>
+<text>
+<par>
+<line>-23.0(28.2)&#xa;</line></par>
+</text></cell></row>
+<row>
+<cell>
+<text>
+<par>
+<line>from baseline (SD)&#xa;</line></par>
+</text></cell>
+<cell>
+<text>
+<par></par>
+</text></cell>
+<cell>
+<text>
+<par></par>
+</text></cell>
+<cell>
+<text>
+<par></par>
+</text></cell>
+<cell>
+<text>
+<par></par>
+</text></cell></row>
+</block>

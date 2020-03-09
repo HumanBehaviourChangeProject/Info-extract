@@ -1,15 +1,10 @@
 package com.ibm.drl.hbcp.core.wvec;
 
-import java.io.ByteArrayInputStream;
-import java.io.ByteArrayOutputStream;
-import java.io.IOException;
-import java.io.ObjectInput;
-import java.io.ObjectInputStream;
-import java.io.ObjectOutput;
-import java.io.ObjectOutputStream;
-import java.io.Serializable;
+import java.util.Arrays;
 import org.apache.commons.math3.ml.clustering.Clusterable;
 import org.apache.lucene.util.BytesRef;
+
+import java.io.*;
 
 /**
  * Class for representing word/node vector objects in memory. Provides functionalities for
@@ -31,6 +26,11 @@ public class WordVec implements Comparable<WordVec>, Serializable, Clusterable {
     public static final String COMPOSING_DELIM = ":";
     
     public WordVec(int dimension) { vec = new float[dimension]; }
+    
+    public WordVec(int dimension, float value) {
+        vec = new float[dimension];
+        Arrays.fill(vec, 0, dimension, value);
+    }
     
     /**
      * Constructs a word vector from the content of a text-formatted word2vec (C code) output.
@@ -110,6 +110,13 @@ public class WordVec implements Comparable<WordVec>, Serializable, Clusterable {
         return sum;
     }
     
+    static public WordVec concat(WordVec a, WordVec b) {
+        WordVec c = new WordVec(a.vec.length + b.vec.length);
+        System.arraycopy(a.vec, 0, c.vec, 0, a.vec.length);
+        System.arraycopy(b.vec, 0, c.vec, a.vec.length, b.vec.length);
+        return c;
+    }
+    
     /**
      * Computes the cosine similarity between two vectors
      * @param that Another vector with which to compute the similarity of this one.
@@ -148,7 +155,7 @@ public class WordVec implements Comparable<WordVec>, Serializable, Clusterable {
      */
     @Override
     public int compareTo(WordVec that) {
-        return this.querySim > that.querySim? -1 : this.querySim == that.querySim? 0 : 1;
+        return - Float.compare(this.querySim, that.querySim);
     }
     
     /**
@@ -217,6 +224,7 @@ public class WordVec implements Comparable<WordVec>, Serializable, Clusterable {
         for (double d : this.vec) {
             buff.append(d).append(" ");
         }
+        buff.deleteCharAt(buff.length()-1);
         return buff.toString();
     }
     

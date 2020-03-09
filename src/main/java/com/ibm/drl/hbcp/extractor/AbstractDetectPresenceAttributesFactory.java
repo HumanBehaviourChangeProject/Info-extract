@@ -7,9 +7,11 @@ package com.ibm.drl.hbcp.extractor;
 
 import com.ibm.drl.hbcp.core.attributes.AttributeType;
 import com.ibm.drl.hbcp.inforetrieval.indexer.ResearchDoc;
+
 import java.io.FileReader;
-import java.util.*;
-import com.ibm.drl.hbcp.parser.JSONRefParser;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Properties;
 
 /**
  * A factory class for creating objects of type 'AbstractDetectPresenceAttribute'.

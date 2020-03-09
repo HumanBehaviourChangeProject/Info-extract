@@ -5,8 +5,9 @@
  */
 package com.ibm.drl.hbcp.predictor.evaluation;
 
-import java.util.List;
 import com.ibm.drl.hbcp.predictor.queries.SearchResult;
+
+import java.util.List;
 
 /**
  * Interface for evaluator. Each concrete evaluator must implement the 'evaluate' and the 'getMetricName' methods.
@@ -14,5 +15,6 @@ import com.ibm.drl.hbcp.predictor.queries.SearchResult;
  */
 public interface EvaluationLogic {
     float evaluate(int qid, List<SearchResult> srchResList);
+    PredictionTuple evaluate(int qid, SearchResult predResult);
     public String getMetricName();
 }

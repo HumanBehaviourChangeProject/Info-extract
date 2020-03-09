@@ -6,16 +6,12 @@
 package com.ibm.drl.hbcp.core.attributes.normalization.normalizers;
 
 import com.ibm.drl.hbcp.core.attributes.AttributeValuePair;
-import com.ibm.drl.hbcp.parser.AnnotatedAttributeValuePair;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 import java.text.DecimalFormat;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
-
-import com.ibm.drl.hbcp.parser.AnnotatedAttributeValuePair;
 
 /**
  * <p>

@@ -8,19 +8,7 @@ package com.ibm.drl.hbcp.inforetrieval.indexer;
 import com.ibm.drl.hbcp.api.IUnitPOJO;
 import com.ibm.drl.hbcp.api.IUnitPOJOs;
 import com.ibm.drl.hbcp.extractor.InformationUnit;
-
-import java.io.Closeable;
-import java.io.File;
-import java.io.FileReader;
-import java.io.IOException;
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.Comparator;
-import java.util.List;
-import java.util.Properties;
-import java.util.StringTokenizer;
-import javax.json.Json;
-import javax.json.JsonBuilderFactory;
+import com.ibm.drl.hbcp.util.Props;
 import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.analysis.core.KeywordAnalyzer;
 import org.apache.lucene.document.Document;
@@ -29,14 +17,18 @@ import org.apache.lucene.index.IndexReader;
 import org.apache.lucene.index.Term;
 import org.apache.lucene.queryparser.classic.ParseException;
 import org.apache.lucene.queryparser.classic.QueryParser;
-import org.apache.lucene.search.IndexSearcher;
-import org.apache.lucene.search.Query;
-import org.apache.lucene.search.ScoreDoc;
-import org.apache.lucene.search.TermQuery;
-import org.apache.lucene.search.TopDocs;
+import org.apache.lucene.search.*;
 import org.apache.lucene.store.FSDirectory;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+
+import javax.json.Json;
+import javax.json.JsonBuilderFactory;
+import java.io.Closeable;
+import java.io.File;
+import java.io.FileReader;
+import java.io.IOException;
+import java.util.*;
 
 class IUnitPOJODocComparator implements Comparator<IUnitPOJO> {
 
@@ -69,56 +61,42 @@ public class ExtractedInfoRetriever implements Closeable {
     JsonBuilderFactory factory;
     
     static Logger logger = LoggerFactory.getLogger(ExtractedInfoRetriever.class);
-    
+
+    public ExtractedInfoRetriever(Properties props) throws IOException {
+        prop = props;
+        String indexPath = prop.getProperty("ie.index");
+        File indexDir = new File(indexPath);
+        reader = DirectoryReader.open(FSDirectory.open(indexDir.toPath()));
+        searcher = new IndexSearcher(reader);
+
+        // To retrieve per-doc info, e.g. title, authors etc.
+        indexPath = prop.getProperty("index");
+        indexDir = new File(indexPath);
+        docReader = DirectoryReader.open(FSDirectory.open(indexDir.toPath()));
+        docSearcher = new IndexSearcher(docReader);
+
+        String stopFileName = BaseDirInfo.getPath(prop.getProperty("stopfile"));
+        analyzer = PaperIndexer.constructAnalyzer(stopFileName);
+
+        factory = Json.createBuilderFactory(null);
+    }
+
     /**
      * This is called from the server side. Instead of using files, this constructor
      * uses 'resources' objects.
-     */    
+     */
     public ExtractedInfoRetriever() throws IOException {
-        
-        String indexPath = BaseDirInfo.getBaseDir() + "/src/main/resources/indexes/ie.index";
-        String stopFileName = this.getClass().getClassLoader().getResource("stop.txt").getPath();
-        
-        File indexDir = new File(indexPath);
-        reader = DirectoryReader.open(FSDirectory.open(indexDir.toPath()));
-        System.out.println("Reading from index " + indexDir.toPath());
-        searcher = new IndexSearcher(reader);
-        
-        // To retrieve per-doc info, e.g. title, authors etc.
-        indexPath = this.getClass().getClassLoader().getResource("indexes/index").getPath();
-        indexDir = new File(indexPath);
-        docReader = DirectoryReader.open(FSDirectory.open(indexDir.toPath()));
-        docSearcher = new IndexSearcher(docReader);        
-        
-        analyzer = PaperIndexer.constructAnalyzer(stopFileName);
-        factory = Json.createBuilderFactory(null);
+        this(Props.loadProperties());
     }
-    
+
     /**
      * Called from the stand-alone application to save the extracted info objects
      * that could later be loaded from the server side of the web application.
      *
      * @param propFile A properties file
-     */    
+     */
     public ExtractedInfoRetriever(String propFile) throws IOException {
-        prop = new Properties();
-        prop.load(new FileReader(propFile));        
-
-        String indexPath = prop.getProperty("ie.index");
-        File indexDir = new File(indexPath);
-        reader = DirectoryReader.open(FSDirectory.open(indexDir.toPath()));
-        searcher = new IndexSearcher(reader);
-        
-        // To retrieve per-doc info, e.g. title, authors etc.
-        indexPath = prop.getProperty("index");
-        indexDir = new File(indexPath);
-        docReader = DirectoryReader.open(FSDirectory.open(indexDir.toPath()));
-        docSearcher = new IndexSearcher(docReader);        
-        
-        String stopFileName = BaseDirInfo.getPath(prop.getProperty("stopfile"));
-        analyzer = PaperIndexer.constructAnalyzer(stopFileName);        
-        
-        factory = Json.createBuilderFactory(null);
+        this(Props.loadProperties(propFile));
     }
 
     public Properties getProperties() { return prop; }
@@ -268,7 +246,7 @@ public class ExtractedInfoRetriever implements Closeable {
      * property 'ie.index').
      * 
      * @return A list of IUnitPOJO objects which are used by the invoking
-     * function to form a list of 'ContextualizedAttributeValuePair' objects.
+     * function to form a list of 'ArmifiedAttributeValuePair' objects.
      * @throws IOException 
      */
     public List<IUnitPOJO> getIUnitPOJOs() throws IOException {
@@ -283,7 +261,9 @@ public class ExtractedInfoRetriever implements Closeable {
                     d.get(InformationUnit.DOCNAME_FIELD),
                     d.get(InformationUnit.EXTRACTED_VALUE_FIELD),
                     d.get(InformationUnit.ATTRIB_NAME_FIELD),
-                    d.get(InformationUnit.CONTEXT_FIELD)
+                    d.get(InformationUnit.CONTEXT_FIELD),
+                    d.get(InformationUnit.ARM_ID),
+                    d.get(InformationUnit.ARM_NAME)
             );
             iupojoList.add(pojo);
         }

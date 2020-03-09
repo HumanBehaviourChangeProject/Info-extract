@@ -7,13 +7,15 @@
     <version>0.0.1-SNAPSHOT</version>
     <packaging>war</packaging>
 
-    <name>hbcpIE_UCL</name>
+    <name>hbcpIE</name>
 
     <properties>
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
+        <spring.version>5.1.4.RELEASE</spring.version>
+        <tomcat.version>9.0.30</tomcat.version>
     </properties>
 
     <parent>
@@ -24,6 +26,26 @@
     </parent>
     
     <dependencies>
+        <dependency>
+          <groupId>edu.stanford.nlp</groupId>
+          <artifactId>stanford-corenlp</artifactId>
+          <version>3.9.2</version>
+          <type>jar</type>
+        </dependency>    
+       
+        <dependency>
+            <groupId>edu.stanford.nlp</groupId>
+            <artifactId>stanford-corenlp</artifactId>
+            <version>3.9.2</version>
+            <classifier>models</classifier>
+        </dependency> 
+
+         <dependency>
+            <groupId>com.google.code.gson</groupId>
+            <artifactId>gson</artifactId>
+            <version>2.8.5</version>
+        </dependency>   
+               
         <!-- https://mvnrepository.com/artifact/org.apache.httpcomponents/httpclient -->
         <dependency>
             <groupId>org.apache.httpcomponents</groupId>
@@ -34,41 +56,38 @@
         <!--- start Spring -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
-	    <artifactId>spring-boot-starter-thymeleaf</artifactId>
-	<exclusions>
-   		<exclusion>
-     			<groupId>org.springframework.boot</groupId>
-     			<artifactId>spring-boot-starter-logging</artifactId>
-   		</exclusion>
- 	</exclusions>
-
-        </dependency>
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-web</artifactId>
-            <!--exclusions>
+            <artifactId>spring-boot-starter-thymeleaf</artifactId>
+            <exclusions>
                 <exclusion>
                     <groupId>org.springframework.boot</groupId>
                     <artifactId>spring-boot-starter-logging</artifactId>
                 </exclusion>
-            </exclusions-->
+            </exclusions>
         </dependency>
-
         <dependency>
             <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-test</artifactId>
-            <scope>test</scope>
+            <artifactId>spring-boot-actuator</artifactId>
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
-
         </dependency>
         <dependency>
-            <groupId>com.jayway.jsonpath</groupId>
-            <artifactId>json-path</artifactId>
-            <scope>test</scope>
-        </dependency>        
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-tomcat</artifactId>
+            <scope>provided</scope>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/org.springframework/spring-webmvc -->
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-webmvc</artifactId>
+            <version>${spring.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-core</artifactId>
+            <version>${spring.version}</version>
+        </dependency>
         <!--- end Spring -->
 
 	<dependency>
@@ -87,7 +106,7 @@
     	</exclusions>
 	</dependency>
 
-        <dependency>
+<!--         <dependency>
             <groupId>javax.servlet.jsp.jstl</groupId>
             <artifactId>javax.servlet.jsp.jstl-api</artifactId>
             <version>1.2.1</version>
@@ -97,6 +116,7 @@
             <artifactId>javax.servlet.jsp.jstl</artifactId>
             <version>1.2.2</version>
         </dependency>
+        -->
         <dependency>
             <groupId>javax</groupId>
             <artifactId>javaee-web-api</artifactId>
@@ -106,37 +126,42 @@
   	<dependency>
   		<groupId>org.apache.lucene</groupId>
   		<artifactId>lucene-analyzers-common</artifactId>
-  		<version>5.3.1</version>
+  		<version>8.1.1</version>
   	</dependency>
   	<dependency>
   		<groupId>org.apache.lucene</groupId>
   		<artifactId>lucene-queries</artifactId>
-  		<version>5.3.1</version>
+  		<version>8.1.1</version>
   	</dependency>
   	<dependency>
   		<groupId>org.apache.lucene</groupId>
   		<artifactId>lucene-core</artifactId>
-  		<version>5.3.1</version>
+  		<version>8.1.1</version>
   	</dependency>
+    <dependency>
+        <groupId>org.apache.lucene</groupId>
+        <artifactId>lucene-queryparser</artifactId>
+        <version>8.1.1</version>
+    </dependency>
+    <!-- https://mvnrepository.com/artifact/org.apache.lucene/lucene-classification -->
+    <dependency>
+        <groupId>org.apache.lucene</groupId>
+        <artifactId>lucene-classification</artifactId>
+        <version>8.1.1</version>
+    </dependency>
     <!-- https://mvnrepository.com/artifact/com.google.guava/guava -->
     <dependency>
         <groupId>com.google.guava</groupId>
         <artifactId>guava</artifactId>
         <version>27.1-jre</version>
     </dependency>
+    <!-- https://mvnrepository.com/artifact/org.apache.opennlp/opennlp-tools -->
     <dependency>
-  		<groupId>org.apache.lucene</groupId>
-  		<artifactId>lucene-queryparser</artifactId>
-  		<version>5.3.1</version>
-  	</dependency>
-        <!-- https://mvnrepository.com/artifact/org.apache.lucene/lucene-classification -->
-        <dependency>
-            <groupId>org.apache.lucene</groupId>
-            <artifactId>lucene-classification</artifactId>
-            <version>5.3.1</version>
-        </dependency>
-        
-  	<dependency>
+        <groupId>org.apache.opennlp</groupId>
+        <artifactId>opennlp-tools</artifactId>
+        <version>1.9.1</version>
+    </dependency>
+    <dependency>
     	<groupId>javax.json</groupId>
     	<artifactId>javax.json-api</artifactId>
 	</dependency>
@@ -150,41 +175,44 @@
   		<artifactId>jsoup</artifactId>
   		<version>1.10.2</version>
   	</dependency>
-        <!--
-  	<dependency>
-  		<groupId>org.slf4j</groupId>
-  		<artifactId>slf4j-com.ibm.drl.hbcp.api</artifactId>
-  	</dependency>
-        -->
-  	<dependency>
+    <dependency>
+        <groupId>org.projectlombok</groupId>
+        <artifactId>lombok</artifactId>
+        <version>1.18.6</version>
+        <scope>provided</scope>
+    </dependency>
+        <dependency>
   		<groupId>org.apache.tika</groupId>
   		<artifactId>tika-app</artifactId>
-  		<version>1.14</version>
+  		<version>1.22</version>
   	</dependency>
   	<dependency>
   		<groupId>org.apache.lucene</groupId>
   		<artifactId>lucene-highlighter</artifactId>
-  		<version>5.3.1</version>
+  		<version>8.1.1</version>
   	</dependency>
   	<dependency>
   		<groupId>net.minidev</groupId>
   		<artifactId>json-smart</artifactId>
   		<version>2.2.1</version>
   	</dependency>
-  	<!--dependency>
-  		<groupId>org.json</groupId>
-  		<artifactId>json</artifactId>
-  		<version>20160810</version>
-  	</dependency-->
-        <dependency>
-            <groupId>com.jayway.jsonpath</groupId>
-            <artifactId>json-path</artifactId>
-        </dependency>        
-	<dependency>
+    <!-- https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-core -->
+    <dependency>
+        <groupId>com.fasterxml.jackson.core</groupId>
+        <artifactId>jackson-core</artifactId>
+        <version>2.9.8</version>
+    </dependency>
+    <!-- https://mvnrepository.com/artifact/com.thoughtworks.xstream/xstream -->
+    <dependency>
+        <groupId>com.thoughtworks.xstream</groupId>
+        <artifactId>xstream</artifactId>
+        <version>1.4.11.1</version>
+    </dependency>
+<!-- 	<dependency>
 	<groupId>javax.servlet</groupId>
     <artifactId>servlet-api</artifactId>
     <version>2.5</version>
-    </dependency>
+    </dependency>  -->
     <dependency>
       <groupId>org.glassfish</groupId>
       <artifactId>javax.json</artifactId>
@@ -223,7 +251,19 @@
         <artifactId>commons-math3</artifactId>
         <version>3.6.1</version>
     </dependency>
-    <dependency>
+        <!-- https://mvnrepository.com/artifact/commons-fileupload/commons-fileupload -->
+        <dependency>
+            <groupId>commons-fileupload</groupId>
+            <artifactId>commons-fileupload</artifactId>
+            <version>1.4</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/com.opencsv/opencsv -->
+        <dependency>
+            <groupId>com.opencsv</groupId>
+            <artifactId>opencsv</artifactId>
+            <version>4.6</version>
+        </dependency>
+        <dependency>
         <groupId>com.google.code.gson</groupId>
         <artifactId>gson</artifactId>
     </dependency>
@@ -238,40 +278,38 @@
         <version>2.7.0</version>
     </dependency>
     <dependency>
-        <groupId>commons-fileupload</groupId>
-        <artifactId>commons-fileupload</artifactId>
-        <version>1.3.3</version>
+        <groupId>org.grobid</groupId>
+        <artifactId>grobid-core</artifactId>
+        <version>0.5.3</version>
     </dependency>
     <dependency>
-        <groupId>edu.stanford.nlp</groupId>
-        <artifactId>stanford-corenlp</artifactId>
-        <version>3.9.1</version>
+        <groupId>uk.com.robust-it</groupId>
+        <artifactId>cloning</artifactId>
+        <version>1.9.0</version>
+    </dependency>
+
+        <!-- https://mvnrepository.com/artifact/nz.ac.waikato.cms.weka/weka-stable -->
+        <dependency>
+            <groupId>nz.ac.waikato.cms.weka</groupId>
+            <artifactId>weka-stable</artifactId>
+            <version>3.8.3</version>
+        </dependency>
+
+
+<dependency>
+    <groupId>de.julielab</groupId>
+    <artifactId>aliasi-lingpipe</artifactId>
+    <version>4.1.0</version>
+    <type>jar</type>
 </dependency>
 
 <dependency>
-  <groupId>org.springframework.boot</groupId>
-  <artifactId>spring-boot-starter</artifactId>
-  <exclusions>
-    <exclusion>
-      <groupId>org.springframework.boot</groupId>
-      <artifactId>spring-boot-starter-logging</artifactId>
-    </exclusion>
-  </exclusions>
+    <groupId>de.jungblut.glove</groupId>
+    <artifactId>glove</artifactId>
+    <version>0.3</version>
 </dependency>
 
-<dependency>
-  <groupId>org.springframework.boot</groupId>
-  <artifactId>spring-boot-starter-web</artifactId>
-  <exclusions>
-    <exclusion>
-      <groupId>org.springframework.boot</groupId>
-      <artifactId>spring-boot-starter-logging</artifactId>
-    </exclusion>
-  </exclusions>
-</dependency>
-
-
-    </dependencies>
+</dependencies>
     
     <build>
     	<pluginManagement>
@@ -324,18 +362,17 @@
             <plugin>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
-            <!--configuration>
-            <mainClass>com.ibm.drl.hbcp.api.DocExtractInfo</mainClass>
-            <layout>ZIP</layout>
-            </configuration>                
-            <executions>
-                <execution>
-                    <goals>
-                        <goal>repackage</goal>
-                    </goals>
-                </execution>
-            </executions-->            
-	    </plugin>
+                <configuration>
+                    <mainClass>com.ibm.drl.hbcp.api.ExtractorController</mainClass>
+                </configuration>
+                <executions>
+                    <execution>
+                        <goals>
+                            <goal>repackage</goal>
+                        </goals>
+                    </execution>
+                </executions>
+	        </plugin>
 
 	<!-- Add plugin for mojo - multiple main classes -->
         <plugin>
@@ -367,7 +404,7 @@
                         <goal>java</goal>
                     </goals>
                     <configuration>
-                        <mainClass>com.ibm.drl.hbcp.extractor.InformationExtractor</mainClass>
+                        <mainClass>com.ibm.drl.hbcp.extraction.extractors.InformationExtractor</mainClass>
                     </configuration>
                 </execution>
                 <execution>
@@ -398,12 +435,12 @@
                     </configuration>
                 </execution>
                 <execution>
-                    <id>predict</id>
+                    <id>nnpredict</id>
                     <goals>
                         <goal>java</goal>
                     </goals>
                     <configuration>
-                        <mainClass>com.ibm.drl.hbcp.predictor.EndToEndEvaluationPipeline</mainClass>
+                        <mainClass>com.ibm.drl.hbcp.predictor.NearestNeighborQueryFlow</mainClass>
                     </configuration>
                 </execution>
                 <execution>
@@ -415,8 +452,52 @@
                         <mainClass>com.ibm.drl.hbcp.util.AttributeIdLookup</mainClass>
                     </configuration>
                 </execution>
+                <execution>
+                    <id>svmreg</id>
+                    <goals>
+                        <goal>java</goal>
+                    </goals>
+                    <configuration>
+                        <mainClass>com.ibm.drl.hbcp.predictor.WekaRegressionFlow</mainClass>
+                    </configuration>
+                </execution>                
+                <execution>
+                    <id>gensparsevecs</id>
+                    <goals>
+                        <goal>java</goal>
+                    </goals>
+                    <configuration>
+                        <mainClass>com.ibm.drl.hbcp.predictor.ParametricGraphKerasDataPreparation</mainClass>
+                    </configuration>
+                </execution>                
+                <execution>
+                    <id>regeval</id>
+                    <goals>
+                        <goal>java</goal>
+                    </goals>
+                    <configuration>
+                        <mainClass>com.ibm.drl.hbcp.predictor.evaluation.ResultsFileEvaluator</mainClass>
+                    </configuration>
+                </execution>
             </executions>
 	</plugin>
+    <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-javadoc-plugin</artifactId>
+        <executions>
+            <execution>
+                <id>attach-javadocs</id>
+                <goals>
+                    <goal>jar</goal>
+                </goals>
+            </execution>
+        </executions>
+        <configuration>
+            <additionalOptions>
+                <additionalOption>-Xdoclint:none</additionalOption>
+            </additionalOptions>
+        </configuration>
+    </plugin>
 
 	<!--plugin>
         <groupId>org.codehaus.mojo</groupId>
@@ -437,53 +518,27 @@
         <!-- Maven by default should copy eveything from src/main/resources to target
              to be used later from the web service -->
         <resources>
-            <!--resource>
+            <resource>
                 <directory>${project.basedir}</directory>
-                <filtering>true</filtering>
                 <includes>
-                <include>*.properties</include>
+                    <include>*.properties</include>
                 </includes>
-            </resource-->            
-            <!--resource>
-                <directory>${project.basedir}/data/</directory>
-                <filtering>true</filtering>
-                <includes>
-                <include>stop.txt</include>
-                </includes>
-            </resource-->            
-            <!--resource>
-                <directory>${project.basedir}/data/jsons/</directory>
-                <includes>
-                <include>Sprint1_Codeset1.json</include>
-                </includes>
-            </resource-->
-            <!--resource>
-            <directory>${project.basedir}/ie.index/</directory>                
-            <excludes>
-                <exclude>write.lock</exclude>
-            </excludes>
-            </resource-->
-            <!--resource>
-                <directory>src/main/resources</directory>
-                <filtering>true</filtering>
-                <excludes>
-                    <exclude>write.lock</exclude>
-                </excludes>
-            </resource-->            
+            </resource>
+            <resource>
+                <directory>${project.basedir}/data</directory>
+            </resource>
         </resources>
     </build>
-    
+
     <repositories>
         <repository>
-            <id>spring-releases</id>
-            <url>https://repo.spring.io/libs-release</url>
+            <snapshots>
+                <enabled>false</enabled>
+            </snapshots>
+            <id>bintray-rookies-maven</id>
+            <name>bintray</name>
+            <url>https://dl.bintray.com/rookies/maven</url>
         </repository>
     </repositories>
-    <pluginRepositories>
-        <pluginRepository>
-            <id>spring-releases</id>
-            <url>https://repo.spring.io/libs-release</url>
-        </pluginRepository>
-    </pluginRepositories>
         
 </project>

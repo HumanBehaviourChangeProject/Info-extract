@@ -6,8 +6,11 @@
 package com.ibm.drl.hbcp.parser;
 
 import java.io.Serializable;
-import java.util.*;
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.Map;
 import java.util.Map.Entry;
+import java.util.Set;
 
 /**
  * This class wraps mappings from document ids to annotated attribute-value pairs.
@@ -108,7 +111,7 @@ public class PerDocRefs implements Serializable {
                     .append("'")
                     .append(a.highlightedText)
                     .append("':::'")
-                    .append(a.context)
+                    .append(a.getContext())
                     .append("' \n");
         }
         return buff.toString();
@@ -135,7 +138,7 @@ public class PerDocRefs implements Serializable {
                         .append("'")
                         .append(a.highlightedText)
                         .append("':::'")
-                        .append(a.context)
+                        .append(a.getContext())
                         .append("' \n");
 
             }
@@ -225,7 +228,7 @@ public class PerDocRefs implements Serializable {
      */
     public String getAnnotatedContext(String docName) {
         AnnotatedAttributeValuePair refAttrib = refs.get(docName);
-        return refAttrib == null ? null : refs.get(docName).context;
+        return refAttrib == null ? null : refs.get(docName).getContext();
     }
 
     /**

@@ -5,10 +5,11 @@
  */
 package com.ibm.drl.hbcp.core.wvec;
 
-import java.util.HashMap;
 import org.apache.lucene.search.Query;
 import org.apache.lucene.search.highlight.QueryTermExtractor;
 import org.apache.lucene.search.highlight.WeightedTerm;
+
+import java.util.HashMap;
 
 /**
  * Represents each document as a set of cluster points.

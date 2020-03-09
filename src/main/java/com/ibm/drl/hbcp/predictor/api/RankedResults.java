@@ -18,6 +18,8 @@ public class RankedResults<T extends Jsonable & Scored> implements Jsonable {
         this.results = results;
     }
 
+    public List<T> getResults() { return results; }
+
     @Override
     public JsonValue toJson() {
         JsonArrayBuilder json = Json.createArrayBuilder();

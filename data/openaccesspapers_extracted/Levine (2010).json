@@ -1,0 +1,2572 @@
+{
+  "blocks": [
+    {
+      "type": "LINES",
+      "value": "ORIGINAL INVESTIGATION",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Bupropion and Cognitive Behavioral Therapy for Weight-Concerned Women Smokers\nMichele D. Levine, PhD; Kenneth A. Perkins, PhD; Melissa A. Kalarchian, PhD; Yu Cheng, PhD; Patricia R. Houck, MS; Jennifer D. Slane, MA; Marsha D. Marcus, PhD",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Background: We previously documented that cognitive behavioral therapy for smoking-related weight concerns (CONCERNS) improves cessation rates. However, the efficacy of combining CONCERNS with cessation medication is unknown. We sought to determine if the combination of CONCERNS and bupropion therapy would enhance abstinence for weight-concerned women smokers.\nMethods: In a randomized, double-blind, placebo- controlled trial, weight-concerned women (n=349; 86% white) received smoking cessation counseling and were randomized to 1 of 2 adjunctive counseling components: CONCERNS or STANDARD (standard cessation treatment with added discussion of smoking topics but no specific weight focus), and 1 of 2 medication conditions: bupropion hydrochloride sustained release (B) or placebo (P) for 6 months. Rates and duration of biochemically verified prolonged abstinence were the primary outcomes. Point-prevalent abstinence, postcessation weight gain, and changes in nicotine withdrawal, depressive symptoms, and weight concerns were evaluated.\nResults: Women in the CONCERNS + B group had",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "higher rates of abstinence (34.0%) and longer time to relapse than did those in the STANDARD + B (21%; P = .05) or CONCERNS + P (11.5%; P=.005) groups at 6 months, although rates of prolonged abstinence in the CONCERNS + B and STANDARD + B groups did not differ significantly at 12 months. Abstinence rates and duration did not differ in the STANDARD + B group (21% and 19%) compared with the STANDARD + P group (10% and 7%) at 6 and 12 months, respectively. There were no differences among abstinent women in postcessation weight gain or weight concerns, although STANDARD + B produced greater decreases in nicotine withdrawal and depressive symptoms than did STANDARD + P.\nConclusions: Weight-concerned women smokers receiving the combination of CONCERNS + B were most likely to sustain abstinence. This effect was not related to differences in postcessation weight gain or changes in weight concerns.\nTrial Registration: clinicaltrials.gov Identifier: NCT00006170\nArch Intern Med. 2010;170(6):543-550",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Author Affiliations:\nDepartment of Psychiatry, Western Psychiatric Institute and Clinic, University of Pittsburgh Medical Center, Pittsburgh, Pennsylvania (Drs Levine, Perkins, Kalarchian, and Marcus and Ms Houck); Departments of Statistics and Psychiatry, University of Pittsburgh, Pittsburgh, Pennsylvania (Dr Cheng); and Department of Psychology, Michigan State\nUniversity, East Lansing (Ms Slane).",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Many women smokers are concerned about the weight gain that commonly accompanies an attempt to quit smoking. Weight-concerned smokers are less likely to intend to quit smoking,1 are more likely to drop out of treatment,2 have poorer cessation outcomes in treatment,3,4 and gain more weight after cessation5 than smokers without weight concerns. Based on the rationale that preventing weight gain would improve cessation rates, initial treatment approaches for weight-concerned smokers involved adding weight control interventions (ie, dieting) to cessation counseling.6 However, weight control interventions have not improved rates of sustained abstinence5,7,8 and may even be counterproductive.9,10 We reasoned that addressing the concerns smokers have about postcessation weight gain might be a more appropriate treatment target than prevention of the weight gain itself.6",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Therefore, we developed6 and evaluated5 a cognitive behavioral intervention designed to address women’s concerns about postcessation weight gain.\nIn our previous investigation,5 we compared standard smoking cessation counseling plus 3 distinct adjunctive treatments equated for therapeutic time and attention: cognitive behavioral therapy for weight concerns (CONCERNS), behavioral weight control (BW), or standard cessation treatment with added discussion of smoking topics but no specific weight focus (STANDARD). No medication was provided. Results documented that CONCERNS, but not BW, was associated with significantly improved abstinence at the 1-, 6-, and 12-month follow-up assessments, relative to STANDARD. Continuous, biochemically verified abstinence rates at 1 year were 21%, 13%, and 9% in CONCERNS, BW, and STANDARD, respectively.",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "(REPRINTED) ARCH INTERN MED/VOL 170 (NO. 6), MAR 22, 2010 WWW.ARCHINTERNMED.COM 543\n©2010 American Medical Association. All rights reserved.",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Downloaded From: http://archinte.jamanetwork.com/ by a UNIVERSITY OF ABERDEEN User on 11/25/2015",
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Screening"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Randomization"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Smoking cessation counseling (CONCERNS or STANDARD)"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Smoking cessation counseling (CONCERNS or STANDARD)"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Smoking cessation counseling (CONCERNS or STANDARD)"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Booster sessions"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Screening"
+          ]
+        },
+        {
+          "value": "1",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Smoking cessation counseling (CONCERNS or STANDARD)"
+          ]
+        },
+        {
+          "value": "2/3",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Smoking cessation counseling (CONCERNS or STANDARD)",
+            "i"
+          ]
+        },
+        {
+          "value": "8",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Smoking cessation counseling (CONCERNS or STANDARD)",
+            "Drug (B or P)"
+          ]
+        },
+        {
+          "value": "12",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Smoking cessation counseling (CONCERNS or STANDARD)"
+          ]
+        },
+        {
+          "value": "15",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Booster sessions",
+            "r"
+          ]
+        },
+        {
+          "value": "18",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Booster sessions"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Screening"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Randomization"
+          ]
+        }
+      ],
+      "page": 2
+    },
+    {
+      "type": "LINES",
+      "value": "Figure 1. Study design overview. B indicates bupropion hydrochloride sustained release; CONCERNS, cognitive behavioral therapy for weight concerns; P, placebo; STANDARD, standard cessation counseling with added discussion of smoking topics but no specific weight focus.",
+      "page": 2
+    },
+    {
+      "type": "LINES",
+      "value": "Because pharmacologic approaches to smoking cessation are used frequently in clinical practice and are more effective when combined with cessation counseling,11-13 we sought to test whether adding pharmacotherapy to the CONCERNS intervention would enhance smoking cessation in weight concerned women. We reasoned that bupropion hydrochloride sustained release, a widely used, efficacious smoking cessation agent,14,15 would be particularly effective in combination with CONCERNS for weight-concerned women because of its ability to attenuate weight gain and relieve negative mood. Specifically, bupropion therapy has been shown to decrease weight gain following cessation at the end of a 7-week treatment period16,17 and 1 year later.17 In addition, weight- concerned women smokers are likely to have had previous episodes of depression and enter cessation treatment with elevated depressive symptoms.18 Bupropion therapy may alleviate depressive symptoms associated with cessation.19 Accordingly, this study was designed to test whether the combination of bupropion therapy and weight concerns counseling would improve rates of sustained abstinence among weight-concerned women smokers. We hypothesized that the addition of bupropion to CONCERNS would increase rates of smoking abstinence relative to placebo. We also hypothesized that, among those taking bupropion, weight concerns counseling would be more efficacious than standard smoking cessation treatment, and that for those receiving standard cessation counseling, bupropion therapy would produce higher abstinence rates compared with placebo. Finally, we sought to evaluate the combination of weight concerns counseling and bupropion therapy on postcessation weight gain as well as mood, nicotine withdrawal symptoms, and weight gain concerns.",
+      "page": 2
+    },
+    {
+      "type": "LINES",
+      "value": "METHODS",
+      "page": 2
+    },
+    {
+      "type": "LINES",
+      "value": "STUDY DESIGN\nThis randomized, double-blind, placebo-controlled trial was conducted between September 1999 and October 2005. There were 2 experimental manipulations (counseling [CONCERNS vs STANDARD] and medication [bupropion vs placebo]), creating 4 treatment conditions: weight concerns + bupropion (CONCERNS + B), weight concerns + placebo (CONCERNS + P), standard cessation counseling + bupropion (STANDARD + B), and standard cessation counseling + placebo (STANDARD + P). The study design and participant flow are summarized in Figure 1 and",
+      "page": 2
+    },
+    {
+      "type": "LINES",
+      "value": "Figure 2. The study was approved by the institutional review board of the University of Pittsburgh, Pittsburgh, Pennsylvania.\nPARTICIPANTS\nParticipants were 349 women smokers aged between 18 and 65 years, who were motivated to quit smoking, smoked a minimum of 10 cigarettes per day, and endorsed concern about postcessation weight gain as assessed by the following 2 questions rated on a scale of 1 (not at all) to 100 (extremely): (1) “How concerned are you about gaining weight after quitting?” and (2) “How concerned would you be if quitting smoking caused you to permanently gain 10 to 15 pounds, the amount typically gained by weight-concerned women after quitting?”5 To be eligible, women were required to score 50 or higher on one of these questions.5 Women were recruited from the general population through posters, advertisements, and mailings. Participants had not participated in our previous study of weight-concerned women. As detailed in Figure 2, potential participants were excluded for current major depressive disorder or suicidality, drug or alcohol dependence within the past year, psychotic disorders as well as conditions associated with a lowered seizure threshold, the use of medications contraindicated with bupropion, uncontrolled hypertension, use of bupropion within the past year for more than 1 week, pregnancy or intention to become pregnant within the next year, and current use of other smoking or weight loss treatments. As reported in Table 1, there were no baseline differences in participant characteristics.\nSCREENING PROCEDURES\nInterested women were invited to an information meeting where informed consent was obtained. They were then scheduled for a physical examination, blood work, and a psychiatric interview. Participants with borderline hypertension (ie, between 140-159/90-99 mm/Hg) were required to obtain physician approval for participation. The Structured Clinical Interview for Diagnostic and Statistical Manual of Mental Disorders (Fourth Edition) diagnosis (SCID-I) was administered via telephone by trained clinicians. Eligible women were randomly assigned, in blocks of 8 to 17, to STANDARD or CONCERNS. Given that hypotheses focused predominantly on 3 of the 4 conditions (CONCERNS + B, CONCERNS + P, and STANDARD + B), women in the CONCERNS group were randomized to bupropion and placebo in a 1:1 ratio, whereas those in the STANDARD group were randomized in a 3:2 ratio. Study medication, supplied by GlaxoSmithKline, and counseling sessions were provided free of charge.\nSTUDY MEDICATION\nStudy medication was initiated at the second treatment session and a target quit date (TQD) 10 to 14 days later was set.",
+      "page": 2
+    },
+    {
+      "type": "LINES",
+      "value": "(REPRINTED) ARCH INTERN MED/VOL 170 (NO. 6), MAR 22, 2010 WWW.ARCHINTERNMED.COM 544\n©2010 American Medical Association. All rights reserved.",
+      "page": 2
+    },
+    {
+      "type": "LINES",
+      "value": "Downloaded From: http://archinte.jamanetwork.com/ by a UNIVERSITY OF ABERDEEN User on 11/25/2015",
+      "page": 2
+    },
+    {
+      "type": "LINES",
+      "value": "Figure 2. Participant disposition. See Figure 1 legend for abbreviations.",
+      "page": 3
+    },
+    {
+      "type": "LINES",
+      "value": "Table 1. Baseline Characteristics by Treatment Group",
+      "page": 3
+    },
+    {
+      "type": "LINES",
+      "value": "Treatment Group",
+      "page": 3
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "42.0(10.1)",
+          "rowHeaders": [
+            "Age, mean (SD), y"
+          ],
+          "columnHeaders": [
+            "Total Sample\n(N=349)"
+          ]
+        },
+        {
+          "value": "42.1 (9.2)",
+          "rowHeaders": [
+            "Age, mean (SD), y"
+          ],
+          "columnHeaders": [
+            "CONCERNS + B (n=106)"
+          ]
+        },
+        {
+          "value": "42.6(10.0)",
+          "rowHeaders": [
+            "Age, mean (SD), y"
+          ],
+          "columnHeaders": [
+            "CONCERNS + P (n=87)"
+          ]
+        },
+        {
+          "value": "41.0(11.2)",
+          "rowHeaders": [
+            "Age, mean (SD), y"
+          ],
+          "columnHeaders": [
+            "STANDARD + B\n(n=89)"
+          ]
+        },
+        {
+          "value": "42.3 (10.4)",
+          "rowHeaders": [
+            "Age, mean (SD), y"
+          ],
+          "columnHeaders": [
+            "STANDARD + P (n=67)"
+          ]
+        },
+        {
+          "value": ".77",
+          "rowHeaders": [
+            "Age, mean (SD), y"
+          ],
+          "columnHeaders": [
+            "P Value"
+          ]
+        },
+        {
+          "value": "33",
+          "rowHeaders": [
+            "Education, % college graduate"
+          ],
+          "columnHeaders": [
+            "Total Sample\n(N=349)"
+          ]
+        },
+        {
+          "value": "36",
+          "rowHeaders": [
+            "Education, % college graduate"
+          ],
+          "columnHeaders": [
+            "CONCERNS + B (n=106)"
+          ]
+        },
+        {
+          "value": "27",
+          "rowHeaders": [
+            "Education, % college graduate"
+          ],
+          "columnHeaders": [
+            "CONCERNS + P (n=87)"
+          ]
+        },
+        {
+          "value": "36",
+          "rowHeaders": [
+            "Education, % college graduate"
+          ],
+          "columnHeaders": [
+            "STANDARD + B\n(n=89)"
+          ]
+        },
+        {
+          "value": "36",
+          "rowHeaders": [
+            "Education, % college graduate"
+          ],
+          "columnHeaders": [
+            "STANDARD + P (n=67)"
+          ]
+        },
+        {
+          "value": ".49",
+          "rowHeaders": [
+            "Education, % college graduate"
+          ],
+          "columnHeaders": [
+            "P Value"
+          ]
+        },
+        {
+          "value": "86",
+          "rowHeaders": [
+            "White, %"
+          ],
+          "columnHeaders": [
+            "Total Sample\n(N=349)"
+          ]
+        },
+        {
+          "value": "88",
+          "rowHeaders": [
+            "White, %"
+          ],
+          "columnHeaders": [
+            "CONCERNS + B (n=106)"
+          ]
+        },
+        {
+          "value": "87",
+          "rowHeaders": [
+            "White, %"
+          ],
+          "columnHeaders": [
+            "CONCERNS + P (n=87)"
+          ]
+        },
+        {
+          "value": "85",
+          "rowHeaders": [
+            "White, %"
+          ],
+          "columnHeaders": [
+            "STANDARD + B\n(n=89)"
+          ]
+        },
+        {
+          "value": "84",
+          "rowHeaders": [
+            "White, %"
+          ],
+          "columnHeaders": [
+            "STANDARD + P (n=67)"
+          ]
+        },
+        {
+          "value": ".92",
+          "rowHeaders": [
+            "White, %"
+          ],
+          "columnHeaders": [
+            "P Value"
+          ]
+        },
+        {
+          "value": "73.3 (15.1)",
+          "rowHeaders": [
+            "Weight, mean (SD), kg"
+          ],
+          "columnHeaders": [
+            "Total Sample\n(N=349)"
+          ]
+        },
+        {
+          "value": "72.2 (15.0)",
+          "rowHeaders": [
+            "Weight, mean (SD), kg"
+          ],
+          "columnHeaders": [
+            "CONCERNS + B (n=106)"
+          ]
+        },
+        {
+          "value": "73.1 (14.0)",
+          "rowHeaders": [
+            "Weight, mean (SD), kg"
+          ],
+          "columnHeaders": [
+            "CONCERNS + P (n=87)"
+          ]
+        },
+        {
+          "value": "74.6(16.8)",
+          "rowHeaders": [
+            "Weight, mean (SD), kg"
+          ],
+          "columnHeaders": [
+            "STANDARD + B\n(n=89)"
+          ]
+        },
+        {
+          "value": "73.4 (14.5)",
+          "rowHeaders": [
+            "Weight, mean (SD), kg"
+          ],
+          "columnHeaders": [
+            "STANDARD + P (n=67)"
+          ]
+        },
+        {
+          "value": ".74",
+          "rowHeaders": [
+            "Weight, mean (SD), kg"
+          ],
+          "columnHeaders": [
+            "P Value"
+          ]
+        },
+        {
+          "value": "27.3 (5.5)",
+          "rowHeaders": [
+            "BMI, mean (SD)"
+          ],
+          "columnHeaders": [
+            "Total Sample\n(N=349)"
+          ]
+        },
+        {
+          "value": "27.3 (5.7)",
+          "rowHeaders": [
+            "BMI, mean (SD)"
+          ],
+          "columnHeaders": [
+            "CONCERNS + B (n=106)"
+          ]
+        },
+        {
+          "value": "27.2 (4.9)",
+          "rowHeaders": [
+            "BMI, mean (SD)"
+          ],
+          "columnHeaders": [
+            "CONCERNS + P (n=87)"
+          ]
+        },
+        {
+          "value": "27.2 (5.6)",
+          "rowHeaders": [
+            "BMI, mean (SD)"
+          ],
+          "columnHeaders": [
+            "STANDARD + B\n(n=89)"
+          ]
+        },
+        {
+          "value": "27.8 (5.9)",
+          "rowHeaders": [
+            "BMI, mean (SD)"
+          ],
+          "columnHeaders": [
+            "STANDARD + P (n=67)"
+          ]
+        },
+        {
+          "value": ".91",
+          "rowHeaders": [
+            "BMI, mean (SD)"
+          ],
+          "columnHeaders": [
+            "P Value"
+          ]
+        },
+        {
+          "value": "20.7 (8.4)",
+          "rowHeaders": [
+            "Cigarettes per day, mean (SD), No."
+          ],
+          "columnHeaders": [
+            "Total Sample\n(N=349)"
+          ]
+        },
+        {
+          "value": "20.8 (8.9)",
+          "rowHeaders": [
+            "Cigarettes per day, mean (SD), No."
+          ],
+          "columnHeaders": [
+            "CONCERNS + B (n=106)"
+          ]
+        },
+        {
+          "value": "20.4 (8.5)",
+          "rowHeaders": [
+            "Cigarettes per day, mean (SD), No."
+          ],
+          "columnHeaders": [
+            "CONCERNS + P (n=87)"
+          ]
+        },
+        {
+          "value": "20.1 (7.0)",
+          "rowHeaders": [
+            "Cigarettes per day, mean (SD), No."
+          ],
+          "columnHeaders": [
+            "STANDARD + B\n(n=89)"
+          ]
+        },
+        {
+          "value": "21.6 (9.1)",
+          "rowHeaders": [
+            "Cigarettes per day, mean (SD), No."
+          ],
+          "columnHeaders": [
+            "STANDARD + P (n=67)"
+          ]
+        },
+        {
+          "value": ".72",
+          "rowHeaders": [
+            "Cigarettes per day, mean (SD), No."
+          ],
+          "columnHeaders": [
+            "P Value"
+          ]
+        },
+        {
+          "value": "5.2 (2.2)",
+          "rowHeaders": [
+            "Nicotine dependence, scale 0-10a"
+          ],
+          "columnHeaders": [
+            "Total Sample\n(N=349)"
+          ]
+        },
+        {
+          "value": "5.1 (2.5)",
+          "rowHeaders": [
+            "Nicotine dependence, scale 0-10a"
+          ],
+          "columnHeaders": [
+            "CONCERNS + B (n=106)"
+          ]
+        },
+        {
+          "value": "5.1 (2.1)",
+          "rowHeaders": [
+            "Nicotine dependence, scale 0-10a"
+          ],
+          "columnHeaders": [
+            "CONCERNS + P (n=87)"
+          ]
+        },
+        {
+          "value": "5.1 (2.1)",
+          "rowHeaders": [
+            "Nicotine dependence, scale 0-10a"
+          ],
+          "columnHeaders": [
+            "STANDARD + B\n(n=89)"
+          ]
+        },
+        {
+          "value": "5.6 (2.1)",
+          "rowHeaders": [
+            "Nicotine dependence, scale 0-10a"
+          ],
+          "columnHeaders": [
+            "STANDARD + P (n=67)"
+          ]
+        },
+        {
+          "value": ".52",
+          "rowHeaders": [
+            "Nicotine dependence, scale 0-10a"
+          ],
+          "columnHeaders": [
+            "P Value"
+          ]
+        },
+        {
+          "value": "3.1 (2.6)",
+          "rowHeaders": [
+            "Previous quit attempts,"
+          ],
+          "columnHeaders": [
+            "Total Sample\n(N=349)"
+          ]
+        },
+        {
+          "value": "2.9 (1.8)",
+          "rowHeaders": [
+            "Previous quit attempts,"
+          ],
+          "columnHeaders": [
+            "CONCERNS + B (n=106)"
+          ]
+        },
+        {
+          "value": "3.3 (3.0)",
+          "rowHeaders": [
+            "Previous quit attempts,"
+          ],
+          "columnHeaders": [
+            "CONCERNS + P (n=87)"
+          ]
+        },
+        {
+          "value": "3.0 (2.4)",
+          "rowHeaders": [
+            "Previous quit attempts,"
+          ],
+          "columnHeaders": [
+            "STANDARD + B\n(n=89)"
+          ]
+        },
+        {
+          "value": "3.5 (3.2)",
+          "rowHeaders": [
+            "Previous quit attempts,"
+          ],
+          "columnHeaders": [
+            "STANDARD + P (n=67)"
+          ]
+        },
+        {
+          "value": ".48",
+          "rowHeaders": [
+            "Previous quit attempts,"
+          ],
+          "columnHeaders": [
+            "P Value"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [
+            "mean (SD), No."
+          ],
+          "columnHeaders": [
+            "Total Sample\n(N=349)"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [
+            "mean (SD), No."
+          ],
+          "columnHeaders": [
+            "CONCERNS + B (n=106)"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [
+            "mean (SD), No."
+          ],
+          "columnHeaders": [
+            "CONCERNS + P (n=87)"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [
+            "mean (SD), No."
+          ],
+          "columnHeaders": [
+            "STANDARD + B\n(n=89)"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [
+            "mean (SD), No."
+          ],
+          "columnHeaders": [
+            "STANDARD + P (n=67)"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [
+            "mean (SD), No."
+          ],
+          "columnHeaders": [
+            "P Value"
+          ]
+        },
+        {
+          "value": "7.3 (6.6)",
+          "rowHeaders": [
+            "BDI, mean (SD)"
+          ],
+          "columnHeaders": [
+            "Total Sample\n(N=349)"
+          ]
+        },
+        {
+          "value": "6.4 (6.1)",
+          "rowHeaders": [
+            "BDI, mean (SD)"
+          ],
+          "columnHeaders": [
+            "CONCERNS + B (n=106)"
+          ]
+        },
+        {
+          "value": "6.8 (6.6)",
+          "rowHeaders": [
+            "BDI, mean (SD)"
+          ],
+          "columnHeaders": [
+            "CONCERNS + P (n=87)"
+          ]
+        },
+        {
+          "value": "8.0 (6.1)",
+          "rowHeaders": [
+            "BDI, mean (SD)"
+          ],
+          "columnHeaders": [
+            "STANDARD + B\n(n=89)"
+          ]
+        },
+        {
+          "value": "8.2 (8.1)",
+          "rowHeaders": [
+            "BDI, mean (SD)"
+          ],
+          "columnHeaders": [
+            "STANDARD + P (n=67)"
+          ]
+        },
+        {
+          "value": ".09",
+          "rowHeaders": [
+            "BDI, mean (SD)"
+          ],
+          "columnHeaders": [
+            "P Value"
+          ]
+        }
+      ],
+      "page": 3
+    },
+    {
+      "type": "LINES",
+      "value": "Abbreviations: B, bupropion hydrochloride sustained release; BDI, Beck Depression Inventory; BMI, body mass index (calculated as weight in kilograms divided by height in meters squared); CONCERNS, cognitive behavioral therapy for weight concerns; P, placebo; STANDARD, standard cessation treatment with added discussion of smoking topics but no specific weight focus.\na A score of 10 represents the most dependence.",
+      "page": 3
+    },
+    {
+      "type": "LINES",
+      "value": "Bupropion hydrochloride sustained release, 150 mg, or placebo was administered once daily for the first 2 days and twice daily (ie, 300 mg/d of bupropion hydrochloride) for the remainder of the 26-week treatment. At each session, women met with the study nurse, who assessed adverse effects and vital signs, documented birth control, reviewed medication adherence, and provided refills.",
+      "page": 3
+    },
+    {
+      "type": "LINES",
+      "value": "Overall, bupropion was well tolerated, and no serious events were associated with medication use. Reasons for medication discontinuation (n=33; 9.5%) included antidepressant initiation (n=3), increases in blood pressure (n=11), prescription of a medication contraindicated with bupropion (n = 3), history of stroke that was not previously reported (n=1), edema (n=2), or other allergic reactions (n=13). The reasons formedi-",
+      "page": 3
+    },
+    {
+      "type": "LINES",
+      "value": "(REPRINTED) ARCH INTERN MED/VOL 170 (NO. 6), MAR 22, 2010 WWW.ARCHINTERNMED.COM 545\n©2010 American Medical Association. All rights reserved.",
+      "page": 3
+    },
+    {
+      "type": "LINES",
+      "value": "Downloaded From: http://archinte.jamanetwork.com/ by a UNIVERSITY OF ABERDEEN User on 11/25/2015",
+      "page": 3
+    },
+    {
+      "type": "LINES",
+      "value": "cation discontinuation did not differ between bupropion and placebo (P > .08), with the exception of allergic reaction (5.64% vs 0.65%, in bupropion vs placebo; P = .02).\nAdherence to study medication was evaluated using an electronic event monitor (Medication Event Monitoring System; AARDEX Ltd, Zug, Switzerland), which contained a pressure- activated microprocessor that electronically recorded each medication bottle opening. Data from electronic event monitors were regularly downloaded, and we compared the percentage of prescribed doses taken during the first 30 days of treatment. Pairwise differences between groups were evaluated. Eight participants (2.3%) failed to return their electronic event monitors for assessment. Overall, women took a majority (75%) of prescribed doses, measured as having opened the electronic cap at least twice per day. Women randomized to receive bupropion were more adherent than those receiving placebo, taking 78.9% vs 69.6% of prescribed doses (P < .02). There was no difference in medication adherence between CONCERNS and STANDARD (P = .83).\nSTUDY COUNSELING\nCounseling involved 12, 90-minute group sessions delivered over 3 months, by clinicians with masters degrees, trained to follow a treatment manual. All participants received cessation counseling focused on preparing to quit, the benefits of cessation, coping with smoking urges, and relapse prevention. The CONCERNS and STANDARD interventions differed only in the additional content related to weight concerns.\nCONCERNS Intervention\nThe goal of the CONCERNS intervention was to reduce concerns about postcessation weight gain to promote smoking cessation. Based on the assumption that maladaptive thoughts and beliefs about eating, shape, and weight prevent women from accepting a modest (eg, 4.5 kg) weight gain with smoking cessation, therapy focused on restructuring thoughts about food, eating, and weight and reevaluating beliefs about the importance of a low weight and ideal shape.20 Sessions included education about cessation-related weight gain, the benefits of cessation relative to a modest weight gain, and the disadvantages of trying to diet while quitting. Cognitive strategies were used to identify and restructure maladaptive thoughts (eg, “I should smoke rather than eat too much”) and beliefs (eg, “If I gain any weight I will be unattractive”). Lessons also targeted restrained eating and encouraged moderate consumption of healthy between-meal snacks.6,21\nSTANDARD Intervention\nThe STANDARD intervention did not directly address weight concerns. However, to equate the therapeutic contact time between the 2 counseling conditions, women were encouraged to discuss aspects of smoking cessation that related to their social situations. For example, the roles of significant others, family, and friends in fostering cessation were discussed. Discussions about cessation-related weight concerns were redirected to social situations related to smoking.\nAttendance\nOn average, women attended 7.9 of the 12 treatment sessions (8.6,8.0,7.4, and 7.5 for the CONCERNS + B, CONCERNS + P, STANDARD + B, and STANDARD + P groups, respectively). Attendance rates differed significantly across groups (E3,345 = 3.18; P = .02), and post hoc testing indicated that women in the",
+      "page": 4
+    },
+    {
+      "type": "LINES",
+      "value": "CONCERNS + B group attended significantly more sessions than did those in the CONCERNS + P group. The majority of women (51%) attended an adequate number of the treatment sessions (at least 75%), and the proportion with adequate attendance was similar across treatment groups, (y3 = 3.58; P = .31). There were no differences between women who did and did not attend at least 75% of treatment sessions on any baseline parameters (P > .06).\nASSESSMENTS\nDemographic information, smoking history, and nicotine dependence were collected prior to randomization. Assessments of smoking and secondary outcomes were completed at baseline and prior to each counseling session; weight concerns were assessed at months 3, 6, and 12. The Beck Depression Inventory (BDI)22 was used to assess depressive symptoms, and total score from the 3 visits prior to TQD were averaged to create a precessation baseline. Tobacco withdrawal was assessed using visual analog scales ranging from 0 (“not at all”) to 100 (“severe”) for the 12 symptoms of tobacco withdrawal.\nWomen were weighed in street clothing without shoes prior to each session. Height was measured at baseline using a mounted stadiometer, and body mass index was calculated as weight in kilograms divided by height in meters squared. Precessation weight was computed as the mean of weights at the 3 treatment sessions priortoTQD. Postcessation weight change was calculated as the difference between the precessation weight and each assessment following TQD.\nABSTINENCE\nAt each visit after TQD, women were interviewed about smoking using the time-line follow-back method,23 and expired-air carbon monoxide (CO) was collected using a Vitalograph BreathCO monitor (Vitalograph Inc, Lenexa, Kansas). Salivary samples were collected immediately after each assessmentvisit (1, 3, 6, and 12 months). A CO reading of8 ppm or less and cotinine level of less than 15 pg/L (to convert to nanomoles per liter, multiply by 5.675) were used to confirm nonsmoking.24 At follow-up visits, 17 women (4.9%) reported using an additional cessation medication (71% of those used nicotine replacement therapies (NRT), 23% used bupropion, and 6% used both), and rates of other cessation medication use did not vary by group (y3 = 0.29; P = .73).\nRelapse was defined as the self-report of smoking for 7 consecutive days at any point after TQD or any biochemical indication of smoking.25 Smoking for less than 7 days consecutively was not considered to be a relapse unless biochemical markers indicated smoking. Women who dropped out of treatment were considered to have relapsed as of the day following the last visit on which abstinence was verified. In cases when CO or cotinine measurement did not confirm abstinence or were not available, women were coded as having relapsed.\nPoint-prevalent abstinence was defined as the self-report of no smoking during the 7 days prior to the assessment and a CO reading of 8 ppm or less at the 1-, 3-, 6-, and 12-month assessment after TQD. Prolonged abstinence was defined as meeting criteria for point-prevalence abstinence at each point prior and including the current assessment point.\nSTATISTICAL ANALYSES\nAll statistical tests were 2-sided, and a type I error rate of 0.05 was used in evaluating all analyses. Baseline variables were compared using the y2 test or analysis of variance. Analyses of the primary outcomes, smoking cessation rates, and duration",
+      "page": 4
+    },
+    {
+      "type": "LINES",
+      "value": "(REPRINTED) ARCH INTERN MED/VOL 170 (NO. 6), MAR 22, 2010 WWW.ARCHINTERNMED.COM 546\n©2010 American Medical Association. All rights reserved.",
+      "page": 4
+    },
+    {
+      "type": "LINES",
+      "value": "Downloaded From: http://archinte.jamanetwork.com/ by a UNIVERSITY OF ABERDEEN User on 11/25/2015",
+      "page": 4
+    },
+    {
+      "type": "LINES",
+      "value": "Table 2. Rates of Biochemically Verified Prolonged and Point-Prevalent Abstinence at Each Assessment\nAfter the Target Quit Date by Treatment Group",
+      "page": 5
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "41",
+          "rowHeaders": [
+            "Prolonged abstinence 3"
+          ],
+          "columnHeaders": [
+            "CONCERNS + B, % (n=106)"
+          ]
+        },
+        {
+          "value": "18",
+          "rowHeaders": [
+            "Prolonged abstinence 3"
+          ],
+          "columnHeaders": [
+            "CONCERNS + P, % (n=87)"
+          ]
+        },
+        {
+          "value": "33",
+          "rowHeaders": [
+            "Prolonged abstinence 3"
+          ],
+          "columnHeaders": [
+            "STANDARD + B, % (n=89)"
+          ]
+        },
+        {
+          "value": "19",
+          "rowHeaders": [
+            "Prolonged abstinence 3"
+          ],
+          "columnHeaders": [
+            "STANDARD + P, % (n=67)"
+          ]
+        },
+        {
+          "value": "6",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Months After\nTarget Quit Date",
+            "Prolonged abstinence 3"
+          ]
+        },
+        {
+          "value": "34",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "CONCERNS + B, % (n=106)"
+          ]
+        },
+        {
+          "value": "11",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "CONCERNS + P, % (n=87)"
+          ]
+        },
+        {
+          "value": "21",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "STANDARD + B, % (n=89)"
+          ]
+        },
+        {
+          "value": "10",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "STANDARD + P, % (n=67)"
+          ]
+        },
+        {
+          "value": "12",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Months After\nTarget Quit Date",
+            "Prolonged abstinence 3"
+          ]
+        },
+        {
+          "value": "24",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "CONCERNS + B, % (n=106)"
+          ]
+        },
+        {
+          "value": "8",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "CONCERNS + P, % (n=87)"
+          ]
+        },
+        {
+          "value": "19",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "STANDARD + B, % (n=89)"
+          ]
+        },
+        {
+          "value": "7",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "STANDARD + P, % (n=67)"
+          ]
+        },
+        {
+          "value": "42",
+          "rowHeaders": [
+            "Point-prevalent abstinence\n3"
+          ],
+          "columnHeaders": [
+            "CONCERNS + B, % (n=106)"
+          ]
+        },
+        {
+          "value": "18",
+          "rowHeaders": [
+            "Point-prevalent abstinence\n3"
+          ],
+          "columnHeaders": [
+            "CONCERNS + P, % (n=87)"
+          ]
+        },
+        {
+          "value": "37",
+          "rowHeaders": [
+            "Point-prevalent abstinence\n3"
+          ],
+          "columnHeaders": [
+            "STANDARD + B, % (n=89)"
+          ]
+        },
+        {
+          "value": "25",
+          "rowHeaders": [
+            "Point-prevalent abstinence\n3"
+          ],
+          "columnHeaders": [
+            "STANDARD + P, % (n=67)"
+          ]
+        },
+        {
+          "value": "6",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Months After\nTarget Quit Date",
+            "Prolonged abstinence 3"
+          ]
+        },
+        {
+          "value": "37",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "CONCERNS + B, % (n=106)"
+          ]
+        },
+        {
+          "value": "11",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "CONCERNS + P, % (n=87)"
+          ]
+        },
+        {
+          "value": "26",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "STANDARD + B, % (n=89)"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "STANDARD + P, % (n=67)"
+          ]
+        },
+        {
+          "value": "12",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Months After\nTarget Quit Date",
+            "Prolonged abstinence 3"
+          ]
+        },
+        {
+          "value": "29",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "CONCERNS + B, % (n=106)"
+          ]
+        },
+        {
+          "value": "10",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "CONCERNS + P, % (n=87)"
+          ]
+        },
+        {
+          "value": "27",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "STANDARD + B, % (n=89)"
+          ]
+        },
+        {
+          "value": "16",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "STANDARD + P, % (n=67)"
+          ]
+        }
+      ],
+      "page": 5
+    },
+    {
+      "type": "LINES",
+      "value": "Abbreviations: See Table 1 footnote for treatment group abbreviations.",
+      "page": 5
+    },
+    {
+      "type": "LINES",
+      "value": "of abstinence were evaluated on an intent-to-treat basis, regardless of medication adherence, treatment received, or nonattendance at follow-up visits. Rates of prolonged abstinence were compared at the end of cessation counseling (3 months), drug treatment (6 months), and follow-up (12 months) using logistic regression models with 3 hypothesized contrasts related to our hypotheses. In the first contrast, we compared CONCERNS + B with CONCERNS + P to determine whether adding bupropion therapy to specialized weight concerns counseling enhanced abstinence rates. Second, we compared CONCERNS + B with STANDARD + B to determine if the addition of CONCERNS intervention improved abstinence among women receiving bupropion. Third, we compared STANDARD + B with STANDARD + P as a test of bupropion without CONCERNS intervention among women smokers who have concerns about postcessation weight gain.\nTo evaluate duration of abstinence, survival curves of number of days to relapse were plotted and compared with the logrank test, and the 3 hypothesized contrasts were examined at 6 and 12 months. These analyses were repeated without the 17 women who had used other cessation aids. Results were unchanged when excluding these women, and thus we report analyses including all women.\nChanges in body weight were examined only among those maintaining prolonged abstinence, given that the resumption of smoking confounds analyses of weight change.\nSeparate, mixed-effect models controlling for precessation body weight were run. Subject and time were considered random effects, and the 3 planned contrasts were examined. Depressive symptoms, nicotine withdrawal, and weight gain concerns also were evaluated among women who maintained prolonged abstinence using mixed-effect models controlling for precessation values. These analyses were performed from baseline through 3,6, and 12 months to reflect changes initially after quitting through the end of the counseling, medication treatment, and study, respectively. Again, planned group contrasts were examined within each model. A square root transformation was applied to depressive symptoms and nicotine withdrawal symptoms to adjust for positive skew.\nPower was determined using a log-rank statistic for comparing 2 survival curves, with a 2-sided a level of .05 and 40% as the reference from which differences were computed. The study was designed to have power of 0.80 or greater to detect a 13.5% difference in abstinence rates between CONCERNS + B and STANDARD + B and between CONCERNS + B and CONCERNS + P with 125 women per group and to detect a 15% difference between STANDARD + B and STANDARD + P with 75 women in the STANDARD + P group. We succeeded in recruiting 349 women.",
+      "page": 5
+    },
+    {
+      "type": "LINES",
+      "value": "RESULTS",
+      "page": 5
+    },
+    {
+      "type": "LINES",
+      "value": "SMOKING CESSATION\nOverall, 31.8%, 21.8%, and 16.3% of women met criteria for prolonged abstinence at 3, 6, and 12 months, respectively. Results considering 7-day point-prevalent abstinence are similar, as given in Table 2 and Table 3. As hypothesized, bupropion therapy improved abstinence rates among those receiving the CONCERNS intervention. Women in the CONCERNS + B group were significantly more likely than women in the CONCERNS + P group to maintain abstinence at 3 (40.6% vs 18.4%; P=.001), 6 (34.0% vs 11.5%; P< .001), and 12 months (23.6% vs 8.1%, P =.006). Moreover, as illustrated in Figure 3, during the 12 months of follow-up, women in the CONCERNS + B group had significantly slower time to relapse than did those in the CONCERNS + P group (median number of days to relapse, 266 vs 46). In contrast, bupropion therapy did not confer significant benefit during the period of active drug treatment for those receiving the STANDARD counseling. Cessation rates at 3 and 6 months tended to be larger for STANDARD + B than for STANDARD + P, but, as given in Table 2 and Table 3, these rates were not significantly different (P> .07). In addition, although at 12 months there was a difference in abstinence rates between STANDARD + B and STANDARD + P (P = .05), time to relapse at both 6 or 12 months was similar for both STANDARD + B and STANDARD+ P (P > .07).\nDuring drug treatment (ie, through 6 months), women in the CONCERNS + B group had slower time to relapse than did those in the STANDARD + B group (P =.05). Women in the CONCERNS + B group also had higher, although not statistically different, rates of prolonged abstinence than did women in the STANDARD + B group at 3 (40.6% vs 32.6%; P =.25), 6 months (34.0% vs 21.4%; P = .053), and 12 months (23.6% vs 19.1%; P =.45). However, among women receiving bupropion, the CONCERNS intervention did not significantly increase abstinence rates relative to STANDARD counseling, and survival curves were not significantly different through 12 months (P =.14; Figure 3).",
+      "page": 5
+    },
+    {
+      "type": "LINES",
+      "value": "(REPRINTED) ARCH INTERN MED/VOL 170 (NO. 6), MAR 22, 2010 WWW.ARCHINTERNMED.COM 547\n©2010 American Medical Association. All rights reserved.",
+      "page": 5
+    },
+    {
+      "type": "LINES",
+      "value": "Downloaded From: http://archinte.jamanetwork.com/ by a UNIVERSITY OF ABERDEEN User on 11/25/2015",
+      "page": 5
+    },
+    {
+      "type": "LINES",
+      "value": "Table 3. Planned Contrasts on Prolonged Abstinence With Cohen's h Effect Size Estimate",
+      "page": 6
+    },
+    {
+      "type": "LINES",
+      "value": "Months After Target Quit Date % Abstinent P Value Cohen's h",
+      "page": 6
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "",
+          "rowHeaders": [
+            "CONCERNS",
+            "+",
+            "B vs CONCERNS",
+            "+",
+            "P",
+            "CONCERNS + B",
+            "CONCERNS +",
+            "P"
+          ],
+          "columnHeaders": []
+        },
+        {
+          "value": "",
+          "rowHeaders": [
+            "CONCERNS",
+            "+",
+            "B vs CONCERNS",
+            "+",
+            "P",
+            "CONCERNS + B",
+            "CONCERNS +",
+            "P"
+          ],
+          "columnHeaders": []
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "CONCERNS"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "+"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "B vs CONCERNS"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "+"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "P"
+          ]
+        },
+        {
+          "value": "(n = 106)",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "CONCERNS + B"
+          ]
+        },
+        {
+          "value": "(n=87)",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "CONCERNS +"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "P"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": []
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": []
+        },
+        {
+          "value": "3",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "CONCERNS"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "+"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "B vs CONCERNS"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "+"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "P"
+          ]
+        },
+        {
+          "value": "41",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "CONCERNS + B"
+          ]
+        },
+        {
+          "value": "18",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "CONCERNS +"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "P"
+          ]
+        },
+        {
+          "value": ".001",
+          "rowHeaders": [],
+          "columnHeaders": []
+        },
+        {
+          "value": ".51",
+          "rowHeaders": [],
+          "columnHeaders": []
+        },
+        {
+          "value": "6",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "CONCERNS"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "+"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "B vs CONCERNS"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "+"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "P"
+          ]
+        },
+        {
+          "value": "34",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "CONCERNS + B"
+          ]
+        },
+        {
+          "value": "11",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "CONCERNS +"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "P"
+          ]
+        },
+        {
+          "value": ".001",
+          "rowHeaders": [],
+          "columnHeaders": []
+        },
+        {
+          "value": ".57",
+          "rowHeaders": [],
+          "columnHeaders": []
+        },
+        {
+          "value": "12",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "CONCERNS"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "+"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "B vs CONCERNS"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "+"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "P"
+          ]
+        },
+        {
+          "value": "24",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "CONCERNS + B"
+          ]
+        },
+        {
+          "value": "8",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "CONCERNS +"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "P"
+          ]
+        },
+        {
+          "value": ".006",
+          "rowHeaders": [],
+          "columnHeaders": []
+        },
+        {
+          "value": ".45",
+          "rowHeaders": [],
+          "columnHeaders": []
+        },
+        {
+          "value": "",
+          "rowHeaders": [
+            "CONCERNS",
+            "+",
+            "B vs STANDARD",
+            "+",
+            "B",
+            "CONCERNS + B",
+            "STANDARD +",
+            "B"
+          ],
+          "columnHeaders": []
+        },
+        {
+          "value": "",
+          "rowHeaders": [
+            "CONCERNS",
+            "+",
+            "B vs STANDARD",
+            "+",
+            "B",
+            "CONCERNS + B",
+            "STANDARD +",
+            "B"
+          ],
+          "columnHeaders": []
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "CONCERNS"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "+"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "B vs CONCERNS"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "+"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "P"
+          ]
+        },
+        {
+          "value": "(n = 106)",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "CONCERNS + B"
+          ]
+        },
+        {
+          "value": "(n=89)",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "CONCERNS +"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "P"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": []
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": []
+        },
+        {
+          "value": "3",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "CONCERNS"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "+"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "B vs CONCERNS"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "+"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "P"
+          ]
+        },
+        {
+          "value": "41",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "CONCERNS + B"
+          ]
+        },
+        {
+          "value": "33",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "CONCERNS +"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "P"
+          ]
+        },
+        {
+          "value": ".25",
+          "rowHeaders": [],
+          "columnHeaders": []
+        },
+        {
+          "value": ".17",
+          "rowHeaders": [],
+          "columnHeaders": []
+        },
+        {
+          "value": "6",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "CONCERNS"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "+"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "B vs CONCERNS"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "+"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "P"
+          ]
+        },
+        {
+          "value": "34",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "CONCERNS + B"
+          ]
+        },
+        {
+          "value": "21",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "CONCERNS +"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "P"
+          ]
+        },
+        {
+          "value": ".053",
+          "rowHeaders": [],
+          "columnHeaders": []
+        },
+        {
+          "value": ".29",
+          "rowHeaders": [],
+          "columnHeaders": []
+        },
+        {
+          "value": "12",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "CONCERNS"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "+"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "B vs CONCERNS"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "+"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "P"
+          ]
+        },
+        {
+          "value": "24",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "CONCERNS + B"
+          ]
+        },
+        {
+          "value": "19",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "CONCERNS +"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "P"
+          ]
+        },
+        {
+          "value": ".45",
+          "rowHeaders": [],
+          "columnHeaders": []
+        },
+        {
+          "value": ".12",
+          "rowHeaders": [],
+          "columnHeaders": []
+        },
+        {
+          "value": "",
+          "rowHeaders": [
+            "STANDARD",
+            "+",
+            "B vs STANDARD",
+            "+",
+            "P",
+            "STANDARD + B",
+            "STANDARD +",
+            "P"
+          ],
+          "columnHeaders": []
+        },
+        {
+          "value": "",
+          "rowHeaders": [
+            "STANDARD",
+            "+",
+            "B vs STANDARD",
+            "+",
+            "P",
+            "STANDARD + B",
+            "STANDARD +",
+            "P"
+          ],
+          "columnHeaders": []
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "CONCERNS"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "+"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "B vs CONCERNS"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "+"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "P"
+          ]
+        },
+        {
+          "value": "(n=89)",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "CONCERNS + B"
+          ]
+        },
+        {
+          "value": "(n=67)",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "CONCERNS +"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "P"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": []
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": []
+        },
+        {
+          "value": "3",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "CONCERNS"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "+"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "B vs CONCERNS"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "+"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "P"
+          ]
+        },
+        {
+          "value": "33",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "CONCERNS + B"
+          ]
+        },
+        {
+          "value": "19",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "CONCERNS +"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "P"
+          ]
+        },
+        {
+          "value": ".07",
+          "rowHeaders": [],
+          "columnHeaders": []
+        },
+        {
+          "value": ".32",
+          "rowHeaders": [],
+          "columnHeaders": []
+        },
+        {
+          "value": "6",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "CONCERNS"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "+"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "B vs CONCERNS"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "+"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "P"
+          ]
+        },
+        {
+          "value": "21",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "CONCERNS + B"
+          ]
+        },
+        {
+          "value": "10",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "CONCERNS +"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "P"
+          ]
+        },
+        {
+          "value": ".08",
+          "rowHeaders": [],
+          "columnHeaders": []
+        },
+        {
+          "value": ".31",
+          "rowHeaders": [],
+          "columnHeaders": []
+        },
+        {
+          "value": "12",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "CONCERNS"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "+"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "B vs CONCERNS"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "+"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "P"
+          ]
+        },
+        {
+          "value": "19",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "CONCERNS + B"
+          ]
+        },
+        {
+          "value": "7",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "CONCERNS +"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "P"
+          ]
+        },
+        {
+          "value": ".046",
+          "rowHeaders": [],
+          "columnHeaders": []
+        },
+        {
+          "value": ".37",
+          "rowHeaders": [],
+          "columnHeaders": []
+        }
+      ],
+      "page": 6
+    },
+    {
+      "type": "LINES",
+      "value": "Abbreviations: See Table 1 footnote for treatment group abbreviations.",
+      "page": 6
+    },
+    {
+      "type": "LINES",
+      "value": "Figure 3. Time to relapse by treatment group. Note: overall log rank (LR) X:2=19.06 (P< .001). Between-group comparisons at 6 months:\n(1) CONCERNS + Bvs STANDARD + B, LR x2=3.81 (P=.051);\n(2) CONCERNS + B vs CONCERNS + P, LR x2=15.74 (P< .001); and\n(3) STANDARD + Bvs STANDARD + P, LR x2=2.51 (P=.11). Between-group comparisons at 12 months: (1) overall LR x3=16.79 (P< .001);\n(2) CONCERNS + B vs STANDARD + B: LR x2=2.20 (P=.14);\n(3) CONCERNS + B vs CONCERNS + P: LR x2=11.5 (P=.001); and\n(4) STANDARD + B vs STANDARD + P: LR x2=3.4 (P= .07). See Figure 1 legend for abbreviations.",
+      "page": 6
+    },
+    {
+      "type": "LINES",
+      "value": "WEIGHT GAIN, DEPRESSIVE SYMPTOMS, NICOTINE WITHDRAWAL,\nAND WEIGHT CONCERNS\nAs given in Table 4, among women who maintained abstinence, there were no group differences in weight gain for any of the planned contrasts (P> .37). At 3 months, abstinent women in the CONCERNS + B group had gained a mean (SD) of 4.98 (0.79) kg compared with 5.31 (0.96) and 5.49 (1.29) kg among women in the STANDARD + B and CONCERNS + P groups, respectively.\nAmong women who maintained abstinence, changes in depressive symptoms and withdrawal were no different for women who received CONCERNS + B than CONCERNS + P or STANDARD + B at 3 months. However, as given in Table 4, women in the STANDARD + B group reported a greater decrease in depressive",
+      "page": 6
+    },
+    {
+      "type": "LINES",
+      "value": "(t473=-3.48; P < .001) and nicotine withdrawal (t471=-2.30; P = .005) symptoms at 3 months than did those in the STANDARD + P group. At 6 and 12 months, there were no differences in changes in depressive or withdrawal symptoms for women in the CONCERNS + B group compared with those in the CONCERNS + P or for women in the STANDARD + B group, compared with those in the STANDARD + P group.",
+      "page": 6
+    },
+    {
+      "type": "LINES",
+      "value": "COMMENT",
+      "page": 6
+    },
+    {
+      "type": "LINES",
+      "value": "Weight concerns are an impediment to successful smoking cessation, particularly for women. Results of this trial suggest that the combination of bupropion therapy and a cognitive behavioral treatment designed to address women's concerns about postcessation weight gain improves smoking cessation outcome. Specifically, the combination produced the highest rate of prolonged abstinence and significantly delayed relapse during the 6 months of medication use. However, among women in the present study receiving bupropion, the CONCERNS intervention only marginally enhanced cessation rates at the 6-month assessment, and the differences between CONCERNS and STANDARD were not statistically significant at 1 year.\nAlthough the size of the effect of CONCERNS + Bon abstinence was small, the benefits of the combined intervention are noteworthy. Previous interventions that have combined a pharmacologic approach, specifically nicotine replacement, with behavioral weight control to help smokers quit smoking have failed to improve quit rates.9,10 In contrast, the current findings suggest that adding bupropion therapy (and perhaps other smoking cessation medications) to a specialized counseling intervention for weight-concerned smokers enhances quit rates, particularly during the period of active treatment (ie, 6 months in this study). Thus, the combination of pharmacologic and intensified counseling for weight concerns may produce the best cessation rates for women smokers concerned about postcessation weight gain, a subgroup with particular difficulty quitting.2-4",
+      "page": 6
+    },
+    {
+      "type": "LINES",
+      "value": "(REPRINTED) ARCH INTERN MED/VOL 170 (NO. 6), MAR 22, 2010 WWW.ARCHINTERNMED.COM 548\n©2010 American Medical Association. All rights reserved. Downloaded From: http://archinte.jamanetwork.com/ by a UNIVERSITY OF ABERDEEN User on 11/25/2015",
+      "page": 6
+    },
+    {
+      "type": "LINES",
+      "value": "Table 4. Changes in Weight, Depressive Symptoms, and Nicotine Withdrawal Among Women Who Met Criteria for Prolonged Abstinence From Baseline Through 3, 6, and 12 Months After Target Quit Datea",
+      "page": 7
+    },
+    {
+      "type": "LINES",
+      "value": "Months After Target Quit Date Variable by Treatment Group I-\n(No. of Participants at 3, 6, and 12 mo) 3(n=101) 6(n=72) 12(n=54)",
+      "page": 7
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "4.98 (0.79)",
+          "rowHeaders": [
+            "CONCERNS + B (n=43, 36, 25)"
+          ],
+          "columnHeaders": [
+            "Weight change, kg"
+          ]
+        },
+        {
+          "value": "3.96 (0.62)",
+          "rowHeaders": [
+            "CONCERNS + B (n=43, 36, 25)"
+          ],
+          "columnHeaders": [
+            "Weight change, kg"
+          ]
+        },
+        {
+          "value": "4.85 (0.97)",
+          "rowHeaders": [
+            "CONCERNS + B (n=43, 36, 25)"
+          ],
+          "columnHeaders": [
+            "Weight change, kg"
+          ]
+        },
+        {
+          "value": "5.31 (0.96)",
+          "rowHeaders": [
+            "STANDARD + B(n = 16,10, 7)"
+          ],
+          "columnHeaders": [
+            "Weight change, kg"
+          ]
+        },
+        {
+          "value": "3.10(0.85)",
+          "rowHeaders": [
+            "STANDARD + B(n = 16,10, 7)"
+          ],
+          "columnHeaders": [
+            "Weight change, kg"
+          ]
+        },
+        {
+          "value": "4.47(1.18)",
+          "rowHeaders": [
+            "STANDARD + B(n = 16,10, 7)"
+          ],
+          "columnHeaders": [
+            "Weight change, kg"
+          ]
+        },
+        {
+          "value": "5.49 (1.29)",
+          "rowHeaders": [
+            "CONCERNS + P (n=29,19, 17)"
+          ],
+          "columnHeaders": [
+            "Weight change, kg"
+          ]
+        },
+        {
+          "value": "3.81 (1.17)",
+          "rowHeaders": [
+            "CONCERNS + P (n=29,19, 17)"
+          ],
+          "columnHeaders": [
+            "Weight change, kg"
+          ]
+        },
+        {
+          "value": "5.38 (1.85)",
+          "rowHeaders": [
+            "CONCERNS + P (n=29,19, 17)"
+          ],
+          "columnHeaders": [
+            "Weight change, kg"
+          ]
+        },
+        {
+          "value": "3.77 (1.42)",
+          "rowHeaders": [
+            "STANDARD + P(n = 13,7, 5)"
+          ],
+          "columnHeaders": [
+            "Weight change, kg"
+          ]
+        },
+        {
+          "value": "2.71 (1.40)",
+          "rowHeaders": [
+            "STANDARD + P(n = 13,7, 5)"
+          ],
+          "columnHeaders": [
+            "Weight change, kg"
+          ]
+        },
+        {
+          "value": "5.05 (2.16)",
+          "rowHeaders": [
+            "STANDARD + P(n = 13,7, 5)"
+          ],
+          "columnHeaders": [
+            "Weight change, kg"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [
+            "Depressive symptomsb"
+          ],
+          "columnHeaders": [
+            "Weight change, kg"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [
+            "Depressive symptomsb"
+          ],
+          "columnHeaders": [
+            "Weight change, kg"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [
+            "Depressive symptomsb"
+          ],
+          "columnHeaders": [
+            "Weight change, kg"
+          ]
+        },
+        {
+          "value": "-0.07 (0.07)",
+          "rowHeaders": [
+            "CONCERNS + B (n=43, 36, 25)"
+          ],
+          "columnHeaders": [
+            "Weight change, kg"
+          ]
+        },
+        {
+          "value": "-0.14(0.12)",
+          "rowHeaders": [
+            "CONCERNS + B (n=43, 36, 25)"
+          ],
+          "columnHeaders": [
+            "Weight change, kg"
+          ]
+        },
+        {
+          "value": "-0.31 (0.23)",
+          "rowHeaders": [
+            "CONCERNS + B (n=43, 36, 25)"
+          ],
+          "columnHeaders": [
+            "Weight change, kg"
+          ]
+        },
+        {
+          "value": "-0.37 (0.20)",
+          "rowHeaders": [
+            "STANDARD + B (n = 16,10, 7)"
+          ],
+          "columnHeaders": [
+            "Weight change, kg"
+          ]
+        },
+        {
+          "value": "-0.38 (0.28)",
+          "rowHeaders": [
+            "STANDARD + B (n = 16,10, 7)"
+          ],
+          "columnHeaders": [
+            "Weight change, kg"
+          ]
+        },
+        {
+          "value": "-0.11 (0.17)",
+          "rowHeaders": [
+            "STANDARD + B (n = 16,10, 7)"
+          ],
+          "columnHeaders": [
+            "Weight change, kg"
+          ]
+        },
+        {
+          "value": "-0.01 (0.03)",
+          "rowHeaders": [
+            "CONCERNS + P (n = 29, 19, 17)"
+          ],
+          "columnHeaders": [
+            "Weight change, kg"
+          ]
+        },
+        {
+          "value": "-0.24 (0.30)",
+          "rowHeaders": [
+            "CONCERNS + P (n = 29, 19, 17)"
+          ],
+          "columnHeaders": [
+            "Weight change, kg"
+          ]
+        },
+        {
+          "value": "-0.83 (0.70)",
+          "rowHeaders": [
+            "CONCERNS + P (n = 29, 19, 17)"
+          ],
+          "columnHeaders": [
+            "Weight change, kg"
+          ]
+        },
+        {
+          "value": "0.19 (0.22)",
+          "rowHeaders": [
+            "STANDARD + P(n = 13,7, 5)"
+          ],
+          "columnHeaders": [
+            "Weight change, kg"
+          ]
+        },
+        {
+          "value": "-0.12 (0.25)",
+          "rowHeaders": [
+            "STANDARD + P(n = 13,7, 5)"
+          ],
+          "columnHeaders": [
+            "Weight change, kg"
+          ]
+        },
+        {
+          "value": "-0.09 (0.26)",
+          "rowHeaders": [
+            "STANDARD + P(n = 13,7, 5)"
+          ],
+          "columnHeaders": [
+            "Weight change, kg"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [
+            "Nicotine withdrawal c"
+          ],
+          "columnHeaders": [
+            "Weight change, kg"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [
+            "Nicotine withdrawal c"
+          ],
+          "columnHeaders": [
+            "Weight change, kg"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [
+            "Nicotine withdrawal c"
+          ],
+          "columnHeaders": [
+            "Weight change, kg"
+          ]
+        },
+        {
+          "value": "-1.01 (0.43)",
+          "rowHeaders": [
+            "CONCERNS + B (n=43, 36, 25)"
+          ],
+          "columnHeaders": [
+            "Weight change, kg"
+          ]
+        },
+        {
+          "value": "-1.52 (0.61)",
+          "rowHeaders": [
+            "CONCERNS + B (n=43, 36, 25)"
+          ],
+          "columnHeaders": [
+            "Weight change, kg"
+          ]
+        },
+        {
+          "value": "-4.63(1.80)",
+          "rowHeaders": [
+            "CONCERNS + B (n=43, 36, 25)"
+          ],
+          "columnHeaders": [
+            "Weight change, kg"
+          ]
+        },
+        {
+          "value": "-2.67 (0.86)",
+          "rowHeaders": [
+            "STANDARD + B(n = 16,10, 7)"
+          ],
+          "columnHeaders": [
+            "Weight change, kg"
+          ]
+        },
+        {
+          "value": "-1.94 (0.96)",
+          "rowHeaders": [
+            "STANDARD + B(n = 16,10, 7)"
+          ],
+          "columnHeaders": [
+            "Weight change, kg"
+          ]
+        },
+        {
+          "value": "-4.65 (2.30)",
+          "rowHeaders": [
+            "STANDARD + B(n = 16,10, 7)"
+          ],
+          "columnHeaders": [
+            "Weight change, kg"
+          ]
+        },
+        {
+          "value": "-0.63 (0.58)",
+          "rowHeaders": [
+            "CONCERNS + P (n = 29, 19, 17)"
+          ],
+          "columnHeaders": [
+            "Weight change, kg"
+          ]
+        },
+        {
+          "value": "-0.69 (0.78)",
+          "rowHeaders": [
+            "CONCERNS + P (n = 29, 19, 17)"
+          ],
+          "columnHeaders": [
+            "Weight change, kg"
+          ]
+        },
+        {
+          "value": "-2.99 (2.60)",
+          "rowHeaders": [
+            "CONCERNS + P (n = 29, 19, 17)"
+          ],
+          "columnHeaders": [
+            "Weight change, kg"
+          ]
+        },
+        {
+          "value": "-0.09 (0.23)",
+          "rowHeaders": [
+            "STANDARD + P(n = 13,7, 5)"
+          ],
+          "columnHeaders": [
+            "Weight change, kg"
+          ]
+        },
+        {
+          "value": "-0.20 (0.49)",
+          "rowHeaders": [
+            "STANDARD + P(n = 13,7, 5)"
+          ],
+          "columnHeaders": [
+            "Weight change, kg"
+          ]
+        },
+        {
+          "value": "-1.59 (2.30)",
+          "rowHeaders": [
+            "STANDARD + P(n = 13,7, 5)"
+          ],
+          "columnHeaders": [
+            "Weight change, kg"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [
+            "Weight concerns21"
+          ],
+          "columnHeaders": [
+            "Weight change, kg"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [
+            "Weight concerns21"
+          ],
+          "columnHeaders": [
+            "Weight change, kg"
+          ]
+        },
+        {
+          "value": "",
+          "rowHeaders": [
+            "Weight concerns21"
+          ],
+          "columnHeaders": [
+            "Weight change, kg"
+          ]
+        },
+        {
+          "value": "-7.46 (6.64)",
+          "rowHeaders": [
+            "CONCERNS + B (n=43, 36, 25)"
+          ],
+          "columnHeaders": [
+            "Weight change, kg"
+          ]
+        },
+        {
+          "value": "-21.10(7.35)",
+          "rowHeaders": [
+            "CONCERNS + B (n=43, 36, 25)"
+          ],
+          "columnHeaders": [
+            "Weight change, kg"
+          ]
+        },
+        {
+          "value": "-23.79 (8.93)",
+          "rowHeaders": [
+            "CONCERNS + B (n=43, 36, 25)"
+          ],
+          "columnHeaders": [
+            "Weight change, kg"
+          ]
+        },
+        {
+          "value": "-13.16 (8.16)",
+          "rowHeaders": [
+            "STANDARD + B(n = 16,10, 7)"
+          ],
+          "columnHeaders": [
+            "Weight change, kg"
+          ]
+        },
+        {
+          "value": "-25.95 (9.75)",
+          "rowHeaders": [
+            "STANDARD + B(n = 16,10, 7)"
+          ],
+          "columnHeaders": [
+            "Weight change, kg"
+          ]
+        },
+        {
+          "value": "-27.88 (10.60)",
+          "rowHeaders": [
+            "STANDARD + B(n = 16,10, 7)"
+          ],
+          "columnHeaders": [
+            "Weight change, kg"
+          ]
+        },
+        {
+          "value": "-9.25 (11.06)",
+          "rowHeaders": [
+            "CONCERNS + P (n=29,19, 17)"
+          ],
+          "columnHeaders": [
+            "Weight change, kg"
+          ]
+        },
+        {
+          "value": "-13.60 (13.44)",
+          "rowHeaders": [
+            "CONCERNS + P (n=29,19, 17)"
+          ],
+          "columnHeaders": [
+            "Weight change, kg"
+          ]
+        },
+        {
+          "value": "-12.57 (16.52)",
+          "rowHeaders": [
+            "CONCERNS + P (n=29,19, 17)"
+          ],
+          "columnHeaders": [
+            "Weight change, kg"
+          ]
+        },
+        {
+          "value": "6.00 (12.89)",
+          "rowHeaders": [
+            "STANDARD + P(n = 13,7, 5)"
+          ],
+          "columnHeaders": [
+            "Weight change, kg"
+          ]
+        },
+        {
+          "value": "2.43 (16.72)",
+          "rowHeaders": [
+            "STANDARD + P(n = 13,7, 5)"
+          ],
+          "columnHeaders": [
+            "Weight change, kg"
+          ]
+        },
+        {
+          "value": "1.50 (20.74)",
+          "rowHeaders": [
+            "STANDARD + P(n = 13,7, 5)"
+          ],
+          "columnHeaders": [
+            "Weight change, kg"
+          ]
+        }
+      ],
+      "page": 7
+    },
+    {
+      "type": "LINES",
+      "value": "Abbreviations: See Table 1 footnote.\na Data are given as mean (SE). Note: There were no significant differences between groups in weight change or weight concerns.\nbThe Beck Depression Inventory22 was used to assess depressive symptoms.\ncA square root transformation of data was conducted prior to analysis. Nicotine withdrawal was assessed with visual analog scales ranging from 0 (“not at all”) to 100 (“severe”) forthe 12 symptoms of tobacco withdrawal.\nd Weight concerns were assessed using the question “How much would a 15-pound weight gain affect your motivation to quit smoking/stay quit?” and ranged from 0 to100, with 100 representing the highest level of concern.",
+      "page": 7
+    },
+    {
+      "type": "LINES",
+      "value": "Moreover, although CONCERNS + B did not affect women’s level of weight gain concern, these findings demonstrating the benefits of the combination suggest that the mechanisms by which this combined treatment aids abstinence warrant further research. The CONCERNS + B intervention may act completely separately from weight concerns, or current measures of change in weight concerns may not be sensitive to the impact of intervention. Research using larger samples to examine the interactions among mood, weight gain, and weight concerns may help explain successful cessation. Given the public health importance of smoking cessation, an intervention that can improve rates of prolonged abstinence among a refractory group of women smokers2-4 warrants further consideration.\nTwo additional results merit comment. First, the finding that the combination of STANDARD + B was not associated with significantly higher abstinence rates or better time to relapse relative to STANDARD + P during drug treatment may suggest a lack of efficacy for bupropion among weight-concerned women smokers. However, given the small sample size for this contrast, results should be interpreted cautiously. Second, the nonsignificant difference in abstinence rates at 1 year between the CONCERNS and STANDARD interventions among women taking bupropion is in contrast to findings from our prior trial,5 in which CONCERNS intervention without medication improved rates of smoking abstinence and attenuated weight gained after cessation among a sample of women similar in demographic characteristics to the women in the present study. Thus, it may be that weight-concerned women",
+      "page": 7
+    },
+    {
+      "type": "LINES",
+      "value": "smokers interested in pharmacotherapy differ from those who present for a nonmedication trial in ways we did not assess or that the lack of weight gain attenuation for women receiving CONCERNS intervention relates to the differences in results between these trials.\nIn conclusion, among weight-concerned women smokers, bupropion therapy increased cessation rates when added to a specialized weight concerns intervention, but not when added to STANDARD counseling. When combined with bupropion therapy, the weight concerns counseling intervention tended to improve cessation rates and significantly lengthened abstinence duration during the period of active treatment, relative to STANDARD cessation counseling. Future research should focus on possible mechanisms to explain the efficacy of this specialized counseling plus bupropion therapy and address issues related to the practicality of wider dissemination of the specialized counseling intervention for weight-concerned women smokers. These results may also serve to guide further development of pharmacologic and behavioral approaches for smokers with other comorbid concerns.\nAccepted for Publication: September 15, 2009.\nCorrespondence: Michele D. Levine, PhD, Department of Psychiatry, Western Psychiatric Institute and Clinic, University of Pittsburgh Medical Center, 3811 O’Hara St, Pittsburgh, PA 15213 (Levinem@upmc.edu).\nAuthor Contributions: All authors had full access to all of the data in the study and take responsibility for the integrity of the data and the accuracy of the data analy-",
+      "page": 7
+    },
+    {
+      "type": "LINES",
+      "value": "(REPRINTED) ARCH INTERN MED/VOL 170 (NO. 6), MAR 22, 2010 WWW.ARCHINTERNMED.COM 549\n©2010 American Medical Association. All rights reserved.",
+      "page": 7
+    },
+    {
+      "type": "LINES",
+      "value": "Downloaded From: http://archinte.jamanetwork.com/ by a UNIVERSITY OF ABERDEEN User on 11/25/2015",
+      "page": 7
+    },
+    {
+      "type": "LINES",
+      "value": "sis. Study concept and design: Levine, Perkins, and Marcus. Acquisition of data: Levine, Kalarchian, Slane, and Marcus. Analysis and interpretation of data: Levine, Perkins, Kalarchian, Cheng, Houck, and Marcus. Drafting of the manuscript: Levine, Perkins, Kalarchian, Cheng, Houck, and Marcus. Critical revision of the manuscriptfor important intellectual content: Levine, Perkins, Kalar- chian, Houck, Slane, and Marcus. Statistical analysis: Cheng and Houck. Obtained funding: Perkins and Marcus. Administrative, technical, and material support: Levine, Kalarchian, Houck, Slane, and Marcus. Study supervision: Levine, Kalarchian, and Marcus.\nFinancial Disclosure: Dr Marcus has served as a consultant to GlaxoSmithKline and Sanofi-Aventis. Dr Perkins has served as a consultant for GlaxoSmithKline.\nFunding/Support: This research was supported by grant R01 DA 04174 from the National Institute on Drug Abuse (Dr Marcus). Dr Levine’s effort was partially supported by grant K01DA15396 from the National Institute on Drug Abuse (Dr Levine). GlaxoSmithKline provided bupropion hydrochloride SR, 150 mg, and matching placebo oral administration free of charge.\nRole of the Sponsor: The funding agencies had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; and preparation, review, or approval of the manuscript.\nPrevious Presentation: Portions of this article were presented at the 13 th Annual Meeting of the Society for Research on Nicotine and Tobacco; February 22,2007; Austin, Texas. Additional Contributions: Susan Sereika, PhD, assisted with the electronic event monitoring data analyses, and Donielle Neal, BA, Carolyn Fonte, RN, and Meghan Wisinski, BS, provided valuable research assistance. We also thank the women who participated in the research.",
+      "page": 8
+    },
+    {
+      "type": "LINES",
+      "value": "REFERENCES",
+      "page": 8
+    },
+    {
+      "type": "LINES",
+      "value": "1. Weekley CKIII, Klesges RC, ReyleaG. Smoking as a weight-control strategy and its relationship to smoking status. Addict Behav. 1992;17(3):259-271.\n2. Mizes JS, Sloan DM, Segraves K, Spring B, Pingitore R, Kristeller J. The influence of weight-related variables on smoking cessation. Behav Ther. 1998;29 (3):371-385.\n3. Jeffery RW, Hennrikus DJ, Lando HA, Murray DM, Liu JW. Reconciling conflicting findings regarding postcessation weight concerns and success in smoking cessation. Health Psychol. 2000;19(3):242-246.\n4. Meyers AW, Klesges RC, Winders SE, Ward KD, Peterson BA, Eck LH. Are weight concerns predictive of smoking cessation? a prospective analysis. J Consult Clin Psychol. 1997;65(3):448-452.\n5. Perkins KA, Marcus MD, Levine MD, et al. Cognitive-behavioral therapy to re-",
+      "page": 8
+    },
+    {
+      "type": "LINES",
+      "value": "duce weight concerns improves smoking cessation outcome in weight- concerned women. J Consult Clin Psychol. 2001;69(4):604-613.\n6. Perkins KA, Levine MD, Marcus MD, Shiffman S. Addressing women's concerns about weight gain due to smoking cessation. JSubstAbuse Treat. 1997; 14(2):173-182.\n7. Perkins KA. Issues in the prevention of weight gain after smoking cessation. Ann Behav Med. 1994;16(1):46-52.\n8. Spring B, Pagoto S, Pingitore R, Doran N, Schneider K, Hedeker D. Randomized controlled trial for behavioral smoking and weight control treatment: effect of concurrent versus sequential intervention. J Consult Clin Psychol. 2004;72 (5):785-796.\n9. Hall SM, Tunstall CD, Vila KL, Duffy J. Weight gain prevention and smoking cessation: cautionary findings. Am J Public Health. 1992;82(6):799-803.\n10. Pirie PL, McBride CM, Hellerstedt W, etal. Smoking cessation in women concerned about weight. Am J Public Health. 1992;82(9):1238-1243.\n11. Hall SM, Tunstall C, Rugg D, Jones RT, Benowitz N. Nicotine gum and behavioral treatment in smoking cessation. J Consult Clin Psychol. 1985;53(2):256- 258.\n12. Killen JD, Maccoby N, Taylor CB. Nicotine gum and self-regulation training in smoking relapse prevention. BehavTher. 1984;15(3):234-248.\n13. Schmitz JM, Stotts AL, Mooney ME, Delaune KA, Moeller GF. Bupropion and cognitive-behavioral therapy for smoking cessation in women. Nicotine TobRes. 2007; 9(6):699-709.\n14. Richmond R, ZwarN. Review of bupropion for smoking cessation. Drug Alcohol Rev. 2003;22(2):203-220.\n15. Hays JT, Ebbert JO. Bupropion sustained release for treatment of tobacco dependence. Mayo Clin Proc. 2003;78(8):1020-1024.\n16. Hurt RD, Sachs DP, Glover ED, etal. A comparison of sustained-release bupropion and placebo for smoking cessation. N Engl J Med. 1997;337(17):1 1951202.\n17. Hays JT, Hurt RD, Rigotti NA, etal. Sustained-release bupropion for pharmacologic relapse prevention after smoking cessation: a randomized, controlled trial. Ann Intern Med. 2001;135(6):423-433.\n18. Levine MD, Marcus MD, Perkins KA. A history of depression and smoking cessation outcomes among women concerned about post-cessation weight gain. Nicotine Tob Res. 2003;5(1):69-76.\n19. Catley D, Harris KJ, Okuyemi KS, Mayo MS, Pankey E, Ahluwalia JS. The influence of depressive symptoms on smoking cessation among African Americans in a randomized trial of bupropion. Nicotine Tob Res. 2005;7(6):859-870.\n20. Fairburn CG, Marcus MD, Wilson GT. Cognitive-behavioral treatment for binge eating and bulimia nervosa: a comprehensive treatment manual. In: Fairburn CG, Wilson GT, eds. Binge Eating: Nature, Assessment, and Treatment. New York, NY: Guilford Publications Inc; 1993:361-404.\n21. Levine MD, Marcus MD, Perkins KA. Women, weight and smoking: a cognitive behavioral approach to women's concerns about weight gain following smoking cessation. Cognit Behav Pract. 2003;10(2):105-111.\n22. Beck AT, Ward CH, Mendelson M, Mock J, Erbaugh J. An inventory for measuring depression. Arch Gen Psychiatry. 1961;4:561-571.\n23. Brown RA, Burgess ES, Sales SD, Whiteley JA, Evans DM, Miller IW. Reliability and validity of a smoking timeline follow-back interview. Psychol Addict Behav. 1998;12(2):101-112.\n24. SRNT Subcommittee on Biochemical Verification. Biochemical verification of tobacco use and cessation. Nicotine Tob Res. 2002;4(2):149-159.\n25. Hughes JR, Keely JP, Niaura RS, Ossip-Klein DJ, Richmond RL, Swan GE. Measures of abstinence in clinical trials: issues and recommendations. Nicotine Tob Res. 2003;5(1):13-25.",
+      "page": 8
+    },
+    {
+      "type": "LINES",
+      "value": "(REPRINTED) ARCH INTERN MED/VOL 170 (NO. 6), MAR 22, 2010 WWW.ARCHINTERNMED.COM 550\n©2010 American Medical Association. All rights reserved.",
+      "page": 8
+    },
+    {
+      "type": "LINES",
+      "value": "Downloaded From: http://archinte.jamanetwork.com/ by a UNIVERSITY OF ABERDEEN User on 11/25/2015",
+      "page": 8
+    }
+  ]
+}

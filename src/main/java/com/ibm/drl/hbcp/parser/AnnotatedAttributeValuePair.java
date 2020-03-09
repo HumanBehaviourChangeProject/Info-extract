@@ -1,9 +1,10 @@
 package com.ibm.drl.hbcp.parser;
 
-import java.util.Objects;
-
+import com.ibm.drl.hbcp.core.attributes.Arm;
 import com.ibm.drl.hbcp.core.attributes.ArmifiedAttributeValuePair;
 import com.ibm.drl.hbcp.core.attributes.Attribute;
+
+import java.util.Objects;
 
 /**
  * An attribute-value pair with all the information that could be gathered from the JSON annotations.
@@ -12,22 +13,42 @@ import com.ibm.drl.hbcp.core.attributes.Attribute;
  */
 public class AnnotatedAttributeValuePair extends ArmifiedAttributeValuePair {
 
-    protected final String context;
     protected final String highlightedText;
     protected final String sprintNo;
     protected final int annotationPage;
 
     public AnnotatedAttributeValuePair(Attribute attribute, String value, String docName, String arm,
                                        String context, String highlightedText, String sprintNo, int annotationPage) {
-        super(attribute, value, docName, arm);
-        this.context = context;
+        super(attribute, value, docName, arm, context);
+        // TODO: careful, this doesn't pass "annotationPage" to the super constructor
         this.highlightedText = highlightedText;
         this.sprintNo = sprintNo;
         this.annotationPage = annotationPage;
     }
 
-    public String getContext() { return context; }
+    public AnnotatedAttributeValuePair(Attribute attribute, String value, String docName, Arm arm,
+                                       String context, String highlightedText, String sprintNo, int annotationPage) {
+        super(attribute, value, docName, arm, context, String.valueOf(annotationPage));
+        this.highlightedText = highlightedText;
+        this.sprintNo = sprintNo;
+        this.annotationPage = annotationPage;
+    }
+    
+    public AnnotatedAttributeValuePair withArm(Arm arm) {
+        return new AnnotatedAttributeValuePair(attribute, value, getDocName(), arm,
+                context, highlightedText, sprintNo, annotationPage);
+    }
 
+    public AnnotatedAttributeValuePair withValue(String value) {
+        return new AnnotatedAttributeValuePair(attribute, value, getDocName(), arm,
+                context, highlightedText, sprintNo, annotationPage);
+    }
+
+    public AnnotatedAttributeValuePair withContext(String context) {
+        return new AnnotatedAttributeValuePair(attribute, value, getDocName(), arm,
+                context, highlightedText, sprintNo, annotationPage);
+    }
+    
     public String getHighlightedText() { return highlightedText; }
 
     public String getSprintNo() { return sprintNo; }
@@ -41,20 +62,23 @@ public class AnnotatedAttributeValuePair extends ArmifiedAttributeValuePair {
         if (!super.equals(o)) return false;
         AnnotatedAttributeValuePair that = (AnnotatedAttributeValuePair) o;
         return annotationPage == that.annotationPage &&
-                Objects.equals(context, that.context) &&
                 Objects.equals(highlightedText, that.highlightedText) &&
                 Objects.equals(sprintNo, that.sprintNo);
     }
 
     @Override
     public int hashCode() {
-        return Objects.hash(super.hashCode(), context, highlightedText, sprintNo, annotationPage);
+        return Objects.hash(super.hashCode(), highlightedText, sprintNo, annotationPage);
     }
 
     @Override
     public String toString() {
         // value and hightlighted text should be the same
-        return "{attributeId:" + attribute.getId() + ", attributeName:" + attribute.getName() + ", value:" + value + ", context:" + context 
+        return "{attributeId:" + attribute.getId() + ", attributeName:" + attribute.getName() + ", value:" + getSingleLineValue() + ", context:" + context
                 + ", docName:" + getDocName() + ", annotationPage:" + annotationPage + ", sprintNo:" + sprintNo + ", arm:" + arm + "}";
+    }
+
+    public String getSingleLineValue() {
+        return value.replaceAll("\\s", " ");
     }
 }

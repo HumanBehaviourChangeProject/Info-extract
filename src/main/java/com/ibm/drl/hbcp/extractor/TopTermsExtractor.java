@@ -5,26 +5,19 @@
  */
 package com.ibm.drl.hbcp.extractor;
 
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.Comparator;
-import java.util.List;
+import com.ibm.drl.hbcp.util.LuceneField;
 import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.document.Field;
-import org.apache.lucene.index.DirectoryReader;
-import org.apache.lucene.index.Fields;
-import org.apache.lucene.index.IndexReader;
-import org.apache.lucene.index.IndexWriter;
-import org.apache.lucene.index.IndexWriterConfig;
-import org.apache.lucene.index.MultiFields;
-import org.apache.lucene.index.Term;
-import org.apache.lucene.index.Terms;
-import org.apache.lucene.index.TermsEnum;
+import org.apache.lucene.index.*;
+import org.apache.lucene.search.highlight.WeightedTerm;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.RAMDirectory;
 import org.apache.lucene.util.BytesRef;
-import org.apache.lucene.search.highlight.WeightedTerm;
+
+import java.util.ArrayList;
+import java.util.Comparator;
+import java.util.List;
 
 /**
  * Extraction function is a LM-based term scoring function
@@ -70,7 +63,7 @@ public class TopTermsExtractor {
             Document doc = new Document();
             doc.add(new Field(FIELD_CONTENT,
                     s,
-                    Field.Store.YES, Field.Index.ANALYZED));
+                    new LuceneField().stored(true).analyzed(true).getType()));
             writer.addDocument(doc);
         }
         
@@ -95,9 +88,11 @@ public class TopTermsExtractor {
         // Create in-mem index
         double wt;
         float alpha = lambda/(1-lambda);
-        
-        Fields fields = MultiFields.getFields(inMemReader);
-        Terms terms = fields.terms(FIELD_CONTENT);
+
+        //marting: MultiFields isn't usable anymore in Lucene 8
+        //Fields fields = MultiFields.getFields(inMemReader);
+        //Terms terms = fields.terms(FIELD_CONTENT);
+        Terms terms = MultiTerms.getTerms(inMemReader, FIELD_CONTENT);
         TermsEnum termsEnum = terms.iterator();
         BytesRef term;
 

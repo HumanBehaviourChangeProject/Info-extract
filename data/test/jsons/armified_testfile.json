@@ -1,0 +1,536 @@
+{
+"CodeSets": [
+{
+  "SetName": "Population",
+  "ReviewSetId": 102876,
+  "SetId": 102858,
+  "SetType": {
+    "SetTypeName": "Standard",
+    "SetTypeDescription": "The Standard codeset type is used for regular coding such as keywording or data-extraction. This codeset type can contain multiple levels of child codes but cannot contain the special code types \"Include\" and \"Exclude\"."
+  },
+  "SetDescription": "",
+  "Attributes": {
+    "AttributesList": [
+      {
+        "AttributeSetId": 5578564,
+        "AttributeId": 1,
+        "AttributeSetDescription": "",
+        "AttributeType": "Selectable (show checkbox)",
+        "AttributeName": "Aggregate population socio demographics",
+        "AttributeDescription": "",
+        "Attributes": {
+          "AttributesList": [
+            {
+              "AttributeSetId": 5579039,
+              "AttributeId": 11,
+              "AttributeSetDescription": "",
+              "AttributeType": "Selectable (show checkbox)",
+              "AttributeName": "Aggregate age",
+              "AttributeDescription": "",
+              "Attributes": {
+                "AttributesList": [
+                  {
+                    "AttributeSetId": 5579051,
+                    "AttributeId": 111,
+                    "AttributeSetDescription": "",
+                    "AttributeType": "Selectable (show checkbox)",
+                    "AttributeName": "Mean age",
+                    "AttributeDescription": ""
+                  },
+                  {
+                    "AttributeSetId": 5579052,
+                    "AttributeId": 112,
+                    "AttributeSetDescription": "",
+                    "AttributeType": "Selectable (show checkbox)",
+                    "AttributeName": "Minimum age",
+                    "AttributeDescription": ""
+                  },
+                  {
+                    "AttributeSetId": 5579053,
+                    "AttributeId": 113,
+                    "AttributeSetDescription": "",
+                    "AttributeType": "Selectable (show checkbox)",
+                    "AttributeName": "Maximum age",
+                    "AttributeDescription": ""
+                  }
+                ]
+              }
+            },
+            {
+              "AttributeSetId": 5579040,
+              "AttributeId": 12,
+              "AttributeSetDescription": "",
+              "AttributeType": "Selectable (show checkbox)",
+              "AttributeName": "Aggregate gender",
+              "AttributeDescription": "",
+              "Attributes": {
+                "AttributesList": [
+                  {
+                    "AttributeSetId": 5579055,
+                    "AttributeId": 121,
+                    "AttributeSetDescription": "",
+                    "AttributeType": "Selectable (show checkbox)",
+                    "AttributeName": "All male",
+                    "AttributeDescription": ""
+                  },
+                  {
+                    "AttributeSetId": 5579056,
+                    "AttributeId": 122,
+                    "AttributeSetDescription": "",
+                    "AttributeType": "Selectable (show checkbox)",
+                    "AttributeName": "All female",
+                    "AttributeDescription": ""
+                  }
+                ]
+              }
+            }
+			]
+        }
+      }
+    ]
+  }
+},
+  {
+    "SetName": "Intervention",
+    "ReviewSetId": 66099,
+    "SetId": 66085,
+    "SetType": {
+      "SetTypeName": "Standard",
+      "SetTypeDescription": "The Standard codeset type is used for regular coding such as keywording or data-extraction. This codeset type can contain multiple levels of child codes but cannot contain the special code types \"Include\" and \"Exclude\"."
+    },
+    "SetDescription": "",
+    "Attributes": {
+      "AttributesList": [
+        {
+          "AttributeName": "BCTs",
+          "AttributeSetId": 3690315,
+          "AttributeId": 3689776,
+          "AttributeSetDescription": "",
+          "AttributeType": "Selectable (show checkbox)",
+          "AttributeDescription": "",
+          "Attributes": {
+            "AttributesList": [
+              {
+                "AttributeName": "1. Goals and planning",
+                "AttributeSetId": 3673809,
+                "AttributeId": 3673270,
+                "AttributeSetDescription": "",
+                "AttributeType": "Selectable (show checkbox)",
+                "AttributeDescription": "",
+                "Attributes": {
+                  "AttributesList": [
+                    {
+                      "AttributeName": "1.1.Goal setting (behavior)",
+                      "AttributeSetId": 3673810,
+                      "AttributeId": 3673271,
+                      "AttributeSetDescription": "",
+                      "AttributeType": "Selectable (show checkbox)",
+                      "AttributeDescription": ""
+                    },
+                    {
+                      "AttributeName": "1.2 Problem solving ",
+                      "AttributeSetId": 3673811,
+                      "AttributeId": 3673272,
+                      "AttributeSetDescription": "",
+                      "AttributeType": "Selectable (show checkbox)",
+                      "AttributeDescription": ""
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "SetName": "Outcome (behaviour) value",
+    "ReviewSetId": 70321,
+    "SetId": 70305,
+    "SetType": {
+      "SetTypeName": "Standard",
+      "SetTypeDescription": "The Standard codeset type is used for regular coding such as keywording or data-extraction. This codeset type can contain multiple levels of child codes but cannot contain the special code types \"Include\" and \"Exclude\"."
+    },
+    "SetDescription": "",
+    "Attributes": {
+      "AttributesList": [
+        {
+          "AttributeName": "Outcome value",
+          "AttributeSetId": 5140546,
+          "AttributeId": 5140146,
+          "AttributeSetDescription": "",
+          "AttributeType": "Selectable (show checkbox)",
+          "AttributeDescription": ""
+        }
+      ]
+    }
+  },
+  {
+  "SetName": "Arms",
+  "ReviewSetId": 105815,
+  "SetId": 105797,
+  "SetType": {
+    "SetTypeName": "Standard",
+    "SetTypeDescription": "The Standard codeset type is used for regular coding such as keywording or data-extraction. This codeset type can contain multiple levels of child codes but cannot contain the special code types \"Include\" and \"Exclude\"."
+  },
+  "SetDescription": "",
+  "Attributes": {
+    "AttributesList": [
+      {
+        "AttributeName": "Arm name",
+        "AttributeSetId": 5730392,
+        "AttributeId": 5730447,
+        "AttributeSetDescription": "",
+        "AttributeType": "Selectable (show checkbox)",
+        "AttributeDescription": ""
+      }
+    ]
+  }
+}
+],
+"References": [
+{
+  "ItemId": 32637136,
+  "Title": "Smoking cessation intervention in parents of young children: a randomised controlled trial",
+  "ParentTitle": "Addiction",
+  "ShortTitle": "Abdullah (2005)",
+  "DateCreated": "2017-11-10T11:13:29.327",
+  "CreatedBy": "Emma Norris",
+  "DateEdited": "2017-11-10T11:13:29.327",
+  "EditedBy": "Emma Norris",
+  "Codes": [
+    {
+      "AttributeId": 113,
+      "AdditionalText": "To be eligible for the trial, the subjects had to\rbe daily or occasional smokers or quitters of less than\r6 months, residing in Hong Kong for at least 5 days a\rweek, and able to speak Chinese. They're also all 37 years old for some reason.",
+      "ArmId": 0,
+      "ArmTitle": "",
+      "ItemAttributeFullTextDetails": [
+        {
+          "ItemDocumentId": 296253,
+          "TextFrom": 0,
+          "TextTo": 0,
+          "Text": "Page 2:\n[¬s]\"37 years old[¬e]\"",
+          "IsFromPDF": true,
+          "DocTitle": "Abdullah 2005.pdf",
+          "ItemArm": ""
+        }
+      ]
+    },
+    {
+      "AttributeId": 122,
+      "AdditionalText": "Of the subjects (n\r=\r952), most were fathers (84.3%),\rmarried (97.7%), all female indeed, and had attained education to secondary\rschool level or above (81%), currently employed (86.4%),\rhad a monthly household income of HK$10,000\r(US$1\r=\rHK$7.8) or above (84.3%) and daily smokers\r(92.4%). ",
+      "ArmId": 0,
+      "ArmTitle": "",
+      "ItemAttributeFullTextDetails": [
+        {
+          "ItemDocumentId": 296253,
+          "TextFrom": 0,
+          "TextTo": 0,
+          "Text": "Page 5:\n[¬s]\"all female indeed[¬e]\"",
+          "IsFromPDF": true,
+          "DocTitle": "Abdullah 2005.pdf",
+          "ItemArm": ""
+        }
+      ]
+    },
+    {
+      "AttributeId": 5730447,
+      "AdditionalText": " Participants were randomly allocated into two groups: the inter-\rvention group received printed self-help materials and three-session telephone-\rbased smoking cessation counselling delivered by trained counsellors; the\rcontrol group received printed self-help materials only. ; A total of 952 smoker fathers and mothers were randomized to the\rintervention (n = 467) and control (n = 485) groups.",
+      "ArmId": 17,
+      "ArmTitle": "Intervention group",
+      "ItemAttributeFullTextDetails": [
+        {
+          "ItemDocumentId": 296253,
+          "TextFrom": 0,
+          "TextTo": 0,
+          "Text": "Page 1:\n[¬s]\" inter- vention group\"\n\"intervention[¬e]\"",
+          "IsFromPDF": true,
+          "DocTitle": "Abdullah 2005.pdf",
+          "ItemArm": "Intervention group"
+        }
+      ]
+    },
+    {
+      "AttributeId": 5730447,
+      "AdditionalText": " Participants were randomly allocated into two groups: the inter-\rvention group received printed self-help materials and three-session telephone-\rbased smoking cessation counselling delivered by trained counsellors; the\rcontrol group received printed self-help materials only. ; A total of 952 smoker fathers and mothers were randomized to the\rintervention (n = 467) and control (n = 485) groups.",
+      "ArmId": 18,
+      "ArmTitle": "Control group",
+      "ItemAttributeFullTextDetails": [
+        {
+          "ItemDocumentId": 296253,
+          "TextFrom": 0,
+          "TextTo": 0,
+          "Text": "Page 1:\n[¬s]\"control group\"\n\"control[¬e]\"",
+          "IsFromPDF": true,
+          "DocTitle": "Abdullah 2005.pdf",
+          "ItemArm": "Control group"
+        }
+      ]
+    },
+    {
+      "AttributeId": 5140146,
+      "AdditionalText": "Main outcome\rSelf-reported 7 day point prevalence quit rate 34 (7.4) 68 (15.3) 2.3 (1.5Ð3.5) 2.1 (1.4Ð3.4)\rSecondary outcomes; Table 2 shows that at 6 month follow up the 7 day point\rprevalence quit rate was signiÞcantly greater in the inter-\rvention group (15.3%; 68/444) than the control group\r(7.4%; 34/459) (P\r<\r0.001).",
+      "ArmId": 17,
+      "ArmTitle": "Intervention group",
+      "ItemAttributeFullTextDetails": [
+        {
+          "ItemDocumentId": 296253,
+          "TextFrom": 0,
+          "TextTo": 0,
+          "Text": "Page 5:\n[¬s]\"15.3%[¬e]\"",
+          "IsFromPDF": true,
+          "DocTitle": "Abdullah 2005.pdf",
+          "ItemArm": "Intervention group"
+        }
+      ]
+    },
+    {
+      "AttributeId": 5140146,
+      "AdditionalText": "Main outcome\rSelf-reported 7 day point prevalence quit rate 34 (7.4) 68 (15.3) 2.3 (1.5Ð3.5) 2.1 (1.4Ð3.4)\rSecondary outcomes; Table 2 shows that at 6 month follow up the 7 day point\rprevalence quit rate was signiÞcantly greater in the inter-\rvention group (15.3%; 68/444) than the control group\r(7.4%; 34/459) (P\r<\r0.001).",
+      "ArmId": 18,
+      "ArmTitle": "Control group",
+      "ItemAttributeFullTextDetails": [
+        {
+          "ItemDocumentId": 296253,
+          "TextFrom": 0,
+          "TextTo": 0,
+          "Text": "Page 5:\n[¬s]\"7.4%[¬e]\"",
+          "IsFromPDF": true,
+          "DocTitle": "Abdullah 2005.pdf",
+          "ItemArm": "Control group"
+        }
+      ]
+    },
+    {
+      "AttributeId": 3673272,
+      "AdditionalText": " Those who were in the action stage were\rgiven supportive messages about quitting smoking and\rtips on things that they can do to overcome withdrawal\rsymptoms and difÞcult situations. +; \rA hotline number was provided\rthrough which they could contact counsellors to discuss\rany difÞculties in their quitting process and to receive\rproblem-oriented solutions. ++",
+      "ArmId": 17,
+      "ArmTitle": "Intervention group",
+      "ItemAttributeFullTextDetails": [
+        {
+          "ItemDocumentId": 296253,
+          "TextFrom": 0,
+          "TextTo": 0,
+          "Text": "Page 4:\n[¬s]\"tips on things that they can do to overcome withdrawal symptoms and difficult situations[¬e]\"",
+          "IsFromPDF": true,
+          "DocTitle": "Abdullah 2005.pdf",
+          "ItemArm": "Intervention group"
+        }
+      ]
+    }
+  ]
+},
+{
+  "ItemId": 28856292,
+  "Title": "A preliminary randomized controlled trial of a behavioral exercise intervention for smoking cessation",
+  "ParentTitle": "Nicotine & tobacco research : official journal of the Society for Research on Nicotine and Tobacco",
+  "ShortTitle": "Abrantes (2014)",
+  "DateCreated": "2017-03-23T16:01:50.903",
+  "CreatedBy": "Emma Norris",
+  "DateEdited": "2017-03-23T16:01:50.903",
+  "EditedBy": "Emma Norris",
+  "Codes": [
+    {
+      "AttributeId": 111,
+      "AdditionalText": " Sixty-one participants (65.6% female; mean age of\r47.3 years) were recruited and randomized to AE (n = 30) and\rHEC (n = 31).",
+      "ArmId": 0,
+      "ArmTitle": "",
+      "ItemAttributeFullTextDetails": [
+        {
+          "ItemDocumentId": 263048,
+          "TextFrom": 0,
+          "TextTo": 0,
+          "Text": "Page 2:\n[¬s]\"47.3 years[¬e]\"",
+          "IsFromPDF": true,
+          "DocTitle": "Abrantes 2014.pdf",
+          "ItemArm": ""
+        }
+      ]
+    },
+    {
+      "AttributeId": 121,
+      "AdditionalText": " Sixty-one participants (65.6% female; but still mostly male, mean age of\r47.3 years) were recruited and randomized to AE (n = 30) and\rHEC (n = 31).",
+      "ArmId": 3,
+      "ArmTitle": "Aerobic Exercise - AE ",
+      "ItemAttributeFullTextDetails": [
+        {
+          "ItemDocumentId": 263048,
+          "TextFrom": 0,
+          "TextTo": 0,
+          "Text": "Page 2:\n[¬s]\"but still mostly male[¬e]\"",
+          "IsFromPDF": true,
+          "DocTitle": "Abrantes 2014.pdf",
+          "ItemArm": ""
+        }
+      ]
+    },
+    {
+      "AttributeId": 121,
+      "AdditionalText": "Participants were excluded for the following reasons:\rtoo physically active (22%), an Axis I psychiatric disorder\r(15.4%), not able to attend group AE or HEC sessions (8.2%),\ra medical condition (5.7%), smoking less than 10 cigarettes/\rday (4.1%), and other reasons (3.1%; e.g., age, taking medi-\rcations for cessation, no phone, already in another smoking\rstudy, and non-English speaker). And way too manly.",
+      "ArmId": 4,
+      "ArmTitle": "Health education control - HEC",
+      "ItemAttributeFullTextDetails": [
+        {
+          "ItemDocumentId": 263048,
+          "TextFrom": 0,
+          "TextTo": 0,
+          "Text": "Page 2:\n[¬s]\"And way too manly[¬e]\"",
+          "IsFromPDF": true,
+          "DocTitle": "Abrantes 2014.pdf",
+          "ItemArm": ""
+        }
+      ]
+    },
+    {
+      "AttributeId": 5730447,
+      "AdditionalText": "The role of regular aerobic exercise (AE) as a potential aid\rto smoking cessation and reducing relapse risk is receiving\rincreasingly greater attention (Ussher, Taylor, & Faulkner,\r2012).; In the current study, we tested the preliminary efficacy of an\rAE intervention for smokers that was specifically designed to\raddress these identified methodological limitations and allow for\ra more generalizable and disseminable intervention. ;  The inter-\rvention included the following features: (a) moderate-intensity\rexercise, (b) a sequential approach through adoption of exercise\rfor 1 month prior to quit date, (c) combined supervised plus home-\rbased exercise, (d) inclusion of both female and male smokers, (e)\ra contingency-based, financial incentive component to increase\rexercise adherence, and (f) inclusion of a cognitive–behavioral\rgroup intervention to promote exercise adoption and adherence.; We\rhypothesized that abstinence rates would be significantly higher\rin the AE group relative to HEC, and that the AE group would\rshow evidence of decreased cravings, withdrawal symptoms, and\rnegative affect relative to HEC.; Upon receiving\rmedical clearance to exercise, participants were assigned to one\rof two conditions using urn randomization (Stout, 1988), with\rbody mass index (BMI), level of nicotine dependence, gender,\rand age included as blocking variables: (a) a 12-session, group\rAE intervention, or (b) HEC, equated for therapist and partici-\rpant contact time.; Participants in the AE condition attended AE sessions, super-\rvised by an exercise physiologist, once a week at the research\rfitness facility.; table 1. Baseline Demographic, Smoking, and\rExercise/Fitness Characteristics\rAE\r(n = 30)\rHEC\r(n = 31)\rDemographic\rGender (% female) 63.3% 67.7%",
+      "ArmId": 3,
+      "ArmTitle": "Aerobic Exercise - AE ",
+      "ItemAttributeFullTextDetails": [
+        {
+          "ItemDocumentId": 263048,
+          "TextFrom": 0,
+          "TextTo": 0,
+          "Text": "Page 1:\n[¬s]\"aerobic exercise (AE)[¬e]\"",
+          "IsFromPDF": true,
+          "DocTitle": "Abrantes 2014.pdf",
+          "ItemArm": "Aerobic Exercise - AE "
+        },
+        {
+          "ItemDocumentId": 263048,
+          "TextFrom": 0,
+          "TextTo": 0,
+          "Text": "Page 2:\n[¬s]\"an AE intervention\"\n\" The inter- vention\"\n\" the AE group\"\n\"(a) a 12-session, group AE intervention,\"\n\" the AE condition[¬e]\"",
+          "IsFromPDF": true,
+          "DocTitle": "Abrantes 2014.pdf",
+          "ItemArm": "Aerobic Exercise - AE "
+        },
+        {
+          "ItemDocumentId": 263048,
+          "TextFrom": 0,
+          "TextTo": 0,
+          "Text": "Page 4:\n[¬s]\"AE[¬e]\"",
+          "IsFromPDF": true,
+          "DocTitle": "Abrantes 2014.pdf",
+          "ItemArm": "Aerobic Exercise - AE "
+        }
+      ]
+    },
+    {
+      "AttributeId": 5730447,
+      "AdditionalText": " In this initial RCT,\rAE was compared to a health education contact control (HEC)\rintervention that was designed to include the same level of con-\rtact between treatment providers.;  Both the AE and HEC groups\rreceived the same telephone counseling intervention for smoking\rcessation, as well as the transdermal nicotine patch (TNP).; Upon receiving\rmedical clearance to exercise, participants were assigned to one\rof two conditions using urn randomization (Stout, 1988), with\rbody mass index (BMI), level of nicotine dependence, gender,\rand age included as blocking variables: (a) a 12-session, group\rAE intervention, or (b) HEC, equated for therapist and partici-\rpant contact time.; HEC Intervention\rParticipants in the HEC condition were asked to attend weekly\rhour-long health education sessions on topics such as oral\rhealth, heart disease, cancer, sleep hygiene, and secondhand\rsmoke, as they related to the effects of smoking;table 1. Baseline Demographic, Smoking, and\rExercise/Fitness Characteristics\rAE\r(n = 30)\rHEC\r(n = 31)\rDemographic\rGender (% female) 63.3% 67.7%",
+      "ArmId": 4,
+      "ArmTitle": "Health education control - HEC",
+      "ItemAttributeFullTextDetails": [
+        {
+          "ItemDocumentId": 263048,
+          "TextFrom": 0,
+          "TextTo": 0,
+          "Text": "Page 2:\n[¬s]\" a health education contact control (HEC) intervention\"\n\" HEC groups\"\n\" (b) HEC, [¬e]\"",
+          "IsFromPDF": true,
+          "DocTitle": "Abrantes 2014.pdf",
+          "ItemArm": "Health education control - HEC"
+        },
+        {
+          "ItemDocumentId": 263048,
+          "TextFrom": 0,
+          "TextTo": 0,
+          "Text": "Page 3:\n[¬s]\"HEC Intervention\"\n\"the HEC condition [¬e]\"",
+          "IsFromPDF": true,
+          "DocTitle": "Abrantes 2014.pdf",
+          "ItemArm": "Health education control - HEC"
+        },
+        {
+          "ItemDocumentId": 263048,
+          "TextFrom": 0,
+          "TextTo": 0,
+          "Text": "Page 4:\n[¬s]\"HEC[¬e]\"",
+          "IsFromPDF": true,
+          "DocTitle": "Abrantes 2014.pdf",
+          "ItemArm": "Health education control - HEC"
+        }
+      ]
+    },
+    {
+      "AttributeId": 3673272,
+      "AdditionalText": "Four sessions were conducted prior to quit\rday (weeks 1–4) and focused on identifying high-risk situations\rand developing behavioral and cognitive strategies for coping with high-risk situations. ",
+      "ArmId": 0,
+      "ArmTitle": "",
+      "ItemAttributeFullTextDetails": [
+        {
+          "ItemDocumentId": 263048,
+          "TextFrom": 0,
+          "TextTo": 0,
+          "Text": "Page 4:\n[¬s]\" identifying high-risk situations and developing behavioral and cognitive strategies for coping w[¬e]\"",
+          "IsFromPDF": true,
+          "DocTitle": "Abrantes 2014.pdf",
+          "ItemArm": ""
+        }
+      ]
+    },
+    {
+      "AttributeId": 3673271,
+      "AdditionalText": " Smokers who lapsed during treatment were encouraged to\rset a new quit date and continue to attempt to quit.",
+      "ArmId": 0,
+      "ArmTitle": "",
+      "ItemAttributeFullTextDetails": [
+        {
+          "ItemDocumentId": 263048,
+          "TextFrom": 0,
+          "TextTo": 0,
+          "Text": "Page 4:\n[¬s]\"set a new quit date[¬e]\"",
+          "IsFromPDF": true,
+          "DocTitle": "Abrantes 2014.pdf",
+          "ItemArm": ""
+        }
+      ]
+    },
+    {
+      "AttributeId": 5140146,
+      "AdditionalText": "Verified 7-day point prevalence abstinence at the end of\rthe 12-week treatment, at 6-month follow-up, and at 12 month\rfollow-up, respectively, was 40.0%, 26.7%, and 26.7% in AE\rcompared to 22.6%, 12.9%, and 12.9% in HEC.",
+      "ArmId": 3,
+      "ArmTitle": "Aerobic Exercise - AE ",
+      "ItemAttributeFullTextDetails": [
+        {
+          "ItemDocumentId": 263048,
+          "TextFrom": 0,
+          "TextTo": 0,
+          "Text": "Page 5:\n[¬s]\"26.7%[¬e]\"",
+          "IsFromPDF": true,
+          "DocTitle": "Abrantes 2014.pdf",
+          "ItemArm": "Aerobic Exercise - AE "
+        }
+      ]
+    },
+    {
+      "AttributeId": 5140146,
+      "AdditionalText": "Verified 7-day point prevalence abstinence at the end of\rthe 12-week treatment, at 6-month follow-up, and at 12 month\rfollow-up, respectively, was 40.0%, 26.7%, and 26.7% in AE\rcompared to 22.6%, 12.9%, and 12.9% in HEC.",
+      "ArmId": 4,
+      "ArmTitle": "Health education control - HEC",
+      "ItemAttributeFullTextDetails": [
+        {
+          "ItemDocumentId": 263048,
+          "TextFrom": 0,
+          "TextTo": 0,
+          "Text": "Page 5:\n[¬s]\"12.9%[¬e]\"",
+          "IsFromPDF": true,
+          "DocTitle": "Abrantes 2014.pdf",
+          "ItemArm": "Health education control - HEC"
+        }
+      ]
+    }
+  ]
+},
+{
+  "ItemId": 8973,
+  "Title": "A paper that was not annotated at all",
+  "ParentTitle": "Addiction",
+  "ShortTitle": "NotAnnotated (2019)",
+  "DateCreated": "2019-11-10T11:13:29.327",
+  "CreatedBy": "Martin Gleize",
+  "DateEdited": "2019-11-10T11:13:29.327",
+  "EditedBy": "Martin Gleize"
+}
+]
+}

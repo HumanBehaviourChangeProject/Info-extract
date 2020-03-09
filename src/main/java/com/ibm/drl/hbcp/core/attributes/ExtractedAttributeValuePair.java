@@ -13,22 +13,14 @@ import java.util.Set;
  */
 public class ExtractedAttributeValuePair extends AttributeValuePair {
 
-    protected final Set<String> docNames;
-
-    public ExtractedAttributeValuePair(Attribute attribute, String value, Set<String> docNames) {
-        super(attribute, value);
-        this.docNames = docNames;
-    }
+    protected final String docName;
 
     public ExtractedAttributeValuePair(Attribute attribute, String value, String docName) {
-        this(attribute, value, Sets.newHashSet(docName));
+        super(attribute, value);
+        this.docName = docName;
     }
-    /** Denoted "DocTitle" in the annotation JSONs, generally will be the filenames of the PDFs containing the attribute */
-    public final Set<String> getDocNames() { return docNames; }
 
-    // TODO remove that
-    @Deprecated
-    public final String getDocName() { return docNames.iterator().next(); }
+    public final String getDocName() { return docName; }
 
     @Override
     public boolean equals(Object o) {
@@ -36,11 +28,11 @@ public class ExtractedAttributeValuePair extends AttributeValuePair {
         if (o == null || getClass() != o.getClass()) return false;
         if (!super.equals(o)) return false;
         ExtractedAttributeValuePair that = (ExtractedAttributeValuePair) o;
-        return Objects.equals(docNames, that.docNames);
+        return Objects.equals(docName, that.docName);
     }
 
     @Override
     public int hashCode() {
-        return Objects.hash(super.hashCode(), docNames);
+        return Objects.hash(super.hashCode(), docName);
     }
 }

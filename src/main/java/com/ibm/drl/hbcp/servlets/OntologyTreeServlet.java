@@ -5,15 +5,16 @@
  */
 package com.ibm.drl.hbcp.servlets;
 
-import java.io.IOException;
-import java.io.PrintWriter;
-import java.net.URL;
+import com.ibm.drl.hbcp.parser.JSONRefParser;
+
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
-import com.ibm.drl.hbcp.parser.JSONRefParser;
+import java.io.IOException;
+import java.io.PrintWriter;
+import java.net.URL;
 
 /**
  *
@@ -39,8 +40,7 @@ public class OntologyTreeServlet extends HttpServlet {
         try {
             if (ctree == null) {
                 URL refJsonUrl = JSONRefParser.class.getClassLoader().getResource("Sprint1_Codeset1.json");
-                ctree = new JSONRefParser();
-                ctree.buildCodeSetsFromURL(refJsonUrl);
+                ctree = new JSONRefParser(refJsonUrl);
                 session.setAttribute("ctree", ctree);
             }
         }

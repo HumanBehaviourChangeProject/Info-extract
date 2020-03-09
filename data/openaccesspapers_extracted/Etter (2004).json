@@ -1,0 +1,274 @@
+{
+  "blocks": [
+    {
+      "type": "LINES",
+      "value": "Post-intervention effect of a computer tailored smoking cessation programme",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "In 1998, we sent the baseline questionnaire to a representative (random) sample of 20 000 residents aged 18-60 in French speaking Switzerland. We sent out followup questionnaires six and 23 months later to the 2934 baseline participants. We randomly assigned participants to the intervention or control group.\nThe intervention consisted of personal counselling letters, written by a computer according to the answers made by participants to a 62 item questionnaire, and of stage matched brochures. Each counselling letter included about 20 paragraphs of text, and was compiled by the computer from a library of over 300 paragraphs. The content of the letters was based on extensive research conducted in the same population, and on relevant theory, in particular the transtheoretical model of behaviour change. The questionnaires used to produce the tailored counselling letters assessed the participants' demographic characteristics, stage of change (''precontemplation'': no intention to quit smoking in the next six months, ''contemplation'': seriously considers quitting in the next six months, ''preparation'': has decided to quit in the next 30 days), 3 level of tobacco dependence, perceived drawbacks of smoking, self efficacy (that is, confidence in one's ability to refrain from smoking in specific situations), use of self change strategies (for example, obtaining support from family and friends), current use, and intention to use nicotine replacement therapy. We used validated scales to measure these variables. The counselling letters included cartoons and graphs, which were also tailored to the participants' characteristics. The questionnaire, counselling letters, and brochures can be seen at the Stop-tabac cessation programme website (http://www.stop-tabac.ch).\nAfter returning the baseline questionnaire, participants in the intervention group received by mail an eight page personal counselling letter and two 16 page booklets corresponding to their current stage of change and to the next stage. Two, four, and 12 months after entering the study, participants in the intervention group were invited to answer the tailoring questionnaire again, in order to receive anew counselling letter. Participants received counselling letters a median of two times over 12 months. Half the participants (45%) received counselling only once, 40% twice, and 15% three times or more. Participants in the intervention group were not contacted between the 12th and the 24th months of the study.\nAfter returning the baseline questionnaire, members of the control group received a letter indicating that they had been attributed to that group. They were not contacted again until the six month and 23 month followup surveys.\nThe main outcome measure was one month abstinence (not having smoked even a puff of tobacco cigarette, cigar, pipe, etc, in the past four weeks), which is the criterion recommended by FDA. We also assessed one week abstinence (no puff of tobacco in the past seven days). We used an intention to treat analysis, in which all people absent at followup were considered to be smokers, to have not used a nicotine replacement product, not made a quit attempt, not modified their stage of change, and not spent any day without smoking.\nWe used x 2 tests to compare proportions and t tests to compare means.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "We recruited 2934 daily smokers at baseline. The participation rate to the first followup was 84% (2456 of 2934), seven months later. The participation rate to the second followup was 88% (2571 of 2934), 24 months after baseline.\nAt baseline, participants were on average 36 years old, 48% were men, they had 14 years at school on average, they smoked on average 20 cigarettes per day and smoked their first cigarette on average 70 minutes after waking up, 40% had made a quit attempt in the year before the study, 41% were in the precontemplation stage of change, 51% in the contemplation stage, and 8% in the preparation stage.\nAfter seven months, the four week abstinence rates were 5.8% in the intervention group and 2.2% in the control group (p,0.001), and the seven day quit rates were 8.0% and 3.3% (p,0.001), respectively. 5 After 24 months, abstinence rates were similar in the two groups, but more participants in the intervention group than in the control group had made a one month quit attempt and had used nicotine replacement products during the study (table 1). The number of days of smoking abstinence during the study was higher in the intervention group than in the control group. After 24 months, the distribution of participants by ''stage of change'' was the same in the two groups.\nAmong participants who had quit smoking at seven month followup, using the criterion of four weeks' abstinence, the proportions of non-smokers at 24 months were similar in the intervention and control groups (55.3% versus 57.6%, p = 0.8). Among smokers at seven months, the proportions of non-smokers at 24 months were similar in the two groups (8.4% versus 9.4%, p = 0.3).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "In daily smokers, a computer tailored smoking cessation programme carried out by mail doubled the odds of quitting smoking, seven months after entry in the programme, but this effect was not maintained after two years-that is, one What this paper adds N Individualised computer tailored letters can be effective in helping smokers quit smoking, but it is not known whether this effect is maintained after the intervention is stopped.\nN Even though a computer tailored programme doubled the odds of quitting smoking seven months after entry in the programme, this effect was not maintained one year after the intervention was stopped.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The post-intervention effect of available computer tailored smoking cessation programmes should be further tested, for example, two or five years after the intervention is stopped. year after the end of the intervention. This programme was effective only as long as it was active. This calls for an experimental test of various durations of the intervention (for example, one year compared with two or five years).\n",
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "163 (11.1)",
+          "rowHeaders": [
+            "Four week smoking abstinence, number (%)"
+          ],
+          "columnHeaders": [
+            "Smoking cessation rates 24 months after entry in the study, and 12 months after",
+            "Programme",
+            "(n = 1467)"
+          ]
+        },
+        {
+          "value": "154 (10.5)",
+          "rowHeaders": [
+            "Four week smoking abstinence, number (%)"
+          ],
+          "columnHeaders": [
+            "Smoking cessation rates 24 months after entry in the study, and 12 months after",
+            "Control",
+            "(n = 1467)"
+          ]
+        },
+        {
+          "value": "0.6",
+          "rowHeaders": [
+            "Four week smoking abstinence, number (%)"
+          ],
+          "columnHeaders": [
+            "Smoking cessation rates 24 months after entry in the study, and 12 months after",
+            "Control",
+            "p Value"
+          ]
+        },
+        {
+          "value": "183 (12.5)",
+          "rowHeaders": [
+            "Seven day smoking abstinence, number (%)"
+          ],
+          "columnHeaders": [
+            "Smoking cessation rates 24 months after entry in the study, and 12 months after",
+            "Programme",
+            "(n = 1467)"
+          ]
+        },
+        {
+          "value": "185 (12.6)",
+          "rowHeaders": [
+            "Seven day smoking abstinence, number (%)"
+          ],
+          "columnHeaders": [
+            "Smoking cessation rates 24 months after entry in the study, and 12 months after",
+            "Control",
+            "(n = 1467)"
+          ]
+        },
+        {
+          "value": "0.9",
+          "rowHeaders": [
+            "Seven day smoking abstinence, number (%)"
+          ],
+          "columnHeaders": [
+            "Smoking cessation rates 24 months after entry in the study, and 12 months after",
+            "Control",
+            "p Value"
+          ]
+        },
+        {
+          "value": "453 (30.9)",
+          "rowHeaders": [
+            "Quit smoking for one month, during the study, number (%)"
+          ],
+          "columnHeaders": [
+            "Smoking cessation rates 24 months after entry in the study, and 12 months after",
+            "Programme",
+            "(n = 1467)"
+          ]
+        },
+        {
+          "value": "362 (24.7)",
+          "rowHeaders": [
+            "Quit smoking for one month, during the study, number (%)"
+          ],
+          "columnHeaders": [
+            "Smoking cessation rates 24 months after entry in the study, and 12 months after",
+            "Control",
+            "(n = 1467)"
+          ]
+        },
+        {
+          "value": ",0.001",
+          "rowHeaders": [
+            "Quit smoking for one month, during the study, number (%)"
+          ],
+          "columnHeaders": [
+            "Smoking cessation rates 24 months after entry in the study, and 12 months after",
+            "Control",
+            "p Value"
+          ]
+        },
+        {
+          "value": "365 (24.9)",
+          "rowHeaders": [
+            "Used.1 piece of a nicotine replacement product, number (%)"
+          ],
+          "columnHeaders": [
+            "Smoking cessation rates 24 months after entry in the study, and 12 months after",
+            "Programme",
+            "(n = 1467)"
+          ]
+        },
+        {
+          "value": "305 (20.8)",
+          "rowHeaders": [
+            "Used.1 piece of a nicotine replacement product, number (%)"
+          ],
+          "columnHeaders": [
+            "Smoking cessation rates 24 months after entry in the study, and 12 months after",
+            "Control",
+            "(n = 1467)"
+          ]
+        },
+        {
+          "value": "0.008",
+          "rowHeaders": [
+            "Used.1 piece of a nicotine replacement product, number (%)"
+          ],
+          "columnHeaders": [
+            "Smoking cessation rates 24 months after entry in the study, and 12 months after",
+            "Control",
+            "p Value"
+          ]
+        },
+        {
+          "value": "51.0 (132)",
+          "rowHeaders": [
+            "Days without smoking, during the past two years (mean, SD)"
+          ],
+          "columnHeaders": [
+            "Smoking cessation rates 24 months after entry in the study, and 12 months after",
+            "Programme",
+            "(n = 1467)"
+          ]
+        },
+        {
+          "value": "41.5 (110)",
+          "rowHeaders": [
+            "Days without smoking, during the past two years (mean, SD)"
+          ],
+          "columnHeaders": [
+            "Smoking cessation rates 24 months after entry in the study, and 12 months after",
+            "Control",
+            "(n = 1467)"
+          ]
+        },
+        {
+          "value": "0.033",
+          "rowHeaders": [
+            "Days without smoking, during the past two years (mean, SD)"
+          ],
+          "columnHeaders": [
+            "Smoking cessation rates 24 months after entry in the study, and 12 months after",
+            "Control",
+            "p Value"
+          ]
+        },
+        {
+          "value": "0.41",
+          "rowHeaders": [
+            "Stage of change"
+          ],
+          "columnHeaders": [
+            "Smoking cessation rates 24 months after entry in the study, and 12 months after",
+            "Control",
+            "p Value"
+          ]
+        },
+        {
+          "value": "613 (41.8)",
+          "rowHeaders": [
+            "Precontemplation"
+          ],
+          "columnHeaders": [
+            "Smoking cessation rates 24 months after entry in the study, and 12 months after",
+            "Programme",
+            "(n = 1467)"
+          ]
+        },
+        {
+          "value": "593 (40.4)",
+          "rowHeaders": [
+            "Precontemplation"
+          ],
+          "columnHeaders": [
+            "Smoking cessation rates 24 months after entry in the study, and 12 months after",
+            "Control",
+            "(n = 1467)"
+          ]
+        },
+        {
+          "value": "576 (39.3)",
+          "rowHeaders": [
+            "Contemplation"
+          ],
+          "columnHeaders": [
+            "Smoking cessation rates 24 months after entry in the study, and 12 months after",
+            "Programme",
+            "(n = 1467)"
+          ]
+        },
+        {
+          "value": "611 (41.6)",
+          "rowHeaders": [
+            "Contemplation"
+          ],
+          "columnHeaders": [
+            "Smoking cessation rates 24 months after entry in the study, and 12 months after",
+            "Control",
+            "(n = 1467)"
+          ]
+        },
+        {
+          "value": "121 (8.2)",
+          "rowHeaders": [
+            "Days without smoking, during the past two years (mean, SD)",
+            "Maintenance (that is, quit smoking more than six months ago)"
+          ],
+          "columnHeaders": [
+            "Smoking cessation rates 24 months after entry in the study, and 12 months after",
+            "Programme",
+            "(n = 1467)",
+            "80 (5.5)",
+            "77 (5.2)"
+          ]
+        }
+      ],
+      "page": 1
+    }
+  ]
+}

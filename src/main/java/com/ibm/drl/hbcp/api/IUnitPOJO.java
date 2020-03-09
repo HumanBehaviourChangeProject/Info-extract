@@ -23,6 +23,18 @@ public class IUnitPOJO {
     String docName;
     String extractedValue;
     String context;
+    String armId;
+    String armName;
+
+    public IUnitPOJO(String type, String docName, String value, String code, String context, String armId, String armName) {
+        this.type = type;
+        this.docName = docName;
+        this.extractedValue = value;
+        this.code = code;
+        this.context = context;
+        this.armId = armId;
+        this.armName = armName;
+    }
 
     public IUnitPOJO(String type, String docName, String value, String code, String context) {
         this.type = type;
@@ -54,6 +66,10 @@ public class IUnitPOJO {
     }
     
     public String getContext() { return context; }
+
+    public String getArmId() { return armId; }
+
+    public String getArmName() { return armName; }
     
     public String toString() {
         StringBuffer buff = new StringBuffer();

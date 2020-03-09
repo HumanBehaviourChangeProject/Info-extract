@@ -5,15 +5,15 @@
  */
 package com.ibm.drl.hbcp.glm;
 
-import com.ibm.drl.hbcp.inforetrieval.indexer.ResearchDoc;
-import java.util.*;
-import org.apache.lucene.index.Term;
-import org.apache.lucene.search.BooleanClause;
-import org.apache.lucene.search.BooleanQuery;
-import org.apache.lucene.search.Query;
-import org.apache.lucene.search.TermQuery;
 import com.ibm.drl.hbcp.core.wvec.WordVec;
 import com.ibm.drl.hbcp.core.wvec.WordVecs;
+import com.ibm.drl.hbcp.inforetrieval.indexer.ResearchDoc;
+import org.apache.lucene.index.Term;
+import org.apache.lucene.search.*;
+
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
 
 class WordSimWeight {
     String key;
@@ -53,18 +53,18 @@ public class QueryExpander {
     }
     
     Query constructWightedQuery(HashMap<String, WordSimWeight> termWeights) {
-        BooleanQuery q = new BooleanQuery();
+        BooleanQuery.Builder q = new BooleanQuery.Builder();
         
         for (WordSimWeight wsimwt: termWeights.values()) {
             float avgsim = wsimwt.sim/(float)wsimwt.count;
             float avgdist = (float) Math.acos(avgsim);   // cos-inverse
             float wt = (float)Math.exp(-avgdist*avgdist);
             TermQuery tq = new TermQuery(new Term(ResearchDoc.FIELD_CONTENT, wsimwt.key));
-            tq.setBoost(wt);
-            q.add(tq, BooleanClause.Occur.SHOULD);
+            BoostQuery bq = new BoostQuery(tq, wt);
+            q.add(bq, BooleanClause.Occur.SHOULD);
         }
         
-        return q;
+        return q.build();
     }
 
     /**

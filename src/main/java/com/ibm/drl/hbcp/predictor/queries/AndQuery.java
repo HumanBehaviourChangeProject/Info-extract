@@ -1,12 +1,17 @@
 package com.ibm.drl.hbcp.predictor.queries;
 
 import com.google.common.collect.ImmutableList;
-import com.ibm.drl.hbcp.predictor.graph.AttributeValueNode;
-import org.apache.commons.lang.StringUtils;
 import com.ibm.drl.hbcp.core.wvec.NodeVecs;
 import com.ibm.drl.hbcp.core.wvec.WordVec;
+import com.ibm.drl.hbcp.predictor.evaluation.parameters.ResultPlusSubsScoring;
+import com.ibm.drl.hbcp.predictor.evaluation.parameters.SubResultScoring;
+import com.ibm.drl.hbcp.predictor.graph.AttributeValueNode;
+import org.apache.commons.lang3.StringUtils;
 
 import java.util.*;
+import java.util.function.BiFunction;
+import java.util.function.Function;
+import java.util.function.Predicate;
 import java.util.stream.Collectors;
 
 /**
@@ -19,17 +24,46 @@ public class AndQuery implements Query {
 
     public final List<? extends Query> queries;
     public final int topK;
+    // a filter on the results of the query, will drive the search
+    final Predicate<AttributeValueNode> filter;
 
     public static final int DEFAULT_TOP_K = 50;
     protected static final int BEAM_WIDTH_FACTOR = 10;
 
-    public AndQuery(List<? extends Query> queries) {
-        this(queries, DEFAULT_TOP_K);
+    // HIDEOUS. TODO: if it turns out to be useful again, reimplement that properly
+    public static Function<List<SearchResult>, Double> subResultScoring = SubResultScoring::multiply;
+    public static BiFunction<Double, Double, Double> resultPlusSubsScoring = ResultPlusSubsScoring::multiply;
+
+    public AndQuery(List<? extends Query> queries, Predicate<AttributeValueNode> filter, int topK) {
+        this.queries = ImmutableList.copyOf(queries);
+        this.filter = filter;
+        this.topK = topK;
     }
 
     public AndQuery(List<? extends Query> queries, int topK) {
-        this.queries = ImmutableList.copyOf(queries);
-        this.topK = topK;
+        this(queries, x -> true, topK);
+    }
+
+    public AndQuery(List<? extends Query> queries) {
+        this(queries, x -> true, DEFAULT_TOP_K);
+    }
+
+    public AndQuery withFilter(Predicate<AttributeValueNode> filter) {
+        return new AndQuery(queries, filter, topK);
+    }
+
+    public static AndQuery forOutcomeValue(List<? extends Query> queries) {
+        return new AndQuery(queries, avp -> avp.getAttribute().getName().contains("Outcome value"), DEFAULT_TOP_K);
+    }
+
+    public static AndQuery flatten(AndQuery andQueryOfAndQueries) {
+        List<AndQuery> subqueries = andQueryOfAndQueries.queries.stream().map(q -> (AndQuery)q).collect(Collectors.toList());
+        List<Query> leaves = subqueries.stream().flatMap(aq -> aq.queries.stream()).collect(Collectors.toList());
+        return new AndQuery(leaves);
+    }
+
+    public AndQuery forOutcomeValue() {
+        return forOutcomeValue(queries);
     }
 
     @Override
@@ -108,21 +142,25 @@ public class AndQuery implements Query {
     /** compute the centroid of the subresults, and return the NNs in the graph */
     protected List<SearchResult> getResults(NodeVecs vecs, List<SearchResult> subresults) {
         WordVec centroid = getCentroid(subresults.stream().map(sr -> sr.node).collect(Collectors.toList()), vecs);
-        
+
         if (centroid == null)
             return new ArrayList<>();
-        
+
         // search nearest neighbors
-        List<SearchResult> res = new VectorQuery(centroid, topK).search(vecs);
+        List<SearchResult> res = new VectorQuery(centroid, filter, topK).search(vecs);
         // adjust their scores if needed (using the scores of the subresults)
         return res.stream()
                 .map(sr -> new SearchResult(sr.node, getAdjustedResultScore(sr.score, subresults)))
                 .collect(Collectors.toList());
     }
 
-    /** by default we don't adjust for now TODO: this is where we have to do some com.ibm.drl.hbcp.experiments */
+    /** Average of original score + avg(subresult scores) TODO: find something better */
     protected double getAdjustedResultScore(double originalResultScore, List<SearchResult> subresults) {
-        return originalResultScore;
+        // subresults should never be empty here
+        double avgSubresults = subResultScoring.apply(subresults);
+        double res = resultPlusSubsScoring.apply(originalResultScore, avgSubresults);
+        // debug here
+        return res;
     }
 
     protected List<List<SearchResult>> getNextBestSubresultCombos(Iterator<List<SearchResult>> subresultCombos, int comboLimit) {
@@ -191,13 +229,14 @@ public class AndQuery implements Query {
 
     protected double getResultComboScoreWithReplacement(List<SearchResult> results, SearchResult replacement, int index) {
         List<SearchResult> listWithReplacement = getListWithReplacement(results, replacement, index);
-        return getResultComboScore(listWithReplacement);
+        return subResultScoring.apply(listWithReplacement);
     }
 
+    // unused at the moment, might be useful for debugging the above in case of NPE
     protected double getResultComboScore(List<SearchResult> results) {
-        double res = 1.0;
-        if (results!=null)
-            for (SearchResult result : results) if (result!=null) res *= result.score;
+        double res = 0.0;
+        for (SearchResult result : results) res += result.score;
+        res /= results.size();
         return res;
     }
 

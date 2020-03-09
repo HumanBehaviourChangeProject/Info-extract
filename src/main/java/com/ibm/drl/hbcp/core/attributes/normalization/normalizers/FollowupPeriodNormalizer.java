@@ -5,10 +5,10 @@
  */
 package com.ibm.drl.hbcp.core.attributes.normalization.normalizers;
 
+import com.ibm.drl.hbcp.core.attributes.ArmifiedAttributeValuePair;
+
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-
-import com.ibm.drl.hbcp.parser.AnnotatedAttributeValuePair;
 
 /**
  * For follow up attributes, normalize the values to weeks. Guess the unit
@@ -17,7 +17,7 @@ import com.ibm.drl.hbcp.parser.AnnotatedAttributeValuePair;
  * @author dganguly
  */
 
-public class FollowupPeriodNormalizer implements Normalizer<AnnotatedAttributeValuePair> {
+public class FollowupPeriodNormalizer implements Normalizer<ArmifiedAttributeValuePair> {
     
     static String[] UNITS = { "week", "month" };
     static String[] DIGITS_IN_WORDS = { "zero", "one", "two", "three", "four", "five",
@@ -30,7 +30,7 @@ public class FollowupPeriodNormalizer implements Normalizer<AnnotatedAttributeVa
     static final int WEEK_THRESHOLD = 12;  //higher than this ==> classify as weeks
 
     @Override
-    public String getNormalizedValue(AnnotatedAttributeValuePair attributeValue) {
+    public String getNormalizedValue(ArmifiedAttributeValuePair attributeValue) {
         return getValueInUnits(attributeValue.getContext(), attributeValue.getValue());
     }
 

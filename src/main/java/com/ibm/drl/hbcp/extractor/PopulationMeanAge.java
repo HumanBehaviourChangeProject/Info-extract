@@ -6,9 +6,10 @@
 package com.ibm.drl.hbcp.extractor;
 
 import com.ibm.drl.hbcp.core.attributes.AttributeType;
+import com.ibm.drl.hbcp.parser.CodeSetTree;
+import com.ibm.drl.hbcp.util.LuceneField;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.document.Field;
-import com.ibm.drl.hbcp.parser.CodeSetTree;
 
 /**
  * This class is used to extract the "average age" from a population.
@@ -114,7 +115,7 @@ public class PopulationMeanAge extends InformationUnit {
     public void appendFields(Document doc) {
         doc.add(new Field(InformationUnit.ATTRIB_ID_FIELD,
             String.valueOf(attribId),
-            Field.Store.YES, Field.Index.NOT_ANALYZED));
+                LuceneField.STORED_NOT_ANALYZED.getType()));
     }
 
     @Override

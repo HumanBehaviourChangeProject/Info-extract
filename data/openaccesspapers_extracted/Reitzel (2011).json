@@ -1,0 +1,724 @@
+{
+  "blocks": [
+    {
+      "type": "LINES",
+      "value": "The Efficacy of Computer-Delivered Treatment for Smoking Cessation",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Background: The current study evaluated the efficacy of an individualized, hand-held computer-delivered treatment (CDT) versus standard treatment (ST) for the maintenance of smoking abstinence following a quit attempt. Methods: Participants were 303 adult daily smokers randomized to CDT or ST, plus pharmacotherapy. Abstinence though 1 year was examined using logistic random intercept models, a type of generalized linear mixed model regression. Results: Results did not support the efficacy of the CDT program through 1 year postquit in analyses adjusted for time and study site (OR ¼ 0.84, 95% CI ¼ 0.55-1.30), or after further adjusting for race/ethnicity, age, gender, education, marital status, and the number of cigarettes smoked per day before quitting (OR ¼ 0.89, 95% CI ¼ 0.57-1.39). Conclusions: CDT did not increase short-or long-term abstinence rates over ST in this study. Impact: Findings differ from some in the literature and suggest the need for continued research on the use of CDT for smoking cessation. Cancer Epidemiol Biomarkers Prev; 20(7); 1555-7. Ó2011 AACR.",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Smoking is the most preventable cause of premature morbidity and mortality in the United States (1) and the health benefits of quitting are substantial. Unfortunately, of the 34% of adult smokers who make a serious quit attempt each year, only 7.5% are successful. One promising approach to increasing cessation rates maybe the use of computer-delivered treatment (CDT) provided via a small, mobile computer or smartphone. CDT might be particularly efficacious because it could be individualized on the basis of smoking preferences and empirical data, and would allow the provision of treatment in-the-moment when high-risk situations arose. The current study examined the efficacy of an individualized CDT program for smoking cessation used as an adjuvant to a standard treatment (ST). We hypothesized that CDT would increase abstinence rates through 1 year postquit relative to ST.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "This study was a 2 group randomized controlled trial of a palmtop computer-delivered, individualized smoking cessation intervention for adult smokers. Smokers were randomized into CDT (n ¼ 152) or ST (n ¼ 151).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Participants were recruited from Seattle, WA (n ¼ 139), and Houston, TX (n ¼ 164). Enrollment spanned 1999 to 2003. Data collection completed in 2004. Inclusion criteria were as follows: aged 18-70 years; !10 cigarettes per day for the past year; expired breath carbon monoxide level of !10 ppm; and the ability to speak/read/write in English. Exclusion criteria were as follows: regular use of tobacco products other than cigarettes; active substance abuse disorder; current psychiatric disorder; current use of bupropion; or contraindications for nicotine replacement therapy (NRT).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Participants provided written informed consent, completed baseline measures, and were assigned a quit date. All were asked to complete assessments on a palmtop computer during the week before quitting. Assessments queried high-risk situations for smoking and efficacy and outcome expectancies for context-specific coping strategies. All participants received ST, which consisted of a self-help manual, information about how to access the Research.\non January 20, 2016. © 2011 American Association for Cancer cebp.aacrjournals.org Downloaded from\nCommitted Quitters Program, and 6 weeks of the NRT patch. Participants randomly assigned to the CDT group also utilized individualized CDT through 1 month postquit.\nCDT intervention consisted of 3 components: Treatment Information about smoking (e.g., risks of smoking, benefits of quitting) and specific tips on quitting (e.g., managing negative emotions, what to do if a lapse occurs); Motivational Messages to encourage quitting; and Managing My Urge, a list of situation-specific and affectively relevant coping strategies that could be accessed at the moment of an urge. Coping strategies were personalized to each person's preferences and experiences based on the pretreatment assessment and rating period. Participants were instructed to access the CDT program components to get assistance managing urges or whenever they needed additional information/guidance.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Sociodemographic and tobacco-related characteristics were measured at baseline and included self-reported race/ethnicity, age, gender, education, marital status, and the number of cigarettes smoked per day before quitting (smoking rate).\nSmoking abstinence was assessed at week 1, and months 1, 6, and 12 after the target quit date. Abstinence was defined as a self-report of no smoking during the previous 7 days and an expired air carbon monoxide level of less than 10 ppm. Participants with missing data were classified as smokers per intent-to-treat procedures.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "All analyses were conducted using Statistical Analysis Software (version 9.1). Preliminary analyses compared the ST and CDT groups on sociodemographic characteristics and smoking rate. Primary analyses examined the efficacy of CDT on abstinence overtime using logistic random intercept models. Model 1 controlled for study site and time, and model 2 further adjusted for race/ ethnicity, age, gender, education, marital status, and smoking rate.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "There were no significant differences between the CDT and ST groups on any of the sociodemographic characteristics or smoking rate.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Abstinence rates for CDT versus ST at week 1, and months 1, 6, and 12 were as follows: 52.6% versus 55%, 41.4% versus 47%, 14.5% versus 14.6%, and 11.2% versus 13.9%, respectively. There were no significant differences in abstinence by treatment group in models 1 or 2.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Recent reviews of electronic portable devices suggest the efficacy of these modalities in affecting behavior change across a variety of behavioral areas including smoking cessation. Contrary to expectations, CDT was not more efficacious for smoking cessation than ST in this trial. Several possible explanations must be considered. It is possible that the intervention delivery device, format, or content was not appealing to participants. It is important to note that hand-held computers were not common at the time and were unfamiliar to most. Exposure to the pretreatment assessment required to individualize treatment may have diminished group differences, as may have use of NRT. In addition, the intervention may not have been intensive enough. While we report null findings, CDTs that are integrated with more commonly used and carried electronic devices (e.g., smartphones), that offer greater treatment personalization or are used for longer duration, maybe more effective.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institute of Drug Abuse or the NIH. No potential conflicts of interest were disclosed. Model 1 and Model 2 were additionally adjusted for study site and time. With a planned sample size of 150 per group, the study had 80% power to detect an abstinence difference of 25% versus 40% between the ST and CDT groups at 12 months using a 2-sided c 2 test at a significance level of 0.05 (with intraclass correlation ¼ 1). This represented a worst case scenario, as the present analysis was longitudinal in nature and incorporated 4 follow-up time points (week 1, and months 1, 6, and 12 after the target quit date).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "41.2 AE",
+          "rowHeaders": [
+            "Age, y (mean AE SD)"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant characteristics by treatment group",
+            "ST (n ¼ 151)",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "10.2",
+          "rowHeaders": [
+            "Age, y (mean AE SD)"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant characteristics by treatment group",
+            "ST (n ¼ 151)",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "41.7 AE",
+          "rowHeaders": [
+            "Age, y (mean AE SD)",
+            "117 (77.5)"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant characteristics by treatment group",
+            "CDT (n ¼ 152)",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "10.1",
+          "rowHeaders": [
+            "Age, y (mean AE SD)",
+            "117 (77.5)"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant characteristics by treatment group",
+            "CDT (n ¼ 152)",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "41.4 AE",
+          "rowHeaders": [
+            "Age, y (mean AE SD)",
+            "117 (77.5)"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant characteristics by treatment group",
+            "Total sample",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "10.1",
+          "rowHeaders": [
+            "Age, y (mean AE SD)",
+            "117 (77.5)"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant characteristics by treatment group",
+            "Total sample",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "0.6668",
+          "rowHeaders": [
+            "Age, y (mean AE SD)",
+            "117 (77.5)",
+            "229 (75.6)"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant characteristics by treatment group",
+            "P",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "0.4415",
+          "rowHeaders": [
+            "White",
+            "117 (77.5)",
+            "112 (73.7)",
+            "229 (75.6)"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant characteristics by treatment group",
+            "P",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "34 (22.5)",
+          "rowHeaders": [
+            "Other"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant characteristics by treatment group",
+            "ST (n ¼ 151)",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "40 (26.3)",
+          "rowHeaders": [
+            "Other",
+            "117 (77.5)"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant characteristics by treatment group",
+            "CDT (n ¼ 152)",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "74 (24.4)",
+          "rowHeaders": [
+            "Other",
+            "117 (77.5)"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant characteristics by treatment group",
+            "Total sample",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "74 (49.0)",
+          "rowHeaders": [
+            "Male"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant characteristics by treatment group",
+            "ST (n ¼ 151)",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "83 (54.6)",
+          "rowHeaders": [
+            "Male",
+            "117 (77.5)"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant characteristics by treatment group",
+            "CDT (n ¼ 152)",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "0.3295",
+          "rowHeaders": [
+            "Male",
+            "117 (77.5)",
+            "157 (0.52)"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant characteristics by treatment group",
+            "P",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "77 (51.0)",
+          "rowHeaders": [
+            "Female"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant characteristics by treatment group",
+            "ST (n ¼ 151)",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "69 (45.4)",
+          "rowHeaders": [
+            "Female",
+            "117 (77.5)"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant characteristics by treatment group",
+            "CDT (n ¼ 152)",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "57 (37.8)",
+          "rowHeaders": [
+            "Married"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant characteristics by treatment group",
+            "ST (n ¼ 151)",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "54 (35.5)",
+          "rowHeaders": [
+            "Married",
+            "102 (68.0)"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant characteristics by treatment group",
+            "CDT (n ¼ 152)",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "0.6881",
+          "rowHeaders": [
+            "Married",
+            "102 (68.0)",
+            "111 (36.6)"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant characteristics by treatment group",
+            "P",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "94 (62.3)",
+          "rowHeaders": [
+            "Not married"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant characteristics by treatment group",
+            "ST (n ¼ 151)",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "98 (64.5)",
+          "rowHeaders": [
+            "Not married",
+            "102 (68.0)"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant characteristics by treatment group",
+            "CDT (n ¼ 152)",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "38 (25.3)",
+          "rowHeaders": [
+            "High school/GED"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant characteristics by treatment group",
+            "ST (n ¼ 151)",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "42 (27.6)",
+          "rowHeaders": [
+            "High school/GED",
+            "102 (68.0)"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant characteristics by treatment group",
+            "CDT (n ¼ 152)",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "80 (26.5)",
+          "rowHeaders": [
+            "High school/GED",
+            "102 (68.0)"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant characteristics by treatment group",
+            "Total sample",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "0.8697",
+          "rowHeaders": [
+            "High school/GED",
+            "102 (68.0)",
+            "111 (36.6)"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant characteristics by treatment group",
+            "P",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "99 (65.1)",
+          "rowHeaders": [
+            "Tech/Voc/some college",
+            "102 (68.0)"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant characteristics by treatment group",
+            "CDT (n ¼ 152)",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "10 (6.7)",
+          "rowHeaders": [
+            "!College degree"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant characteristics by treatment group",
+            "ST (n ¼ 151)",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "11 (7.2)",
+          "rowHeaders": [
+            "!College degree",
+            "102 (68.0)"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant characteristics by treatment group",
+            "CDT (n ¼ 152)",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "21 (6.9)",
+          "rowHeaders": [
+            "!College degree",
+            "102 (68.0)"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant characteristics by treatment group",
+            "Total sample",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "70 (46.4)",
+          "rowHeaders": [
+            "Seattle"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant characteristics by treatment group",
+            "ST (n ¼ 151)",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "69 (45.4)",
+          "rowHeaders": [
+            "Seattle",
+            "102 (68.0)"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant characteristics by treatment group",
+            "CDT (n ¼ 152)",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "0.8664",
+          "rowHeaders": [
+            "Seattle",
+            "102 (68.0)",
+            "139 (45.9)"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant characteristics by treatment group",
+            "P",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "81 (53.6)",
+          "rowHeaders": [
+            "Houston"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant characteristics by treatment group",
+            "ST (n ¼ 151)",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "83 (54.6)",
+          "rowHeaders": [
+            "Houston",
+            "102 (68.0)"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant characteristics by treatment group",
+            "CDT (n ¼ 152)",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "22.7 AE",
+          "rowHeaders": [
+            "Cigarettes per day (mean AE SD)",
+            "Tech/Voc/some college"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant characteristics by treatment group",
+            "ST (n ¼ 151)",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "10.8",
+          "rowHeaders": [
+            "Cigarettes per day (mean AE SD)",
+            "Tech/Voc/some college"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant characteristics by treatment group",
+            "ST (n ¼ 151)",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "22.3 AE",
+          "rowHeaders": [
+            "Cigarettes per day (mean AE SD)",
+            "Tech/Voc/some college",
+            "102 (68.0)"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant characteristics by treatment group",
+            "CDT (n ¼ 152)",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "10.0",
+          "rowHeaders": [
+            "Cigarettes per day (mean AE SD)",
+            "Tech/Voc/some college",
+            "102 (68.0)"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant characteristics by treatment group",
+            "CDT (n ¼ 152)",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "22.5 AE",
+          "rowHeaders": [
+            "Cigarettes per day (mean AE SD)",
+            "Tech/Voc/some college",
+            "102 (68.0)"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant characteristics by treatment group",
+            "Total sample",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "10.4",
+          "rowHeaders": [
+            "Cigarettes per day (mean AE SD)",
+            "Tech/Voc/some college",
+            "102 (68.0)"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant characteristics by treatment group",
+            "Total sample",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "0.7267",
+          "rowHeaders": [
+            "Cigarettes per day (mean AE SD)",
+            "Tech/Voc/some college",
+            "102 (68.0)",
+            "139 (45.9)"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant characteristics by treatment group",
+            "P",
+            "n (%)"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "0.842",
+          "rowHeaders": [
+            "Age, y",
+            "CDT"
+          ],
+          "columnHeaders": [
+            "Table 2. Relationship between treatment group",
+            "point-prevalence",
+            "OR",
+            "-"
+          ]
+        },
+        {
+          "value": "0.891",
+          "rowHeaders": [
+            "Age, y",
+            "CDT"
+          ],
+          "columnHeaders": [
+            "Table 2. Relationship between treatment group",
+            "point-prevalence",
+            "OR",
+            "-",
+            "-"
+          ]
+        },
+        {
+          "value": "1.001",
+          "rowHeaders": [
+            "Age, y",
+            "Other"
+          ],
+          "columnHeaders": [
+            "Table 2. Relationship between treatment group",
+            "point-prevalence",
+            "OR",
+            "-",
+            "-"
+          ]
+        },
+        {
+          "value": "0.841",
+          "rowHeaders": [
+            "Other"
+          ],
+          "columnHeaders": [
+            "Table 2. Relationship between treatment group",
+            "point-prevalence",
+            "OR",
+            "-",
+            "-",
+            "-"
+          ]
+        },
+        {
+          "value": "0.872",
+          "rowHeaders": [
+            "Female"
+          ],
+          "columnHeaders": [
+            "Table 2. Relationship between treatment group",
+            "point-prevalence",
+            "OR",
+            "-",
+            "-",
+            "-",
+            "-"
+          ]
+        },
+        {
+          "value": "1.082",
+          "rowHeaders": [
+            "Cigarettes per day",
+            "Married"
+          ],
+          "columnHeaders": [
+            "Table 2. Relationship between treatment group",
+            "point-prevalence",
+            "OR",
+            "-",
+            "-",
+            "-",
+            "-"
+          ]
+        },
+        {
+          "value": "1.073",
+          "rowHeaders": [
+            "Cigarettes per day",
+            "Tech/Voc/some college"
+          ],
+          "columnHeaders": [
+            "Table 2. Relationship between treatment group",
+            "point-prevalence",
+            "OR",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ]
+        },
+        {
+          "value": "2.069",
+          "rowHeaders": [
+            "Cigarettes per day",
+            "! College degree"
+          ],
+          "columnHeaders": [
+            "Table 2. Relationship between treatment group",
+            "point-prevalence",
+            "OR",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ]
+        },
+        {
+          "value": "0.970",
+          "rowHeaders": [
+            "Cigarettes per day"
+          ],
+          "columnHeaders": [
+            "Table 2. Relationship between treatment group",
+            "point-prevalence",
+            "OR",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ]
+        }
+      ],
+      "page": 1
+    }
+  ]
+}

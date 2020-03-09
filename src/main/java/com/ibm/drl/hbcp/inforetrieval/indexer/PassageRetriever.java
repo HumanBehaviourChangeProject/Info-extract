@@ -5,28 +5,18 @@
  */
 package com.ibm.drl.hbcp.inforetrieval.indexer;
 
-import java.io.*;
-import java.util.List;
-import java.util.Properties;
 import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.analysis.TokenStream;
 import org.apache.lucene.analysis.tokenattributes.CharTermAttribute;
-import org.apache.lucene.document.Document;
-import org.apache.lucene.document.Field;
 import org.apache.lucene.index.DirectoryReader;
 import org.apache.lucene.index.IndexReader;
-import org.apache.lucene.index.IndexWriter;
-import org.apache.lucene.index.IndexWriterConfig;
 import org.apache.lucene.index.Term;
-import org.apache.lucene.search.BooleanClause;
-import org.apache.lucene.search.BooleanQuery;
-import org.apache.lucene.search.IndexSearcher;
-import org.apache.lucene.search.Query;
-import org.apache.lucene.search.TermQuery;
-import org.apache.lucene.search.TopDocs;
+import org.apache.lucene.search.*;
 import org.apache.lucene.search.similarities.LMJelinekMercerSimilarity;
-import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
+
+import java.io.*;
+import java.util.Properties;
 
 /**
  * Acts as an utility class for query construction and retrieval from a Lucene index.
@@ -128,7 +118,7 @@ public class PassageRetriever implements Closeable {
      * @return Lucene 'Query' object.
      */    
     public Query buildQuery(String queryStr) throws Exception {
-        BooleanQuery q = new BooleanQuery();
+        BooleanQuery.Builder q = new BooleanQuery.Builder();
         Term thisTerm = null;
         Query tq = null;
         String[] queryWords = analyze(queryStr).split("\\s+");
@@ -139,6 +129,6 @@ public class PassageRetriever implements Closeable {
             tq = new TermQuery(thisTerm);
             q.add(tq, BooleanClause.Occur.SHOULD);
         }
-        return q;
+        return q.build();
     }    
 }

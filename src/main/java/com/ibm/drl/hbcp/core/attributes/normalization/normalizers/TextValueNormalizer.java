@@ -5,18 +5,18 @@
  */
 package com.ibm.drl.hbcp.core.attributes.normalization.normalizers;
 
+import com.ibm.drl.hbcp.core.attributes.AttributeValuePair;
+import com.ibm.drl.hbcp.extractor.DocVector;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Properties;
 
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
-
-import com.ibm.drl.hbcp.core.attributes.AttributeValuePair;
-import com.ibm.drl.hbcp.extractor.DocVector;
-
 /**
  * Normalizes categorical attributes.
+ * A restriction here is that both the categories AND the values to normalize have to be at least of length NGRAM_SIZE.
  * <br>
  * For each attribute id:
  * <ol>
@@ -30,6 +30,7 @@ public class TextValueNormalizer implements Normalizer<AttributeValuePair> {
     Properties prop;
     String attribId;
     List<DocVector> catlist;
+    CategoricalAttribute categoryAttrib;
     
     static final int NGRAM_SIZE = 3;
     static Logger logger = LoggerFactory.getLogger(TextValueNormalizer.class);
@@ -37,21 +38,37 @@ public class TextValueNormalizer implements Normalizer<AttributeValuePair> {
     public TextValueNormalizer(Properties prop, String attribId) {
         this.prop = prop;
         this.attribId = attribId;
+        
+        categoryAttrib = new CategoricalAttribute(attribId);
         catlist = new ArrayList<>();
         
         /* Load the values and the categories from the properties file */
         String categoryNamesCSV = prop.getProperty("prediction.categories." + attribId);
         if (categoryNamesCSV != null) {
          
-            String[] categoryValues = categoryNamesCSV.split(",");
+            String[] categoryValuesFromProp = categoryNamesCSV.split(",");
 
-            for (String categoryValue: categoryValues) {
+            for (String categoryValue: categoryValuesFromProp) {
                 DocVector dv = new DocVector(categoryValue, NGRAM_SIZE);
                 catlist.add(dv);
+                categoryAttrib.add(categoryValue);
             }
         }
     }
 
+    public String getCategoryValues() {
+        StringBuffer buff = new StringBuffer("{0,"); // default category
+        for (String cval: categoryAttrib.categoryValues)
+            buff.append(cval).append(",");
+        
+        int len = buff.length();
+        if (len > 1)
+            buff.deleteCharAt(len-1);
+        buff.append("}");
+        
+        return buff.toString();
+    }
+    
     @Override
     public String getNormalizedValue(AttributeValuePair attribute) {
         return assignCategory(attribute.getValue());

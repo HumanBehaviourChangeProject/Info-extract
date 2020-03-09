@@ -1,13 +1,16 @@
 package com.ibm.drl.hbcp.predictor.graph;
 
-import java.util.regex.Pattern;
-
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
-
 import com.ibm.drl.hbcp.core.attributes.Attribute;
 import com.ibm.drl.hbcp.core.attributes.AttributeType;
 import com.ibm.drl.hbcp.core.attributes.AttributeValuePair;
+import com.ibm.drl.hbcp.parser.Attributes;
+import org.apache.commons.lang3.StringUtils;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
+import java.util.Arrays;
+import java.util.regex.Pattern;
+import java.util.stream.Collectors;
 
 /**
  * An attribute-value pair used as a node in graphs passed to Node2Vec.
@@ -24,13 +27,14 @@ import com.ibm.drl.hbcp.core.attributes.AttributeValuePair;
  *
  * @author marting, dganguly, charlesj
  */
+
 public class AttributeValueNode extends AttributeValuePair {
 
     private final AttributeValuePair attribValue;
     
     public static final String DELIMITER = ":";
     private static final int COMPONENT_COUNT = 3;
-    private static final Pattern NODE_ID_REGEX = Pattern.compile("[CIOV]" + DELIMITER + "[0-9]+" + DELIMITER + "[^\\t]*");
+    private static final Pattern NODE_ID_REGEX = buildIdValidityRegex();
 
     private static final Logger logger = LoggerFactory.getLogger(AttributeValueNode.class);
 
@@ -38,13 +42,13 @@ public class AttributeValueNode extends AttributeValuePair {
         super(avp.getAttribute(), normalizeValue(avp.getValue()));
         this.attribValue = avp;
     }
-
+    
     /** The original attribute-value pair carried by this AttributeValueNode */
     public AttributeValuePair getOriginal() {
         return attribValue;
     }
 
-    private static String normalizeValue(String value) {
+    public static String normalizeValue(String value) {
         String res = value;
         res = res.replaceAll("\\s+", "_");
         return res;
@@ -56,6 +60,8 @@ public class AttributeValueNode extends AttributeValuePair {
      */
     public static AttributeValueNode parse(String identifier) {
         if (!isValidNodeId(identifier)) {
+            // marting: do not bury exceptions under null pointers
+            // return null;
             throw new RuntimeException("Wrong format for node identifier: " + identifier);
         }
         String[] splits = identifier.split(DELIMITER, COMPONENT_COUNT);
@@ -63,8 +69,12 @@ public class AttributeValueNode extends AttributeValuePair {
         AttributeType type = AttributeType.getFromShortString(attributeTypeShortString);
         String attributeId = splits[1];
         String value = splits[2];
-        // TODO: empty name here
-        AttributeValuePair avp = new AttributeValuePair(new Attribute(attributeId, type, ""), value);
+        // try to recover the real Attribute
+        Attribute attribute = Attributes.get().getFromId(attributeId);
+        if (attribute == null) {
+            attribute = new Attribute(attributeId, type, "");
+        }
+        AttributeValuePair avp = new AttributeValuePair(attribute, value);
         return new AttributeValueNode(avp);
     }
 
@@ -87,6 +97,18 @@ public class AttributeValueNode extends AttributeValuePair {
     /** Shortcut method: ID means the ID of the attribute */
     public String getId() { return getAttribute().getId(); }
 
+    public static String create(String attributeName, Object value) {
+        Attribute attribute = Attributes.get().getFromName(attributeName);
+        if (attribute == null) throw new RuntimeException("Attribute not found: " + attributeName);
+        AttributeValuePair avp = new AttributeValuePair(attribute, value.toString());
+        return new AttributeValueNode(avp).toString();
+    }
+
+    private static Pattern buildIdValidityRegex() {
+        String attributeTypeCheck = StringUtils.join(Arrays.stream(AttributeType.values()).map(AttributeType::getShortString).collect(Collectors.toList()), '|');
+        return Pattern.compile("(?:" + attributeTypeCheck + ")" + DELIMITER + "[0-9]+" + DELIMITER + "[^\\t]*");
+    }
+
     @Override
     public String toString() {
         return getAttribute().getType().getShortString()
@@ -94,5 +116,13 @@ public class AttributeValueNode extends AttributeValuePair {
                 + getAttribute().getId()
                 + DELIMITER
                 + getValue();
+    }
+    
+    public String getStringWOValue() {
+        return getAttribute().getType().getShortString()
+                + DELIMITER
+                + getAttribute().getId()
+                + DELIMITER
+        ;        
     }
 }

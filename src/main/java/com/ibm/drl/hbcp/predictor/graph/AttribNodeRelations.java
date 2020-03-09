@@ -1,13 +1,13 @@
 package com.ibm.drl.hbcp.predictor.graph;
 
+import com.google.common.collect.Lists;
 import edu.emory.mathcs.backport.java.util.Collections;
+import org.apache.commons.lang3.StringUtils;
 import org.jetbrains.annotations.NotNull;
 
 import java.io.*;
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
+import java.util.stream.Collectors;
 
 /**
  * Wrapper class for collection of attribute node relations, which form the edges of the graph.
@@ -26,6 +26,11 @@ public class AttribNodeRelations implements Graph<AttributeValueNode> {
         nodeRelations = new HashMap<>();
     }
 
+    public AttribNodeRelation getEdge(AttributeValueNode a, AttributeValueNode b) {
+        AttribNodeRelation key = new AttribNodeRelation(a, b, 0); // weight of 0 is a placeholder
+        return nodeRelations.get(key.genKey());
+    }
+
     @Override
     public List<AttribNodeRelation> getEdges() {
         List<AttribNodeRelation> res = new ArrayList<>(nodeRelations.values());
@@ -39,15 +44,33 @@ public class AttribNodeRelations implements Graph<AttributeValueNode> {
      * @param nodeRelation
      */
     public void add(AttribNodeRelation nodeRelation) {
+        add(nodeRelation, 1);
+    }
+
+    /**
+     * Add node relation to collection.
+     * 
+     * @param nodeRelation
+     * @param wt
+     */
+    public void add(AttribNodeRelation nodeRelation, float wt) {
         String key = nodeRelation.genKey();
         AttribNodeRelation seen = nodeRelations.get(key);
         if (seen == null) {
             nodeRelations.put(key, nodeRelation);
             seen = nodeRelation;
         }
-        seen.accumulateWeight();
+        seen.accumulateWeight(wt);
     }
 
+    public String getAllOutcomeValues(String id) {
+        return StringUtils.join(getEdges().stream()
+                .flatMap(edge -> Lists.newArrayList(edge.source, edge.target).stream())
+                .filter(avn -> avn.getAttribute().getId().equals(id))
+                .collect(Collectors.toSet()).stream()
+                .sorted(Comparator.comparing(avn -> avn.getNumericValue())), " | ");
+    }
+    
     /**
      * Write graph to {@link BufferedWriter} with nodes and edge weight
      * 
@@ -130,11 +153,19 @@ public class AttribNodeRelations implements Graph<AttributeValueNode> {
     public static class AttribNodeRelation extends Edge<AttributeValueNode> implements Comparable<AttribNodeRelation> {
         public final String docName;
 
-        public AttribNodeRelation(String docName, AttributeValueNode a, AttributeValueNode b) {
-            super(a, b, 0.0);
+        public AttribNodeRelation(String docName, AttributeValueNode a, AttributeValueNode b, float weight) {
+            super(a, b, weight);
             this.docName = docName;
         }
 
+        public AttribNodeRelation(String docName, AttributeValueNode a, AttributeValueNode b) {
+            this(docName, a, b, 0.0f);
+        }
+        
+        public AttribNodeRelation(AttributeValueNode a, AttributeValueNode b, float weight) {
+            this(null, a, b, weight);
+        }
+        
         public String getDocName() { return this.docName; }
         
         /**
@@ -143,7 +174,14 @@ public class AttribNodeRelations implements Graph<AttributeValueNode> {
         void accumulateWeight() {
             this.weight++;
         }
-
+        
+        /**
+         * Increment weight by delw
+         */
+        void accumulateWeight(float delw) {
+            this.weight += delw;
+        }
+        
         /**
          * Generates a key for the relation; concatenating nodeIds with colon (:)
          * 
@@ -151,7 +189,8 @@ public class AttribNodeRelations implements Graph<AttributeValueNode> {
          */
         String genKey() {
             assert(source.getValue() != null && target.getValue() != null);
-            return source.getValue() + ":" + target.getValue();
+            return source.toString() + "-->" + target.toString();
+//            return source.getValue() + ":" + target.getValue();
         }
 
         // +++DG: Added the doc name in case it's reqd. in the flow...
@@ -165,5 +204,11 @@ public class AttribNodeRelations implements Graph<AttributeValueNode> {
         public int compareTo(@NotNull AttribNodeRelation o) {
             return genKey().compareTo(o.genKey());
         }
+        
+        @Override
+        public String toString() {
+            return source + "\t" + target + "\t" + weight + "\t" + docName;
+        }
+        
     }
 }

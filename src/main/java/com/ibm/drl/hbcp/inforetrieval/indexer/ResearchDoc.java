@@ -5,32 +5,28 @@
  */
 package com.ibm.drl.hbcp.inforetrieval.indexer;
 
-import static com.ibm.drl.hbcp.inforetrieval.indexer.PaperIndexer.EOS;
-import java.io.BufferedReader;
-import java.io.ByteArrayInputStream;
-import java.io.File;
-import java.io.FileInputStream;
-import java.io.FileWriter;
-import java.io.IOException;
-import java.io.InputStream;
-import java.io.StringReader;
-import java.nio.charset.StandardCharsets;
+import com.ibm.drl.hbcp.util.LuceneField;
+import org.apache.commons.io.IOUtils;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.document.Field;
 import org.apache.tika.exception.TikaException;
 import org.apache.tika.metadata.Metadata;
 import org.apache.tika.parser.AutoDetectParser;
+import org.apache.tika.parser.DefaultParser;
 import org.apache.tika.sax.BodyContentHandler;
 import org.apache.tika.sax.ToXMLContentHandler;
-import org.apache.tika.sax.XHTMLContentHandler;
-import org.apache.tika.sax.xpath.Matcher;
-import org.apache.tika.sax.xpath.MatchingContentHandler;
-import org.apache.tika.sax.xpath.XPathParser;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 import org.xml.sax.ContentHandler;
 import org.xml.sax.SAXException;
+
+import javax.swing.text.AbstractDocument;
+import java.io.*;
+import java.util.List;
+import java.util.stream.Collectors;
+
+import static com.ibm.drl.hbcp.inforetrieval.indexer.PaperIndexer.EOS;
 
 /**
  * A class to represent the in-memory structure of the Lucene index format.
@@ -44,6 +40,7 @@ public class ResearchDoc {
     String intro;
     String ppText;
     String plainText;
+    List<String> pages;
     InputStream fstream;
     int unjudged;
     
@@ -57,6 +54,13 @@ public class ResearchDoc {
     static final public String FIELD_UNJUDGED = "unjudged";
     
     static final public String UNJUDGED_FOLDER_NAME = "unjudged";
+
+    public final static String FIELD_PAGE_COUNT = "pagecount";
+    public final static String FIELD_PAGE_X = "page";
+
+    public final static String INDEXING_METHOD = "indexing";
+
+    public static String FIELD_PAGE(int pageNumber) { return FIELD_PAGE_X + pageNumber; }
     
     /**
      * Constructs this object from a given file.
@@ -69,7 +73,7 @@ public class ResearchDoc {
         intro = "";
         
         String path = file.getAbsolutePath();
-        unjudged = path.indexOf(UNJUDGED_FOLDER_NAME)>=0? 1:0;
+        unjudged = path.contains(UNJUDGED_FOLDER_NAME) ? 1 : 0;
     }
     
     /**
@@ -99,9 +103,13 @@ public class ResearchDoc {
      * the Tika API.
     */    
     public void extractInfoFromDOM() throws TikaException, SAXException, IOException {
-        String extractedText = file != null? parseToPlainText(file) : parseToPlainText(fstream);
+        // store the input stream into a byte array
+        byte[] bytes = file != null ? null : storeStream(fstream);
+        // this also extracts pages now (in the 'pages' field)
+        String extractedText = file != null? parseToPlainText(file) : parseToPlainText(recallStream(bytes));
         ppText = removeReferences(extractedText);
-        String xml = file!=null? parseToHTML(file) : parseToHTML(fstream);
+        pages = pages.stream().map(this::removeReferences).collect(Collectors.toList());
+        String xml = file!=null? parseToHTML(file) : parseToHTML(recallStream(bytes));
         
         xml = preProcess(xml);
         
@@ -135,46 +143,81 @@ public class ResearchDoc {
     String preProcess(String content) throws IOException {
         // Changes <p>Section-name to <p name='Section-name>"... 
         // This is done so that the DOM can be traveresed easily afterwards.
-        BufferedReader br = new BufferedReader(new StringReader(content));
-        String line;
-        StringBuffer ppContent = new StringBuffer();
-        
-        final String pattern = "<p>";
-        final int patternOffset = pattern.length();
-        
-        while ((line = br.readLine()) != null) {
-            if (!line.startsWith(pattern)) {
-                ppContent.append(line);
-                continue;                
-            }
-            ppContent.append("<p name=\"" + line.substring(patternOffset) + "\">");
-        }
-        return ppContent.toString();
-    }
-    
-    String parseToHTML(File file) throws IOException, TikaException, SAXException {
-        return parseToHTML(new FileInputStream(file));
-    }
-    
-    String parseToHTML(InputStream fstream) throws IOException, TikaException, SAXException {
-        ContentHandler handler = new ToXMLContentHandler();
+        try (BufferedReader br = new BufferedReader(new StringReader(content))) {
+            String line;
+            StringBuffer ppContent = new StringBuffer();
 
-        AutoDetectParser parser = new AutoDetectParser();
-        Metadata metadata = new Metadata();
-        parser.parse(fstream, handler, metadata);
-        return handler.toString();
-    }
-        
-    String parseToPlainText(File file) throws IOException, SAXException, TikaException {
-        return parseToPlainText(new FileInputStream(file));
+            final String pattern = "<p>";
+            final int patternOffset = pattern.length();
+
+            while ((line = br.readLine()) != null) {
+                if (!line.startsWith(pattern)) {
+                    ppContent.append(line);
+                    continue;
+                }
+                ppContent.append("<p name=\"" + line.substring(patternOffset) + "\">");
+            }
+            return ppContent.toString();
+        }
     }
     
-    String parseToPlainText(InputStream fstream) throws IOException, SAXException, TikaException {
-        BodyContentHandler handler = new BodyContentHandler();
+    private String parseToHTML(File file) throws IOException, TikaException, SAXException {
+        return parseFile(file, new ToXMLContentHandler());
+    }
+    
+    private String parseToHTML(InputStream fstream) throws IOException, TikaException, SAXException {
+        return parse(fstream, new ToXMLContentHandler());
+    }
+        
+    private String parseToPlainText(File file) throws IOException, SAXException, TikaException {
+        return parseFile(file, new BodyContentHandler(-1), new PageContentHandler());
+    }
+    
+    private String parseToPlainText(InputStream fstream) throws IOException, SAXException, TikaException {
+        return parse(fstream, new BodyContentHandler(-1), new PageContentHandler());
+    }
+
+    private String parseFile(File file, ContentHandler handler, PageContentHandler pageHandler) throws IOException, SAXException, TikaException {
+        try (FileInputStream fis = new FileInputStream(file)) {
+            return parse(fis, handler, pageHandler);
+        }
+    }
+
+    private String parseFile(File file, ContentHandler handler) throws IOException, SAXException, TikaException {
+        try (FileInputStream fis = new FileInputStream(file)) {
+            return parse(fis, handler);
+        }
+    }
+
+    private String parse(InputStream fis, ContentHandler handler) throws IOException, SAXException, TikaException {
         AutoDetectParser parser = new AutoDetectParser();
         Metadata metadata = new Metadata();
-        parser.parse(fstream, handler, metadata);
+        parser.parse(fis, handler, metadata);
         return handler.toString();
+    }
+
+    private String parse(InputStream fis, ContentHandler handler, PageContentHandler pageHandler) throws IOException, SAXException, TikaException {
+        // copy the InputStream in a buffer
+        byte[] bytes = IOUtils.toByteArray(fis);
+        // create 2 input streams from that
+        InputStream is = new ByteArrayInputStream(bytes);
+        InputStream isPages = new ByteArrayInputStream(bytes);
+        // now you can read from both is and isPages independently
+        AutoDetectParser parser = new AutoDetectParser();
+        Metadata metadata = new Metadata();
+        Metadata metadataThrowaway = new Metadata();
+        parser.parse(is, handler, metadata);
+        parser.parse(isPages, pageHandler, metadataThrowaway);
+        pages = pageHandler.getPages();
+        return handler.toString();
+    }
+
+    private byte[] storeStream(InputStream is) throws IOException {
+        return IOUtils.toByteArray(is);
+    }
+
+    private InputStream recallStream(byte[] bytes) {
+        return new ByteArrayInputStream(bytes);
     }
     
     String extractSection(org.jsoup.nodes.Document xmlDom, String sectionName) {
@@ -182,16 +225,20 @@ public class ResearchDoc {
         return section==null? "" : section.text();
     }
     
-    String removeReferences(String str) throws IOException {
+    String removeReferences(String str) {
         BufferedReader br = new BufferedReader(new StringReader(str));
         String line;
         StringBuffer buff = new StringBuffer();
-        
-        while ((line = br.readLine()) != null) {
-            if (line.toLowerCase().startsWith("references")) {
-                break;
+
+        try {
+            while ((line = br.readLine()) != null) {
+                if (line.toLowerCase().startsWith("references")) {
+                    break;
+                }
+                buff.append(line).append("\n");
             }
-            buff.append(line).append("\n");
+        } catch (IOException e) {
+            throw new RuntimeException("IOException shouldn't happen on StringReader", e);
         }
         return buff.toString();
     }
@@ -233,21 +280,28 @@ public class ResearchDoc {
         
         // Write out the document
         org.apache.lucene.document.Document doc = new org.apache.lucene.document.Document();
-        doc.add(new Field(FIELD_ID, String.valueOf(docId), Field.Store.YES, Field.Index.NOT_ANALYZED));
-        doc.add(new Field(FIELD_UNJUDGED, String.valueOf(this.unjudged), Field.Store.YES, Field.Index.NOT_ANALYZED));
-        doc.add(new Field(FIELD_NAME, fileName, Field.Store.YES, Field.Index.NOT_ANALYZED));
+        doc.add(new Field(FIELD_ID, String.valueOf(docId), LuceneField.STORED_NOT_ANALYZED.getType()));
+        doc.add(new Field(FIELD_UNJUDGED, String.valueOf(this.unjudged), LuceneField.STORED_NOT_ANALYZED.getType()));
+        doc.add(new Field(FIELD_NAME, fileName, LuceneField.STORED_NOT_ANALYZED.getType()));
         
         // Meta-data
         doc.add(new Field(FIELD_TITLE, title.equals("")? fileName : title,
-                Field.Store.YES, Field.Index.ANALYZED, Field.TermVector.NO));
+                new LuceneField().stored(true).analyzed(true).with(ft -> ft.setStoreTermVectors(false)).getType()));
         doc.add(new Field(FIELD_AUTHORS, authors,
-                Field.Store.YES, Field.Index.ANALYZED, Field.TermVector.NO));
+                new LuceneField().stored(true).analyzed(true).with(ft -> ft.setStoreTermVectors(false)).getType()));
         doc.add(new Field(FIELD_INTRO, intro,
-                Field.Store.YES, Field.Index.ANALYZED, Field.TermVector.NO));
+                new LuceneField().stored(true).analyzed(true).with(ft -> ft.setStoreTermVectors(false)).getType()));
         
         // Main content (without references)
         doc.add(new Field(FIELD_CONTENT, plainText,
-                Field.Store.YES, Field.Index.ANALYZED, Field.TermVector.NO));
+                new LuceneField().stored(true).analyzed(true).with(ft -> ft.setStoreTermVectors(false)).getType()));
+
+        // Pages
+        doc.add(new Field(FIELD_PAGE_COUNT, String.valueOf(pages.size()), LuceneField.STORED_NOT_ANALYZED.getType()));
+        for (int pageNumber = 0; pageNumber < pages.size(); pageNumber++) {
+            doc.add(new Field(FIELD_PAGE(pageNumber), pages.get(pageNumber),
+                    new LuceneField().stored(true).analyzed(true).with(ft -> ft.setStoreTermVectors(false)).getType()));
+        }
         
         return doc;
     }
@@ -269,5 +323,10 @@ public class ResearchDoc {
         buff.append("...");
         
         return buff.toString();
+    }
+
+    public static void main(String[] args) throws IOException, TikaException, SAXException {
+        ResearchDoc doc = new ResearchDoc(new File("./data/pdfs/judged/Bize 2010.pdf"));
+        doc.extractInfoFromDOM();
     }
 }

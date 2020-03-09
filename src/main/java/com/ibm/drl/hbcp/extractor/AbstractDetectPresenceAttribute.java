@@ -8,11 +8,12 @@ package com.ibm.drl.hbcp.extractor;
 import com.ibm.drl.hbcp.core.attributes.AttributeType;
 import com.ibm.drl.hbcp.extractor.matcher.CandidateAnswer;
 import com.ibm.drl.hbcp.inforetrieval.indexer.PaperIndexer;
+import com.ibm.drl.hbcp.parser.CodeSetTree;
+import com.ibm.drl.hbcp.parser.CodeSetTreeNode;
+import com.ibm.drl.hbcp.util.LuceneField;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.document.Field;
 import org.apache.lucene.search.Query;
-import com.ibm.drl.hbcp.parser.CodeSetTree;
-import com.ibm.drl.hbcp.parser.CodeSetTreeNode;
 
 /**
  * This class defines the functionalities required to extract the BCTs, which are
@@ -171,7 +172,7 @@ public class AbstractDetectPresenceAttribute extends InformationUnit {
     public void appendFields(Document doc) {
         doc.add(new Field(InformationUnit.ATTRIB_ID_FIELD,
                 String.valueOf(attribId),
-                Field.Store.YES, Field.Index.NOT_ANALYZED));
+                LuceneField.STORED_NOT_ANALYZED.getType()));
     }
 
     @Override

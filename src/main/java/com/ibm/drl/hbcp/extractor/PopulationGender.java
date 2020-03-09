@@ -5,14 +5,15 @@
  */
 package com.ibm.drl.hbcp.extractor;
 
-import java.util.BitSet;
-
 import com.ibm.drl.hbcp.core.attributes.AttributeType;
-import org.apache.lucene.document.Document;
-import org.apache.lucene.document.Field;
+import com.ibm.drl.hbcp.inforetrieval.indexer.PaperIndexer;
 import com.ibm.drl.hbcp.parser.CodeSetTree;
 import com.ibm.drl.hbcp.parser.CodeSetTreeNode;
-import com.ibm.drl.hbcp.inforetrieval.indexer.PaperIndexer;
+import com.ibm.drl.hbcp.util.LuceneField;
+import org.apache.lucene.document.Document;
+import org.apache.lucene.document.Field;
+
+import java.util.BitSet;
 
 /**
  * This InformationUnit seeks to extract gender values (Male or Female)
@@ -79,7 +80,7 @@ public class PopulationGender extends InformationUnit {
         return false;
     }
 
-    boolean numbersPresent(String text) {
+    private boolean numbersPresent(String text) {
         float val = 0;
         String[] tokens = text.split("\\s+");
         for (String token: tokens) {
@@ -123,7 +124,7 @@ public class PopulationGender extends InformationUnit {
         this.mostLikelyAnswer.setKey(gender);
     }
 
-    String getGenderName(BitSet bits) {
+    private String getGenderName(BitSet bits) {
         String gender = null;
         if (bits.get(MALE) && bits.get(FEMALE))
             gender = "M-F";
@@ -225,12 +226,12 @@ public class PopulationGender extends InformationUnit {
         if (predictedGenders.get(MALE)) {
             doc.add(new Field(InformationUnit.ATTRIB_ID_FIELD,
                 String.valueOf(ATTRIB_IDS[MALE]),
-                Field.Store.YES, Field.Index.NOT_ANALYZED));
+                    LuceneField.STORED_NOT_ANALYZED.getType()));
         }
         else if (predictedGenders.get(FEMALE)) {
             doc.add(new Field(InformationUnit.ATTRIB_ID_FIELD,
                 String.valueOf(ATTRIB_IDS[FEMALE]),
-                Field.Store.YES, Field.Index.NOT_ANALYZED));
+                    LuceneField.STORED_NOT_ANALYZED.getType()));
         }
     }
 
