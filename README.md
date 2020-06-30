@@ -56,7 +56,11 @@ predictor APIs.
 
 ### With Docker
 
-First build the project with:
+Make sure that your Docker runtime memory option is set to at least 8GB.
+* Mac: https://docs.docker.com/docker-for-mac/#memory
+* Windows: https://docs.docker.com/docker-for-windows/#advanced
+
+Build the project with:
 ```
 mvn clean install
 ```
@@ -64,8 +68,6 @@ Build the docker image with:
 ```
 docker build .
 ```
-The only thing you might need is to increase your Docker runtime memory option to at least 8GB.
-
 Run a docker container exposing the API on port 8080:
 ```
 docker run -t -p 8080:8080 [your_image_id]
