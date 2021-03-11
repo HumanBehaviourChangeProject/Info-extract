@@ -1,0 +1,109 @@
+{
+  "blocks": [
+    {
+      "type": "LINES",
+      "value": "Smoking Cessation Intervention for Female Prisoners: Addressing an Urgent Public Health Need",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "From June 2004 to June 2006, participants were recruited through flyers and housing unit announcements from a large prison housing female offenders in the southeastern United States. Inclusion criteria were as follows: adult smokers who smoked at least 5 cigarettes per day, interest in smoking cessation treatment, ability to participate in group psychotherapy, no contraindications for nicotine replacement (e.g., not within 6 months after myocardial infarction), housed in general population (e.g., not in segregated housing or in the acute mental health wing), and with at least 1 year left to serve. Release dates were confirmed through prison records, and all participants received medical clearance for nicotine replacement from the prison physician.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The study design was a randomized controlled trial with a 6-month waitlist control group. After 6 months, the control group crossed over to the active intervention; thus, all participants received the intervention. Participants completed a baseline assessment consisting of demographic information, height and weight, smoking history and weekly measures of daily smoking, number of cigarettes smoked the previous day, type of cigarette last smoked, and CO concentration in parts per million (ppm) from expired air measured by a Vitalograph BreathCO (Vitalograph Inc, Lenexa, KS). An expired CO reading of 3 ppm or higher was used as an indicator of current smoking. A total of 364 participants provided informed consent, of which 360 completed the baseline assessment and 250 started the intervention).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The behavioral intervention was based on mood management training to prevent smoking relapse. This intervention was selected for its focus on mood management skills along with standard behavioral interventions for smoking cessation. Mood management training combined with pharmacotherapy has shown 1 year smoking cessation rates of approximately 30% in the nonincarcerated population. The 10-session group intervention was modified for delivery in prison and included examples of smoking triggers encountered in prison and coping strategies that were feasible and appropriate for that environment. Finally, although the standard mood management intervention was delivered over 8 weeks (with 4 sessions in the first 2 weeks), the prison intervention was delivered over 10 weeks with 1 session per week to ease prison scheduling burdens.\nFor this study, we used nicotine replacement rather than nortryptyline, the pharmacotherapy adjunct used in the original study. The choice of medications was based in part on prison regulations that made use of an antidepressant medication for smoking cessation unfeasible. All intervention participants received NicoDerm CQ nicotine replacement patches (GlaxoSmithKline, London, England) starting in week 3 of the intervention, following the manufacturer's suggested dosing. Side effects were assessed and patches were distributed at weekly group sessions. Participants were asked to make a quit attempt between weeks 3 and 4, immediately after receiving their first supply of nicotine replacement patches.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Two hundred and fifty participants were enrolled in the intervention and 289 in the control group. The first 2 cohorts were randomized to the intervention or to control group. Subsequently, all participants were assigned to the waitlist control group. Waitlist participants completed a baseline assessment and follow-up assessments at 10 weeks, 3-months, and 6-months (corresponding to end of treatment and 3-month and 6-month follow-up points for the intervention group). After the 6-month follow-up, waitlist participants crossed over to the intervention group). Waitlist participants were not given instructions or advice to quit or reduce smoking.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Intervention participants completed a baseline assessment, 10 weekly assessments, and follow-up assessments at 3, 6, and 12 months. Participants who smoked more than 10 cigarettes per day at baseline and who started with the 21-mg nicotine patch had 1 additional contact between the end-of-treatment and the 3-month follow-up assessment to receive additional patches and be assessed for side effects or medication problems. The primary outcome measure was smoking status (abstinent vs smoking) at each time point. Abstinence was defined as self-reported continuous abstinence for the previous week confirmed by CO exhalation of 2 ppm or less.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Groups were compared on demographic and smoking characteristics using the c 2 test and 1-way analyses of variance (repeated-measures analysis of variance) procedure as appropriate. To examine the long-term effect of the intervention on smoking rates, we used a generalized estimating equation method. Generalized estimating equation is a robust procedure used with longitudinal, dichotomous data to provide the best estimation of the relations across time among the variables of interest. In this analysis, the model included treatment group (intervention vs waitlist), time (15 time points: baseline, weeks 1-10 of group treatment, postintervention week 11 for medication check, and 3-, 6-, and 12-month follow-up), and a treatment · time interaction term. The outcome variable of interest was smoking cessation at each time point (smoking vs abstinent). Participants who withdrew from the intervention were coded as smoking. Participants who were transferred to another facility or released after the intervention ended (n = 42) had their last assessment (n = 6 abstinent and n = 36 smoking) carried forward for subsequent follow-up points. All other participants with missing data (e.g., return to court, segregation) during followup were coded as smoking.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Analyses of baseline smoking and demographic variables were conducted between participants who entered the intervention (n = 250) and participants who withdrew or were transferred before the intervention began (n =110). No significant differences on these variables were noted between the groups.\nSimilarly, comparisons between participants who completed the intervention (n =116) and participants who dropped out of the intervention (n =134) showed no differences in age, race/ethnicity, number of cigarettes per day, time since last cigarette, or rated difficulty of last quit attempt, but treatment drop-outs were more likely to be single (P < .05) and to have started daily smoking at a younger age (P < .05). No significant differences were found on baseline demographic or smoking characteristics between treatment completers (n =116) and control participants (n = 289).\nSignificant differences were found between completers (n =116) and control participants who did not start the intervention (n =110), and with participants who did not start the intervention smoking fewer cigarettes per day (14.0 vs 17.1) and rating their last quit attempt as less difficult than completers (4.4 vs 5.2; both, P < .05). No other significant differences in demographics or smoking behavior were found between these groups.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Two hundred and fifty participants entered the intervention. The sample was divided between White (44%) and non-White (56%) participants. Mean age was 33.8 years (SD = 9.0 years). Twenty-seven percent reported having less than a high school education, 41% completed high school or had a graduate equivalency degree, and 32% had greater than a high school education. Most reported a history of treatment for mental illness (67%) or substance abuse (58%).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Smoking characteristics are displayed in. For most, smoking patterns changed dramatically after entering prison: 14.2% started smoking for the first time, 50.8% increased smoking, 15.8% decreased smoking, and 0.4% quit smoking. Before entering prison, most participants smoked mentholated (72.3%) or regular tar (20.1%) cigarettes, and 0.9% smoked unfiltered or hand-rolled cigarettes. After entering prison, 61.2% smoked mentholated cigarettes, 15.9% smoked regular tar cigarettes, and 22.8% smoked unfiltered or hand-rolled cigarettes.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The generalized estimating equation analysis showed that the 10-week group intervention combined with nicotine replacement was efficacious compared with the waitlist control group, supporting our primary hypothesis. The time · intervention interaction was significant (P < .001). At time point 5 (week 4 of the intervention, the week after the targeted quit date), 29% of intervention participants had verified abstinence; that abstinence declined over subsequent weeks. Point-prevalence quit rates for the intervention group were 18.4% at end of treatment, 16.8% at 3-month follow-up, and 14.0% at 6-month follow-up). Significant differences for point-prevalence quit rates between the intervention and control groups were present at the 6-month follow-up (14.0% vs 2.8%; c 2 = 23.0; df =1; P < .001). The 12-month follow-up point did not have a control comparison because the waitlist group crossed over to the active intervention after 6 months; however, 11.6% of intervention participants were still abstinent at the 12-month follow-up.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Half the intervention participants (n =125) had at least 1 week of verified abstinence, and 50 intervention participants (20.0%) had at least 4 weeks of sustained verified abstinence during the 10-week course of treatment or during the 1 year of follow-up. Of the participants who had at least 1 week of verified Determined from responses to Likert scale from 1 to 7, with 1 being ''very likely'' and 7 being ''not at all likely.''\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "abstinence (n =125), 26 (20.8%) remained abstinent and 79.2% relapsed during the study. Approximately half (45.5%) relapsed after 1 week of verified abstinence, 14.1% relapsed after 2 weeks, 11.1% relapsed after 3 weeks, and 2 participants relapsed after 24 weeks of verified abstinence.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Participants attended a mean of 6.7 (SD = 3. 1) of 10 group therapy sessions. We examined the effect of group attendance on smoking cessation at end of treatment and at 3-, 6-, and 12-month follow-up points; number of sessions attended was significantly related to successful smoking cessation at all time points.\nSimilarly, we examined compliance with nicotine replacement and calculated an overall percentage of doses taken over the course of treatment. Participants who dropped out of treatment were coded as not having used nicotine replacement. Fewer than half (43.3%; SD = 33.7%) of all possible doses of nicotine replacement were used during the course of treatment. Compliance with nicotine replacement was significantly related to immediate smoking cessation outcomes (end of treatment and 3-month follow-up) but not later outcomes (6-and 12-month outcomes;).\nBecause medication compliance was strongly related to group attendance (participants had to attend the intervention group to receive nicotine replacement), we examined compliance with nicotine replacement among participants who used at least 1 week of replacement (n = 203) and who continued to attend weekly sessions. Thus, we divided the total number of doses taken by the number of possible doses for the duration of time the participant remained in treatment. Women who used nicotine replacement for 1 week and who continued to attend weekly sessions used 80.47% of possible doses. presents the results of adjusted medication compliance on outcomes. Adherence to nicotine replacement improved quit rates at the end of treatment (89.7% vs 77.9%) and the 3-month follow-up (89.3% vs 78.5%, but was not related to later outcomes. Finally, we examined medication compliance to Note. EOT = end-of-treatment; Med = medication check. From week 4 through 6 months, the P values were less than .001. Baseline through week 3 the P values were not significant. c 2 analysis was used to calculate P values.  Note. All statistical tests were performed using 1-way analysis of variance.\ndetermine whether use of nicotine replacement was related to weekly outcomes. Generally, weekly medication compliance was related to weekly abstinence rates during the 10 weeks of treatment, although this effect weakened in later weeks because of study attrition and medication compliance rates converging.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "We examined point-prevalence abstinence rates using a 10-ppm CO cutoff, the CO cut-off value generally used in smoking cessation treatment studies. Using this less stringent CO cutoff greatly increased abstinence rates compared with the more stringent 2-ppm CO cutoff, with abstinence rates of 37.2% at end of treatment, 40.4% at 3-month follow-up, 30.8% at 6-month follow-up, and 23.0% at 12-month follow-up. Using the standard cutoff misclassified 25.0% of smokers as nonsmokers at end of treatment and 20.8% at 12-month follow-up.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The combined behavioral and pharmacologic intervention was efficacious compared with a waitlist control group for promoting smoking cessation among female prisoners. This study was the first randomized clinical trial of smoking cessation with a prisoner population and showed that female prisoners are interested in quitting smoking in prison, that quit rates in the absence of intervention are low, and that female prisoners are successful in achieving sustained smoking cessation when provided with state-of-the-art smoking cessation treatment.\nDespite our use of a more stringent CO cutoff to verify abstinence, point-prevalence quit rates were commensurate with those seen in nonprisoner samples exposed to similar smoking cessation interventions. Further, had we used the less stringent cutoff commonly used in smoking cessation trials, quit rates would have been double the rates that we reported, suggesting that cessation studies that use the more liberal CO cutoff may overestimate the effectiveness of their interventions.\nSimilar to other clinical trials of smoking cessation, most of our intervention participants relapsed within a couple weeks of quitting. Approximately 20% of participants who initiated smoking cessation achieved smoking abstinence without relapse, and approximately 12% of all participants remained abstinent through 12 months of follow-up. These relapse rates are similar to those in other studies that used nicotine replacement therapy. Group session attendance and use of nicotine patches was problematic for many participants. On average, participants attended 6.7 of 10 group sessions, and more than half dropped out of the intervention. Most participants who dropped out reported that they were no longer interested in trying to quit smoking. These attrition rates are similar to smoking cessation trials in the community. Consistent with previous studies, participants who attended more group sessions were more likely to remain abstinent through the 12-month follow-up. Use of nicotine patches was positively related to smoking abstinence but only during the weekly sessions and at the 3-month follow-up. Long-term abstinence (6 months or more) was not related to greater use of nicotine replacement during the intervention. When participants who dropped out of treatment were included in our analysis, general compliance with nicotine replacement was poor, with less than half of all possible doses of medication used. However, compliance with nicotine replacement was approximately 80% among women who remained in treatment. Given that the nicotine replacement was provided free of charge and distributed during group sessions, it is puzzling, although consistent with previous studies, why people who remained in treatment did not use more of the nicotine patches. Previous studies have found medication nonadherence was related to high levels of nicotine dependence, medication side effects, low motivation, providers' giving inadequate instruction for using nicotine patches, and inadequate dosing. We do not know which, if any, of these factors were related to medication nonuse in our study.\nOur study documents that smoking in prison is riskier than smoking outside of prison. Most women in our study started smoking for the first time or increased smoking after entering prison. Further, although relatively few women smoked unfiltered cigarettes before incarceration, almost one quarter smoked hand-rolled unfiltered cigarettes after entering prison. Given that 99% of cigarettes sold in the United States are filtered, smoking unfiltered cigarettes is relatively uncommon in the general population. Unfiltered cigarettes are associated with increased risks for several cancers, chronic obstructive pulmonary disease, heart disease, and overall mortality. Further, given the comparative youth of our population (mean age of approximately 34 years), the fact that almost one third already reported a medical problem caused or worsened by smoking is cause for concern.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Our study had several limitations. First, we enrolled only adult female prisoners, and we do not know how these results would apply to male prisoners or to juvenile offenders. Previous studies have documented that response to nicotine replacement therapy and smoking cessation interventions is less for female smokers compared with male smokers. We do not know whether these patterns hold true in the correctional environment, with its different structural and environmental demands. Further, among correctional facilities, prison is a unique environment of generally long-term confinement, and we do not know if similar results would be observed in other correctional settings. Finally, the intervention used in this study was intensive and attrition was high, suggesting the need for additional studies to determine the efficacy of shorter, less intensive interventions for correctional populations.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Prison represents an important but neglected venue in which to address smoking cessation. The ''selection hypothesis'' suggests that smoking will become localized among people struggling with poverty, psychiatric disorders, high levels of nicotine dependence, and abuse of other substances -attributes common to most prisoners. However, the response to the high prevalence of smoking in correctional systems in the United States has been to implement smoking bans and smoking restrictions. Although bans and restrictions may address some of the short-term problems associated with smoking in correctional systems, there is no evidence that short-term sanctions against smoking translate into long-term smoking cessation after release.\nWhat little evidence there is suggests that virtually all prisoners return to smoking soon after release. Further, in the only study to examine the impact of a smoking ban on smoking among prisoners, up to 76% of male prisoners continued to smoke 1 month after the ban. A more effective public health response to the high prevalence of smoking and associated health problems among prisoners would be to augment in-prison tobacco control policies with effective smoking cessation interventions. Our study is the first to indicate that smoking cessation interventions among female prison populations are feasible, acceptable, and at least as effective as similar interventions delivered in the community. Given the public health importance of addressing smoking cessation in correctional populations, subsequent research should address the effectiveness of smoking cessation interventions in other correctional venues. Of particular importance is the need for future research to address the process of relapse to smoking or sustained cessation from smoking after release from prison. j\n",
+      "page": 1
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+ "name": "hbcp-flair-train",
+ "author_name": "hbcp",
+ "description": "Train Flair NER model for HBCP information extraction",
+ "compute_configuration_name": {"name": "k80"},
+ "training_data": {
+   "connection": {
+     "endpoint_url": "",
+     "aws_access_key_id": "",
+     "aws_secret_access_key": ""
+    },
+	"source": {"bucket": ""},
+	"type": "s3"
+ },
+ "training_results": {
+   "connection": {
+     "endpoint_url": "",
+     "aws_access_key_id": "",
+     "aws_secret_access_key": ""
+    },
+	"target": {"bucket": ""},
+	"type": "s3"
+  }
+}

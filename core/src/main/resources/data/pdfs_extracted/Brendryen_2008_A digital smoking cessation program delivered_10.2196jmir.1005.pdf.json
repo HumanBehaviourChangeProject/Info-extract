@@ -1,0 +1,371 @@
+{
+  "blocks": [
+    {
+      "type": "LINES",
+      "value": "Title: Happy Ending II-A randomized controlled trial of a digital smoking cessation program without nicotine replacement Type of paper: Original Paper",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Background: Happy Ending (HE) is an intense one-year smoking cessation program delivered via Internet and cellphone. HE consists of more than 400 contacts by email, web pages, interactive voice response (IVR), and short message service (SMS) technology. HE includes a craving helpline and a relapse prevention system, providing just-in-time therapy. All the components of the program are fully automated. Objective: The objectives were to describe the rationale for the design of HE; to assess the 12-month efficacy of HE, in a sample of smokers willing to attempt to quit without the use of nicotine replacement therapy (NRT); and to explore the potential effect of HE on coping planning (CP) and self-efficacy (SE) (prior to quitting), and whether CP and SE mediates treatment effect. Methods: A two-arm randomized control trial was used. Subjects were recruited via Internet advertisements (n = 290) and randomly assigned to conditions. Inclusion criteria were willingness to quit on a prescribed day without using NRT, and being aged 18 years or older. The intervention group received HE, and the control group received a 44-page self-help booklet. Abstinence was defined as \"not even a puff of smoke, for the last seven days\", and assessed by means of Internet surveys or telephone interviews, 1, 3, 6 and 12 months postcessation. The main outcome was repeated point abstinence (i.e., abstinence at all four measuring points). CP and SE were measured at baseline, and at the end of the preparation phase (i.e., after two weeks of treatment, but prior to cessation day). Results: Using intent-to-treat analysis, participants in the intervention group reported clinically and statistically significantly higher repeated point abstinence rates than control participants (20% versus 7%; OR = 3.43, 95% CI: 1.60-7.34, P = .002). Although no differences were observed at baseline, by the end of the preparation phase significantly higher levels of CP (t(261) = 3.07, P = .002) and precessation SE (t(261) = 2.63, P = .01) were observed in the intervention group compared with the control group. However, neither increased SE nor improved CP mediated long-term treatment effect. For point abstinence one month after quitting, however, CP and SE showed a partial mediation of the treatment effect. Conclusions: This study is the first 12-month trial to document a long-term treatment effect of a fully automated smoking cessation intervention without the use of NRT. The study adds to the promise of using digital media in supporting behavior change.",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Two reviews of a total of 29 randomized control trials (RCTs) of computer-based interventions for smoking cessation testified to the effectiveness of this form of intervention. However, none of the reviews discussed in depth what differentiated successful interventions from unsuccessful interventions. Additionally, insufficient reporting of the interventions may have contributed to the lack of patterns with regard to predictors of intervention efficacy. Hence, the first aim of our study was to describe the rationale behind the intervention under scrutiny. Designing a complex smoking cessation intervention requires a multitude of choices to be made. By pointing to some key principles and assumptions that guided us in designing Happy Ending (HE), we hope to convey some information not only about whether this intervention worked, but also about why it may have worked.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The psychological processes that quitters experience are different across various time points and follow a certain chronology. Consequently, smoking cessation interventions should follow the same chronology, and the program content should be organized according to the psychological processes that people experience at certain time points. It is difficult to achieve this adjustment with a static and hierarchically organized web page. One way to solve this in practice is to organize the program content into multiple pieces that are made available to the client sequentially and fora restricted period. In this way, the client progresses through a predetermined sequence of modules (i.e., iterations), where the degrees of freedom are restricted. This can be referred to as tunneling, and it is the core organizing principle of HE.\nHE starts with a 14-day preparation phase. Every morning the client receives an email containing a hyperlink. By activating the link, the smoker has access to that particular day's website. See for details of the number of contact points and their distribution over the program period. The order of the websites was based on a reasoned chronology, modeled according to psychological processes that people experience at certain time points in a process of therapy-supported self-regulation. The first days were constructed to establish confidence in the treatment provider and a therapeutic alliance between the provider and receiver of the treatment. Additionally, a major focus is to ensure that the client understands that self-awareness, self-monitoring, active participation, and engagement are crucial ingredients for personal goal attainment.\nThe participant is educated about his or her psychological profile and responses, both as a person and as a smoker. Consequently, smokers will be more aware of, and will learn about, such things as their smoking behavior and nicotine dependence, reasons for previous failures to quit, their motivational basis for quitting, general and task-specific self-efficacy, problems that people often experience when quitting, stress and weight regulation. One of the most important predictors of the outcome of self-change processes is SE, or the extent to which the person is confident that he or she will succeed. Pre-and postcessation SE have been shown to play important roles in smoking cessation. Consequently, HE is constructed to instill a high but realistic level of SE in the participants.\nA crucial ingredient of the program is to educate the participants about the cognitive, affective, and behavioral reactions that smokers usually experience if a slip occurs (i.e., if they smoke some cigarettes during the quit attempt). In HE, participants are told that the administrators expect that most of them will experience one or a number of slips.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Participants are told that it is not critical whether they experience a slip, but rather, how they react emotionally and behaviorally to slips. Hence, we try to prevent the devastating cognitive and emotional consequences (\"snowballing\") of breaking zero-tolerance rules. By being prepared for these reactions, being able to recognize them when they occur, and having specific skills and support systems to master such setbacks, the probability that the selfregulation process will be successful increases significantly.\nFurthermore, we have applied principles from cognitive behavior therapy. A core assumption here is that the client will learn to master his or her own life problems, that is, solve problems and difficult situations without smoking. To do this successfully, the client must be able to recognize, understand, and change inappropriate patterns of thought that occur in relation to the acute problems that are experienced. HE attempts to instill this capability by giving the participants small practical problems to solve (behavioral tasks) or some issue to consider (cognitive and emotional tasks). Then, on the following day, the participants are asked to write down notes related to the previous day's issue in an interactive diary. The preparation phase also contains elements of behavioral skills training. These consist of techniques related to the acquisition of new skills, such as self-stopping, the use of substitutions, self-monitoring, and foresight and CP related to high-risk relapse situations.\nIn addition to the activities that take place on the websites, the participants stay in touch with HE via text messages (SMS) and interactive voice responses (IVR). The purpose of this is twofold. First, it is important that the participants become used to communicating with HE via cellphone because it plays a crucial role in the rest of the program. Second, the cellphone is used to support the other activities and processes that are initiated via the websites.\nAfter the preparation phase comes a 30-day active quitting phase, which is initiated with the actual cessation attempt. Here, a number of activities are included to ensure that participants are actively involved in their own attempt to quit. Hence, there are numerous contact points everyday between the participant and HE. Nevertheless, participants receive an email in the morning with a link to that day's specific website. However, there are several differences between these and the websites in the preparation phase. First, the web activities focus on the motivational conflict that many smokers will experience during the first smoke-free days. Along with the temptations and impulses to smoke, this motivational conflict implies that the effect of the expected consequences of smoking versus not smoking tends to change. In short, the positive short-term consequences of smoking (e.g., feeling more relaxed, less irritable) tend to be inflated, while the value of the long-term negative consequences of smoking (e.g., health) seem to be deflated during the first days and weeks of a quit attempt. To prevent this, the participants receive IVR messages about the short-term positive consequences of their quitting. This information resembles a type of biofeedback (e.g., \"today your blood pressure has been reduced to that of a nonsmoker\"), and the topic is further elaborated on the website of the day. The IVR messages are received every morning in the active quitting phase when the client logs onto the program. Logging on means that the participant calls HE. The message also informs the client that he/she can read more about this topic on the website of the day. If the quitter does not logon, several reminders will be automatically activated by the program. Another purpose of this log-on procedure is to ensure that the quitter is actively involved, self-aware, and self-monitoring.\nThe websites in the active quit phase contain elements and activities collected from social cognitive learning theory and self-regulation theory. Particular emphasis is placed on the importance of postcessation SE, identified as a key predictor of the outcome of a smoking cessation attempt. In this regard, two types of SE expectations are important: the general expectation that one will successfully quit (success expectations), and the expectancy that one can manage difficult situations (temptations) without smoking. A major aim of the program is to strengthen the participants' postcessation SE by preparing the quitter for tempting situations (i.e., cognitions and emotions that they will experience), to learn from mastery experiences, and to remind the quitter that he or she has a number of tools to help overcome the craving. Moreover, the client is encouraged to make concrete implementation intentions and coping plans regarding how to stay smoke-free in the immediate future. Finally, everyday the quitter continues to follow activities related to the diary: reading, considering, performing, and writing. In this phase, many of the tasks are based on principles from cognitive behavioral therapy and behavioral skills learning (e.g., problem-focused mastery and self-stopping).\nAn effective program should take into account the fact that a large proportion of quitters are likely to relapse. However, it is important to remember that relapses typically follow a pattern of intermittent episodes of smoking more often than they follow a clean start. Hence, inmost cases, a relapse has been preceded by one or more lapses, and one or more lapses clearly increase the risk of further relapse. Among those who experience a first lapse, a subsequent lapse or relapse is very likely to occur, often within 1-4 days. For intervention purposes, two lessons seem relevant. The first, addressed in almost all smoking cessation interventions, is the prevention of the occurrence of general risk factors. Second, programs that offer just-in-time therapy to remove or prevent escalation of processes that increase the risk of subsequent relapse are likely to be more effective. Moreover, such an intervention should aim at reducing the number of cigarettes smoked during the slip because this variable seems to predict the probability of later abstinence. One way to shorten the period of smoking and reduce the amount smoked would be to have the client who slips prepare an implementation intention regarding how and when to resume the quit attempt (e.g., \"I will continue my quit attempt from tomorrow morning\"). Consequently, an automated (i.e., IVR-based) relapse prevention system is incorporated in HE. It entails the participant being called by HE every night. The quitter is then asked whether he or she has smoked during the day. If the participant has smoked during the day (reported by pressing 2), this will activate a therapy regimen (i.e., one of five different regimens will be activated depending on how many slips the quitter has previously reported). The purpose of the regimen is to induce the participant to attribute the slip to situational factors, thereby preventing negative emotions and a full-blown relapse. Furthermore, an important element is to make the quitter accept that if he or she relapses to smoking, it is part of a deliberate decision and not something that the person is more or less powerless to prevent.\nThe quitter may experience close call situations in which the ex smoker is brought to the brink of smoking, at which points the occurrence of smoking or nonsmoking seem to be influenced by the quitter's acute coping responses. To help participants cope with close call situations, HE contains an IVR-based craving helpline. Participants are instructed to call the helpline every time they are tempted to have a cigarette (making use of the principles of implementation intention and CP). Upon calling, they are asked to report how they feel, and thus what kind of help they need. By the push of a button, clients pick between: (i) emotion regulation, (ii) motivation boost, and (iii) stress regulation. Next, the client will hear a therapeutic message specifically designed to solve his or her problem (a new message at each call). Finally, HE offers an 11-month follow-up phase. During this phase, the logging-off procedure continues daily for another four weeks, twice a week for another two weeks, and then once a week for the remaining follow-up period. Hence, the system will register slips and activate the relapse prevention system for the whole period. Furthermore, the participants have access to the craving helpline during the whole follow-up phase. Finally, the quitter receives a number of encouraging SMS and IVR messages during this phase.\nIn summary, compared with most other digital smoking cessation programs, HE appears to have some unique features. First, it combines four media approaches: email, web, IVR, and SMS. Second, HE is distinct in relying on tunneling as abroad structuring principle. Finally, HE includes two components of just-in-time therapy (i.e., the craving helpline, and the relapse prevention system), which are not yet commonly observed in the field.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "We applied a similar design, and investigated the same digital multimedia smoking cessation intervention that was studied in an earlier RCT, which was the first 12-month RCT of a digital smoking cessation intervention. Before that trial, only short-term effects (i.e., three months after quitting) were documented (i.e., restricting the comparison to RCTs that applied the intent-to-treat principle to provide a direct test of the efficacy of a fully automated and digitally delivered smoking cessation intervention that targeted smokers who were already motivated to quit). In this way, the trial represented a significant contribution to the potential of applying digital media in smoking cessation interventions. The study, however, had two important shortcomings, which are addressed in the current trial. First, in the previous trial, NRT was part of the recruitment inducement. In the final sample, nine out of 10 subjects, in both experimental conditions, used NRT during their quit attempt. Consequently, it could be that the results would only apply to those willing to use NRT and hence there might have been a problem with generalizing the findings to all smokers. Therefore, in the current trial we aimed to recruit subjects who were willing to quit without the adjacent use of NRT.\nSecond, the previous trial failed to document the mediation effect of the program on relevant psychological variables. Technically, a complete mediation effect was found on self-efficacy atone month after smoking cessation, but it was not possible to conclude from this analysis because of the confounding variable of smoking status. One way to avoid this confounding variable is to investigate effects obtained before cessation, which lead us to the third aim of this study: to explore the psychological effects caused by the intervention and eventual mediation of treatment effect over these variables.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "We tested the hypothesis that a digital, fully automated smoking cessation intervention would produce an increased 12-month abstinence rate, compared with a control condition of a selfhelp booklet. Furthermore, we expected the digital intervention to increase precessation levels of coping planning and self-efficacy. Finally, we expected the hypothesized increase in precessation coping planning and self-efficacy to partially mediate the treatment effect.. Overview of potential contact points between program and user during the entire intervention period -------------------------------------------------Component Weeks 1-2 Weeks 3-6 Weeks 7-8 Weeks 9-10 Weeks 11-15 Weeks 16-54\nNote. The table shows all daily contact points during six sample weeks. The sample weeks are repeated to form the entire 54-week intervention period. Each cell represents one intended contact, with the exception of text messages where one dash may represent one, two, or three messages depending on week number (i.e., weeks 1-2: two messages; weeks 3-6: three messages; during weeks 7-8 the number of messages was gradually reduced from three to one each day; in weeks 9-54 one dash represents just one text message).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Subjects were recruited by means of online banner advertisements in Norwegian regional newspapers from 6 to 10 February 2006. Banners were displayed 947,059 times, resulting in 2,595 hits, which give a hit-rate of 0.3%. When clicking on a banner, potential subjects were routed to a website containing study information, an informed consent, and a baseline questionnaire. During the informed consent process, participants were informed that they would be arbitrarily split into groups, receiving different tools for smoking cessation. It was specified that the various tools did not include any form of medication, and that participation in the study did not require attendance to face-to-face meetings or consultations. However, no information was provided whatsoever about the intervention conditions, i.e. neither Happy Ending nor the booklet was mentioned at this stage. People who were willing to quit on 6 March 2006, were aged ≥ 18 years, were currently smoking five cigarettes or more on a daily basis, were willing to quit without using nicotine replacement therapy, owned a mobile phone, had a Norwegian-registered phone number and postal address, and had daily access to the Internet and email were eligible candidates for inclusion in the study.\nThere were 427 unique registrations, 23 of which did not fulfill the inclusion criteria. Another 82 subjects were excluded because of missing values, and 19 subjects were excluded because they were suspected to know each other, based, for example, on sharing or having the same family name, postal address, email, IP-address, and worksite. This was done to reduce the risk of communication across experimental conditions. Finally, seven subjects were excluded randomly, because the required number of participants was 296 (according to a power analysis).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The control group received a 44-page self-help booklet issued by the Norwegian Directorate for Health and Social Affairs. The booklet contains general cessation information, a quit calendar, a 10-day quit log, the phone number of the national quit-line, and links to relevant and open online tobacco cessation resources. The booklet recommends 10 days of preparation prior to quitting, in which readers are encouraged to map their smoking habits in the quit log. Additionally, for each of the ten preparation days the booklet suggests an exercise, aimed at raising awareness about their personal smoking habit. The 48-day quit calendar is composed of small encouraging daily messages about improvements in health etc. after quitting; e.g. \"your risk of cardiovascular disease is reduced\" / \"does food taste better to you now?\"\nThe treatment group received the digital multimedia intervention Happy Ending (HE), described in a previous section. See for details on the number of contact points and their distribution over the program period. We stress that each contact point, including the telephone calls, and the helpline, was 100% automated on the intervention side.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Based on computer-generated random digits, 296 people were randomly allocated to either the Happy Ending intervention (HE group) or the control condition (booklet group). Stratified block randomization was applied to ensure equal numbers of both males and females in each group. Randomization was performed by the experimenter. The names and identities of the subjects, however, were concealed to the experimenter during randomization. After randomization, subjects received an email informing them how, when, and which tool they would be provided with (i.e. either Happy Ending or the booklet). Subjects in the HE group were told that the intervention would begin on 20 February, but that the designated quit date was 6 March. Subjects in the control group were told about the booklet, and were encouraged to read the booklet thoroughly before the designated cessation date (i.e., 6 March), and to use it actively throughout their quit attempt. Information on the type of treatment provided to the other group, however, was withheld for subjects in both experimental conditions. Data were collected by means of online questionnaires at baseline, precessation, and at 1, 3, 6, and 12 months after cessation. An email containing a link to the questionnaire was sent to the subjects at each data collection point. Two email reminders were sent to nonresponders. For all postcessation follow-ups, telephone interviews were conducted with subjects who had not responded after the second reminder. The telephone interviews were structured and standardized with no person-to-person counseling or face-to-face contact between experimenters and subjects at any point. Four attempts were made to contact nonresponders by telephone in both conditions at every data collection point.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Abstinence was defined as having been completely smoke-free for the past seven days. Subjects with missing values on abstinence data were coded as smokers. Abstinence data were based on self-reports with no biochemical verification and assessed at 1, 3, 6, and 12 months after cessation. The main outcome in this trial was repeated point abstinence, that is, abstinence on all four postcessation measuring points.\nNicotine dependence was assessed by the Fagerström Test for Nicotine Dependence (FTND) (Cronbach's alpha .68). SE was measured using two items rated on a seven-point scale, and averaged. (Cronbach's alpha .82). CP was measured using five items rated on a four-point scale. CP refers to behavioral and cognitive strategies used to connect anticipated barriers with suitable coping responses (Cronbach's alpha .86). Program adherence was continuously and automatically registered by a computer during the trial, that is, each end every user initiated activity (see table 1) on the web and on the IVR-services was registered.\nThe present study intended to evaluate the effect of Happy Ending without the adjunct use of nicotine replacement therapy (NRT). All eligible candidates for the study were informed about this and agreed to attempt quitting without using NRT. However, it is important to note that subjects received information and recommendations regarding NRT in both conditions. For technical reasons, it was not possible to modify this feature from the program, nor the booklet. Therefore, to be able to control for possible NRT use, the subjects were asked at three months whether they had used NRT (anyway) during the quit attempt.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "An alpha level of .05 was chosen for all statistical tests and all tests were two-tailed. To check for differences between experimental conditions at baseline, t tests were used for scales and χ² tests were performed for categorical data. Furthermore, all χ² tests based on 2  2 contingency tables applied the Yates' continuity correction. Outcomes were examined using the intent-totreat (ITT) principle (i.e., missing was counted as smoker).\nFor repeated point abstinence at 12 months and for point abstinence at 1, 3, 6, and 12 months after cessation, respectively, the odds ratio (OR) with the 95% confidence interval (CI) and a χ² test for experimental condition were carried out. Hierarchical logistic regression was applied to test whether CP and SE mediated the effect from the experimental condition on abstinence. These analyses were based on a complete case approach.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Program use, attrition, and subject characteristics. Baseline sample characteristics. 2.3 ± 0.6 2.4 ± 0.7 ----------------------------------Note. Numbers represent mean ± standard deviation for continuous variables, and number of observations with percentage of observations in parentheses for dichotomous variables, respectively.\nAt baseline, there were no variables on which treatment and control subjects differed significantly). The flow of participants is depicted in. Six of the 296 subjects were excluded after randomization because it was discovered that they did not fulfill the inclusion criteria: two were signed up by another person, and hence did not intend to quit, and four subjects reported already having quit smoking at the point of randomization. These subjects are referred to erroneous allocations in. Consequently, the final number of participants was 290. Note. Cumulative loss (loss to follow-up on at least one of the previous follow-ups) is shown in brackets. Also note that participants who discontinued the intervention were approached for data collection. Excluded from analysis (n = 2) because of erroneous allocation Analysis Follow up\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Computerized logging routines revealed that subjects in the treatment condition, to a large extent, accomplished the actions intended in the program design (i.e., in five to six out of 10 cases). See for details of program adherence, and for details of contact points. Few clients, however, used the craving helpline; 80 subjects (56%) never called the helpline, 45 subjects (31%) called once or twice, and 19 subjects (13%) called three times or more.. Mean number of active client actions for three components of Happy Ending.\nNote. The table shows the extent to which subjects adhere to three components of the intervention (n = 144). The log-off call was initiated by the program. Here, responding means answering either yes or no to the abstinence question. Theoretical range and observed ranges coincide with one exception: theoretical maximum for log-off calls are 104. The right-hand column shows the average percentage of actions completed.\nIn total, 57 subjects discontinued the intervention, and 36 did so during the first six weeks of HE. This could be done by the subject on the web page; hence, they did not give any reasons for withdrawal from the program. During data collection, the program withdrawers were approached by web and telephone interviews in exactly the same way as were program participants and subjects in the control group. At one month, 17 subjects (12%) reported that they found HE \"not at all helpful\", 74 subjects (51%) found HE to be \"helpful\", and 46 subjects (32%) reported HE to be \"very helpful\" (missing: 5%, i.e., 7 subjects).\nAs shown in, the response rates found in this study were generally high, both across experimental condition and across time. Note from that the response rate to the web survey fell more sharply than total response rate overtime. Correspondingly, the proportion of responses gathered by means of telephone interviews increased, suggesting the importance of combining web surveys with telephone interviews, particularly for long-term follow-up. At one month after cessation, significantly more subjects in the treatment condition than the control condition responded to surveys (² = 7.5, P = .006). Hence, selective attrition is a problem regarding point abstinence atone month. Between-group differences regarding total response rate at preparation, 3, 6, and 12 months, however, were not significant. The cumulative dropout rate at 12 months (i.e., loss to follow-up at 1, 3, 6, or 12 months) did not significantly differ between treatment and control conditions. Hence, selective attrition was not a problem for interpretation of 12-month repeated point abstinence.. Web, phone, and total response rate across conditions at specified time points.\n---------------------------------\nNote. Nonresponders to web-surveys were approached by telephone. Column heads represent abbreviations of treatment condition (n = 144) and control condition (n = 146) respectively.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The main finding from this trial was that participants in the intervention condition (n = 29, 20%) reported clinically and statistically significantly higher repeated point abstinence rates than control participants (n = 10, 7%) (OR = 3.43, 95% CI: 1.60-7.34; n = 290, P = .002). Hence, HE was efficacious in helping smokers to achieve long-term abstinence. HE was equally effective across sample subgroups, as defined by sex, age, and nicotine dependence; no interaction effect between experimental condition and any baseline characteristics was found.\nDespite agreeing to quit without using NRT, 34 subjects (24%) in the treatment condition reported NRT use, and 14 subjects (10%) in the control condition reported NRT use. The proportion of NRT users was significantly higher in the treatment condition compared with the control condition (² = 9.3, P = .002). When adding NRT use along with experimental condition in a logistic regression model, the odds ratio decreased to 2.86 (95% CI: 1.31-6.24; n = 290, P = .008). In summary, our hypothesis that HE would produce an increased abstinence rate, compared with a control group receiving a self-help booklet, was supported, even when NRT use was controlled for. shows the point abstinence and repeated point abstinence rate for each of the four follow-ups, along with odds ratios and confidence intervals. Abstinence rates were significantly higher for the treatment condition than the control condition at 1, 3, and 6 months, respectively. At 12 months, however, the difference only reached a marginal significance level. Moreover, there is reason to believe that the effect size reported for one month abstinence is inflated, because of selective attrition. Note from that the proportion of abstainers gradually decreases from one to six months, but in fact increases from six to 12 months, particularly in the control condition. Hence, the lack of significant difference between groups at the 12-month point was, for the most part, due to subjects in the control condition performing a second quit attempt, and not so much that subjects in the treatment condition relapsed to smoking.. Point abstinence and repeated point abstinence rates across conditions at specified time points. ------------------------------------- 3.43 1.60-7.34 .002 -------------------------------------Note. Point abstinence was based on seven-day point prevalence and intent-to-treat.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Pearson's r between baseline and precessation CP was .32 (P < .001). The level of precessation CP was significantly higher in the treatment condition (M = 3.0, SD = 0.5) than the control condition (M = 2.8, SD = 0.5; t(261) = 3.1, P = .002), as hypothesized.\nPearson's r between baseline and precessation SE was .54 (P < .001). The level of precessation SE was significantly higher in the treatment condition (M = 5.5, SD = 1.2) than the control condition (M = 5.1, SD = 1.3; t(261) = 3.0, P = .003), as hypothesized.\nThe between-group difference for both CP and SE was small, at only one third of a standard deviation. CP and SE were tested formally as mediators of treatment effect. Experimental condition, baseline CP and SE were entered in block one; pre-CP was entered in block two; and pre-SE was entered in block three. Point abstinence atone month was the dependent variable. Pre-CP showed a small but significant mediation effect in block two, and pre-SE showed a small but significant mediation effect in block three. In block three, pre-CP no longer predicted abstinence significantly, meaning that the increase in pre-CP could not add more explanatory power over pre-SE. The correlation between CP and SE was lower at baseline (r = .26, P < .001) compared with precessation (r = .49, P < .001). When the above mediation analysis was repeated with repeated point abstinence at 12 months as the dependent variable, there were no mediation effects whatsoever.\nIn summary, HE slightly increased the level of both CP and SE during the two-week preparation phase of the program. The increase in SE could explain at least some of the initial success in gaining abstinence (i.e., atone month after cessation).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "A complete case analysis showed the repeated point abstinence rate at 12 months to be 25% (29 out of 118 subjects) in the treatment group versus 9% (10 out of 108 subjects) in the control group respectively; ² = 8.22, OR = 3.19, 95% CI: 1.47-6.92; n = 226, P = 0.004. Compared with the intent-to-treat analysis, this represents a small increase in abstinence rate for both groups, but a small decrease in effect size.\nWe also looked into what happened when people who did not use the intervention at some minimal level were excluded. Excluding subjects who performed fewer than five actions on each of the three categories of log-on calls, opening web pages, or answering log-off calls, resulted in an abstinence rate in the treatment condition of 26% (n = 111). Inclusion of only those who used the intervention at some minimum level and applying a complete case approach further increased the quit rate to 29% (n = 100).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "This trial demonstrated the efficacy of the digitally delivered and fully automated smoking cessation intervention Happy Ending (HE) over a self-help booklet condition-without the combined use of NRT-in producing increased repeated point abstinence at 12 months. The ability of HE to increase precessation self-efficacy could explain some success in gaining early abstinence.\nThat some quitters used NRT, even though they had promised not to do so, resulted in a somewhat inflated effect size. However, this could not seriously compromise conclusions, because the main effect from the experimental condition is still clinically and statistically significant, even after controlling for NRT use. Hence, the success of HE can be explained by the psychological support provided by the program. Exactly what mechanisms are at play, causing the treatment effect, is not fully clear at this stage. We do know that HE instilled a somewhat higher level of precessation self-efficacy compared with the control condition, and that this could explain at least some of the initial success in gaining abstinence.\nIna previous trial on the same intervention and with a similar design, NRT was part of the recruitment inducement, which potentially could have influenced the representativeness of the sample; that is, the results from that trial may apply only to smokers willing to use NRT. In contrast, the current trial recruited smokers willing to quit without the use of NRT. Although some of the subjects used NRT anyway, the treatment effect on the main outcome was still impressive after controlling for NRT use. Hence, this trial significantly adds to the generalizability of the findings in both trials; findings now apply to both NRT users and nonusers. However, generalizability may still be a concern in both trials because of recruitment by self-selection. This trial could not verify self-reported claims of abstinence bio-chemically, due to the geographical spread of the sample, fiscal and other practical concerns. However, false reporting is considered to be minimal were there is little or no personal contact between treatment provider and subjects. In the current trial, the amount of personal contact between experimenters and subjects are equal in both conditions, and are restricted to data collection (i.e., telephone follow-up of non-responders), hence, it not likely that misreporting could compromise conclusions.\nIn summary, this trial extends the public health significance of digital multimedia interventions for smoking cessation. It shows that psychological support can be effectively mediated through modern distance communication technology, and that automated support as a stand-alone intervention is, in fact, sufficient for having a significant effect on long-term behavior change.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "This trial was made possible through cooperation and co-funding between the University of Oslo, Happy Ending AS, and the Norwegian Research Council. Results are owned by the University of Oslo. There are no contractual constraints from any of the sponsors regarding publication.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The second author has a financial interest in the intervention under scrutiny, as a shareholder of Happy Ending AS.\n",
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "39.5 ±",
+          "rowHeaders": [
+            "Age"
+          ],
+          "columnHeaders": [
+            "72 (50)",
+            "70 (49)"
+          ]
+        },
+        {
+          "value": "11.0",
+          "rowHeaders": [
+            "Age"
+          ],
+          "columnHeaders": [
+            "72 (50)",
+            "70 (49)"
+          ]
+        },
+        {
+          "value": "39.7 ±",
+          "rowHeaders": [
+            "Age"
+          ],
+          "columnHeaders": [
+            "73 (50)",
+            "76 (52)"
+          ]
+        },
+        {
+          "value": "10.8",
+          "rowHeaders": [
+            "Age"
+          ],
+          "columnHeaders": [
+            "73 (50)",
+            "76 (52)"
+          ]
+        },
+        {
+          "value": "4.5 ±",
+          "rowHeaders": [
+            "FTND"
+          ],
+          "columnHeaders": [
+            "72 (50)",
+            "70 (49)"
+          ]
+        },
+        {
+          "value": "2.3",
+          "rowHeaders": [
+            "FTND"
+          ],
+          "columnHeaders": [
+            "72 (50)",
+            "70 (49)"
+          ]
+        },
+        {
+          "value": "4.6 ±",
+          "rowHeaders": [
+            "FTND"
+          ],
+          "columnHeaders": [
+            "73 (50)",
+            "76 (52)"
+          ]
+        },
+        {
+          "value": "2.2",
+          "rowHeaders": [
+            "FTND"
+          ],
+          "columnHeaders": [
+            "73 (50)",
+            "76 (52)"
+          ]
+        },
+        {
+          "value": "16.6 ±",
+          "rowHeaders": [
+            "Cigarettes per day"
+          ],
+          "columnHeaders": [
+            "72 (50)",
+            "70 (49)"
+          ]
+        },
+        {
+          "value": "7.2",
+          "rowHeaders": [
+            "Cigarettes per day"
+          ],
+          "columnHeaders": [
+            "72 (50)",
+            "70 (49)"
+          ]
+        },
+        {
+          "value": "17.6 ±",
+          "rowHeaders": [
+            "Cigarettes per day"
+          ],
+          "columnHeaders": [
+            "73 (50)",
+            "76 (52)"
+          ]
+        },
+        {
+          "value": "7.0",
+          "rowHeaders": [
+            "Cigarettes per day"
+          ],
+          "columnHeaders": [
+            "73 (50)",
+            "76 (52)"
+          ]
+        },
+        {
+          "value": "5.1 ±",
+          "rowHeaders": [
+            "Precessation self-efficacy"
+          ],
+          "columnHeaders": [
+            "72 (50)",
+            "70 (49)"
+          ]
+        },
+        {
+          "value": "1.4",
+          "rowHeaders": [
+            "Precessation self-efficacy"
+          ],
+          "columnHeaders": [
+            "72 (50)",
+            "70 (49)"
+          ]
+        },
+        {
+          "value": "5.1 ±",
+          "rowHeaders": [
+            "Precessation self-efficacy"
+          ],
+          "columnHeaders": [
+            "73 (50)",
+            "76 (52)"
+          ]
+        },
+        {
+          "value": "1.3",
+          "rowHeaders": [
+            "Precessation self-efficacy"
+          ],
+          "columnHeaders": [
+            "73 (50)",
+            "76 (52)"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "26",
+          "rowHeaders": [
+            "Responding to log-off call",
+            "-42"
+          ],
+          "columnHeaders": [
+            "--------------------------"
+          ]
+        },
+        {
+          "value": "16",
+          "rowHeaders": [
+            "Responding to log-off call",
+            "-42"
+          ],
+          "columnHeaders": [
+            "--------------------------"
+          ]
+        },
+        {
+          "value": "62",
+          "rowHeaders": [
+            "Responding to log-off call",
+            "-42"
+          ],
+          "columnHeaders": [
+            "--------------------------"
+          ]
+        },
+        {
+          "value": "26",
+          "rowHeaders": [
+            "Opening web pages",
+            "0-44"
+          ],
+          "columnHeaders": [
+            "--------------------------"
+          ]
+        },
+        {
+          "value": "13",
+          "rowHeaders": [
+            "Opening web pages",
+            "0-44"
+          ],
+          "columnHeaders": [
+            "--------------------------"
+          ]
+        },
+        {
+          "value": "59",
+          "rowHeaders": [
+            "Opening web pages",
+            "0-44"
+          ],
+          "columnHeaders": [
+            "--------------------------"
+          ]
+        },
+        {
+          "value": "53",
+          "rowHeaders": [
+            "Responding to log-off call",
+            "0-102"
+          ],
+          "columnHeaders": [
+            "--------------------------"
+          ]
+        },
+        {
+          "value": "37",
+          "rowHeaders": [
+            "Responding to log-off call",
+            "0-102"
+          ],
+          "columnHeaders": [
+            "--------------------------"
+          ]
+        },
+        {
+          "value": "52",
+          "rowHeaders": [
+            "Responding to log-off call",
+            "0-102"
+          ],
+          "columnHeaders": [
+            "--------------------------"
+          ]
+        }
+      ],
+      "page": 1
+    }
+  ]
+}

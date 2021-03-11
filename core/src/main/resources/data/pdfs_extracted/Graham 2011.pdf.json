@@ -1,0 +1,4625 @@
+{
+  "blocks": [
+    {
+      "type": "LINES",
+      "value": "A Randomized Trial of Internet and Telephone Treatment for Smoking Cessation",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Background: This study aimed to determine the relative effect of Internet and Internet plus telephone treatment for smoking cessation on smoking abstinence among US adults. A priori hypotheses were that Internet enhanced with tailored content and social support would outperform basic Internet (BI) and that enhanced Inter-net (EI) plus proactive telephone counseling would out-perform the other conditions.",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "CCELERATING THE REDUCtion in the population prevalence of smoking will require innovative approaches to reach and treat current smokers. The Internet has the potential to reach millions of smokers per year with evidence-based cessation treatment. The key components of recommended treatment, namely, problem solving and skills training, Food and Drug Administration-approved pharmacotherapy, and social support, can be provided efficiently, proactively, and in real time and can be sustained for as long as the user desires. Few large-scale, rigorous trials of Web-based cessation interventions have been conducted and they have yielded mixed results, with abstinence rates ranging from 7% at 3 months through 21% at 12 months. Studies have varied in rigor on several dimensions, including design, sample size, sample selection and bias, intervention content, length of follow-up, attrition rate, and outcome metrics, but recent meta-analyses provide evidence of effectiveness. Because combined treatments are associated with better outcomes, 4 adding proactive telephone counseling to Internet treatment may further improve the effect on the population. National guidelines for treating tobacco use and dependence recommend that healthcare professionals and healthcare provision systems promote telephone quitline use. Available throughout the United States, telephone counseling significantly increases abstinence rates compared with minimal or no counseling, with a point prevalence abstinence (PPA) rate of 12.7% reported at 6 months in a 2008 meta-analysis. Combined treatment leverages the strengths of individualized telephone counseling with the sustained support available around the clock via the Internet and is increasingly being offered to consumers. Approximately half of all telephone quitlines provide cessation services via the Internet, and numerous health plans and employers provide com-bined cessation treatment. As stated by Croyle, \"standalone quitlines are already a fading anachronism\" but evidence concerning combined treatment remains limited. One large observational study reported a 30-day abstinence rate of 21% at 6 months among 11 143 participants. Despite the widespread availability of combined Internet and telephone treatment for smoking cessation, to our knowledge there have been no randomized trials to evaluate its efficacy.\nEvaluating the effectiveness of Internet only and combined Internet and telephone interventions has major implications for research, practice, and policy. Market demand is driving provision of combined smoking cessation treatments without empirical evidence. If effective, Internet or combined Internet and telephone treatment could play a central role in the efficient implementation of tobacco control programs. This article presents the primary outcomes of the Quit Using Internet and Telephone Treatment (iQUITT) study, a large-scale, 3-arm randomized controlled trial that evaluated the comparative effectiveness of enhanced Internet (EI) and Internet in conjunction with proactive telephone counseling (EI񮽙P) against a basic Internet (BI) comparison condition. A priori hypotheses were that EI and EI񮽙P would produce higher quit rates compared with BI and that EI񮽙P would outperform EI.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The trial was conducted from. Participants were 2005 current smokers recruited from. Described previously, active user interception sampling was used to recruit US adults who used the terms quit(ting) smoking, stop(ping) smoking, or smoking in a major Internet search engine and who clicked on a link to the cessation treatment Web site being evaluated (www.quitnet.com). Preliminary eligibility screening was conducted online. Eligibility criteria included US residence, current smoking of 5 or more cigarettes per day, age of 18 years or older, and no prior use of the QuitNet Web site as confirmed by the absence of a tracking cookie. Eligible participants provided online informed consent and personal contact information. A research assistant contacted participants by telephone to confirm eligibility, obtain informed consent, and administer the baseline assessment. Randomization was conducted via random numbers table and was stratified by sex and baseline motivation to quit. After randomization, participants were sent an automated e-mail that provided a copy of the study consent form, a Web link (URL) for their assigned Internet treatment condition (ie, BI or EI), and instructions regarding telephone counseling. A unique identifier embedded in the URL was used for tracking Web site use.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The protocol received human subject protections approval from the Georgetown University institutional review board. All participants provided electronic and audiotaped informed consent. After the baseline assessment, participants were randomly assigned as follows: 679 to BI, 651 to EI, and 675 to EI񮽙P. Participants completed follow-up assessments of smoking abstinence and psychosocial measures at 3, 6, 12, and 18 months after randomization and were paid $15 to $25 for completing each assessment. The BI and EI Web sites required participants to authenticate (log in) using a username and password they chose at registration.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Participants randomized to EI were given free, 6-month access to the full version of QuitNet.com, an interactive, commercial cessation Web site that provides evidence-based cessation treatment in accordance with national guidelines. QuitNet provides (1) advice to quit; (2) assistance insetting a quit date; (3) assessment of motivation, smoking history, demographics, and nicotine dependence; (4) individually tailored information based on the assessment; (5) problem solving and skills training content; (6) tailored assistance in using Food and Drug Administration-approved pharmacotherapies; and (7) social support within its large online social network. The Web site remained consistent throughout the study period, with minimal upgrades or enhancements.\nParticipants randomized to EI񮽙P received 6-month free access to the full QuitNet Web site and proactive telephone counseling from trained, experienced counselors using the evidencebased and field-tested protocol of National Jewish Health. National Jewish Health is a nonprofit academic medical center located in Denver, Colorado, that has provided telephone counseling services to state quit lines, health plans, and employer groups since 2002 as part of its suite of wellness products. Counselors who participated in this project were part of a larger call center quit-line operation at National Jewish Health and followed the same counseling and quality monitoring protocols. QuitNet and telephone counseling were seamlessly integrated to create a comprehensive program. Participants were offered 5 calls in a relapse-sensitive schedule, providing intensive support during the first 30 days after a quit attempt when smokers are at highest risk of relapse. The goals of each telephone contact were to establish a supportive working relationship with the participant and to provide information and assist the participant in skill building to prepare fora quit attempt or to prevent relapse after a quit attempt. Counselors also prompted and reinforced use of QuitNet during each call. Counselors had realtime access to summary data regarding a participant's engagement on QuitNet through a system that facilitated the reciprocal exchange of data between telephone counselors and the Web site. Utilization metrics available to counselors included the date and time of a participant's registration on QuitNet, number of visits, number of posts in the online community, number of buddies, date of last login, and the use status of the enhanced (ie, individually tailored content and social network) components of the Web site. Telephone counselors incorporated this information into the counseling process and made specific recommendations about use of the Web site based on an individual's history. Counselors also sent individually tailored e-mails to the participant after completion of the counseling call to reinforce important elements of the discussion.\nParticipants randomized to BI were given 6-month free access to a static, information-only comparison condition composed of the content on QuitNet. This content included general cessation information, cessation pharmacotherapy information and directions for use, a directory of national cessation programs, and a database of frequently asked questions accumulated during the 10-year lifespan of QuitNet. Where possible, the language, graphics, and formatting of QuitNet were retained in the BI condition for usability and credibility. To allow for the examination of theory-driven hypotheses about mediators of treatment outcome, the interactive and individually tailored features of QuitNet and its social network were not available in BI.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The baseline telephone assessment measured demographics, smoking variables, and relevant psychosocial characteristics (ie, stress, depression, and social support). Age, race, ethnicity, sex, marital status, household income, education, and employment status were assessed using standard items from the Behavioral Risk Factor Surveillance System. Smoking variables included age of first smoking experience, age at onset of daily smoking, the number of intentional 24-hour quit attempts in the past year, desire to quit (1-10), confidence in quitting (1-10), motivation to quit, 23 daily smoking rate, and the Fagerström Test for Nicotine Dependence score. Participants completed the Perceived Stress Scale, 25,26 the Center for Epidemiologic StudiesDepression Scale, a modified version of the Partner Interaction Questionnaire, and the Social Network Index. Wherever possible, brief measures with known psychometric properties were selected to minimize respondent burden.\nFollow-up telephone assessments were completed at 3, 6, 12, and 18 months after randomization by research assistants who were not masked to treatment assignment but did not provide any form of intervention. Participants were offered a $25 incentive for the completion of each survey and a $20 bonus for completing all 4 surveys. Participants unreachable by telephone were offered $15 for completing the survey via the Internet.\nThe study outcome metric was 30-day PPA determined at each follow-up in accordance with guidelines from the Society for Research on Nicotine and Tobacco. Because no specific quit date was set in advance for study participants, the traditional conservative measure of continuous abstinence starting at a fixed quit date could not be used. However, we constructed a measure of sustained abstinence by combining 30-day multiple PPA reports at 3, 6, 12, and 18 months. In these analyses, an individual was coded as an abstainer at a particular follow-up if he or she reported 30-day PPA at 3 months and at all subsequent time points up to the one being measured. We report 30-day single and multiple PPA rates at each follow-up point.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The distributional properties of continuously scaled variables were examined to determine the need for normalizing transformations. Next, we examined whether there were any pretreatment group differences on demographic, psychosocial, and smoking characteristics of study participants using analysis of variance-based F tests for continuous variables and 񮽙 2 tests for categorical variables. At each time point, we modeled follow-up assessment completion as a function of treatment group and baseline covariates using the entire sample to identify participant characteristics predictive of missingness.\nAbstinence rates were analyzed using generalized estimating equation methods with a working independence correlation matrix. Naive P values for pairwise differences reported by logistic regression were corrected using robust standard errors reported by PROC GENMOD of SAS/STAT statistical software, version 9.1.3 (SAS Institute Inc, Cary, North Carolina). Omnibus 񮽙 2 tests of any between-group differences at each of the 4 follow-ups were based on multivariate Wald tests conducted at a multiplicity-adjusted significance level 񮽙=.05/4. Following the Fisher least significant difference procedure for controlling the familywise error rate in 3-group comparisons, findings of significant between-group differences at a particular follow-up were followed by examination of all pairwise contrasts at an unadjusted 2-sided significance level of 񮽙=.05. Our primary analysis was based on an intent-to-treat (ITT) approach in which individuals lost to follow-up were treated as smokers. A responderonly analysis of only those reached at follow-up is also presented for comparison purposes. For multiple PPA analyses, the responder-only sample at each time point was limited further to individuals with no missing data at prior follow-ups.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The Figure illustrates the flow of participants from recruitment through follow-up using a CONSORT diagram. Of the 99 831 individuals invited to participate, most (62.2%) were recruited from Google, 22.3% from Yahoo!, 13.5% from MSN, and 2.0% from America Online. Invited participants used common search terms such as quit smoking (45.4%), stop smoking (19.7%), smoking (15.1%), and quitting smoking (11.6%).\nCharacteristics of the 2005 participants randomized to treatment are given in. Mean (SD) age was 35.9 (10.8) years, and 51.1% were women. Recruitment of racial/ethnic minorities was largely successful, matching US proportions of smokers for all subgroups except Hispanics and African American men. There were no significant differences on any demographic, smoking, or psychosocial variables assessed at baseline among the 3 treatment groups (all P 񮽙.15).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Follow-up rates at 3, 6, 12, and 18 months after randomization were 76.4%, 74.7%, 71.5%, and 68.2%, respectively. Continuous follow-up rates relevant to multiple PPA responder-only analyses were 76.4%, 66.8%, 59.4%, and 54.1%, respectively. At 3 months, fewer participants in the EI񮽙P group were reached than in the BI group (73.5% vs 79.1%, P=.02), a discrepancy that affected continuous follow-up rates at all subsequent time points as well. There were no other treatment group differences in follow-up completion rates at anytime point. We also examined treatment group differences in the proportion of participants who responded via telephone vs Internet survey. Over time, an increasingly larger proportion of participants responded via the Internet: 3-, 6-, 12-, and 18-month Internet survey response rates were 6.9%, 12.4%, 14.6%, and 15.4%, respectively. There were no differences among the treatment groups in mode of follow-up response except at 18 months, with more respondents via Internet survey in the EI񮽙P group (19.2%) than in the other 2 treatment conditions (13.5% in the BI group and 13.4% in the EI group, P=.02). Participant characteristics at baseline positively associated with follow-up assessment completion at all 4 time points included older age, female sex, and graduation from a 4-year college. High level of diversity of social network connections was related to follow-up assessment completion at 3 months. In addition, white race, lower nicotine dependence levels as measured by the Fagerström Test for Nicotine Dependence, and positive balance in partner interactions as measured by the difference between positive and negative subscales of the Partner Interaction Questionnaire emerged as additional predictors of follow-up completion at 12 and 18 months. displays self-reported 30-day single PPA rates by treatment group during the study. In the ITT samples, abstinence rates ranged from 9.1% to 19.0% at 3 months and increased to a range of 17.4% to 19.6% at 18 months. In the responder-only sample, abstinence rates ranged from 11.6% to 25.9% at 3 months and increased to a range of 25.2% to 29.1% at 18 months. Between-group differences significant at level 񮽙 = .05/4 were observed at 3, 6, and 12 months but not at 18 months. In ITT analyses, post hoc comparisons showed EI񮽙P outperforming the other conditions at 3 and 6 months (all P 񮽙.01) and EI at 12 months (P=.003). In responder-only analyses, EI񮽙P outperformed the other conditions at 3, 6, and 12 months (all P񮽙 .02). The difference between EI and BI was not statistically significant at anytime point under either set of analyses (P 񮽙.12). displays self-reported 30-day multiple PPA rates by treatment group during the study. Unlike single PPA rates that showed especially pronounced increases overtime for the BI and EI groups, multiple PPA rates decreased overtime. In the ITT sample, multiple PPA rates ranged from 9.1% to 19.0% at 3 months and decreased to a range of 3.5% to 7.7% at 18 months. In the responderonly sample, multiple PPA rates ranged from 11.6% to 25.9% at 3 months and decreased to a range of 6.2% to 15.0% at 18 months. Overall between-group differences significant at level 񮽙=.05/4 were observed at all time points. In ITT analyses, post hoc comparisons showed EI񮽙P out-  performing the other conditions at 3, 6, 12, and 18 months (all P񮽙.02). Responder-only analyses reached the same conclusions (all P񮽙.005). The difference between EI and BI was not statistically significant at anytime point under either set of analyses.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "This large-scale randomized trial evaluated Internet only and Internet plus telephone treatment for smoking cessation with encouraging short-and long-term cessation outcomes. The conservative measure of multiple PPA favored the EI񮽙P condition throughout the follow-up time points, likely reflecting initial, sustained gains. Significant betweengroup differences in the more commonly reported 30-day PPA rates during the first 12 months of the study were driven by superior outcomes in the EI񮽙P condition achieved early in the study period and maintained overtime. The addition of telephone counseling significantly increased cessation at 3 and 6 months over the 2 Internet conditions, although these differences were eventually attenuated at 18 months because of improvement in the BI and EI conditions. This study has several strengths. Designed largely as a pragmatic randomized trial, the study sought to maximize generalizability and real-world relevance while preserving internal validity. The use of a recruitment method to obtain a representative sample of the Internet population entirely in vivo, in this casein the moment of searching online for information about cessation, is innovative and demonstrates the feasibility of conducting large-scale randomized trials via the Internet. It is one of the few randomized trials of a widely disseminated Internet cessation intervention that will advance the science of Internet research. The study evaluates treatments as used in the real world, bridging what is often a critical gap between tightly controlled clinical research and the applicability of research findings in practice. The interventions are practical, can be scaled up to meet demand, and can be combined with other modalities of intervention provision (eg, primary care, managed care, and work site). These results extend and are consistent with the uncontrolled study of Internet and telephone treatment by Triage of smokers via the Internet may represent an effective and efficient way to provide combined cessation treatment to a large number of smokers, of whom approximately 20% can be expected to quit.\nIt is noteworthy that EI񮽙P treatment yielded relatively high quit rates early in the study (19% at 3 months), which were observed overtime. The integration of Internet and telephone programs may encourage greater immediate use and adherence to the information and support available through both modalities, may prevent early relapse by virtue of the timing of the counseling calls, and/or may provide direct social support that allows the counselor to tailor the intervention to the smoker's needs. The specific contribution of telephone counseling to the higher level of success of the combined program over each of the Internet-only interventions is unclear. It is possible that telephone counseling encouraged participants to set an early quit date and helped them sustain that early quit. Future WWW.ARCHINTERNMED.COM 50 studies will need to explore the optimum dose and format of adjuvant telephone treatment, as well as the mechanisms of action. The equivalent performance of EI and BI in this trial is consistent with other studies that found no significant differences between static and interactive Web sites. Identifying the active ingredients and optimal levels of intensity and tailoring of Internet cessation programs will bean important next step for the field. Future research should address this issue, perhaps with the use of adaptive research methods to ensure that interventions continue to improve as technology, consumer expectations, and scientific understanding advance.\nSeveral limitations should be noted. In designing this study, one might have considered other comparison or notreatment control conditions, especially in light of the unexpectedly high long-term quit rates in the information-only BI condition. However, the selection of an appropriate control condition raises pragmatic, ethical, and methodologic challenges that are not easy to resolve. Because participants were recruited online from within a search engine query, a basic information Web site (minimum treatment control) condition was deemed the best option. We considered using oradaptingtoanonlineformataself-helpmanualcommonly used as a minimal treatment control in smoking studies but determined that it would lack important qualities of usability, credibility, and interactivity that Internet users expect. The relatively high abstinence rates observed in the BI condition should be considered in the context of the recruit-  ment approach, which may have self-selected participants with unusually high motivation to quit. Although recruitment was conducted from a real-world sample of smokers on the Internet and data were collected on enrollees and nonenrollees, generalizabilityislimitedtothatsampleframe. As a related issue, it is possible that a bias against using a telephone intervention exists among individuals who turn to the Internet for smoking cessation assistance. The lower follow-up assessment rate among EI񮽙P participants at 3 months may have been owing to \"telephone fatigue\" among Internet users randomized to receive proactive telephone counseling. Telephone counseling was provided within the first 3 months of the study, which was the only assessment period for which higher loss to follow-up was observed. If present, this bias could have attenuated the effectiveness of the combined intervention. Future research will need to determine the extent to which recruitment modality (ie, Internet vs telephone) affects treatment preference, use, and outcomes.\nDespite these caveats, the potential public health significance (impact=reach񮽙efficacy ) of these findings is striking. Combining evidence-based cessation interventions such as Internet and telephone counseling could substantially accelerate cessation in the United States. The broad reach of the Internet to more than 10 million smokers seeking assistance each year 2 and the ubiquitous use of telephones, combinedwiththeefficacydemonstratedinthisstudy(7.7%-19.6% quit at 18 months), suggests that the potential population impact of this treatment approach is high.\nIn conclusion, our findings demonstrate the effectiveness of combined Internet and telephone treatment for smoking cessation in promoting sustained abstinence, as well as the effectiveness of BI and EI treatments, which accumulates during longer periods. Future studies will need to address the optimal duration, intensity, and active ingredients of treatment and assess the cost-effectiveness of these potentially widely disseminable interventions.  Role of the Sponsor: The funding agency had no role in the study design, analysis, interpretation of data, decision regarding publication, or preparation of this article.\n",
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "35.9 (10.8)",
+          "rowHeaders": [
+            "Age, mean (SD), y",
+            "Grade 12 or general educational development degree"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics of Participants",
+            "Participants a"
+          ]
+        },
+        {
+          "value": "381 (19.0)",
+          "rowHeaders": [
+            "Grade 12 or general educational development degree"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics of Participants",
+            "Participants a",
+            "1024 (51.1)",
+            "63 (3.1)"
+          ]
+        },
+        {
+          "value": "947 (47.2)",
+          "rowHeaders": [
+            "College, 1-3 y"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics of Participants",
+            "Participants a",
+            "1024 (51.1)",
+            "63 (3.1)"
+          ]
+        },
+        {
+          "value": "614 (30.6)",
+          "rowHeaders": [
+            "College, 񮽙4 y"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics of Participants",
+            "Participants a",
+            "1024 (51.1)",
+            "63 (3.1)"
+          ]
+        },
+        {
+          "value": "173 (8.6)",
+          "rowHeaders": [
+            "African American"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics of Participants",
+            "Participants a",
+            "1024 (51.1)",
+            "63 (3.1)",
+            "1735 (86.5)"
+          ]
+        },
+        {
+          "value": "000",
+          "rowHeaders": [
+            "񮽙30"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics of Participants",
+            "Variable",
+            "Women",
+            "Grade 1-11",
+            "White",
+            "Asian",
+            "Native Hawaiian/other Pacific Islander",
+            "American Indian/Alaska Native",
+            "Hispanic ethnicity"
+          ]
+        },
+        {
+          "value": "565 (28.3)",
+          "rowHeaders": [
+            "񮽙30"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics of Participants",
+            "Participants a",
+            "1024 (51.1)",
+            "63 (3.1)",
+            "1735 (86.5)",
+            "62 (3.1)",
+            "8 (0.4)",
+            "27 (1.4)",
+            "81 (4.0)"
+          ]
+        },
+        {
+          "value": "000 to 񮽙50",
+          "rowHeaders": [
+            "30"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics of Participants",
+            "Variable",
+            "Women",
+            "Grade 1-11",
+            "White",
+            "Asian",
+            "Native Hawaiian/other Pacific Islander",
+            "American Indian/Alaska Native",
+            "Hispanic ethnicity"
+          ]
+        },
+        {
+          "value": "000",
+          "rowHeaders": [
+            "30"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics of Participants",
+            "Variable",
+            "Women",
+            "Grade 1-11",
+            "White",
+            "Asian",
+            "Native Hawaiian/other Pacific Islander",
+            "American Indian/Alaska Native",
+            "Hispanic ethnicity"
+          ]
+        },
+        {
+          "value": "567 (28.4)",
+          "rowHeaders": [
+            "30"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics of Participants",
+            "Participants a",
+            "1024 (51.1)",
+            "63 (3.1)",
+            "1735 (86.5)",
+            "62 (3.1)",
+            "8 (0.4)",
+            "27 (1.4)",
+            "81 (4.0)"
+          ]
+        },
+        {
+          "value": "000",
+          "rowHeaders": [
+            "50 000-75"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics of Participants",
+            "Variable",
+            "Women",
+            "Grade 1-11",
+            "White",
+            "Asian",
+            "Native Hawaiian/other Pacific Islander",
+            "American Indian/Alaska Native",
+            "Hispanic ethnicity"
+          ]
+        },
+        {
+          "value": "400 (20.1)",
+          "rowHeaders": [
+            "50 000-75"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics of Participants",
+            "Participants a",
+            "1024 (51.1)",
+            "63 (3.1)",
+            "1735 (86.5)",
+            "62 (3.1)",
+            "8 (0.4)",
+            "27 (1.4)",
+            "81 (4.0)"
+          ]
+        },
+        {
+          "value": "000",
+          "rowHeaders": [
+            "񮽙75"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics of Participants",
+            "Variable",
+            "Women",
+            "Grade 1-11",
+            "White",
+            "Asian",
+            "Native Hawaiian/other Pacific Islander",
+            "American Indian/Alaska Native",
+            "Hispanic ethnicity"
+          ]
+        },
+        {
+          "value": "462 (23.2)",
+          "rowHeaders": [
+            "񮽙75"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics of Participants",
+            "Participants a",
+            "1024 (51.1)",
+            "63 (3.1)",
+            "1735 (86.5)",
+            "62 (3.1)",
+            "8 (0.4)",
+            "27 (1.4)",
+            "81 (4.0)"
+          ]
+        },
+        {
+          "value": "814 (40.6)",
+          "rowHeaders": [
+            "Married"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics of Participants",
+            "Participants a",
+            "1024 (51.1)",
+            "63 (3.1)",
+            "1735 (86.5)",
+            "62 (3.1)",
+            "8 (0.4)",
+            "27 (1.4)",
+            "81 (4.0)"
+          ]
+        },
+        {
+          "value": "309 (15.4)",
+          "rowHeaders": [
+            "Cohabitating"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics of Participants",
+            "Participants a",
+            "1024 (51.1)",
+            "63 (3.1)",
+            "1735 (86.5)",
+            "62 (3.1)",
+            "8 (0.4)",
+            "27 (1.4)",
+            "81 (4.0)"
+          ]
+        },
+        {
+          "value": "405 (20.2)",
+          "rowHeaders": [
+            "Single"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics of Participants",
+            "Participants a",
+            "1024 (51.1)",
+            "63 (3.1)",
+            "1735 (86.5)",
+            "62 (3.1)",
+            "8 (0.4)",
+            "27 (1.4)",
+            "81 (4.0)"
+          ]
+        },
+        {
+          "value": "381 (19.0)",
+          "rowHeaders": [
+            "Divorced"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics of Participants",
+            "Participants a",
+            "1024 (51.1)",
+            "63 (3.1)",
+            "1735 (86.5)",
+            "62 (3.1)",
+            "8 (0.4)",
+            "27 (1.4)",
+            "81 (4.0)",
+            "74 (3.7)"
+          ]
+        },
+        {
+          "value": "187 (9.3)",
+          "rowHeaders": [
+            "Part time"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics of Participants",
+            "Participants a",
+            "1024 (51.1)",
+            "63 (3.1)",
+            "1735 (86.5)",
+            "62 (3.1)",
+            "8 (0.4)",
+            "27 (1.4)",
+            "81 (4.0)",
+            "74 (3.7)",
+            "20 (1.0)",
+            "1430 (71.4)"
+          ]
+        },
+        {
+          "value": "111 (5.5)",
+          "rowHeaders": [
+            "Unemployed"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics of Participants",
+            "Participants a",
+            "1024 (51.1)",
+            "63 (3.1)",
+            "1735 (86.5)",
+            "62 (3.1)",
+            "8 (0.4)",
+            "27 (1.4)",
+            "81 (4.0)",
+            "74 (3.7)",
+            "20 (1.0)",
+            "1430 (71.4)"
+          ]
+        },
+        {
+          "value": "142 (7.1)",
+          "rowHeaders": [
+            "Student"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics of Participants",
+            "Participants a",
+            "1024 (51.1)",
+            "63 (3.1)",
+            "1735 (86.5)",
+            "62 (3.1)",
+            "8 (0.4)",
+            "27 (1.4)",
+            "81 (4.0)",
+            "74 (3.7)",
+            "20 (1.0)",
+            "1430 (71.4)",
+            "91 (4.5)",
+            "42 (2.1)"
+          ]
+        },
+        {
+          "value": "14.21 (3.73)",
+          "rowHeaders": [
+            "Fagerström Test for Nicotine Dependence score,",
+            "Age at first puff, mean (SD), y"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics of Participants",
+            "Participants a",
+            "1024 (51.1)",
+            "63 (3.1)",
+            "1735 (86.5)",
+            "62 (3.1)",
+            "8 (0.4)",
+            "27 (1.4)",
+            "81 (4.0)",
+            "74 (3.7)",
+            "20 (1.0)",
+            "1430 (71.4)",
+            "91 (4.5)",
+            "42 (2.1)"
+          ]
+        },
+        {
+          "value": "17.19 (3.86)",
+          "rowHeaders": [
+            "Fagerström Test for Nicotine Dependence score,",
+            "Age at onset of daily smoking, mean (SD), y"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics of Participants",
+            "Participants a",
+            "1024 (51.1)",
+            "63 (3.1)",
+            "1735 (86.5)",
+            "62 (3.1)",
+            "8 (0.4)",
+            "27 (1.4)",
+            "81 (4.0)",
+            "74 (3.7)",
+            "20 (1.0)",
+            "1430 (71.4)",
+            "91 (4.5)",
+            "42 (2.1)"
+          ]
+        },
+        {
+          "value": "20.00 (9.96)",
+          "rowHeaders": [
+            "Fagerström Test for Nicotine Dependence score,",
+            "Daily smoking rate, mean (SD)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics of Participants",
+            "Participants a",
+            "1024 (51.1)",
+            "63 (3.1)",
+            "1735 (86.5)",
+            "62 (3.1)",
+            "8 (0.4)",
+            "27 (1.4)",
+            "81 (4.0)",
+            "74 (3.7)",
+            "20 (1.0)",
+            "1430 (71.4)",
+            "91 (4.5)",
+            "42 (2.1)"
+          ]
+        },
+        {
+          "value": "3.27 (8.00)",
+          "rowHeaders": [
+            "Fagerström Test for Nicotine Dependence score,",
+            "No. of quit attempts in past year, mean (SD) b"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics of Participants",
+            "Participants a",
+            "1024 (51.1)",
+            "63 (3.1)",
+            "1735 (86.5)",
+            "62 (3.1)",
+            "8 (0.4)",
+            "27 (1.4)",
+            "81 (4.0)",
+            "74 (3.7)",
+            "20 (1.0)",
+            "1430 (71.4)",
+            "91 (4.5)",
+            "42 (2.1)"
+          ]
+        },
+        {
+          "value": "235 (11.7)",
+          "rowHeaders": [
+            "Contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics of Participants",
+            "Participants a",
+            "1024 (51.1)",
+            "63 (3.1)",
+            "1735 (86.5)",
+            "62 (3.1)",
+            "8 (0.4)",
+            "27 (1.4)",
+            "81 (4.0)",
+            "74 (3.7)",
+            "20 (1.0)",
+            "1430 (71.4)",
+            "91 (4.5)",
+            "42 (2.1)",
+            "2 (0.1)"
+          ]
+        },
+        {
+          "value": "5.04 (2.37)",
+          "rowHeaders": [
+            "Fagerström Test for Nicotine Dependence score,"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics of Participants",
+            "Participants a",
+            "1024 (51.1)",
+            "63 (3.1)",
+            "1735 (86.5)",
+            "62 (3.1)",
+            "8 (0.4)",
+            "27 (1.4)",
+            "81 (4.0)",
+            "74 (3.7)",
+            "20 (1.0)",
+            "1430 (71.4)",
+            "91 (4.5)",
+            "42 (2.1)",
+            "2 (0.1)",
+            "1768 (88.2)"
+          ]
+        },
+        {
+          "value": "9.08 (1.29)",
+          "rowHeaders": [
+            "Desire to quit, mean (SD)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics of Participants",
+            "Participants a",
+            "1024 (51.1)",
+            "63 (3.1)",
+            "1735 (86.5)",
+            "62 (3.1)",
+            "8 (0.4)",
+            "27 (1.4)",
+            "81 (4.0)",
+            "74 (3.7)",
+            "20 (1.0)",
+            "1430 (71.4)",
+            "91 (4.5)",
+            "42 (2.1)",
+            "2 (0.1)",
+            "1768 (88.2)"
+          ]
+        },
+        {
+          "value": "6.28 (2.25)",
+          "rowHeaders": [
+            "Confidence in quitting, mean (SD) b"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics of Participants",
+            "Participants a",
+            "1024 (51.1)",
+            "63 (3.1)",
+            "1735 (86.5)",
+            "62 (3.1)",
+            "8 (0.4)",
+            "27 (1.4)",
+            "81 (4.0)",
+            "74 (3.7)",
+            "20 (1.0)",
+            "1430 (71.4)",
+            "91 (4.5)",
+            "42 (2.1)",
+            "2 (0.1)",
+            "1768 (88.2)"
+          ]
+        },
+        {
+          "value": "6.16 (3.23)",
+          "rowHeaders": [
+            "Perceived Stress Scale score, mean (SD) b"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics of Participants",
+            "Participants a",
+            "1024 (51.1)",
+            "63 (3.1)",
+            "1735 (86.5)",
+            "62 (3.1)",
+            "8 (0.4)",
+            "27 (1.4)",
+            "81 (4.0)",
+            "74 (3.7)",
+            "20 (1.0)",
+            "1430 (71.4)",
+            "91 (4.5)",
+            "42 (2.1)",
+            "2 (0.1)",
+            "1768 (88.2)"
+          ]
+        },
+        {
+          "value": "9.23 (5.79)",
+          "rowHeaders": [
+            "Center for Epidemiologic Studies-Depression Scale"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics of Participants",
+            "Participants a",
+            "1024 (51.1)",
+            "63 (3.1)",
+            "1735 (86.5)",
+            "62 (3.1)",
+            "8 (0.4)",
+            "27 (1.4)",
+            "81 (4.0)",
+            "74 (3.7)",
+            "20 (1.0)",
+            "1430 (71.4)",
+            "91 (4.5)",
+            "42 (2.1)",
+            "2 (0.1)",
+            "1768 (88.2)"
+          ]
+        },
+        {
+          "value": "5.41 (1.83)",
+          "rowHeaders": [
+            "Center for Epidemiologic Studies-Depression Scale",
+            "Network diversity, mean (SD) b"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics of Participants",
+            "Participants a",
+            "1024 (51.1)",
+            "63 (3.1)",
+            "1735 (86.5)",
+            "62 (3.1)",
+            "8 (0.4)",
+            "27 (1.4)",
+            "81 (4.0)",
+            "74 (3.7)",
+            "20 (1.0)",
+            "1430 (71.4)",
+            "91 (4.5)",
+            "42 (2.1)",
+            "2 (0.1)",
+            "1768 (88.2)"
+          ]
+        },
+        {
+          "value": "22.60 (16.91)",
+          "rowHeaders": [
+            "Center for Epidemiologic Studies-Depression Scale",
+            "No. of network members, mean (SD) b"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics of Participants",
+            "Participants a",
+            "1024 (51.1)",
+            "63 (3.1)",
+            "1735 (86.5)",
+            "62 (3.1)",
+            "8 (0.4)",
+            "27 (1.4)",
+            "81 (4.0)",
+            "74 (3.7)",
+            "20 (1.0)",
+            "1430 (71.4)",
+            "91 (4.5)",
+            "42 (2.1)",
+            "2 (0.1)",
+            "1768 (88.2)"
+          ]
+        },
+        {
+          "value": "9.79 (2.32)",
+          "rowHeaders": [
+            "Positive subscale"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics of Participants",
+            "Participants a",
+            "1024 (51.1)",
+            "63 (3.1)",
+            "1735 (86.5)",
+            "62 (3.1)",
+            "8 (0.4)",
+            "27 (1.4)",
+            "81 (4.0)",
+            "74 (3.7)",
+            "20 (1.0)",
+            "1430 (71.4)",
+            "91 (4.5)",
+            "42 (2.1)",
+            "2 (0.1)",
+            "1768 (88.2)"
+          ]
+        },
+        {
+          "value": "6.04 (4.22)",
+          "rowHeaders": [
+            "Negative subscale"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics of Participants",
+            "Participants a",
+            "1024 (51.1)",
+            "63 (3.1)",
+            "1735 (86.5)",
+            "62 (3.1)",
+            "8 (0.4)",
+            "27 (1.4)",
+            "81 (4.0)",
+            "74 (3.7)",
+            "20 (1.0)",
+            "1430 (71.4)",
+            "91 (4.5)",
+            "42 (2.1)",
+            "2 (0.1)",
+            "1768 (88.2)"
+          ]
+        },
+        {
+          "value": "3.75 (4.49)",
+          "rowHeaders": [
+            "Center for Epidemiologic Studies-Depression Scale",
+            "Subscale difference, positive-negative"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics of Participants",
+            "Participants a",
+            "1024 (51.1)",
+            "63 (3.1)",
+            "1735 (86.5)",
+            "62 (3.1)",
+            "8 (0.4)",
+            "27 (1.4)",
+            "81 (4.0)",
+            "74 (3.7)",
+            "20 (1.0)",
+            "1430 (71.4)",
+            "91 (4.5)",
+            "42 (2.1)",
+            "2 (0.1)",
+            "1768 (88.2)"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "9.1",
+          "rowHeaders": [
+            "ITT, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "Bl",
+            "62"
+          ]
+        },
+        {
+          "value": "10.4",
+          "rowHeaders": [
+            "ITT, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "EI",
+            "68"
+          ]
+        },
+        {
+          "value": "19.0",
+          "rowHeaders": [
+            "ITT, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "EI 񮽙 P",
+            "128"
+          ]
+        },
+        {
+          "value": "񮽙.001",
+          "rowHeaders": [
+            "ITT, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "All",
+            ". . ."
+          ]
+        },
+        {
+          "value": ".42",
+          "rowHeaders": [
+            "ITT, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "BI vs EI",
+            ". . ."
+          ]
+        },
+        {
+          "value": "񮽙.001",
+          "rowHeaders": [
+            "ITT, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "BI vs EI񮽙 P",
+            ". . ."
+          ]
+        },
+        {
+          "value": "񮽙.001",
+          "rowHeaders": [
+            "ITT, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "EI vs EI񮽙P",
+            ". . ."
+          ]
+        },
+        {
+          "value": "11.6",
+          "rowHeaders": [
+            "Responders, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "Bl",
+            "62"
+          ]
+        },
+        {
+          "value": "13.6",
+          "rowHeaders": [
+            "Responders, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "EI",
+            "68"
+          ]
+        },
+        {
+          "value": "25.9",
+          "rowHeaders": [
+            "Responders, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "EI 񮽙 P",
+            "128"
+          ]
+        },
+        {
+          "value": "񮽙.001",
+          "rowHeaders": [
+            "Responders, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "All",
+            ". . ."
+          ]
+        },
+        {
+          "value": ".31",
+          "rowHeaders": [
+            "Responders, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "BI vs EI",
+            ". . ."
+          ]
+        },
+        {
+          "value": "񮽙.001",
+          "rowHeaders": [
+            "Responders, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "BI vs EI񮽙 P",
+            ". . ."
+          ]
+        },
+        {
+          "value": "񮽙.001",
+          "rowHeaders": [
+            "Responders, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "EI vs EI񮽙P",
+            ". . ."
+          ]
+        },
+        {
+          "value": "12.2",
+          "rowHeaders": [
+            "ITT, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "Bl",
+            "62",
+            "83"
+          ]
+        },
+        {
+          "value": "14.4",
+          "rowHeaders": [
+            "ITT, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "EI",
+            "68",
+            "94"
+          ]
+        },
+        {
+          "value": "19.7",
+          "rowHeaders": [
+            "ITT, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "EI 񮽙 P",
+            "128",
+            "133"
+          ]
+        },
+        {
+          "value": "񮽙.001",
+          "rowHeaders": [
+            "ITT, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "All",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": ".23",
+          "rowHeaders": [
+            "ITT, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "BI vs EI",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": "񮽙.001",
+          "rowHeaders": [
+            "ITT, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "BI vs EI񮽙 P",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": ".01",
+          "rowHeaders": [
+            "ITT, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "EI vs EI񮽙P",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": "15.8",
+          "rowHeaders": [
+            "Responders, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "Bl",
+            "62",
+            "83"
+          ]
+        },
+        {
+          "value": "19.5",
+          "rowHeaders": [
+            "Responders, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "EI",
+            "68",
+            "94"
+          ]
+        },
+        {
+          "value": "27.3",
+          "rowHeaders": [
+            "Responders, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "EI 񮽙 P",
+            "128",
+            "133"
+          ]
+        },
+        {
+          "value": "񮽙.001",
+          "rowHeaders": [
+            "Responders, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "All",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": ".12",
+          "rowHeaders": [
+            "Responders, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "BI vs EI",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": "񮽙.001",
+          "rowHeaders": [
+            "Responders, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "BI vs EI񮽙 P",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": ".004",
+          "rowHeaders": [
+            "Responders, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "EI vs EI񮽙P",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": "17.5",
+          "rowHeaders": [
+            "ITT, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "Bl",
+            "62",
+            "83",
+            "119"
+          ]
+        },
+        {
+          "value": "15.1",
+          "rowHeaders": [
+            "ITT, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "EI",
+            "68",
+            "94",
+            "98"
+          ]
+        },
+        {
+          "value": "21.5",
+          "rowHeaders": [
+            "ITT, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "EI 񮽙 P",
+            "128",
+            "133",
+            "145"
+          ]
+        },
+        {
+          "value": ".009",
+          "rowHeaders": [
+            "ITT, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "All",
+            ". . .",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": ".22",
+          "rowHeaders": [
+            "ITT, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "BI vs EI",
+            ". . .",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": ".07",
+          "rowHeaders": [
+            "ITT, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "BI vs EI񮽙 P",
+            ". . .",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": ".003",
+          "rowHeaders": [
+            "ITT, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "EI vs EI񮽙P",
+            ". . .",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": "24.2",
+          "rowHeaders": [
+            "Responders, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "Bl",
+            "62",
+            "83",
+            "119"
+          ]
+        },
+        {
+          "value": "20.9",
+          "rowHeaders": [
+            "Responders, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "EI",
+            "68",
+            "94",
+            "98"
+          ]
+        },
+        {
+          "value": "30.8",
+          "rowHeaders": [
+            "Responders, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "EI 񮽙 P",
+            "128",
+            "133",
+            "145"
+          ]
+        },
+        {
+          "value": ".002",
+          "rowHeaders": [
+            "Responders, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "All",
+            ". . .",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": ".23",
+          "rowHeaders": [
+            "Responders, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "BI vs EI",
+            ". . .",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": ".02",
+          "rowHeaders": [
+            "Responders, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "BI vs EI񮽙 P",
+            ". . .",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": "񮽙.001",
+          "rowHeaders": [
+            "Responders, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "EI vs EI񮽙P",
+            ". . .",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": "19.0",
+          "rowHeaders": [
+            "ITT, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "Bl",
+            "62",
+            "83",
+            "119",
+            "129"
+          ]
+        },
+        {
+          "value": "17.4",
+          "rowHeaders": [
+            "ITT, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "EI",
+            "68",
+            "94",
+            "98",
+            "113"
+          ]
+        },
+        {
+          "value": "19.6",
+          "rowHeaders": [
+            "ITT, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "EI 񮽙 P",
+            "128",
+            "133",
+            "145",
+            "132"
+          ]
+        },
+        {
+          "value": ".57",
+          "rowHeaders": [
+            "ITT, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "All",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": ".44",
+          "rowHeaders": [
+            "ITT, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "BI vs EI",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": ".80",
+          "rowHeaders": [
+            "ITT, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "BI vs EI񮽙 P",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": ".30",
+          "rowHeaders": [
+            "ITT, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "EI vs EI񮽙P",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": "27.9",
+          "rowHeaders": [
+            "Responders, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "Bl",
+            "62",
+            "83",
+            "119",
+            "129"
+          ]
+        },
+        {
+          "value": "25.2",
+          "rowHeaders": [
+            "Responders, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "EI",
+            "68",
+            "94",
+            "98",
+            "113"
+          ]
+        },
+        {
+          "value": "29.1",
+          "rowHeaders": [
+            "Responders, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "EI 񮽙 P",
+            "128",
+            "133",
+            "145",
+            "132"
+          ]
+        },
+        {
+          "value": ".39",
+          "rowHeaders": [
+            "Responders, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "All",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": ".35",
+          "rowHeaders": [
+            "Responders, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "BI vs EI",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": ".67",
+          "rowHeaders": [
+            "Responders, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "BI vs EI񮽙 P",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": ".18",
+          "rowHeaders": [
+            "Responders, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "EI vs EI񮽙P",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": "9.1",
+          "rowHeaders": [
+            "ITT, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "Bl",
+            "62",
+            "83",
+            "119",
+            "129",
+            "Group",
+            "Bl",
+            "62"
+          ]
+        },
+        {
+          "value": "10.4",
+          "rowHeaders": [
+            "ITT, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "EI",
+            "68",
+            "94",
+            "98",
+            "113",
+            "Group",
+            "EI",
+            "68"
+          ]
+        },
+        {
+          "value": "19.0",
+          "rowHeaders": [
+            "ITT, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "EI 񮽙 P",
+            "128",
+            "133",
+            "145",
+            "132",
+            "Group",
+            "EI񮽙 P",
+            "128"
+          ]
+        },
+        {
+          "value": "񮽙.001",
+          "rowHeaders": [
+            "ITT, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "All",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . .",
+            "Between-Group Comparisons a",
+            "All",
+            ". . ."
+          ]
+        },
+        {
+          "value": ".42",
+          "rowHeaders": [
+            "ITT, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "BI vs EI",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . .",
+            "Between-Group Comparisons a",
+            "BI vs EI",
+            ". . ."
+          ]
+        },
+        {
+          "value": "񮽙.001",
+          "rowHeaders": [
+            "ITT, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "BI vs EI񮽙 P",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . .",
+            "Between-Group Comparisons a",
+            "BI vs EI 񮽙 P",
+            ". . ."
+          ]
+        },
+        {
+          "value": "񮽙.001",
+          "rowHeaders": [
+            "ITT, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "EI vs EI񮽙P",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . .",
+            "Between-Group Comparisons a",
+            "EI vs EI񮽙P",
+            ". . ."
+          ]
+        },
+        {
+          "value": "11.6",
+          "rowHeaders": [
+            "Responders, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "Bl",
+            "62",
+            "83",
+            "119",
+            "129",
+            "Group",
+            "Bl",
+            "62"
+          ]
+        },
+        {
+          "value": "13.6",
+          "rowHeaders": [
+            "Responders, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "EI",
+            "68",
+            "94",
+            "98",
+            "113",
+            "Group",
+            "EI",
+            "68"
+          ]
+        },
+        {
+          "value": "25.9",
+          "rowHeaders": [
+            "Responders, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "EI 񮽙 P",
+            "128",
+            "133",
+            "145",
+            "132",
+            "Group",
+            "EI񮽙 P",
+            "128"
+          ]
+        },
+        {
+          "value": "񮽙.001",
+          "rowHeaders": [
+            "Responders, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "All",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . .",
+            "Between-Group Comparisons a",
+            "All",
+            ". . ."
+          ]
+        },
+        {
+          "value": ".31",
+          "rowHeaders": [
+            "Responders, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "BI vs EI",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . .",
+            "Between-Group Comparisons a",
+            "BI vs EI",
+            ". . ."
+          ]
+        },
+        {
+          "value": "񮽙.001",
+          "rowHeaders": [
+            "Responders, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "BI vs EI񮽙 P",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . .",
+            "Between-Group Comparisons a",
+            "BI vs EI 񮽙 P",
+            ". . ."
+          ]
+        },
+        {
+          "value": "񮽙.001",
+          "rowHeaders": [
+            "Responders, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "EI vs EI񮽙P",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . .",
+            "Between-Group Comparisons a",
+            "EI vs EI񮽙P",
+            ". . ."
+          ]
+        },
+        {
+          "value": "6.6",
+          "rowHeaders": [
+            "ITT, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "Bl",
+            "62",
+            "83",
+            "119",
+            "129",
+            "Group",
+            "Bl",
+            "62",
+            "45"
+          ]
+        },
+        {
+          "value": "7.4",
+          "rowHeaders": [
+            "ITT, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "EI",
+            "68",
+            "94",
+            "98",
+            "113",
+            "Group",
+            "EI",
+            "68",
+            "48"
+          ]
+        },
+        {
+          "value": "12.4",
+          "rowHeaders": [
+            "ITT, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "EI 񮽙 P",
+            "128",
+            "133",
+            "145",
+            "132",
+            "Group",
+            "EI񮽙 P",
+            "128",
+            "84"
+          ]
+        },
+        {
+          "value": "񮽙.001",
+          "rowHeaders": [
+            "ITT, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "All",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . .",
+            "Between-Group Comparisons a",
+            "All",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": ".59",
+          "rowHeaders": [
+            "ITT, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "BI vs EI",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . .",
+            "Between-Group Comparisons a",
+            "BI vs EI",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": "񮽙.001",
+          "rowHeaders": [
+            "ITT, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "BI vs EI񮽙 P",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . .",
+            "Between-Group Comparisons a",
+            "BI vs EI 񮽙 P",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": ".002",
+          "rowHeaders": [
+            "ITT, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "EI vs EI񮽙P",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . .",
+            "Between-Group Comparisons a",
+            "EI vs EI񮽙P",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": "9.4",
+          "rowHeaders": [
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "Bl",
+            "62",
+            "83",
+            "119",
+            "129",
+            "Group",
+            "Bl",
+            "62",
+            "45"
+          ]
+        },
+        {
+          "value": "11.0",
+          "rowHeaders": [
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "EI",
+            "68",
+            "94",
+            "98",
+            "113",
+            "Group",
+            "EI",
+            "68",
+            "48"
+          ]
+        },
+        {
+          "value": "19.8",
+          "rowHeaders": [
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "EI 񮽙 P",
+            "128",
+            "133",
+            "145",
+            "132",
+            "Group",
+            "EI񮽙 P",
+            "128",
+            "84"
+          ]
+        },
+        {
+          "value": "񮽙.001",
+          "rowHeaders": [
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "All",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . .",
+            "Between-Group Comparisons a",
+            "All",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": ".41",
+          "rowHeaders": [
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "BI vs EI",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . .",
+            "Between-Group Comparisons a",
+            "BI vs EI",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": "񮽙.001",
+          "rowHeaders": [
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "BI vs EI񮽙 P",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . .",
+            "Between-Group Comparisons a",
+            "BI vs EI 񮽙 P",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": "񮽙.001",
+          "rowHeaders": [
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "EI vs EI񮽙P",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . .",
+            "Between-Group Comparisons a",
+            "EI vs EI񮽙P",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": "4.6",
+          "rowHeaders": [
+            "ITT, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "Bl",
+            "62",
+            "83",
+            "119",
+            "129",
+            "Group",
+            "Bl",
+            "62",
+            "45",
+            "31"
+          ]
+        },
+        {
+          "value": "4.8",
+          "rowHeaders": [
+            "ITT, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "EI",
+            "68",
+            "94",
+            "98",
+            "113",
+            "Group",
+            "EI",
+            "68",
+            "48",
+            "31"
+          ]
+        },
+        {
+          "value": "9.5",
+          "rowHeaders": [
+            "ITT, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "EI 񮽙 P",
+            "128",
+            "133",
+            "145",
+            "132",
+            "Group",
+            "EI񮽙 P",
+            "128",
+            "84",
+            "64"
+          ]
+        },
+        {
+          "value": "񮽙.001",
+          "rowHeaders": [
+            "ITT, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "All",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . .",
+            "Between-Group Comparisons a",
+            "All",
+            ". . .",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": ".87",
+          "rowHeaders": [
+            "ITT, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "BI vs EI",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . .",
+            "Between-Group Comparisons a",
+            "BI vs EI",
+            ". . .",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": "񮽙.001",
+          "rowHeaders": [
+            "ITT, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "BI vs EI񮽙 P",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . .",
+            "Between-Group Comparisons a",
+            "BI vs EI 񮽙 P",
+            ". . .",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": ".004",
+          "rowHeaders": [
+            "ITT, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "EI vs EI񮽙P",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . .",
+            "Between-Group Comparisons a",
+            "EI vs EI񮽙P",
+            ". . .",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": "7.3",
+          "rowHeaders": [
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "Bl",
+            "62",
+            "83",
+            "119",
+            "129",
+            "Group",
+            "Bl",
+            "62",
+            "45",
+            "31"
+          ]
+        },
+        {
+          "value": "7.9",
+          "rowHeaders": [
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "EI",
+            "68",
+            "94",
+            "98",
+            "113",
+            "Group",
+            "EI",
+            "68",
+            "48",
+            "31"
+          ]
+        },
+        {
+          "value": "17.2",
+          "rowHeaders": [
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "EI 񮽙 P",
+            "128",
+            "133",
+            "145",
+            "132",
+            "Group",
+            "EI񮽙 P",
+            "128",
+            "84",
+            "64"
+          ]
+        },
+        {
+          "value": "񮽙.001",
+          "rowHeaders": [
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "All",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . .",
+            "Between-Group Comparisons a",
+            "All",
+            ". . .",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": ".75",
+          "rowHeaders": [
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "BI vs EI",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . .",
+            "Between-Group Comparisons a",
+            "BI vs EI",
+            ". . .",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": "񮽙.001",
+          "rowHeaders": [
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "BI vs EI񮽙 P",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . .",
+            "Between-Group Comparisons a",
+            "BI vs EI 񮽙 P",
+            ". . .",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": "񮽙.001",
+          "rowHeaders": [
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "EI vs EI񮽙P",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . .",
+            "Between-Group Comparisons a",
+            "EI vs EI񮽙P",
+            ". . .",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": "3.5",
+          "rowHeaders": [
+            "ITT, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "Bl",
+            "62",
+            "83",
+            "119",
+            "129",
+            "Group",
+            "Bl",
+            "62",
+            "45",
+            "31",
+            "24"
+          ]
+        },
+        {
+          "value": "4.5",
+          "rowHeaders": [
+            "ITT, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "EI",
+            "68",
+            "94",
+            "98",
+            "113",
+            "Group",
+            "EI",
+            "68",
+            "48",
+            "31",
+            "29"
+          ]
+        },
+        {
+          "value": "7.7",
+          "rowHeaders": [
+            "ITT, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "EI 񮽙 P",
+            "128",
+            "133",
+            "145",
+            "132",
+            "Group",
+            "EI񮽙 P",
+            "128",
+            "84",
+            "64",
+            "52"
+          ]
+        },
+        {
+          "value": ".002",
+          "rowHeaders": [
+            "ITT, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "All",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . .",
+            "Between-Group Comparisons a",
+            "All",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": ".39",
+          "rowHeaders": [
+            "ITT, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "BI vs EI",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . .",
+            "Between-Group Comparisons a",
+            "BI vs EI",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": ".001",
+          "rowHeaders": [
+            "ITT, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "BI vs EI񮽙 P",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . .",
+            "Between-Group Comparisons a",
+            "BI vs EI 񮽙 P",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": ".02",
+          "rowHeaders": [
+            "ITT, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "EI vs EI񮽙P",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . .",
+            "Between-Group Comparisons a",
+            "EI vs EI񮽙P",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": "6.2",
+          "rowHeaders": [
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "Bl",
+            "62",
+            "83",
+            "119",
+            "129",
+            "Group",
+            "Bl",
+            "62",
+            "45",
+            "31",
+            "24"
+          ]
+        },
+        {
+          "value": "8.2",
+          "rowHeaders": [
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "EI",
+            "68",
+            "94",
+            "98",
+            "113",
+            "Group",
+            "EI",
+            "68",
+            "48",
+            "31",
+            "29"
+          ]
+        },
+        {
+          "value": "15.0",
+          "rowHeaders": [
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "EI 񮽙 P",
+            "128",
+            "133",
+            "145",
+            "132",
+            "Group",
+            "EI񮽙 P",
+            "128",
+            "84",
+            "64",
+            "52"
+          ]
+        },
+        {
+          "value": "񮽙.001",
+          "rowHeaders": [
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "All",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . .",
+            "Between-Group Comparisons a",
+            "All",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": ".30",
+          "rowHeaders": [
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "BI vs EI",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . .",
+            "Between-Group Comparisons a",
+            "BI vs EI",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": "񮽙.001",
+          "rowHeaders": [
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "BI vs EI񮽙 P",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . .",
+            "Between-Group Comparisons a",
+            "BI vs EI 񮽙 P",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": ".005",
+          "rowHeaders": [
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "EI vs EI񮽙P",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . .",
+            "Between-Group Comparisons a",
+            "EI vs EI񮽙P",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . ."
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "9.1",
+          "rowHeaders": [
+            "ITT, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "Bl",
+            "62"
+          ]
+        },
+        {
+          "value": "10.4",
+          "rowHeaders": [
+            "ITT, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "EI",
+            "68"
+          ]
+        },
+        {
+          "value": "19.0",
+          "rowHeaders": [
+            "ITT, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "EI 񮽙 P",
+            "128"
+          ]
+        },
+        {
+          "value": "񮽙.001",
+          "rowHeaders": [
+            "ITT, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "All",
+            ". . ."
+          ]
+        },
+        {
+          "value": ".42",
+          "rowHeaders": [
+            "ITT, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "BI vs EI",
+            ". . ."
+          ]
+        },
+        {
+          "value": "񮽙.001",
+          "rowHeaders": [
+            "ITT, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "BI vs EI񮽙 P",
+            ". . ."
+          ]
+        },
+        {
+          "value": "񮽙.001",
+          "rowHeaders": [
+            "ITT, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "EI vs EI񮽙P",
+            ". . ."
+          ]
+        },
+        {
+          "value": "11.6",
+          "rowHeaders": [
+            "Responders, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "Bl",
+            "62"
+          ]
+        },
+        {
+          "value": "13.6",
+          "rowHeaders": [
+            "Responders, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "EI",
+            "68"
+          ]
+        },
+        {
+          "value": "25.9",
+          "rowHeaders": [
+            "Responders, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "EI 񮽙 P",
+            "128"
+          ]
+        },
+        {
+          "value": "񮽙.001",
+          "rowHeaders": [
+            "Responders, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "All",
+            ". . ."
+          ]
+        },
+        {
+          "value": ".31",
+          "rowHeaders": [
+            "Responders, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "BI vs EI",
+            ". . ."
+          ]
+        },
+        {
+          "value": "񮽙.001",
+          "rowHeaders": [
+            "Responders, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "BI vs EI񮽙 P",
+            ". . ."
+          ]
+        },
+        {
+          "value": "񮽙.001",
+          "rowHeaders": [
+            "Responders, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "EI vs EI񮽙P",
+            ". . ."
+          ]
+        },
+        {
+          "value": "12.2",
+          "rowHeaders": [
+            "ITT, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "Bl",
+            "62",
+            "83"
+          ]
+        },
+        {
+          "value": "14.4",
+          "rowHeaders": [
+            "ITT, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "EI",
+            "68",
+            "94"
+          ]
+        },
+        {
+          "value": "19.7",
+          "rowHeaders": [
+            "ITT, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "EI 񮽙 P",
+            "128",
+            "133"
+          ]
+        },
+        {
+          "value": "񮽙.001",
+          "rowHeaders": [
+            "ITT, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "All",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": ".23",
+          "rowHeaders": [
+            "ITT, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "BI vs EI",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": "񮽙.001",
+          "rowHeaders": [
+            "ITT, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "BI vs EI񮽙 P",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": ".01",
+          "rowHeaders": [
+            "ITT, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "EI vs EI񮽙P",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": "15.8",
+          "rowHeaders": [
+            "Responders, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "Bl",
+            "62",
+            "83"
+          ]
+        },
+        {
+          "value": "19.5",
+          "rowHeaders": [
+            "Responders, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "EI",
+            "68",
+            "94"
+          ]
+        },
+        {
+          "value": "27.3",
+          "rowHeaders": [
+            "Responders, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "EI 񮽙 P",
+            "128",
+            "133"
+          ]
+        },
+        {
+          "value": "񮽙.001",
+          "rowHeaders": [
+            "Responders, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "All",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": ".12",
+          "rowHeaders": [
+            "Responders, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "BI vs EI",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": "񮽙.001",
+          "rowHeaders": [
+            "Responders, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "BI vs EI񮽙 P",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": ".004",
+          "rowHeaders": [
+            "Responders, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "EI vs EI񮽙P",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": "17.5",
+          "rowHeaders": [
+            "ITT, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "Bl",
+            "62",
+            "83",
+            "119"
+          ]
+        },
+        {
+          "value": "15.1",
+          "rowHeaders": [
+            "ITT, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "EI",
+            "68",
+            "94",
+            "98"
+          ]
+        },
+        {
+          "value": "21.5",
+          "rowHeaders": [
+            "ITT, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "EI 񮽙 P",
+            "128",
+            "133",
+            "145"
+          ]
+        },
+        {
+          "value": ".009",
+          "rowHeaders": [
+            "ITT, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "All",
+            ". . .",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": ".22",
+          "rowHeaders": [
+            "ITT, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "BI vs EI",
+            ". . .",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": ".07",
+          "rowHeaders": [
+            "ITT, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "BI vs EI񮽙 P",
+            ". . .",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": ".003",
+          "rowHeaders": [
+            "ITT, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "EI vs EI񮽙P",
+            ". . .",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": "24.2",
+          "rowHeaders": [
+            "Responders, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "Bl",
+            "62",
+            "83",
+            "119"
+          ]
+        },
+        {
+          "value": "20.9",
+          "rowHeaders": [
+            "Responders, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "EI",
+            "68",
+            "94",
+            "98"
+          ]
+        },
+        {
+          "value": "30.8",
+          "rowHeaders": [
+            "Responders, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "EI 񮽙 P",
+            "128",
+            "133",
+            "145"
+          ]
+        },
+        {
+          "value": ".002",
+          "rowHeaders": [
+            "Responders, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "All",
+            ". . .",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": ".23",
+          "rowHeaders": [
+            "Responders, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "BI vs EI",
+            ". . .",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": ".02",
+          "rowHeaders": [
+            "Responders, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "BI vs EI񮽙 P",
+            ". . .",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": "񮽙.001",
+          "rowHeaders": [
+            "Responders, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "EI vs EI񮽙P",
+            ". . .",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": "19.0",
+          "rowHeaders": [
+            "ITT, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "Bl",
+            "62",
+            "83",
+            "119",
+            "129"
+          ]
+        },
+        {
+          "value": "17.4",
+          "rowHeaders": [
+            "ITT, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "EI",
+            "68",
+            "94",
+            "98",
+            "113"
+          ]
+        },
+        {
+          "value": "19.6",
+          "rowHeaders": [
+            "ITT, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "EI 񮽙 P",
+            "128",
+            "133",
+            "145",
+            "132"
+          ]
+        },
+        {
+          "value": ".57",
+          "rowHeaders": [
+            "ITT, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "All",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": ".44",
+          "rowHeaders": [
+            "ITT, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "BI vs EI",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": ".80",
+          "rowHeaders": [
+            "ITT, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "BI vs EI񮽙 P",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": ".30",
+          "rowHeaders": [
+            "ITT, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "EI vs EI񮽙P",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": "27.9",
+          "rowHeaders": [
+            "Responders, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "Bl",
+            "62",
+            "83",
+            "119",
+            "129"
+          ]
+        },
+        {
+          "value": "25.2",
+          "rowHeaders": [
+            "Responders, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "EI",
+            "68",
+            "94",
+            "98",
+            "113"
+          ]
+        },
+        {
+          "value": "29.1",
+          "rowHeaders": [
+            "Responders, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "EI 񮽙 P",
+            "128",
+            "133",
+            "145",
+            "132"
+          ]
+        },
+        {
+          "value": ".39",
+          "rowHeaders": [
+            "Responders, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "All",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": ".35",
+          "rowHeaders": [
+            "Responders, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "BI vs EI",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": ".67",
+          "rowHeaders": [
+            "Responders, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "BI vs EI񮽙 P",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": ".18",
+          "rowHeaders": [
+            "Responders, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "EI vs EI񮽙P",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": "9.1",
+          "rowHeaders": [
+            "ITT, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "Bl",
+            "62",
+            "83",
+            "119",
+            "129",
+            "Group",
+            "Bl",
+            "62"
+          ]
+        },
+        {
+          "value": "10.4",
+          "rowHeaders": [
+            "ITT, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "EI",
+            "68",
+            "94",
+            "98",
+            "113",
+            "Group",
+            "EI",
+            "68"
+          ]
+        },
+        {
+          "value": "19.0",
+          "rowHeaders": [
+            "ITT, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "EI 񮽙 P",
+            "128",
+            "133",
+            "145",
+            "132",
+            "Group",
+            "EI񮽙 P",
+            "128"
+          ]
+        },
+        {
+          "value": "񮽙.001",
+          "rowHeaders": [
+            "ITT, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "All",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . .",
+            "Between-Group Comparisons a",
+            "All",
+            ". . ."
+          ]
+        },
+        {
+          "value": ".42",
+          "rowHeaders": [
+            "ITT, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "BI vs EI",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . .",
+            "Between-Group Comparisons a",
+            "BI vs EI",
+            ". . ."
+          ]
+        },
+        {
+          "value": "񮽙.001",
+          "rowHeaders": [
+            "ITT, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "BI vs EI񮽙 P",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . .",
+            "Between-Group Comparisons a",
+            "BI vs EI 񮽙 P",
+            ". . ."
+          ]
+        },
+        {
+          "value": "񮽙.001",
+          "rowHeaders": [
+            "ITT, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "EI vs EI񮽙P",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . .",
+            "Between-Group Comparisons a",
+            "EI vs EI񮽙P",
+            ". . ."
+          ]
+        },
+        {
+          "value": "11.6",
+          "rowHeaders": [
+            "Responders, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "Bl",
+            "62",
+            "83",
+            "119",
+            "129",
+            "Group",
+            "Bl",
+            "62"
+          ]
+        },
+        {
+          "value": "13.6",
+          "rowHeaders": [
+            "Responders, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "EI",
+            "68",
+            "94",
+            "98",
+            "113",
+            "Group",
+            "EI",
+            "68"
+          ]
+        },
+        {
+          "value": "25.9",
+          "rowHeaders": [
+            "Responders, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "EI 񮽙 P",
+            "128",
+            "133",
+            "145",
+            "132",
+            "Group",
+            "EI񮽙 P",
+            "128"
+          ]
+        },
+        {
+          "value": "񮽙.001",
+          "rowHeaders": [
+            "Responders, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "All",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . .",
+            "Between-Group Comparisons a",
+            "All",
+            ". . ."
+          ]
+        },
+        {
+          "value": ".31",
+          "rowHeaders": [
+            "Responders, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "BI vs EI",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . .",
+            "Between-Group Comparisons a",
+            "BI vs EI",
+            ". . ."
+          ]
+        },
+        {
+          "value": "񮽙.001",
+          "rowHeaders": [
+            "Responders, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "BI vs EI񮽙 P",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . .",
+            "Between-Group Comparisons a",
+            "BI vs EI 񮽙 P",
+            ". . ."
+          ]
+        },
+        {
+          "value": "񮽙.001",
+          "rowHeaders": [
+            "Responders, %",
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "EI vs EI񮽙P",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . .",
+            "Between-Group Comparisons a",
+            "EI vs EI񮽙P",
+            ". . ."
+          ]
+        },
+        {
+          "value": "6.6",
+          "rowHeaders": [
+            "ITT, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "Bl",
+            "62",
+            "83",
+            "119",
+            "129",
+            "Group",
+            "Bl",
+            "62",
+            "45"
+          ]
+        },
+        {
+          "value": "7.4",
+          "rowHeaders": [
+            "ITT, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "EI",
+            "68",
+            "94",
+            "98",
+            "113",
+            "Group",
+            "EI",
+            "68",
+            "48"
+          ]
+        },
+        {
+          "value": "12.4",
+          "rowHeaders": [
+            "ITT, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "EI 񮽙 P",
+            "128",
+            "133",
+            "145",
+            "132",
+            "Group",
+            "EI񮽙 P",
+            "128",
+            "84"
+          ]
+        },
+        {
+          "value": "񮽙.001",
+          "rowHeaders": [
+            "ITT, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "All",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . .",
+            "Between-Group Comparisons a",
+            "All",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": ".59",
+          "rowHeaders": [
+            "ITT, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "BI vs EI",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . .",
+            "Between-Group Comparisons a",
+            "BI vs EI",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": "񮽙.001",
+          "rowHeaders": [
+            "ITT, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "BI vs EI񮽙 P",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . .",
+            "Between-Group Comparisons a",
+            "BI vs EI 񮽙 P",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": ".002",
+          "rowHeaders": [
+            "ITT, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "EI vs EI񮽙P",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . .",
+            "Between-Group Comparisons a",
+            "EI vs EI񮽙P",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": "9.4",
+          "rowHeaders": [
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "Bl",
+            "62",
+            "83",
+            "119",
+            "129",
+            "Group",
+            "Bl",
+            "62",
+            "45"
+          ]
+        },
+        {
+          "value": "11.0",
+          "rowHeaders": [
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "EI",
+            "68",
+            "94",
+            "98",
+            "113",
+            "Group",
+            "EI",
+            "68",
+            "48"
+          ]
+        },
+        {
+          "value": "19.8",
+          "rowHeaders": [
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "EI 񮽙 P",
+            "128",
+            "133",
+            "145",
+            "132",
+            "Group",
+            "EI񮽙 P",
+            "128",
+            "84"
+          ]
+        },
+        {
+          "value": "񮽙.001",
+          "rowHeaders": [
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "All",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . .",
+            "Between-Group Comparisons a",
+            "All",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": ".41",
+          "rowHeaders": [
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "BI vs EI",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . .",
+            "Between-Group Comparisons a",
+            "BI vs EI",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": "񮽙.001",
+          "rowHeaders": [
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "BI vs EI񮽙 P",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . .",
+            "Between-Group Comparisons a",
+            "BI vs EI 񮽙 P",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": "񮽙.001",
+          "rowHeaders": [
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "EI vs EI񮽙P",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . .",
+            "Between-Group Comparisons a",
+            "EI vs EI񮽙P",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": "4.6",
+          "rowHeaders": [
+            "ITT, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "Bl",
+            "62",
+            "83",
+            "119",
+            "129",
+            "Group",
+            "Bl",
+            "62",
+            "45",
+            "31"
+          ]
+        },
+        {
+          "value": "4.8",
+          "rowHeaders": [
+            "ITT, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "EI",
+            "68",
+            "94",
+            "98",
+            "113",
+            "Group",
+            "EI",
+            "68",
+            "48",
+            "31"
+          ]
+        },
+        {
+          "value": "9.5",
+          "rowHeaders": [
+            "ITT, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "EI 񮽙 P",
+            "128",
+            "133",
+            "145",
+            "132",
+            "Group",
+            "EI񮽙 P",
+            "128",
+            "84",
+            "64"
+          ]
+        },
+        {
+          "value": "񮽙.001",
+          "rowHeaders": [
+            "ITT, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "All",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . .",
+            "Between-Group Comparisons a",
+            "All",
+            ". . .",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": ".87",
+          "rowHeaders": [
+            "ITT, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "BI vs EI",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . .",
+            "Between-Group Comparisons a",
+            "BI vs EI",
+            ". . .",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": "񮽙.001",
+          "rowHeaders": [
+            "ITT, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "BI vs EI񮽙 P",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . .",
+            "Between-Group Comparisons a",
+            "BI vs EI 񮽙 P",
+            ". . .",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": ".004",
+          "rowHeaders": [
+            "ITT, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "EI vs EI񮽙P",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . .",
+            "Between-Group Comparisons a",
+            "EI vs EI񮽙P",
+            ". . .",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": "7.3",
+          "rowHeaders": [
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "Bl",
+            "62",
+            "83",
+            "119",
+            "129",
+            "Group",
+            "Bl",
+            "62",
+            "45",
+            "31"
+          ]
+        },
+        {
+          "value": "7.9",
+          "rowHeaders": [
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "EI",
+            "68",
+            "94",
+            "98",
+            "113",
+            "Group",
+            "EI",
+            "68",
+            "48",
+            "31"
+          ]
+        },
+        {
+          "value": "17.2",
+          "rowHeaders": [
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "EI 񮽙 P",
+            "128",
+            "133",
+            "145",
+            "132",
+            "Group",
+            "EI񮽙 P",
+            "128",
+            "84",
+            "64"
+          ]
+        },
+        {
+          "value": "񮽙.001",
+          "rowHeaders": [
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "All",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . .",
+            "Between-Group Comparisons a",
+            "All",
+            ". . .",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": ".75",
+          "rowHeaders": [
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "BI vs EI",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . .",
+            "Between-Group Comparisons a",
+            "BI vs EI",
+            ". . .",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": "񮽙.001",
+          "rowHeaders": [
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "BI vs EI񮽙 P",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . .",
+            "Between-Group Comparisons a",
+            "BI vs EI 񮽙 P",
+            ". . .",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": "񮽙.001",
+          "rowHeaders": [
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "EI vs EI񮽙P",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . .",
+            "Between-Group Comparisons a",
+            "EI vs EI񮽙P",
+            ". . .",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": "3.5",
+          "rowHeaders": [
+            "ITT, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "Bl",
+            "62",
+            "83",
+            "119",
+            "129",
+            "Group",
+            "Bl",
+            "62",
+            "45",
+            "31",
+            "24"
+          ]
+        },
+        {
+          "value": "4.5",
+          "rowHeaders": [
+            "ITT, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "EI",
+            "68",
+            "94",
+            "98",
+            "113",
+            "Group",
+            "EI",
+            "68",
+            "48",
+            "31",
+            "29"
+          ]
+        },
+        {
+          "value": "7.7",
+          "rowHeaders": [
+            "ITT, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "EI 񮽙 P",
+            "128",
+            "133",
+            "145",
+            "132",
+            "Group",
+            "EI񮽙 P",
+            "128",
+            "84",
+            "64",
+            "52"
+          ]
+        },
+        {
+          "value": ".002",
+          "rowHeaders": [
+            "ITT, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "All",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . .",
+            "Between-Group Comparisons a",
+            "All",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": ".39",
+          "rowHeaders": [
+            "ITT, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "BI vs EI",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . .",
+            "Between-Group Comparisons a",
+            "BI vs EI",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": ".001",
+          "rowHeaders": [
+            "ITT, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "BI vs EI񮽙 P",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . .",
+            "Between-Group Comparisons a",
+            "BI vs EI 񮽙 P",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": ".02",
+          "rowHeaders": [
+            "ITT, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "EI vs EI񮽙P",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . .",
+            "Between-Group Comparisons a",
+            "EI vs EI񮽙P",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": "6.2",
+          "rowHeaders": [
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "Bl",
+            "62",
+            "83",
+            "119",
+            "129",
+            "Group",
+            "Bl",
+            "62",
+            "45",
+            "31",
+            "24"
+          ]
+        },
+        {
+          "value": "8.2",
+          "rowHeaders": [
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "EI",
+            "68",
+            "94",
+            "98",
+            "113",
+            "Group",
+            "EI",
+            "68",
+            "48",
+            "31",
+            "29"
+          ]
+        },
+        {
+          "value": "15.0",
+          "rowHeaders": [
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Group",
+            "EI 񮽙 P",
+            "128",
+            "133",
+            "145",
+            "132",
+            "Group",
+            "EI񮽙 P",
+            "128",
+            "84",
+            "64",
+            "52"
+          ]
+        },
+        {
+          "value": "񮽙.001",
+          "rowHeaders": [
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "All",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . .",
+            "Between-Group Comparisons a",
+            "All",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": ".30",
+          "rowHeaders": [
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "BI vs EI",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . .",
+            "Between-Group Comparisons a",
+            "BI vs EI",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": "񮽙.001",
+          "rowHeaders": [
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "BI vs EI񮽙 P",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . .",
+            "Between-Group Comparisons a",
+            "BI vs EI 񮽙 P",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . ."
+          ]
+        },
+        {
+          "value": ".005",
+          "rowHeaders": [
+            "Responders, %"
+          ],
+          "columnHeaders": [
+            "Table 2. Thirty-Day Single Point Prevalence Abstinence Rates for ITT and Responder-Only Samples",
+            "Between-Group Comparisons a",
+            "EI vs EI񮽙P",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . .",
+            "Between-Group Comparisons a",
+            "EI vs EI񮽙P",
+            ". . .",
+            ". . .",
+            ". . .",
+            ". . ."
+          ]
+        }
+      ],
+      "page": 1
+    }
+  ]
+}

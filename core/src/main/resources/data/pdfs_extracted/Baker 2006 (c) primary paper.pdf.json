@@ -1,0 +1,2329 @@
+{
+  "blocks": [
+    {
+      "type": "LINES",
+      "value": "Article A Randomized Controlled Trial of a Smoking Cessation Intervention Among People With a Psychotic Disorder",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Objective: Despite extremely high rates of smoking among individuals with psychotic disorders and the associated financial and health costs, few studies have investigated the efficacy of smoking cessation interventions among this group. The purpose of this study was to compare an integrated psychological and nicotine replacement therapy intervention for people with a psychotic disorder with routine care alone. Method: The authors recruited 298 regular smokers with a psychotic disorder residing in the community and randomly assigned them to a routine care comparison condition (N=151) or an eight-session , individually administered smoking cessation intervention (N=147), which consisted of nicotine replacement therapy , motivational interviewing, and cog-nitive behavior therapy. Outcome variables included continuous and point-prevalence abstinence rates, smoking reduction status, and changes in symptoms and functioning. Results: While there were no overall differences between the treatment group and comparison group in abstinence rates, a significantly higher proportion of smokers who completed all treatment sessions stopped smoking at each of the followup occasions (point-prevalence rates: 3 months, 30.0% versus 6.0%; 6 months, 18.6% versus 4.0%; and 12 months, 18.6% versus 6.6%). Smokers who completed all treatment sessions were also more likely to have achieved continuous abstinence at 3 months (21.4% versus 4.0%). There was a strong dose-response relationship between treatment session attendance and smoking reduction status, with one-half of those who completed the intervention program achieving a 50% or greater reduction in daily cigarette consumption across the follow-ups, relative to less than one-fifth of the comparison subjects. There was no evidence of any associated deterioration in symptoms or functioning. Conclusions: These findings demonstrate the utility of a nicotine replacement therapy plus motivational interviewing/ cognitive behavior therapy smoking cessation intervention among individuals with a psychotic disorder. Further development of more efficacious interventions is required for those who do not respond to existing interventions.",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Indi viduals with a psychotic disorder have consistently been shown to have very high rates of smoking, ranging from 70% to 88%, compared with approximately 50% for psychiatric disorders other than schizophrenia and 25% for the general population (4). Consequently, there is cause for concern because of the serious financial and health costs. It has been estimated that smokers with schizophrenia in the United States spend just over onethird of their weekly income on cigarettes (5). Smokers with psychiatric illnesses are less likely to stop smoking compared with individuals without psychiatric illnesses, probably because of higher levels of nicotine dependence (1). Smoking-related diseases may contribute to reductions in life expectancy, with the most common cause of death among people with schizophrenia being ischemic heart disease (6). Smokers with a psychotic disorder may smoke cigarettes in order to alleviate negative symptoms, cognitive dysfunction, or medication side effects in addition to smoking for many of the same reasons as smokers without a psychiatric illness (3). Paradoxically, smokers with a psychotic disorder have been reported to experience increased psychiatric symptoms, number of hospitalizations, and a need for higher medication doses.\nSeveral small trials have been conducted among smokers with schizophrenia, using combinations of either nicotine replacement therapy or bupropion with group interventions. Such interventions have been shown to be useful among smokers without a mental illness. However, available treatment trials for smokers with schizophrenia have been criticized on methodological grounds, including heterogeneous samples, small sample sizes, and lack of defined interventions and comparison groups, with cessation being achieved among very few participants and recommendations that future smok-BAKER, RICHMOND, HAILE, ET AL.\najp.psychiatryonline.org ing cessation interventions be evaluated using more rigorous methodology. There is also a need to assess smoking outcomes other than cessation (16).\nThe primary purpose of this study was to evaluate the effect of individually administered motivational interviewing and cognitive behavior therapy plus nicotine replacement therapy on smoking cessation or reduction among individuals with a psychotic disorder and, second, to evaluate impact on psychiatric symptoms. It was hypothesized that a greater proportion of participants receiving motivational interviewing/cognitive behavior therapy plus nicotine replacement therapy would report smoking cessation or reduction, relative to a routine care control condition.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "All participants provided written informed consent and were assessed at pretreatment, 3 months (15 weeks after initial assessment), and 6 and 12 months following initial assessment. Participants who met the inclusion criteria were randomly allocated to one of two groups: 1) treatment condition, which included eight individual 1-hour sessions of motivational interviewing and cognitive behavior therapy plus nicotine replacement therapy, in addition to treatment as usual and provision of booklets for smoking cessation (17) and for supporters (18) or 2) comparison condition, which included treatment as usual and the same booklets and assessment schedules; treatment as usual included access to general practitioners and publicly funded community mental health teams. A letter was sent to each participant's general practitioner, case manager, or treating psychiatrist to notify them of the involvement of their patient. Follow-up assessments were conducted by a member of the research team blind to group allocation. Participants were reimbursed $20 for their time, travel, and participation on each assessment occasion.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Participants were 298 smokers with a nonacute psychotic disorder who were recruited from Sydney, Australia and the Newcastle region of NSW, Australia. Referrals were received from community health agencies (82.2%), inpatient psychiatric units (8.3%), and the Neuroscience Institute of Schizophrenia and Allied Disorders schizophrenia register (7.0%). Participants recruited through inpatient units were contacted 2 months postdischarge and invited to take part. Inclusion criteria were at least 18 years of age, smoking at least 15 cigarettes per day, and having an ICD-10 diagnosis of a psychotic disorder. Participants were also required to express an interest in quitting smoking. Exclusion criteria were medical conditions that would preclude use of nicotine patches, being acutely psychotic (in which case, participants were reassessed 1 month postscreening), and having an acquired cognitive impairment.\nParticipants were informed that they would be randomly assigned to one of two conditions at the end of the initial assessment interview, which was achieved simply by asking them to draw a sealed envelope from a set of envelopes in which there was initially an equal distribution of treatment/control allocations at each site. Preferably, treatment sessions were conducted at the research center or at a nearby community clinic. However, if a participant was unable to attend these centers, sessions were conducted in the participant's home. The pretreatment assessment lasted 1.5 hours to 2 hours, while follow-up assessments lasted approximately 1 hour. This research was approved by relevant regional and university ethics committees in Sydney and Newcastle. Any participant who missed three consecutive treatment sessions was considered a treatment dropout.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Key demographic, clinical, and outcome measures are reported in this article. The assessment instruments used have been reported in another article (19) and are described only briefly in this study.\nDiagnostic measures. Diagnosis was determined using the Diagnostic Interview for Psychosis (20), a semistructured interview that confirms diagnosis using the Operational Criteria for Psychosis (21) and produces a diagnostic classification in accordance with ICD-10. The diagnostic categories obtained were later collapsed to match the psychosis categories reported in the Low Prevalence Disorders Study. In addition to providing a clinical diagnosis, the Diagnostic Interview for Psychosis gathered information on sociodemographic characteristics, premorbid adjustment, current symptoms and medication, social functioning, and service utilization. Antipsychotic medication was categorized according to \"atypical\" versus \"typical\" subtypes.\nSmoking outcome measures. The primary smoking outcome measures were continuous abstinence, point-prevalence abstinence, and smoking reduction status. These were all evaluated on an intention-to-treat or program effectiveness basis (23). Secondary smoking outcome analyses were based on the amount of treatment actually received, on a self-selection basis. Continuous abstinence refers to the proportion of participants who reported not smoking at all from the nominated quit date to the current assessment point (3, 6, or 12 months). Point-prevalence abstinence refers to the proportion of participants who had been abstinent for the 7  days preceding the follow-up assessment (16). Smoking reduction status was based on an assessment of whether or not participants had reduced their daily consumption of cigarettes by 50% or greater (including abstinence) relative to baseline (16), which maybe a particularly useful index among individuals with a psychotic disorder (11). Current abstinence from smoking was confirmed using a Micro 11 Smokerlyser, which assesses breath levels of carbon monoxide. A carbon monoxide level of <10 ppm signified that the participant was unlikely to have smoked in the last 8 hours. Nicotine dependence was measured by the Fagerstrom Test for Nicotine Dependence (24). Motivation to stop smoking was measured using the 11-item Readiness and Motivation to Quit Smoking Questionnaire, which provides an elaborated stages of readiness scale, ranging from 0 (precontemplation level 1: not contemplating quitting or cutting down) to 4 (preparation stage).\nMeasures of psychopathology and quality of life. Psychiatric symptoms were assessed using the 24-item Brief Psychiatric Rating Scale (26), the Beck Depression Inventory-II, and the State-Trait Anxiety Inventory (28). General functioning was measured using the 12-item Short Form Survey, which produces mental component scores and physical health component scores, with lower scores indicating greater disability.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The motivational interviewing/cognitive behavior therapy intervention was delivered individually to participants by a trained therapist, who followed a treatment manual written by the authors specifically for this population. Regular supervision with a senior clinical psychologist (A.B.) was provided. Therapists completed a therapist checklist following each treatment session to ensure the treatment protocol was followed and the consistency of treatment maintained. The intervention consisted of six weekly sessions of 1-hour duration followed by two booster sessions at weeks 8 and 10 (eight sessions total). A summary of the sessions is listed below.\nWeek 1: Conducting motivational interviewing (31), comprising feedback from the initial assessment, assessing the good and not so good aspects of smoking, identifying concerns regarding smoking, utilizing the SANE smokefree self-help booklets, setting goals, outlining a treatment plan, and assigning homework. Week 2: Review of the week and homework exercise, assessment of personal triggers and high-risk situations, planning to stop smoking, introduction to coping with urges, devising a craving plan, provision of information about withdrawal symptoms, and a homework assignment. Week 3: Managing withdrawal and cognitive restructuring, reviewing withdrawal symptoms, setting a quit date, discussing the use of nicotine replacement therapy, engaging a support person (if requested), discussing the abstinence/rule violation effect, identifying and challenging unhelpful negative thoughts, and supplying nicotine patches (7 days×21 mg). Week 4: Review of cognitive strategies and skills enhancement, discussion of seemingly irrelevant decisions, development of personal skills and problem solving skills, and supplying nicotine patches (7 days×21 mg). Week 5: Reviewing and consolidating, coping skills training, cigarette refusal skills training, assertiveness and communication skills development, stress management, and supplying nicotine patches (7 days×21 mg). Week 6: Relapse prevention and lifestyle modification, including rationale for relapse prevention, identifying high-risk situations,\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "ajp.psychiatryonline.org (including patches and other methods). At 3 months, 29.8% of the comparison group and 84.0% of the treatment group reported nicotine replacement therapy use during the preceding 3 months. Among members of the treatment group who attended less than five sessions, 58.6% reported nicotine replacement therapy use, compared with 89.2% and 92.3%, respectively, of those who attended five to seven sessions and all treatment sessions, which largely reflects the link between nicotine replacement therapy provision and treatment attendance. At 6 months, 22.4% of the comparison group and 37.5% of the treated group reported nicotine replacement therapy use during the preceding period. By 12 months, the reported rates had converged, with 28.3% of the comparison group and 31.0% of the treated group reporting nicotine replacement therapy use during the preceding 6 months. Reported use of nicotine replacement therapy at 3 months was associated with a net reduction of 8.14 cigarettes per day, in that nicotine replacement therapy users (N=137) reported a reduction of 12.25 (SD=16.96) cigarettes per day compared with 4.11 (SD=10.6) for nonusers (N=106) (p<0.001). Among the latter group, those who subsequently reported nicotine replacement therapy use at 6 months also showed a net reduction of 8.28 cigarettes per day, with new nicotine replacement therapy users (N=12) reporting a reduction of 10.42 (SD=13.29) compared to 2.14 (SD=9.15) for continued nonusers (N=76) (p<0.01). Among participants who shifted from nonuse of nicotine replacement therapy at 6 months to nicotine replacement therapy use at 12 months (N=20), there was a reduction of 4.10 (SD=14.34) cigarettes per day, compared with an increase of 0.49 (SD=8.46) among participants who were nonusers on both occasions (N=131), a net difference of 4.59 cigarettes per day, which was not significant (p=0.04). presents symptom and functioning profiles across phases. There were no significant differences between groups or across occasions for Brief Psychiatric Rating Scale-24 global scores or Short Form Survey-12 physical component scores. State-Trait Anxiety Inventory state anxiety scores reduced significantly from baseline to 3 months, while Beck Depression Inventory-II depression scores were significantly lower at each of the follow-up sessions relative to baseline. Similarly, baseline SF-12 mental component scores were significantly lower than each of the follow-up occasions, indicative of a general improvement in mental functioning. However, there was no significant group-by-time interaction in the nonintention-to-treat analyses, suggesting that any improvements\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Data were analyzed using SPSS for Windows (version 12.0). For the key smoking-related outcome variables, overall intention-totreat analyses (23) were conducted (treatment group versus comparison group), together with subgroup analyses based on patterns of treatment session attendance. For these analyses, missing data were classified either as nonabstinent or as failing to achieve the required rate of reduction. Odds ratios and associated confidence intervals (CI) are also reported, with the comparison group as the reference point (odds ratio=1.00). For the continuous outcome variables (e.g., current tobacco use, symptoms), planned comparisons between assessment phases, from repeated-measures analyses of variance (ANOVAs), were used to examine group differences in patterns of change. As a partial control for the number of statistical tests, the threshold for statistical significance was set at p<0.01.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Overall recruitment and attrition profiles are presented in. Of the 473 individuals referred to the study, 113 were ineligible (23.9%), while an additional 62 (13.1%) declined, leaving a recruited sample of 298 regular smokers with an ICD-10 psychotic disorder.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "As detailed elsewhere (19), there were 156 men and 142 women recruited to the study, with an average age of 37.24 years (SD=11.09 years). The typical participant was Australian born (84.9%), single (65.8%), receiving welfare support (95.6%), and they had not completed senior high school (64.8%). Just over one-half of the study group (56.7%) had a diagnosis of schizophrenia or a schizoaffective disorder. More extensive pretreatment sample characteristics are reported in our earlier article, together with an examination of smoking characteristics and reasons for smoking and quitting.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "As shown in, approximately one-half (47.6%) of the treatment group attended all eight treatment sessions, while one-quarter (23.8%) attended less than five sessions. Patterns of follow-up attendance were considered when preparing data sets for analysis. Participants who did not complete their follow-up assessment within the designated time period (i.e., less than one-half of the time interval between follow-ups) were classified as continuous smokers for the intention-to-treat analyses. Only those who completed  [N=247] at 12 months). However, since only two-thirds (65.1%) of the participants attended all follow-up sessions, the major nonintention-to-treat analyses involved comparisons between pairs of time points. There were no significant differences between groups in follow-up attendance patterns. displays continuous and point-prevalence abstinence rates and smoking reduction status for the 3-, 6-, and 12-month follow-up assessments. In the intention-to-treat analyses, we found no significant overall differences between the treatment group and comparison group in continuous abstinence or point-prevalence abstinence rates measured at 3-, 6-, and 12-months. However, there was a significant difference in smoking reduction status at 3 months, with 43.5% of the treatment group reducing their cigarette consumption by at least 50% relative to baseline, relative to only 16.6% of the comparison group (odds ratio=3.89, p<0.001). At the subsequent follow-up sessions, approximately 30% of the treatment group and 18% of the comparison group reported comparable reductions, although this difference was only significant at 12 months. also reports comparisons between the comparison group and treatment subgroups defined on the basis of their patterns of attendance. There were no baseline differences between these four groups regarding key sociodemographic or clinical variables. Participants who completed all treatment sessions were significantly more likely than the comparison group to have improved at the 3-month followup on all three smoking outcome measures (i.e., continuous and point-prevalence abstinence and reduction status). Relative to the comparison group, participants who completed all treatment sessions were also significantly more likely to be abstinent at the 6-and 12-month followup sessions (point prevalence) and/or to have reduced their consumption by at least 50%. Participants who completed five to seven sessions were also significantly more likely to have decreased their smoking by half at 3 months.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "There were no overall differences in abstinence rates or smoking reduction patterns according to medication status upon entry to the study (atypical versus typical antipsychotic medication), nor did medication status impact on the effects observed for treatment session attendance. At each of the follow-up assessments, all but one of the participants who reported that they were abstinent (31 at 3 months, 20 at 6 months, and 24 at 12 months) produced carbon monoxide levels <10 ppm, the exception being one person at 12 months who reported continued high levels of cannabis use. Under the circumstances, this person was classified as abstinent in the analysis, which is in keeping with accepted practice. and presents profiles for selected smoking-related variables for current smokers at each phase. For nicotine dependence (Fagerstrom Test for Nicotine Dependence scores) and daily cigarette consumption, there were significant reductions from baseline to each of the follow-up sessions. The treatment group also displayed an increase in Fagerstrom Test for Nicotine Dependence scores from 3 months to the subsequent follow-up sessions, relative to smokers in the comparison group, whose nicotine dependence tended to decline. For stage of change, continuing smokers reported a significant decrease in motivation to stop smoking at each of the follow-ups, relative to baseline, as well as a significant decrease from 3 months to 12 months.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "At each follow-up, participants reported on their nicotine replacement therapy use during the preceding period\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "\"James\" was a 37-year-old man with schizophrenia, referred by his local community mental health team. He was taking antipsychotic medication and smoking 50 cigarettes per day, with no attempts to quit in the previous 12 months. James was surprised that he found the two 45-minute assessment sessions to be useful, although somewhat arduous. He commented, \"No one has ever asked me about smoking before ….I've never really thought about it.\" He was randomly allocated to the active treatment condition-a combination of cognitive behaviour therapy, motivational interviewing, and nicotine replacement therapy.\nMost of the initial sessions were spent discussing the ways in which James could best use nicotine replacement therapy and a range of behavioral techniques (e.g., coping with cravings, activity scheduling) to work toward his initial goal of total abstinence from cigarettes. James managed to remain abstinent between weeks 5 and 8, the longest time that he had been without a cigarette. During this time, he also showed more interest in and benefit from cognitivelyfocussed treatment strategies (e.g., cognitive restructuring). He noted, \"The patches are good, but I need more help to stop smoking than that.\" A social event led to a relapse, and strategies to manage these situations were the focus of the remaining sessions.\nAt the end of treatment, James was no longer using nicotine replacement therapy, had reduced his smoking to 15 cigarettes per day, and reflected positively on the treatment experience. He commented, \"At first I was just here for the money ($20 per assessment session) and free stuff (nicotine replacement therapy patches)…but it's been good…it was good to have someone to talk to. I've never really had that before.\" James was able to maintain this reduction over the subsequent 12 months, including one additional serious attempt to quit, lasting approximately 20 days.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "ajp.psychiatryonline.org in symptoms and functioning could not be attributed to specific aspects of the treatment program.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The abstinence results are discussed first, followed by consideration of the smoking reduction findings and other potential intervention effects. One of the major findings was that, at all follow-up occasions, a significantly higher proportion of smokers with a psychotic disorder who completed all treatment sessions were currently abstinent, relative to those in the comparison group (pointprevalence rates: 3 months, 30.0% versus 6.0%; 6 months, 18.6% versus 4.0%; and 12 months, 18.6% versus 6.6%).\nSmokers who completed all treatment sessions were also more likely to have achieved continuous abstinence at 3 months (21.4% versus 4.0%). Moreover, no participants who attended fewer than five treatment sessions reported abstinence at any follow-up point, and very few participants attending five to seven sessions reported that they were abstinent. It appears that if smokers with a psychotic disorder complete all counseling sessions of a smoking cessation intervention (at which nicotine patches are also distributed), then they are more likely to stop smoking than smokers who do not complete those intervention sessions. A similar relationship was also reported in a small, uncontrolled study among smokers with schizophrenia (9). Therapy procedures to enhance completion of smoking cessation interventions (e.g., intervention completion contracts, other reinforcement contingencies) may enhance cessation rates in future studies.\nAs in other studies (e.g., 9, 10, 12), the overall cessation rate achieved at the end of treatment was modest and below that reported among smokers without a psychiatric illness (33). However, the lower cessation rates observed among the current sample are not unexpected, given that people with a chronic mental illness often have higher nicotine dependence (1), smoke more each day, and are less likely to have made previous attempts to stop smoking. From a methodological perspective, researchers seeking a higher degree of certainty in the assessment of current smoking abstinence may also require lower carbon monoxide thresholds (e.g., <3 ppm) (32).\nArguably, there was a more marked (treatment) dose-response relationship evident in the smoking reduction findings. Approximately one-half (41.4% to 57.1%) of the participants who completed the intervention reduced their smoking by at least 50% relative to baseline, compared with less than one-fifth of the comparison group (16.6% to 18.5%). This also extended to those who completed five to seven sessions (at least at 3 months). Given that reducing smoking does not appear to undermine future cessation efforts and may increase motivation, this is a potentially important finding. Ina recent review of published nicotine replacement therapy studies (primarily involving smokers not trying to quit), reported that 12% to 35% of participants receiving the active treatment reduced their daily cigarette consumption by 50% or greater (including abstainers), compared with 3% to 22% among participants in the control condition. The corresponding 12-month data from this study (31.3% versus 17.9%) are generally consistent with these findings, attesting to the value of targeting reduction, not just abstinence.\nThe high numbers of cigarettes smoked and levels of nicotine dependence reported in this study highlights the need for earlier smoking interventions among young people with mental health problems before they become heavy smokers. Current practice guidelines for psychiatrists recommend nicotine replacement therapy use even in early cessation attempts among individuals with psychiatric disorders, as they appear to have more withdrawal symptoms when they stop smoking (35). In our study, nicotine replacement therapy commencement was associated with a net reduction of five to eight cigarettes per day, suggesting that higher doses or a longer duration of nicotine replacement therapy use maybe necessary to obtain additional benefits. More generally, we should further explore the delivery and uptake of smoking interventions in primary care settings as well as any potential barriers (36). There is also an urgent need for further development of more efficacious interventions among smokers with severe mental illnesses who do not respond to interventions such as those evaluated in this study. Pharmacological approaches giving consideration to bupropion (e.g., 13) and Rimonabant, a cannabinoid receptor-1 antagonist (37), or different combinations of nicotine replacement therapy and motivational interviewing/cognitive behavior therapy interventions are worthy of further investigation. Although other studies have reported benefits of atypical versus typical antipsychotic medication on smoking (e.g., 10), our study did not find a significant benefit, and future studies should address this issue. It is also worth considering specific interventions for those starting on a regimen of clozapine, since this is known to decrease cravings (38).\nFurther study is needed to evaluate long-term nicotine replacement therapy use or extended cognitive behavior therapy interventions, allowing for resumption of treatment following relapse. It has also been suggested that smokers who reduce the number of cigarettes smoked should be informed that they should stop smoking but, if unable to do so in the short-term, that reducing smoking can be helpful in increasing their likelihood of quitting (11). Hughes (34) and McChargue and colleagues have suggested that reduction-focused smoking interventions among smokers with schizophrenia who do not wish to abstain from cigarettes should be evaluated, which also takes into account medication impacts and changes. The finding that individuals who continue smoking reported a significant decrease in motivation to stop smoking is not at odds with these recommendations by Hughes and McChargue et al. and probably reflects relatively high levels of BAKER, RICHMOND, HAILE, ET AL.\najp.psychiatryonline.org motivation at the point of recruitment, rather than negative expectations associated with ongoing study participation. There are also important financial and health benefits of smoking reduction among individuals with severe mental illnesses. Another important finding was that there was a significant improvement for the study groups as a whole on several mental health measures and no worsening of psychotic symptoms over time), which is consistent with other studies (e.g., 9, 10). Thus, the evidence suggests that participation in a smoking cessation study is not associated with the worsening of symptoms.\nOur study is currently the largest randomized controlled trial of a smoking intervention among individuals with a psychotic disorder. Since there was no control for therapy time, the possibility exists that the superior outcomes for the smoking intervention participants were because of additional therapist attention and support rather than the specific motivational interviewing/cognitive behavior therapy and nicotine replacement therapy intervention. However, this seems unlikely given the levels of dependence in this study and the evidence supporting the efficacy of combined nicotine replacement therapy and motivational interviewing/cognitive behavior therapy among nonpsychiatric populations. Given the ubiquitous nature of smoking among people with a psychotic disorder, the heavy costs of smoking among this group and the modest but encouraging findings, further randomized controlled trials examining more comprehensive interventions are probably required as well as assessments of the long-term outcomes of smoking cessation and reduction interventions.\n",
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "4.0",
+          "rowHeaders": [
+            "Comparison group (N=151)"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "3 Months",
+            "Odds",
+            "%"
+          ]
+        },
+        {
+          "value": "1.00",
+          "rowHeaders": [
+            "Comparison group (N=151)"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "3 Months",
+            "Odds",
+            "Ratio"
+          ]
+        },
+        {
+          "value": "2.0",
+          "rowHeaders": [
+            "Comparison group (N=151)",
+            "b",
+            "0.83-10.53"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "6 Months",
+            "Odds",
+            "%"
+          ]
+        },
+        {
+          "value": "1.00",
+          "rowHeaders": [
+            "Comparison group (N=151)",
+            "b",
+            "0.83-10.53"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "6 Months",
+            "Odds",
+            "Ratio"
+          ]
+        },
+        {
+          "value": "0.7",
+          "rowHeaders": [
+            "Comparison group (N=151)",
+            "b",
+            "0.83-10.53",
+            "b",
+            "0.48-16.67"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "12 Months",
+            "Odds",
+            "%"
+          ]
+        },
+        {
+          "value": "1.00",
+          "rowHeaders": [
+            "Comparison group (N=151)",
+            "b",
+            "0.83-10.53",
+            "b",
+            "0.48-16.67"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "12 Months",
+            "Odds",
+            "Ratio"
+          ]
+        },
+        {
+          "value": "10.9",
+          "rowHeaders": [
+            "Treatment group (N=147)"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "3 Months",
+            "Odds",
+            "%"
+          ]
+        },
+        {
+          "value": "2.95",
+          "rowHeaders": [
+            "Treatment group (N=147)"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "3 Months",
+            "Odds",
+            "Ratio"
+          ]
+        },
+        {
+          "value": "5.4",
+          "rowHeaders": [
+            "Treatment group (N=147)",
+            "b",
+            "0.83-10.53"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "6 Months",
+            "Odds",
+            "%"
+          ]
+        },
+        {
+          "value": "2.84",
+          "rowHeaders": [
+            "Treatment group (N=147)",
+            "b",
+            "0.83-10.53"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "6 Months",
+            "Odds",
+            "Ratio"
+          ]
+        },
+        {
+          "value": "3.4",
+          "rowHeaders": [
+            "Treatment group (N=147)",
+            "b",
+            "0.83-10.53",
+            "b",
+            "0.48-16.67"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "12 Months",
+            "Odds",
+            "%"
+          ]
+        },
+        {
+          "value": "5.28",
+          "rowHeaders": [
+            "Treatment group (N=147)",
+            "b",
+            "0.83-10.53",
+            "b",
+            "0.48-16.67"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "12 Months",
+            "Odds",
+            "Ratio"
+          ]
+        },
+        {
+          "value": "0.0",
+          "rowHeaders": [
+            "(N=35)"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "3 Months",
+            "Odds",
+            "%"
+          ]
+        },
+        {
+          "value": "0.0",
+          "rowHeaders": [
+            "(N=35)",
+            "b",
+            "0.83-10.53"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "6 Months",
+            "Odds",
+            "%"
+          ]
+        },
+        {
+          "value": "0.0",
+          "rowHeaders": [
+            "(N=35)",
+            "b",
+            "0.83-10.53",
+            "b",
+            "0.48-16.67"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "12 Months",
+            "Odds",
+            "%"
+          ]
+        },
+        {
+          "value": "2.4",
+          "rowHeaders": [
+            "(N=42)"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "3 Months",
+            "Odds",
+            "%"
+          ]
+        },
+        {
+          "value": "0.59",
+          "rowHeaders": [
+            "(N=42)"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "3 Months",
+            "Odds",
+            "Ratio"
+          ]
+        },
+        {
+          "value": "2.4",
+          "rowHeaders": [
+            "(N=42)",
+            "b",
+            "0.04-9.88"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "6 Months",
+            "Odds",
+            "%"
+          ]
+        },
+        {
+          "value": "1.20",
+          "rowHeaders": [
+            "(N=42)",
+            "b",
+            "0.04-9.88"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "6 Months",
+            "Odds",
+            "Ratio"
+          ]
+        },
+        {
+          "value": "0.0",
+          "rowHeaders": [
+            "(N=42)",
+            "b",
+            "0.04-9.88",
+            "b",
+            "0.06-24.38"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "12 Months",
+            "Odds",
+            "%"
+          ]
+        },
+        {
+          "value": "21.4",
+          "rowHeaders": [
+            "(N=70)"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "3 Months",
+            "Odds",
+            "%"
+          ]
+        },
+        {
+          "value": "6.59**",
+          "rowHeaders": [
+            "(N=70)"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "3 Months",
+            "Odds",
+            "Ratio"
+          ]
+        },
+        {
+          "value": "10.0",
+          "rowHeaders": [
+            "(N=70)",
+            "b",
+            "1.78-24.41"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "6 Months",
+            "Odds",
+            "%"
+          ]
+        },
+        {
+          "value": "5.48",
+          "rowHeaders": [
+            "(N=70)",
+            "b",
+            "1.78-24.41"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "6 Months",
+            "Odds",
+            "Ratio"
+          ]
+        },
+        {
+          "value": "7.1",
+          "rowHeaders": [
+            "(N=70)",
+            "b",
+            "1.78-24.41",
+            "b",
+            "0.89-33.81"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "12 Months",
+            "Odds",
+            "%"
+          ]
+        },
+        {
+          "value": "11.54",
+          "rowHeaders": [
+            "(N=70)",
+            "b",
+            "1.78-24.41",
+            "b",
+            "0.89-33.81"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "12 Months",
+            "Odds",
+            "Ratio"
+          ]
+        },
+        {
+          "value": "6.0",
+          "rowHeaders": [
+            "Comparison group (N=151)"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "3 Months",
+            "Odds",
+            "%"
+          ]
+        },
+        {
+          "value": "1.00",
+          "rowHeaders": [
+            "Comparison group (N=151)"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "3 Months",
+            "Odds",
+            "Ratio"
+          ]
+        },
+        {
+          "value": "4.0",
+          "rowHeaders": [
+            "Comparison group (N=151)",
+            "b",
+            "0.96-8.07"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "6 Months",
+            "Odds",
+            "%"
+          ]
+        },
+        {
+          "value": "1.00",
+          "rowHeaders": [
+            "Comparison group (N=151)",
+            "b",
+            "1.78-24.41"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "6 Months",
+            "Odds",
+            "Ratio"
+          ]
+        },
+        {
+          "value": "6.6",
+          "rowHeaders": [
+            "Comparison group (N=151)",
+            "b",
+            "1.78-24.41",
+            "b",
+            "0.70-9.28"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "12 Months",
+            "Odds",
+            "%"
+          ]
+        },
+        {
+          "value": "1.00",
+          "rowHeaders": [
+            "Comparison group (N=151)",
+            "b",
+            "1.78-24.41",
+            "b",
+            "0.89-33.81"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "12 Months",
+            "Odds",
+            "Ratio"
+          ]
+        },
+        {
+          "value": "15.0",
+          "rowHeaders": [
+            "Treatment group (N=147)"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "3 Months",
+            "Odds",
+            "%"
+          ]
+        },
+        {
+          "value": "2.78",
+          "rowHeaders": [
+            "Treatment group (N=147)"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "3 Months",
+            "Odds",
+            "Ratio"
+          ]
+        },
+        {
+          "value": "9.5",
+          "rowHeaders": [
+            "Treatment group (N=147)",
+            "b",
+            "0.96-8.07"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "6 Months",
+            "Odds",
+            "%"
+          ]
+        },
+        {
+          "value": "2.54",
+          "rowHeaders": [
+            "Treatment group (N=147)",
+            "b",
+            "0.96-8.07"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "6 Months",
+            "Odds",
+            "Ratio"
+          ]
+        },
+        {
+          "value": "10.9",
+          "rowHeaders": [
+            "Treatment group (N=147)",
+            "b",
+            "0.96-8.07",
+            "b",
+            "0.70-9.28"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "12 Months",
+            "Odds",
+            "%"
+          ]
+        },
+        {
+          "value": "1.72",
+          "rowHeaders": [
+            "Treatment group (N=147)",
+            "b",
+            "0.96-8.07",
+            "b",
+            "0.70-9.28"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "12 Months",
+            "Odds",
+            "Ratio"
+          ]
+        },
+        {
+          "value": "0.0",
+          "rowHeaders": [
+            "(N=35)"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "3 Months",
+            "Odds",
+            "%"
+          ]
+        },
+        {
+          "value": "0.0",
+          "rowHeaders": [
+            "(N=35)",
+            "b",
+            "0.96-8.07"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "6 Months",
+            "Odds",
+            "%"
+          ]
+        },
+        {
+          "value": "0.0",
+          "rowHeaders": [
+            "(N=35)",
+            "b",
+            "2.23-20.55",
+            "b",
+            "0.70-9.28"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "12 Months",
+            "Odds",
+            "%"
+          ]
+        },
+        {
+          "value": "2.4",
+          "rowHeaders": [
+            "(N=42)"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "3 Months",
+            "Odds",
+            "%"
+          ]
+        },
+        {
+          "value": "0.39",
+          "rowHeaders": [
+            "(N=42)"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "3 Months",
+            "Odds",
+            "Ratio"
+          ]
+        },
+        {
+          "value": "2.4",
+          "rowHeaders": [
+            "(N=42)",
+            "b",
+            "0.03-6.04"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "6 Months",
+            "Odds",
+            "%"
+          ]
+        },
+        {
+          "value": "0.59",
+          "rowHeaders": [
+            "(N=42)",
+            "b",
+            "0.03-6.04"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "6 Months",
+            "Odds",
+            "Ratio"
+          ]
+        },
+        {
+          "value": "7.1",
+          "rowHeaders": [
+            "(N=42)",
+            "b",
+            "0.03-6.04",
+            "b",
+            "0.04-9.88"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "12 Months",
+            "Odds",
+            "%"
+          ]
+        },
+        {
+          "value": "1.09",
+          "rowHeaders": [
+            "(N=42)",
+            "b",
+            "0.03-6.04",
+            "b",
+            "0.04-9.88"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "12 Months",
+            "Odds",
+            "Ratio"
+          ]
+        },
+        {
+          "value": "30.0",
+          "rowHeaders": [
+            "(N=70)"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "3 Months",
+            "Odds",
+            "%"
+          ]
+        },
+        {
+          "value": "18.6",
+          "rowHeaders": [
+            "(N=70)",
+            "b",
+            "6.76**",
+            "2.23-20.55"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "6 Months",
+            "Odds",
+            "%"
+          ]
+        },
+        {
+          "value": "5.51**",
+          "rowHeaders": [
+            "(N=70)",
+            "b",
+            "6.76**",
+            "2.23-20.55"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "6 Months",
+            "Odds",
+            "Ratio"
+          ]
+        },
+        {
+          "value": "18.6",
+          "rowHeaders": [
+            "(N=70)",
+            "b",
+            "6.76**",
+            "2.23-20.55",
+            "b",
+            "1.45-20.91"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "12 Months",
+            "Odds",
+            "%"
+          ]
+        },
+        {
+          "value": "3.22*",
+          "rowHeaders": [
+            "(N=70)",
+            "b",
+            "6.76**",
+            "2.23-20.55",
+            "b",
+            "1.45-20.91"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "12 Months",
+            "Odds",
+            "Ratio"
+          ]
+        },
+        {
+          "value": "16.6",
+          "rowHeaders": [
+            "Comparison group (N=151)"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "3 Months",
+            "Odds",
+            "%"
+          ]
+        },
+        {
+          "value": "1.00",
+          "rowHeaders": [
+            "Comparison group (N=151)"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "3 Months",
+            "Odds",
+            "Ratio"
+          ]
+        },
+        {
+          "value": "18.5",
+          "rowHeaders": [
+            "Comparison group (N=151)",
+            "b",
+            "1.91-7.89"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "6 Months",
+            "Odds",
+            "%"
+          ]
+        },
+        {
+          "value": "1.00",
+          "rowHeaders": [
+            "Comparison group (N=151)",
+            "b",
+            "1.91-7.89"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "6 Months",
+            "Odds",
+            "Ratio"
+          ]
+        },
+        {
+          "value": "17.9",
+          "rowHeaders": [
+            "Comparison group (N=151)",
+            "b",
+            "2.23-20.55",
+            "b",
+            "0.92-3.82"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "12 Months",
+            "Odds",
+            "%"
+          ]
+        },
+        {
+          "value": "1.00",
+          "rowHeaders": [
+            "Comparison group (N=151)",
+            "b",
+            "2.23-20.55",
+            "b",
+            "0.92-3.82"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "12 Months",
+            "Odds",
+            "Ratio"
+          ]
+        },
+        {
+          "value": "43.5",
+          "rowHeaders": [
+            "Treatment group (N=147)"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "3 Months",
+            "Odds",
+            "%"
+          ]
+        },
+        {
+          "value": "3.89 **",
+          "rowHeaders": [
+            "Treatment group (N=147)"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "3 Months",
+            "Odds",
+            "Ratio"
+          ]
+        },
+        {
+          "value": "29.9",
+          "rowHeaders": [
+            "Treatment group (N=147)",
+            "b",
+            "1.91-7.89"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "6 Months",
+            "Odds",
+            "%"
+          ]
+        },
+        {
+          "value": "1.88",
+          "rowHeaders": [
+            "Treatment group (N=147)",
+            "b",
+            "1.91-7.89"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "6 Months",
+            "Odds",
+            "Ratio"
+          ]
+        },
+        {
+          "value": "31.3",
+          "rowHeaders": [
+            "Treatment group (N=147)",
+            "b",
+            "1.91-7.89",
+            "b",
+            "0.92-3.82"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "12 Months",
+            "Odds",
+            "%"
+          ]
+        },
+        {
+          "value": "2.09 *",
+          "rowHeaders": [
+            "Treatment group (N=147)",
+            "b",
+            "1.91-7.89",
+            "b",
+            "0.92-3.82"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "12 Months",
+            "Odds",
+            "Ratio"
+          ]
+        },
+        {
+          "value": "20.0",
+          "rowHeaders": [
+            "(N=35)"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "3 Months",
+            "Odds",
+            "%"
+          ]
+        },
+        {
+          "value": "1.26",
+          "rowHeaders": [
+            "(N=35)"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "3 Months",
+            "Odds",
+            "Ratio"
+          ]
+        },
+        {
+          "value": "14.3",
+          "rowHeaders": [
+            "(N=35)",
+            "b",
+            "0.37-4.29"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "6 Months",
+            "Odds",
+            "%"
+          ]
+        },
+        {
+          "value": "0.73",
+          "rowHeaders": [
+            "(N=35)",
+            "b",
+            "0.37-4.29"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "6 Months",
+            "Odds",
+            "Ratio"
+          ]
+        },
+        {
+          "value": "11.4",
+          "rowHeaders": [
+            "(N=35)",
+            "b",
+            "0.37-4.29",
+            "b",
+            "0.19-2.84"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "12 Months",
+            "Odds",
+            "%"
+          ]
+        },
+        {
+          "value": "0.59",
+          "rowHeaders": [
+            "(N=35)",
+            "b",
+            "0.37-4.29",
+            "b",
+            "0.19-2.84"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "12 Months",
+            "Odds",
+            "Ratio"
+          ]
+        },
+        {
+          "value": "40.5",
+          "rowHeaders": [
+            "(N=42)"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "3 Months",
+            "Odds",
+            "%"
+          ]
+        },
+        {
+          "value": "3.43*",
+          "rowHeaders": [
+            "(N=42)"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "3 Months",
+            "Odds",
+            "Ratio"
+          ]
+        },
+        {
+          "value": "23.8",
+          "rowHeaders": [
+            "(N=42)",
+            "b",
+            "1.28-9.19"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "6 Months",
+            "Odds",
+            "%"
+          ]
+        },
+        {
+          "value": "1.37",
+          "rowHeaders": [
+            "(N=42)",
+            "b",
+            "1.28-9.19"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "6 Months",
+            "Odds",
+            "Ratio"
+          ]
+        },
+        {
+          "value": "21.4",
+          "rowHeaders": [
+            "(N=42)",
+            "b",
+            "1.28-9.19",
+            "b",
+            "0.47-4.03"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "12 Months",
+            "Odds",
+            "%"
+          ]
+        },
+        {
+          "value": "1.25",
+          "rowHeaders": [
+            "(N=42)",
+            "b",
+            "1.28-9.19",
+            "b",
+            "0.47-4.03"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "12 Months",
+            "Odds",
+            "Ratio"
+          ]
+        },
+        {
+          "value": "57.1",
+          "rowHeaders": [
+            "(N=70)"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "3 Months",
+            "Odds",
+            "%"
+          ]
+        },
+        {
+          "value": "6.72**",
+          "rowHeaders": [
+            "(N=70)"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "3 Months",
+            "Odds",
+            "Ratio"
+          ]
+        },
+        {
+          "value": "41.4",
+          "rowHeaders": [
+            "(N=70)",
+            "b",
+            "2.90-15.56"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "6 Months",
+            "Odds",
+            "%"
+          ]
+        },
+        {
+          "value": "3.11**",
+          "rowHeaders": [
+            "(N=70)",
+            "b",
+            "2.90-15.56"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "6 Months",
+            "Odds",
+            "Ratio"
+          ]
+        },
+        {
+          "value": "47.1",
+          "rowHeaders": [
+            "(N=70)",
+            "b",
+            "2.90-15.56",
+            "b",
+            "1.36-7.09"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "12 Months",
+            "Odds",
+            "%"
+          ]
+        },
+        {
+          "value": "4.10**",
+          "rowHeaders": [
+            "(N=70)",
+            "b",
+            "2.90-15.56",
+            "b",
+            "1.36-7.09"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Continuous and Point-Prevalence Abstinence Rates and Smoking Reduction Status a",
+            "12 Months",
+            "Odds",
+            "Ratio"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "8.21",
+          "rowHeaders": [
+            "Baseline (N=151)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Tobacco Use and Related Variables for Smokers at Each Phase",
+            "a",
+            "Nicotine Dependence",
+            "Mean"
+          ]
+        },
+        {
+          "value": "2.05",
+          "rowHeaders": [
+            "Baseline (N=151)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Tobacco Use and Related Variables for Smokers at Each Phase",
+            "a",
+            "Nicotine Dependence",
+            "SD"
+          ]
+        },
+        {
+          "value": "3.02",
+          "rowHeaders": [
+            "Baseline (N=151)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Tobacco Use and Related Variables for Smokers at Each Phase",
+            "Stage of Changeb",
+            "Mean"
+          ]
+        },
+        {
+          "value": "1.04",
+          "rowHeaders": [
+            "Baseline (N=151)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Tobacco Use and Related Variables for Smokers at Each Phase",
+            "Stage of Changeb",
+            "SD"
+          ]
+        },
+        {
+          "value": "6.62",
+          "rowHeaders": [
+            "3 months (N=113)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Tobacco Use and Related Variables for Smokers at Each Phase",
+            "a",
+            "Nicotine Dependence",
+            "Mean"
+          ]
+        },
+        {
+          "value": "1.93",
+          "rowHeaders": [
+            "3 months (N=113)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Tobacco Use and Related Variables for Smokers at Each Phase",
+            "a",
+            "Nicotine Dependence",
+            "SD"
+          ]
+        },
+        {
+          "value": "2.56",
+          "rowHeaders": [
+            "3 months (N=113)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Tobacco Use and Related Variables for Smokers at Each Phase",
+            "Stage of Changeb",
+            "Mean"
+          ]
+        },
+        {
+          "value": "1.15",
+          "rowHeaders": [
+            "3 months (N=113)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Tobacco Use and Related Variables for Smokers at Each Phase",
+            "Stage of Changeb",
+            "SD"
+          ]
+        },
+        {
+          "value": "6.14",
+          "rowHeaders": [
+            "6 months (N=107)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Tobacco Use and Related Variables for Smokers at Each Phase",
+            "a",
+            "Nicotine Dependence",
+            "Mean"
+          ]
+        },
+        {
+          "value": "2.32",
+          "rowHeaders": [
+            "6 months (N=107)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Tobacco Use and Related Variables for Smokers at Each Phase",
+            "a",
+            "Nicotine Dependence",
+            "SD"
+          ]
+        },
+        {
+          "value": "2.42",
+          "rowHeaders": [
+            "6 months (N=107)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Tobacco Use and Related Variables for Smokers at Each Phase",
+            "Stage of Changeb",
+            "Mean"
+          ]
+        },
+        {
+          "value": "1.23",
+          "rowHeaders": [
+            "6 months (N=107)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Tobacco Use and Related Variables for Smokers at Each Phase",
+            "Stage of Changeb",
+            "SD"
+          ]
+        },
+        {
+          "value": "6.43",
+          "rowHeaders": [
+            "12 months (N=109)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Tobacco Use and Related Variables for Smokers at Each Phase",
+            "a",
+            "Nicotine Dependence",
+            "Mean"
+          ]
+        },
+        {
+          "value": "2.09",
+          "rowHeaders": [
+            "12 months (N=109)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Tobacco Use and Related Variables for Smokers at Each Phase",
+            "a",
+            "Nicotine Dependence",
+            "SD"
+          ]
+        },
+        {
+          "value": "2.23",
+          "rowHeaders": [
+            "12 months (N=109)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Tobacco Use and Related Variables for Smokers at Each Phase",
+            "Stage of Changeb",
+            "Mean"
+          ]
+        },
+        {
+          "value": "1.32",
+          "rowHeaders": [
+            "12 months (N=109)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Tobacco Use and Related Variables for Smokers at Each Phase",
+            "Stage of Changeb",
+            "SD"
+          ]
+        },
+        {
+          "value": "7.90",
+          "rowHeaders": [
+            "Baseline (N=147)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Tobacco Use and Related Variables for Smokers at Each Phase",
+            "a",
+            "Nicotine Dependence",
+            "Mean"
+          ]
+        },
+        {
+          "value": "2.11",
+          "rowHeaders": [
+            "Baseline (N=147)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Tobacco Use and Related Variables for Smokers at Each Phase",
+            "a",
+            "Nicotine Dependence",
+            "SD"
+          ]
+        },
+        {
+          "value": "3.28",
+          "rowHeaders": [
+            "Baseline (N=147)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Tobacco Use and Related Variables for Smokers at Each Phase",
+            "Stage of Changeb",
+            "Mean"
+          ]
+        },
+        {
+          "value": "0.73",
+          "rowHeaders": [
+            "Baseline (N=147)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Tobacco Use and Related Variables for Smokers at Each Phase",
+            "Stage of Changeb",
+            "SD"
+          ]
+        },
+        {
+          "value": "5.63",
+          "rowHeaders": [
+            "3 months (N=107)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Tobacco Use and Related Variables for Smokers at Each Phase",
+            "a",
+            "Nicotine Dependence",
+            "Mean"
+          ]
+        },
+        {
+          "value": "2.52",
+          "rowHeaders": [
+            "3 months (N=107)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Tobacco Use and Related Variables for Smokers at Each Phase",
+            "a",
+            "Nicotine Dependence",
+            "SD"
+          ]
+        },
+        {
+          "value": "2.75",
+          "rowHeaders": [
+            "3 months (N=107)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Tobacco Use and Related Variables for Smokers at Each Phase",
+            "Stage of Changeb",
+            "Mean"
+          ]
+        },
+        {
+          "value": "1.22",
+          "rowHeaders": [
+            "3 months (N=107)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Tobacco Use and Related Variables for Smokers at Each Phase",
+            "Stage of Changeb",
+            "SD"
+          ]
+        },
+        {
+          "value": "6.15",
+          "rowHeaders": [
+            "6 months (N=110)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Tobacco Use and Related Variables for Smokers at Each Phase",
+            "a",
+            "Nicotine Dependence",
+            "Mean"
+          ]
+        },
+        {
+          "value": "2.45",
+          "rowHeaders": [
+            "6 months (N=110)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Tobacco Use and Related Variables for Smokers at Each Phase",
+            "a",
+            "Nicotine Dependence",
+            "SD"
+          ]
+        },
+        {
+          "value": "2.49",
+          "rowHeaders": [
+            "6 months (N=110)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Tobacco Use and Related Variables for Smokers at Each Phase",
+            "Stage of Changeb",
+            "Mean"
+          ]
+        },
+        {
+          "value": "1.27",
+          "rowHeaders": [
+            "6 months (N=110)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Tobacco Use and Related Variables for Smokers at Each Phase",
+            "Stage of Changeb",
+            "SD"
+          ]
+        },
+        {
+          "value": "6.22",
+          "rowHeaders": [
+            "12 months (N=108)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Tobacco Use and Related Variables for Smokers at Each Phase",
+            "a",
+            "Nicotine Dependence",
+            "Mean"
+          ]
+        },
+        {
+          "value": "2.35",
+          "rowHeaders": [
+            "12 months (N=108)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Tobacco Use and Related Variables for Smokers at Each Phase",
+            "a",
+            "Nicotine Dependence",
+            "SD"
+          ]
+        },
+        {
+          "value": "2.31",
+          "rowHeaders": [
+            "12 months (N=108)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Tobacco Use and Related Variables for Smokers at Each Phase",
+            "Stage of Changeb",
+            "Mean"
+          ]
+        },
+        {
+          "value": "1.31",
+          "rowHeaders": [
+            "12 months (N=108)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Tobacco Use and Related Variables for Smokers at Each Phase",
+            "Stage of Changeb",
+            "SD"
+          ]
+        },
+        {
+          "value": "75.56, df=1, 215, p<0.001) as well as 3 months versus 12 months (F=11.56, df=1, 174, p<0.001).",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "TABLE 2. Tobacco Use and Related Variables for Smokers at Each Phase",
+            "a",
+            "Nicotine Dependence",
+            "SD"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "35.25",
+          "rowHeaders": [
+            "Baseline",
+            "150"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Symptom and Functioning Profiles Across Phases",
+            "Psychiatric Rating Scale-24",
+            "Global Score",
+            "M ean"
+          ]
+        },
+        {
+          "value": "11.47",
+          "rowHeaders": [
+            "Baseline",
+            "150"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Symptom and Functioning Profiles Across Phases",
+            "Psychiatric Rating Scale-24",
+            "Global Score",
+            "SD"
+          ]
+        },
+        {
+          "value": "42.61",
+          "rowHeaders": [
+            "Baseline",
+            "150",
+            "108"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Symptom and Functioning Profiles Across Phases",
+            "Anxiety: State-Trait Anxiety",
+            "Inventory-State a, b",
+            "M e"
+          ]
+        },
+        {
+          "value": "12.55",
+          "rowHeaders": [
+            "Baseline",
+            "150",
+            "108"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Symptom and Functioning Profiles Across Phases",
+            "Anxiety: State-Trait Anxiety",
+            "Inventory-State a, b",
+            "SD"
+          ]
+        },
+        {
+          "value": "17.94",
+          "rowHeaders": [
+            "Baseline",
+            "150",
+            "108",
+            "141"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Symptom and Functioning Profiles Across Phases",
+            "Depression: Beck Depression",
+            "Inventory-IIa,c",
+            "M"
+          ]
+        },
+        {
+          "value": "14.73",
+          "rowHeaders": [
+            "Baseline",
+            "150",
+            "108",
+            "141"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Symptom and Functioning Profiles Across Phases",
+            "Depression: Beck Depression",
+            "Inventory-IIa,c",
+            "SD"
+          ]
+        },
+        {
+          "value": "34.17",
+          "rowHeaders": [
+            "3 months",
+            "121"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Symptom and Functioning Profiles Across Phases",
+            "Psychiatric Rating Scale-24",
+            "Global Score",
+            "M ean"
+          ]
+        },
+        {
+          "value": "9.18",
+          "rowHeaders": [
+            "3 months",
+            "121"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Symptom and Functioning Profiles Across Phases",
+            "Psychiatric Rating Scale-24",
+            "Global Score",
+            "SD"
+          ]
+        },
+        {
+          "value": "39.57",
+          "rowHeaders": [
+            "3 months",
+            "121",
+            "106"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Symptom and Functioning Profiles Across Phases",
+            "Anxiety: State-Trait Anxiety",
+            "Inventory-State a, b",
+            "M e"
+          ]
+        },
+        {
+          "value": "12.22",
+          "rowHeaders": [
+            "3 months",
+            "121",
+            "106"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Symptom and Functioning Profiles Across Phases",
+            "Anxiety: State-Trait Anxiety",
+            "Inventory-State a, b",
+            "SD"
+          ]
+        },
+        {
+          "value": "14.41",
+          "rowHeaders": [
+            "3 months",
+            "121",
+            "106",
+            "119"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Symptom and Functioning Profiles Across Phases",
+            "Depression: Beck Depression",
+            "Inventory-IIa,c",
+            "M"
+          ]
+        },
+        {
+          "value": "11.16",
+          "rowHeaders": [
+            "3 months",
+            "121",
+            "106",
+            "119"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Symptom and Functioning Profiles Across Phases",
+            "Depression: Beck Depression",
+            "Inventory-IIa,c",
+            "SD"
+          ]
+        },
+        {
+          "value": "35.27",
+          "rowHeaders": [
+            "6 months",
+            "116"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Symptom and Functioning Profiles Across Phases",
+            "Psychiatric Rating Scale-24",
+            "Global Score",
+            "M ean"
+          ]
+        },
+        {
+          "value": "9.95",
+          "rowHeaders": [
+            "6 months",
+            "116"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Symptom and Functioning Profiles Across Phases",
+            "Psychiatric Rating Scale-24",
+            "Global Score",
+            "SD"
+          ]
+        },
+        {
+          "value": "39.83",
+          "rowHeaders": [
+            "6 months",
+            "116",
+            "103"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Symptom and Functioning Profiles Across Phases",
+            "Anxiety: State-Trait Anxiety",
+            "Inventory-State a, b",
+            "M e"
+          ]
+        },
+        {
+          "value": "12.76",
+          "rowHeaders": [
+            "6 months",
+            "116",
+            "103"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Symptom and Functioning Profiles Across Phases",
+            "Anxiety: State-Trait Anxiety",
+            "Inventory-State a, b",
+            "SD"
+          ]
+        },
+        {
+          "value": "14.30",
+          "rowHeaders": [
+            "6 months",
+            "116",
+            "103",
+            "115"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Symptom and Functioning Profiles Across Phases",
+            "Depression: Beck Depression",
+            "Inventory-IIa,c",
+            "M"
+          ]
+        },
+        {
+          "value": "11.45",
+          "rowHeaders": [
+            "6 months",
+            "116",
+            "103",
+            "115"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Symptom and Functioning Profiles Across Phases",
+            "Depression: Beck Depression",
+            "Inventory-IIa,c",
+            "SD"
+          ]
+        },
+        {
+          "value": "34.18",
+          "rowHeaders": [
+            "12 months",
+            "120"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Symptom and Functioning Profiles Across Phases",
+            "Psychiatric Rating Scale-24",
+            "Global Score",
+            "M ean"
+          ]
+        },
+        {
+          "value": "7.89",
+          "rowHeaders": [
+            "12 months",
+            "120"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Symptom and Functioning Profiles Across Phases",
+            "Psychiatric Rating Scale-24",
+            "Global Score",
+            "SD"
+          ]
+        },
+        {
+          "value": "39.81",
+          "rowHeaders": [
+            "12 months",
+            "120",
+            "103"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Symptom and Functioning Profiles Across Phases",
+            "Anxiety: State-Trait Anxiety",
+            "Inventory-State a, b",
+            "M e"
+          ]
+        },
+        {
+          "value": "12.99",
+          "rowHeaders": [
+            "12 months",
+            "120",
+            "103"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Symptom and Functioning Profiles Across Phases",
+            "Anxiety: State-Trait Anxiety",
+            "Inventory-State a, b",
+            "SD"
+          ]
+        },
+        {
+          "value": "12.66",
+          "rowHeaders": [
+            "12 months",
+            "120",
+            "103",
+            "119"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Symptom and Functioning Profiles Across Phases",
+            "Depression: Beck Depression",
+            "Inventory-IIa,c",
+            "ea n"
+          ]
+        },
+        {
+          "value": "11.27",
+          "rowHeaders": [
+            "12 months",
+            "120",
+            "103",
+            "119"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Symptom and Functioning Profiles Across Phases",
+            "Depression: Beck Depression",
+            "Inventory-IIa,c",
+            "SD"
+          ]
+        },
+        {
+          "value": "32.85",
+          "rowHeaders": [
+            "Baseline",
+            "147"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Symptom and Functioning Profiles Across Phases",
+            "Psychiatric Rating Scale-24",
+            "Global Score",
+            "M ean"
+          ]
+        },
+        {
+          "value": "7.99",
+          "rowHeaders": [
+            "Baseline",
+            "147"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Symptom and Functioning Profiles Across Phases",
+            "Psychiatric Rating Scale-24",
+            "Global Score",
+            "SD"
+          ]
+        },
+        {
+          "value": "39.81",
+          "rowHeaders": [
+            "Baseline",
+            "147",
+            "84"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Symptom and Functioning Profiles Across Phases",
+            "Anxiety: State-Trait Anxiety",
+            "Inventory-State a, b",
+            "M e"
+          ]
+        },
+        {
+          "value": "11.91",
+          "rowHeaders": [
+            "Baseline",
+            "147",
+            "84"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Symptom and Functioning Profiles Across Phases",
+            "Anxiety: State-Trait Anxiety",
+            "Inventory-State a, b",
+            "SD"
+          ]
+        },
+        {
+          "value": "14.42",
+          "rowHeaders": [
+            "Baseline",
+            "147",
+            "84",
+            "132"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Symptom and Functioning Profiles Across Phases",
+            "Depression: Beck Depression",
+            "Inventory-IIa,c",
+            "M"
+          ]
+        },
+        {
+          "value": "12.08",
+          "rowHeaders": [
+            "Baseline",
+            "147",
+            "84",
+            "132"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Symptom and Functioning Profiles Across Phases",
+            "Depression: Beck Depression",
+            "Inventory-IIa,c",
+            "SD"
+          ]
+        },
+        {
+          "value": "33.05",
+          "rowHeaders": [
+            "3 months",
+            "131"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Symptom and Functioning Profiles Across Phases",
+            "Psychiatric Rating Scale-24",
+            "Global Score",
+            "M ean"
+          ]
+        },
+        {
+          "value": "8.31",
+          "rowHeaders": [
+            "3 months",
+            "131"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Symptom and Functioning Profiles Across Phases",
+            "Psychiatric Rating Scale-24",
+            "Global Score",
+            "SD"
+          ]
+        },
+        {
+          "value": "38.94",
+          "rowHeaders": [
+            "3 months",
+            "131",
+            "106"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Symptom and Functioning Profiles Across Phases",
+            "Anxiety: State-Trait Anxiety",
+            "Inventory-State a, b",
+            "M e"
+          ]
+        },
+        {
+          "value": "13.19",
+          "rowHeaders": [
+            "3 months",
+            "131",
+            "106"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Symptom and Functioning Profiles Across Phases",
+            "Anxiety: State-Trait Anxiety",
+            "Inventory-State a, b",
+            "SD"
+          ]
+        },
+        {
+          "value": "12.99",
+          "rowHeaders": [
+            "3 months",
+            "131",
+            "106",
+            "127"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Symptom and Functioning Profiles Across Phases",
+            "Depression: Beck Depression",
+            "Inventory-IIa,c",
+            "M"
+          ]
+        },
+        {
+          "value": "10.49",
+          "rowHeaders": [
+            "3 months",
+            "131",
+            "106",
+            "127"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Symptom and Functioning Profiles Across Phases",
+            "Depression: Beck Depression",
+            "Inventory-IIa,c",
+            "SD"
+          ]
+        },
+        {
+          "value": "31.84",
+          "rowHeaders": [
+            "6 months",
+            "128"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Symptom and Functioning Profiles Across Phases",
+            "Psychiatric Rating Scale-24",
+            "Global Score",
+            "M ean"
+          ]
+        },
+        {
+          "value": "7.15",
+          "rowHeaders": [
+            "6 months",
+            "128"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Symptom and Functioning Profiles Across Phases",
+            "Psychiatric Rating Scale-24",
+            "Global Score",
+            "SD"
+          ]
+        },
+        {
+          "value": "37.25",
+          "rowHeaders": [
+            "6 months",
+            "128",
+            "114"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Symptom and Functioning Profiles Across Phases",
+            "Anxiety: State-Trait Anxiety",
+            "Inventory-State a, b",
+            "M e"
+          ]
+        },
+        {
+          "value": "12.47",
+          "rowHeaders": [
+            "6 months",
+            "128",
+            "114"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Symptom and Functioning Profiles Across Phases",
+            "Anxiety: State-Trait Anxiety",
+            "Inventory-State a, b",
+            "SD"
+          ]
+        },
+        {
+          "value": "10.75",
+          "rowHeaders": [
+            "6 months",
+            "128",
+            "114",
+            "127"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Symptom and Functioning Profiles Across Phases",
+            "Depression: Beck Depression",
+            "Inventory-IIa,c",
+            "M"
+          ]
+        },
+        {
+          "value": "10.59",
+          "rowHeaders": [
+            "6 months",
+            "128",
+            "114",
+            "127"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Symptom and Functioning Profiles Across Phases",
+            "Depression: Beck Depression",
+            "Inventory-IIa,c",
+            "SD"
+          ]
+        },
+        {
+          "value": "32.16",
+          "rowHeaders": [
+            "12 months",
+            "127"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Symptom and Functioning Profiles Across Phases",
+            "Psychiatric Rating Scale-24",
+            "Global Score",
+            "M ean"
+          ]
+        },
+        {
+          "value": "7.80",
+          "rowHeaders": [
+            "12 months",
+            "127"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Symptom and Functioning Profiles Across Phases",
+            "Psychiatric Rating Scale-24",
+            "Global Score",
+            "SD"
+          ]
+        },
+        {
+          "value": "37.31",
+          "rowHeaders": [
+            "12 months",
+            "127",
+            "94"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Symptom and Functioning Profiles Across Phases",
+            "Anxiety: State-Trait Anxiety",
+            "Inventory-State a, b",
+            "M e"
+          ]
+        },
+        {
+          "value": "12.34",
+          "rowHeaders": [
+            "12 months",
+            "127",
+            "94"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Symptom and Functioning Profiles Across Phases",
+            "Anxiety: State-Trait Anxiety",
+            "Inventory-State a, b",
+            "SD"
+          ]
+        },
+        {
+          "value": "12.27",
+          "rowHeaders": [
+            "12 months",
+            "127",
+            "94",
+            "126"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Symptom and Functioning Profiles Across Phases",
+            "Depression: Beck Depression",
+            "Inventory-IIa,c",
+            "ea n"
+          ]
+        },
+        {
+          "value": "11.28",
+          "rowHeaders": [
+            "12 months",
+            "127",
+            "94",
+            "126"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Symptom and Functioning Profiles Across Phases",
+            "Depression: Beck Depression",
+            "Inventory-IIa,c",
+            "SD"
+          ]
+        },
+        {
+          "value": "19.74, df=1, 224, p<0.001).",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "TABLE 3. Symptom and Functioning Profiles Across Phases",
+            "Psychiatric Rating Scale-24",
+            "Global Score",
+            "Group/Phase"
+          ]
+        }
+      ],
+      "page": 1
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+<!DOCTYPE LogbackConfiguration>
+
+<configuration>
+
+	<appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+		<!-- encoders are assigned the type ch.qos.logback.classic.encoder.PatternLayoutEncoder 
+			by default -->
+		<!-- <withJansi>true</withJansi> -->
+		<encoder>
+			<!-- <pattern>%d{HH:mm:ss.SSS} [%thread] %highlight(%-5level) %cyan(%logger{15}) - %msg%n</pattern> -->
+			<pattern>%d{HH:mm:ss.SSS} [%thread] %-5level %logger{15} - %X{user} - %msg%n</pattern>
+		</encoder>
+	</appender>
+
+	<timestamp key="byDay" datePattern="yyyyMMdd'T'" />
+
+	<appender name="FILE" class="ch.qos.logback.core.FileAppender">
+		<File>logs/logFile-${byDay}.log</File>
+		<Append>true</Append>
+		<!-- encoders are assigned the type ch.qos.logback.classic.encoder.PatternLayoutEncoder 
+			by default -->
+		<encoder>
+			<pattern>%d{HH:mm:ss.SSS} [%thread] %-5level %logger{15} - %X{user} - %msg%n</pattern>
+		</encoder>
+	</appender>
+	
+	<root level="WARN">
+		<appender-ref ref="STDOUT" />
+		<appender-ref ref="FILE" />
+	</root>
+
+	<logger name="com.ibm.drl.hbcp" level="WARN" />
+	<logger name="org.apache.pdfbox.pdmodel.font" level="ERROR" />
+	<logger name="edu.stanford.nlp.process.PTBLexer" level="ERROR" />
+	
+</configuration>

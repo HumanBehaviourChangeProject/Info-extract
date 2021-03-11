@@ -1,0 +1,2990 @@
+{
+  "blocks": [
+    {
+      "type": "LINES",
+      "value": "BMC Family Practice Acceptability and effectiveness of opportunistic referral of smokers to telephone cessation advice from a nurse: a randomised trial in Australian general practice",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Background: GPs often lack time to provide intensive cessation advice for patients who smoke. This study aimed to determine the effectiveness of opportunistic referral of smokers by their GP for telephone cessation counselling by a trained nurse.",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Australian general practice provides a unique setting for the provision of smoking cessation advice as over 80% of the population visits a general practitioner (GP) in any given year. An 'opportunistic' approach to cessation advice in which smoking is discussed with every patient, irrespective of the reason for the consultation, has the potential to reach a large number of smokers in the community. Despite compelling evidence for their impact and their unrivalled credibility as providers of health-related information, Australian GPs persistently exhibit low rates of detection of smokers and provision of evidence-based smoking cessation advice. Those few randomised trials conducted in Australia to redress this gap between evidence and practice provide no clear-cut conclusions that any strategy will work to increase GPs' systematic identification of smokers or enhance rates of advice.\nGPs themselves perceive lack of time to be one of the major impediments to their intervention with smokers. Smoking cessation advice, particularly those intensive and time-consuming interventions known to be especially effective in promoting quit attempts and achieving abstinence, could perhaps be delegated to and delivered by a nurse. A recent meta-analysis of 30 trials of nurse-delivered cessation advice found a modest overall positive effect when compared with controls or usual care (OR 1.47, 95%CI: 1.29-1.68). A subgroup analysis of those 11 studies involving smokers in primary care or out-patient settings indicated that smoking intervention by nurses almost doubled the odds of success (OR 1.90, 95%CI 1.48-2.43). In all of these studies, smokers were required to attend at least one face-to-face session, either individually or as part of a group. While a component of some interventions, telephone counselling was used only as an adjunct to face-to-face counselling and was not offered as a convenient medium for advice.\nCessation counselling that is delivered entirely by telephone holds considerable promise as a relatively inexpensive means to deliver individual advice that also can be flexible and tailored to individual needs. Telephone counselling has been shown to increase quit rates significantly compared with minimal or usual care when provided 'reactively' in response to a smoker's contact with a quitline or as an adjunct to hospital-initiated programs and has been recommended by several national guidelines for tobacco control.\nA recent Cochrane Review of 29 controlled trials of 'proactive' telephone counselling reported only a modest overall benefit however. A subgroup analysis of 19 studies found that proactive telephone cessation advice had minimal impact when provided to smokers who were recruited irrespective of their current intention to quit. Only three studies in this group involved recruitment of patients through primary care. The only study that recruited smokers opportunistically did not find any additional benefit from telephone followup used to reinforce physician advice, regardless of the intensity of that advice.\nThus, there remains a paucity of rigorous scientific evidence for or against opportunistic referral of smokers for telephone-delivered smoking cessation advice. As practice nurses area rarity in Australian general practice, assessment of the acceptability to patients of referral to a nurse for health promotion advice is particularly important. In response, we designed this randomised trial to determine acceptability and the effectiveness of this approach to improve quit rates and shifts in stage-of-change in smokers after six and twelvemonths. We also investigated the characteristics of smokers who consented to and completed this intervention.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The study was approved by the Ethics Review Committees (RPAH and Liverpool zones) of Sydney South West Area Health Service (Protocol number X01-0034).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Of 67 eligible GPs in the selected two postcodes, 35 (52%) agreed to participate but five withdrew before recruiting patients. Twenty-four (80%) participating GPs were male and six (20%) were female; 15 (50%) were in solo practices, 29 (97%) worked full-time. There were no significant differences between eligible GPs who participated compared with those who did not in regard to gender (p = 1.0); working hours (p = 1.0) and working in solo or group practice, (p = 0.8).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Of 1888 patients who were approached to participate, 472 (25%) were ineligible: poor English (n = 150); unable to read (n = 79); cognitive impairment (n = 88); too sick (n = 58); already been approached (n = 86); about to go overseas (n = 2); acutely unwell (n = 9). Of 1416 eligible patients, 1170 (83%) agreed to complete pre-consultation questionnaires. There was no significant difference in the mean age (41.9 versus 41.5 years, p = 0.7) or gender (p = 0.09) of those who did or did not participate. Differences in smoking status could not be assessed as this information was unavailable for half (50%) of those who declined participation.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "We had pre-randomised questionnaires and allocated unobtrusive marks that were meaningful only to the GPs in order to convey group allocation. Questionnaires were randomly ordered and coded prior to delivery to the practice by selecting sequential numbers from a computer generated random number list. Patients were thereby assigned either to intervention or control groups in the waiting room before they consulted their GP.\nGPs scanned questionnaires during the consultation to determine smoking status and group allocation. Control group smokers received the GP's usual care. We also provided GPs with free copies of government-sponsored quit kits to distribute to smokers in this group. Intervention group smokers received an offer from their GP of free referral for telephone-based cessation advice from a trained nurse. Intervention group patients who declined referral were included in our intention-to-treat analyses but not contacted by the nurse. Practices were visited by research staff twice each week during the study period to collect completed questionnaires and study logs and to liaise with practice staff.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Within three days, a nurse trained in smoking cessation telephoned each patient. Our telephone-delivered intervention, based on the '5As' approach, was structured using an explicit protocol to ensure consistency. During the first call, smoking history, nicotine dependence and previous quit attempts were assessed. Smokers then were asked if they were willing to make a quit attempt. Those who were not ready to do so received a motivational intervention based on the '5Rs' to assist their progression along the 'stage-of-change' continuum. Smokers who were ready to make a quit attempt were assisted to set a specific quit date and to plan their quit attempt. The nurse also mailed them a quit kit.\nUnless contra-indicated, these smokers were encouraged to purchase nicotine replacement therapy (available in Australia without a doctor's prescription) to manage nicotine withdrawal. Smokers who set a quit date were telephoned again on the specified quit day, then one week and three weeks after the quit date. During these three calls, participants were congratulated if they had quit, were encouraged to maintain quitting and assisted in resolving any problems arising. Relapsing smokers received motivation advice and were encouraged to 'reframe' relapse as a learning experience for future cessation.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Follow-up questionnaires were mailed at six and twelvemonths. A standardised follow-up protocol was followed to maximise return rates. After 1 month, remaining nonrespondents were asked to complete a short telephone interview with a research assistant who was blind to their group allocation to obtain a minimum data-set for study outcomes.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Based on previous research demonstrating that differences in quit rates of over 10% can be achieved with intensive smoking cessation interventions involving individualised behavioural counselling and repeated followup and assuming that baseline smoking prevalence would be 20%, we calculated that 214 smokers would be needed in each group in order to detect a 10% difference in quit rates at 12 months, with 80% power and 5% alpha. A pilot study conducted in three general practices found very high acceptance of the intervention among smokers with only 5% declining telephone assistance from a nurse.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Smoking status and stage-of-change for participants who were lost to follow-up were considered to be unchanged from baseline for the purpose of analysis. Point prevalence abstinence at six and twelvemonths was compared between groups on an intention to treat basis using chisquared tests. To investigate the effect of patient sex and baseline stage of change on intervention effectiveness, subgroup analyses were performed. Interaction terms between sex and group and stage-of-change and group were created and entered into logistic regression models. The significance of each interaction term was assessed to determine whether the intervention effect differed among the subgroups.\nThe proportion of participants who had made at least one quit attempt lasting at least 24 hours and mean shift in stage-of-change between baseline and 6 months and baseline and 12 months were compared between groups using chi-square tests and t tests respectively.\nCharacteristics of patients in the intervention group who were willing to be contacted by the nurse counsellor were compared with those who declined. Logistic regression modelling was then used to identify significant, independent predictors of those who agreed to the intervention. Similarly, predictors of smokers who completed all of the counselling sessions were investigated. All analyses were undertaken using SAS statistical software.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Of the 1170 participating patients, 318 (27%) were smokers). Of these, 169 were randomly allocated to the intervention group and 149 to the control group. Characteristics of participants in each group are summarised in.\nPatient flow through the study is summarised in. Five control group patients received the nursing intervention by mistake due to an administrative error. These patients were analysed as controls according to intention to treat principles.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Of the 169 smokers allocated to the intervention group, less than half (n = 76, 45%) gave consent to their GP to be referred to a nurse. Smokers who consented were somewhat older than those who declined (mean 38 years versus 35 years, p = 0.05) and were significantly further along the stage-of-change continuum (p = 0.003). There were no other significant associations between characteristics of participants and consent to the intervention.\nOf those 76 smokers who initially accepted nurse-delivered counselling, one was subsequently considered ineligible by the nurse in the first telephone contact due to poor English. One smoker could not be contacted and nine refused to proceed with the initial call. Of the remaining 65 smokers, 4 subsequently declined any further support at the conclusion of their initial telephone call. Sixty-one smokers completed the second call and 58 completed the third. Fifty-five smokers completed all four calls of the intervention, representing 33% of those randomised but 72% of those who agreed to and were eligible for, telephone counselling. Among those who initially agreed to receive the intervention, the only significant predictor of completion of all four calls was baseline stage-ofchange. Smokers who, at baseline, were in 'contemplation' had a three-fold increase in the odds (OR 2.6, 95% CI: 0.8-8.1) and those in 'preparation' had a nine-fold increase in the odds (OR 8.6, 95% CI: 1.7-44.4) of completing all four calls of the intervention compared with those in 'pre-contemplation'.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Follow-up data were available at six months for 133 (79%) smokers in the intervention group and 110 (74%) in the control group (p = 0.3). At 12 months, response fractions were 69% (117/169) and 59% (88/149) respectively (p = 0.06).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "There were no significant differences in study outcomes between groups at either six or 12 months. Logistic regression modelling demonstrated that the intervention was equally ineffective for men and women as the interaction term for sex by group was not significant. Likewise, the intervention was equally ineffective for smokers who were in 'pre-contemplation', 'contemplation' or 'preparation' stages of change for smoking cessation at the time of recruitment to the study.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Among the 55 smokers in the intervention group who completed all four calls of the intervention, point prevalence abstinence rates at six and 12 months were 16% (9/ 55) and 13% (7/55) respectively. At six months, 27 (49%) of these smokers had made at least one quit attempt lasting 24 hours or more but the mean stage shift from baseline stage of change was zero. At 12 months, only 18 (33%) recalled having made a quit attempt lasting at least 24 hours in the previous year, and there was a mean stage of change shift of 0.17.\nRandomised trial of opportunistic referral of smokers by GPs to telephone cessation advice from a nurse: CONSORT flowchart Randomised trial of opportunistic referral of smokers by GPs to telephone cessation advice from a nurse: CONSORT flowchart.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Among participants who completed follow-up questionnaires at six months, 80/104 (77%) in the intervention group and 68/86 (79%) in the control group had consulted their GP since the baseline consultation (p = 0.7).\nRecall of smoking cessation advice from their GP during these consultations is summarised by group in.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The impact of any intervention is predicated not only upon its efficacy but also its reach and uptake among the target population. Despite designing a smoking cessation intervention that was based on the best available scientific evidence, this randomised trial failed to demonstrate significant improvement in smokers' cessation rates or intention to quit smoking when the intervention was offered opportunistically for patients attending routine consultations in general practice. Among smokers in the intervention group, less than half accepted the offer of referral for telephone-based assistance from a nurse. Only one-third persisted with the intervention.\nThere is a considerable body of literature that has identified specific smoking cessation strategies that clinicians should use in order to maximise the efficacy of their smoking cessation advice. Thus, the challenge for tobacco control research is not so much to determine which specific strategies to use, but rather how this knowledge can be implemented to assist the greatest number of smokers in the community. Identification of, and intervention with, smokers attending general practice is as yet an underutilised strategy both in Australia and elsewhere. An intervention that capitalises on the reach of general practice to identify smokers but which delegates the time consuming counselling required to another health profession would seem ideal in theory. Regrettably, this was not confirmed. Our results also are consistent with those of the trial undertaken by Ockene and colleagues more than a decade ago in the United States that failed to demonstrate any benefit of telephone counselling as an adjunct to opportunistic physician advice.\nPrevious studies that have shown positive benefits from telephone cessation counselling have predominantly reflected the results that can be achieved with more motivated smokers who actively are seeking such advice through a helpline or who have been deemed eligible to be offered the intervention on the basis of their current  *not evaluable for patients with missing data for baseline stage of change * intervention group (intervention or control) X level of subgroup intention to quit. In contrast, the aim of the present study was to provide an intervention for any smoker, regardless of their current quit intentions, so as to move all smokers along the stage-of-change continuum towards complete cessation. It was hypothesised that as a number of unsuccessful attempts usually are needed before a person successfully quits, any improvement in intention to quit would signify a measure of success that could improve the chances of successful cessation in the future. While stage of change as measured in this study may not accurately predict future smoking status, it was disappointing that the intervention had no measurable impact on smokers' stated intentions, even in the short term.\nOne explanation for the lack of demonstrable benefit in this trial was the lower than anticipated acceptance of the intervention by smokers. Only 45% of those offered referral accepted even the first call by the nurse, and only onethird of the intervention group completed all four calls of the intervention. While smokers who were more motivated to quit were significantly more likely to accept and complete the intervention, motivated smokers were no more likely to actually quit than similarly motivated smokers in the control group as the intervention was equally ineffective regardless of patients' baseline stage of change. Among those smokers who completed the intervention, six and twelvemonth quit rates of 16% and 13% were achieved but the absence of a comparable control group precludes interpretation of these findings as a measure of intervention effectiveness. Future studies could investigate the impact of the intervention among the subgroup of more motivated smokers attending general practice.\nPatients in the control group received 'usual care' from their GP. Based on previous research that consistently has demonstrated minimal smoking cessation advice from GPs to smokers during routine consultations, it is probable that control group patients received, at best, a recommendation to stop smoking and the provision of a 'Quit Kit' to take home. Unfortunately it was not possible to monitor consultations directly as this study was undertaken in non-academic family practices where a requirement to tape consultations would likely have considerably reduced GPs' willingness to take part in the trial. If GPs had inadvertently 'compensated' for patients being allocated to the control group by providing a greater level of advice to these individuals, this could also go someway towards explaining the lack of apparent benefit of the nursing intervention. However, there was no difference between the intervention and control groups in patients' recall of smoking cessation advice in subsequent consultations so it does not appear that GPs differentially provided greater followup about smoking cessation for those in the control group.\nWe acknowledge a number of other limitations to this study. Given the lower than expected uptake of the intervention, statistical power was compromised but our data can be used in future meta-analyses. A much larger study is needed to provide a definitive assessment of this intervention. Given the low rates of acceptance of the intervention among smokers however, future studies also ought focus on the identification and provision of intensive support for the subgroup who are motivated to quit. Additional strategies are needed to motivate those smokers who are not yet ready to make a quit attempt. The assumption that all those lost to followup were continuing smokers is plausible but could have biased the results towards a null finding. We acknowledge considerable debate about the advantages and disadvantages of cotinine validation of self-reported smoking status. Yet a requirement for cotinine validation would likely have further increased loss to followup, with little gain in measurement accuracy.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "This randomised trial failed to demonstrate any impact of opportunistic referral of smokers for telephone-delivered smoking cessation advice by a nurse on subsequent quit rates or smokers' stage of change. Given the lack of evidence to date in support of this approach, it cannot yet be recommended unequivocally.\n",
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "39 (12)",
+          "rowHeaders": [
+            "Age (mean ± SD years)",
+            "At least one quit attempt in previous 6 months",
+            "Occasional smoker (not every day)"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Intervention group (N = 169) n (%)"
+          ]
+        },
+        {
+          "value": "36 (12)",
+          "rowHeaders": [
+            "Age (mean ± SD years)",
+            "At least one quit attempt in previous 6 months",
+            "Occasional smoker (not every day)"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)"
+          ]
+        },
+        {
+          "value": "87 (51)",
+          "rowHeaders": [
+            "Male",
+            "At least one quit attempt in previous 6 months",
+            "Occasional smoker (not every day)"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Intervention group (N = 169) n (%)"
+          ]
+        },
+        {
+          "value": "61 (41)",
+          "rowHeaders": [
+            "Male",
+            "At least one quit attempt in previous 6 months",
+            "Occasional smoker (not every day)"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)"
+          ]
+        },
+        {
+          "value": "70 (41)",
+          "rowHeaders": [
+            "Completed high school or tertiary education",
+            "At least one quit attempt in previous 6 months",
+            "Occasional smoker (not every day)"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Intervention group (N = 169) n (%)"
+          ]
+        },
+        {
+          "value": "59 (40)",
+          "rowHeaders": [
+            "Completed high school or tertiary education",
+            "At least one quit attempt in previous 6 months",
+            "Occasional smoker (not every day)"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)"
+          ]
+        },
+        {
+          "value": "88 (59)",
+          "rowHeaders": [
+            "Employed full or part-time",
+            "At least one quit attempt in previous 6 months",
+            "Occasional smoker (not every day)",
+            "102 (60)"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)"
+          ]
+        },
+        {
+          "value": "42 (25)",
+          "rowHeaders": [
+            "'Excellent' or 'Very good' self-reported health status",
+            "At least one quit attempt in previous 6 months",
+            "Occasional smoker (not every day)"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Intervention group (N = 169) n (%)",
+            "153 (91)"
+          ]
+        },
+        {
+          "value": "40 (27)",
+          "rowHeaders": [
+            "'Excellent' or 'Very good' self-reported health status",
+            "At least one quit attempt in previous 6 months",
+            "Occasional smoker (not every day)"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)",
+            "139 (93)"
+          ]
+        },
+        {
+          "value": "23 (14)",
+          "rowHeaders": [
+            "Nicotine dependency rated 'High' or 'Very High'",
+            "At least one quit attempt in previous 6 months",
+            "Occasional smoker (not every day)"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Intervention group (N = 169) n (%)",
+            "153 (91)",
+            "5 (3)",
+            "5 (3)",
+            "1 (<1)",
+            "7 (4)",
+            "7 (4)",
+            "134 (79)",
+            "145 (86)"
+          ]
+        },
+        {
+          "value": "19 (13)",
+          "rowHeaders": [
+            "Nicotine dependency rated 'High' or 'Very High'",
+            "At least one quit attempt in previous 6 months",
+            "Occasional smoker (not every day)"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)",
+            "139 (93)",
+            "4 (3)",
+            "8 (5)",
+            "2 (2)",
+            "8 (5)",
+            "5 (3)",
+            "120 (80)",
+            "130 (87)"
+          ]
+        },
+        {
+          "value": "10 or less",
+          "rowHeaders": [
+            "Nicotine dependency rated 'High' or 'Very High'",
+            "At least one quit attempt in previous 6 months"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Intervention group (N = 169) n (%)",
+            "English language spoken at home",
+            "Heart disease",
+            "Chronic bronchitis or emphysema",
+            "Cancer",
+            "Diabetes mellitus",
+            "Vascular disease",
+            "134 (79)",
+            "Regular smoker",
+            "Pipes and cigars only"
+          ]
+        },
+        {
+          "value": "39 (24)",
+          "rowHeaders": [
+            "Nicotine dependency rated 'High' or 'Very High'",
+            "At least one quit attempt in previous 6 months",
+            "11-20"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Intervention group (N = 169) n (%)",
+            "153 (91)",
+            "5 (3)",
+            "5 (3)",
+            "1 (<1)",
+            "7 (4)",
+            "7 (4)",
+            "134 (79)",
+            "145 (86)",
+            "1 (<1)"
+          ]
+        },
+        {
+          "value": "46 (32)",
+          "rowHeaders": [
+            "Nicotine dependency rated 'High' or 'Very High'",
+            "At least one quit attempt in previous 6 months",
+            "11-20"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)",
+            "139 (93)",
+            "4 (3)",
+            "8 (5)",
+            "2 (2)",
+            "8 (5)",
+            "5 (3)",
+            "120 (80)",
+            "130 (87)",
+            "0"
+          ]
+        },
+        {
+          "value": "74 (46)",
+          "rowHeaders": [
+            "Nicotine dependency rated 'High' or 'Very High'",
+            "At least one quit attempt in previous 6 months",
+            "11-20"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Intervention group (N = 169) n (%)",
+            "153 (91)",
+            "5 (3)",
+            "5 (3)",
+            "1 (<1)",
+            "7 (4)",
+            "7 (4)",
+            "134 (79)",
+            "145 (86)",
+            "1 (<1)"
+          ]
+        },
+        {
+          "value": "63 (43)",
+          "rowHeaders": [
+            "Nicotine dependency rated 'High' or 'Very High'",
+            "At least one quit attempt in previous 6 months",
+            "11-20"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)",
+            "139 (93)",
+            "4 (3)",
+            "8 (5)",
+            "2 (2)",
+            "8 (5)",
+            "5 (3)",
+            "120 (80)",
+            "130 (87)",
+            "0"
+          ]
+        },
+        {
+          "value": "38 (24)",
+          "rowHeaders": [
+            "Nicotine dependency rated 'High' or 'Very High'",
+            "At least one quit attempt in previous 6 months",
+            "21-30"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Intervention group (N = 169) n (%)",
+            "153 (91)",
+            "5 (3)",
+            "5 (3)",
+            "1 (<1)",
+            "7 (4)",
+            "7 (4)",
+            "134 (79)",
+            "145 (86)",
+            "1 (<1)"
+          ]
+        },
+        {
+          "value": "28 (19)",
+          "rowHeaders": [
+            "Nicotine dependency rated 'High' or 'Very High'",
+            "At least one quit attempt in previous 6 months",
+            "21-30"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)",
+            "139 (93)",
+            "4 (3)",
+            "8 (5)",
+            "2 (2)",
+            "8 (5)",
+            "5 (3)",
+            "120 (80)",
+            "130 (87)",
+            "0"
+          ]
+        },
+        {
+          "value": "31 or more",
+          "rowHeaders": [
+            "Completed high school or tertiary education",
+            "At least one quit attempt in previous"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Intervention group (N = 169) n (%)",
+            "English language spoken at home",
+            "Heart disease",
+            "Chronic bronchitis or emphysema",
+            "Cancer",
+            "Diabetes mellitus",
+            "Vascular disease",
+            "134 (79)",
+            "Regular smoker",
+            "Pipes and cigars only"
+          ]
+        },
+        {
+          "value": "10 (6)",
+          "rowHeaders": [
+            "Nicotine dependency rated 'High' or 'Very High'",
+            "At least one quit attempt in previous 6 months",
+            "21-30"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Intervention group (N = 169) n (%)",
+            "153 (91)",
+            "5 (3)",
+            "5 (3)",
+            "1 (<1)",
+            "7 (4)",
+            "7 (4)",
+            "134 (79)",
+            "145 (86)",
+            "1 (<1)"
+          ]
+        },
+        {
+          "value": "50 (30)",
+          "rowHeaders": [
+            "Nicotine dependency rated 'High' or 'Very High'",
+            "At least one quit attempt in previous 6 months",
+            "Pre-contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Intervention group (N = 169) n (%)",
+            "153 (91)",
+            "5 (3)",
+            "5 (3)",
+            "1 (<1)",
+            "7 (4)",
+            "7 (4)",
+            "134 (79)",
+            "145 (86)",
+            "1 (<1)"
+          ]
+        },
+        {
+          "value": "40 (27)",
+          "rowHeaders": [
+            "Nicotine dependency rated 'High' or 'Very High'",
+            "At least one quit attempt in previous 6 months",
+            "Pre-contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)",
+            "139 (93)",
+            "4 (3)",
+            "8 (5)",
+            "2 (2)",
+            "8 (5)",
+            "5 (3)",
+            "120 (80)",
+            "130 (87)",
+            "0"
+          ]
+        },
+        {
+          "value": "58 (34)",
+          "rowHeaders": [
+            "Nicotine dependency rated 'High' or 'Very High'",
+            "At least one quit attempt in previous 6 months",
+            "Pre-contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Intervention group (N = 169) n (%)",
+            "153 (91)",
+            "5 (3)",
+            "5 (3)",
+            "1 (<1)",
+            "7 (4)",
+            "7 (4)",
+            "134 (79)",
+            "145 (86)",
+            "1 (<1)"
+          ]
+        },
+        {
+          "value": "61 (41)",
+          "rowHeaders": [
+            "Nicotine dependency rated 'High' or 'Very High'",
+            "At least one quit attempt in previous 6 months",
+            "Pre-contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)",
+            "139 (93)",
+            "4 (3)",
+            "8 (5)",
+            "2 (2)",
+            "8 (5)",
+            "5 (3)",
+            "120 (80)",
+            "130 (87)",
+            "0"
+          ]
+        },
+        {
+          "value": "62 (37)",
+          "rowHeaders": [
+            "Nicotine dependency rated 'High' or 'Very High'",
+            "At least one quit attempt in previous 6 months",
+            "Contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Intervention group (N = 169) n (%)",
+            "153 (91)",
+            "5 (3)",
+            "5 (3)",
+            "1 (<1)",
+            "7 (4)",
+            "7 (4)",
+            "134 (79)",
+            "145 (86)",
+            "1 (<1)"
+          ]
+        },
+        {
+          "value": "48 (32)",
+          "rowHeaders": [
+            "Nicotine dependency rated 'High' or 'Very High'",
+            "At least one quit attempt in previous 6 months",
+            "Contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)",
+            "139 (93)",
+            "4 (3)",
+            "8 (5)",
+            "2 (2)",
+            "8 (5)",
+            "5 (3)",
+            "120 (80)",
+            "130 (87)",
+            "0"
+          ]
+        },
+        {
+          "value": "33 (20)",
+          "rowHeaders": [
+            "Nicotine dependency rated 'High' or 'Very High'",
+            "At least one quit attempt in previous 6 months",
+            "Preparation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Intervention group (N = 169) n (%)",
+            "153 (91)",
+            "5 (3)",
+            "5 (3)",
+            "1 (<1)",
+            "7 (4)",
+            "7 (4)",
+            "134 (79)",
+            "145 (86)",
+            "1 (<1)"
+          ]
+        },
+        {
+          "value": "35 (23)",
+          "rowHeaders": [
+            "Nicotine dependency rated 'High' or 'Very High'",
+            "At least one quit attempt in previous 6 months",
+            "Preparation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)",
+            "139 (93)",
+            "4 (3)",
+            "8 (5)",
+            "2 (2)",
+            "8 (5)",
+            "5 (3)",
+            "120 (80)",
+            "130 (87)",
+            "0"
+          ]
+        },
+        {
+          "value": "16 (9)",
+          "rowHeaders": [
+            "Nicotine dependency rated 'High' or 'Very High'",
+            "At least one quit attempt in previous 6 months",
+            "Missing"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Intervention group (N = 169) n (%)",
+            "153 (91)",
+            "5 (3)",
+            "5 (3)",
+            "1 (<1)",
+            "7 (4)",
+            "7 (4)",
+            "134 (79)",
+            "145 (86)",
+            "1 (<1)"
+          ]
+        },
+        {
+          "value": "64 (38)",
+          "rowHeaders": [
+            "Nicotine dependency rated 'High' or 'Very High'",
+            "At least one quit attempt in previous 6 months",
+            "Missing"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Intervention group (N = 169) n (%)",
+            "153 (91)",
+            "5 (3)",
+            "5 (3)",
+            "1 (<1)",
+            "7 (4)",
+            "7 (4)",
+            "134 (79)",
+            "145 (86)",
+            "1 (<1)"
+          ]
+        },
+        {
+          "value": "36 (24)",
+          "rowHeaders": [
+            "Nicotine dependency rated 'High' or 'Very High'",
+            "At least one quit attempt in previous 6 months",
+            "Missing"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)",
+            "139 (93)",
+            "4 (3)",
+            "8 (5)",
+            "2 (2)",
+            "8 (5)",
+            "5 (3)",
+            "120 (80)",
+            "130 (87)",
+            "0"
+          ]
+        },
+        {
+          "value": "12 months",
+          "rowHeaders": [
+            "Mean age (years)",
+            "At least one quit attempt in previous"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Intervention group (N = 169) n (%)",
+            "English language spoken at home",
+            "Heart disease",
+            "Chronic bronchitis or emphysema",
+            "Cancer",
+            "Diabetes mellitus",
+            "Vascular disease",
+            "Attending regular GP",
+            "Regular smoker",
+            "Pipes and cigars only"
+          ]
+        },
+        {
+          "value": "79 (47)",
+          "rowHeaders": [
+            "Nicotine dependency rated 'High' or 'Very High'",
+            "At least one quit attempt in previous",
+            "Missing"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Intervention group (N = 169) n (%)",
+            "153 (91)",
+            "5 (3)",
+            "5 (3)",
+            "1 (<1)",
+            "7 (4)",
+            "7 (4)",
+            "134 (79)",
+            "145 (86)",
+            "1 (<1)"
+          ]
+        },
+        {
+          "value": "51 (34)",
+          "rowHeaders": [
+            "Nicotine dependency rated 'High' or 'Very High'",
+            "At least one quit attempt in previous",
+            "Missing"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)",
+            "139 (93)",
+            "4 (3)",
+            "8 (5)",
+            "2 (2)",
+            "8 (5)",
+            "5 (3)",
+            "120 (80)",
+            "130 (87)",
+            "0"
+          ]
+        },
+        {
+          "value": "38",
+          "rowHeaders": [
+            "Mean age (years)",
+            "Pre-contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Intervention group (N = 169) n (%)",
+            "153 (91)",
+            "5 (3)",
+            "5 (3)",
+            "1 (<1)",
+            "7 (4)",
+            "7 (4)",
+            "134 (79)",
+            "145 (86)",
+            "1 (<1)",
+            "Consented (N = 76) n (%)"
+          ]
+        },
+        {
+          "value": "35",
+          "rowHeaders": [
+            "Mean age (years)",
+            "Pre-contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)",
+            "139 (93)",
+            "4 (3)",
+            "8 (5)",
+            "2 (2)",
+            "8 (5)",
+            "5 (3)",
+            "120 (80)",
+            "130 (87)",
+            "0",
+            "Declined (N = 93) n (%)"
+          ]
+        },
+        {
+          "value": "0.05",
+          "rowHeaders": [
+            "Mean age (years)",
+            "Pre-contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)",
+            "139 (93)",
+            "4 (3)",
+            "8 (5)",
+            "2 (2)",
+            "8 (5)",
+            "5 (3)",
+            "120 (80)",
+            "130 (87)",
+            "0",
+            "p-value"
+          ]
+        },
+        {
+          "value": "38 (50)",
+          "rowHeaders": [
+            "Male",
+            "Pre-contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Intervention group (N = 169) n (%)",
+            "153 (91)",
+            "5 (3)",
+            "5 (3)",
+            "1 (<1)",
+            "7 (4)",
+            "7 (4)",
+            "134 (79)",
+            "145 (86)",
+            "1 (<1)",
+            "Consented (N = 76) n (%)"
+          ]
+        },
+        {
+          "value": "49 (53)",
+          "rowHeaders": [
+            "Male",
+            "Pre-contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)",
+            "139 (93)",
+            "4 (3)",
+            "8 (5)",
+            "2 (2)",
+            "8 (5)",
+            "5 (3)",
+            "120 (80)",
+            "130 (87)",
+            "0",
+            "Declined (N = 93) n (%)"
+          ]
+        },
+        {
+          "value": "0.7",
+          "rowHeaders": [
+            "Male",
+            "Pre-contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)",
+            "139 (93)",
+            "4 (3)",
+            "8 (5)",
+            "2 (2)",
+            "8 (5)",
+            "5 (3)",
+            "120 (80)",
+            "130 (87)",
+            "0",
+            "p-value"
+          ]
+        },
+        {
+          "value": "34 (45)",
+          "rowHeaders": [
+            "Completed high school or tertiary education",
+            "Pre-contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Intervention group (N = 169) n (%)",
+            "153 (91)",
+            "5 (3)",
+            "5 (3)",
+            "1 (<1)",
+            "7 (4)",
+            "7 (4)",
+            "134 (79)",
+            "145 (86)",
+            "1 (<1)",
+            "Consented (N = 76) n (%)"
+          ]
+        },
+        {
+          "value": "36 (39)",
+          "rowHeaders": [
+            "Completed high school or tertiary education",
+            "Pre-contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)",
+            "139 (93)",
+            "4 (3)",
+            "8 (5)",
+            "2 (2)",
+            "8 (5)",
+            "5 (3)",
+            "120 (80)",
+            "130 (87)",
+            "0",
+            "Declined (N = 93) n (%)"
+          ]
+        },
+        {
+          "value": "0.4",
+          "rowHeaders": [
+            "Completed high school or tertiary education",
+            "Pre-contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)",
+            "139 (93)",
+            "4 (3)",
+            "8 (5)",
+            "2 (2)",
+            "8 (5)",
+            "5 (3)",
+            "120 (80)",
+            "130 (87)",
+            "0",
+            "p-value"
+          ]
+        },
+        {
+          "value": "46 (61)",
+          "rowHeaders": [
+            "Employed full or part-time",
+            "Pre-contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Intervention group (N = 169) n (%)",
+            "153 (91)",
+            "5 (3)",
+            "5 (3)",
+            "1 (<1)",
+            "7 (4)",
+            "7 (4)",
+            "134 (79)",
+            "145 (86)",
+            "1 (<1)",
+            "Consented (N = 76) n (%)"
+          ]
+        },
+        {
+          "value": "56 (60)",
+          "rowHeaders": [
+            "Employed full or part-time",
+            "Pre-contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)",
+            "139 (93)",
+            "4 (3)",
+            "8 (5)",
+            "2 (2)",
+            "8 (5)",
+            "5 (3)",
+            "120 (80)",
+            "130 (87)",
+            "0",
+            "Declined (N = 93) n (%)"
+          ]
+        },
+        {
+          "value": "1.0",
+          "rowHeaders": [
+            "Employed full or part-time",
+            "Pre-contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)",
+            "139 (93)",
+            "4 (3)",
+            "8 (5)",
+            "2 (2)",
+            "8 (5)",
+            "5 (3)",
+            "120 (80)",
+            "130 (87)",
+            "0",
+            "p-value"
+          ]
+        },
+        {
+          "value": "70 (92)",
+          "rowHeaders": [
+            "English language spoken at home",
+            "Pre-contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Intervention group (N = 169) n (%)",
+            "153 (91)",
+            "5 (3)",
+            "5 (3)",
+            "1 (<1)",
+            "7 (4)",
+            "7 (4)",
+            "134 (79)",
+            "145 (86)",
+            "1 (<1)",
+            "Consented (N = 76) n (%)"
+          ]
+        },
+        {
+          "value": "83 (89)",
+          "rowHeaders": [
+            "English language spoken at home",
+            "Pre-contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)",
+            "139 (93)",
+            "4 (3)",
+            "8 (5)",
+            "2 (2)",
+            "8 (5)",
+            "5 (3)",
+            "120 (80)",
+            "130 (87)",
+            "0",
+            "Declined (N = 93) n (%)"
+          ]
+        },
+        {
+          "value": "0.5",
+          "rowHeaders": [
+            "English language spoken at home",
+            "Pre-contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)",
+            "139 (93)",
+            "4 (3)",
+            "8 (5)",
+            "2 (2)",
+            "8 (5)",
+            "5 (3)",
+            "120 (80)",
+            "130 (87)",
+            "0",
+            "p-value"
+          ]
+        },
+        {
+          "value": "17 (22)",
+          "rowHeaders": [
+            "'Excellent' or 'Very good' self-reported health status",
+            "Pre-contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Intervention group (N = 169) n (%)",
+            "153 (91)",
+            "5 (3)",
+            "5 (3)",
+            "1 (<1)",
+            "7 (4)",
+            "7 (4)",
+            "134 (79)",
+            "145 (86)",
+            "1 (<1)",
+            "Consented (N = 76) n (%)"
+          ]
+        },
+        {
+          "value": "25 (27)",
+          "rowHeaders": [
+            "'Excellent' or 'Very good' self-reported health status",
+            "Pre-contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)",
+            "139 (93)",
+            "4 (3)",
+            "8 (5)",
+            "2 (2)",
+            "8 (5)",
+            "5 (3)",
+            "120 (80)",
+            "130 (87)",
+            "0",
+            "Declined (N = 93) n (%)"
+          ]
+        },
+        {
+          "value": "0.5",
+          "rowHeaders": [
+            "'Excellent' or 'Very good' self-reported health status",
+            "Pre-contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)",
+            "139 (93)",
+            "4 (3)",
+            "8 (5)",
+            "2 (2)",
+            "8 (5)",
+            "5 (3)",
+            "120 (80)",
+            "130 (87)",
+            "0",
+            "p-value"
+          ]
+        },
+        {
+          "value": "64 (84)",
+          "rowHeaders": [
+            "Attending regular GP",
+            "Pre-contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Intervention group (N = 169) n (%)",
+            "153 (91)",
+            "5 (3)",
+            "5 (3)",
+            "1 (<1)",
+            "7 (4)",
+            "7 (4)",
+            "134 (79)",
+            "145 (86)",
+            "1 (<1)",
+            "Consented (N = 76) n (%)"
+          ]
+        },
+        {
+          "value": "70 (75)",
+          "rowHeaders": [
+            "Attending regular GP",
+            "Pre-contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)",
+            "139 (93)",
+            "4 (3)",
+            "8 (5)",
+            "2 (2)",
+            "8 (5)",
+            "5 (3)",
+            "120 (80)",
+            "130 (87)",
+            "0",
+            "Declined (N = 93) n (%)"
+          ]
+        },
+        {
+          "value": "0.2",
+          "rowHeaders": [
+            "Attending regular GP",
+            "Pre-contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)",
+            "139 (93)",
+            "4 (3)",
+            "8 (5)",
+            "2 (2)",
+            "8 (5)",
+            "5 (3)",
+            "120 (80)",
+            "130 (87)",
+            "0",
+            "p-value"
+          ]
+        },
+        {
+          "value": "68 (89)",
+          "rowHeaders": [
+            "Regular smoker (smoked every day)",
+            "Pre-contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Intervention group (N = 169) n (%)",
+            "153 (91)",
+            "5 (3)",
+            "5 (3)",
+            "1 (<1)",
+            "7 (4)",
+            "7 (4)",
+            "134 (79)",
+            "145 (86)",
+            "1 (<1)",
+            "Consented (N = 76) n (%)"
+          ]
+        },
+        {
+          "value": "77 (83)",
+          "rowHeaders": [
+            "Regular smoker (smoked every day)",
+            "Pre-contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)",
+            "139 (93)",
+            "4 (3)",
+            "8 (5)",
+            "2 (2)",
+            "8 (5)",
+            "5 (3)",
+            "120 (80)",
+            "130 (87)",
+            "0",
+            "Declined (N = 93) n (%)"
+          ]
+        },
+        {
+          "value": "0.2",
+          "rowHeaders": [
+            "Regular smoker (smoked every day)",
+            "Pre-contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)",
+            "139 (93)",
+            "4 (3)",
+            "8 (5)",
+            "2 (2)",
+            "8 (5)",
+            "5 (3)",
+            "120 (80)",
+            "130 (87)",
+            "0",
+            "p-value"
+          ]
+        },
+        {
+          "value": "19 (28)",
+          "rowHeaders": [
+            "'Excellent' or 'Very good' self-reported health status",
+            "Pre-contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Intervention group (N = 169) n (%)",
+            "153 (91)",
+            "5 (3)",
+            "5 (3)",
+            "1 (<1)",
+            "7 (4)",
+            "7 (4)",
+            "134 (79)",
+            "145 (86)",
+            "1 (<1)",
+            "Consented (N = 76) n (%)"
+          ]
+        },
+        {
+          "value": "39 (46)",
+          "rowHeaders": [
+            "'Excellent' or 'Very good' self-reported health status",
+            "Pre-contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)",
+            "139 (93)",
+            "4 (3)",
+            "8 (5)",
+            "2 (2)",
+            "8 (5)",
+            "5 (3)",
+            "120 (80)",
+            "130 (87)",
+            "0",
+            "Declined (N = 93) n (%)"
+          ]
+        },
+        {
+          "value": "0.003",
+          "rowHeaders": [
+            "'Excellent' or 'Very good' self-reported health status",
+            "Pre-contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)",
+            "139 (93)",
+            "4 (3)",
+            "8 (5)",
+            "2 (2)",
+            "8 (5)",
+            "5 (3)",
+            "120 (80)",
+            "130 (87)",
+            "0",
+            "p-value"
+          ]
+        },
+        {
+          "value": "28 (41)",
+          "rowHeaders": [
+            "'Excellent' or 'Very good' self-reported health status",
+            "Contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Intervention group (N = 169) n (%)",
+            "153 (91)",
+            "5 (3)",
+            "5 (3)",
+            "1 (<1)",
+            "7 (4)",
+            "7 (4)",
+            "134 (79)",
+            "145 (86)",
+            "1 (<1)",
+            "Consented (N = 76) n (%)"
+          ]
+        },
+        {
+          "value": "34 (40)",
+          "rowHeaders": [
+            "'Excellent' or 'Very good' self-reported health status",
+            "Contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)",
+            "139 (93)",
+            "4 (3)",
+            "8 (5)",
+            "2 (2)",
+            "8 (5)",
+            "5 (3)",
+            "120 (80)",
+            "130 (87)",
+            "0",
+            "Declined (N = 93) n (%)"
+          ]
+        },
+        {
+          "value": "22 (32)",
+          "rowHeaders": [
+            "'Excellent' or 'Very good' self-reported health status",
+            "Contemplation",
+            "Preparation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Intervention group (N = 169) n (%)",
+            "153 (91)",
+            "5 (3)",
+            "5 (3)",
+            "1 (<1)",
+            "7 (4)",
+            "7 (4)",
+            "134 (79)",
+            "145 (86)",
+            "1 (<1)",
+            "Consented (N = 76) n (%)"
+          ]
+        },
+        {
+          "value": "11 (13)",
+          "rowHeaders": [
+            "'Excellent' or 'Very good' self-reported health status",
+            "Contemplation",
+            "Preparation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)",
+            "139 (93)",
+            "4 (3)",
+            "8 (5)",
+            "2 (2)",
+            "8 (5)",
+            "5 (3)",
+            "120 (80)",
+            "130 (87)",
+            "0",
+            "Declined (N = 93) n (%)"
+          ]
+        },
+        {
+          "value": "33 (43)",
+          "rowHeaders": [
+            "'Excellent' or 'Very good' self-reported health status",
+            "At least one quit attempt in previous 6 months",
+            "Contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Intervention group (N = 169) n (%)",
+            "153 (91)",
+            "5 (3)",
+            "5 (3)",
+            "1 (<1)",
+            "7 (4)",
+            "7 (4)",
+            "134 (79)",
+            "145 (86)",
+            "1 (<1)",
+            "Consented (N = 76) n (%)"
+          ]
+        },
+        {
+          "value": "31 (33)",
+          "rowHeaders": [
+            "'Excellent' or 'Very good' self-reported health status",
+            "At least one quit attempt in previous 6 months",
+            "Contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)",
+            "139 (93)",
+            "4 (3)",
+            "8 (5)",
+            "2 (2)",
+            "8 (5)",
+            "5 (3)",
+            "120 (80)",
+            "130 (87)",
+            "0",
+            "Declined (N = 93) n (%)"
+          ]
+        },
+        {
+          "value": "0.2",
+          "rowHeaders": [
+            "'Excellent' or 'Very good' self-reported health status",
+            "At least one quit attempt in previous 6 months",
+            "Contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)",
+            "139 (93)",
+            "4 (3)",
+            "8 (5)",
+            "2 (2)",
+            "8 (5)",
+            "5 (3)",
+            "120 (80)",
+            "130 (87)",
+            "0",
+            "p-value"
+          ]
+        },
+        {
+          "value": "12 months",
+          "rowHeaders": [
+            "Regular smoker (smoked every day)",
+            "At least one quit attempt in previous"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Intervention group (N = 169) n (%)",
+            "English language spoken at home",
+            "Heart disease",
+            "Chronic bronchitis or emphysema",
+            "Cancer",
+            "Diabetes mellitus",
+            "Vascular disease",
+            "Attending regular GP",
+            "Regular smoker",
+            "Pipes and cigars only",
+            "Consented (N = 76) n (%)"
+          ]
+        },
+        {
+          "value": "41 (54)",
+          "rowHeaders": [
+            "'Excellent' or 'Very good' self-reported health status",
+            "At least one quit attempt in previous",
+            "Contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Intervention group (N = 169) n (%)",
+            "153 (91)",
+            "5 (3)",
+            "5 (3)",
+            "1 (<1)",
+            "7 (4)",
+            "7 (4)",
+            "134 (79)",
+            "145 (86)",
+            "1 (<1)",
+            "Consented (N = 76) n (%)"
+          ]
+        },
+        {
+          "value": "38 (41)",
+          "rowHeaders": [
+            "'Excellent' or 'Very good' self-reported health status",
+            "At least one quit attempt in previous",
+            "Contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)",
+            "139 (93)",
+            "4 (3)",
+            "8 (5)",
+            "2 (2)",
+            "8 (5)",
+            "5 (3)",
+            "120 (80)",
+            "130 (87)",
+            "0",
+            "Declined (N = 93) n (%)"
+          ]
+        },
+        {
+          "value": "0.09",
+          "rowHeaders": [
+            "'Excellent' or 'Very good' self-reported health status",
+            "At least one quit attempt in previous",
+            "Contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)",
+            "139 (93)",
+            "4 (3)",
+            "8 (5)",
+            "2 (2)",
+            "8 (5)",
+            "5 (3)",
+            "120 (80)",
+            "130 (87)",
+            "0",
+            "p-value"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "39 (12)",
+          "rowHeaders": [
+            "Age (mean ± SD years)",
+            "At least one quit attempt in previous 6 months",
+            "Occasional smoker (not every day)"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Intervention group (N = 169) n (%)"
+          ]
+        },
+        {
+          "value": "36 (12)",
+          "rowHeaders": [
+            "Age (mean ± SD years)",
+            "At least one quit attempt in previous 6 months",
+            "Occasional smoker (not every day)"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)"
+          ]
+        },
+        {
+          "value": "87 (51)",
+          "rowHeaders": [
+            "Male",
+            "At least one quit attempt in previous 6 months",
+            "Occasional smoker (not every day)"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Intervention group (N = 169) n (%)"
+          ]
+        },
+        {
+          "value": "61 (41)",
+          "rowHeaders": [
+            "Male",
+            "At least one quit attempt in previous 6 months",
+            "Occasional smoker (not every day)"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)"
+          ]
+        },
+        {
+          "value": "70 (41)",
+          "rowHeaders": [
+            "Completed high school or tertiary education",
+            "At least one quit attempt in previous 6 months",
+            "Occasional smoker (not every day)"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Intervention group (N = 169) n (%)"
+          ]
+        },
+        {
+          "value": "59 (40)",
+          "rowHeaders": [
+            "Completed high school or tertiary education",
+            "At least one quit attempt in previous 6 months",
+            "Occasional smoker (not every day)"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)"
+          ]
+        },
+        {
+          "value": "88 (59)",
+          "rowHeaders": [
+            "Employed full or part-time",
+            "At least one quit attempt in previous 6 months",
+            "Occasional smoker (not every day)",
+            "102 (60)"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)"
+          ]
+        },
+        {
+          "value": "42 (25)",
+          "rowHeaders": [
+            "'Excellent' or 'Very good' self-reported health status",
+            "At least one quit attempt in previous 6 months",
+            "Occasional smoker (not every day)"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Intervention group (N = 169) n (%)",
+            "153 (91)"
+          ]
+        },
+        {
+          "value": "40 (27)",
+          "rowHeaders": [
+            "'Excellent' or 'Very good' self-reported health status",
+            "At least one quit attempt in previous 6 months",
+            "Occasional smoker (not every day)"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)",
+            "139 (93)"
+          ]
+        },
+        {
+          "value": "23 (14)",
+          "rowHeaders": [
+            "Nicotine dependency rated 'High' or 'Very High'",
+            "At least one quit attempt in previous 6 months",
+            "Occasional smoker (not every day)"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Intervention group (N = 169) n (%)",
+            "153 (91)",
+            "5 (3)",
+            "5 (3)",
+            "1 (<1)",
+            "7 (4)",
+            "7 (4)",
+            "134 (79)",
+            "145 (86)"
+          ]
+        },
+        {
+          "value": "19 (13)",
+          "rowHeaders": [
+            "Nicotine dependency rated 'High' or 'Very High'",
+            "At least one quit attempt in previous 6 months",
+            "Occasional smoker (not every day)"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)",
+            "139 (93)",
+            "4 (3)",
+            "8 (5)",
+            "2 (2)",
+            "8 (5)",
+            "5 (3)",
+            "120 (80)",
+            "130 (87)"
+          ]
+        },
+        {
+          "value": "10 or less",
+          "rowHeaders": [
+            "Nicotine dependency rated 'High' or 'Very High'",
+            "At least one quit attempt in previous 6 months"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Intervention group (N = 169) n (%)",
+            "English language spoken at home",
+            "Heart disease",
+            "Chronic bronchitis or emphysema",
+            "Cancer",
+            "Diabetes mellitus",
+            "Vascular disease",
+            "134 (79)",
+            "Regular smoker",
+            "Pipes and cigars only"
+          ]
+        },
+        {
+          "value": "39 (24)",
+          "rowHeaders": [
+            "Nicotine dependency rated 'High' or 'Very High'",
+            "At least one quit attempt in previous 6 months",
+            "11-20"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Intervention group (N = 169) n (%)",
+            "153 (91)",
+            "5 (3)",
+            "5 (3)",
+            "1 (<1)",
+            "7 (4)",
+            "7 (4)",
+            "134 (79)",
+            "145 (86)",
+            "1 (<1)"
+          ]
+        },
+        {
+          "value": "46 (32)",
+          "rowHeaders": [
+            "Nicotine dependency rated 'High' or 'Very High'",
+            "At least one quit attempt in previous 6 months",
+            "11-20"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)",
+            "139 (93)",
+            "4 (3)",
+            "8 (5)",
+            "2 (2)",
+            "8 (5)",
+            "5 (3)",
+            "120 (80)",
+            "130 (87)",
+            "0"
+          ]
+        },
+        {
+          "value": "74 (46)",
+          "rowHeaders": [
+            "Nicotine dependency rated 'High' or 'Very High'",
+            "At least one quit attempt in previous 6 months",
+            "11-20"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Intervention group (N = 169) n (%)",
+            "153 (91)",
+            "5 (3)",
+            "5 (3)",
+            "1 (<1)",
+            "7 (4)",
+            "7 (4)",
+            "134 (79)",
+            "145 (86)",
+            "1 (<1)"
+          ]
+        },
+        {
+          "value": "63 (43)",
+          "rowHeaders": [
+            "Nicotine dependency rated 'High' or 'Very High'",
+            "At least one quit attempt in previous 6 months",
+            "11-20"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)",
+            "139 (93)",
+            "4 (3)",
+            "8 (5)",
+            "2 (2)",
+            "8 (5)",
+            "5 (3)",
+            "120 (80)",
+            "130 (87)",
+            "0"
+          ]
+        },
+        {
+          "value": "38 (24)",
+          "rowHeaders": [
+            "Nicotine dependency rated 'High' or 'Very High'",
+            "At least one quit attempt in previous 6 months",
+            "21-30"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Intervention group (N = 169) n (%)",
+            "153 (91)",
+            "5 (3)",
+            "5 (3)",
+            "1 (<1)",
+            "7 (4)",
+            "7 (4)",
+            "134 (79)",
+            "145 (86)",
+            "1 (<1)"
+          ]
+        },
+        {
+          "value": "28 (19)",
+          "rowHeaders": [
+            "Nicotine dependency rated 'High' or 'Very High'",
+            "At least one quit attempt in previous 6 months",
+            "21-30"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)",
+            "139 (93)",
+            "4 (3)",
+            "8 (5)",
+            "2 (2)",
+            "8 (5)",
+            "5 (3)",
+            "120 (80)",
+            "130 (87)",
+            "0"
+          ]
+        },
+        {
+          "value": "31 or more",
+          "rowHeaders": [
+            "Completed high school or tertiary education",
+            "At least one quit attempt in previous"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Intervention group (N = 169) n (%)",
+            "English language spoken at home",
+            "Heart disease",
+            "Chronic bronchitis or emphysema",
+            "Cancer",
+            "Diabetes mellitus",
+            "Vascular disease",
+            "134 (79)",
+            "Regular smoker",
+            "Pipes and cigars only"
+          ]
+        },
+        {
+          "value": "10 (6)",
+          "rowHeaders": [
+            "Nicotine dependency rated 'High' or 'Very High'",
+            "At least one quit attempt in previous 6 months",
+            "21-30"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Intervention group (N = 169) n (%)",
+            "153 (91)",
+            "5 (3)",
+            "5 (3)",
+            "1 (<1)",
+            "7 (4)",
+            "7 (4)",
+            "134 (79)",
+            "145 (86)",
+            "1 (<1)"
+          ]
+        },
+        {
+          "value": "50 (30)",
+          "rowHeaders": [
+            "Nicotine dependency rated 'High' or 'Very High'",
+            "At least one quit attempt in previous 6 months",
+            "Pre-contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Intervention group (N = 169) n (%)",
+            "153 (91)",
+            "5 (3)",
+            "5 (3)",
+            "1 (<1)",
+            "7 (4)",
+            "7 (4)",
+            "134 (79)",
+            "145 (86)",
+            "1 (<1)"
+          ]
+        },
+        {
+          "value": "40 (27)",
+          "rowHeaders": [
+            "Nicotine dependency rated 'High' or 'Very High'",
+            "At least one quit attempt in previous 6 months",
+            "Pre-contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)",
+            "139 (93)",
+            "4 (3)",
+            "8 (5)",
+            "2 (2)",
+            "8 (5)",
+            "5 (3)",
+            "120 (80)",
+            "130 (87)",
+            "0"
+          ]
+        },
+        {
+          "value": "58 (34)",
+          "rowHeaders": [
+            "Nicotine dependency rated 'High' or 'Very High'",
+            "At least one quit attempt in previous 6 months",
+            "Pre-contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Intervention group (N = 169) n (%)",
+            "153 (91)",
+            "5 (3)",
+            "5 (3)",
+            "1 (<1)",
+            "7 (4)",
+            "7 (4)",
+            "134 (79)",
+            "145 (86)",
+            "1 (<1)"
+          ]
+        },
+        {
+          "value": "61 (41)",
+          "rowHeaders": [
+            "Nicotine dependency rated 'High' or 'Very High'",
+            "At least one quit attempt in previous 6 months",
+            "Pre-contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)",
+            "139 (93)",
+            "4 (3)",
+            "8 (5)",
+            "2 (2)",
+            "8 (5)",
+            "5 (3)",
+            "120 (80)",
+            "130 (87)",
+            "0"
+          ]
+        },
+        {
+          "value": "62 (37)",
+          "rowHeaders": [
+            "Nicotine dependency rated 'High' or 'Very High'",
+            "At least one quit attempt in previous 6 months",
+            "Contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Intervention group (N = 169) n (%)",
+            "153 (91)",
+            "5 (3)",
+            "5 (3)",
+            "1 (<1)",
+            "7 (4)",
+            "7 (4)",
+            "134 (79)",
+            "145 (86)",
+            "1 (<1)"
+          ]
+        },
+        {
+          "value": "48 (32)",
+          "rowHeaders": [
+            "Nicotine dependency rated 'High' or 'Very High'",
+            "At least one quit attempt in previous 6 months",
+            "Contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)",
+            "139 (93)",
+            "4 (3)",
+            "8 (5)",
+            "2 (2)",
+            "8 (5)",
+            "5 (3)",
+            "120 (80)",
+            "130 (87)",
+            "0"
+          ]
+        },
+        {
+          "value": "33 (20)",
+          "rowHeaders": [
+            "Nicotine dependency rated 'High' or 'Very High'",
+            "At least one quit attempt in previous 6 months",
+            "Preparation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Intervention group (N = 169) n (%)",
+            "153 (91)",
+            "5 (3)",
+            "5 (3)",
+            "1 (<1)",
+            "7 (4)",
+            "7 (4)",
+            "134 (79)",
+            "145 (86)",
+            "1 (<1)"
+          ]
+        },
+        {
+          "value": "35 (23)",
+          "rowHeaders": [
+            "Nicotine dependency rated 'High' or 'Very High'",
+            "At least one quit attempt in previous 6 months",
+            "Preparation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)",
+            "139 (93)",
+            "4 (3)",
+            "8 (5)",
+            "2 (2)",
+            "8 (5)",
+            "5 (3)",
+            "120 (80)",
+            "130 (87)",
+            "0"
+          ]
+        },
+        {
+          "value": "16 (9)",
+          "rowHeaders": [
+            "Nicotine dependency rated 'High' or 'Very High'",
+            "At least one quit attempt in previous 6 months",
+            "Missing"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Intervention group (N = 169) n (%)",
+            "153 (91)",
+            "5 (3)",
+            "5 (3)",
+            "1 (<1)",
+            "7 (4)",
+            "7 (4)",
+            "134 (79)",
+            "145 (86)",
+            "1 (<1)"
+          ]
+        },
+        {
+          "value": "64 (38)",
+          "rowHeaders": [
+            "Nicotine dependency rated 'High' or 'Very High'",
+            "At least one quit attempt in previous 6 months",
+            "Missing"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Intervention group (N = 169) n (%)",
+            "153 (91)",
+            "5 (3)",
+            "5 (3)",
+            "1 (<1)",
+            "7 (4)",
+            "7 (4)",
+            "134 (79)",
+            "145 (86)",
+            "1 (<1)"
+          ]
+        },
+        {
+          "value": "36 (24)",
+          "rowHeaders": [
+            "Nicotine dependency rated 'High' or 'Very High'",
+            "At least one quit attempt in previous 6 months",
+            "Missing"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)",
+            "139 (93)",
+            "4 (3)",
+            "8 (5)",
+            "2 (2)",
+            "8 (5)",
+            "5 (3)",
+            "120 (80)",
+            "130 (87)",
+            "0"
+          ]
+        },
+        {
+          "value": "12 months",
+          "rowHeaders": [
+            "Mean age (years)",
+            "At least one quit attempt in previous"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Intervention group (N = 169) n (%)",
+            "English language spoken at home",
+            "Heart disease",
+            "Chronic bronchitis or emphysema",
+            "Cancer",
+            "Diabetes mellitus",
+            "Vascular disease",
+            "Attending regular GP",
+            "Regular smoker",
+            "Pipes and cigars only"
+          ]
+        },
+        {
+          "value": "79 (47)",
+          "rowHeaders": [
+            "Nicotine dependency rated 'High' or 'Very High'",
+            "At least one quit attempt in previous",
+            "Missing"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Intervention group (N = 169) n (%)",
+            "153 (91)",
+            "5 (3)",
+            "5 (3)",
+            "1 (<1)",
+            "7 (4)",
+            "7 (4)",
+            "134 (79)",
+            "145 (86)",
+            "1 (<1)"
+          ]
+        },
+        {
+          "value": "51 (34)",
+          "rowHeaders": [
+            "Nicotine dependency rated 'High' or 'Very High'",
+            "At least one quit attempt in previous",
+            "Missing"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)",
+            "139 (93)",
+            "4 (3)",
+            "8 (5)",
+            "2 (2)",
+            "8 (5)",
+            "5 (3)",
+            "120 (80)",
+            "130 (87)",
+            "0"
+          ]
+        },
+        {
+          "value": "38",
+          "rowHeaders": [
+            "Mean age (years)",
+            "Pre-contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Intervention group (N = 169) n (%)",
+            "153 (91)",
+            "5 (3)",
+            "5 (3)",
+            "1 (<1)",
+            "7 (4)",
+            "7 (4)",
+            "134 (79)",
+            "145 (86)",
+            "1 (<1)",
+            "Consented (N = 76) n (%)"
+          ]
+        },
+        {
+          "value": "35",
+          "rowHeaders": [
+            "Mean age (years)",
+            "Pre-contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)",
+            "139 (93)",
+            "4 (3)",
+            "8 (5)",
+            "2 (2)",
+            "8 (5)",
+            "5 (3)",
+            "120 (80)",
+            "130 (87)",
+            "0",
+            "Declined (N = 93) n (%)"
+          ]
+        },
+        {
+          "value": "0.05",
+          "rowHeaders": [
+            "Mean age (years)",
+            "Pre-contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)",
+            "139 (93)",
+            "4 (3)",
+            "8 (5)",
+            "2 (2)",
+            "8 (5)",
+            "5 (3)",
+            "120 (80)",
+            "130 (87)",
+            "0",
+            "p-value"
+          ]
+        },
+        {
+          "value": "38 (50)",
+          "rowHeaders": [
+            "Male",
+            "Pre-contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Intervention group (N = 169) n (%)",
+            "153 (91)",
+            "5 (3)",
+            "5 (3)",
+            "1 (<1)",
+            "7 (4)",
+            "7 (4)",
+            "134 (79)",
+            "145 (86)",
+            "1 (<1)",
+            "Consented (N = 76) n (%)"
+          ]
+        },
+        {
+          "value": "49 (53)",
+          "rowHeaders": [
+            "Male",
+            "Pre-contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)",
+            "139 (93)",
+            "4 (3)",
+            "8 (5)",
+            "2 (2)",
+            "8 (5)",
+            "5 (3)",
+            "120 (80)",
+            "130 (87)",
+            "0",
+            "Declined (N = 93) n (%)"
+          ]
+        },
+        {
+          "value": "0.7",
+          "rowHeaders": [
+            "Male",
+            "Pre-contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)",
+            "139 (93)",
+            "4 (3)",
+            "8 (5)",
+            "2 (2)",
+            "8 (5)",
+            "5 (3)",
+            "120 (80)",
+            "130 (87)",
+            "0",
+            "p-value"
+          ]
+        },
+        {
+          "value": "34 (45)",
+          "rowHeaders": [
+            "Completed high school or tertiary education",
+            "Pre-contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Intervention group (N = 169) n (%)",
+            "153 (91)",
+            "5 (3)",
+            "5 (3)",
+            "1 (<1)",
+            "7 (4)",
+            "7 (4)",
+            "134 (79)",
+            "145 (86)",
+            "1 (<1)",
+            "Consented (N = 76) n (%)"
+          ]
+        },
+        {
+          "value": "36 (39)",
+          "rowHeaders": [
+            "Completed high school or tertiary education",
+            "Pre-contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)",
+            "139 (93)",
+            "4 (3)",
+            "8 (5)",
+            "2 (2)",
+            "8 (5)",
+            "5 (3)",
+            "120 (80)",
+            "130 (87)",
+            "0",
+            "Declined (N = 93) n (%)"
+          ]
+        },
+        {
+          "value": "0.4",
+          "rowHeaders": [
+            "Completed high school or tertiary education",
+            "Pre-contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)",
+            "139 (93)",
+            "4 (3)",
+            "8 (5)",
+            "2 (2)",
+            "8 (5)",
+            "5 (3)",
+            "120 (80)",
+            "130 (87)",
+            "0",
+            "p-value"
+          ]
+        },
+        {
+          "value": "46 (61)",
+          "rowHeaders": [
+            "Employed full or part-time",
+            "Pre-contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Intervention group (N = 169) n (%)",
+            "153 (91)",
+            "5 (3)",
+            "5 (3)",
+            "1 (<1)",
+            "7 (4)",
+            "7 (4)",
+            "134 (79)",
+            "145 (86)",
+            "1 (<1)",
+            "Consented (N = 76) n (%)"
+          ]
+        },
+        {
+          "value": "56 (60)",
+          "rowHeaders": [
+            "Employed full or part-time",
+            "Pre-contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)",
+            "139 (93)",
+            "4 (3)",
+            "8 (5)",
+            "2 (2)",
+            "8 (5)",
+            "5 (3)",
+            "120 (80)",
+            "130 (87)",
+            "0",
+            "Declined (N = 93) n (%)"
+          ]
+        },
+        {
+          "value": "1.0",
+          "rowHeaders": [
+            "Employed full or part-time",
+            "Pre-contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)",
+            "139 (93)",
+            "4 (3)",
+            "8 (5)",
+            "2 (2)",
+            "8 (5)",
+            "5 (3)",
+            "120 (80)",
+            "130 (87)",
+            "0",
+            "p-value"
+          ]
+        },
+        {
+          "value": "70 (92)",
+          "rowHeaders": [
+            "English language spoken at home",
+            "Pre-contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Intervention group (N = 169) n (%)",
+            "153 (91)",
+            "5 (3)",
+            "5 (3)",
+            "1 (<1)",
+            "7 (4)",
+            "7 (4)",
+            "134 (79)",
+            "145 (86)",
+            "1 (<1)",
+            "Consented (N = 76) n (%)"
+          ]
+        },
+        {
+          "value": "83 (89)",
+          "rowHeaders": [
+            "English language spoken at home",
+            "Pre-contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)",
+            "139 (93)",
+            "4 (3)",
+            "8 (5)",
+            "2 (2)",
+            "8 (5)",
+            "5 (3)",
+            "120 (80)",
+            "130 (87)",
+            "0",
+            "Declined (N = 93) n (%)"
+          ]
+        },
+        {
+          "value": "0.5",
+          "rowHeaders": [
+            "English language spoken at home",
+            "Pre-contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)",
+            "139 (93)",
+            "4 (3)",
+            "8 (5)",
+            "2 (2)",
+            "8 (5)",
+            "5 (3)",
+            "120 (80)",
+            "130 (87)",
+            "0",
+            "p-value"
+          ]
+        },
+        {
+          "value": "17 (22)",
+          "rowHeaders": [
+            "'Excellent' or 'Very good' self-reported health status",
+            "Pre-contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Intervention group (N = 169) n (%)",
+            "153 (91)",
+            "5 (3)",
+            "5 (3)",
+            "1 (<1)",
+            "7 (4)",
+            "7 (4)",
+            "134 (79)",
+            "145 (86)",
+            "1 (<1)",
+            "Consented (N = 76) n (%)"
+          ]
+        },
+        {
+          "value": "25 (27)",
+          "rowHeaders": [
+            "'Excellent' or 'Very good' self-reported health status",
+            "Pre-contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)",
+            "139 (93)",
+            "4 (3)",
+            "8 (5)",
+            "2 (2)",
+            "8 (5)",
+            "5 (3)",
+            "120 (80)",
+            "130 (87)",
+            "0",
+            "Declined (N = 93) n (%)"
+          ]
+        },
+        {
+          "value": "0.5",
+          "rowHeaders": [
+            "'Excellent' or 'Very good' self-reported health status",
+            "Pre-contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)",
+            "139 (93)",
+            "4 (3)",
+            "8 (5)",
+            "2 (2)",
+            "8 (5)",
+            "5 (3)",
+            "120 (80)",
+            "130 (87)",
+            "0",
+            "p-value"
+          ]
+        },
+        {
+          "value": "64 (84)",
+          "rowHeaders": [
+            "Attending regular GP",
+            "Pre-contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Intervention group (N = 169) n (%)",
+            "153 (91)",
+            "5 (3)",
+            "5 (3)",
+            "1 (<1)",
+            "7 (4)",
+            "7 (4)",
+            "134 (79)",
+            "145 (86)",
+            "1 (<1)",
+            "Consented (N = 76) n (%)"
+          ]
+        },
+        {
+          "value": "70 (75)",
+          "rowHeaders": [
+            "Attending regular GP",
+            "Pre-contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)",
+            "139 (93)",
+            "4 (3)",
+            "8 (5)",
+            "2 (2)",
+            "8 (5)",
+            "5 (3)",
+            "120 (80)",
+            "130 (87)",
+            "0",
+            "Declined (N = 93) n (%)"
+          ]
+        },
+        {
+          "value": "0.2",
+          "rowHeaders": [
+            "Attending regular GP",
+            "Pre-contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)",
+            "139 (93)",
+            "4 (3)",
+            "8 (5)",
+            "2 (2)",
+            "8 (5)",
+            "5 (3)",
+            "120 (80)",
+            "130 (87)",
+            "0",
+            "p-value"
+          ]
+        },
+        {
+          "value": "68 (89)",
+          "rowHeaders": [
+            "Regular smoker (smoked every day)",
+            "Pre-contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Intervention group (N = 169) n (%)",
+            "153 (91)",
+            "5 (3)",
+            "5 (3)",
+            "1 (<1)",
+            "7 (4)",
+            "7 (4)",
+            "134 (79)",
+            "145 (86)",
+            "1 (<1)",
+            "Consented (N = 76) n (%)"
+          ]
+        },
+        {
+          "value": "77 (83)",
+          "rowHeaders": [
+            "Regular smoker (smoked every day)",
+            "Pre-contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)",
+            "139 (93)",
+            "4 (3)",
+            "8 (5)",
+            "2 (2)",
+            "8 (5)",
+            "5 (3)",
+            "120 (80)",
+            "130 (87)",
+            "0",
+            "Declined (N = 93) n (%)"
+          ]
+        },
+        {
+          "value": "0.2",
+          "rowHeaders": [
+            "Regular smoker (smoked every day)",
+            "Pre-contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)",
+            "139 (93)",
+            "4 (3)",
+            "8 (5)",
+            "2 (2)",
+            "8 (5)",
+            "5 (3)",
+            "120 (80)",
+            "130 (87)",
+            "0",
+            "p-value"
+          ]
+        },
+        {
+          "value": "19 (28)",
+          "rowHeaders": [
+            "'Excellent' or 'Very good' self-reported health status",
+            "Pre-contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Intervention group (N = 169) n (%)",
+            "153 (91)",
+            "5 (3)",
+            "5 (3)",
+            "1 (<1)",
+            "7 (4)",
+            "7 (4)",
+            "134 (79)",
+            "145 (86)",
+            "1 (<1)",
+            "Consented (N = 76) n (%)"
+          ]
+        },
+        {
+          "value": "39 (46)",
+          "rowHeaders": [
+            "'Excellent' or 'Very good' self-reported health status",
+            "Pre-contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)",
+            "139 (93)",
+            "4 (3)",
+            "8 (5)",
+            "2 (2)",
+            "8 (5)",
+            "5 (3)",
+            "120 (80)",
+            "130 (87)",
+            "0",
+            "Declined (N = 93) n (%)"
+          ]
+        },
+        {
+          "value": "0.003",
+          "rowHeaders": [
+            "'Excellent' or 'Very good' self-reported health status",
+            "Pre-contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)",
+            "139 (93)",
+            "4 (3)",
+            "8 (5)",
+            "2 (2)",
+            "8 (5)",
+            "5 (3)",
+            "120 (80)",
+            "130 (87)",
+            "0",
+            "p-value"
+          ]
+        },
+        {
+          "value": "28 (41)",
+          "rowHeaders": [
+            "'Excellent' or 'Very good' self-reported health status",
+            "Contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Intervention group (N = 169) n (%)",
+            "153 (91)",
+            "5 (3)",
+            "5 (3)",
+            "1 (<1)",
+            "7 (4)",
+            "7 (4)",
+            "134 (79)",
+            "145 (86)",
+            "1 (<1)",
+            "Consented (N = 76) n (%)"
+          ]
+        },
+        {
+          "value": "34 (40)",
+          "rowHeaders": [
+            "'Excellent' or 'Very good' self-reported health status",
+            "Contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)",
+            "139 (93)",
+            "4 (3)",
+            "8 (5)",
+            "2 (2)",
+            "8 (5)",
+            "5 (3)",
+            "120 (80)",
+            "130 (87)",
+            "0",
+            "Declined (N = 93) n (%)"
+          ]
+        },
+        {
+          "value": "22 (32)",
+          "rowHeaders": [
+            "'Excellent' or 'Very good' self-reported health status",
+            "Contemplation",
+            "Preparation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Intervention group (N = 169) n (%)",
+            "153 (91)",
+            "5 (3)",
+            "5 (3)",
+            "1 (<1)",
+            "7 (4)",
+            "7 (4)",
+            "134 (79)",
+            "145 (86)",
+            "1 (<1)",
+            "Consented (N = 76) n (%)"
+          ]
+        },
+        {
+          "value": "11 (13)",
+          "rowHeaders": [
+            "'Excellent' or 'Very good' self-reported health status",
+            "Contemplation",
+            "Preparation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)",
+            "139 (93)",
+            "4 (3)",
+            "8 (5)",
+            "2 (2)",
+            "8 (5)",
+            "5 (3)",
+            "120 (80)",
+            "130 (87)",
+            "0",
+            "Declined (N = 93) n (%)"
+          ]
+        },
+        {
+          "value": "33 (43)",
+          "rowHeaders": [
+            "'Excellent' or 'Very good' self-reported health status",
+            "At least one quit attempt in previous 6 months",
+            "Contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Intervention group (N = 169) n (%)",
+            "153 (91)",
+            "5 (3)",
+            "5 (3)",
+            "1 (<1)",
+            "7 (4)",
+            "7 (4)",
+            "134 (79)",
+            "145 (86)",
+            "1 (<1)",
+            "Consented (N = 76) n (%)"
+          ]
+        },
+        {
+          "value": "31 (33)",
+          "rowHeaders": [
+            "'Excellent' or 'Very good' self-reported health status",
+            "At least one quit attempt in previous 6 months",
+            "Contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)",
+            "139 (93)",
+            "4 (3)",
+            "8 (5)",
+            "2 (2)",
+            "8 (5)",
+            "5 (3)",
+            "120 (80)",
+            "130 (87)",
+            "0",
+            "Declined (N = 93) n (%)"
+          ]
+        },
+        {
+          "value": "0.2",
+          "rowHeaders": [
+            "'Excellent' or 'Very good' self-reported health status",
+            "At least one quit attempt in previous 6 months",
+            "Contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)",
+            "139 (93)",
+            "4 (3)",
+            "8 (5)",
+            "2 (2)",
+            "8 (5)",
+            "5 (3)",
+            "120 (80)",
+            "130 (87)",
+            "0",
+            "p-value"
+          ]
+        },
+        {
+          "value": "12 months",
+          "rowHeaders": [
+            "Regular smoker (smoked every day)",
+            "At least one quit attempt in previous"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Intervention group (N = 169) n (%)",
+            "English language spoken at home",
+            "Heart disease",
+            "Chronic bronchitis or emphysema",
+            "Cancer",
+            "Diabetes mellitus",
+            "Vascular disease",
+            "Attending regular GP",
+            "Regular smoker",
+            "Pipes and cigars only",
+            "Consented (N = 76) n (%)"
+          ]
+        },
+        {
+          "value": "41 (54)",
+          "rowHeaders": [
+            "'Excellent' or 'Very good' self-reported health status",
+            "At least one quit attempt in previous",
+            "Contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Intervention group (N = 169) n (%)",
+            "153 (91)",
+            "5 (3)",
+            "5 (3)",
+            "1 (<1)",
+            "7 (4)",
+            "7 (4)",
+            "134 (79)",
+            "145 (86)",
+            "1 (<1)",
+            "Consented (N = 76) n (%)"
+          ]
+        },
+        {
+          "value": "38 (41)",
+          "rowHeaders": [
+            "'Excellent' or 'Very good' self-reported health status",
+            "At least one quit attempt in previous",
+            "Contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)",
+            "139 (93)",
+            "4 (3)",
+            "8 (5)",
+            "2 (2)",
+            "8 (5)",
+            "5 (3)",
+            "120 (80)",
+            "130 (87)",
+            "0",
+            "Declined (N = 93) n (%)"
+          ]
+        },
+        {
+          "value": "0.09",
+          "rowHeaders": [
+            "'Excellent' or 'Very good' self-reported health status",
+            "At least one quit attempt in previous",
+            "Contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1: Baseline characteristics of smokers assigned to intervention and control groups",
+            "Control group (N = 149) n (%)",
+            "139 (93)",
+            "4 (3)",
+            "8 (5)",
+            "2 (2)",
+            "8 (5)",
+            "5 (3)",
+            "120 (80)",
+            "130 (87)",
+            "0",
+            "p-value"
+          ]
+        }
+      ],
+      "page": 1
+    }
+  ]
+}

@@ -1,0 +1,1493 @@
+{
+  "blocks": [
+    {
+      "type": "LINES",
+      "value": "Does Outpatient Telephone Coaching Add to Hospital Quality Improvement Following Hospitalization for Acute Coronary Syndrome?",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "BACKGROUND: Telephone counseling in chronic disease self-management is increasing, but has not been tested in studies that control for quality of medical care.",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "A sample of 719 subjects consented and were enrolled by trained nurse recruiters from January 14, 2002 through April 13, 2003 at five community hospitals in two geographically contiguous Michigan communities, with comparable patient demographics, employment patterns, insurance coverage, proportions of minority, unemployed and low-income residents. 10-13 All five were community teaching hospitals. Based on peer grouping criteria, three were large hospitals and two were moderately sized hospitals (none were small volume hospitals). Four out of five had facilities for coronary artery bypass graft surgery. Four out of five had greater than 10% minority patients with ACS discharged per year.\nPatient inclusion criteria were a working diagnosis of ACS in the medical record, a documented serum troponin I level greater than the upper limits of normal, and age greater than 21 years. Patients were excluded if unable to speak English or complete study interviews, or discharged to a non-home setting.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Patients who agreed to participate were randomized within each hospital to QI-only or QI-plus. Randomization was originally begun at recruitment for the first 98 patients (19% of baseline interviewed) patients, but was changed to postbaseline interview for the remaining 427 (81%) to correct an imbalance in study group sizes. The imbalance in study group sizes developed not as a result of the initial (blocked) randomization, but from unknown factors related to the logistics of interviewer contacts, which happened to be more successful among subjects assigned to the intervention than the control groups. Based on comparison of demographic variables, we cannot find any introduced bias. The study was approved by the University Committee on Research Involving Human Subjects of Michigan State University and by each hospital IRB before study data were collected.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Participants were recruited from hospitals that participated in the American College of Cardiology Guidelines Applied to Practice (GAP) QI program one year prior to the present trial. Both intervention and control groups received the QI program by virtue of having been admitted to GAP hospitals. The added counseling intervention was provided to the QI-plus intervention group only. The two programs are described in according to the American Heart Association Taxonomy for Disease management. GAP QI-Only. GAP is a translational program shown to improve physician adherence to guidelines, but ends at discharge. 3,9 GAP patients received a written discharge contract listing recommended outpatient medications, cardiac rehabilitation recommendations, and health behavior changes (smoking cessation, diet modification, and exercise), as well as numerical values for ejection fraction and cholesterol. Both discharge planner and patient signed the contract and the patient received a copy.\nHARP QI-Plus Telephone Coaching. The Heart After-Hospital Recovery Planner (HARP) intervention was adapted from a successful smoking cessation program, and was designed for multiple risk behaviors. Patients in the QI-plus arm received a six-session health behavior change telephone counseling program delivered by a trained health educator (the coach) during the first three months after discharge. Primary behavior goals included: reduction or elimination of smoking, increasing physical activity, and eating a healthier diet. Coaching telephone sessions averaged 15 to 30 minutes and occurred weekly for six weeks. Behavior change strategies included behavioral staging, motivational interviewing, goal setting, relapse prevention, and obtaining social support. Patients were encouraged to identify at least one current behavior they intended to improve and set weekly goal(s). Patients who selected smoking cessation were encouraged to use pharmacotherapy for assistance with cessation. Each patient and his/her family received an information booklet and goal worksheets, described elsewhere. The content of the program was standardized through a semi-structured counseling program, the adoption of individual goal sheets, and the use of the same counselor for all participants. The program was thus tailored to each patient's goals. The content of patient goals is described in detail elsewhere. Of the 175 patients entering the program, all completed more than four sessions, with a mean number of sessions of 5.9 (SD=0.34). Those who did not enter the program after randomization (n=93) were not different from those that did complete the program, with the exception of the non-completers were less likely to have a BMI over 30 (24.5% versus 9.9%; P=.010). Reasons for non-participation in the program included: telephone change/disconnected (33%), changed mind and declined participation (18%), unable to contact due to privacy manager/caller ID (14%), unspecified reasons (19%), too ill (13%), and patient moved (5%).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Primary outcomes are secondary prevention behaviors; secondary outcomes are physical functioning and quality of life. Predictor variables to control for study baseline health status include severity of illness, socio-economic status, and hospital treatment. Race and ethnicity were assessed using the US Census self-report classification.\nSecondary prevention behaviors. Physical activity, weight loss, and smoking were assessed on a stages-of-change scale. Self-report physical activity asked whether the patient was engaging in physical activity fora total of at least 30 minutes a day at least five days a week. Responses on the five-item scale were re-coded into two categories: 1 = Engaging in the behavior (action or maintenance) or 0 = Not Engaging in the behavior (pre-contemplation, contemplation or preparation). Smoking status at the time of hospitalization was established by: 1) medical record (history of current and past smoking), and 2) the baseline interview. In the three-month and eight-month interviews, smoking status was divided into three categories: current smoker, former smoker/quitter, and non-smoker (never smoked). In-hospital and discharge medications were obtained from the medical record.\nPhysical functioning was measured by the Duke Activity Status Index (DASI), a weighted composite score computed from answers to questions about 12 activities of daily living of progressive intensity. 22 DASI scores range from 0 to 58.2, with a higher score indicating greater functional capacity.\nThe quality of life EQ-5D measure evaluates: 1) mobility, 2) self-care, 3) usual activity, 4) pain/discomfort, and 5) anxiety/ depression. It produces a score in which full health has a value of 1 and death has a value of 0.\nHealth status. ACS case-mix was evaluated by abstracting from the medical record 1) ejection fraction (EF) and 2) comorbidity count. Ejection fractions were dichotomized at EF above and below 35%. Charlson comorbidity index (CCI) definitions were used, with the index ACS episode not counted as a comorbidity. The distribution of comorbid conditions is lopsided. Since comorbidity effects are often nonlinear, the discrete categorical variable (0-1, 2-3, ≥4) was used because it captures these effects better than a continuous variable.\nDepression was measured by the Centers for Epidemiologic Studies of Depression (CES-D), a 20-item symptom measure with a range from 0 (no depressive symptoms) to 60 (highest level of symptoms). A CES-D score of 16 or greater is highly correlated with a diagnosis of depression.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Study data were collected from 1) medical records, 2) postdischarge patient telephone surveys, and 3) State of Michigan Vital Records (mortality). Nurse medical record reviewers in each hospital were supervised by the project field manager. The nurses developed the code book together, practiced on pilot charts, and refined the project code book in an iterative process. The project field manager continued to sample each reviewer's charts to maintain quality control. Reliability ≥98% was maintained throughout.\nTelephone surveys lasting approximately 30 to 40 minutes were conducted by survey researchers from the Michigan State University (MSU) Institute for Public Policy and Social Research. The baseline interview was conducted within four weeks of discharge (mean=14.1 days, SD=9.6). Telephone surveys assessed medical care utilization, medication use, hospital readmissions, emergency department visits, cardiac rehabilitation program participation, and secondary prevention behaviors, at each interview. Medication use was assessed in the survey by asking patients to collect the bottles of each of their currently used prescription medications and read the names and dosages to the interviewer. Data collectors were blinded to group membership (QI-only or QI-plus).\nOutcome assessments were obtained from the three-month and eight-month interviews and from State of Michigan Vital Records (mortality).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "We employed pooled-time series generalized estimating equations to analyze the survey data. This approach allows for: 1) regression models with multiple link functions to accommodate either categorical or continuous outcome variables (such as the health status and behavioral variables), 2) the incorporation of correlated errors to accommodate within-subject variation between the baseline and follow-up interviews, and 3) regression models with all available observations as well as intention-to-treat analysis, applying the principle of last observation carried forward. Overall, we employed five behavioral outcome variables to test for post-intervention differences between the intervention and control groups. To reduce the probability of obtaining significant results due to multiple tests, we applied a Bonferroni adjustment to the probability of a Type I error, taking into account that the outcomes variables were moderately correlated (average correlation 0.24). Consequently, the alpha-level for 'statistical significance' was set at 0.02. Similarly, for the 'ultimate' outcomes of the DASI and EQ5D, which correlated highly at r=0.6, the Bonferroni adjustment led to the adoption of an alpha value of 0.04.\nFor all main results, we have adequate power to detect a difference between groups. For two primary behavioral outcome measures, weight loss and physical activity, we have power of approximately 0.89 (Type I error of 0.05, a one-sided test of a 25% relative improvement). For the secondary outcomes, the DASI and EQ-5D, standardized effects sizes translate to 2 point (small ES) and 5 point (moderate ES) differences on the EQ-5D. For the DASI, this translates to mean differences of 3.44 and 8.6, respectively.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Of 719 ACS patients who met eligibility criteria and consented to participate, 525 (73%) could be re-contacted by phone and participated in the baseline interview, conducted, on average, two weeks after discharge. Attrition is shown in. Patients who consented, but did not participate in the baseline interview differed from the interviewees in that they were older (63 years vs. 60 years, p<.01) more likely to have received antianxiety medications (OR: 2.58, p<0.01), and were more likely to be minorities (OR: 2.02, p<0.01). Sample characteristics of the intervention (N=268) and control groups (N=257) participating in the baseline interview are shown in. There was no difference in attrition by group assignment. Fifteen post-discharge deaths occurred between baseline and the eight-month follow-up (intervention=8, control=7, p=0.84)\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "There were no statistically significant differences in medication use between the intervention and control groups for beta blockers, aspirin, angiotensin converting enzyme inhibitors, angiotensin receptor blockers, and lipid lowering medication at the three time points.\nThe intervention increased self-reported physical activity at 3 and 8 months (OR=1.53, p<0.02). Differences in the odds of smoking cessation and weight loss participation were not statistically significant, and there were no difference in functional status or quality of life by intention-to-treat.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The GAP QI intervention was previously shown to be successful in increasing physician adherence to guidelines in-hospital, and to reduce mortality. We evaluated an added telephone counseling intervention post-discharge. Over a period of 8 months after hospitalization, we found the telephone counseling intervention to add minimally to self-reported behavior change during the intervention, with no significant changes in health status or quality of life. While we found a small difference in physical activity in the intervention group, our results are largely negative. We conclude that a telephone counseling intervention added to hospital QI during the 3-month period post-hospitalization failed to produce a meaningful advantage in terms of health status and quality of life.\nWhat is the explanation for our negative results? One explanation could be that the intervention approach itself was not a good match for these patients. While our follow-up intervals exceeded the usual three-month interval found inmost studies, it is possible that the increased physical activity reported, if maintained for an even longer time period, could\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Intervention n=268\nControl n=257\nCompleted interview n=225\nCompleted interview n=215\nCompleted interview n=202\nCompleted interview n=186\nLost n=194\nRandom assignment\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Lost n=42\nLost n=29\nLost n=43\nLost n=23\nBaseline interviewed n=525. Patient attrition.\nresult in health status and quality-of-life benefits. However, our previous success in smoking cessation in primary care did not carryover to multiple risk factor intervention posthospitalization for ACS. This approach did not produce gains in physical activity, weight, functional status or quality of life beyond what patients accomplished spontaneously with medical management. We believe the main explanation for the failure of the telephone intervention to show additional benefits is that it came on top of an ongoing QI program in which patients consistently received standard in-hospital counseling. This suggests that for the majority of patients, instruction in hospital appears to have been important and effective, and that additional counseling outside the context of follow-up office care added only a little benefit. It may well be that, at least following ACS, patients largely followed the discharge advice, including relatively high medication adherence. The QI protocol required in-hospital counseling and a discharge patient contract that provided the patient with numerical values for ejection fraction and cholesterol, and made medication and behavior change recommendations.\nDo we conclude that telephone-delivered health behavior change is not effective in accomplishing secondary prevention? In part, the answer is yes. We show that in our study, telephone counseling for patients added little when the clinicians were participating in rigorous quality improvement. In other settings that do not have active QI protocols, telephone counseling may act as a \"reminder\" to a patient to raise guidelinespecific issues with a clinician, though we are not aware of research testing this approach. Putting our results in a broader context, they are consistent with a recently published Cochrane review of telephone follow-up following discharge from hospital. The review included 33 randomized trials or quasi-randomized trials that followed a total of 5,110 patients. The review authors found the studies to be of generally low methodological quality that varied widely in terms of type of health professional involved. However, they concluded that overall, clinically equivalent results were found in the telephone follow-up and control groups. Our study is more rigorous, followed patients for eight months rather than three, and followed a known standardized quality improvement protocol in the five hospitals. Our findings corroborate the more tentative ones of Mistiaen and Poot in the Cochrane review . This suggests that where resource allocation choices are being made, higher payoff for secondary prevention post-hospital maybe found in consistent delivery of guidelineconsistent care.\nWhat is the impact of other patient-oriented interventions? Several reviews of related standardized, written patient information show clear improvement in patient knowledge. Reviews of patient-centered care, and coaching show improvements in patient satisfaction and question asking. Free-standing patient-oriented behavior change interventions, however, show limited impact on behavior and health outcomes, including layperson led chronic disease self-management courses. At *statistically significant (p≤.05) †Respondents who engaged (action or maintenance) in a weight loss regimen ‡Respondents who quit (action or maintenance) smoking at time of data collection §Respondents who engaged (action or maintenance) in physical activity for 30 minutes 5 days a week ║Out of N=440 who participated in the 3-month interview and N=388 who participated in the 8-month interview, due to missing information on predictor variables, ¶Subset of smokers at the time of hospitalization who participated in panel survey #reference category the same time, some disease-specific interventions that provide information to both clinician and patient at the point of care do show impact on health outcomes in at least some patientoriented chronic disease interventions. We conclude that patient-oriented interventions, to be both effective and efficient must be integrated into on-going medical care. Whether or not brief behavior change interventions can contribute substantially to clinical care beyond the clear success of smoking cessation requires further testing. Future research should investigate both brief and intensive behavior change interventions that are well-integrated into care delivery systems.\nAcknowledgments: Special thanks to Chrystal Price, MS, for data entry, Camille Proden, RN, BSN, community project manager, for supervision of field staff, study recruitment and medical record auditing, and to Cynthia Alderson (deceased) for project management. The sponsor had no role in the design and conduct of the study; collection, management, analysis, or interpretation of the data; preparation review or approval of the manuscript. Presented in part at: the Society for General Internal Medicine Annual.\n",
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "95 (35%)",
+          "rowHeaders": [
+            "Male",
+            "Catheterization"
+          ],
+          "columnHeaders": [
+            "Table 2. Sample Characteristics at Baseline",
+            "Intervention",
+            "N=268",
+            "173 (65%)"
+          ]
+        },
+        {
+          "value": "96 (38%)",
+          "rowHeaders": [
+            "Male",
+            "Catheterization",
+            "228 (85%)"
+          ],
+          "columnHeaders": [
+            "Table 2. Sample Characteristics at Baseline",
+            "Control",
+            "N=257",
+            "161 (63%)"
+          ]
+        },
+        {
+          "value": "0.65",
+          "rowHeaders": [
+            "Male",
+            "Catheterization",
+            "228 (85%)",
+            "215 (84%)"
+          ],
+          "columnHeaders": [
+            "Table 2. Sample Characteristics at Baseline",
+            "p-value",
+            "N=257",
+            "161 (63%)"
+          ]
+        },
+        {
+          "value": "12.5 [2.3]",
+          "rowHeaders": [
+            "Education, years",
+            "Catheterization"
+          ],
+          "columnHeaders": [
+            "Table 2. Sample Characteristics at Baseline",
+            "Intervention",
+            "N=268",
+            "173 (65%)"
+          ]
+        },
+        {
+          "value": "12.6 [2.3]",
+          "rowHeaders": [
+            "Education, years",
+            "Catheterization",
+            "228 (85%)"
+          ],
+          "columnHeaders": [
+            "Table 2. Sample Characteristics at Baseline",
+            "Control",
+            "N=257",
+            "161 (63%)"
+          ]
+        },
+        {
+          "value": "0.58",
+          "rowHeaders": [
+            "Education, years",
+            "Catheterization",
+            "228 (85%)",
+            "215 (84%)"
+          ],
+          "columnHeaders": [
+            "Table 2. Sample Characteristics at Baseline",
+            "p-value",
+            "N=257",
+            "161 (63%)"
+          ]
+        },
+        {
+          "value": "85 (32%)",
+          "rowHeaders": [
+            "Not married",
+            "Catheterization"
+          ],
+          "columnHeaders": [
+            "Table 2. Sample Characteristics at Baseline",
+            "Intervention",
+            "N=268",
+            "173 (65%)",
+            "183 (68%)"
+          ]
+        },
+        {
+          "value": "89 (35%)",
+          "rowHeaders": [
+            "Not married",
+            "Catheterization",
+            "228 (85%)"
+          ],
+          "columnHeaders": [
+            "Table 2. Sample Characteristics at Baseline",
+            "Control",
+            "N=257",
+            "161 (63%)",
+            "167 (65%)"
+          ]
+        },
+        {
+          "value": "0.46",
+          "rowHeaders": [
+            "Not married",
+            "Catheterization",
+            "228 (85%)",
+            "215 (84%)"
+          ],
+          "columnHeaders": [
+            "Table 2. Sample Characteristics at Baseline",
+            "p-value",
+            "N=257",
+            "161 (63%)",
+            "167 (65%)"
+          ]
+        },
+        {
+          "value": "0.50",
+          "rowHeaders": [
+            "Non-Hispanic white",
+            "Catheterization",
+            "228 (85%)",
+            "215 (84%)"
+          ],
+          "columnHeaders": [
+            "Table 2. Sample Characteristics at Baseline",
+            "p-value",
+            "N=257",
+            "161 (63%)",
+            "167 (65%)"
+          ]
+        },
+        {
+          "value": "59.0 [12.0]",
+          "rowHeaders": [
+            "Patient age (mean [SD])",
+            "Catheterization"
+          ],
+          "columnHeaders": [
+            "Table 2. Sample Characteristics at Baseline",
+            "Intervention",
+            "N=268",
+            "173 (65%)",
+            "183 (68%)",
+            "32(11.9%)",
+            "5(1.9%)",
+            "3(1.1%)"
+          ]
+        },
+        {
+          "value": "60.5 [11.9]",
+          "rowHeaders": [
+            "Patient age (mean [SD])",
+            "Catheterization",
+            "228 (85%)"
+          ],
+          "columnHeaders": [
+            "Table 2. Sample Characteristics at Baseline",
+            "Control",
+            "N=257",
+            "161 (63%)",
+            "167 (65%)",
+            "28(10.9%)",
+            "7(2.7%)",
+            "7(2.7%)"
+          ]
+        },
+        {
+          "value": "0.93",
+          "rowHeaders": [
+            "Patient age (mean [SD])",
+            "Catheterization",
+            "228 (85%)",
+            "215 (84%)"
+          ],
+          "columnHeaders": [
+            "Table 2. Sample Characteristics at Baseline",
+            "p-value",
+            "N=257",
+            "161 (63%)",
+            "167 (65%)",
+            "28(10.9%)",
+            "7(2.7%)",
+            "7(2.7%)"
+          ]
+        },
+        {
+          "value": "0.47",
+          "rowHeaders": [
+            "Drinks alcohol",
+            "Catheterization",
+            "75%",
+            "78%"
+          ],
+          "columnHeaders": [
+            "Table 2. Sample Characteristics at Baseline",
+            "p-value",
+            "N=257",
+            "161 (63%)",
+            "167 (65%)",
+            "28(10.9%)",
+            "7(2.7%)",
+            "7(2.7%)"
+          ]
+        },
+        {
+          "value": "61 (23%)",
+          "rowHeaders": [
+            "Never smoked",
+            "Catheterization"
+          ],
+          "columnHeaders": [
+            "Table 2. Sample Characteristics at Baseline",
+            "Intervention",
+            "N=268",
+            "173 (65%)",
+            "183 (68%)",
+            "32(11.9%)",
+            "5(1.9%)",
+            "3(1.1%)"
+          ]
+        },
+        {
+          "value": "80 (31%)",
+          "rowHeaders": [
+            "Never smoked",
+            "Catheterization",
+            "125 (47%)"
+          ],
+          "columnHeaders": [
+            "Table 2. Sample Characteristics at Baseline",
+            "Control",
+            "N=257",
+            "161 (63%)",
+            "167 (65%)",
+            "28(10.9%)",
+            "7(2.7%)",
+            "7(2.7%)"
+          ]
+        },
+        {
+          "value": "0.10",
+          "rowHeaders": [
+            "Quit before entering",
+            "Catheterization",
+            "125 (47%)",
+            "107 (42%)"
+          ],
+          "columnHeaders": [
+            "Table 2. Sample Characteristics at Baseline",
+            "p-value",
+            "N=257",
+            "161 (63%)",
+            "167 (65%)",
+            "28(10.9%)",
+            "7(2.7%)",
+            "7(2.7%)"
+          ]
+        },
+        {
+          "value": "82 (31%)",
+          "rowHeaders": [
+            "Smoked when entering",
+            "Catheterization"
+          ],
+          "columnHeaders": [
+            "Table 2. Sample Characteristics at Baseline",
+            "Intervention",
+            "N=268",
+            "173 (65%)",
+            "183 (68%)",
+            "32(11.9%)",
+            "5(1.9%)",
+            "3(1.1%)"
+          ]
+        },
+        {
+          "value": "70 (27%)",
+          "rowHeaders": [
+            "Smoked when entering",
+            "Catheterization",
+            "125 (47%)"
+          ],
+          "columnHeaders": [
+            "Table 2. Sample Characteristics at Baseline",
+            "Control",
+            "N=257",
+            "161 (63%)",
+            "167 (65%)",
+            "28(10.9%)",
+            "7(2.7%)",
+            "7(2.7%)"
+          ]
+        },
+        {
+          "value": "0.99",
+          "rowHeaders": [
+            "Quality of life (EuroQol)*",
+            "2-3",
+            "106 (40%)",
+            "100 (39%)"
+          ],
+          "columnHeaders": [
+            "Table 2. Sample Characteristics at Baseline",
+            "p-value",
+            "N=257",
+            "161 (63%)",
+            "167 (65%)",
+            "28(10.9%)",
+            "7(2.7%)",
+            "7(2.7%)",
+            "140 (55%)"
+          ]
+        },
+        {
+          "value": "17 (6%)",
+          "rowHeaders": [
+            "4+",
+            "Catheterization"
+          ],
+          "columnHeaders": [
+            "Table 2. Sample Characteristics at Baseline",
+            "Intervention",
+            "N=268",
+            "173 (65%)",
+            "183 (68%)",
+            "32(11.9%)",
+            "5(1.9%)",
+            "3(1.1%)",
+            "145 (54%)"
+          ]
+        },
+        {
+          "value": "16 (6%)",
+          "rowHeaders": [
+            "Quality of life (EuroQol)*",
+            "4+",
+            "106 (40%)"
+          ],
+          "columnHeaders": [
+            "Table 2. Sample Characteristics at Baseline",
+            "Control",
+            "N=257",
+            "161 (63%)",
+            "167 (65%)",
+            "28(10.9%)",
+            "7(2.7%)",
+            "7(2.7%)",
+            "140 (55%)"
+          ]
+        },
+        {
+          "value": "23 (9%)",
+          "rowHeaders": [
+            "15-34",
+            "Catheterization"
+          ],
+          "columnHeaders": [
+            "Table 2. Sample Characteristics at Baseline",
+            "Intervention",
+            "N=268",
+            "173 (65%)",
+            "183 (68%)",
+            "32(11.9%)",
+            "5(1.9%)",
+            "3(1.1%)",
+            "145 (54%)"
+          ]
+        },
+        {
+          "value": "27 (11%)",
+          "rowHeaders": [
+            "Quality of life (EuroQol)*",
+            "15-34",
+            "106 (40%)"
+          ],
+          "columnHeaders": [
+            "Table 2. Sample Characteristics at Baseline",
+            "Control",
+            "N=257",
+            "161 (63%)",
+            "167 (65%)",
+            "28(10.9%)",
+            "7(2.7%)",
+            "7(2.7%)",
+            "140 (55%)"
+          ]
+        },
+        {
+          "value": "44 (16%)",
+          "rowHeaders": [
+            "35-44",
+            "Catheterization"
+          ],
+          "columnHeaders": [
+            "Table 2. Sample Characteristics at Baseline",
+            "Intervention",
+            "N=268",
+            "173 (65%)",
+            "183 (68%)",
+            "32(11.9%)",
+            "5(1.9%)",
+            "3(1.1%)",
+            "145 (54%)"
+          ]
+        },
+        {
+          "value": "39 (15%)",
+          "rowHeaders": [
+            "Quality of life (EuroQol)*",
+            "35-44",
+            "106 (40%)"
+          ],
+          "columnHeaders": [
+            "Table 2. Sample Characteristics at Baseline",
+            "Control",
+            "N=257",
+            "161 (63%)",
+            "167 (65%)",
+            "28(10.9%)",
+            "7(2.7%)",
+            "7(2.7%)",
+            "140 (55%)"
+          ]
+        },
+        {
+          "value": "41 (15%)",
+          "rowHeaders": [
+            "Missing info",
+            "Catheterization"
+          ],
+          "columnHeaders": [
+            "Table 2. Sample Characteristics at Baseline",
+            "Intervention",
+            "N=268",
+            "173 (65%)",
+            "183 (68%)",
+            "32(11.9%)",
+            "5(1.9%)",
+            "3(1.1%)",
+            "145 (54%)",
+            "160 (60%)"
+          ]
+        },
+        {
+          "value": "31 (12%)",
+          "rowHeaders": [
+            "Quality of life (EuroQol)*",
+            "Missing info",
+            "106 (40%)"
+          ],
+          "columnHeaders": [
+            "Table 2. Sample Characteristics at Baseline",
+            "Control",
+            "N=257",
+            "161 (63%)",
+            "167 (65%)",
+            "28(10.9%)",
+            "7(2.7%)",
+            "7(2.7%)",
+            "140 (55%)",
+            "160 (60%)"
+          ]
+        },
+        {
+          "value": "0.62",
+          "rowHeaders": [
+            "Quality of life (EuroQol)*",
+            "Missing info",
+            "106 (40%)",
+            "100 (39%)"
+          ],
+          "columnHeaders": [
+            "Table 2. Sample Characteristics at Baseline",
+            "p-value",
+            "N=257",
+            "161 (63%)",
+            "167 (65%)",
+            "28(10.9%)",
+            "7(2.7%)",
+            "7(2.7%)",
+            "140 (55%)",
+            "160 (60%)"
+          ]
+        },
+        {
+          "value": "21 (8%)",
+          "rowHeaders": [
+            "Quality of life (EuroQol)*",
+            "None"
+          ],
+          "columnHeaders": [
+            "Table 2. Sample Characteristics at Baseline",
+            "Intervention",
+            "N=268",
+            "173 (65%)",
+            "183 (68%)",
+            "32(11.9%)",
+            "5(1.9%)",
+            "3(1.1%)",
+            "145 (54%)",
+            "160 (60%)"
+          ]
+        },
+        {
+          "value": "22 (9%)",
+          "rowHeaders": [
+            "Functional status (DASI) †",
+            "None",
+            "106 (40%)"
+          ],
+          "columnHeaders": [
+            "Table 2. Sample Characteristics at Baseline",
+            "Control",
+            "N=257",
+            "161 (63%)",
+            "167 (65%)",
+            "28(10.9%)",
+            "7(2.7%)",
+            "7(2.7%)",
+            "140 (55%)",
+            "160 (60%)"
+          ]
+        },
+        {
+          "value": "51 (19%)",
+          "rowHeaders": [
+            "Quality of life (EuroQol)*",
+            "Catheterization"
+          ],
+          "columnHeaders": [
+            "Table 2. Sample Characteristics at Baseline",
+            "Intervention",
+            "N=268",
+            "173 (65%)",
+            "183 (68%)",
+            "32(11.9%)",
+            "5(1.9%)",
+            "3(1.1%)",
+            "145 (54%)",
+            "160 (60%)"
+          ]
+        },
+        {
+          "value": "56 (22%)",
+          "rowHeaders": [
+            "Functional status (DASI) †",
+            "Catheterization",
+            "106 (40%)"
+          ],
+          "columnHeaders": [
+            "Table 2. Sample Characteristics at Baseline",
+            "Control",
+            "N=257",
+            "161 (63%)",
+            "167 (65%)",
+            "28(10.9%)",
+            "7(2.7%)",
+            "7(2.7%)",
+            "140 (55%)",
+            "160 (60%)"
+          ]
+        },
+        {
+          "value": "65 (25%)",
+          "rowHeaders": [
+            "Functional status (DASI) †",
+            "CABG"
+          ],
+          "columnHeaders": [
+            "Table 2. Sample Characteristics at Baseline",
+            "Intervention",
+            "N=268",
+            "173 (65%)",
+            "183 (68%)",
+            "32(11.9%)",
+            "5(1.9%)",
+            "3(1.1%)",
+            "145 (54%)",
+            "160 (60%)",
+            "127 (48%)"
+          ]
+        },
+        {
+          "value": "50 (20%)",
+          "rowHeaders": [
+            "Functional status (DASI) †",
+            "CABG",
+            "106 (40%)"
+          ],
+          "columnHeaders": [
+            "Table 2. Sample Characteristics at Baseline",
+            "Control",
+            "N=257",
+            "161 (63%)",
+            "167 (65%)",
+            "28(10.9%)",
+            "7(2.7%)",
+            "7(2.7%)",
+            "140 (55%)",
+            "160 (60%)",
+            "126 (50%)"
+          ]
+        },
+        {
+          "value": "0.57",
+          "rowHeaders": [
+            "Functional status (DASI) †",
+            "CABG",
+            "106 (40%)",
+            "100 (39%)"
+          ],
+          "columnHeaders": [
+            "Table 2. Sample Characteristics at Baseline",
+            "p-value",
+            "N=257",
+            "161 (63%)",
+            "167 (65%)",
+            "28(10.9%)",
+            "7(2.7%)",
+            "7(2.7%)",
+            "140 (55%)",
+            "160 (60%)",
+            "126 (50%)"
+          ]
+        },
+        {
+          "value": "0.75",
+          "rowHeaders": [
+            "Quality of life (EuroQol)*"
+          ],
+          "columnHeaders": [
+            "Table 2. Sample Characteristics at Baseline",
+            "Intervention",
+            "N=268",
+            "173 (65%)",
+            "183 (68%)",
+            "32(11.9%)",
+            "5(1.9%)",
+            "3(1.1%)",
+            "145 (54%)",
+            "160 (60%)",
+            "127 (48%)"
+          ]
+        },
+        {
+          "value": "0.74",
+          "rowHeaders": [
+            "Quality of life (EuroQol)*",
+            "106 (40%)"
+          ],
+          "columnHeaders": [
+            "Table 2. Sample Characteristics at Baseline",
+            "Control",
+            "N=257",
+            "161 (63%)",
+            "167 (65%)",
+            "28(10.9%)",
+            "7(2.7%)",
+            "7(2.7%)",
+            "140 (55%)",
+            "160 (60%)",
+            "126 (50%)"
+          ]
+        },
+        {
+          "value": "0.55",
+          "rowHeaders": [
+            "Quality of life (EuroQol)*",
+            "106 (40%)",
+            "100 (39%)"
+          ],
+          "columnHeaders": [
+            "Table 2. Sample Characteristics at Baseline",
+            "p-value",
+            "N=257",
+            "161 (63%)",
+            "167 (65%)",
+            "28(10.9%)",
+            "7(2.7%)",
+            "7(2.7%)",
+            "140 (55%)",
+            "160 (60%)",
+            "126 (50%)"
+          ]
+        },
+        {
+          "value": "29.12",
+          "rowHeaders": [
+            "Functional status (DASI) †"
+          ],
+          "columnHeaders": [
+            "Table 2. Sample Characteristics at Baseline",
+            "Intervention",
+            "N=268",
+            "173 (65%)",
+            "183 (68%)",
+            "32(11.9%)",
+            "5(1.9%)",
+            "3(1.1%)",
+            "145 (54%)",
+            "160 (60%)",
+            "127 (48%)"
+          ]
+        },
+        {
+          "value": "30.00",
+          "rowHeaders": [
+            "Functional status (DASI) †",
+            "106 (40%)"
+          ],
+          "columnHeaders": [
+            "Table 2. Sample Characteristics at Baseline",
+            "Control",
+            "N=257",
+            "161 (63%)",
+            "167 (65%)",
+            "28(10.9%)",
+            "7(2.7%)",
+            "7(2.7%)",
+            "140 (55%)",
+            "160 (60%)",
+            "126 (50%)"
+          ]
+        },
+        {
+          "value": "0.55",
+          "rowHeaders": [
+            "Functional status (DASI) †",
+            "106 (40%)",
+            "100 (39%)"
+          ],
+          "columnHeaders": [
+            "Table 2. Sample Characteristics at Baseline",
+            "p-value",
+            "N=257",
+            "161 (63%)",
+            "167 (65%)",
+            "28(10.9%)",
+            "7(2.7%)",
+            "7(2.7%)",
+            "140 (55%)",
+            "160 (60%)",
+            "126 (50%)"
+          ]
+        },
+        {
+          "value": "14.00",
+          "rowHeaders": [
+            "Depression (CESD) ‡"
+          ],
+          "columnHeaders": [
+            "Table 2. Sample Characteristics at Baseline",
+            "Intervention",
+            "N=268",
+            "173 (65%)",
+            "183 (68%)",
+            "32(11.9%)",
+            "5(1.9%)",
+            "3(1.1%)",
+            "145 (54%)",
+            "160 (60%)",
+            "127 (48%)"
+          ]
+        },
+        {
+          "value": "13.09",
+          "rowHeaders": [
+            "Depression (CESD) ‡",
+            "106 (40%)"
+          ],
+          "columnHeaders": [
+            "Table 2. Sample Characteristics at Baseline",
+            "Control",
+            "N=257",
+            "161 (63%)",
+            "167 (65%)",
+            "28(10.9%)",
+            "7(2.7%)",
+            "7(2.7%)",
+            "140 (55%)",
+            "160 (60%)",
+            "126 (50%)"
+          ]
+        },
+        {
+          "value": "0.32",
+          "rowHeaders": [
+            "Depression (CESD) ‡",
+            "106 (40%)",
+            "100 (39%)"
+          ],
+          "columnHeaders": [
+            "Table 2. Sample Characteristics at Baseline",
+            "p-value",
+            "N=257",
+            "161 (63%)",
+            "167 (65%)",
+            "28(10.9%)",
+            "7(2.7%)",
+            "7(2.7%)",
+            "140 (55%)",
+            "160 (60%)",
+            "126 (50%)"
+          ]
+        },
+        {
+          "value": "23",
+          "rowHeaders": [
+            "*See reference"
+          ],
+          "columnHeaders": [
+            "Table 2. Sample Characteristics at Baseline",
+            "Intervention",
+            "N=268",
+            "Female",
+            "Married",
+            "African American",
+            "Hispanic white",
+            "American Indian/Aleuts",
+            "0-1",
+            "45+",
+            "PTCA"
+          ]
+        },
+        {
+          "value": "22",
+          "rowHeaders": [
+            "*See reference",
+            ";",
+            "†See reference"
+          ],
+          "columnHeaders": [
+            "Table 2. Sample Characteristics at Baseline",
+            "Intervention",
+            "N=268",
+            "173 (65%)",
+            "183 (68%)",
+            "32(11.9%)",
+            "5(1.9%)",
+            "3(1.1%)",
+            "145 (54%)",
+            "160 (60%)",
+            "127 (48%)"
+          ]
+        },
+        {
+          "value": "25",
+          "rowHeaders": [
+            "*See reference",
+            ";",
+            "†See reference",
+            "106 (40%)",
+            "; ‡ See reference"
+          ],
+          "columnHeaders": [
+            "Table 2. Sample Characteristics at Baseline",
+            "Control",
+            "N=257",
+            "161 (63%)",
+            "167 (65%)",
+            "28(10.9%)",
+            "7(2.7%)",
+            "7(2.7%)",
+            "140 (55%)",
+            "160 (60%)",
+            "126 (50%)"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "1.08 [0.45-2.29]",
+          "rowHeaders": [
+            "Intervention vs. control"
+          ],
+          "columnHeaders": [
+            "Table 3. Behavioral Outcomes at 3 and 8 Months (GEE Logistic Regression Models: Multivariate Odds-ratios and [95% Confidence Intervals])",
+            "Weight loss attempted † N=434║"
+          ]
+        },
+        {
+          "value": "2.34 [0.44-12.5]",
+          "rowHeaders": [
+            "Intervention vs. control"
+          ],
+          "columnHeaders": [
+            "Table 3. Behavioral Outcomes at 3 and 8 Months (GEE Logistic Regression Models: Multivariate Odds-ratios and [95% Confidence Intervals])",
+            "Quit smoking ‡ N=136 ¶"
+          ]
+        },
+        {
+          "value": "1.53* [1.09-2.15]",
+          "rowHeaders": [
+            "Intervention vs. control"
+          ],
+          "columnHeaders": [
+            "Table 3. Behavioral Outcomes at 3 and 8 Months (GEE Logistic Regression Models: Multivariate Odds-ratios and [95% Confidence Intervals])",
+            "Phys. activity 150 min/week § N=432 †"
+          ]
+        },
+        {
+          "value": "0.95* [0.89-0.99]",
+          "rowHeaders": [
+            "Age (in years)"
+          ],
+          "columnHeaders": [
+            "Table 3. Behavioral Outcomes at 3 and 8 Months (GEE Logistic Regression Models: Multivariate Odds-ratios and [95% Confidence Intervals])",
+            "Weight loss attempted † N=434║"
+          ]
+        },
+        {
+          "value": "1.01 [0.92-1.11]",
+          "rowHeaders": [
+            "Age (in years)"
+          ],
+          "columnHeaders": [
+            "Table 3. Behavioral Outcomes at 3 and 8 Months (GEE Logistic Regression Models: Multivariate Odds-ratios and [95% Confidence Intervals])",
+            "Quit smoking ‡ N=136 ¶"
+          ]
+        },
+        {
+          "value": "1.00 [0.99-1.02]",
+          "rowHeaders": [
+            "Age (in years)"
+          ],
+          "columnHeaders": [
+            "Table 3. Behavioral Outcomes at 3 and 8 Months (GEE Logistic Regression Models: Multivariate Odds-ratios and [95% Confidence Intervals])",
+            "Phys. activity 150 min/week § N=432 †"
+          ]
+        },
+        {
+          "value": "2.06* [1.02-6.09]",
+          "rowHeaders": [
+            "Female gender"
+          ],
+          "columnHeaders": [
+            "Table 3. Behavioral Outcomes at 3 and 8 Months (GEE Logistic Regression Models: Multivariate Odds-ratios and [95% Confidence Intervals])",
+            "Weight loss attempted † N=434║"
+          ]
+        },
+        {
+          "value": "1.61 [0.28-9.26]",
+          "rowHeaders": [
+            "Female gender"
+          ],
+          "columnHeaders": [
+            "Table 3. Behavioral Outcomes at 3 and 8 Months (GEE Logistic Regression Models: Multivariate Odds-ratios and [95% Confidence Intervals])",
+            "Quit smoking ‡ N=136 ¶"
+          ]
+        },
+        {
+          "value": "0.88 [0.67-1.16]",
+          "rowHeaders": [
+            "Female gender"
+          ],
+          "columnHeaders": [
+            "Table 3. Behavioral Outcomes at 3 and 8 Months (GEE Logistic Regression Models: Multivariate Odds-ratios and [95% Confidence Intervals])",
+            "Phys. activity 150 min/week § N=432 †"
+          ]
+        },
+        {
+          "value": "0.68 [0.16-2.38]",
+          "rowHeaders": [
+            "Minority race"
+          ],
+          "columnHeaders": [
+            "Table 3. Behavioral Outcomes at 3 and 8 Months (GEE Logistic Regression Models: Multivariate Odds-ratios and [95% Confidence Intervals])",
+            "Weight loss attempted † N=434║"
+          ]
+        },
+        {
+          "value": "1.19 [0.82-1.72]",
+          "rowHeaders": [
+            "Minority race"
+          ],
+          "columnHeaders": [
+            "Table 3. Behavioral Outcomes at 3 and 8 Months (GEE Logistic Regression Models: Multivariate Odds-ratios and [95% Confidence Intervals])",
+            "Quit smoking ‡ N=136 ¶"
+          ]
+        },
+        {
+          "value": "0.69 [0.39-1.22]",
+          "rowHeaders": [
+            "Minority race"
+          ],
+          "columnHeaders": [
+            "Table 3. Behavioral Outcomes at 3 and 8 Months (GEE Logistic Regression Models: Multivariate Odds-ratios and [95% Confidence Intervals])",
+            "Phys. activity 150 min/week § N=432 †"
+          ]
+        },
+        {
+          "value": "4.18* [1.96-15.8]",
+          "rowHeaders": [
+            "Married"
+          ],
+          "columnHeaders": [
+            "Table 3. Behavioral Outcomes at 3 and 8 Months (GEE Logistic Regression Models: Multivariate Odds-ratios and [95% Confidence Intervals])",
+            "Weight loss attempted † N=434║"
+          ]
+        },
+        {
+          "value": "1.07 [0.45-2.54]",
+          "rowHeaders": [
+            "Married"
+          ],
+          "columnHeaders": [
+            "Table 3. Behavioral Outcomes at 3 and 8 Months (GEE Logistic Regression Models: Multivariate Odds-ratios and [95% Confidence Intervals])",
+            "Quit smoking ‡ N=136 ¶"
+          ]
+        },
+        {
+          "value": "1.69* [1.11-2.57]",
+          "rowHeaders": [
+            "Married"
+          ],
+          "columnHeaders": [
+            "Table 3. Behavioral Outcomes at 3 and 8 Months (GEE Logistic Regression Models: Multivariate Odds-ratios and [95% Confidence Intervals])",
+            "Phys. activity 150 min/week § N=432 †"
+          ]
+        },
+        {
+          "value": "0.94 [0.78-1.21]",
+          "rowHeaders": [
+            "Years of education"
+          ],
+          "columnHeaders": [
+            "Table 3. Behavioral Outcomes at 3 and 8 Months (GEE Logistic Regression Models: Multivariate Odds-ratios and [95% Confidence Intervals])",
+            "Weight loss attempted † N=434║"
+          ]
+        },
+        {
+          "value": "0.66* [0.48-0.91]",
+          "rowHeaders": [
+            "Years of education"
+          ],
+          "columnHeaders": [
+            "Table 3. Behavioral Outcomes at 3 and 8 Months (GEE Logistic Regression Models: Multivariate Odds-ratios and [95% Confidence Intervals])",
+            "Quit smoking ‡ N=136 ¶"
+          ]
+        },
+        {
+          "value": "1.02 [0.95-1.10]",
+          "rowHeaders": [
+            "Years of education"
+          ],
+          "columnHeaders": [
+            "Table 3. Behavioral Outcomes at 3 and 8 Months (GEE Logistic Regression Models: Multivariate Odds-ratios and [95% Confidence Intervals])",
+            "Phys. activity 150 min/week § N=432 †"
+          ]
+        },
+        {
+          "value": "1.57 [0.24-12.6]",
+          "rowHeaders": [
+            "35-45%"
+          ],
+          "columnHeaders": [
+            "Table 3. Behavioral Outcomes at 3 and 8 Months (GEE Logistic Regression Models: Multivariate Odds-ratios and [95% Confidence Intervals])",
+            "Weight loss attempted † N=434║"
+          ]
+        },
+        {
+          "value": "4.54 [0.79-26.1]",
+          "rowHeaders": [
+            "35-45%"
+          ],
+          "columnHeaders": [
+            "Table 3. Behavioral Outcomes at 3 and 8 Months (GEE Logistic Regression Models: Multivariate Odds-ratios and [95% Confidence Intervals])",
+            "Quit smoking ‡ N=136 ¶"
+          ]
+        },
+        {
+          "value": "1.72 [0.85-3.48]",
+          "rowHeaders": [
+            "35-45%"
+          ],
+          "columnHeaders": [
+            "Table 3. Behavioral Outcomes at 3 and 8 Months (GEE Logistic Regression Models: Multivariate Odds-ratios and [95% Confidence Intervals])",
+            "Phys. activity 150 min/week § N=432 †"
+          ]
+        },
+        {
+          "value": "4.05* [1.11-32.2]",
+          "rowHeaders": [
+            "≥45%"
+          ],
+          "columnHeaders": [
+            "Table 3. Behavioral Outcomes at 3 and 8 Months (GEE Logistic Regression Models: Multivariate Odds-ratios and [95% Confidence Intervals])",
+            "Weight loss attempted † N=434║"
+          ]
+        },
+        {
+          "value": "4.88 [0.28-85.1]",
+          "rowHeaders": [
+            "≥45%"
+          ],
+          "columnHeaders": [
+            "Table 3. Behavioral Outcomes at 3 and 8 Months (GEE Logistic Regression Models: Multivariate Odds-ratios and [95% Confidence Intervals])",
+            "Quit smoking ‡ N=136 ¶"
+          ]
+        },
+        {
+          "value": "2.03* [1.10-3.75]",
+          "rowHeaders": [
+            "≥45%"
+          ],
+          "columnHeaders": [
+            "Table 3. Behavioral Outcomes at 3 and 8 Months (GEE Logistic Regression Models: Multivariate Odds-ratios and [95% Confidence Intervals])",
+            "Phys. activity 150 min/week § N=432 †"
+          ]
+        },
+        {
+          "value": "6.54* [1.45-98.8]",
+          "rowHeaders": [
+            "Missing"
+          ],
+          "columnHeaders": [
+            "Table 3. Behavioral Outcomes at 3 and 8 Months (GEE Logistic Regression Models: Multivariate Odds-ratios and [95% Confidence Intervals])",
+            "Weight loss attempted † N=434║"
+          ]
+        },
+        {
+          "value": "0.74 [0.12-4.56]",
+          "rowHeaders": [
+            "Missing"
+          ],
+          "columnHeaders": [
+            "Table 3. Behavioral Outcomes at 3 and 8 Months (GEE Logistic Regression Models: Multivariate Odds-ratios and [95% Confidence Intervals])",
+            "Quit smoking ‡ N=136 ¶"
+          ]
+        },
+        {
+          "value": "1.58 [0.77-3.24]",
+          "rowHeaders": [
+            "Missing"
+          ],
+          "columnHeaders": [
+            "Table 3. Behavioral Outcomes at 3 and 8 Months (GEE Logistic Regression Models: Multivariate Odds-ratios and [95% Confidence Intervals])",
+            "Phys. activity 150 min/week § N=432 †"
+          ]
+        },
+        {
+          "value": "1.05 [0.36-2.78]",
+          "rowHeaders": [
+            "2-3"
+          ],
+          "columnHeaders": [
+            "Table 3. Behavioral Outcomes at 3 and 8 Months (GEE Logistic Regression Models: Multivariate Odds-ratios and [95% Confidence Intervals])",
+            "Weight loss attempted † N=434║"
+          ]
+        },
+        {
+          "value": "0.37 [0.08-4.40]",
+          "rowHeaders": [
+            "2-3"
+          ],
+          "columnHeaders": [
+            "Table 3. Behavioral Outcomes at 3 and 8 Months (GEE Logistic Regression Models: Multivariate Odds-ratios and [95% Confidence Intervals])",
+            "Quit smoking ‡ N=136 ¶"
+          ]
+        },
+        {
+          "value": "0.77 [0.52-1.14]",
+          "rowHeaders": [
+            "2-3"
+          ],
+          "columnHeaders": [
+            "Table 3. Behavioral Outcomes at 3 and 8 Months (GEE Logistic Regression Models: Multivariate Odds-ratios and [95% Confidence Intervals])",
+            "Phys. activity 150 min/week § N=432 †"
+          ]
+        },
+        {
+          "value": "1.01 [0.15-6.81]",
+          "rowHeaders": [
+            "≥4"
+          ],
+          "columnHeaders": [
+            "Table 3. Behavioral Outcomes at 3 and 8 Months (GEE Logistic Regression Models: Multivariate Odds-ratios and [95% Confidence Intervals])",
+            "Weight loss attempted † N=434║"
+          ]
+        },
+        {
+          "value": "12.76 [0.34-479.9]",
+          "rowHeaders": [
+            "≥4"
+          ],
+          "columnHeaders": [
+            "Table 3. Behavioral Outcomes at 3 and 8 Months (GEE Logistic Regression Models: Multivariate Odds-ratios and [95% Confidence Intervals])",
+            "Quit smoking ‡ N=136 ¶"
+          ]
+        },
+        {
+          "value": "0.79 [0.31-2.01]",
+          "rowHeaders": [
+            "≥4"
+          ],
+          "columnHeaders": [
+            "Table 3. Behavioral Outcomes at 3 and 8 Months (GEE Logistic Regression Models: Multivariate Odds-ratios and [95% Confidence Intervals])",
+            "Phys. activity 150 min/week § N=432 †"
+          ]
+        },
+        {
+          "value": "0.99 [0.97-1.01]",
+          "rowHeaders": [
+            "Baseline funct. Status (DASI)"
+          ],
+          "columnHeaders": [
+            "Table 3. Behavioral Outcomes at 3 and 8 Months (GEE Logistic Regression Models: Multivariate Odds-ratios and [95% Confidence Intervals])",
+            "Weight loss attempted † N=434║"
+          ]
+        },
+        {
+          "value": "1.06* [1.01-1.11]",
+          "rowHeaders": [
+            "Baseline funct. Status (DASI)"
+          ],
+          "columnHeaders": [
+            "Table 3. Behavioral Outcomes at 3 and 8 Months (GEE Logistic Regression Models: Multivariate Odds-ratios and [95% Confidence Intervals])",
+            "Quit smoking ‡ N=136 ¶"
+          ]
+        },
+        {
+          "value": "0.99 [0.97-1.02]",
+          "rowHeaders": [
+            "Baseline funct. Status (DASI)"
+          ],
+          "columnHeaders": [
+            "Table 3. Behavioral Outcomes at 3 and 8 Months (GEE Logistic Regression Models: Multivariate Odds-ratios and [95% Confidence Intervals])",
+            "Phys. activity 150 min/week § N=432 †"
+          ]
+        },
+        {
+          "value": "1.03 [0.99-1.07]",
+          "rowHeaders": [
+            "Baseline depression (CESD)"
+          ],
+          "columnHeaders": [
+            "Table 3. Behavioral Outcomes at 3 and 8 Months (GEE Logistic Regression Models: Multivariate Odds-ratios and [95% Confidence Intervals])",
+            "Weight loss attempted † N=434║"
+          ]
+        },
+        {
+          "value": ".97 [0.89-1.06]",
+          "rowHeaders": [
+            "Baseline depression (CESD)"
+          ],
+          "columnHeaders": [
+            "Table 3. Behavioral Outcomes at 3 and 8 Months (GEE Logistic Regression Models: Multivariate Odds-ratios and [95% Confidence Intervals])",
+            "Quit smoking ‡ N=136 ¶"
+          ]
+        },
+        {
+          "value": "0.99 [0.97-1.01]",
+          "rowHeaders": [
+            "Baseline depression (CESD)"
+          ],
+          "columnHeaders": [
+            "Table 3. Behavioral Outcomes at 3 and 8 Months (GEE Logistic Regression Models: Multivariate Odds-ratios and [95% Confidence Intervals])",
+            "Phys. activity 150 min/week § N=432 †"
+          ]
+        },
+        {
+          "value": "6.86* [1.74-27.0]",
+          "rowHeaders": [
+            "Former smoker"
+          ],
+          "columnHeaders": [
+            "Table 3. Behavioral Outcomes at 3 and 8 Months (GEE Logistic Regression Models: Multivariate Odds-ratios and [95% Confidence Intervals])",
+            "Weight loss attempted † N=434║"
+          ]
+        },
+        {
+          "value": "1.70 [0.89-3.25]",
+          "rowHeaders": [
+            "Former smoker"
+          ],
+          "columnHeaders": [
+            "Table 3. Behavioral Outcomes at 3 and 8 Months (GEE Logistic Regression Models: Multivariate Odds-ratios and [95% Confidence Intervals])",
+            "Phys. activity 150 min/week § N=432 †"
+          ]
+        },
+        {
+          "value": "7.82* [1.72-35.6]",
+          "rowHeaders": [
+            "Non-smoker"
+          ],
+          "columnHeaders": [
+            "Table 3. Behavioral Outcomes at 3 and 8 Months (GEE Logistic Regression Models: Multivariate Odds-ratios and [95% Confidence Intervals])",
+            "Weight loss attempted † N=434║"
+          ]
+        },
+        {
+          "value": "1.89 [0.92-3.88]",
+          "rowHeaders": [
+            "Non-smoker"
+          ],
+          "columnHeaders": [
+            "Table 3. Behavioral Outcomes at 3 and 8 Months (GEE Logistic Regression Models: Multivariate Odds-ratios and [95% Confidence Intervals])",
+            "Phys. activity 150 min/week § N=432 †"
+          ]
+        },
+        {
+          "value": "6.36* [1.32-30.6]",
+          "rowHeaders": [
+            "CATH"
+          ],
+          "columnHeaders": [
+            "Table 3. Behavioral Outcomes at 3 and 8 Months (GEE Logistic Regression Models: Multivariate Odds-ratios and [95% Confidence Intervals])",
+            "Weight loss attempted † N=434║"
+          ]
+        },
+        {
+          "value": "15.75 [0.29-855.4]",
+          "rowHeaders": [
+            "CATH"
+          ],
+          "columnHeaders": [
+            "Table 3. Behavioral Outcomes at 3 and 8 Months (GEE Logistic Regression Models: Multivariate Odds-ratios and [95% Confidence Intervals])",
+            "Quit smoking ‡ N=136 ¶"
+          ]
+        },
+        {
+          "value": "1.57 [0.68-3.62]",
+          "rowHeaders": [
+            "CATH"
+          ],
+          "columnHeaders": [
+            "Table 3. Behavioral Outcomes at 3 and 8 Months (GEE Logistic Regression Models: Multivariate Odds-ratios and [95% Confidence Intervals])",
+            "Phys. activity 150 min/week § N=432 †"
+          ]
+        },
+        {
+          "value": "7.50* [1.84-30.6]",
+          "rowHeaders": [
+            "PTCA"
+          ],
+          "columnHeaders": [
+            "Table 3. Behavioral Outcomes at 3 and 8 Months (GEE Logistic Regression Models: Multivariate Odds-ratios and [95% Confidence Intervals])",
+            "Weight loss attempted † N=434║"
+          ]
+        },
+        {
+          "value": "6.60 [0.38-114.6]",
+          "rowHeaders": [
+            "PTCA"
+          ],
+          "columnHeaders": [
+            "Table 3. Behavioral Outcomes at 3 and 8 Months (GEE Logistic Regression Models: Multivariate Odds-ratios and [95% Confidence Intervals])",
+            "Quit smoking ‡ N=136 ¶"
+          ]
+        },
+        {
+          "value": "1.70 [0.78-3.71]",
+          "rowHeaders": [
+            "PTCA"
+          ],
+          "columnHeaders": [
+            "Table 3. Behavioral Outcomes at 3 and 8 Months (GEE Logistic Regression Models: Multivariate Odds-ratios and [95% Confidence Intervals])",
+            "Phys. activity 150 min/week § N=432 †"
+          ]
+        },
+        {
+          "value": "2.79 [0.42-18.5]",
+          "rowHeaders": [
+            "CABG"
+          ],
+          "columnHeaders": [
+            "Table 3. Behavioral Outcomes at 3 and 8 Months (GEE Logistic Regression Models: Multivariate Odds-ratios and [95% Confidence Intervals])",
+            "Weight loss attempted † N=434║"
+          ]
+        },
+        {
+          "value": "98.71* [1.32-7382]",
+          "rowHeaders": [
+            "CABG"
+          ],
+          "columnHeaders": [
+            "Table 3. Behavioral Outcomes at 3 and 8 Months (GEE Logistic Regression Models: Multivariate Odds-ratios and [95% Confidence Intervals])",
+            "Quit smoking ‡ N=136 ¶"
+          ]
+        },
+        {
+          "value": "2.23 [0.92-5.41]",
+          "rowHeaders": [
+            "CABG"
+          ],
+          "columnHeaders": [
+            "Table 3. Behavioral Outcomes at 3 and 8 Months (GEE Logistic Regression Models: Multivariate Odds-ratios and [95% Confidence Intervals])",
+            "Phys. activity 150 min/week § N=432 †"
+          ]
+        }
+      ],
+      "page": 1
+    }
+  ]
+}

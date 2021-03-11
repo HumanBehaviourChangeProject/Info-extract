@@ -1,0 +1,4 @@
+cat prediction/weka/train_ovlabels.arff | sed "s/'Outcome value' numeric/'Outcome value' 0,1,2,3,4,5,6,7,8,9/"|sed 's/0,1,2,3/{0,1,2,3/'|sed 's/7,8,9/7,8,9}/'|awk -F ',' '{if (state==0) print $0; if ($0=="@data") state=1; else if (state==1) { if ($NF>0) {for(i=1;i<NF;i++) printf("%s,",$i); printf("%d",$NF/10); printf("\n")}}}' > prediction/weka/train_ovlabels.10.arff 
+
+
+cat prediction/weka/train_ovlabels.arff | sed "s/'Outcome value' numeric/'Outcome value' 0,1,2,3,4,5,6,7,8,9/"|sed 's/0,1,2,3/{0,1,2,3/'|sed 's/7,8,9/7,8,9}/'|awk -F ',' '{if (state==0) print $0; if ($0=="@data") state=1; else if (state==1) { if ($NF>0) {for(i=1;i<NF;i++) printf("%s,",$i); c=6; if ($NF<5) c=0; else if ($NF>=5 && $NF<10) c=1; else if ($NF>=10 && $NF<15) c=2; else if ($NF>=15 && $NF<20) c=3; else if ($NF>=20 && $NF<30) c=4; else if ($NF>=30 && $NF<50) c=5; printf("%d\n",c); }}}' > prediction/weka/train_ovlabels.7.arff 

@@ -3,11 +3,20 @@
 language: java
 jdk:
   - openjdk8
+  
+env:
+  - _JAVA_OPTIONS="-Xmx8092m"
+  #- MAVEN_OPTS="-Xmx8092m"
+  #- JAVA_OPTIONS="-Xmx8092m"
 
 cache:
   directories:
   - $HOME/data/
-  - $HOME/data_resources/
+
+#notifications:
+#    slack: ibm-research:qa8rsVYSywBg5ERhQmMLPALr
+
+before_install: cd core
 
 #Use the default script command of travis with maven which is mvn test -B
 #Before running script, for maven projects travis executes 'mvn install -DskipTests=true -Dmaven.javadoc.skip=true -B -V'
@@ -17,4 +26,3 @@ before_script: mvn install -DskipTests=true -Dmaven.javadoc.skip=true -B -V
 script:
 - mvn javadoc:javadoc 
 - mvn test -B 
-

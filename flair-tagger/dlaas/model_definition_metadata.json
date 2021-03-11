@@ -1,0 +1,10 @@
+{
+ "name": "hbcp-flair",
+ "description": "Train Flair NER model for HBCP information extraction",
+ "author_name": "hbcp",
+ "framework_name": "pytorch",
+ "framework_version": "1.0",
+ "runtime_name": "python",
+ "runtime_version": "3.5",
+ "command": "sh hbcpFlairTrain.sh"
+ }

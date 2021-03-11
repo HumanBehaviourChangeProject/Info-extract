@@ -1,0 +1,2698 @@
+{
+  "blocks": [
+    {
+      "type": "LINES",
+      "value": "Effectiveness of Implementing the Agency for Healthcare Research and Quality Smoking Cessation Clinical Practice Guideline: A Randomized, Controlled Trial For the AHRQ Smoking Cessation Guideline Study Group",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Background: The Agency for Healthcare Research and Quality (AHRQ) Smoking Cessation Clinical Practice Guideline recommends that all clinicians strongly advise their patients who use tobacco to quit. Methods: We conducted a randomized, controlled trial of the effectiveness of Guideline implementation at eight community-based primary care clinics in southern Wisconsin (four test sites, four control sites) among 2163 consecutively enrolled adult patients who smoked at least one cigarette per day and presented for nonemergency care during the baseline period (June 16, 1999, to June 20, 2000) or the intervention period (from June 21, 2000, to May 3, 2001). After collecting base-line data, staff attest sites implemented the intervention over a 2-month period. The intervention included a tutorial for intake clinicians, group and individual performance feedback for intake clinicians, use of a modified vital signs stamp, an offer of free nicotine replacement therapy, and proactive telephone counseling. Staff at control sites received only general information about the AHRQ Guideline. Self-reported abstinence from smoking was determined by telephone interviews at 2-and 6-month follow-up assessments. Hierarchical logistic regression models were used to estimate the odds ratios (ORs) for treatment assignment after adjustment for patient characteristics. All statistical tests were two-sided. Results: There were no statistically significant differences in smoking cessation rates between participants attest and control sites during the baseline period. Among participants treated during the intervention period, those attest sites were more likely than those at control sites to report being abstinent at the 2-month (16.4% versus 5.8%; adjusted OR 񮽙 3.3, 95% confidence interval [CI] 񮽙 1.9 to 5.6; P<.001) and 6-month (15.4% versus 9.8%; adjusted OR 񮽙 1.7, 95% CI 񮽙 1.2 to 2.6; P 񮽙 .009) follow-up assessments and to report continuous abstinence, that is, abstinence at both 2 and 6 months (10.9% versus 3.8%; adjusted OR 񮽙 3.4, 95% CI 񮽙 1.8 to 6.3; P<.001). Conclusion: Implementation of a guideline-based smoking cessation intervention by intake clinicians in primary care is associated with higher abstinence among smokers. [J Natl Cancer Inst 2004;96:594-603]",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "We conducted a randomized, controlled trial of a multimodality intervention to implement the AHRQ Smoking Cessation Guideline among eight community-based clinics (six family practice clinics and two internal medicine clinics) in southern Wisconsin. We worked with local and regional clinic organizations and the Wisconsin Research Network to identify potentially eligible community-based clinics for this study. Eligible clinics were staffed by at least five full-time physicians or mid-level clinicians (physician's assistants or nurse practitioners), assigned intake clinicians to specific physicians or mid-level clinicians (with minimal crossover), did not have an on-site, nurse-based smoking cessation program during the study period, had not recently participated in a smoking cessation trial or prevention trial that addressed smoking cessation (within 2 years prior to the start date of the trial), did not have a residency training program, and were located within a 60-mile radius of. Of the 12 eligible clinics that agreed to an initial meeting and presentation that explained the purpose of our study, nine clinics agreed to participate; one clinic participated in only the pilot test of the intervention and was not included in the current analysis (because it was not randomly assigned to the intervention). The primary reasons for nonparticipation were lack of time by clinic staff to undertake additional projects, lack of support from clinic leadership and management, absence of an identifiable facilitator or leader, major ongoing changes in clinic organization related to a merger or integration with another institution, and/or changes in clinic infrastructure during the study period (e.g., recent loss of staff, new computer system, new building).\nWe matched clinic sites by primary care discipline and health plan affiliation (if any); for each pair of clinics, the project statistician (R. L. Brown) used a random number generator to randomly assign each clinic to receive either the intervention (test sites, n 񮽙 4) or usual care (control sites, n 񮽙 4). It was impractical to randomly assign individual clinicians within each clinic to receive the intervention because of the high likelihood that control clinicians and their patients would be exposed to the study intervention.\nAt all clinic sites, we enrolled 2163 consecutive adult patients (i.e., at least 18 years old) who smoked an average of one or more cigarettes per day into the study across two study periods: the baseline period (from) and the intervention period (from). During the baseline period, patients were enrolled attest and control sites before implementation of the study intervention. This approach permitted us to verify that the test and control sites were similar with regard to patient characteristics and baseline performance of Guideline-recommended actions. During the intervention period, patients were enrolled at both test and control sites, but the intervention was implemented attest sites only. Eligible patients had an appointment with a primary care clinician (physician, physician's assistant, or nurse practitioner) for routine, nonemergency care and were willing to complete a brief exit interview immediately after the clinic appointment. At the exit interview, a research interviewer asked each departing patient about his or her smoking status; current smokers were asked whether the staff had performed Guidelinerecommended actions. During each study period, we enrolled anew cohort of patients at each site until we reached the enrollment target for that site. All patients were followed prospectively for 6 months.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The intervention was based on an adaptation of a previously proposed disease management model) that provides a framework for improving the quality of care for chronic conditions such as nicotine dependence. With support from the administrative leadership at each test site, we worked with a designated physician and nurse (or medical assistant) facilitator to implement the AHRQ Guideline intervention and then verified that implementation of the intervention was compatible with organizational goals and did not conflict with other quality improvement initiatives.\nThe intervention, which has been described previously (13), included five components. The first component was a tutorial for intake clinicians that instructed them on how to assess the patient's smoking status and how to provide a brief smoking cessation message to each smoker at every visit; intake clinicians were also trained to offer additional assistance to patients according to their expressed readiness to make an attempt to quit smoking (). Attendance at the tutorial sessions was 84% among all intake clinicians (full-and part-time) and 90% among full-time intake clinicians.\nThe second component of the intervention was a modified vital signs stamp that was imprinted on each patient's encounter form (or progress note) for the clinic visit. The original stamp described by was modified to prompt intake clinicians to perform Guideline-recommended actions. Clinic staff were given the opportunity to modify the layout of the stamp to include traditional vital signs and other intake items used in the practice.\nThe third and fourth components of the intervention were an offer of transdermal nicotine patches and/or proactive telephone counseling. At the conclusion of each clinic visit, all patients who expressed a willingness to quit smoking and were able to set a quit date (within 30 days of the visit) were offered proactive telephone counseling; in addition, those patients who smoked at least 10 cigarettes per day were also offered an 8-week supply of nicotine patches (Nicoderm CQ; GlaxoSmithKline, Research Triangle Park, NC). Contact information and quit dates for all patients who were eligible for telephone counseling were recorded by intake clinicians and faxed daily to the study coordinating center. The cessation counselor, a registered nurse who was hired and trained by the principal investigator (D. Katz) specifically for this project, telephoned the patient just before and approximately 1 week after the scheduled quit date (21-23). The telephone counseling protocol focused on the patient's preparations for quitting, ways of coping with nicotine withdrawal, and problem-solving skills. During the initial telephone session (which typically lasted 25-30 minutes), the counselor probed into the patient's past experiences with quitting, discussed strategies for dealing with urges to smoke, and helped the patient prepare for challenges to quitting or triggers to continue smoking during the upcoming quit attempt (e.g., alcohol, other smoker in household) (1). During the follow-up session (which typically lasted 10 -15 minutes), the counselor reviewed events over the preceding week pertinent to cessation, including any \"slips\" that may have occurred, any adverse effects possibly related to transdermal nicotine, and any specific concerns raised by the patient (e.g., weight gain, mood disturbance). Additional counseling sessions were scheduled as needed at the counselor's discretion (e.g., if the patient requested additional help because of a relapse or problems experienced with nicotine replacement therapy).\nThe fifth component of the intervention consisted of group and confidential individual feedback on whether intake clinicians had assessed smoking status and whether they had provided cessation counseling. These performance data were based on exit interviews with patients and were presented to intake clinicians attest sites during the training session (baseline period data) and midway during the intervention (intervention period data). Individual feedback highlighted the proportion of patients who were advised to stop smoking by a given intake clinician compared with the proportion of patients who were advised to stop smoking by their unidentified peers at the same site.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Intake clinicians and physicians at control sites were provided with general information about the AHRQ Guideline evaluation trial during the process of recruiting eligible clinics into the trial. These clinic staff were aware that they were participating in a randomized, controlled trial but were not told specifically when they would receive training about use of the intervention (all control sites received training at the end of the trial). Smokers were identified and counseled at the discretion of the clinic staff; neither intake clinicians nor primary care clinicians were instructed to provide (or to not provide) smoking cessation counseling.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Study personnel performed face-to-face exit interviews of all eligible patients immediately after their office visit to assess how well the clinic staff had performed Guideline-recommended activities. Study personnel who were blinded to treatment group assignment (i.e., test site versus control site) and were not involved in telephone counseling interviewed patients by telephone about their smoking habits at 2 and 6 months following the exit interview (i.e., date of enrollment in the study). Patients who were not successfully contacted by telephone after 13 attempts were sent a follow-up survey that included a stamped self-addressed return envelope. If these measures failed, the patient was considered lost to follow-up and was considered not to have quit smoking in the analysis.\nDuring the intervention period, patients who reported that they had not smoked any cigarettes over the prior 7 days at the 6-month follow-up interview were mailed kits for saliva collection and reminders to return the kits. Patients received $20 for returning a sample of their saliva. Cotinine assays were performed on the saliva samples by the American Health Foundation (Valhalla, NY); a cutoff of less than 20 ng/mL cotinine was used to determine abstinence because this threshold is associated with high sensitivity and specificity (񮽙90%). Because of the poor return rate of saliva specimens for cotinine analysis and the possibility of nonresponse bias for reasons unrelated to smoking status (e.g., inertia, privacy concerns, insufficient sample, loss of sample in mail) (26), we used self-reported abstinence as the primary outcome at both the 2-and 6-month assessments. In addition, we received fewer saliva specimens than we expected, partly because 33 of 148 self-reported quitters during the intervention period had inadvertently not been sent a saliva collection kit.\nIntake clinicians were surveyed immediately before and after the intervention period. We collected data on type of medical training (registered nurse, license practical nurse, or medical assistant), date of training completion, and smoking status (never, former, or current). These clinicians were also asked to rate their self-efficacy (on a 4-point scale) and role satisfaction with smoking cessation counseling (on a 5-point scale). Descriptive and/or survey data were unavailable for those intake clinicians who were not working at the start of the intervention period, who were employed as \"floating\" (or locum tenens) staff and did not attend project meetings, or who refused to complete the staff survey.\nTo calculate the costs related to the intervention, we first tracked the time required to train intake clinicians and estimated the time required for identification and brief counseling of smok- ers by intake clinicians. Salaries for intake clinicians were based on recent U.S. national data; intake clinician costs were estimated by multiplying average hourly salaries by the number of hours expended during the intervention. We also tracked the time spent on telephone counseling and estimated these costs by multiplying the hourly salary of the registered nurse cessation counselor by the number of hours spent on telephone counseling. Costs also included the salary fora full-time research assistant who served as an on-site coordinator, study materials, pharmacotherapy, and technical support for nursing care staff at all test sites. The costs of pharmacotherapy were based on the average wholesale price for transdermal nicotine replacement therapy: $200 fora full 8-week course (28). We also included the costs of reminders, training materials, and patient education brochures. This project was approved by the Institutional Research Board of the University of Wisconsin. Patients were provided with information about the study, and verbal consent to participate was obtained at the time of the initial interview.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Differences in the distributions of patient and intake clinician characteristics between the test and control sites were determined using the Pearson chi-square test for categorical variables and Student's t test for continuous variables; Wilcoxon's rank sum test was used to assess differences in variables with highly skewed distributions.\nThe primary outcomes of this study were the performance of recommended smoking cessation activities by clinic staff (intake clinicians or primary care clinicians), abstinence at 2 and 6 months after the initial clinic visit [7-day point prevalence defined as the proportion of patients who reported abstinence over the previous 7 days (29)], and continuous abstinence (defined as self-reported abstinence at both the 2-and 6-month interviews). We analyzed these outcomes according to treatment group assignment among all patients who agreed during the exit interview to participate in the follow-up (1022 patients enrolled during the baseline period and 1141 patients enrolled during the intervention period). We also computed biochemically confirmed abstinence at 6-month follow-up to determine whether the actual magnitude of the intervention effect was comparable to that based on self-report. For this analysis, we assumed that subjects who reported abstinence but did not provide a saliva sample were still smoking. Patients attest sites who were initially interviewed during the baseline period and were later re-interviewed at the time of a subsequent clinic visit during the intervention period (n 񮽙 117) were considered to be intervention-period patients in our analysis, and data obtained for these 117 patients during the baseline period were dropped from the analysis. For those patients who were interviewed more than once during the same study period, we included data from the initial interview only in the analysis.\nBecause individual patients were grouped by individual intake clinicians (who were grouped by clinic), we also constructed three-level hierarchical logistic regression models of performance and cessation outcomes across the test and control sites combined (30). For example, in a model of advice to quit, y ijk denotes the dependent variable for patient i under the care of intake clinician j in clinic k and had a value of 1 for patients who received advice to quit smoking and a value of 0 for patients who did not receive advice to quit smoking. The fixed part of the model was denoted by f ijk , and random error variables were denoted by r j (intake clinician-level) and r k (clinic-level). If 񮽙 ijk is the probability of patients having been advised to quit smoking, our three-level logistic model was defined as\nEquation 1 was rewritten and incorporated into a full model that included residual random error terms at the patient level (e ijk ) as follows:\nThe result of the functional relationship in equation 2 is the probability that the patient received advice to quit smoking conditional on the fixed and random variables from all levels of information. On the basis of this model, we estimated the odds ratio (OR) and 95% confidence interval (CI) associated with treatment group assignment after adjusting for patient characteristics that have previously been associated with smoking cessation counseling and/or abstinence (age, sex, educational level, alcohol use, cigarettes smoked per day, self-reported health status, and presence of another smoker in the household). To account for differences in characteristics of intake clinicians between test and control sites, we also constructed models that included these covariates for the subset of clinicians who provided complete survey data. Planned subgroup analyses were performed for two categories of cigarette use across all cessation outcomes: light smokers (patients who smoked fewer than 10 cigarettes per day) and moderate-to-heavy smokers (patients who smoked 10 or more cigarettes per day). The projected sample size was 1200 smokers per comparison period (i.e., eight clinics 񮽙 10 intake clinicians/clinic 񮽙 15 smokers/intake clinician) or 2400 smokers for the entire study. The trial was designed to have 80% power, with an alpha error of .05, to detect an intervention effect size of 0.40 for the 6-month quit rate (34). We aimed to recruit approximately 15 patients per intake clinician because variance estimates are relatively stable at this cluster size (35). The optimal sample sizes we projected were based on prior work on statistical power with group means (36). This approach required that we use only two unknown parameters: the population intra-class correlation coefficient and the predicted magnitude of the intervention effect. We assumed a small intra-class correlation within clinics (i.e., 񮽙 񮽙 .05), based on an assessment of the smoking status of patients seen at primary care clinics in five upper midwestern states (Brown RL, Baumann LJ, Helberg CP, Han Y, Fontana SA, Love RR: unpublished data). The observed intra-class correlation coefficients within clinics for the 2-month and 6-month quit rates in this study were .082 and .015, respectively.\nStatistical analyses were performed using Stata, version 7.0 (Stata Corp., College Station, TX) and MLwiN (37) software. All tests were two-sided, and a P valueless than or equal to .05 was considered to indicate statistical significance. summarizes the recruitment and subsequent follow-up of enrolled patients. There was no statistically signif-icant difference between control and test sites in the proportion of smokers who agreed to participate in the follow-up (94.5% versus 94.1%; P 񮽙 .73). Comparison of participants at control and test sites during the baseline period demonstrated no statistically significant differences in sociodemographic characteristics (except educational level), self-rated health status, and cigarette or alcohol use; during the intervention period, patients attest sites were older, had more years of education, and smoked more cigarettes per day than patients at control sites.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "As shown in, there were no statistically significant differences between characteristics of intake clinicians attest sites and those at control sites, with one exception: Intake clinicians at control sites had more years of work experience than those attest sites (21 versus 15 years since completion of training; P 񮽙 .05). Despite this difference, intake clinicians at both sites rated themselves as only slightly effective in counseling patients to stop smoking (P 񮽙 .45).\nAlthough the majority of patients at the test and control sites were asked by clinic staff about their smoking status during an office visit, only approximately one-quarter of the enrolled patients from each site were asked about their willingness to quit smoking by any clinic staff during the baseline period. During the intervention period, more patients attest sites than at control sites were asked about their smoking status (87% versus 67%; adjusted OR 񮽙 3.1, 95% CI 񮽙 1.2 to 8.2; P 񮽙 .02) or about their willingness to quit smoking (73% versus 30%; adjusted OR 񮽙 6.4, 95% CI 񮽙 3.7 to 10.8; P񮽙.001), were given literature about quitting (38% versus 3%; adjusted OR 񮽙 21, 95% CI 񮽙 8.8 to 49; P񮽙.001), were assisted with setting a quit date (27% versus 1%; adjusted OR 񮽙 33, 95% CI 񮽙 11 to 100; P񮽙.001), or were engaged in a discussion about pharmacotherapy, which included nicotine replacement or bupropion therapy (39% versus 14%; adjusted OR 񮽙 3.9, 95% CI 񮽙 2.5 to 6.3; P񮽙.001). Most  .45 Satisfaction with counseling role, median (IQR) ¶ 0 (0-1) 0 (0-1) .37 *Based on responses to a survey of intake clinicians administered prior to training in cessation counseling. Data were missing for those intake clinicians who were not working at the start of the intervention period, who were employed as \"floating\" (or locum tenens) staff and did not attend project meetings, or who refused to complete the staff survey. Overall survey completion rate was 84%. SD 񮽙 standard deviation, IQR 񮽙 interquartile range.\n†Comparisons are based on the Pearson chi-square test for categorical variables and Student's t test for continuous variables (years since end of training); Wilcoxon's rank sum test was used for variables with highly skewed distributions (self-efficacy in counseling, satisfaction with counseling role).\n‡The remaining intake clinicians were licensed practical nurses or medical assistants.\n§Zero and three intake clinicians at control and test sites, respectively, reported current smoking.\n񮽙We asked intake clinicians to rate their self-efficacy in smoking cessation counseling on a 4-point scale: 3 񮽙 very effective, 2 񮽙 moderately effective, 1 񮽙 slightly effective, 0 񮽙 ineffective. ¶We asked intake clinicians to rate their satisfaction in counseling patients to stop smoking on a 5-point scale: 2 񮽙 very satisfied, 1 񮽙 satisfied, 0 񮽙 neutral, 񮽙1 񮽙 dissatisfied, 񮽙2 񮽙 very dissatisfied. of these differences were attributable to increased counseling of selected smokers by intake clinicians. Although the overall percentage of patients who were advised to quit smoking by any clinic staff was not statistically significantly higher attest sites than at control sites during the intervention period (47% versus 38%; adjusted OR 񮽙 1.3, 95% CI 񮽙 0.8 to 2.3; P 񮽙 .29), the percentage of patients who were advised to quit smoking during the intervention by intake clinicians was markedly, and statistically significantly, higher attest sites than at control sites (31% versus 10%; adjusted OR 񮽙 5.1, 95% CI 񮽙 2.7 to 9.7; P񮽙.001). Intake clinicians at control sites during the intervention period infrequently performed counseling activities other than identification of smoking status.\nThe majority of patients who were targeted for additional intervention by intake clinicians received proactive telephone counseling and nicotine replacement therapy. Of the 183 test site patients who were eligible for additional intervention (based on willingness to set a quit date within 30 days), 148 (81%) completed at least one session of telephone counseling, 106 (58%) completed both sessions, and 164 (90%) received nicotine replacement therapy. Those who did not receive nicotine replacement therapy smoked fewer than 10 cigarettes per day (n 񮽙 2), had had a prior serious adverse reaction to nicotine replacement therapy (n 񮽙 1), or expressed a preference for counseling only (n 񮽙 16). Among the patients who were eligible to receive the smoking cessation intervention, those who received both nicotine replacement therapy and counseling (n 񮽙 144) had higher self-reported abstinence rates at the 6-month follow-up than the 20 patients who received nicotine replacement therapy alone, although the difference was not statistically significant (36% versus 20%; adjusted OR 񮽙 2.9, 95% CI 񮽙 0.6 to 15; P 񮽙 .19). Compared with the subset of 14 patients who received no additional assistance, however, patients who received both nicotine replacement therapy and counseling had a statistically significantly higher abstinence rate at 6 months (36% versus 14%; adjusted OR 񮽙 4.4, 95% CI 񮽙 1.0 to 18; P 񮽙 .04). During the intervention period, 29% of all patients attest sites versus 11% of all patients at control sites reported having used nicotine replacement therapy during the 6-month follow-up period (adjusted OR 񮽙 3.3, 95% CI 񮽙 2.2 to 4.9; P񮽙.001). There was no statistically significant difference in the percentage of patients attest sites versus control sites who used bupropion (instead of nicotine replacement therapy) to quit smoking during the 6-month follow-up period (10% versus 7%, respectively; P 񮽙 .11). This latter finding makes it unlikely that the observed difference in cessation rates was attributable to increased use of bupropion by test site patients.\nIn addition to increasing adherence to Guideline recommendations, the smoking cessation intervention led to improved cessation outcomes. As shown in, more patients from test sites than from control sites made an attempt to quit smoking during the 6 months of follow-up, although the difference was not statistically significant (adjusted OR 񮽙 1.4, 95% CI 񮽙 0.98 to 1.9; P 񮽙 .06). Patients attest sites were more likely than patients at control sites to report being abstinent for the prior 7 days at both the 2-month follow-up (adjusted OR 񮽙 3.3, 95% CI 񮽙 1.9 to 5.6; P񮽙.001) and the 6-month follow-up (adjusted OR 񮽙 1.7, 95% CI 񮽙 1.2 to 2.6; P 񮽙 .009). Patients from test sites were also more likely than patients from control sites to have been continuously abstinent (i.e., abstinent at both the 2-month and 6-month follow-up assessments) (adjusted OR 񮽙 3.4, 95% CI 񮽙 1.8 to 6.3; P񮽙.001). Crude and adjusted odds ratios were similar, suggesting that adjustment for patient covariates had a minimal effect on the odds ratios for the intervention (data not shown). Crude odds ratios were also similar to odds ratios adjusted for intake clinician covariates (data not shown). With biochemically confirmed abstinence at 6 months as the dependent variable, patients attest sites were more likely than patients at control sites to have quit smoking, although the difference was not statistically significant (adjusted OR 񮽙 1.4, 95% CI 񮽙 0.8 to 2.5; P 񮽙 .30). This analysis incorporated biochemical data from 60 of the 115 self-reported quitters who returned saliva samples for cotinine measurement. Among intervention-period patients who were sent a saliva collection kit, the response rates for  †Any clinician refers to intake clinicians or primary care clinicians (including physicians, nurse practitioners, and physician's assistants). ‡Intake clinicians included registered nurses, licensed practical nurses, and medical assistants.\npatients from control and test sites were similar (53% and 52%, respectively; P 񮽙 .96). Of the 60 self-reported quitters who provided a saliva specimen for biochemical analysis, 14% and 15% tested positive for cotinine attest and control sites, respectively (P 񮽙 .91). Patients' reported intentions to quit smoking at the time of the exit interviews were consistent with self-reported cessation outcomes. During the intervention period, a greater proportion of test site patients than control site patients reported that they intended to quit smoking within the next 6 months (63% versus 47%; adjusted OR 񮽙 1.9, 95% CI 񮽙 1.4 to 2.9; P񮽙.001). During the baseline period, there were no statistically significant differences in the percentage of patients attest and control sites who reported 7-day abstinence at the 2-month follow-up (5.3% versus 5.1%; adjusted OR 񮽙 1.0, 95% CI 񮽙 0.6 to 1.8; P 񮽙 .94) or at the 6-month follow-up (7.8% versus 8.6%; adjusted OR 񮽙 0.9, 95% CI 񮽙 0.6 to 1.4; P 񮽙 .62). In addition, there was no statistically significant difference between test and control sites in the percentage of non-abstinent patients who reported that they intended to quit smoking at 6-month follow-up (36% versus 39%; adjusted OR 񮽙 0.96, 95% CI 񮽙 0.7 to 1.3; P 񮽙 .78).\nThe effects of the intervention on quit attempts, quit rates, and continuous abstinence were statistically significant for moderate-to-heavy smokers but not for light smokers. Analysis of the interaction between number of cigarettes smoked and intervention showed a greater increase in the proportion who had made a quit attempt (P 񮽙 .08) and a greater increase in the proportion of moderate-to-heavy smokers who were abstinent at the 2-month follow-up (P 񮽙 .06) compared with light smokers; however, none of the interaction terms in our models attained statistical significance. Among moderate-to-heavy smokers (n 񮽙 918), patients from test sites were twice as likely to be abstinent upon biochemical testing at the 6-month follow-up as those from control sites (adjusted OR 񮽙 2.0, 95% CI 񮽙 0.98 to 4.2; P 񮽙 .06).\nBecause most patients continued to smoke cigarettes at follow-up, we also assessed whether the intervention affected smoking behaviors in this subgroup of patients. During the intervention period, more current smokers from test sites than from control sites reported at the 2-month follow-up that they had made a quit attempt of at least 7 days in duration at some point during the follow-up period, but the difference was not statistically significant (21% versus 11%; adjusted OR 񮽙 2.3, 95% CI 񮽙 0.9 to 5.7; P 񮽙 .07). There was no difference between the percentage of current smokers from test and control sites who reported a quit attempt of at least 7 days at some point during the 6-month follow-up period (23% in both groups). However, more patients from test sites than from control sites reported having a plan to quit smoking at the 6-month follow-up (50% versus 39%; adjusted OR 񮽙 1.7, 95% CI 񮽙 1.1 to 2.5; P 񮽙 .009). There were no statistically significant differences between patients from test and control sites during either study period in the number of cigarettes smoked or in the number of attempts made to quit smoking (data not shown).\nThe total estimated cost of the intervention at the four test sites was $63 453 over 12 months. The major expenses of the intervention were attributable to the costs of pharmacotherapy; salary for an on-site cessation coordinator who rotated through each site ($28 861); telephone counseling, including nurses' time and telephone charges ($2330); vital signs reminders (stampers for each nursing station) ($1313); training and feedback sessions for nursing staff ($1202); intake clinicians' time for screening and brief counseling of smokers ($281); and AHRQ smoking cessation brochures for patients ($39). The incremental cost per self-reported quitter (at 6 months) was determined to be $1822. This cost-effectiveness ratio was based on the total cost of the intervention divided by the difference in number of test site patients who reported quitting at the 6-month follow-up (n 񮽙 99) minus the number of test site patients expected to report having quit at the 6-month †Quit rates refer to the proportion of patients who report abstinence over the prior 7 days at 2-and 6-month follow-up. Continuous abstinence is defined as self-reported abstinence at both 2-and 6-month follow-ups. ‡Analysis is based on 95 patients who smoked 񮽙10 cigarettes per day and 414 patients who smoked 񮽙10 cigarettes per day. §Analysis is based on 100 patients who smoked 񮽙10 cigarettes per day and 413 patients who smoked 񮽙0 cigarettes per day. 񮽙Analysis is based on 97 patients who smoked 񮽙10 cigarettes per day and 402 patients who smoked 񮽙10 cigarettes per day. ¶Analysis is based on 126 patients who smoked 񮽙10 cigarettes per day and 516 patients who smoked 񮽙10 cigarettes per day.\nfollow-up (n 񮽙 63), based on the 6-month quit rate observed in control sites. Although we assumed that a full-time cessation coordinator would be needed, it is conceivable that the cessation coordinator could have been assigned other patient education tasks unrelated to smoking cessation, in which case the incremental cost per quitter would have been less than $1822.\nBy designing the brief counseling protocol) to be performed within 2-3 minutes, on average, the intervention was well accepted by intake clinicians. A majority indicated that they intended to continue using elements of the intervention (e.g., modified vital signs stamp) after the end of the trial. Moreover, the intervention was generally associated with improved selfefficacy and role satisfaction in cessation counseling among intake clinicians (data not shown).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "During most visits to primary care clinicians, there is a need to address multiple concerns related to the management of acute and chronic illnesses and to provide appropriate preventive care. Although several healthcare systems have improved the delivery of smoking cessation services in primary care practices following the initial release of the AHRQ Smoking Cessation Guideline in 1996 (40 -42), there are still major deficiencies in cessation counseling and no experimental data on the effectiveness of guideline-based strategies in these practice settings.\nIn the current trial, implementation of the AHRQ Guideline by intake clinicians was associated with a 5.6% absolute increase in the 6-month quit rate, an increase that is consistent with the effectiveness of transdermal nicotine therapy plus counseling observed in meta-analyses of controlled clinical trials (1,43). For comparison, the estimated abstinence rates for participants receiving transdermal nicotine therapy or placebo in a metaanalysis of 27 trials were 17.7% and 10.0%, respectively (1). Quit rates among patients from control sites changed minimally over the course of this trial, suggesting that it is unlikely that the increase in quit rates among patients from test sites was attributable to secular trends in smoking cessation.\nA unique aspect of the study intervention was that drug therapy and telephone counseling were integrated into clinicbased cessation services and were provided free of charge to smokers. In particular, the study cessation counselor maintained regular communication with the intake clinicians at the test sites and functioned in much the same capacity as a health educator in a managed care organization. The design of the study intervention was consistent with the AHRQ Guideline and with recent national recommendations for creating effective delivery systems. In addition, studies of guideline implementation support the use of multiple modalities in changing clinicians' practice behavior.\nA potential drawback of the study intervention was the need for additional staff time and resources. However, managed care organizations have demonstrated the feasibility of providing pharmacotherapy and counseling as part of a comprehensive strategy for smoking cessation (47). Moreover, the incremental cost per quitter associated with the study intervention compared favorably with that computed in a formal cost-effectiveness analysis, which demonstrated that implementation of the AHRQ Guideline was highly cost-effective relative to other preventive care interventions.\nThe limitations of this study warrant discussion. First, biochemical confirmation was not performed for all self-reported quitters. However, biochemical testing has been shown to have limited value in low-intensity interventions such as the one used in this study. In addition, among the patients who provided a saliva specimen for biochemical analysis, a similar proportion of self-reported quitters from test and control sites tested positive for cotinine. Thus, differential overreporting of abstinence is unlikely to account for the higher quit rates observed attest sites. Even if patients attest sites were 5% more likely to overreport abstinence than patients at control sites (51), the difference in 6-month quit rates between patients from test *Comparisons between control and test sites are based on hierarchical logistic regression models for any quit attempt (񮽙7 days in duration) and plan to quit in next 6 months; hierarchical linear regression was used to model number of cigarettes smoked per day. All models were adjusted for the following patient covariates: age, sex, educational level, alcohol use, number of cigarettes smoked per day, self-reported health status, and presence of another smoker in household. CI 񮽙 confidence interval, IQR 񮽙 interquartile range.\n†During the baseline period, there were 483 and 465 current smokers at control sites at 2-and 6-month follow-up assessments; there were 486 and 473 current smokers attest sites at 2-and 6-month follow-up assessments, respectively. During the intervention period, there were 470 and 450 current smokers at control sites at 2-and 6-month follow-up assessments; there were 537 and 543 current smokers attest sites at 2-and 6-month follow-up assessments, respectively. and control sites would still be statistically significant (12.3% versus 8.3%; P 񮽙 .03; starting with the self-reported abstinence rates of 15.4% and 9.8% for test and control sites, respectively, and multiplying by the proportion of participants who were biochemically confirmed in each group [0.80 and 0.85, respectively, under the assumption of differential overreporting of abstinence in the test group]).\nSecond, the intervention did not offer patients alternative forms of counseling or drug therapy (e.g., sustained-release bupropion or other forms of nicotine replacement therapy). Although patients were allowed to use pharmacotherapy other than transdermal nicotine patches during the study, a priority of the intervention was to ensure that all eligible smokers had access to effective drug therapy that did not require a physician's prescription (and with no cost to the patient).\nThird, the study intervention did not target physicians. The intervention was purposely designed to minimize demands on physicians by reassigning primary responsibility for the identification and brief counseling of smokers to intake clinicians. We presume that the effectiveness of this intervention would have been enhanced if we had actively involved primary care clinicians in implementing the Guideline.\nFourth, we did not achieve our original enrollment target and thus had a slightly lower power than originally planned to detect differences in cessation outcomes between test and control sites. Our recruitment strategy primarily focused on enrolling a sufficient number of patients per intake clinician (to obtain stable estimates of performance for each clinician), and we terminated recruitment at smaller clinics (i.e., those with fewer than 10 intake clinicians) before we attained the original target of 150 smokers per clinic (per study period). Finally, it is unclear if the intervention would be as effective in unselected primary care clinics that might have less interest in smoking cessation or less organizational readiness for change. Patients who participated in the current study were similar to those in a recent preventive care survey of U.S. primary care clinics (52).\nOur results suggest that intake clinicians can effectively implement the AHRQ Guideline-based strategy to improve the delivery of smoking cessation advice and pharmacotherapy in a time-and cost-efficient manner. For the 70% of U.S. smokers who visit their physicians at least once a year, exposure to this opportunistic intervention could potentially lead to smoking cessation for approximately 2 million patients annually. To realize these benefits, healthcare organizations should aim to enhance the impact of brief counseling in primary care settings by providing effective drug and behavioral therapies for properly selected smokers who are committed to quitting. Future research should determine whether strategies based on the AHRQ Guideline can be effectively implemented and sustained in different practice settings over the long term and should evaluate strategies that integrate AHRQ smoking cessation guidelines into the management of other chronic conditions, including diabetes and hypercholesterolemia (53).\n",
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "41.9 (16)",
+          "rowHeaders": [
+            "Mean age, y (SD)"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of patients from control and test sites who agreed to participate in follow-up*",
+            "Baseline period",
+            "Control sites",
+            "(n 񮽙 509)"
+          ]
+        },
+        {
+          "value": "43.5 (14)",
+          "rowHeaders": [
+            "Mean age, y (SD)"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of patients from control and test sites who agreed to participate in follow-up*",
+            "Baseline period",
+            "Test sites",
+            "(n 񮽙 513)"
+          ]
+        },
+        {
+          "value": ".09",
+          "rowHeaders": [
+            "Mean age, y (SD)"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of patients from control and test sites who agreed to participate in follow-up*",
+            "Baseline period",
+            "Test sites",
+            "P"
+          ]
+        },
+        {
+          "value": "39.9 (15)",
+          "rowHeaders": [
+            "Mean age, y (SD)"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of patients from control and test sites who agreed to participate in follow-up*",
+            "Intervention period",
+            "Control sites",
+            "(n 񮽙 499)"
+          ]
+        },
+        {
+          "value": "42.8 (15)",
+          "rowHeaders": [
+            "Mean age, y (SD)"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of patients from control and test sites who agreed to participate in follow-up*",
+            "Intervention period",
+            "Test sites",
+            "(n 񮽙 642)"
+          ]
+        },
+        {
+          "value": ".001",
+          "rowHeaders": [
+            "Mean age, y (SD)"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of patients from control and test sites who agreed to participate in follow-up*",
+            "Intervention period",
+            "Test sites",
+            "P"
+          ]
+        },
+        {
+          "value": "44",
+          "rowHeaders": [
+            "Male, %"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of patients from control and test sites who agreed to participate in follow-up*",
+            "Baseline period",
+            "Control sites",
+            "(n 񮽙 509)"
+          ]
+        },
+        {
+          "value": "47",
+          "rowHeaders": [
+            "Male, %"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of patients from control and test sites who agreed to participate in follow-up*",
+            "Baseline period",
+            "Test sites",
+            "(n 񮽙 513)"
+          ]
+        },
+        {
+          "value": ".24",
+          "rowHeaders": [
+            "Male, %"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of patients from control and test sites who agreed to participate in follow-up*",
+            "Baseline period",
+            "Test sites",
+            "P"
+          ]
+        },
+        {
+          "value": "44",
+          "rowHeaders": [
+            "Male, %"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of patients from control and test sites who agreed to participate in follow-up*",
+            "Intervention period",
+            "Control sites",
+            "(n 񮽙 499)"
+          ]
+        },
+        {
+          "value": "45",
+          "rowHeaders": [
+            "Male, %"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of patients from control and test sites who agreed to participate in follow-up*",
+            "Intervention period",
+            "Test sites",
+            "(n 񮽙 642)"
+          ]
+        },
+        {
+          "value": ".81",
+          "rowHeaders": [
+            "Male, %"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of patients from control and test sites who agreed to participate in follow-up*",
+            "Intervention period",
+            "Test sites",
+            "P"
+          ]
+        },
+        {
+          "value": "12.3 (1.8)",
+          "rowHeaders": [
+            "Mean years of education, y (SD)"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of patients from control and test sites who agreed to participate in follow-up*",
+            "Baseline period",
+            "Control sites",
+            "(n 񮽙 509)"
+          ]
+        },
+        {
+          "value": "12.6 (1.7)",
+          "rowHeaders": [
+            "Mean years of education, y (SD)"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of patients from control and test sites who agreed to participate in follow-up*",
+            "Baseline period",
+            "Test sites",
+            "(n 񮽙 513)"
+          ]
+        },
+        {
+          "value": ".001",
+          "rowHeaders": [
+            "Mean years of education, y (SD)"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of patients from control and test sites who agreed to participate in follow-up*",
+            "Baseline period",
+            "Control sites",
+            "P"
+          ]
+        },
+        {
+          "value": "12.3 (1.5)",
+          "rowHeaders": [
+            "Mean years of education, y (SD)"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of patients from control and test sites who agreed to participate in follow-up*",
+            "Intervention period",
+            "Control sites",
+            "(n 񮽙 499)"
+          ]
+        },
+        {
+          "value": "12.6 (1.7)",
+          "rowHeaders": [
+            "Mean years of education, y (SD)"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of patients from control and test sites who agreed to participate in follow-up*",
+            "Intervention period",
+            "Test sites",
+            "(n 񮽙 642)"
+          ]
+        },
+        {
+          "value": ".005",
+          "rowHeaders": [
+            "Mean years of education, y (SD)"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of patients from control and test sites who agreed to participate in follow-up*",
+            "Intervention period",
+            "Test sites",
+            "P"
+          ]
+        },
+        {
+          "value": "38",
+          "rowHeaders": [
+            "Very good or excellent health, %"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of patients from control and test sites who agreed to participate in follow-up*",
+            "Baseline period",
+            "Control sites",
+            "(n 񮽙 509)"
+          ]
+        },
+        {
+          "value": "37",
+          "rowHeaders": [
+            "Very good or excellent health, %"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of patients from control and test sites who agreed to participate in follow-up*",
+            "Baseline period",
+            "Test sites",
+            "(n 񮽙 513)"
+          ]
+        },
+        {
+          "value": ".89",
+          "rowHeaders": [
+            "Very good or excellent health, %"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of patients from control and test sites who agreed to participate in follow-up*",
+            "Baseline period",
+            "Test sites",
+            "P"
+          ]
+        },
+        {
+          "value": "38",
+          "rowHeaders": [
+            "Very good or excellent health, %"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of patients from control and test sites who agreed to participate in follow-up*",
+            "Intervention period",
+            "Control sites",
+            "(n 񮽙 499)"
+          ]
+        },
+        {
+          "value": "35",
+          "rowHeaders": [
+            "Very good or excellent health, %"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of patients from control and test sites who agreed to participate in follow-up*",
+            "Intervention period",
+            "Test sites",
+            "(n 񮽙 642)"
+          ]
+        },
+        {
+          "value": ".23",
+          "rowHeaders": [
+            "Very good or excellent health, %"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of patients from control and test sites who agreed to participate in follow-up*",
+            "Intervention period",
+            "Test sites",
+            "P"
+          ]
+        },
+        {
+          "value": "15 (10-20)",
+          "rowHeaders": [
+            "No. of cigarettes smoked per day, median (IQR)"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of patients from control and test sites who agreed to participate in follow-up*",
+            "Baseline period",
+            "Control sites",
+            "(n 񮽙 509)"
+          ]
+        },
+        {
+          "value": "20 (10-20)",
+          "rowHeaders": [
+            "No. of cigarettes smoked per day, median (IQR)"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of patients from control and test sites who agreed to participate in follow-up*",
+            "Baseline period",
+            "Test sites",
+            "(n 񮽙 513)"
+          ]
+        },
+        {
+          "value": ".08",
+          "rowHeaders": [
+            "No. of cigarettes smoked per day, median (IQR)"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of patients from control and test sites who agreed to participate in follow-up*",
+            "Baseline period",
+            "Test sites",
+            "P"
+          ]
+        },
+        {
+          "value": "15 (10-20)",
+          "rowHeaders": [
+            "No. of cigarettes smoked per day, median (IQR)"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of patients from control and test sites who agreed to participate in follow-up*",
+            "Intervention period",
+            "Control sites",
+            "(n 񮽙 499)"
+          ]
+        },
+        {
+          "value": "20 (10-20)",
+          "rowHeaders": [
+            "No. of cigarettes smoked per day, median (IQR)"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of patients from control and test sites who agreed to participate in follow-up*",
+            "Intervention period",
+            "Test sites",
+            "(n 񮽙 642)"
+          ]
+        },
+        {
+          "value": ".04",
+          "rowHeaders": [
+            "No. of cigarettes smoked per day, median (IQR)"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of patients from control and test sites who agreed to participate in follow-up*",
+            "Intervention period",
+            "Test sites",
+            "P"
+          ]
+        },
+        {
+          "value": "67",
+          "rowHeaders": [
+            "Consumed alcohol within the past 3 months, %"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of patients from control and test sites who agreed to participate in follow-up*",
+            "Baseline period",
+            "Control sites",
+            "(n 񮽙 509)"
+          ]
+        },
+        {
+          "value": "66",
+          "rowHeaders": [
+            "Consumed alcohol within the past 3 months, %"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of patients from control and test sites who agreed to participate in follow-up*",
+            "Baseline period",
+            "Test sites",
+            "(n 񮽙 513)"
+          ]
+        },
+        {
+          "value": ".86",
+          "rowHeaders": [
+            "Consumed alcohol within the past 3 months, %"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of patients from control and test sites who agreed to participate in follow-up*",
+            "Baseline period",
+            "Test sites",
+            "P"
+          ]
+        },
+        {
+          "value": "63",
+          "rowHeaders": [
+            "Consumed alcohol within the past 3 months, %"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of patients from control and test sites who agreed to participate in follow-up*",
+            "Intervention period",
+            "Control sites",
+            "(n 񮽙 499)"
+          ]
+        },
+        {
+          "value": "64",
+          "rowHeaders": [
+            "Consumed alcohol within the past 3 months, %"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of patients from control and test sites who agreed to participate in follow-up*",
+            "Intervention period",
+            "Test sites",
+            "(n 񮽙 642)"
+          ]
+        },
+        {
+          "value": ".67",
+          "rowHeaders": [
+            "Consumed alcohol within the past 3 months, %"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of patients from control and test sites who agreed to participate in follow-up*",
+            "Intervention period",
+            "Test sites",
+            "P"
+          ]
+        },
+        {
+          "value": "49",
+          "rowHeaders": [
+            "Another smoker in household, %"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of patients from control and test sites who agreed to participate in follow-up*",
+            "Baseline period",
+            "Control sites",
+            "(n 񮽙 509)"
+          ]
+        },
+        {
+          "value": "50",
+          "rowHeaders": [
+            "Another smoker in household, %"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of patients from control and test sites who agreed to participate in follow-up*",
+            "Baseline period",
+            "Test sites",
+            "(n 񮽙 513)"
+          ]
+        },
+        {
+          "value": ".80",
+          "rowHeaders": [
+            "Another smoker in household, %"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of patients from control and test sites who agreed to participate in follow-up*",
+            "Baseline period",
+            "Test sites",
+            "P"
+          ]
+        },
+        {
+          "value": "46",
+          "rowHeaders": [
+            "Another smoker in household, %"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of patients from control and test sites who agreed to participate in follow-up*",
+            "Intervention period",
+            "Control sites",
+            "(n 񮽙 499)"
+          ]
+        },
+        {
+          "value": "48",
+          "rowHeaders": [
+            "Another smoker in household, %"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of patients from control and test sites who agreed to participate in follow-up*",
+            "Intervention period",
+            "Test sites",
+            "(n 񮽙 642)"
+          ]
+        },
+        {
+          "value": ".53",
+          "rowHeaders": [
+            "Another smoker in household, %"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of patients from control and test sites who agreed to participate in follow-up*",
+            "Intervention period",
+            "Test sites",
+            "P"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "25",
+          "rowHeaders": [
+            "Registered nurse, % ‡"
+          ],
+          "columnHeaders": [
+            "Table 2. Characteristics of intake clinicians at control and test sites*",
+            "Control",
+            "sites",
+            "(n 񮽙 32)"
+          ]
+        },
+        {
+          "value": "21",
+          "rowHeaders": [
+            "Registered nurse, % ‡"
+          ],
+          "columnHeaders": [
+            "Table 2. Characteristics of intake clinicians at control and test sites*",
+            "Test",
+            "sites",
+            "(n 񮽙 43)"
+          ]
+        },
+        {
+          "value": ".68",
+          "rowHeaders": [
+            "Registered nurse, % ‡"
+          ],
+          "columnHeaders": [
+            "Table 2. Characteristics of intake clinicians at control and test sites*",
+            "Test",
+            "sites",
+            "P †"
+          ]
+        },
+        {
+          "value": "21 (11)",
+          "rowHeaders": [
+            "Years since end of training, mean (SD)"
+          ],
+          "columnHeaders": [
+            "Table 2. Characteristics of intake clinicians at control and test sites*",
+            "Control",
+            "sites",
+            "(n 񮽙 32)"
+          ]
+        },
+        {
+          "value": "15 (11)",
+          "rowHeaders": [
+            "Years since end of training, mean (SD)"
+          ],
+          "columnHeaders": [
+            "Table 2. Characteristics of intake clinicians at control and test sites*",
+            "Test",
+            "sites",
+            "(n 񮽙 43)"
+          ]
+        },
+        {
+          "value": ".05",
+          "rowHeaders": [
+            "Years since end of training, mean (SD)"
+          ],
+          "columnHeaders": [
+            "Table 2. Characteristics of intake clinicians at control and test sites*",
+            "Test",
+            "sites",
+            "P †"
+          ]
+        },
+        {
+          "value": "22",
+          "rowHeaders": [
+            "Current or former smoker, % §"
+          ],
+          "columnHeaders": [
+            "Table 2. Characteristics of intake clinicians at control and test sites*",
+            "Control",
+            "sites",
+            "(n 񮽙 32)"
+          ]
+        },
+        {
+          "value": "42",
+          "rowHeaders": [
+            "Current or former smoker, % §"
+          ],
+          "columnHeaders": [
+            "Table 2. Characteristics of intake clinicians at control and test sites*",
+            "Test",
+            "sites",
+            "(n 񮽙 43)"
+          ]
+        },
+        {
+          "value": ".07",
+          "rowHeaders": [
+            "Current or former smoker, % §"
+          ],
+          "columnHeaders": [
+            "Table 2. Characteristics of intake clinicians at control and test sites*",
+            "Test",
+            "sites",
+            "P †"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "61 (57 to 65)",
+          "rowHeaders": [
+            "Asked about smoking status"
+          ],
+          "columnHeaders": [
+            "Table 3. Proportion of exit interviewees at the control and test sites who received recommended counseling activities during the baseline and intervention periods*",
+            "Baseline period",
+            "Control sites, %",
+            "(95% CI)",
+            "(n 񮽙 509)"
+          ]
+        },
+        {
+          "value": "58 (53 to 62)",
+          "rowHeaders": [
+            "Asked about smoking status",
+            "4 (2 to 5)"
+          ],
+          "columnHeaders": [
+            "Table 3. Proportion of exit interviewees at the control and test sites who received recommended counseling activities during the baseline and intervention periods*",
+            "Baseline period",
+            "Test sites, %",
+            "(95% CI)",
+            "(n 񮽙 513)"
+          ]
+        },
+        {
+          "value": ".80",
+          "rowHeaders": [
+            "Asked about smoking status",
+            "4 (2 to 5)",
+            "3 (1 to 4)"
+          ],
+          "columnHeaders": [
+            "Table 3. Proportion of exit interviewees at the control and test sites who received recommended counseling activities during the baseline and intervention periods*",
+            "Baseline period",
+            "Test sites, %",
+            "(95% CI)",
+            "P"
+          ]
+        },
+        {
+          "value": "67 (63 to 71)",
+          "rowHeaders": [
+            "Asked about smoking status",
+            "4 (2 to 5)",
+            "3 (1 to 4)",
+            "-"
+          ],
+          "columnHeaders": [
+            "Table 3. Proportion of exit interviewees at the control and test sites who received recommended counseling activities during the baseline and intervention periods*",
+            "Intervention period",
+            "Control sites, %",
+            "(95% CI)",
+            "(n 񮽙 499)"
+          ]
+        },
+        {
+          "value": "87 (84 to 90)",
+          "rowHeaders": [
+            "Asked about smoking status",
+            "4 (2 to 5)",
+            "3 (1 to 4)",
+            "-",
+            "3 (2 to 5)"
+          ],
+          "columnHeaders": [
+            "Table 3. Proportion of exit interviewees at the control and test sites who received recommended counseling activities during the baseline and intervention periods*",
+            "Intervention period",
+            "Test sites, %",
+            "(95% CI)",
+            "(n 񮽙 642)"
+          ]
+        },
+        {
+          "value": ".02",
+          "rowHeaders": [
+            "Asked about smoking status",
+            "4 (2 to 5)",
+            "3 (1 to 4)",
+            "-",
+            "3 (2 to 5)"
+          ],
+          "columnHeaders": [
+            "Table 3. Proportion of exit interviewees at the control and test sites who received recommended counseling activities during the baseline and intervention periods*",
+            "Intervention period",
+            "Test sites, %",
+            "(95% CI)",
+            "P"
+          ]
+        },
+        {
+          "value": "26 (22 to 30)",
+          "rowHeaders": [
+            "Asked about willingness to quit"
+          ],
+          "columnHeaders": [
+            "Table 3. Proportion of exit interviewees at the control and test sites who received recommended counseling activities during the baseline and intervention periods*",
+            "Baseline period",
+            "Control sites, %",
+            "(95% CI)",
+            "(n 񮽙 509)"
+          ]
+        },
+        {
+          "value": "28 (25 to 32)",
+          "rowHeaders": [
+            "Asked about willingness to quit",
+            "4 (2 to 5)"
+          ],
+          "columnHeaders": [
+            "Table 3. Proportion of exit interviewees at the control and test sites who received recommended counseling activities during the baseline and intervention periods*",
+            "Baseline period",
+            "Test sites, %",
+            "(95% CI)",
+            "(n 񮽙 513)"
+          ]
+        },
+        {
+          "value": ".51",
+          "rowHeaders": [
+            "Asked about willingness to quit",
+            "4 (2 to 5)",
+            "3 (1 to 4)"
+          ],
+          "columnHeaders": [
+            "Table 3. Proportion of exit interviewees at the control and test sites who received recommended counseling activities during the baseline and intervention periods*",
+            "Baseline period",
+            "Test sites, %",
+            "(95% CI)",
+            "P"
+          ]
+        },
+        {
+          "value": "30 (26 to 34)",
+          "rowHeaders": [
+            "Asked about willingness to quit",
+            "4 (2 to 5)",
+            "3 (1 to 4)",
+            "-"
+          ],
+          "columnHeaders": [
+            "Table 3. Proportion of exit interviewees at the control and test sites who received recommended counseling activities during the baseline and intervention periods*",
+            "Intervention period",
+            "Control sites, %",
+            "(95% CI)",
+            "(n 񮽙 499)"
+          ]
+        },
+        {
+          "value": "73 (69 to 76)",
+          "rowHeaders": [
+            "Asked about willingness to quit",
+            "4 (2 to 5)",
+            "3 (1 to 4)",
+            "-",
+            "3 (2 to 5)"
+          ],
+          "columnHeaders": [
+            "Table 3. Proportion of exit interviewees at the control and test sites who received recommended counseling activities during the baseline and intervention periods*",
+            "Intervention period",
+            "Test sites, %",
+            "(95% CI)",
+            "(n 񮽙 642)"
+          ]
+        },
+        {
+          "value": "񮽙.001",
+          "rowHeaders": [
+            "Asked about willingness to quit",
+            "4 (2 to 5)",
+            "3 (1 to 4)",
+            "-",
+            "3 (2 to 5)"
+          ],
+          "columnHeaders": [
+            "Table 3. Proportion of exit interviewees at the control and test sites who received recommended counseling activities during the baseline and intervention periods*",
+            "Intervention period",
+            "Test sites, %",
+            "(95% CI)",
+            "P"
+          ]
+        },
+        {
+          "value": "32 (28 to 36)",
+          "rowHeaders": [
+            "Advised to quit"
+          ],
+          "columnHeaders": [
+            "Table 3. Proportion of exit interviewees at the control and test sites who received recommended counseling activities during the baseline and intervention periods*",
+            "Baseline period",
+            "Control sites, %",
+            "(95% CI)",
+            "(n 񮽙 509)"
+          ]
+        },
+        {
+          "value": "41 (36 to 45)",
+          "rowHeaders": [
+            "Advised to quit",
+            "4 (2 to 5)"
+          ],
+          "columnHeaders": [
+            "Table 3. Proportion of exit interviewees at the control and test sites who received recommended counseling activities during the baseline and intervention periods*",
+            "Baseline period",
+            "Test sites, %",
+            "(95% CI)",
+            "(n 񮽙 513)"
+          ]
+        },
+        {
+          "value": ".25",
+          "rowHeaders": [
+            "Advised to quit",
+            "4 (2 to 5)",
+            "3 (1 to 4)"
+          ],
+          "columnHeaders": [
+            "Table 3. Proportion of exit interviewees at the control and test sites who received recommended counseling activities during the baseline and intervention periods*",
+            "Baseline period",
+            "Test sites, %",
+            "(95% CI)",
+            "P"
+          ]
+        },
+        {
+          "value": "38 (34 to 43)",
+          "rowHeaders": [
+            "Advised to quit",
+            "4 (2 to 5)",
+            "3 (1 to 4)",
+            "-"
+          ],
+          "columnHeaders": [
+            "Table 3. Proportion of exit interviewees at the control and test sites who received recommended counseling activities during the baseline and intervention periods*",
+            "Intervention period",
+            "Control sites, %",
+            "(95% CI)",
+            "(n 񮽙 499)"
+          ]
+        },
+        {
+          "value": "47 (44 to 51)",
+          "rowHeaders": [
+            "Advised to quit",
+            "4 (2 to 5)",
+            "3 (1 to 4)",
+            "-",
+            "3 (2 to 5)"
+          ],
+          "columnHeaders": [
+            "Table 3. Proportion of exit interviewees at the control and test sites who received recommended counseling activities during the baseline and intervention periods*",
+            "Intervention period",
+            "Test sites, %",
+            "(95% CI)",
+            "(n 񮽙 642)"
+          ]
+        },
+        {
+          "value": ".29",
+          "rowHeaders": [
+            "Advised to quit",
+            "4 (2 to 5)",
+            "3 (1 to 4)",
+            "-",
+            "3 (2 to 5)"
+          ],
+          "columnHeaders": [
+            "Table 3. Proportion of exit interviewees at the control and test sites who received recommended counseling activities during the baseline and intervention periods*",
+            "Intervention period",
+            "Test sites, %",
+            "(95% CI)",
+            "P"
+          ]
+        },
+        {
+          "value": ".78",
+          "rowHeaders": [
+            "Given quit literature",
+            "4 (2 to 5)",
+            "3 (1 to 4)"
+          ],
+          "columnHeaders": [
+            "Table 3. Proportion of exit interviewees at the control and test sites who received recommended counseling activities during the baseline and intervention periods*",
+            "Baseline period",
+            "Test sites, %",
+            "(95% CI)",
+            "P"
+          ]
+        },
+        {
+          "value": "38 (34 to 42)",
+          "rowHeaders": [
+            "Given quit literature",
+            "4 (2 to 5)",
+            "3 (1 to 4)",
+            "-",
+            "3 (2 to 5)"
+          ],
+          "columnHeaders": [
+            "Table 3. Proportion of exit interviewees at the control and test sites who received recommended counseling activities during the baseline and intervention periods*",
+            "Intervention period",
+            "Test sites, %",
+            "(95% CI)",
+            "(n 񮽙 642)"
+          ]
+        },
+        {
+          "value": "񮽙.001",
+          "rowHeaders": [
+            "Given quit literature",
+            "4 (2 to 5)",
+            "3 (1 to 4)",
+            "-",
+            "3 (2 to 5)"
+          ],
+          "columnHeaders": [
+            "Table 3. Proportion of exit interviewees at the control and test sites who received recommended counseling activities during the baseline and intervention periods*",
+            "Intervention period",
+            "Test sites, %",
+            "(95% CI)",
+            "P"
+          ]
+        },
+        {
+          "value": ".48",
+          "rowHeaders": [
+            "Set quit date",
+            "1 (0 to 2)",
+            "2 (1 to 3)"
+          ],
+          "columnHeaders": [
+            "Table 3. Proportion of exit interviewees at the control and test sites who received recommended counseling activities during the baseline and intervention periods*",
+            "Baseline period",
+            "Test sites, %",
+            "(95% CI)",
+            "P"
+          ]
+        },
+        {
+          "value": "27 (24 to 31)",
+          "rowHeaders": [
+            "Set quit date",
+            "1 (0 to 2)",
+            "2 (1 to 3)",
+            "-",
+            "1 (0 to 2)"
+          ],
+          "columnHeaders": [
+            "Table 3. Proportion of exit interviewees at the control and test sites who received recommended counseling activities during the baseline and intervention periods*",
+            "Intervention period",
+            "Test sites, %",
+            "(95% CI)",
+            "(n 񮽙 642)"
+          ]
+        },
+        {
+          "value": "񮽙.001",
+          "rowHeaders": [
+            "Set quit date",
+            "1 (0 to 2)",
+            "2 (1 to 3)",
+            "-",
+            "1 (0 to 2)"
+          ],
+          "columnHeaders": [
+            "Table 3. Proportion of exit interviewees at the control and test sites who received recommended counseling activities during the baseline and intervention periods*",
+            "Intervention period",
+            "Test sites, %",
+            "(95% CI)",
+            "P"
+          ]
+        },
+        {
+          "value": "14 (11 to 17)",
+          "rowHeaders": [
+            "Discussed pharmacotherapy"
+          ],
+          "columnHeaders": [
+            "Table 3. Proportion of exit interviewees at the control and test sites who received recommended counseling activities during the baseline and intervention periods*",
+            "Baseline period",
+            "Control sites, %",
+            "(95% CI)",
+            "(n 񮽙 509)"
+          ]
+        },
+        {
+          "value": "15 (12 to 18)",
+          "rowHeaders": [
+            "Discussed pharmacotherapy",
+            "1 (0 to 2)"
+          ],
+          "columnHeaders": [
+            "Table 3. Proportion of exit interviewees at the control and test sites who received recommended counseling activities during the baseline and intervention periods*",
+            "Baseline period",
+            "Test sites, %",
+            "(95% CI)",
+            "(n 񮽙 513)"
+          ]
+        },
+        {
+          "value": ".75",
+          "rowHeaders": [
+            "Discussed pharmacotherapy",
+            "1 (0 to 2)",
+            "2 (1 to 3)"
+          ],
+          "columnHeaders": [
+            "Table 3. Proportion of exit interviewees at the control and test sites who received recommended counseling activities during the baseline and intervention periods*",
+            "Baseline period",
+            "Test sites, %",
+            "(95% CI)",
+            "P"
+          ]
+        },
+        {
+          "value": "14 (11 to 17)",
+          "rowHeaders": [
+            "Discussed pharmacotherapy",
+            "1 (0 to 2)",
+            "2 (1 to 3)",
+            "-"
+          ],
+          "columnHeaders": [
+            "Table 3. Proportion of exit interviewees at the control and test sites who received recommended counseling activities during the baseline and intervention periods*",
+            "Intervention period",
+            "Control sites, %",
+            "(95% CI)",
+            "(n 񮽙 499)"
+          ]
+        },
+        {
+          "value": "39 (35 to 43)",
+          "rowHeaders": [
+            "Discussed pharmacotherapy",
+            "1 (0 to 2)",
+            "2 (1 to 3)",
+            "-",
+            "1 (0 to 2)"
+          ],
+          "columnHeaders": [
+            "Table 3. Proportion of exit interviewees at the control and test sites who received recommended counseling activities during the baseline and intervention periods*",
+            "Intervention period",
+            "Test sites, %",
+            "(95% CI)",
+            "(n 񮽙 642)"
+          ]
+        },
+        {
+          "value": "񮽙.001",
+          "rowHeaders": [
+            "Discussed pharmacotherapy",
+            "1 (0 to 2)",
+            "2 (1 to 3)",
+            "-",
+            "1 (0 to 2)"
+          ],
+          "columnHeaders": [
+            "Table 3. Proportion of exit interviewees at the control and test sites who received recommended counseling activities during the baseline and intervention periods*",
+            "Intervention period",
+            "Test sites, %",
+            "(95% CI)",
+            "P"
+          ]
+        },
+        {
+          "value": "34 (30 to 38)",
+          "rowHeaders": [
+            "Asked about smoking status"
+          ],
+          "columnHeaders": [
+            "Table 3. Proportion of exit interviewees at the control and test sites who received recommended counseling activities during the baseline and intervention periods*",
+            "Baseline period",
+            "Control sites, %",
+            "(95% CI)",
+            "(n 񮽙 509)"
+          ]
+        },
+        {
+          "value": "30 (27 to 35)",
+          "rowHeaders": [
+            "Asked about smoking status",
+            "6 (4 to 7)"
+          ],
+          "columnHeaders": [
+            "Table 3. Proportion of exit interviewees at the control and test sites who received recommended counseling activities during the baseline and intervention periods*",
+            "Baseline period",
+            "Test sites, %",
+            "(95% CI)",
+            "(n 񮽙 513)"
+          ]
+        },
+        {
+          "value": ".66",
+          "rowHeaders": [
+            "Asked about smoking status",
+            "6 (4 to 7)",
+            "5 (3 to 7)"
+          ],
+          "columnHeaders": [
+            "Table 3. Proportion of exit interviewees at the control and test sites who received recommended counseling activities during the baseline and intervention periods*",
+            "Baseline period",
+            "Test sites, %",
+            "(95% CI)",
+            "P"
+          ]
+        },
+        {
+          "value": "46 (41 to 50)",
+          "rowHeaders": [
+            "Asked about smoking status",
+            "6 (4 to 7)",
+            "5 (3 to 7)",
+            "-"
+          ],
+          "columnHeaders": [
+            "Table 3. Proportion of exit interviewees at the control and test sites who received recommended counseling activities during the baseline and intervention periods*",
+            "Intervention period",
+            "Control sites, %",
+            "(95% CI)",
+            "(n 񮽙 499)"
+          ]
+        },
+        {
+          "value": "81 (77 to 84)",
+          "rowHeaders": [
+            "Asked about smoking status",
+            "6 (4 to 7)",
+            "5 (3 to 7)",
+            "-",
+            "0 (0 to 1)"
+          ],
+          "columnHeaders": [
+            "Table 3. Proportion of exit interviewees at the control and test sites who received recommended counseling activities during the baseline and intervention periods*",
+            "Intervention period",
+            "Test sites, %",
+            "(95% CI)",
+            "(n 񮽙 642)"
+          ]
+        },
+        {
+          "value": "񮽙.001",
+          "rowHeaders": [
+            "Asked about smoking status",
+            "6 (4 to 7)",
+            "5 (3 to 7)",
+            "-",
+            "0 (0 to 1)"
+          ],
+          "columnHeaders": [
+            "Table 3. Proportion of exit interviewees at the control and test sites who received recommended counseling activities during the baseline and intervention periods*",
+            "Intervention period",
+            "Test sites, %",
+            "(95% CI)",
+            "P"
+          ]
+        },
+        {
+          "value": ".54",
+          "rowHeaders": [
+            "Asked about willingness to quit",
+            "6 (4 to 7)",
+            "5 (3 to 7)"
+          ],
+          "columnHeaders": [
+            "Table 3. Proportion of exit interviewees at the control and test sites who received recommended counseling activities during the baseline and intervention periods*",
+            "Baseline period",
+            "Test sites, %",
+            "(95% CI)",
+            "P"
+          ]
+        },
+        {
+          "value": "10 (8 to 13)",
+          "rowHeaders": [
+            "Asked about willingness to quit",
+            "6 (4 to 7)",
+            "5 (3 to 7)",
+            "-"
+          ],
+          "columnHeaders": [
+            "Table 3. Proportion of exit interviewees at the control and test sites who received recommended counseling activities during the baseline and intervention periods*",
+            "Intervention period",
+            "Control sites, %",
+            "(95% CI)",
+            "(n 񮽙 499)"
+          ]
+        },
+        {
+          "value": "65 (61 to 68)",
+          "rowHeaders": [
+            "Asked about willingness to quit",
+            "6 (4 to 7)",
+            "5 (3 to 7)",
+            "-",
+            "0 (0 to 1)"
+          ],
+          "columnHeaders": [
+            "Table 3. Proportion of exit interviewees at the control and test sites who received recommended counseling activities during the baseline and intervention periods*",
+            "Intervention period",
+            "Test sites, %",
+            "(95% CI)",
+            "(n 񮽙 642)"
+          ]
+        },
+        {
+          "value": "񮽙.001",
+          "rowHeaders": [
+            "Asked about willingness to quit",
+            "6 (4 to 7)",
+            "5 (3 to 7)",
+            "-",
+            "0 (0 to 1)"
+          ],
+          "columnHeaders": [
+            "Table 3. Proportion of exit interviewees at the control and test sites who received recommended counseling activities during the baseline and intervention periods*",
+            "Intervention period",
+            "Test sites, %",
+            "(95% CI)",
+            "P"
+          ]
+        },
+        {
+          "value": ".21",
+          "rowHeaders": [
+            "Advised to quit",
+            "7 (5 to 9)",
+            "4 (3 to 6)"
+          ],
+          "columnHeaders": [
+            "Table 3. Proportion of exit interviewees at the control and test sites who received recommended counseling activities during the baseline and intervention periods*",
+            "Baseline period",
+            "Test sites, %",
+            "(95% CI)",
+            "P"
+          ]
+        },
+        {
+          "value": "10 (8 to 13)",
+          "rowHeaders": [
+            "Advised to quit",
+            "7 (5 to 9)",
+            "4 (3 to 6)",
+            "-"
+          ],
+          "columnHeaders": [
+            "Table 3. Proportion of exit interviewees at the control and test sites who received recommended counseling activities during the baseline and intervention periods*",
+            "Intervention period",
+            "Control sites, %",
+            "(95% CI)",
+            "(n 񮽙 499)"
+          ]
+        },
+        {
+          "value": "31 (28 to 35)",
+          "rowHeaders": [
+            "Advised to quit",
+            "7 (5 to 9)",
+            "4 (3 to 6)",
+            "-",
+            "0 (0 to 1)"
+          ],
+          "columnHeaders": [
+            "Table 3. Proportion of exit interviewees at the control and test sites who received recommended counseling activities during the baseline and intervention periods*",
+            "Intervention period",
+            "Test sites, %",
+            "(95% CI)",
+            "(n 񮽙 642)"
+          ]
+        },
+        {
+          "value": "񮽙.001",
+          "rowHeaders": [
+            "Advised to quit",
+            "7 (5 to 9)",
+            "4 (3 to 6)",
+            "-",
+            "0 (0 to 1)"
+          ],
+          "columnHeaders": [
+            "Table 3. Proportion of exit interviewees at the control and test sites who received recommended counseling activities during the baseline and intervention periods*",
+            "Intervention period",
+            "Test sites, %",
+            "(95% CI)",
+            "P"
+          ]
+        },
+        {
+          "value": "36 (32 to 40)",
+          "rowHeaders": [
+            "Given quit literature",
+            "0 (0 to 1)",
+            "0 (0 to 1)",
+            "-",
+            "0 (0 to 1)"
+          ],
+          "columnHeaders": [
+            "Table 3. Proportion of exit interviewees at the control and test sites who received recommended counseling activities during the baseline and intervention periods*",
+            "Intervention period",
+            "Test sites, %",
+            "(95% CI)",
+            "(n 񮽙 642)"
+          ]
+        },
+        {
+          "value": "23 (20 to 26)",
+          "rowHeaders": [
+            "Set quit date",
+            "0 (0 to 1)",
+            "0 (0 to 1)",
+            "-",
+            "0 (0 to 1)"
+          ],
+          "columnHeaders": [
+            "Table 3. Proportion of exit interviewees at the control and test sites who received recommended counseling activities during the baseline and intervention periods*",
+            "Intervention period",
+            "Test sites, %",
+            "(95% CI)",
+            "(n 񮽙 642)"
+          ]
+        },
+        {
+          "value": ".98",
+          "rowHeaders": [
+            "Discussed pharmacotherapy",
+            "1 (0 to 1)",
+            "1 (0 to 1)"
+          ],
+          "columnHeaders": [
+            "Table 3. Proportion of exit interviewees at the control and test sites who received recommended counseling activities during the baseline and intervention periods*",
+            "Baseline period",
+            "Test sites, %",
+            "(95% CI)",
+            "P"
+          ]
+        },
+        {
+          "value": "29 (26 to 33)",
+          "rowHeaders": [
+            "Discussed pharmacotherapy",
+            "1 (0 to 1)",
+            "1 (0 to 1)",
+            "-",
+            "1 (0 to 3)"
+          ],
+          "columnHeaders": [
+            "Table 3. Proportion of exit interviewees at the control and test sites who received recommended counseling activities during the baseline and intervention periods*",
+            "Intervention period",
+            "Test sites, %",
+            "(95% CI)",
+            "(n 񮽙 642)"
+          ]
+        },
+        {
+          "value": "񮽙.001",
+          "rowHeaders": [
+            "Discussed pharmacotherapy",
+            "1 (0 to 1)",
+            "1 (0 to 1)",
+            "-",
+            "1 (0 to 3)"
+          ],
+          "columnHeaders": [
+            "Table 3. Proportion of exit interviewees at the control and test sites who received recommended counseling activities during the baseline and intervention periods*",
+            "Intervention period",
+            "Test sites, %",
+            "(95% CI)",
+            "P"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "41 (38 to 45)",
+          "rowHeaders": [
+            "Any quit attempt",
+            "񮽙10 cigarettes smoked per day"
+          ],
+          "columnHeaders": [
+            "Table 4. Cessation outcomes for patients from control and test sites who agreed to participate in follow-up according to number of cigarettes smoked per day*",
+            "Baseline period",
+            "Control sites, %",
+            "(95% CI) ‡",
+            "(n 񮽙 509)"
+          ]
+        },
+        {
+          "value": "44 (40 to 48)",
+          "rowHeaders": [
+            "Any quit attempt",
+            "񮽙10 cigarettes smoked per day",
+            "5 (3 to 7)"
+          ],
+          "columnHeaders": [
+            "Table 4. Cessation outcomes for patients from control and test sites who agreed to participate in follow-up according to number of cigarettes smoked per day*",
+            "Baseline period",
+            "Test sites, %",
+            "(95% CI) §",
+            "(n 񮽙 513)"
+          ]
+        },
+        {
+          "value": ".34",
+          "rowHeaders": [
+            "Any quit attempt",
+            "񮽙10 cigarettes smoked per day",
+            "9 (4 to 15)",
+            "5 (3 to 7)"
+          ],
+          "columnHeaders": [
+            "Table 4. Cessation outcomes for patients from control and test sites who agreed to participate in follow-up according to number of cigarettes smoked per day*",
+            "Baseline period",
+            "Test sites, %",
+            "(95% CI) §",
+            "P"
+          ]
+        },
+        {
+          "value": "50 (46 to 55)",
+          "rowHeaders": [
+            "Any quit attempt",
+            "񮽙10 cigarettes smoked per day",
+            "9 (4 to 15)",
+            "9 (3 to 15)"
+          ],
+          "columnHeaders": [
+            "Table 4. Cessation outcomes for patients from control and test sites who agreed to participate in follow-up according to number of cigarettes smoked per day*",
+            "Intervention period",
+            "Control sites, %",
+            "(95% CI)񮽙",
+            "(n 񮽙 499)"
+          ]
+        },
+        {
+          "value": "57 (53 to 61)",
+          "rowHeaders": [
+            "Any quit attempt",
+            "񮽙10 cigarettes smoked per day",
+            "9 (4 to 15)",
+            "9 (3 to 15)",
+            "6 (4 to 8)"
+          ],
+          "columnHeaders": [
+            "Table 4. Cessation outcomes for patients from control and test sites who agreed to participate in follow-up according to number of cigarettes smoked per day*",
+            "Intervention period",
+            "Test sites, %",
+            "(95% CI) ¶",
+            "(n 񮽙 642)"
+          ]
+        },
+        {
+          "value": ".06",
+          "rowHeaders": [
+            "Any quit attempt",
+            "񮽙10 cigarettes smoked per day",
+            "9 (4 to 15)",
+            "9 (3 to 15)",
+            "9 (3 to 15)"
+          ],
+          "columnHeaders": [
+            "Table 4. Cessation outcomes for patients from control and test sites who agreed to participate in follow-up according to number of cigarettes smoked per day*",
+            "Intervention period",
+            "Test sites, %",
+            "(95% CI) ¶",
+            "P"
+          ]
+        },
+        {
+          "value": "48 (38 to 58)",
+          "rowHeaders": [
+            "2-month quit rate",
+            "񮽙10 cigarettes smoked per day"
+          ],
+          "columnHeaders": [
+            "Table 4. Cessation outcomes for patients from control and test sites who agreed to participate in follow-up according to number of cigarettes smoked per day*",
+            "Baseline period",
+            "Control sites, %",
+            "(95% CI) ‡",
+            "(n 񮽙 509)"
+          ]
+        },
+        {
+          "value": "51 (41 to 61)",
+          "rowHeaders": [
+            "Continuous abstinence",
+            "񮽙10 cigarettes smoked per day",
+            "9 (4 to 15)"
+          ],
+          "columnHeaders": [
+            "Table 4. Cessation outcomes for patients from control and test sites who agreed to participate in follow-up according to number of cigarettes smoked per day*",
+            "Baseline period",
+            "Test sites, %",
+            "(95% CI) §",
+            "(n 񮽙 513)"
+          ]
+        },
+        {
+          "value": ".14",
+          "rowHeaders": [
+            "Continuous abstinence",
+            "񮽙10 cigarettes smoked per day",
+            "9 (4 to 15)",
+            "5 (3 to 7)"
+          ],
+          "columnHeaders": [
+            "Table 4. Cessation outcomes for patients from control and test sites who agreed to participate in follow-up according to number of cigarettes smoked per day*",
+            "Baseline period",
+            "Test sites, %",
+            "(95% CI) §",
+            "P"
+          ]
+        },
+        {
+          "value": "63 (53 to 73)",
+          "rowHeaders": [
+            "Continuous abstinence",
+            "񮽙10 cigarettes smoked per day",
+            "9 (4 to 15)",
+            "9 (3 to 15)"
+          ],
+          "columnHeaders": [
+            "Table 4. Cessation outcomes for patients from control and test sites who agreed to participate in follow-up according to number of cigarettes smoked per day*",
+            "Intervention period",
+            "Control sites, %",
+            "(95% CI)񮽙",
+            "(n 񮽙 499)"
+          ]
+        },
+        {
+          "value": "58 (49 to 67)",
+          "rowHeaders": [
+            "Continuous abstinence",
+            "񮽙10 cigarettes smoked per day",
+            "9 (4 to 15)",
+            "9 (3 to 15)",
+            "9 (3 to 15)"
+          ],
+          "columnHeaders": [
+            "Table 4. Cessation outcomes for patients from control and test sites who agreed to participate in follow-up according to number of cigarettes smoked per day*",
+            "Intervention period",
+            "Test sites, %",
+            "(95% CI) ¶",
+            "(n 񮽙 642)"
+          ]
+        },
+        {
+          "value": ".30",
+          "rowHeaders": [
+            "Continuous abstinence",
+            "񮽙10 cigarettes smoked per day",
+            "9 (4 to 15)",
+            "9 (3 to 15)",
+            "9 (3 to 15)"
+          ],
+          "columnHeaders": [
+            "Table 4. Cessation outcomes for patients from control and test sites who agreed to participate in follow-up according to number of cigarettes smoked per day*",
+            "Intervention period",
+            "Test sites, %",
+            "(95% CI) ¶",
+            "P"
+          ]
+        },
+        {
+          "value": "39 (35 to 44)",
+          "rowHeaders": [
+            "2-month quit rate",
+            "񮽙10 cigarettes smoked per day"
+          ],
+          "columnHeaders": [
+            "Table 4. Cessation outcomes for patients from control and test sites who agreed to participate in follow-up according to number of cigarettes smoked per day*",
+            "Baseline period",
+            "Control sites, %",
+            "(95% CI) ‡",
+            "(n 񮽙 509)"
+          ]
+        },
+        {
+          "value": "42 (37 to 47)",
+          "rowHeaders": [
+            "Continuous abstinence",
+            "񮽙10 cigarettes smoked per day",
+            "9 (4 to 15)"
+          ],
+          "columnHeaders": [
+            "Table 4. Cessation outcomes for patients from control and test sites who agreed to participate in follow-up according to number of cigarettes smoked per day*",
+            "Baseline period",
+            "Test sites, %",
+            "(95% CI) §",
+            "(n 񮽙 513)"
+          ]
+        },
+        {
+          "value": ".69",
+          "rowHeaders": [
+            "Continuous abstinence",
+            "񮽙10 cigarettes smoked per day",
+            "9 (4 to 15)",
+            "9 (3 to 15)"
+          ],
+          "columnHeaders": [
+            "Table 4. Cessation outcomes for patients from control and test sites who agreed to participate in follow-up according to number of cigarettes smoked per day*",
+            "Baseline period",
+            "Test sites, %",
+            "(95% CI) §",
+            "P"
+          ]
+        },
+        {
+          "value": "47 (42 to 52)",
+          "rowHeaders": [
+            "Continuous abstinence",
+            "񮽙10 cigarettes smoked per day",
+            "9 (4 to 15)",
+            "9 (3 to 15)"
+          ],
+          "columnHeaders": [
+            "Table 4. Cessation outcomes for patients from control and test sites who agreed to participate in follow-up according to number of cigarettes smoked per day*",
+            "Intervention period",
+            "Control sites, %",
+            "(95% CI)񮽙",
+            "(n 񮽙 499)"
+          ]
+        },
+        {
+          "value": "57 (52 to 61)",
+          "rowHeaders": [
+            "Continuous abstinence",
+            "񮽙10 cigarettes smoked per day",
+            "9 (4 to 15)",
+            "9 (3 to 15)",
+            "9 (3 to 15)"
+          ],
+          "columnHeaders": [
+            "Table 4. Cessation outcomes for patients from control and test sites who agreed to participate in follow-up according to number of cigarettes smoked per day*",
+            "Intervention period",
+            "Test sites, %",
+            "(95% CI) ¶",
+            "(n 񮽙 642)"
+          ]
+        },
+        {
+          "value": ".02",
+          "rowHeaders": [
+            "Continuous abstinence",
+            "񮽙10 cigarettes smoked per day",
+            "9 (4 to 15)",
+            "9 (3 to 15)",
+            "9 (3 to 15)"
+          ],
+          "columnHeaders": [
+            "Table 4. Cessation outcomes for patients from control and test sites who agreed to participate in follow-up according to number of cigarettes smoked per day*",
+            "Intervention period",
+            "Test sites, %",
+            "(95% CI) ¶",
+            "P"
+          ]
+        },
+        {
+          "value": ".94",
+          "rowHeaders": [
+            "2-month quit rate",
+            "5 (3 to 7)",
+            "5 (3 to 7)"
+          ],
+          "columnHeaders": [
+            "Table 4. Cessation outcomes for patients from control and test sites who agreed to participate in follow-up according to number of cigarettes smoked per day*",
+            "Baseline period",
+            "Test sites, %",
+            "(95% CI) §",
+            "P"
+          ]
+        },
+        {
+          "value": "16 (13 to 19)",
+          "rowHeaders": [
+            "2-month quit rate",
+            "5 (3 to 7)",
+            "5 (3 to 7)",
+            "6 (4 to 8)"
+          ],
+          "columnHeaders": [
+            "Table 4. Cessation outcomes for patients from control and test sites who agreed to participate in follow-up according to number of cigarettes smoked per day*",
+            "Intervention period",
+            "Test sites, %",
+            "(95% CI) ¶",
+            "(n 񮽙 642)"
+          ]
+        },
+        {
+          "value": "񮽙.001",
+          "rowHeaders": [
+            "2-month quit rate",
+            "5 (3 to 7)",
+            "5 (3 to 7)",
+            "6 (4 to 8)"
+          ],
+          "columnHeaders": [
+            "Table 4. Cessation outcomes for patients from control and test sites who agreed to participate in follow-up according to number of cigarettes smoked per day*",
+            "Intervention period",
+            "Test sites, %",
+            "(95% CI) ¶",
+            "P"
+          ]
+        },
+        {
+          "value": ".37",
+          "rowHeaders": [
+            "Continuous abstinence",
+            "񮽙10 cigarettes smoked per day",
+            "9 (4 to 15)",
+            "9 (3 to 15)"
+          ],
+          "columnHeaders": [
+            "Table 4. Cessation outcomes for patients from control and test sites who agreed to participate in follow-up according to number of cigarettes smoked per day*",
+            "Baseline period",
+            "Test sites, %",
+            "(95% CI) §",
+            "P"
+          ]
+        },
+        {
+          "value": "13 (7 to 19)",
+          "rowHeaders": [
+            "Continuous abstinence",
+            "񮽙10 cigarettes smoked per day",
+            "9 (4 to 15)",
+            "9 (3 to 15)",
+            "9 (3 to 15)"
+          ],
+          "columnHeaders": [
+            "Table 4. Cessation outcomes for patients from control and test sites who agreed to participate in follow-up according to number of cigarettes smoked per day*",
+            "Intervention period",
+            "Test sites, %",
+            "(95% CI) ¶",
+            "(n 񮽙 642)"
+          ]
+        },
+        {
+          "value": ".71",
+          "rowHeaders": [
+            "Continuous abstinence",
+            "񮽙10 cigarettes smoked per day",
+            "9 (4 to 15)",
+            "9 (3 to 15)",
+            "9 (3 to 15)"
+          ],
+          "columnHeaders": [
+            "Table 4. Cessation outcomes for patients from control and test sites who agreed to participate in follow-up according to number of cigarettes smoked per day*",
+            "Intervention period",
+            "Test sites, %",
+            "(95% CI) ¶",
+            "P"
+          ]
+        },
+        {
+          "value": ".94",
+          "rowHeaders": [
+            "Continuous abstinence",
+            "񮽙10 cigarettes smoked per day",
+            "4 (2 to 6)",
+            "4 (2 to 6)"
+          ],
+          "columnHeaders": [
+            "Table 4. Cessation outcomes for patients from control and test sites who agreed to participate in follow-up according to number of cigarettes smoked per day*",
+            "Baseline period",
+            "Test sites, %",
+            "(95% CI) §",
+            "P"
+          ]
+        },
+        {
+          "value": "17 (14 to 21)",
+          "rowHeaders": [
+            "Continuous abstinence",
+            "񮽙10 cigarettes smoked per day",
+            "4 (2 to 6)",
+            "4 (2 to 6)",
+            "5 (3 to 7)"
+          ],
+          "columnHeaders": [
+            "Table 4. Cessation outcomes for patients from control and test sites who agreed to participate in follow-up according to number of cigarettes smoked per day*",
+            "Intervention period",
+            "Test sites, %",
+            "(95% CI) ¶",
+            "(n 񮽙 642)"
+          ]
+        },
+        {
+          "value": "񮽙.001",
+          "rowHeaders": [
+            "Continuous abstinence",
+            "񮽙10 cigarettes smoked per day",
+            "4 (2 to 6)",
+            "4 (2 to 6)",
+            "5 (3 to 7)"
+          ],
+          "columnHeaders": [
+            "Table 4. Cessation outcomes for patients from control and test sites who agreed to participate in follow-up according to number of cigarettes smoked per day*",
+            "Intervention period",
+            "Test sites, %",
+            "(95% CI) ¶",
+            "P"
+          ]
+        },
+        {
+          "value": ".62",
+          "rowHeaders": [
+            "6-month quit rate",
+            "9 (6 to 11)",
+            "8 (5 to 10)"
+          ],
+          "columnHeaders": [
+            "Table 4. Cessation outcomes for patients from control and test sites who agreed to participate in follow-up according to number of cigarettes smoked per day*",
+            "Baseline period",
+            "Test sites, %",
+            "(95% CI) §",
+            "P"
+          ]
+        },
+        {
+          "value": "10 (7 to 12)",
+          "rowHeaders": [
+            "6-month quit rate",
+            "9 (6 to 11)",
+            "8 (5 to 10)"
+          ],
+          "columnHeaders": [
+            "Table 4. Cessation outcomes for patients from control and test sites who agreed to participate in follow-up according to number of cigarettes smoked per day*",
+            "Intervention period",
+            "Control sites, %",
+            "(95% CI)񮽙",
+            "(n 񮽙 499)"
+          ]
+        },
+        {
+          "value": "15 (13 to 18)",
+          "rowHeaders": [
+            "6-month quit rate",
+            "9 (6 to 11)",
+            "8 (5 to 10)",
+            "8 (5 to 10)"
+          ],
+          "columnHeaders": [
+            "Table 4. Cessation outcomes for patients from control and test sites who agreed to participate in follow-up according to number of cigarettes smoked per day*",
+            "Intervention period",
+            "Test sites, %",
+            "(95% CI) ¶",
+            "(n 񮽙 642)"
+          ]
+        },
+        {
+          "value": ".009",
+          "rowHeaders": [
+            "6-month quit rate",
+            "9 (6 to 11)",
+            "8 (5 to 10)",
+            "8 (5 to 10)"
+          ],
+          "columnHeaders": [
+            "Table 4. Cessation outcomes for patients from control and test sites who agreed to participate in follow-up according to number of cigarettes smoked per day*",
+            "Intervention period",
+            "Test sites, %",
+            "(95% CI) ¶",
+            "P"
+          ]
+        },
+        {
+          "value": "15 (8 to 22)",
+          "rowHeaders": [
+            "Continuous abstinence",
+            "񮽙10 cigarettes smoked per day"
+          ],
+          "columnHeaders": [
+            "Table 4. Cessation outcomes for patients from control and test sites who agreed to participate in follow-up according to number of cigarettes smoked per day*",
+            "Baseline period",
+            "Control sites, %",
+            "(95% CI) ‡",
+            "(n 񮽙 509)"
+          ]
+        },
+        {
+          "value": "15 (8 to 22)",
+          "rowHeaders": [
+            "Continuous abstinence",
+            "񮽙10 cigarettes smoked per day",
+            "9 (6 to 11)"
+          ],
+          "columnHeaders": [
+            "Table 4. Cessation outcomes for patients from control and test sites who agreed to participate in follow-up according to number of cigarettes smoked per day*",
+            "Baseline period",
+            "Test sites, %",
+            "(95% CI) §",
+            "(n 񮽙 513)"
+          ]
+        },
+        {
+          "value": ".14",
+          "rowHeaders": [
+            "Continuous abstinence",
+            "񮽙10 cigarettes smoked per day",
+            "9 (6 to 11)",
+            "8 (5 to 10)"
+          ],
+          "columnHeaders": [
+            "Table 4. Cessation outcomes for patients from control and test sites who agreed to participate in follow-up according to number of cigarettes smoked per day*",
+            "Baseline period",
+            "Test sites, %",
+            "(95% CI) §",
+            "P"
+          ]
+        },
+        {
+          "value": "19 (11 to 26)",
+          "rowHeaders": [
+            "Continuous abstinence",
+            "񮽙10 cigarettes smoked per day",
+            "9 (6 to 11)",
+            "8 (5 to 10)"
+          ],
+          "columnHeaders": [
+            "Table 4. Cessation outcomes for patients from control and test sites who agreed to participate in follow-up according to number of cigarettes smoked per day*",
+            "Intervention period",
+            "Control sites, %",
+            "(95% CI)񮽙",
+            "(n 񮽙 499)"
+          ]
+        },
+        {
+          "value": "20 (13 to 27)",
+          "rowHeaders": [
+            "Continuous abstinence",
+            "񮽙10 cigarettes smoked per day",
+            "9 (6 to 11)",
+            "8 (5 to 10)",
+            "8 (5 to 10)"
+          ],
+          "columnHeaders": [
+            "Table 4. Cessation outcomes for patients from control and test sites who agreed to participate in follow-up according to number of cigarettes smoked per day*",
+            "Intervention period",
+            "Test sites, %",
+            "(95% CI) ¶",
+            "(n 񮽙 642)"
+          ]
+        },
+        {
+          "value": ".93",
+          "rowHeaders": [
+            "Continuous abstinence",
+            "񮽙10 cigarettes smoked per day",
+            "9 (6 to 11)",
+            "8 (5 to 10)",
+            "8 (5 to 10)"
+          ],
+          "columnHeaders": [
+            "Table 4. Cessation outcomes for patients from control and test sites who agreed to participate in follow-up according to number of cigarettes smoked per day*",
+            "Intervention period",
+            "Test sites, %",
+            "(95% CI) ¶",
+            "P"
+          ]
+        },
+        {
+          "value": ".33",
+          "rowHeaders": [
+            "Continuous abstinence",
+            "񮽙10 cigarettes smoked per day",
+            "7 (5 to 10)",
+            "6 (4 to 8)"
+          ],
+          "columnHeaders": [
+            "Table 4. Cessation outcomes for patients from control and test sites who agreed to participate in follow-up according to number of cigarettes smoked per day*",
+            "Baseline period",
+            "Test sites, %",
+            "(95% CI) §",
+            "P"
+          ]
+        },
+        {
+          "value": "14 (11 to 17)",
+          "rowHeaders": [
+            "Continuous abstinence",
+            "񮽙10 cigarettes smoked per day",
+            "7 (5 to 10)",
+            "6 (4 to 8)",
+            "8 (5 to 10)"
+          ],
+          "columnHeaders": [
+            "Table 4. Cessation outcomes for patients from control and test sites who agreed to participate in follow-up according to number of cigarettes smoked per day*",
+            "Intervention period",
+            "Test sites, %",
+            "(95% CI) ¶",
+            "(n 񮽙 642)"
+          ]
+        },
+        {
+          "value": "񮽙.001",
+          "rowHeaders": [
+            "Continuous abstinence",
+            "񮽙10 cigarettes smoked per day",
+            "7 (5 to 10)",
+            "6 (4 to 8)",
+            "8 (5 to 10)"
+          ],
+          "columnHeaders": [
+            "Table 4. Cessation outcomes for patients from control and test sites who agreed to participate in follow-up according to number of cigarettes smoked per day*",
+            "Intervention period",
+            "Test sites, %",
+            "(95% CI) ¶",
+            "P"
+          ]
+        },
+        {
+          "value": ".42",
+          "rowHeaders": [
+            "Continuous abstinence",
+            "4 (2 to 5)",
+            "3 (1 to 4)"
+          ],
+          "columnHeaders": [
+            "Table 4. Cessation outcomes for patients from control and test sites who agreed to participate in follow-up according to number of cigarettes smoked per day*",
+            "Baseline period",
+            "Test sites, %",
+            "(95% CI) §",
+            "P"
+          ]
+        },
+        {
+          "value": "11 (8 to 13)",
+          "rowHeaders": [
+            "Continuous abstinence",
+            "4 (2 to 5)",
+            "3 (1 to 4)",
+            "4 (2 to 5)"
+          ],
+          "columnHeaders": [
+            "Table 4. Cessation outcomes for patients from control and test sites who agreed to participate in follow-up according to number of cigarettes smoked per day*",
+            "Intervention period",
+            "Test sites, %",
+            "(95% CI) ¶",
+            "(n 񮽙 642)"
+          ]
+        },
+        {
+          "value": "񮽙.001",
+          "rowHeaders": [
+            "Continuous abstinence",
+            "4 (2 to 5)",
+            "3 (1 to 4)",
+            "4 (2 to 5)"
+          ],
+          "columnHeaders": [
+            "Table 4. Cessation outcomes for patients from control and test sites who agreed to participate in follow-up according to number of cigarettes smoked per day*",
+            "Intervention period",
+            "Test sites, %",
+            "(95% CI) ¶",
+            "P"
+          ]
+        },
+        {
+          "value": ".80",
+          "rowHeaders": [
+            "Continuous abstinence",
+            "񮽙10 cigarettes smoked per day",
+            "6 (1 to 11)",
+            "5 (1 to 9)"
+          ],
+          "columnHeaders": [
+            "Table 4. Cessation outcomes for patients from control and test sites who agreed to participate in follow-up according to number of cigarettes smoked per day*",
+            "Baseline period",
+            "Test sites, %",
+            "(95% CI) §",
+            "P"
+          ]
+        },
+        {
+          "value": "10 (5 to 16)",
+          "rowHeaders": [
+            "Continuous abstinence",
+            "񮽙10 cigarettes smoked per day",
+            "6 (1 to 11)",
+            "5 (1 to 9)",
+            "5 (1 to 10)"
+          ],
+          "columnHeaders": [
+            "Table 4. Cessation outcomes for patients from control and test sites who agreed to participate in follow-up according to number of cigarettes smoked per day*",
+            "Intervention period",
+            "Test sites, %",
+            "(95% CI) ¶",
+            "(n 񮽙 642)"
+          ]
+        },
+        {
+          "value": ".22",
+          "rowHeaders": [
+            "Continuous abstinence",
+            "񮽙10 cigarettes smoked per day",
+            "6 (1 to 11)",
+            "5 (1 to 9)",
+            "5 (1 to 10)"
+          ],
+          "columnHeaders": [
+            "Table 4. Cessation outcomes for patients from control and test sites who agreed to participate in follow-up according to number of cigarettes smoked per day*",
+            "Intervention period",
+            "Test sites, %",
+            "(95% CI) ¶",
+            "P"
+          ]
+        },
+        {
+          "value": ".50",
+          "rowHeaders": [
+            "Continuous abstinence",
+            "񮽙10 cigarettes smoked per day",
+            "3 (1 to 5)",
+            "2 (1 to 4)"
+          ],
+          "columnHeaders": [
+            "Table 4. Cessation outcomes for patients from control and test sites who agreed to participate in follow-up according to number of cigarettes smoked per day*",
+            "Baseline period",
+            "Test sites, %",
+            "(95% CI) §",
+            "P"
+          ]
+        },
+        {
+          "value": "11 (8 to 14)",
+          "rowHeaders": [
+            "Continuous abstinence",
+            "񮽙10 cigarettes smoked per day",
+            "3 (1 to 5)",
+            "2 (1 to 4)",
+            "3 (2 to 5)"
+          ],
+          "columnHeaders": [
+            "Table 4. Cessation outcomes for patients from control and test sites who agreed to participate in follow-up according to number of cigarettes smoked per day*",
+            "Intervention period",
+            "Test sites, %",
+            "(95% CI) ¶",
+            "(n 񮽙 642)"
+          ]
+        },
+        {
+          "value": "񮽙.001",
+          "rowHeaders": [
+            "Continuous abstinence",
+            "񮽙10 cigarettes smoked per day",
+            "3 (1 to 5)",
+            "2 (1 to 4)",
+            "3 (2 to 5)"
+          ],
+          "columnHeaders": [
+            "Table 4. Cessation outcomes for patients from control and test sites who agreed to participate in follow-up according to number of cigarettes smoked per day*",
+            "Intervention period",
+            "Test sites, %",
+            "(95% CI) ¶",
+            "P"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "11 (6 to 17)",
+          "rowHeaders": [
+            "2-month follow-up"
+          ],
+          "columnHeaders": [
+            "Table 5. Secondary outcomes for patients from control and test sites who reported that they were still smoking cigarettes at the 2- and 6-month",
+            "Baseline period",
+            "Control sites",
+            "% (95% CI)"
+          ]
+        },
+        {
+          "value": "17 (10 to 25)",
+          "rowHeaders": [
+            "2-month follow-up",
+            "117"
+          ],
+          "columnHeaders": [
+            "Table 5. Secondary outcomes for patients from control and test sites who reported that they were still smoking cigarettes at the 2- and 6-month",
+            "Baseline period",
+            "Test sites",
+            "% (95% CI)"
+          ]
+        },
+        {
+          "value": "99",
+          "rowHeaders": [
+            "2-month follow-up",
+            "117"
+          ],
+          "columnHeaders": [
+            "Table 5. Secondary outcomes for patients from control and test sites who reported that they were still smoking cigarettes at the 2- and 6-month",
+            "Baseline period",
+            "Test sites",
+            "N"
+          ]
+        },
+        {
+          "value": ".17",
+          "rowHeaders": [
+            "2-month follow-up",
+            "117",
+            "136"
+          ],
+          "columnHeaders": [
+            "Table 5. Secondary outcomes for patients from control and test sites who reported that they were still smoking cigarettes at the 2- and 6-month",
+            "Baseline period",
+            "P",
+            "N"
+          ]
+        },
+        {
+          "value": "11 (6 to 17)",
+          "rowHeaders": [
+            "2-month follow-up",
+            "117",
+            "136"
+          ],
+          "columnHeaders": [
+            "Table 5. Secondary outcomes for patients from control and test sites who reported that they were still smoking cigarettes at the 2- and 6-month",
+            "Intervention period",
+            "Control sites",
+            "% (95% CI)"
+          ]
+        },
+        {
+          "value": "21 (15 to 27)",
+          "rowHeaders": [
+            "2-month follow-up",
+            "117",
+            "136",
+            "143"
+          ],
+          "columnHeaders": [
+            "Table 5. Secondary outcomes for patients from control and test sites who reported that they were still smoking cigarettes at the 2- and 6-month",
+            "Intervention period",
+            "Test sites",
+            "% (95% CI)"
+          ]
+        },
+        {
+          "value": ".07",
+          "rowHeaders": [
+            "2-month follow-up",
+            "117",
+            "136",
+            "143",
+            "178"
+          ],
+          "columnHeaders": [
+            "Table 5. Secondary outcomes for patients from control and test sites who reported that they were still smoking cigarettes at the 2- and 6-month",
+            "Intervention period",
+            "P",
+            "N"
+          ]
+        },
+        {
+          "value": "23 (14 to 31)",
+          "rowHeaders": [
+            "6-month follow-up"
+          ],
+          "columnHeaders": [
+            "Table 5. Secondary outcomes for patients from control and test sites who reported that they were still smoking cigarettes at the 2- and 6-month",
+            "Baseline period",
+            "Control sites",
+            "% (95% CI)"
+          ]
+        },
+        {
+          "value": "20 (13 to 27)",
+          "rowHeaders": [
+            "6-month follow-up",
+            "104"
+          ],
+          "columnHeaders": [
+            "Table 5. Secondary outcomes for patients from control and test sites who reported that they were still smoking cigarettes at the 2- and 6-month",
+            "Baseline period",
+            "Test sites",
+            "% (95% CI)"
+          ]
+        },
+        {
+          "value": ".75",
+          "rowHeaders": [
+            "6-month follow-up",
+            "104",
+            "136"
+          ],
+          "columnHeaders": [
+            "Table 5. Secondary outcomes for patients from control and test sites who reported that they were still smoking cigarettes at the 2- and 6-month",
+            "Baseline period",
+            "P",
+            "N"
+          ]
+        },
+        {
+          "value": "23 (16 to 30)",
+          "rowHeaders": [
+            "6-month follow-up",
+            "104",
+            "136"
+          ],
+          "columnHeaders": [
+            "Table 5. Secondary outcomes for patients from control and test sites who reported that they were still smoking cigarettes at the 2- and 6-month",
+            "Intervention period",
+            "Control sites",
+            "% (95% CI)"
+          ]
+        },
+        {
+          "value": "23 (17 to 29)",
+          "rowHeaders": [
+            "6-month follow-up",
+            "104",
+            "136",
+            "135"
+          ],
+          "columnHeaders": [
+            "Table 5. Secondary outcomes for patients from control and test sites who reported that they were still smoking cigarettes at the 2- and 6-month",
+            "Intervention period",
+            "Test sites",
+            "% (95% CI)"
+          ]
+        },
+        {
+          "value": ".82",
+          "rowHeaders": [
+            "6-month follow-up",
+            "104",
+            "136",
+            "135",
+            "194"
+          ],
+          "columnHeaders": [
+            "Table 5. Secondary outcomes for patients from control and test sites who reported that they were still smoking cigarettes at the 2- and 6-month",
+            "Intervention period",
+            "P",
+            "N"
+          ]
+        },
+        {
+          "value": "39 (34 to 44)",
+          "rowHeaders": [
+            "Patients having a plan to quit"
+          ],
+          "columnHeaders": [
+            "Table 5. Secondary outcomes for patients from control and test sites who reported that they were still smoking cigarettes at the 2- and 6-month",
+            "Baseline period",
+            "Control sites",
+            "% (95% CI)"
+          ]
+        },
+        {
+          "value": "36 (31 to 40)",
+          "rowHeaders": [
+            "Patients having a plan to quit",
+            "396"
+          ],
+          "columnHeaders": [
+            "Table 5. Secondary outcomes for patients from control and test sites who reported that they were still smoking cigarettes at the 2- and 6-month",
+            "Baseline period",
+            "Test sites",
+            "% (95% CI)"
+          ]
+        },
+        {
+          "value": ".81",
+          "rowHeaders": [
+            "Patients having a plan to quit",
+            "396",
+            "405"
+          ],
+          "columnHeaders": [
+            "Table 5. Secondary outcomes for patients from control and test sites who reported that they were still smoking cigarettes at the 2- and 6-month",
+            "Baseline period",
+            "P",
+            "N"
+          ]
+        },
+        {
+          "value": "39 (34 to 43)",
+          "rowHeaders": [
+            "Patients having a plan to quit",
+            "396",
+            "405"
+          ],
+          "columnHeaders": [
+            "Table 5. Secondary outcomes for patients from control and test sites who reported that they were still smoking cigarettes at the 2- and 6-month",
+            "Intervention period",
+            "Control sites",
+            "% (95% CI)"
+          ]
+        },
+        {
+          "value": "50 (46 to 55)",
+          "rowHeaders": [
+            "Patients having a plan to quit",
+            "396",
+            "405",
+            "428"
+          ],
+          "columnHeaders": [
+            "Table 5. Secondary outcomes for patients from control and test sites who reported that they were still smoking cigarettes at the 2- and 6-month",
+            "Intervention period",
+            "Test sites",
+            "% (95% CI)"
+          ]
+        },
+        {
+          "value": ".009",
+          "rowHeaders": [
+            "Patients having a plan to quit",
+            "396",
+            "405",
+            "428",
+            "494"
+          ],
+          "columnHeaders": [
+            "Table 5. Secondary outcomes for patients from control and test sites who reported that they were still smoking cigarettes at the 2- and 6-month",
+            "Intervention period",
+            "P",
+            "N"
+          ]
+        },
+        {
+          "value": "15 (10-20)",
+          "rowHeaders": [
+            "2-month follow-up"
+          ],
+          "columnHeaders": [
+            "Table 5. Secondary outcomes for patients from control and test sites who reported that they were still smoking cigarettes at the 2- and 6-month",
+            "Baseline period",
+            "Control sites",
+            "% (95% CI)",
+            "Median (IQR)"
+          ]
+        },
+        {
+          "value": "18 (10-20)",
+          "rowHeaders": [
+            "2-month follow-up",
+            "427"
+          ],
+          "columnHeaders": [
+            "Table 5. Secondary outcomes for patients from control and test sites who reported that they were still smoking cigarettes at the 2- and 6-month",
+            "Baseline period",
+            "Test sites",
+            "% (95% CI)",
+            "Median (IQR)"
+          ]
+        },
+        {
+          "value": ".13",
+          "rowHeaders": [
+            "2-month follow-up",
+            "427",
+            "438"
+          ],
+          "columnHeaders": [
+            "Table 5. Secondary outcomes for patients from control and test sites who reported that they were still smoking cigarettes at the 2- and 6-month",
+            "Baseline period",
+            "P",
+            "N",
+            "Median (IQR)"
+          ]
+        },
+        {
+          "value": "15 (10-20)",
+          "rowHeaders": [
+            "2-month follow-up",
+            "427",
+            "438"
+          ],
+          "columnHeaders": [
+            "Table 5. Secondary outcomes for patients from control and test sites who reported that they were still smoking cigarettes at the 2- and 6-month",
+            "Intervention period",
+            "Control sites",
+            "% (95% CI)",
+            "Median (IQR)"
+          ]
+        },
+        {
+          "value": "15 (8-20)",
+          "rowHeaders": [
+            "2-month follow-up",
+            "427",
+            "438",
+            "458"
+          ],
+          "columnHeaders": [
+            "Table 5. Secondary outcomes for patients from control and test sites who reported that they were still smoking cigarettes at the 2- and 6-month",
+            "Intervention period",
+            "Test sites",
+            "% (95% CI)",
+            "Median (IQR)"
+          ]
+        },
+        {
+          "value": ".07",
+          "rowHeaders": [
+            "2-month follow-up",
+            "427",
+            "438",
+            "458",
+            "513"
+          ],
+          "columnHeaders": [
+            "Table 5. Secondary outcomes for patients from control and test sites who reported that they were still smoking cigarettes at the 2- and 6-month",
+            "Intervention period",
+            "P",
+            "N",
+            "N"
+          ]
+        },
+        {
+          "value": "15 (10-20)",
+          "rowHeaders": [
+            "6-month follow-up"
+          ],
+          "columnHeaders": [
+            "Table 5. Secondary outcomes for patients from control and test sites who reported that they were still smoking cigarettes at the 2- and 6-month",
+            "Baseline period",
+            "Control sites",
+            "% (95% CI)",
+            "Median (IQR)"
+          ]
+        },
+        {
+          "value": "18 (10-20)",
+          "rowHeaders": [
+            "6-month follow-up",
+            "393"
+          ],
+          "columnHeaders": [
+            "Table 5. Secondary outcomes for patients from control and test sites who reported that they were still smoking cigarettes at the 2- and 6-month",
+            "Baseline period",
+            "Test sites",
+            "% (95% CI)",
+            "Median (IQR)"
+          ]
+        },
+        {
+          "value": ".50",
+          "rowHeaders": [
+            "6-month follow-up",
+            "393",
+            "405"
+          ],
+          "columnHeaders": [
+            "Table 5. Secondary outcomes for patients from control and test sites who reported that they were still smoking cigarettes at the 2- and 6-month",
+            "Baseline period",
+            "P",
+            "N",
+            "Median (IQR)"
+          ]
+        },
+        {
+          "value": "15 (10-20)",
+          "rowHeaders": [
+            "6-month follow-up",
+            "393",
+            "405"
+          ],
+          "columnHeaders": [
+            "Table 5. Secondary outcomes for patients from control and test sites who reported that they were still smoking cigarettes at the 2- and 6-month",
+            "Intervention period",
+            "Control sites",
+            "% (95% CI)",
+            "Median (IQR)"
+          ]
+        },
+        {
+          "value": "15 (10-20)",
+          "rowHeaders": [
+            "6-month follow-up",
+            "393",
+            "405",
+            "428"
+          ],
+          "columnHeaders": [
+            "Table 5. Secondary outcomes for patients from control and test sites who reported that they were still smoking cigarettes at the 2- and 6-month",
+            "Intervention period",
+            "Test sites",
+            "% (95% CI)",
+            "Median (IQR)"
+          ]
+        },
+        {
+          "value": ".30",
+          "rowHeaders": [
+            "6-month follow-up",
+            "393",
+            "405",
+            "428",
+            "494"
+          ],
+          "columnHeaders": [
+            "Table 5. Secondary outcomes for patients from control and test sites who reported that they were still smoking cigarettes at the 2- and 6-month",
+            "Intervention period",
+            "P",
+            "N",
+            "N"
+          ]
+        }
+      ],
+      "page": 1
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "blocks": [
+    {
+      "type": "LINES",
+      "value": "Special Article EVIDENCE OF REAL-WORLD EFFECTIVENESS OF A TELEPHONE QUITLINE FOR SMOKERS A BSTRACT Background Telephone services that offer smok",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The participants were smokers who called the California Smokers' Helpline, an ongoing statewide quitline operated by the University of California, San Diego, that provides free multilingual cessation services. A smoker's readiness to quit is assessed when he or she first calls. Those who are not ready to quit within a week receive motivational materials; those who are ready receive self-help quitting materials and are also offered telephone counseling. This study recruited callers who said they were ready, wanted counseling, and gave consent to be evaluated (98.7 percent gave consent). The evaluation design and consent procedure were approved by the university's institutional review board.\nThe study recruited 3282 participants from July 11, 1995, to November 4, 1996. Recruitment occurred only during periods of high call volume, when the random assignment of callers to a control group was justified by limited program resources, as discussed below. Otherwise, callers simply received service without participating in the study. Thus, 3501 smokers who chose counseling during the study period were not recruited. Another 3840 were not recruited either because they were not ready to quit within a week (1374) or because they did not choose counseling (2466). Callers who did not speak English or Spanish (75) or who were under 18 years old (297) also were not recruited.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Callers were randomly assigned to the treatment or the control group only when the number of callers requesting counseling exceeded the quitline's capacity to provide it. At those times, the quitline staff used a randomization procedure to reduce the caseload to a manageable level: a portion of callers was randomly assigned, in effect, to a control group. Even at such times, however, the quitline, as a public health service, did not want to impair the ability of anyone in the control group to receive treatment. A design was developed that would serve as an equitable management procedure, accommodating smokers' needs, and at the same time would allow a rigorous evaluation by means of a randomized, controlled trial embedded within the service. The development of this system and its associated statistical considerations have been described elsewhere. The system is illustrated in and briefly described here.\nDuring their first contact with the quitline, all participants were told that they would receive a package of self-help materials within a week and were instructed to callback to start the counseling process once they had received it. The program then randomly assigned 60 percent of the callers to the treatment group (1973 subjects) and 40 percent to the control group (1309 subjects). Control subjects who called back as instructed were assigned to a counselor and designated control subgroup A. Control subjects  who did not callback and thus did not receive counseling were designated control subgroup B. All subjects in the treatment group were immediately assigned to a counselor. Because all participants received the same instructions and group assignment was random, it was inferred that if the treatment group had not received counseling, it would have been divided into two subgroups similar to the two subgroups of the control group: those who would have called back (treatment subgroup A) and those who would not have called back (treatment subgroup B). In, the theoretical nature of this division is indicated by a dashed line. Although it is unknown which members of the treatment group would actually have belonged to which subgroup, abstinence rates for treatment subgroup A and treatment subgroup B can nonetheless be derived algebraically (see the Statistical Analysis section). Control subgroup B and treatment subgroup B were equivalent except with respect to service; thus, control subgroup B served as a control for treatment subgroup B in the determination of the effect of counseling. This randomization procedure did not affect the participants' ability to receive treatment, because all smokers, including those in the control group, received the same callback instructions, and those in the control group were not denied counseling if they did callback. Therefore, callers who wanted treatment were not discouraged from participating in the study, and we were able to recruit from the full spectrum of callers. Structurally, this design is similar to Zelen's preconsent randomization, 11 except that the participants were randomly assigned to groups after consenting to evaluation, not before.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The California Smokers' Helpline used a previously tested, structured counseling protocol, 12 which helped to ensure consistency by guiding the content and quality of each session. The first session focused on quitting history, motivation, self-efficacy, social support, and planning in advance of the quitting date. Sessions after the quitting date (up to six sessions) emphasized relapse prevention by reviewing and revising the plan and promoting adoption of the self-image of a nonsmoker. All sessions were conducted proactively (i.e., the counselor called the smoker) and occurred within three months after the initial contact. The counseling protocol and quality-assurance methods used in the study are described in detail elsewhere. 12 Twenty English-speaking counselors, six of whom also spoke Spanish, provided treatment. All had at least a bachelor's degree, and six had master's degrees. All received 60 hours of training, regardless of their background.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "A separate staff of evaluators interviewed the participants 2, 4, 7, and 13 months after the initial contact. This schedule was chosen over the more common 12-month schedule because previous experience indicated a lag between the time smokers call for service and the time they actually try to quit. In order to assess prolonged abstinence (at 12 months), an extra month was allowed. All follow-up was conducted by telephone. Smoking status was based on self-report, since biochemical tests are considered uninformative in low-intensity intervention studies such as this.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The effects of intervention were first tested by directly comparing the overall treatment and control groups. To provide a better numerical estimate of the effect of counseling -that is, the difference between treatment subgroup B and control subgroup B -we then factored out the control subgroup that received counseling (control subgroup A), along with its counterpart in the treatment group (treatment subgroup A). Because of the randomization procedure and the fact that treatment subgroup A and control subgroup A both received the same intervention, they were assumed to have the same quitting rate. The quitting rate in treatment subgroup B (Q TB ) was estimated by the following formula: Q TB =(Q T ¡w CA Q CA )÷w CB , where Q T is the quitting rate in the treatment group, Q CA is the quitting rate in control subgroup A, and w CA and w CB are the relative proportions of participants in control subgroup A and control subgroup B, respectively (w CA + w CB =1). Multiple-outcome measures were used in the analysis, according to the recommendations of the Society for Research on Nicotine and Tobacco for assessing treatment effects. The primary measure of the overall intervention effect was prolonged abstinence on the basis of an intention-to-treat approach. Four periods of abstinence commensurate with the evaluation schedule were assessed: 1, 3, 6, and 12 months. Life-table estimates were computed for all four intervals, and a log-rank test was used. In the primary analysis, those lost to follow-up were considered to have continued smoking.\nAdditional measures were the percentages of smokers who quit for at least 24 hours (i.e., made a serious attempt to quit) in the first three months and the probability of relapse overtime for these attempts, with relapse defined as two consecutive days of smoking. 8 Because three months was the longest period during which a participant was in contact with a counselor, quitting attempts occurring after three months were not attributed to counseling. Abstinence curves were obtained by the Kaplan-Meier productlimit method. Comparison of these curves gives a clear picture of the effect of counseling on the prevention of relapse, as distinct from its effect on attempts to quit. For these secondary analyses, participants for whom there were no follow-up data were excluded, because even if we assumed they were smokers, it was not known whether they had attempted to quit and relapsed or simply never attempted to quit.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "No significant difference in base-line characteristics was found between the two study groups. The characteristics of the study participants were similar to those of callers who chose counseling but did not participate in the study.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Of the 1309 subjects in the control group, 463 (35.4 percent) called back for counseling. These subjects (control subgroup A) were assigned to counselors, as were all 1973 subjects in the treatment group. The counselors attempted to contact everyone assigned to them, counseling 31.6 percent of those in the control group (89.4 percent of control subgroup A) and 72.1 percent of those in the treatment group. Thus, those in the treatment group received counseling at a rate 40.5 percentage points higher than those in the control group. Counseled participants received an average of 3.0 counseling sessions (3.0 and 2.9 for the control and treatment groups, respectively).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "As shown in, 16.5 percent of the control subjects and 23.7 percent of the treatment subjects quit smoking for at least one month. The rates of prolonged abstinence decreased overtime in both groups: 6.9 percent of the control subjects and 9.1 percent of the treatment subjects quit smoking for at least one year (P<0.001 by the log-rank test).\nThe rates of prolonged abstinence were much higher in control subgroup A than in control subgroup B (). Assuming that treatment subgroup A and control subgroup A were equivalent allowed the success rates in treatment subgroup B to be derived algebraically. The rates of abstinence for 1, 3, 6, and 12 months in treatment subgroup B were approximately twice those in control subgroup B (P<0.001).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Secondary analyses examined the effects of intervention on attempts to quit during the first three months and on the probability of relapse after those attempts. As shown in, the rate of quitting attempts was higher in the treatment group than in the control group (62.9 percent vs. 56.9 percent, P<0.001). By a wider margin, subjects in treatment subgroup B were more likely to attempt to quit than those in control subgroup B (57.9 percent vs. 48.6 percent, P<0.001). Not surprisingly, those in control subgroup A were much more likely to try to quit than those in control subgroup B (71.9 percent vs. 48.6 percent).\nAbstinence curves for these attempts to quit are given in. Among smokers who made an attempt to quit, those in treatment subgroup A and *Values are means with 95 percent confidence intervals. Because of rounding, not all percentages add to 100. †Nonparticipants were adult smokers who chose counseling but did not participate in the randomized study. *All participants who were lost to follow-up were considered current smokers. The percentages of subjects with follow-up data at 1, 3, 6, and 12 months were 90.6, 86.1, 80.7, and 69.9 percent for control subjects and 89.1, 85.7, 80.3, and 71.1 percent for treatment-group subjects, respectively (P not significant). †Log-rank tests comparing control and treatment groups and comparing control subgroup B and treatment subgroup B showed significant differences for all four intervals (P<0.001). ‡These percentages were not directly measured. Estimates for treatment subgroup B (Q TB ) were obtained by the equation Q TB =(Q T ¡w CA Q CA )÷w CB , where Q T is the quitting rate in the treatment group, Q CA is the quitting rate in control subgroup A, and w CA and w CB are the proportions of subjects in control subgroups A and B, respectively (see Zhu for details). The quitting rates were assumed to be the same in treatment subgroup A and control subgroup A.  control subgroup A, which received counseling and were assumed to be equivalent, had the highest rate of long-term abstinence; those in treatment subgroup B, which received counseling, had a higher rate of long-term abstinence than those in control subgroup B, which received only self-help materials (P<0.001).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The 12-month end points for these groups are shown in. The 12-month abstinence rate was higher in the treatment group than in the control group (25.8 percent vs. 23.3 percent, P=0.04). Again by a wider margin, the 12-month abstinence rate was higher in treatment subgroup B than in control subgroup B (23.3 percent vs. 18.4 percent, P<0.001). Treatment subgroup A, which was assumed to be equivalent to control subgroup A, had an even higher abstinence rate (29.4 percent, P<0.001).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "In this study, a telephone counseling protocol for smoking cessation that had previously proved efficacious 8 maintained its effectiveness when translated to a real-world setting. The treatment effect in this study was obtained under demanding conditions in which a substantial portion of smokers randomly assigned to a control group (31.6 percent) received the same counseling service as those in treatment. Moreover, only 72.1 percent of smokers randomly assigned to the treatment group received counseling, as often happens in real-world settings where participants dropout before receiving treatment.\nThere was a difference of only 40.5 percentage *Participants for whom the California Smokers' Helpline had no followup data were excluded from these analyses. †Estimates for treatment subgroup B (Q TB ) were obtained by the equation Q TB =(Q T ¡w CA Q CA )÷w CB , where Q T is the quitting rate in the treatment group, Q CA is the quitting rate in control subgroup A, and w CA and w CB are the proportions of subjects in control subgroups A and B, respectively (see Zhu 10 for details).  Treatment subgroup A (counseling) and control subgroup A (counseling), which were assumed to be equivalent, were the most successful subgroups and appear as a single curve. Control subgroup B (self-help) was the least successful. Between these is a curve representing treatment subgroup B (counseling). (The curve is smooth to indicate that it was derived algebraically.) Quitting attempts made by subjects in treatment subgroup B were more likely to lead to long-term abstinence than those made by subjects in control subgroup B (P<0.001 points between the two groups in the rates of counseling. As a result, the absolute effect of the counseling intervention was limited. The absolute difference in 12-month abstinence rates between the counseling group (treatment subgroup B) and the self-help group (control subgroup B) was 3.4 percent. However, as shows, when the control subgroup that received counseling and the corresponding treatment subgroup were factored out, the prolonged abstinence rates in treatment subgroup B were roughly twice those in control subgroup B for all four periods of abstinence. Further analysis indicates that the intervention achieved its effect through two mechanisms: by increasing the percentage of smokers making attempts to quit and by reducing the probability of relapse (as can be seen in the comparison of treatment subgroup B with control subgroup B in). Moreover, it seems likely that the smokers in treatment subgroup B had greater ambivalence than those in treatment subgroup A. They would not have used counseling if counselors had not proactively called them. The higher success rate in treatment subgroup B than in control subgroup B therefore provides empirical support for the effectiveness of proactive counseling. This study has several limitations. Although its design succeeded in achieving random assignment in a public health setting, it could not accurately assess the extent to which counseling contributed to success in control subgroup A and treatment subgroup A, because there was no randomized control specifically for these subgroups. Smokers in these subgroups followed the instructions to callback to start the counseling, and not surprisingly, 18,19 they were the most successful in quitting. Because all three subgroups received the same counseling, it is unknown whether counseling doubled the quitting rates of subjects in these subgroups, just as it did for those in treatment subgroup B.\nThe estimation of abstinence rates for treatment subgroup B assumes equality between treatment subgroup A and control subgroup A, given the random assignment of participants to either treatment or control. Although shows that randomization produced equivalent groups at baseline, a direct test of the equality of treatment subgroup A and control subgroup A was not possible, because it was not known which members of the treatment group belonged to which subgroup. However, we found a significant difference in abstinence rates between the overall treatment and control groups, a comparison that was not dependent on any assumptions about the equality of treatment subgroup A and control subgroup A. Although this study shows that the quitline's counseling was effective, its direct clinical effect is limited by the fact that most smokers in the program had relapsed by the end of 12 months. Nevertheless, the doubling effect of counseling on success rates compares favorably with the clinical-trial results summarized by the Public Health Service in its recommendation for telephone counseling. Moreover, quitlines are often an integral part of statewide antitobacco media campaigns, so they may have an effect on public health beyond that of the counseling alone. Perhaps for that reason, many states allocate a large share of their smoking-cessation funds to support widely promoted, centrally operated quitlines rather than traditional cessation clinics. A detailed discussion of the cost effectiveness of quitlines relative to that of clinics is beyond the scope of this paper, but recent data suggest that smokers are four times as likely to use quitlines as face-to-face clinics, given the same promotional effort, so the savings in promotion alone could be substantial. Because we were able to embed a randomized trial within the ongoing service of a large statewide quitline, this study provides strong evidence that telephone counseling conducted in a real-world setting can bean effective means of helping smokers quit. This evidence supports the Public Health Service guidelines calling for greater availability of telephone counseling services for smoking cessation.\n",
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "56.9",
+          "rowHeaders": [
+            "Control (n=1190)",
+            "Control subgroup B (self-help) †"
+          ],
+          "columnHeaders": [
+            "TABLE 3. RATES OF ATTEMPTS TO QUIT SMOKING FOR 24 HOURS",
+            "ATTEMPTS TO",
+            "QUIT WITHIN",
+            "3 MO",
+            "%"
+          ]
+        },
+        {
+          "value": "<0.001",
+          "rowHeaders": [
+            "Control subgroup B (self-help) †"
+          ],
+          "columnHeaders": [
+            "TABLE 3. RATES OF ATTEMPTS TO QUIT SMOKING FOR 24 HOURS",
+            "ATTEMPTS TO",
+            "QUIT WITHIN",
+            "3 MO",
+            "P VALUE"
+          ]
+        },
+        {
+          "value": "23.3",
+          "rowHeaders": [
+            "Control (n=1190)",
+            "Control subgroup B (self-help) †"
+          ],
+          "columnHeaders": [
+            "TABLE 3. RATES OF ATTEMPTS TO QUIT SMOKING FOR 24 HOURS",
+            "ABSTINENCE RATE",
+            "AFTER ATTEMPTING",
+            "TO QUIT",
+            "%"
+          ]
+        },
+        {
+          "value": "0.04",
+          "rowHeaders": [
+            "Control subgroup B (self-help) †"
+          ],
+          "columnHeaders": [
+            "TABLE 3. RATES OF ATTEMPTS TO QUIT SMOKING FOR 24 HOURS",
+            "ABSTINENCE RATE",
+            "AFTER ATTEMPTING",
+            "TO QUIT",
+            "P VALUE"
+          ]
+        },
+        {
+          "value": "62.9",
+          "rowHeaders": [
+            "Treatment (n=1761)",
+            "Control subgroup B (self-help) †"
+          ],
+          "columnHeaders": [
+            "TABLE 3. RATES OF ATTEMPTS TO QUIT SMOKING FOR 24 HOURS",
+            "ATTEMPTS TO",
+            "QUIT WITHIN",
+            "3 MO",
+            "%"
+          ]
+        },
+        {
+          "value": "25.8",
+          "rowHeaders": [
+            "Treatment (n=1761)",
+            "Control subgroup B (self-help) †"
+          ],
+          "columnHeaders": [
+            "TABLE 3. RATES OF ATTEMPTS TO QUIT SMOKING FOR 24 HOURS",
+            "ABSTINENCE RATE",
+            "AFTER ATTEMPTING",
+            "TO QUIT",
+            "%"
+          ]
+        },
+        {
+          "value": "48.6",
+          "rowHeaders": [
+            "Control subgroup B (self-help) †"
+          ],
+          "columnHeaders": [
+            "TABLE 3. RATES OF ATTEMPTS TO QUIT SMOKING FOR 24 HOURS",
+            "ATTEMPTS TO",
+            "QUIT WITHIN",
+            "3 MO",
+            "%"
+          ]
+        },
+        {
+          "value": "57.9",
+          "rowHeaders": [
+            "Treatment subgroup B"
+          ],
+          "columnHeaders": [
+            "TABLE 3. RATES OF ATTEMPTS TO QUIT SMOKING FOR 24 HOURS",
+            "ATTEMPTS TO",
+            "QUIT WITHIN",
+            "3 MO",
+            "%"
+          ]
+        },
+        {
+          "value": "<0.001",
+          "rowHeaders": [
+            "Control subgroup B (self-help) †"
+          ],
+          "columnHeaders": [
+            "TABLE 3. RATES OF ATTEMPTS TO QUIT SMOKING FOR 24 HOURS",
+            "ATTEMPTS TO",
+            "QUIT WITHIN",
+            "3 MO",
+            "P VALUE"
+          ]
+        },
+        {
+          "value": "18.4",
+          "rowHeaders": [
+            "Control subgroup B (self-help) †"
+          ],
+          "columnHeaders": [
+            "TABLE 3. RATES OF ATTEMPTS TO QUIT SMOKING FOR 24 HOURS",
+            "ABSTINENCE RATE",
+            "AFTER ATTEMPTING",
+            "TO QUIT",
+            "%"
+          ]
+        },
+        {
+          "value": "23.3",
+          "rowHeaders": [
+            "Treatment subgroup B"
+          ],
+          "columnHeaders": [
+            "TABLE 3. RATES OF ATTEMPTS TO QUIT SMOKING FOR 24 HOURS",
+            "ABSTINENCE RATE",
+            "AFTER ATTEMPTING",
+            "TO QUIT",
+            "%"
+          ]
+        },
+        {
+          "value": "<0.001",
+          "rowHeaders": [
+            "Control subgroup B (self-help) †"
+          ],
+          "columnHeaders": [
+            "TABLE 3. RATES OF ATTEMPTS TO QUIT SMOKING FOR 24 HOURS",
+            "ABSTINENCE RATE",
+            "AFTER ATTEMPTING",
+            "TO QUIT",
+            "P VALUE"
+          ]
+        }
+      ],
+      "page": 1
+    }
+  ]
+}

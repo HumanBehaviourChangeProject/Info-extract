@@ -1,0 +1,2518 @@
+{
+  "blocks": [
+    {
+      "type": "LINES",
+      "value": "Proactive interventions for smoking cessation in general medical practice: a quasi-randomized controlled trial to examine the efficacy of computer-tailored letters and physician-delivered brief advice*",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Aims To test the efficacy of (i) computer-generated tailored letters and (ii) practitioner-delivered brief advice for smoking cessation against an assessment-only condition; and to compare both interventions directly. Design Quasi-randomized controlled trial. Setting A total of 34 randomly selected general practices from a German region (par-ticipation rate 87%). Participants A total of 1499 consecutive patients aged 18-70 years with daily cigarette smoking (participation rate 80%). Interventions The tailored letters intervention group received up to three individualized personal letters. Brief advice was delivered during routine consultation by the practitioner after an onsite training session. Both interventions were based on the Transtheoretical Model of behaviour change. Measurements Self-reported point prevalence and prolonged abstinence at 6-, 12-, 18-and 24-month follow-ups. Findings Among participants completing the last follow-up, 6-month prolonged abstinence was 18.3% in the tailored letters intervention group, 14.8% in the brief advice intervention group and 10.5% in the assessment-only control group. Assuming those lost to follow-up to be smokers, the rates were 10.2%, 9.7% and 6.7%, respectively. Analyses including all follow-ups confirmed statistically significant effects of both interventions compared to assessment only. Using complete case analysis, the tailored letters intervention was significantly more effective than brief advice for 24-hour [odds ratio (OR) = 1.4; P = 0.047] but not for 7-day point prevalence abstinence (OR = 1.4; P = 0.068) for prolonged abstinence, or for alternative assumptions about participants lost to follow-up. Conclusions The study demonstrated long-term efficacy of low-cost interventions for smoking cessation in general practice. The interventions are suitable to reach entire populations of general practices and smoking patients. Computer-generated letters area promising option to overcome barriers to provide smoking cessation counselling routinely.",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Assisting patients to quit smoking is regarded as one of the most cost-effective measures in clinical practice. A recent review confirmed that simple interventions, such as brief advice delivered by a physician, have a small but significant effect on cessation rates. From a public health perspective, implementing interventions in primary medical care is promising, because the majority of the smoking population can be reached within 1 year. Therefore, even interventions with a small effect are capable of substantially reducing smoking-attributable disease at population level. Systematic screening and advising patients on smoking cessation on a routine basis has been adopted by clinical practice guidelines.\nHowever, these recommendations are implemented insufficiently in practice. Lack of time and patients' insufficient motivation to change have been reported as major barriers against the provision of smoking interventions by practitioners. The provision of timesaving opportunistic counselling approaches allowing the inclusion of all patients irrespective of readiness to change smoking behaviour can be expected to be crucial for improving implementation.\nComputer-based smoking interventions are alternatives to interpersonal counselling. Such interventions comprised one or more letters tailored to characteristics of the individual smoker. There is evidence that tailored self-help materials are more effective than no intervention or untailored materials. However, studies testing tailored self-help materials in primary medical care settings revealed mixed results. So far, no efficacy trial has been provided that allowed direct comparison of physician-delivered counselling and computer-tailored self-help materials in the general practice setting. The objective of the present study is to test the short-and long-term efficacy of brief advice, which is delivered by a representative sample of general practitioners, and computer-generated tailored letters in a randomly selected population of adult smoking patients.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "As part of the project 'Proactive interventions for smoking cessation in General medical Practices' (Pro GP) we conducted a randomized controlled trial comparing the effect of a brief advice delivered by practitioners who were trained in opportunistic counselling techniques, and up to three computer-generated tailored letters, each against assessment only.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Two-step sampling was used to generate a representative sample of out-patients. In Germany, primary medical care is provided by general practitioners (GPs) who work in private practices and are paid by fee for service from health insurance companies. Almost all the population has public or private health insurance.\nIna first step, 44 of 149 practices were selected randomly from all practitioners registered for primary medical care in Vorpommern, a rural area in north-east Germany. Five practices did not provide primary care and 34 of the remaining 39 (87.2%) took part. They included 39 GPs.\nIna second step, fora period of 3 weeks all consecutive patients were screened for smoking status by a research nurse covering complete office hours. In total, we registered 11 560 practice attendances (). The number of consultations varied across study weeks because of seasonal effects. Patients visiting the practice repeatedly within the study period (n = 1664) were subsequently excluded from re-recruitment, leaving 9896 patients. We excluded 7696 patients who did not fulfil the inclusion criteria, i.e. age below 18 or above 70 years or not smoking daily in the past 4 weeks. Further, 383 patients were excluded for several reasons (e.g. too ill, cognitively impaired, insufficient language capabilities, screening refused or missed). Among patients fulfilling the inclusion criteria (n = 1862), 1499 (80.5%) consented to take part. Recruitment took place from April 2002 to September 2003.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "We utilized quasi-randomization based on the time of practice attendance: (i) patients in the first study week were allocated to the assessment-only control condition; (ii) patients in the second week were assigned to the tailored letters intervention; and (iii) patients in the third week were assigned to the brief advice intervention. We chose a fixed sequence of study conditions to avoid counselling activities of the practitioner in the first and second weeks. The practitioner received counselling training between study weeks 2 and 3. To reduce potential bias associated with patients attending the practice repeatedly, the study weeks were scheduled at least 2 weeks apart. However, patients attending the practice frequently still had a lower probability of inclusion in the later study groups.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The letters were tailored according to the principles of the Transtheoretical Model (TTM) of behaviour change. The letters were generated at our research institute by a computer expert system, which was structurally comparable to the system developed by Velicer et al.. The system used in this study was based on an initial version provided by the Cancer League Switzerland, which was reprogrammed and modified with respect to feedback paragraphs and norm data. Letters were tailored to the stage of change, defined by current smoking status and intention to quit smoking and scores on decisional balance, self-efficacy and processes of change questionnaires. The first letter, which was based on data gathered at the baseline assessment, included normative feedback, i.e. feedback that depends on the individual scores compared to the population norm by stage, and was sent out within 1 week after the practice visit. The 3-month and 6-month letters additionally included ipsative feedback, i.e. information that is tailored to individual change since the previous assessment of the different constructs. The letters were accompanied by a selection from a series of self-help manuals covering specific information relevant for the particular stage of change according to the TTM. No information about the participants was given to the practice team or the practitioner.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "A 2-hour onsite training session was provided for each practitioner by a researcher. The first part comprised an introduction to the epidemiology of smoking and smoking-related disease, nicotine dependence, an overview of evidence-based interventions for smoking cessation and principals of the TTM. In the second part we introduced the brief advice intervention and the study protocol for the following study week. We adopted elements of health behaviour change counselling. The intervention was structured by a desktop resource providing a flowchart illustrating adequate elements for the counselling session and general communication strategies. To prompt the counselling, basic information about smoking-related variables (e.g. cigarettes smoked per day, degree of nicotine dependence, carbon monoxide in exhaled air, stage of change) from the assessment in the waiting room was given to the practitioner on a summary-sheet, matched to the desktop resource. The intervention was designed to last 10 minutes and included the same self-help manuals as those provided for patients in the tailored letters condition. The intervention was delivered by the practitioner at the same visit within the regular consultation following the baseline assessment in the waiting room.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "No intervention beside usual practice routine was provided for the control group. No information about the participants was given to the practice team or the practitioner and no self-help manuals have been provided.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "For the baseline assessment a 22-sided questionnaire was administered in the waiting room, including items covering socio-economic status, smoking behaviour, TTM and other psychological constructs regarding smoking, psychosocial resources and a screening for alcohol use disorders. For the present analysis general health was assessed by the EuroQol visual analogue scale (EQ-VAS). The Fagerstöm Test for Nicotine Dependence (FTND) was used to determine degree of nicotine dependence. Carbon monoxide concentration in exhaled air was measured by the research nurse. We conducted outcome assessments 6, 12, 18 and 24 months after the initial practice visit. An additional assessment was performed after 3 months in the tailored letters condition for the purpose of the intervention. The follow-up assessments included items covering the TTM constructs, smoking behaviour, utilization of medical care and smoking cessation aids and quality of life. According to recent consensus we considered the following self-reported point prevalence abstinence and prolonged abstinence measures as the primary outcome measures: (i) 24-hour point prevalence abstinence (i.e. not smoking a puff within the past 24 hours preceding the follow-up); (ii) 7-day point prevalence abstinence (i.e. not smoking a puff within the past 7 days preceding the follow-up); (iii) 4-week prolonged abstinence (i.e. not smoking in the past 4 weeks preceding the follow-up); (iv) 6-month prolonged abstinence (i.e. not smoking in the past 6 months preceding the follow-up). Outcome assessment was collected via computer-assisted telephone interview if possible. As part of a standard procedure established at the survey unit of our institution, several measures to ensure high-quality data have been used. This included double entry of paper-and-pencil questionnaires, regular training, monitoring and supervision of interviewers by experienced research psychologists and automated consistence checks during interviewing. The interviewers were blind to treatment allocation and not involved in the handling of the tailored letter. A questionnaire was sent out if a participant could not be reached by telephone. The response rates are shown in, with no contact being the main reason for non-response. Refusal to participate ranged from 8.8% (6 months) to 3.7% (24 months) of the participants lost at follow-up.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "We analysed differences with respect to potential confounders at baseline and smoking cessation at follow-up between both intervention groups and the assessmentonly group. To take clustering within practices into account, we applied the sample survey methods in STATA version 9.2. Associations between smoking abstinence and treatment groups were estimated using a logistic generalized estimating equation (GEE). The PROC GENMOD procedure in SAS version 9.1 was used because it allows specifying two levels of clustering (practice site and individual). To examine the implications of missing data and sample attrition for study conclusions, a series of additional analyses were undertaken. First, regression imputation methods were used to impute missing data on covariates measured at baseline, and all covariate adjustment models were computed with the missing data replaced by the imputed values. The regression imputation was conducted using the ICE procedure of STATA. Secondly, we conducted a series of analyses making four different assumptions about those who dropped out: (i) a complete cases analysis (i.e. only those whose smoking status at a follow-up was known were included in the model); (ii) all missing follow-up observations were coded as smokers; (iii) the last value was carried forward to replace the missing value; and (iv) a weighted estimating equation (WEE) model was used. The WEE involved two steps. In the first step of the analysis, a sample selection model was constructed using baseline data to predict participation at each wave. On the basis of these models, probabilities of study participation were estimated using the MVPRED procedure of STATA. In the second step, data were re-analysed using a logistic GEE model on the full data with observations for each individual weighted by the inverse of the probability of study participation to adjust for sample selection bias. The results referring to assumptions (i) and (iii) about missing data are not reported in this paper and will be provided by the corresponding author on request.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The baseline characteristics of the sample are shown in. Because our randomization procedure might have been biased due to excluding participants re-attending the practice within the later study conditions, we tested our study groups with respect to differences in baseline characteristics. There were no significant differences.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The preparation of the intended number of three tailored letters was possible only if sufficient data from the baseline, 3-month and 6-month assessments were available. Three hundred and six (62.7%) participants received three letters, 100 (20.5%) two, and 82 (16.8%) one. Self-help manuals were sent only if a tailored letter was available. At the 12-month follow-up 89.1% of the tailored letters intervention group confirmed receiving the letter or the self-help manuals. Among the assessment-only group, 3.5% falsely remembered receiving such material.\nFor each patient allocated to the brief advice group the practitioners rated the counselling activities on a form directly after the consultation. According to this, advice (i.e. a communication including active participation of the patient) was given to 353 (87.8%) participants. Additionally, smoking was at least addressed (i.e. the patient did not participate actively in the communication) in the consultation of 35 (8.7%) participants, leaving 14 (3.5%) participants without documented counselling activities of the practitioner. The practitioners estimated that the counselling lasted 7 minutes [standard deviation (SD) = 2.9] on average. Self-help manuals were handed out by the practitioner to 343 (85.3%) participants. At the 12-month follow-up 41.5% of the brief advice group remembered receipt of the selfhelp manuals.\nAlthough training of the practitioners was held after the recruitment of the assessment-only and tailored letters group, these patients may have been counselled within later practice visits. Therefore, we compared previous counselling activities at baseline and 12-month follow-up. At baseline 24.0% of all participants reported that smoking had been addressed by their practitioner within the last 12 months. At the 12-month follow-up, Proactive smoking interventions for general practices 297\n24.1% of the assessment-only group, 25.6% of the tailored letters group and 46.6% of the brief advice group reported that their practitioner had addressed smoking in the past year. shows the point prevalence and prolonged abstinence for each follow-up. Prevalence figures were\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Christian Meyer et al. Proactive smoking interventions for general practices 299 calculated by excluding all participants with missing follow-up data and by assuming that all participants with missing follow-up data were smokers, respectively. Abstinence increased by time in all study groups as well as the absolute difference of the abstinence rates between the intervention and the assessment-only groups. The highest rates were found in the tailored letters intervention group, followed by the brief advice intervention group and the assessment-only control group. To explore the long-term stability of early intervention effects we calculated the percentage of participants reporting abstinence for the preceding 6 months at the 12-month and all subsequent follow-ups. When excluding participants missed at any of the three follow-ups, which were necessary to construct this measure, 1.5% of the assessment-only control group (five of 341), 6.0% (14 of 232) of the tailored letters intervention group and 3.6% (10 of 224) of the brief advice intervention group stopped smoking within the first 6 months and maintained abstinence until month 24. Assuming those participants missed at a follow-up to be smokers, the respective figures were 0.8% (five of 609), 2.9% (14 of 488) and 2.5% (10 of 402). For both assumptions about missingness the differences between the control and each of the intervention groups were statistically significant.\nThe GEE analyses allowed to test for intervention effects simultaneously across assessment times considering all available longitudinal information, i.e. each observation irrespective of non-participation at a previous or later follow-up time. We tested the robustness of our findings with respect to potential bias caused by missing follow-up observations. shows the results from two of these approaches, i.e. a WEE analysis adjusting the outcome for different probabilities of participation in the follow-ups and a GEE analysis assuming those missed for follow-up to be smokers. All comparisons of the intervention groups with the assessment-only group were statistically significant. However, effect estimates for the tailored letters intervention are lower, particularly for the more rigid assumptions about missing data. Based on  A complete table, including analyses of all outcome measures and all assumptions about missing data, is available on request. *Generalized estimation equation models to predict smoking cessation taking into account cluster correlation within practices and within subjects across measurement periods. Models are based on an unstructured correlation structure for repeated observation within subjects. Six-, 12-, 18-and 24-month assessment have been considered for 7-day point abstinence and 12-, 18-and 24-month assessment for 6-month prolonged abstinence. †Including the predictor variables study group and time. ‡Including the predictor variables study group, time, age, gender, educational level, reason for consulting the practitioner, Fagerstöm Test for Nicotine Dependence, 24-hour quit attempt in the past year and intention to quit. CI: confidence interval; OR: odds ratio.\nestimates from the crude analyses using the WEE approach, the odds of 7-day point prevalence and 6-month prolonged abstinence were 2.1 times higher in the tailored letters intervention group compared to the assessment-only control group. Comparison of the brief advice intervention group with the assessment-only control group revealed odds ratios of 1.6 and 1.9, respectively. The time variable was highly significant in all models, reflecting the increase of abstinence by time across all study groups. Analyses adjusting for the baseline characteristics of the participants showed minor changes (cf. right column of).\nTo test fora linear trend of the relative effect of the interventions across the different follow-up times we expanded our GEE main effect models by including time ¥ intervention interaction terms. None of these analyses revealed a significant interaction.\nComparisons of both interventions revealed an odds ratio of 1.4 for 24-hour point prevalence abstinence for the GEE analysis, excluding participants lost to follow-up, indicating larger effects of the tailored letters [data not reported in: crude analysis P = 0.047, 95% confidence interval (CI) 1.0-1.9; adjusted analysis P = 0.037, 95% CI 1.0-2.0]. Differences approached significance for 7-day point prevalence abstinence [crude analysis P = 0.068, odds ratio (OR) = 1.4 95% CI 1.0-1.9; adjusted analysis P = 0.063, OR = 1.4, 95% CI 1.0-2.0]. With regard to prolonged abstinence, numerical differences were even lower and vanished completely for some of the analyses, taking into account the alternative assumptions about lost for follow-up. None were statistically significant.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "First, this study demonstrated that both interventions, i.e. up to three computer-tailored letters or a one-session practitioner-delivered brief advice, are effective in reducing the proportion of current smoking compared to no intervention. Secondly, the computer-tailored letters are at least equivalent to brief advice and tend to be even more effective with respect to point prevalence abstinence. Thirdly, by using a representative sample of practitioners and patients it seems appropriate to generalize findings to the entire population of patients and general practices.\nWith regard to the efficacy of the tailored-letter intervention in various populations, our study replicated results of studies using comparable recruitment procedures and follow-up periods. As found previously in these studies, the cessation rates in our control group are beyond the rates that would have been expected for self-change based on population data. One possible reason might be that participation in a study focusing on smoking and recurrent assessments on psychological constructs related to smoking behaviour change might itself form a minimal-intervention. Accordingly, a general practice-based smoking intervention study revealed that abstinence rates after 1 year were increased by 40% in an assessment-only compared to a no-assessment control group. This effect might be particularly relevant for Germany, with currently low tobacco control measures and low counselling activities in primary medical care. The relative intervention effects could therefore be underestimated by our results. In line with previous findings from German studies, the proportion of smokers not intending to quit is substantially higher compared to the proportion found in American studies. This could have been expected to be associated with lower quit rates and thus reduced intervention effects. On the other hand, our intervention may have capitalized on the patient-practitioner relationship and the favourable psychological state which has been discussed to be associated with the practice visit. Thus, our results imply that implementing this class of interventions in primary care can be beneficial even in permissive smoking cultures, with a high proportion of smokers not intending to quit.\nIn contrast to our study, general practice-based studies on computer-tailored interventions in the United Kingdom have revealed less favourable results. By recruiting patients via mail the proportion of smokers who received treatment was considerable lower (42%; 9%) compared to our study using personal recruitment within practices. This selection process of the previous studies may limit the generalizability for the entire population of smoking patients. Differences in study design might also explain lower intervention effects: (i) both previous studies relied on biochemically confirmed abstinence. We refrained from this approach because these studies demonstrated that collecting saliva samples is not feasible, even though validation had been restricted to quitters (rate of analysed saliva samples among claimed quitters in previous research: 63%; 31%). Given the low intensity of the intervention and low demand characteristic in our study, the validity of self-reported smoking behaviour is more comparable to epidemiological than clinical studies with stronger interpersonal involvement, and thus denial of smoking is less likely; (ii) one of the UK studies was restricted to one tailored letter, which precludes feedback on intra-individual changeover time and provision of behavioural strategies if smokers not ready to quit move to action. The other study provided a maximum of three letters, but the number of patients receiving the full intervention dose was substantially lower than in our study. Although one study testing the efficacy of different numbers of intervention letters did not find a clear dose-response Proactive smoking interventions for general practices 301 relationship, a meta-analysis of physician-delivered advice revealed that studies including follow-up interventions are more effective. A strength of the brief advice intervention is that it is highly feasible. Individual training sessions held at each practice site allowed us to implement the intervention in almost all randomly selected practices. For the period of 1 week and with the support provided by our research nurse, the vast majority of eligible patients received counselling within regular practice hours. The relative effect of the brief advice compared to the assessment-only condition was close to results reported by a recent meta-analysis pooling studies about physician advice for smoking cessation. Due to the high overall quit rate in our study, the absolute difference in cessation is above the 2.5% found in this meta-analysis. We tried to standardize and structure the brief advice by means of training and materials (i.e. information sheet on patients smoking-related characteristic, desktop resource). However, our study design did not allow us to evaluate the particular activities delivered by the practitioners. More active learning methods, e.g. role-plays or contextbound training, are likely to be more effective. On the other hand, a higher intensity of training can be expected to decrease the participation rate of practitioners.\nTaking population impact as a yardstick, several aspects have to be considered when comparing the interventions included in our study. The efficacy of the tailored-letters intervention tends to be superior for all outcome measures. However, statistical significance was reached for only one outcome measure and was not robust for different assumptions regarding missing data. Interpretation of these findings is complicated by the fact that there is a considerable overlap of the study conditions. Both interventions included the same self-help manuals and perhaps training improved the quality or quantity of advice for all patients, although the data on frequency of advice giving in the year prior to the intervention and following it suggest no effect on quantity. Thus, the assessment-only and tailored-letters group may also receive advice exceeding routine care. When testing minimal interventions for all smokers, even small differences are important and thus future studies including larger samples are needed to establish differences between both interventions. With respect to broad implementation, cost-effectiveness needs further consideration in future research. With appropriate technology, the tailored-letters intervention might use fewer resources than brief advice, which involves high costs for the working time of the practitioner.\nFurther limitations of our study are: (i) in Germany, nicotine replacement medication is not reimbursed by health insurance companies. Although our interventions included the recommendation of nicotine replacement therapy for smokers intending to quit, only a small proportion of participants (5.7%) reported use of such medications at any follow-up. Providing free nicotine replacement medication might increase the efficiency of our interventions. (ii) The practices included in our study received a fair amount of support (i.e. presence of a study nurse in each practice, organizing the screening and baseline assessment; administration of the tailored-letter intervention by our research staff) and systematic implementation of each intervention was limited to 1 week. Therefore, integrating interventions into routine care and broad implementation may need to consider further structural and organizational factors (e.g. adequate reimbursement of the practitioner, distribution of intervention materials and training for practitioners and their staff, implementation and maintenance of adequate computer hard and software). (iii) A considerable proportion of participants were lost to follow-up and these proportions vary across study groups. This is mitigated by the fact that about three-quarters of the patients not completing the follow-up were lost because we were unable to contact them and only less than 10% refused. Further several procedures to account for possible nonresponse bias did not change our findings. (iv) We utilized a quasi-randomization procedure based on time of practice attendance and fixed sequence of study groups. Thus, patients attending the practice frequently are underrepresented in the later study groups. However, we found no significant baseline differences, and adjusting our analyses for baseline characteristics revealed the same pattern of results. (v) Due to seasonal effects, the numbers of patients registered were lower in the intervention conditions. Thus the work-load of the practitioners, particularly when providing the brief advice, was slightly lower than average.\nIn conclusion, both of the two minimal interventions have the potential to substantially reduce smoking in entire populations of smoking patients. The long-term intervention effects observed in our study demonstrated that the clinician's efforts to address smoking cessation area reasonable investment of time, even if immediate effects are not obvious. Interventions based on computer expert system technology can become a valuable extension to established treatment opportunities. In the light of limited resources and increasing demands with respect to preventive measures assigned to general practitioners, computer-generated tailored letters area promising option to overcome the existing barriers to routinely provide smoking cessation interventions.\nGerman research network EARLINT (EARLy substance use INTervention) and is funded by the German Federal Ministry of Research and Education (grant no. 01EB0120, 01EB0420), the Social Ministry of the State of Mecklenburg-Vorpommern (grant no. IX311a 406.68.43.05) and the German Research Foundation (Deutsche Forschungsgemeinschaft, grant no. JO150/6-1). The authors would like to thank Christian Goeze for programming the final version of the expert system software and the survey-management software, and Brigitte Kubowicz, Almut Thürck and Isetta Below for assistance with the study organization in the practices. Thanks are extended to Krebsliga Schweiz (Cancer League Switzerland) for providing an initial version of the expert system software. We are also appreciative for the advice from members of the ATS statistical consulting group at University of California Los Angeles, USA. Finally, we thank the participating practitioners and patients for their support.\n",
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "756 (18.9)",
+          "rowHeaders": [
+            "Fulfilled inclusion criteria (% of patients)"
+          ],
+          "columnHeaders": [
+            "First study week",
+            "'assessment only'",
+            "n (%)",
+            "4290",
+            "3993 (93.1)"
+          ]
+        },
+        {
+          "value": "602 (18.6)",
+          "rowHeaders": [
+            "Fulfilled inclusion criteria (% of patients)"
+          ],
+          "columnHeaders": [
+            "Second study week",
+            "'tailored letters'",
+            "n (%)",
+            "3836",
+            "3229 (84.2)"
+          ]
+        },
+        {
+          "value": "504 (18.8)",
+          "rowHeaders": [
+            "Fulfilled inclusion criteria (% of patients)"
+          ],
+          "columnHeaders": [
+            "Third study week",
+            "'brief advice'",
+            "n (%)",
+            "3434",
+            "2674 (77.9)"
+          ]
+        },
+        {
+          "value": "609 (80.6)",
+          "rowHeaders": [
+            "Agreed to participate (% of patients fulfilling inclusion criteria)"
+          ],
+          "columnHeaders": [
+            "First study week",
+            "'assessment only'",
+            "n (%)",
+            "4290",
+            "3993 (93.1)"
+          ]
+        },
+        {
+          "value": "488 (81.1)",
+          "rowHeaders": [
+            "Agreed to participate (% of patients fulfilling inclusion criteria)"
+          ],
+          "columnHeaders": [
+            "Second study week",
+            "'tailored letters'",
+            "n (%)",
+            "3836",
+            "3229 (84.2)"
+          ]
+        },
+        {
+          "value": "402 (79.8)",
+          "rowHeaders": [
+            "Agreed to participate (% of patients fulfilling inclusion criteria)"
+          ],
+          "columnHeaders": [
+            "Third study week",
+            "'brief advice'",
+            "n (%)",
+            "3434",
+            "2674 (77.9)"
+          ]
+        },
+        {
+          "value": "389 (79.7)",
+          "rowHeaders": [
+            "Month 3",
+            "-"
+          ],
+          "columnHeaders": [
+            "Second study week",
+            "'tailored letters'",
+            "n (%)",
+            "3836",
+            "3229 (84.2)"
+          ]
+        },
+        {
+          "value": "480 (78.8)",
+          "rowHeaders": [
+            "Month 6"
+          ],
+          "columnHeaders": [
+            "First study week",
+            "'assessment only'",
+            "n (%)",
+            "4290",
+            "3993 (93.1)"
+          ]
+        },
+        {
+          "value": "333 (68.2)",
+          "rowHeaders": [
+            "Month 6"
+          ],
+          "columnHeaders": [
+            "Second study week",
+            "'tailored letters'",
+            "n (%)",
+            "3836",
+            "3229 (84.2)"
+          ]
+        },
+        {
+          "value": "324 (80.6)",
+          "rowHeaders": [
+            "Month 6"
+          ],
+          "columnHeaders": [
+            "Third study week",
+            "'brief advice'",
+            "n (%)",
+            "3434",
+            "2674 (77.9)"
+          ]
+        },
+        {
+          "value": "453 (74.4)",
+          "rowHeaders": [
+            "Month 12"
+          ],
+          "columnHeaders": [
+            "First study week",
+            "'assessment only'",
+            "n (%)",
+            "4290",
+            "3993 (93.1)"
+          ]
+        },
+        {
+          "value": "319 (65.4)",
+          "rowHeaders": [
+            "Month 12"
+          ],
+          "columnHeaders": [
+            "Second study week",
+            "'tailored letters'",
+            "n (%)",
+            "3836",
+            "3229 (84.2)"
+          ]
+        },
+        {
+          "value": "311 (77.4)",
+          "rowHeaders": [
+            "Month 12"
+          ],
+          "columnHeaders": [
+            "Third study week",
+            "'brief advice'",
+            "n (%)",
+            "3434",
+            "2674 (77.9)"
+          ]
+        },
+        {
+          "value": "419 (68.8)",
+          "rowHeaders": [
+            "Month 18"
+          ],
+          "columnHeaders": [
+            "First study week",
+            "'assessment only'",
+            "n (%)",
+            "4290",
+            "3993 (93.1)"
+          ]
+        },
+        {
+          "value": "302 (61.9)",
+          "rowHeaders": [
+            "Month 18"
+          ],
+          "columnHeaders": [
+            "Second study week",
+            "'tailored letters'",
+            "n (%)",
+            "3836",
+            "3229 (84.2)"
+          ]
+        },
+        {
+          "value": "283 (70.4)",
+          "rowHeaders": [
+            "Month 18"
+          ],
+          "columnHeaders": [
+            "Third study week",
+            "'brief advice'",
+            "n (%)",
+            "3434",
+            "2674 (77.9)"
+          ]
+        },
+        {
+          "value": "396 (65.0)",
+          "rowHeaders": [
+            "Month 24"
+          ],
+          "columnHeaders": [
+            "First study week",
+            "'assessment only'",
+            "n (%)",
+            "4290",
+            "3993 (93.1)"
+          ]
+        },
+        {
+          "value": "279 (57.2)",
+          "rowHeaders": [
+            "Month 24"
+          ],
+          "columnHeaders": [
+            "Second study week",
+            "'tailored letters'",
+            "n (%)",
+            "3836",
+            "3229 (84.2)"
+          ]
+        },
+        {
+          "value": "266 (66.2)",
+          "rowHeaders": [
+            "Month 24"
+          ],
+          "columnHeaders": [
+            "Third study week",
+            "'brief advice'",
+            "n (%)",
+            "3434",
+            "2674 (77.9)"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "609",
+          "rowHeaders": [
+            "All subjects",
+            "< 10 years of schooling"
+          ],
+          "columnHeaders": [
+            "Assessment only"
+          ]
+        },
+        {
+          "value": "488",
+          "rowHeaders": [
+            "All subjects",
+            "< 10 years of schooling",
+            "84 (13.8)"
+          ],
+          "columnHeaders": [
+            "Tailored letters"
+          ]
+        },
+        {
+          "value": "402",
+          "rowHeaders": [
+            "All subjects",
+            "< 10 years of schooling",
+            "84 (13.8)",
+            "68 (13.9)"
+          ],
+          "columnHeaders": [
+            "Brief advice"
+          ]
+        },
+        {
+          "value": "0.204",
+          "rowHeaders": [
+            "Married or living in stable partnership",
+            "84 (13.8)",
+            "68 (13.9)",
+            "59 (14.7)",
+            "1499"
+          ],
+          "columnHeaders": [
+            "P*"
+          ]
+        },
+        {
+          "value": "309 (50.7)",
+          "rowHeaders": [
+            "< 10 years of schooling"
+          ],
+          "columnHeaders": [
+            "Assessment only"
+          ]
+        },
+        {
+          "value": "242 (49.6)",
+          "rowHeaders": [
+            "< 10 years of schooling",
+            "84 (13.8)"
+          ],
+          "columnHeaders": [
+            "Tailored letters"
+          ]
+        },
+        {
+          "value": "223 (55.5)",
+          "rowHeaders": [
+            "Married or living in stable partnership",
+            "Male",
+            "84 (13.8)",
+            "68 (13.9)"
+          ],
+          "columnHeaders": [
+            "Brief advice"
+          ]
+        },
+        {
+          "value": "774",
+          "rowHeaders": [
+            "Married or living in stable partnership",
+            "Male",
+            "84 (13.8)",
+            "68 (13.9)",
+            "59 (14.7)"
+          ],
+          "columnHeaders": [
+            "Total n"
+          ]
+        },
+        {
+          "value": "300 (49.3)",
+          "rowHeaders": [
+            "< 10 years of schooling"
+          ],
+          "columnHeaders": [
+            "Assessment only"
+          ]
+        },
+        {
+          "value": "246 (50.4)",
+          "rowHeaders": [
+            "Married or living in stable partnership",
+            "Female",
+            "84 (13.8)"
+          ],
+          "columnHeaders": [
+            "Tailored letters"
+          ]
+        },
+        {
+          "value": "179 (44.5)",
+          "rowHeaders": [
+            "Married or living in stable partnership",
+            "Female",
+            "84 (13.8)",
+            "68 (13.9)"
+          ],
+          "columnHeaders": [
+            "Brief advice"
+          ]
+        },
+        {
+          "value": "725",
+          "rowHeaders": [
+            "Married or living in stable partnership",
+            "Female",
+            "84 (13.8)",
+            "68 (13.9)",
+            "59 (14.7)"
+          ],
+          "columnHeaders": [
+            "Total n"
+          ]
+        },
+        {
+          "value": "34.8 (13.4)",
+          "rowHeaders": [
+            "Mean (SD) age",
+            "< 10 years of schooling"
+          ],
+          "columnHeaders": [
+            "Assessment only"
+          ]
+        },
+        {
+          "value": "33.8 (13.2)",
+          "rowHeaders": [
+            "Married or living in stable partnership",
+            "84 (13.8)"
+          ],
+          "columnHeaders": [
+            "Tailored letters"
+          ]
+        },
+        {
+          "value": "33.1 (12.5)",
+          "rowHeaders": [
+            "Married or living in stable partnership",
+            "84 (13.8)",
+            "68 (13.9)"
+          ],
+          "columnHeaders": [
+            "Brief advice"
+          ]
+        },
+        {
+          "value": "0.228",
+          "rowHeaders": [
+            "Married or living in stable partnership",
+            "84 (13.8)",
+            "68 (13.9)",
+            "59 (14.7)",
+            "1499"
+          ],
+          "columnHeaders": [
+            "P*"
+          ]
+        },
+        {
+          "value": "0.403",
+          "rowHeaders": [
+            "Married or living in stable partnership",
+            "84 (13.8)",
+            "68 (13.9)",
+            "59 (14.7)",
+            "1499"
+          ],
+          "columnHeaders": [
+            "P*"
+          ]
+        },
+        {
+          "value": "209 (34.3)",
+          "rowHeaders": [
+            "Married or living in stable partnership",
+            "< 10 years of schooling"
+          ],
+          "columnHeaders": [
+            "Assessment only"
+          ]
+        },
+        {
+          "value": "151 (30.9)",
+          "rowHeaders": [
+            "Married or living in stable partnership",
+            "< 10 years of schooling",
+            "84 (13.8)"
+          ],
+          "columnHeaders": [
+            "Tailored letters"
+          ]
+        },
+        {
+          "value": "117 (29.1)",
+          "rowHeaders": [
+            "Married or living in stable partnership",
+            "< 10 years of schooling",
+            "84 (13.8)",
+            "68 (13.9)"
+          ],
+          "columnHeaders": [
+            "Brief advice"
+          ]
+        },
+        {
+          "value": "477",
+          "rowHeaders": [
+            "Married or living in stable partnership",
+            "< 10 years of schooling",
+            "84 (13.8)",
+            "68 (13.9)",
+            "59 (14.7)"
+          ],
+          "columnHeaders": [
+            "Total n"
+          ]
+        },
+        {
+          "value": "294 (48.3)",
+          "rowHeaders": [
+            "Married or living in stable partnership",
+            "= 10 years of schooling"
+          ],
+          "columnHeaders": [
+            "Assessment only"
+          ]
+        },
+        {
+          "value": "256 (52.5)",
+          "rowHeaders": [
+            "Married or living in stable partnership",
+            "= 10 years of schooling",
+            "84 (13.8)"
+          ],
+          "columnHeaders": [
+            "Tailored letters"
+          ]
+        },
+        {
+          "value": "217 (54.0)",
+          "rowHeaders": [
+            "Married or living in stable partnership",
+            "= 10 years of schooling",
+            "84 (13.8)",
+            "68 (13.9)"
+          ],
+          "columnHeaders": [
+            "Brief advice"
+          ]
+        },
+        {
+          "value": "767",
+          "rowHeaders": [
+            "Married or living in stable partnership",
+            "= 10 years of schooling",
+            "84 (13.8)",
+            "68 (13.9)",
+            "59 (14.7)"
+          ],
+          "columnHeaders": [
+            "Total n"
+          ]
+        },
+        {
+          "value": "211",
+          "rowHeaders": [
+            "Married or living in stable partnership",
+            "> 10 years of schooling",
+            "84 (13.8)",
+            "68 (13.9)",
+            "59 (14.7)"
+          ],
+          "columnHeaders": [
+            "Total n"
+          ]
+        },
+        {
+          "value": "0.396",
+          "rowHeaders": [
+            "Unemployed",
+            "86 (14.1)",
+            "62 (12.7)",
+            "66 (16.4)",
+            "1499"
+          ],
+          "columnHeaders": [
+            "P*",
+            "44"
+          ]
+        },
+        {
+          "value": "214",
+          "rowHeaders": [
+            "Yes",
+            "86 (14.1)",
+            "62 (12.7)",
+            "66 (16.4)"
+          ],
+          "columnHeaders": [
+            "Total n",
+            "44"
+          ]
+        },
+        {
+          "value": "416 (68.3)",
+          "rowHeaders": [
+            "No"
+          ],
+          "columnHeaders": [
+            "Assessment only",
+            "22 (3.6)"
+          ]
+        },
+        {
+          "value": "334 (68.4)",
+          "rowHeaders": [
+            "No",
+            "86 (14.1)"
+          ],
+          "columnHeaders": [
+            "Tailored letters",
+            "13 (2.7)"
+          ]
+        },
+        {
+          "value": "267 (66.4)",
+          "rowHeaders": [
+            "No",
+            "86 (14.1)",
+            "62 (12.7)"
+          ],
+          "columnHeaders": [
+            "Brief advice",
+            "9 (2.2)"
+          ]
+        },
+        {
+          "value": "107 (17.6)",
+          "rowHeaders": [
+            "Married or living in stable partnership",
+            "No information"
+          ],
+          "columnHeaders": [
+            "Assessment only",
+            "22 (3.6)"
+          ]
+        },
+        {
+          "value": "268",
+          "rowHeaders": [
+            "Mean (SD) self-rated health index EQ-VAS",
+            "No information",
+            "86 (14.1)",
+            "92 (18.9)",
+            "69 (17.2)"
+          ],
+          "columnHeaders": [
+            "Total n",
+            "44"
+          ]
+        },
+        {
+          "value": "0.717",
+          "rowHeaders": [
+            "Married or living in stable partnership",
+            "86 (14.1)",
+            "92 (18.9)",
+            "69 (17.2)",
+            "1260"
+          ],
+          "columnHeaders": [
+            "P*",
+            "44"
+          ]
+        },
+        {
+          "value": "409 (67.2)",
+          "rowHeaders": [
+            "Yes"
+          ],
+          "columnHeaders": [
+            "Assessment only",
+            "22 (3.6)"
+          ]
+        },
+        {
+          "value": "323 (66.2)",
+          "rowHeaders": [
+            "Yes",
+            "86 (14.1)"
+          ],
+          "columnHeaders": [
+            "Tailored letters",
+            "13 (2.7)"
+          ]
+        },
+        {
+          "value": "279 (69.4)",
+          "rowHeaders": [
+            "Yes",
+            "86 (14.1)",
+            "92 (18.9)"
+          ],
+          "columnHeaders": [
+            "Brief advice",
+            "9 (2.2)"
+          ]
+        },
+        {
+          "value": "186 (30.5)",
+          "rowHeaders": [
+            "No"
+          ],
+          "columnHeaders": [
+            "Assessment only",
+            "22 (3.6)"
+          ]
+        },
+        {
+          "value": "152 (31.1)",
+          "rowHeaders": [
+            "No",
+            "86 (14.1)"
+          ],
+          "columnHeaders": [
+            "Tailored letters",
+            "13 (2.7)"
+          ]
+        },
+        {
+          "value": "118 (29.4)",
+          "rowHeaders": [
+            "No",
+            "86 (14.1)",
+            "92 (18.9)"
+          ],
+          "columnHeaders": [
+            "Brief advice",
+            "9 (2.2)"
+          ]
+        },
+        {
+          "value": "456",
+          "rowHeaders": [
+            "No",
+            "86 (14.1)",
+            "92 (18.9)",
+            "69 (17.2)"
+          ],
+          "columnHeaders": [
+            "Total n",
+            "44"
+          ]
+        },
+        {
+          "value": "70.7 (20.5)",
+          "rowHeaders": [
+            "Mean (SD) self-rated health index EQ-VAS"
+          ],
+          "columnHeaders": [
+            "Assessment only",
+            "22 (3.6)",
+            "14 (2.3)"
+          ]
+        },
+        {
+          "value": "69.9 (19.1)",
+          "rowHeaders": [
+            "Mean (SD) self-rated health index EQ-VAS",
+            "86 (14.1)"
+          ],
+          "columnHeaders": [
+            "Tailored letters",
+            "13 (2.7)",
+            "13 (2.7)"
+          ]
+        },
+        {
+          "value": "69.7 (19.8)",
+          "rowHeaders": [
+            "Mean (SD) self-rated health index EQ-VAS",
+            "86 (14.1)",
+            "74 (15.2)"
+          ],
+          "columnHeaders": [
+            "Brief advice",
+            "9 (2.2)",
+            "5 (1.2)"
+          ]
+        },
+        {
+          "value": "0.800",
+          "rowHeaders": [
+            "Mean (SD) self-rated health index EQ-VAS",
+            "86 (14.1)",
+            "74 (15.2)",
+            "62 (15.4)",
+            "1260"
+          ],
+          "columnHeaders": [
+            "P*",
+            "44",
+            "32"
+          ]
+        },
+        {
+          "value": "103 (16.9)",
+          "rowHeaders": [
+            "Mean (SD) self-rated health index EQ-VAS",
+            "No information"
+          ],
+          "columnHeaders": [
+            "Assessment only",
+            "22 (3.6)",
+            "14 (2.3)"
+          ]
+        },
+        {
+          "value": "239",
+          "rowHeaders": [
+            "Mean (SD) number of cigarettes smoked per day",
+            "No information",
+            "86 (14.1)",
+            "74 (15.2)",
+            "62 (15.4)"
+          ],
+          "columnHeaders": [
+            "Total n",
+            "44",
+            "32"
+          ]
+        },
+        {
+          "value": "0.764",
+          "rowHeaders": [
+            "Reason for consulting the practitioner",
+            "86 (14.1)",
+            "74 (15.2)",
+            "62 (15.4)",
+            "1260"
+          ],
+          "columnHeaders": [
+            "P*",
+            "44",
+            "32"
+          ]
+        },
+        {
+          "value": "283 (46.5)",
+          "rowHeaders": [
+            "Mean (SD) self-rated health index EQ-VAS",
+            "Acute problems"
+          ],
+          "columnHeaders": [
+            "Assessment only",
+            "22 (3.6)",
+            "14 (2.3)"
+          ]
+        },
+        {
+          "value": "225 (46.1)",
+          "rowHeaders": [
+            "Mean (SD) number of cigarettes smoked per day",
+            "Acute problems",
+            "86 (14.1)"
+          ],
+          "columnHeaders": [
+            "Tailored letters",
+            "13 (2.7)",
+            "13 (2.7)"
+          ]
+        },
+        {
+          "value": "195 (48.5)",
+          "rowHeaders": [
+            "Mean (SD) number of cigarettes smoked per day",
+            "Acute problems",
+            "86 (14.1)",
+            "74 (15.2)"
+          ],
+          "columnHeaders": [
+            "Brief advice",
+            "9 (2.2)",
+            "5 (1.2)"
+          ]
+        },
+        {
+          "value": "703",
+          "rowHeaders": [
+            "Mean (SD) number of cigarettes smoked per day",
+            "Acute problems",
+            "86 (14.1)",
+            "74 (15.2)",
+            "97 (24.1)"
+          ],
+          "columnHeaders": [
+            "Total n",
+            "44",
+            "32"
+          ]
+        },
+        {
+          "value": "140 (23.0)",
+          "rowHeaders": [
+            "Mean (SD) number of cigarettes smoked per day",
+            "Chronic problems"
+          ],
+          "columnHeaders": [
+            "Assessment only",
+            "22 (3.6)",
+            "14 (2.3)"
+          ]
+        },
+        {
+          "value": "115 (23.6)",
+          "rowHeaders": [
+            "Mean (SD) number of cigarettes smoked per day",
+            "Chronic problems",
+            "86 (14.1)"
+          ],
+          "columnHeaders": [
+            "Tailored letters",
+            "13 (2.7)",
+            "13 (2.7)"
+          ]
+        },
+        {
+          "value": "352",
+          "rowHeaders": [
+            "Mean (SD) number of cigarettes smoked per day",
+            "Chronic problems",
+            "86 (14.1)",
+            "74 (15.2)",
+            "97 (24.1)"
+          ],
+          "columnHeaders": [
+            "Total n",
+            "44",
+            "32"
+          ]
+        },
+        {
+          "value": "142 (23.3)",
+          "rowHeaders": [
+            "Mean (SD) number of cigarettes smoked per day",
+            "Preventive check-up"
+          ],
+          "columnHeaders": [
+            "Assessment only",
+            "22 (3.6)",
+            "14 (2.3)"
+          ]
+        },
+        {
+          "value": "120 (24.6)",
+          "rowHeaders": [
+            "Mean (SD) number of cigarettes smoked per day",
+            "Preventive check-up",
+            "86 (14.1)"
+          ],
+          "columnHeaders": [
+            "Tailored letters",
+            "13 (2.7)",
+            "13 (2.7)"
+          ]
+        },
+        {
+          "value": "345",
+          "rowHeaders": [
+            "Mean (SD) number of cigarettes smoked per day",
+            "Preventive check-up",
+            "86 (14.1)",
+            "74 (15.2)",
+            "83 (20.6)"
+          ],
+          "columnHeaders": [
+            "Total n",
+            "44",
+            "32"
+          ]
+        },
+        {
+          "value": "16.2 (7.6)",
+          "rowHeaders": [
+            "Mean (SD) number of cigarettes smoked per day"
+          ],
+          "columnHeaders": [
+            "Assessment only",
+            "22 (3.6)",
+            "14 (2.3)",
+            "44 (7.2)"
+          ]
+        },
+        {
+          "value": "16.4 (7.7)",
+          "rowHeaders": [
+            "Mean (SD) number of cigarettes smoked per day",
+            "67 (11.0)"
+          ],
+          "columnHeaders": [
+            "Tailored letters",
+            "13 (2.7)",
+            "13 (2.7)",
+            "28 (5.7)"
+          ]
+        },
+        {
+          "value": "16.9 (7.9)",
+          "rowHeaders": [
+            "Mean (SD) number of cigarettes smoked per day",
+            "67 (11.0)",
+            "74 (15.2)"
+          ],
+          "columnHeaders": [
+            "Brief advice",
+            "9 (2.2)",
+            "5 (1.2)",
+            "27 (6.7)"
+          ]
+        },
+        {
+          "value": "0.464",
+          "rowHeaders": [
+            "Mean (SD) number of cigarettes smoked per day",
+            "67 (11.0)",
+            "74 (15.2)",
+            "83 (20.6)",
+            "1490"
+          ],
+          "columnHeaders": [
+            "P*",
+            "44",
+            "32",
+            "99"
+          ]
+        },
+        {
+          "value": "3.3 (2.1)",
+          "rowHeaders": [
+            "Mean (SD) FTND"
+          ],
+          "columnHeaders": [
+            "Assessment only",
+            "22 (3.6)",
+            "14 (2.3)",
+            "44 (7.2)",
+            "4 (0.7)"
+          ]
+        },
+        {
+          "value": "3.1 (2.0)",
+          "rowHeaders": [
+            "Mean (SD) FTND",
+            "67 (11.0)"
+          ],
+          "columnHeaders": [
+            "Tailored letters",
+            "13 (2.7)",
+            "13 (2.7)",
+            "28 (5.7)",
+            "4 (0.8)"
+          ]
+        },
+        {
+          "value": "3.3 (2.1)",
+          "rowHeaders": [
+            "Mean (SD) FTND",
+            "67 (11.0)",
+            "74 (15.2)"
+          ],
+          "columnHeaders": [
+            "Brief advice",
+            "9 (2.2)",
+            "5 (1.2)",
+            "27 (6.7)",
+            "1 (0.2)"
+          ]
+        },
+        {
+          "value": "0.463",
+          "rowHeaders": [
+            "Mean (SD) FTND",
+            "67 (11.0)",
+            "74 (15.2)",
+            "83 (20.6)",
+            "1452"
+          ],
+          "columnHeaders": [
+            "P*",
+            "44",
+            "32",
+            "99",
+            "9"
+          ]
+        },
+        {
+          "value": "0.248",
+          "rowHeaders": [
+            "Intention to quit smoking",
+            "67 (11.0)",
+            "46 (9.4)",
+            "83 (20.6)",
+            "1452"
+          ],
+          "columnHeaders": [
+            "P*",
+            "44",
+            "32",
+            "99",
+            "9",
+            "47"
+          ]
+        },
+        {
+          "value": "412 (67.7)",
+          "rowHeaders": [
+            "No intention"
+          ],
+          "columnHeaders": [
+            "Assessment only",
+            "22 (3.6)",
+            "14 (2.3)",
+            "44 (7.2)",
+            "4 (0.7)",
+            "26 (4.3)"
+          ]
+        },
+        {
+          "value": "312 (63.9)",
+          "rowHeaders": [
+            "No intention",
+            "67 (11.0)"
+          ],
+          "columnHeaders": [
+            "Tailored letters",
+            "13 (2.7)",
+            "13 (2.7)",
+            "28 (5.7)",
+            "4 (0.8)",
+            "15 (3.1)"
+          ]
+        },
+        {
+          "value": "247 (61.4)",
+          "rowHeaders": [
+            "No intention",
+            "67 (11.0)",
+            "46 (9.4)"
+          ],
+          "columnHeaders": [
+            "Brief advice",
+            "9 (2.2)",
+            "5 (1.2)",
+            "27 (6.7)",
+            "1 (0.2)",
+            "6 (1.5)"
+          ]
+        },
+        {
+          "value": "971",
+          "rowHeaders": [
+            "No intention",
+            "67 (11.0)",
+            "46 (9.4)",
+            "83 (20.6)"
+          ],
+          "columnHeaders": [
+            "Total n",
+            "44",
+            "32",
+            "99",
+            "9",
+            "47"
+          ]
+        },
+        {
+          "value": "160 (26.3)",
+          "rowHeaders": [
+            "Mean (SD) number of cigarettes smoked per day",
+            "Within next 6 months"
+          ],
+          "columnHeaders": [
+            "Assessment only",
+            "22 (3.6)",
+            "14 (2.3)",
+            "44 (7.2)",
+            "4 (0.7)",
+            "26 (4.3)"
+          ]
+        },
+        {
+          "value": "133 (27.3)",
+          "rowHeaders": [
+            "Mean (SD) number of cigarettes smoked per day",
+            "Within next 6 months",
+            "67 (11.0)"
+          ],
+          "columnHeaders": [
+            "Tailored letters",
+            "13 (2.7)",
+            "13 (2.7)",
+            "28 (5.7)",
+            "4 (0.8)",
+            "15 (3.1)"
+          ]
+        },
+        {
+          "value": "128 (31.8)",
+          "rowHeaders": [
+            "Mean (SD) carbon monoxide in exhaled air p.p.m.",
+            "Within next 6 months",
+            "67 (11.0)",
+            "46 (9.4)"
+          ],
+          "columnHeaders": [
+            "Brief advice",
+            "9 (2.2)",
+            "5 (1.2)",
+            "27 (6.7)",
+            "1 (0.2)",
+            "6 (1.5)"
+          ]
+        },
+        {
+          "value": "421",
+          "rowHeaders": [
+            "Mean (SD) carbon monoxide in exhaled air p.p.m.",
+            "Within next 6 months",
+            "67 (11.0)",
+            "46 (9.4)",
+            "36 (9.0)"
+          ],
+          "columnHeaders": [
+            "Total n",
+            "44",
+            "32",
+            "99",
+            "9",
+            "47"
+          ]
+        },
+        {
+          "value": "426 (70.0)",
+          "rowHeaders": [
+            "No attempt"
+          ],
+          "columnHeaders": [
+            "Assessment only",
+            "22 (3.6)",
+            "14 (2.3)",
+            "44 (7.2)",
+            "4 (0.7)",
+            "26 (4.3)",
+            "27 (4.4)",
+            "10 (1.6)"
+          ]
+        },
+        {
+          "value": "340 (69.7)",
+          "rowHeaders": [
+            "No attempt",
+            "67 (11.0)"
+          ],
+          "columnHeaders": [
+            "Tailored letters",
+            "13 (2.7)",
+            "13 (2.7)",
+            "28 (5.7)",
+            "4 (0.8)",
+            "15 (3.1)",
+            "29 (5.9)",
+            "14 (2.9)"
+          ]
+        },
+        {
+          "value": "274 (68.2)",
+          "rowHeaders": [
+            "No attempt",
+            "67 (11.0)",
+            "46 (9.4)"
+          ],
+          "columnHeaders": [
+            "Brief advice",
+            "9 (2.2)",
+            "5 (1.2)",
+            "27 (6.7)",
+            "1 (0.2)",
+            "6 (1.5)",
+            "26 (6.5)",
+            "1 (0.2)"
+          ]
+        },
+        {
+          "value": "0.847",
+          "rowHeaders": [
+            "No attempt",
+            "67 (11.0)",
+            "46 (9.4)",
+            "36 (9.0)",
+            "1040"
+          ],
+          "columnHeaders": [
+            "P*",
+            "44",
+            "32",
+            "99",
+            "9",
+            "47",
+            "82",
+            "25"
+          ]
+        },
+        {
+          "value": "183 (30.0)",
+          "rowHeaders": [
+            "񮽙 1 attempt"
+          ],
+          "columnHeaders": [
+            "Assessment only",
+            "22 (3.6)",
+            "14 (2.3)",
+            "44 (7.2)",
+            "4 (0.7)",
+            "26 (4.3)",
+            "27 (4.4)",
+            "10 (1.6)"
+          ]
+        },
+        {
+          "value": "146 (29.9)",
+          "rowHeaders": [
+            "񮽙 1 attempt",
+            "67 (11.0)"
+          ],
+          "columnHeaders": [
+            "Tailored letters",
+            "13 (2.7)",
+            "13 (2.7)",
+            "28 (5.7)",
+            "4 (0.8)",
+            "15 (3.1)",
+            "29 (5.9)",
+            "14 (2.9)"
+          ]
+        },
+        {
+          "value": "128 (31.8)",
+          "rowHeaders": [
+            "񮽙 1 attempt",
+            "67 (11.0)",
+            "46 (9.4)"
+          ],
+          "columnHeaders": [
+            "Brief advice",
+            "9 (2.2)",
+            "5 (1.2)",
+            "27 (6.7)",
+            "1 (0.2)",
+            "6 (1.5)",
+            "26 (6.5)",
+            "1 (0.2)"
+          ]
+        },
+        {
+          "value": "457",
+          "rowHeaders": [
+            "񮽙 1 attempt",
+            "67 (11.0)",
+            "46 (9.4)",
+            "36 (9.0)"
+          ],
+          "columnHeaders": [
+            "Total n",
+            "44",
+            "32",
+            "99",
+            "9",
+            "47",
+            "82",
+            "25"
+          ]
+        },
+        {
+          "value": "16.7 (10.2)",
+          "rowHeaders": [
+            "Mean (SD) carbon monoxide in exhaled air p.p.m."
+          ],
+          "columnHeaders": [
+            "Assessment only",
+            "22 (3.6)",
+            "14 (2.3)",
+            "44 (7.2)",
+            "4 (0.7)",
+            "26 (4.3)",
+            "27 (4.4)",
+            "10 (1.6)",
+            "0 (0.0)"
+          ]
+        },
+        {
+          "value": "16.3 (9.4)",
+          "rowHeaders": [
+            "Mean (SD) carbon monoxide in exhaled air p.p.m.",
+            "67 (11.0)"
+          ],
+          "columnHeaders": [
+            "Tailored letters",
+            "13 (2.7)",
+            "13 (2.7)",
+            "28 (5.7)",
+            "4 (0.8)",
+            "15 (3.1)",
+            "29 (5.9)",
+            "14 (2.9)",
+            "2 (0.4)"
+          ]
+        },
+        {
+          "value": "15.7 (9.5)",
+          "rowHeaders": [
+            "Mean (SD) carbon monoxide in exhaled air p.p.m.",
+            "67 (11.0)",
+            "46 (9.4)"
+          ],
+          "columnHeaders": [
+            "Brief advice",
+            "9 (2.2)",
+            "5 (1.2)",
+            "27 (6.7)",
+            "1 (0.2)",
+            "6 (1.5)",
+            "26 (6.5)",
+            "1 (0.2)",
+            "0 (0.0)"
+          ]
+        },
+        {
+          "value": "0.506",
+          "rowHeaders": [
+            "Mean (SD) carbon monoxide in exhaled air p.p.m.",
+            "67 (11.0)",
+            "46 (9.4)",
+            "36 (9.0)",
+            "1350"
+          ],
+          "columnHeaders": [
+            "P*",
+            "44",
+            "32",
+            "99",
+            "9",
+            "47",
+            "82",
+            "25",
+            "2"
+          ]
+        },
+        {
+          "value": "149",
+          "rowHeaders": [
+            "Mean (SD) carbon monoxide in exhaled air p.p.m.",
+            "No information",
+            "67 (11.0)",
+            "46 (9.4)",
+            "36 (9.0)"
+          ],
+          "columnHeaders": [
+            "Total n",
+            "44",
+            "32",
+            "99",
+            "9",
+            "47",
+            "82",
+            "25",
+            "2"
+          ]
+        },
+        {
+          "value": "0.620",
+          "rowHeaders": [
+            "Smoking partner",
+            "67 (11.0)",
+            "46 (9.4)",
+            "86 (21.4)",
+            "1350"
+          ],
+          "columnHeaders": [
+            "P*",
+            "44",
+            "32",
+            "99",
+            "9",
+            "47",
+            "82",
+            "25",
+            "2"
+          ]
+        },
+        {
+          "value": "253 (41.5)",
+          "rowHeaders": [
+            "Yes"
+          ],
+          "columnHeaders": [
+            "Assessment only",
+            "22 (3.6)",
+            "14 (2.3)",
+            "44 (7.2)",
+            "4 (0.7)",
+            "26 (4.3)",
+            "27 (4.4)",
+            "10 (1.6)",
+            "0 (0.0)"
+          ]
+        },
+        {
+          "value": "201 (41.2)",
+          "rowHeaders": [
+            "Yes",
+            "67 (11.0)"
+          ],
+          "columnHeaders": [
+            "Tailored letters",
+            "13 (2.7)",
+            "13 (2.7)",
+            "28 (5.7)",
+            "4 (0.8)",
+            "15 (3.1)",
+            "29 (5.9)",
+            "14 (2.9)",
+            "2 (0.4)"
+          ]
+        },
+        {
+          "value": "181 (45.0)",
+          "rowHeaders": [
+            "Yes",
+            "67 (11.0)",
+            "46 (9.4)"
+          ],
+          "columnHeaders": [
+            "Brief advice",
+            "9 (2.2)",
+            "5 (1.2)",
+            "27 (6.7)",
+            "1 (0.2)",
+            "6 (1.5)",
+            "26 (6.5)",
+            "1 (0.2)",
+            "0 (0.0)"
+          ]
+        },
+        {
+          "value": "635",
+          "rowHeaders": [
+            "Yes",
+            "67 (11.0)",
+            "50 (10.2)",
+            "86 (21.4)"
+          ],
+          "columnHeaders": [
+            "Total n",
+            "44",
+            "32",
+            "99",
+            "9",
+            "47",
+            "82",
+            "25",
+            "2"
+          ]
+        },
+        {
+          "value": "138 (22.7)",
+          "rowHeaders": [
+            "No"
+          ],
+          "columnHeaders": [
+            "Assessment only",
+            "22 (3.6)",
+            "14 (2.3)",
+            "44 (7.2)",
+            "4 (0.7)",
+            "26 (4.3)",
+            "27 (4.4)",
+            "10 (1.6)",
+            "0 (0.0)"
+          ]
+        },
+        {
+          "value": "113 (23.2)",
+          "rowHeaders": [
+            "No",
+            "78 (12.8)"
+          ],
+          "columnHeaders": [
+            "Tailored letters",
+            "13 (2.7)",
+            "13 (2.7)",
+            "28 (5.7)",
+            "4 (0.8)",
+            "15 (3.1)",
+            "29 (5.9)",
+            "14 (2.9)",
+            "2 (0.4)"
+          ]
+        },
+        {
+          "value": "337",
+          "rowHeaders": [
+            "No",
+            "78 (12.8)",
+            "50 (10.2)",
+            "86 (21.4)"
+          ],
+          "columnHeaders": [
+            "Total n",
+            "44",
+            "32",
+            "99",
+            "9",
+            "47",
+            "82",
+            "25",
+            "2"
+          ]
+        },
+        {
+          "value": "140 (23.0)",
+          "rowHeaders": [
+            "No partner"
+          ],
+          "columnHeaders": [
+            "Assessment only",
+            "22 (3.6)",
+            "14 (2.3)",
+            "44 (7.2)",
+            "4 (0.7)",
+            "26 (4.3)",
+            "27 (4.4)",
+            "10 (1.6)",
+            "0 (0.0)"
+          ]
+        },
+        {
+          "value": "124 (25.4)",
+          "rowHeaders": [
+            "No partner",
+            "78 (12.8)"
+          ],
+          "columnHeaders": [
+            "Tailored letters",
+            "13 (2.7)",
+            "13 (2.7)",
+            "28 (5.7)",
+            "4 (0.8)",
+            "15 (3.1)",
+            "29 (5.9)",
+            "14 (2.9)",
+            "2 (0.4)"
+          ]
+        },
+        {
+          "value": "354",
+          "rowHeaders": [
+            "No partner",
+            "78 (12.8)",
+            "50 (10.2)",
+            "90 (22.4)"
+          ],
+          "columnHeaders": [
+            "Total n",
+            "44",
+            "32",
+            "99",
+            "9",
+            "47",
+            "82",
+            "25",
+            "2"
+          ]
+        },
+        {
+          "value": "173",
+          "rowHeaders": [
+            "Mean (SD) carbon monoxide in exhaled air p.p.m.",
+            "No information",
+            "78 (12.8)",
+            "50 (10.2)",
+            "45 (11.2)"
+          ],
+          "columnHeaders": [
+            "Total n",
+            "44",
+            "32",
+            "99",
+            "9",
+            "47",
+            "82",
+            "25",
+            "2"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "0.001",
+          "rowHeaders": [
+            "probability of follow-up",
+            "6-month",
+            "abstinence",
+            "Tailored letters versus"
+          ],
+          "columnHeaders": []
+        },
+        {
+          "value": "1.7 (1.3-2.4)",
+          "rowHeaders": [
+            "probability of follow-up",
+            "6-month",
+            "abstinence",
+            "Tailored letters versus"
+          ],
+          "columnHeaders": []
+        },
+        {
+          "value": "0.002",
+          "rowHeaders": [
+            "probability of follow-up",
+            "6-month",
+            "abstinence",
+            "Tailored letters versus"
+          ],
+          "columnHeaders": []
+        },
+        {
+          "value": "1.7 (1.2-2.4)",
+          "rowHeaders": [
+            "probability of follow-up",
+            "6-month",
+            "abstinence",
+            "Tailored letters versus"
+          ],
+          "columnHeaders": []
+        },
+        {
+          "value": "0.016",
+          "rowHeaders": [
+            "probability of follow-up",
+            "6-month",
+            "abstinence",
+            "Brief advice versus"
+          ],
+          "columnHeaders": [
+            "assessment only"
+          ]
+        },
+        {
+          "value": "1.5 (1.1-2.2)",
+          "rowHeaders": [
+            "probability of follow-up",
+            "6-month",
+            "abstinence",
+            "Brief advice versus"
+          ],
+          "columnHeaders": [
+            "assessment only"
+          ]
+        },
+        {
+          "value": "0.026",
+          "rowHeaders": [
+            "probability of follow-up",
+            "6-month",
+            "abstinence",
+            "Brief advice versus"
+          ],
+          "columnHeaders": [
+            "assessment only"
+          ]
+        },
+        {
+          "value": "1.5 (1.1-2.2)",
+          "rowHeaders": [
+            "probability of follow-up",
+            "6-month",
+            "abstinence",
+            "Brief advice versus"
+          ],
+          "columnHeaders": [
+            "assessment only"
+          ]
+        },
+        {
+          "value": "0.470",
+          "rowHeaders": [
+            "probability of follow-up",
+            "6-month",
+            "abstinence",
+            "Tailored letters versus brief"
+          ],
+          "columnHeaders": [
+            "assessment only"
+          ]
+        },
+        {
+          "value": "1.1 (0.8-1.6)",
+          "rowHeaders": [
+            "probability of follow-up",
+            "6-month",
+            "abstinence",
+            "Tailored letters versus brief"
+          ],
+          "columnHeaders": [
+            "assessment only"
+          ]
+        },
+        {
+          "value": "0.522",
+          "rowHeaders": [
+            "probability of follow-up",
+            "6-month",
+            "abstinence",
+            "Tailored letters versus brief"
+          ],
+          "columnHeaders": [
+            "assessment only"
+          ]
+        },
+        {
+          "value": "1.1 (0.8-1.6)",
+          "rowHeaders": [
+            "probability of follow-up",
+            "6-month",
+            "abstinence",
+            "Tailored letters versus brief"
+          ],
+          "columnHeaders": [
+            "assessment only"
+          ]
+        },
+        {
+          "value": "0.004",
+          "rowHeaders": [
+            "probability of follow-up",
+            "6-month",
+            "abstinence",
+            "Tailored letters versus"
+          ],
+          "columnHeaders": [
+            "assessment only"
+          ]
+        },
+        {
+          "value": "1.9 (1.2-2.8)",
+          "rowHeaders": [
+            "probability of follow-up",
+            "6-month",
+            "abstinence",
+            "Tailored letters versus"
+          ],
+          "columnHeaders": [
+            "assessment only"
+          ]
+        },
+        {
+          "value": "0.013",
+          "rowHeaders": [
+            "probability of follow-up",
+            "6-month",
+            "abstinence",
+            "Tailored letters versus"
+          ],
+          "columnHeaders": [
+            "assessment only"
+          ]
+        },
+        {
+          "value": "1.7 (1.1-2.7)",
+          "rowHeaders": [
+            "probability of follow-up",
+            "6-month",
+            "abstinence",
+            "Tailored letters versus"
+          ],
+          "columnHeaders": [
+            "assessment only"
+          ]
+        },
+        {
+          "value": "0.005",
+          "rowHeaders": [
+            "probability of follow-up",
+            "7-day point",
+            "abstinence",
+            "Brief advice versus"
+          ],
+          "columnHeaders": [
+            "assessment only",
+            "assessment only"
+          ]
+        },
+        {
+          "value": "1.9 (1.2-2.9)",
+          "rowHeaders": [
+            "probability of follow-up",
+            "7-day point",
+            "abstinence",
+            "Brief advice versus"
+          ],
+          "columnHeaders": [
+            "assessment only",
+            "assessment only"
+          ]
+        },
+        {
+          "value": "0.011",
+          "rowHeaders": [
+            "probability of follow-up",
+            "7-day point",
+            "abstinence",
+            "Brief advice versus"
+          ],
+          "columnHeaders": [
+            "assessment only",
+            "assessment only"
+          ]
+        },
+        {
+          "value": "1.8 (1.1-2.9)",
+          "rowHeaders": [
+            "probability of follow-up",
+            "7-day point",
+            "abstinence",
+            "Brief advice versus"
+          ],
+          "columnHeaders": [
+            "assessment only",
+            "assessment only"
+          ]
+        },
+        {
+          "value": "0.931",
+          "rowHeaders": [
+            "probability of follow-up",
+            "7-day point",
+            "abstinence",
+            "Tailored letters versus brief"
+          ],
+          "columnHeaders": [
+            "assessment only",
+            "assessment only"
+          ]
+        },
+        {
+          "value": "1.0 (0.6-1.5)",
+          "rowHeaders": [
+            "probability of follow-up",
+            "7-day point",
+            "abstinence",
+            "Tailored letters versus brief"
+          ],
+          "columnHeaders": [
+            "assessment only",
+            "assessment only"
+          ]
+        },
+        {
+          "value": "0.869",
+          "rowHeaders": [
+            "probability of follow-up",
+            "7-day point",
+            "abstinence",
+            "Tailored letters versus brief"
+          ],
+          "columnHeaders": [
+            "assessment only",
+            "assessment only"
+          ]
+        },
+        {
+          "value": "1.0 (0.6-1.5)",
+          "rowHeaders": [
+            "probability of follow-up",
+            "7-day point",
+            "abstinence",
+            "Tailored letters versus brief"
+          ],
+          "columnHeaders": [
+            "assessment only",
+            "assessment only"
+          ]
+        },
+        {
+          "value": "0.001",
+          "rowHeaders": [
+            "Weighted estimation",
+            "7-day point",
+            "Tailored letters versus",
+            "<"
+          ],
+          "columnHeaders": [
+            "assessment only",
+            "assessment only"
+          ]
+        },
+        {
+          "value": "2.1 (1.5-3.0)",
+          "rowHeaders": [
+            "Weighted estimation",
+            "7-day point",
+            "Tailored letters versus",
+            "<"
+          ],
+          "columnHeaders": [
+            "assessment only",
+            "assessment only"
+          ]
+        },
+        {
+          "value": "0.001",
+          "rowHeaders": [
+            "Weighted estimation",
+            "7-day point",
+            "Tailored letters versus",
+            "<",
+            "<"
+          ],
+          "columnHeaders": [
+            "assessment only",
+            "assessment only"
+          ]
+        },
+        {
+          "value": "2.0 (1.4-2.9)",
+          "rowHeaders": [
+            "Weighted estimation",
+            "7-day point",
+            "Tailored letters versus",
+            "<",
+            "<"
+          ],
+          "columnHeaders": [
+            "assessment only",
+            "assessment only"
+          ]
+        },
+        {
+          "value": "0.010",
+          "rowHeaders": [
+            "probability of follow-up",
+            "7-day point",
+            "Brief advice versus"
+          ],
+          "columnHeaders": [
+            "assessment only",
+            "assessment only",
+            "assessment only"
+          ]
+        },
+        {
+          "value": "1.6 (1.1-2.3)",
+          "rowHeaders": [
+            "probability of follow-up",
+            "7-day point",
+            "Brief advice versus"
+          ],
+          "columnHeaders": [
+            "assessment only",
+            "assessment only",
+            "assessment only"
+          ]
+        },
+        {
+          "value": "0.022",
+          "rowHeaders": [
+            "probability of follow-up",
+            "7-day point",
+            "Brief advice versus"
+          ],
+          "columnHeaders": [
+            "assessment only",
+            "assessment only",
+            "assessment only"
+          ]
+        },
+        {
+          "value": "1.6 (1.1-2.3)",
+          "rowHeaders": [
+            "probability of follow-up",
+            "7-day point",
+            "Brief advice versus"
+          ],
+          "columnHeaders": [
+            "assessment only",
+            "assessment only",
+            "assessment only"
+          ]
+        },
+        {
+          "value": "0.158",
+          "rowHeaders": [
+            "probability of follow-up",
+            "7-day point",
+            "abstinence",
+            "Tailored letters versus brief"
+          ],
+          "columnHeaders": [
+            "assessment only",
+            "assessment only",
+            "assessment only",
+            "assessment only"
+          ]
+        },
+        {
+          "value": "1.3 (0.9-1.8)",
+          "rowHeaders": [
+            "probability of follow-up",
+            "7-day point",
+            "abstinence",
+            "Tailored letters versus brief"
+          ],
+          "columnHeaders": [
+            "assessment only",
+            "assessment only",
+            "assessment only",
+            "assessment only"
+          ]
+        },
+        {
+          "value": "0.177",
+          "rowHeaders": [
+            "probability of follow-up",
+            "7-day point",
+            "abstinence",
+            "Tailored letters versus brief"
+          ],
+          "columnHeaders": [
+            "assessment only",
+            "assessment only",
+            "assessment only",
+            "assessment only"
+          ]
+        },
+        {
+          "value": "1.3 (0.9-1.9)",
+          "rowHeaders": [
+            "probability of follow-up",
+            "7-day point",
+            "abstinence",
+            "Tailored letters versus brief"
+          ],
+          "columnHeaders": [
+            "assessment only",
+            "assessment only",
+            "assessment only",
+            "assessment only"
+          ]
+        },
+        {
+          "value": "0.001",
+          "rowHeaders": [
+            "probability of follow-up",
+            "6-month",
+            "Tailored letters versus"
+          ],
+          "columnHeaders": [
+            "assessment only",
+            "assessment only",
+            "assessment only",
+            "assessment only"
+          ]
+        },
+        {
+          "value": "2.1 (1.3-3.2)",
+          "rowHeaders": [
+            "probability of follow-up",
+            "6-month",
+            "Tailored letters versus"
+          ],
+          "columnHeaders": [
+            "assessment only",
+            "assessment only",
+            "assessment only",
+            "assessment only"
+          ]
+        },
+        {
+          "value": "0.005",
+          "rowHeaders": [
+            "probability of follow-up",
+            "6-month",
+            "Tailored letters versus"
+          ],
+          "columnHeaders": [
+            "assessment only",
+            "assessment only",
+            "assessment only",
+            "assessment only"
+          ]
+        },
+        {
+          "value": "1.9 (1.2-3.1)",
+          "rowHeaders": [
+            "probability of follow-up",
+            "6-month",
+            "Tailored letters versus"
+          ],
+          "columnHeaders": [
+            "assessment only",
+            "assessment only",
+            "assessment only",
+            "assessment only"
+          ]
+        },
+        {
+          "value": "0.004",
+          "rowHeaders": [
+            "probability of follow-up",
+            "6-month",
+            "abstinence",
+            "Brief advice versus"
+          ],
+          "columnHeaders": [
+            "assessment only",
+            "assessment only",
+            "assessment only",
+            "assessment only",
+            "assessment only"
+          ]
+        },
+        {
+          "value": "1.9 (1.2-3.1)",
+          "rowHeaders": [
+            "probability of follow-up",
+            "6-month",
+            "abstinence",
+            "Brief advice versus"
+          ],
+          "columnHeaders": [
+            "assessment only",
+            "assessment only",
+            "assessment only",
+            "assessment only",
+            "assessment only"
+          ]
+        },
+        {
+          "value": "0.009",
+          "rowHeaders": [
+            "probability of follow-up",
+            "6-month",
+            "abstinence",
+            "Brief advice versus"
+          ],
+          "columnHeaders": [
+            "assessment only",
+            "assessment only",
+            "assessment only",
+            "assessment only",
+            "assessment only"
+          ]
+        },
+        {
+          "value": "1.9 (1.2-3.0)",
+          "rowHeaders": [
+            "probability of follow-up",
+            "6-month",
+            "abstinence",
+            "Brief advice versus"
+          ],
+          "columnHeaders": [
+            "assessment only",
+            "assessment only",
+            "assessment only",
+            "assessment only",
+            "assessment only"
+          ]
+        },
+        {
+          "value": "0.793",
+          "rowHeaders": [
+            "probability of follow-up",
+            "6-month",
+            "abstinence",
+            "Tailored letters versus brief"
+          ],
+          "columnHeaders": [
+            "assessment only",
+            "assessment only",
+            "assessment only",
+            "assessment only",
+            "assessment only"
+          ]
+        },
+        {
+          "value": "1.1 (0.7-1.6)",
+          "rowHeaders": [
+            "probability of follow-up",
+            "6-month",
+            "abstinence",
+            "Tailored letters versus brief"
+          ],
+          "columnHeaders": [
+            "assessment only",
+            "assessment only",
+            "assessment only",
+            "assessment only",
+            "assessment only"
+          ]
+        },
+        {
+          "value": "0.896",
+          "rowHeaders": [
+            "probability of follow-up",
+            "6-month",
+            "abstinence",
+            "Tailored letters versus brief"
+          ],
+          "columnHeaders": [
+            "assessment only",
+            "assessment only",
+            "assessment only",
+            "assessment only",
+            "assessment only"
+          ]
+        },
+        {
+          "value": "1.0 (0.7-1.6)",
+          "rowHeaders": [
+            "probability of follow-up",
+            "6-month",
+            "abstinence",
+            "Tailored letters versus brief"
+          ],
+          "columnHeaders": [
+            "assessment only",
+            "assessment only",
+            "assessment only",
+            "assessment only",
+            "assessment only"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "0.047,",
+          "rowHeaders": [
+            "analysis P =",
+            "Table 3:",
+            "crude",
+            "analysis",
+            "P ="
+          ],
+          "columnHeaders": []
+        },
+        {
+          "value": "0.037, 95% CI 1.0-2.0]. Differences approached sig-",
+          "rowHeaders": [
+            "P ="
+          ],
+          "columnHeaders": [
+            "95%",
+            "analysis"
+          ]
+        },
+        {
+          "value": "0.068, odds ratio (OR) =",
+          "rowHeaders": [
+            "analysis P ="
+          ],
+          "columnHeaders": [
+            "95%",
+            "1.0-1.9;"
+          ]
+        },
+        {
+          "value": "1.4 95% CI",
+          "rowHeaders": [
+            "analysis P ="
+          ],
+          "columnHeaders": [
+            "95%",
+            "adjusted"
+          ]
+        },
+        {
+          "value": "1.0-",
+          "rowHeaders": [
+            "analysis P ="
+          ],
+          "columnHeaders": [
+            "95%",
+            "analysis"
+          ]
+        },
+        {
+          "value": "1.9; adjusted analysis P =",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "95%",
+            "interval"
+          ]
+        },
+        {
+          "value": "0.063, OR =",
+          "rowHeaders": [
+            "analysis P ="
+          ],
+          "columnHeaders": [
+            "95%",
+            "1.0-1.9;"
+          ]
+        },
+        {
+          "value": "1.4, 95% CI",
+          "rowHeaders": [
+            "analysis P ="
+          ],
+          "columnHeaders": [
+            "95%",
+            "adjusted"
+          ]
+        },
+        {
+          "value": "1.0-",
+          "rowHeaders": [
+            "analysis P ="
+          ],
+          "columnHeaders": [
+            "95%",
+            "analysis"
+          ]
+        }
+      ],
+      "page": 1
+    }
+  ]
+}

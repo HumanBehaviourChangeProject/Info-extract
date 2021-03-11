@@ -1,0 +1,1075 @@
+{
+  "blocks": [
+    {
+      "type": "LINES",
+      "value": "the Department of Health Care Management",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "We recruited study participants from February 2005 through November 2006 among employees at company work sites throughout the United States. Potential participants were identified with the use of a survey that asked employees about their smoking habits, their use of other tobacco products, and their willingness to be contacted by researchers from the University of Pennsylvania about participation in a smoking-cessation study. These surveys were distributed through the firm's intranet and, at sites with high proportions of employees who did not have intranet access, through on-site recruiting. Employees were eligible to participate if they were at least 18 years of age and if they reported that they were currently smoking five or more cigarettes per day. Employees were not included in the study if they were currently using tobacco products other than cigarettes or if they planned to leave the firm within 18 months. All participants were followed for at least 12 months; only those with a confirmed negative result within the first 12 months on a cotinine test, a test that is used for biochemical verification of self-reported abstinence, were followed for an additional 6 months.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The protocol was approved by the institutional review board at the University of Pennsylvania, and all participants provided written informed consent before randomization. All study participants received information about community-based smoking-cessation resources within 20 miles of their work site, as well as the standard health benefits provided by the firm, such as coverage of physician visits and bupropion or other drugs prescribed to promote cessation of tobacco use. Participants in the incentive group were also informed that they would receive financial incentives for completion of a community-based smoking-cessation program ($100); for smoking cessation, confirmed with the use of a cotinine test, within 6 months after study enrollment ($250); and for continued abstinence for an additional 6 months after the initial cessation ($400).\nAll participants were contacted 3 months after enrollment and asked whether they had stopped smoking. Participants who reported complete abstinence (not even a puff of a cigarette) for at least 7 days before being contacted were interviewed so that we could obtain a more extensive assessment of smoking behavior. Participants who did not report complete abstinence were recontacted 3 months later (i.e., 6 months after enrollment) for the full follow-up assessment. Six months after completing their first full interview (i.e., at 9 months for those who reported quitting at 3 months; at 12 months for those who were interviewed at 6 months), everyone was interviewed again. Participants who reported during any follow-up interview that they had stopped smoking were asked to provide a saliva or urine sample for confirmation of smoking cessation with the use of a cotinine test. Participants with negative results of cotinine tests at both the interview conducted at 3 or 6 months and the interview conducted at 9 or 12 months were also interviewed 12 months after completion of their initial full interview (i.e., at 15 or 18 months).\nParticipants received $20 per interview for participating in telephone interviews at baseline, at 3 or 6 months, at 9 or 12 months, and at 15 or 18 months. After each interview, participants who reported that they had stopped smoking received $25 for submitting a sample for biochemical verification of the cotinine level.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Participants were randomly assigned to a study group after they provided informed consent. Randomization was performed in permuted blocks of four and was stratified according to work site, income (<200%, 200 to 500%, or >500% of the federal poverty level, which was $9,800 fora single person and $20,000 fora family of four in 2006), and heavy or nonheavy smoking (with heavy smoking defined as two or more packs of cigarettes per day). The randomized assignments were concealed until all eligibility criteria had been entered in an electronic tracking system; however, blinding could not be maintained after this point because of the nature of the intervention.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The primary endpoint was the participant's selfreport of abstinence at both 3 and 9 months or at both 6 and 12 months after study enrollment. Abstinence was biochemically confirmed by a negative result of a cotinine test performed on a saliva or urine sample. Self-reported continuous abstinence from all tobacco products was defined as abstinence fora minimum of 7 days before the 3-or 6-month interview (point prevalence) and abstinence for the duration of the period from the 3-or 6-month interview to the 9-or 12-month interview (prevalence of prolonged abstinence).\nSecondary end points included enrollment in a smoking-cessation program; completion of a smoking-cessation program; rates of smoking cessation within 6 months after study enrollment; and rates of smoking cessation at 3, 9, and 15 months or 6, 12, and 18 months after study enrollment. Participants were classified as having completed the smoking-cessation program if they provided a certificate of completion from the sponsoring organization.\nAll follow-up assessments were conducted with the use of a telephone interview. Self-reported cessation was verified by saliva cotinine tests (with a cotinine level of <15 ng per milliliter considered to bean indication of smoking cessation) 12 or by urine cotinine tests (with a level of <2 ng per milliliter considered to bean indication of smoking cessation). 13 Urine cotinine tests were used only in the case of participants who were using nicotine-replacement therapy, in whom testing of anabasine and anatabine levels in the urine was performed. Participants who reported abstinence but who had saliva or urine cotinine levels above the cutoff points were classified as smokers. Participants who were lost to follow-up were classified as relapsed smokers. The collection of samples was coordinated by the study staff in conjunction with the healthpromotion staff at the firm and, at small work sites that did not have onsite health facilities, through contract with Examination Management Services (Scottsdale, AZ). Participants' identities were confirmed and samples were analyzed at the Clinical Pharmacology Laboratory at the University of California, San Francisco.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The pretreatment level of nicotine dependence was assessed according to the number of cigarettes smoked per day, the number of years of smoking, and the score on the Fagerström Test for Nicotine Dependence (which has a range of 0 to 10, with higher scores indicating more nicotine dependence); participants with a score of 6 or greater were classified as highly dependent on nicotine. We also collected information on income, work site, baseline health status, and interest in quitting, as measured by baseline readiness to stop smoking (i.e., the \"stage of change,\" as defined by DiClemente et al. and Prochaska et al. ).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The primary analysis was an unadjusted intentionto-treat analysis of the difference in biochemically confirmed cessation rates between the incentive and control groups at both 3 and 9 months or at both 6 and 12 months. The analysis was performed with the use of Pearson's chi-square test, or with the use of Fisher's exact test, if there were five or fewer participants per cell. We used a similar approach to estimate differences in rates of cessation within 6 months after enrollment; rates of enrollment in and completion of smoking-cessation programs; and cessation rates at 3, 9, and 15 months or 6, 12, and 18 months after study enrollment. Unadjusted odds ratios for cessation were estimated and were compared with odds ratios that were adjusted for the stratification variables (work site, degree of nicotine dependence, and income) as well as the set of baseline covariates shown in; variable-selection methods were not applied. The similarity of the study groups with respect to covariates at baseline was analyzed by the chi-square test for categorical variables and the Student's t-test or Wilcoxon rank-sum test for continuous variables, as appropriate.\nAlthough subgroup analyses were not prespeci-  fied, we looked at cessation rates in subgroups that were defined by seven baseline variables: sex, income (<200%, 200 to 500%, and >500% of the federal poverty level), heavy smoking (≥2 packs per day) or nonheavy smoking, number of previous attempts to quit (0 to 2, 3 or 4, or ≥5), stage of quitting as defined by (precontemplation, contemplation, or preparation), selfassessed health (poor, fair, good, very good, or excellent), and nicotine dependence as assessed by the score on the Fagerström Test for Nicotine Dependence (<6 or ≥6). The homogeneity of the association (i.e., interaction) between the group assignment and cessation rates across subgroups was assessed with the use of the Cochran-MantelHaenszel test. Within each subgroup, rates of cessation in the incentive and control groups were compared with the use of chi-square tests. Our power calculations were based on expected 12-month cessation rates of 3.0% in the control group and 9.4% in the incentive group. To have 80% power to show a difference between groups, with a 1% two-sided type I error, we needed to have 360 participants in each group; we increased that number by 15%, to 425 in each group, to account for loss to follow-up resulting from expected employee turnover. No interim analyses were planned or conducted. All reported P values are two-sided and were not adjusted for multiple comparisons.\nR esult s shows the numbers of subjects who were screened and who participated in the study intervention and follow-up. Of the 1903 people who initially expressed interest in participating, 878 (46%) were enrolled; 436 participants were randomly assigned to the incentive group, and 442 to the control group. Demographic characteristics, smoking behavior, degree of nicotine dependence, readiness to quit, and health status were similar in the incentive and control groups. Participants in both groups smoked approximately one pack of cigarettes per day, and approximately 5 to 6% of the participants were heavy smokers. The majority of the sample had incomes that were greater than 500% of the poverty level, and ap- proximately 90% of the participants were white. A similar number of participants in the incentive and control groups were lost to follow-up or withdrew in the first 6 months (66 and 59 participants, respectively; P = 0.45) and through month 12 (56 and 47, respectively; P = 0.25). The 9-month or 12-month rate of cessation, as confirmed by cotinine testing, was 14.7% in the incentive group, as compared with 5.0% in the control group (P<0.001) (. In both the incentive group and the control group, very few of the participants who reported that they had quit smoking did not submit samples for testing (0.5% and 1.1%, respectively), and no participants who submitted samples had positive test results. The rate of participation in a smoking-cessation program was significantly higher in the incentive group than in the control group (15.4% vs. 5.4%, P<0.001), and a significantly higher percentage of incentive-group participants completed a smoking-cessation program (10.8% vs. 2.5%, P<0.001). Members of the incentive group who participated in a smoking-cessation program had significantly higher rates of cessation than did members of the control group who participated in such a program (46.3% vs. 20.8%, P = 0.03).\nThe cotinine-confirmed cessation rate within 6 months after study enrollment was 20.9% in the incentive group, as compared with 11.8% in the control group (P<0.001). The cessation rate at 15 or 18 months was 9.4% in the incentive group, as compared with 3.6% in the control group (P = 0.001). Among participants who had not stopped smoking in the first 6 months -and Odds Ratio for Cessation (log scale)  Stage of change refers to the smoker's readiness to quit, as defined by DiClemente et al. and Prochaska et al. The Fagerström Test for Nicotine Dependence 14 has a range of 0 to 10, with higher scores indicating greater nicotine dependence; a score of 6 or more was used to classify participants as highly dependent on nicotine. 15\nThe New England Journal of Medicine Downloaded from nejm.org at University of Aberdeen on December 7, 2015. For personal use only. No other uses without permission.\nCopyright © 2009 Massachusetts Medical Society. All rights reserved.\nthus were ineligible for financial incentivesthe cotinine-confirmed cessation rates were similar in the incentive and control groups (4.1% and 5.9%, respectively; P = 0.29).\nThe odds ratios for quitting by 9 or 12 months were significantly higher in the incentive group than in the control group in the unadjusted model (odds ratio, 3.28; 95% confidence interval [CI], 1.98 to 5.44), in a logistic-regression model that adjusted for stratification variables only (odds ratio, 3.19; 95% CI, 1.91 to, and in a model that adjusted for all the variables included in (odds ratio, 3.16; 95% CI, 1.88 to 5.32).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Figure 2 shows 9-month or 12-month cessation rates stratified according to subgroup. For all subgroups, members of the incentive group had higher cessation rates than members of the control group. None of the tests for interaction showed significant differences in this population; instead, the observed patterns showed a consistent effect of the intervention across numerous characteristics.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "In this study of employees at a large corporation, rates of prolonged abstinence from smoking after 9 or 12 months of follow-up were 14.7% in the group that was eligible for financial incentives and 5.0% in the control group. Rates of prolonged abstinence at 15 or 18 months in the incentive group remained significantly higher than those in the control group.\nA 2005 Cochrane Collaboration review of financial incentives for smoking cessation in workplace settings concluded that there was insufficient evidence that these incentives are effective. One reason for this finding maybe that many previous studies were not designed with samples that were large enough to detect the differences we observed. A second reason maybe that the incentives used in previous studies have generally been small (as little as $10 in some of them). Studies have shown that financial-incentive programs are associated with an increased rate of smoking cessation in the short term, but the programs reported in these studies were not designed to focus on sustaining high rates overtime. The relationships of the size and structure of incentive payments to rates of smoking cessation remain important empirical questions that need to be addressed in future research. It is possible that larger -or smaller -payments by employers could be more cost-effective in improving smoking-cessation rates. The optimal design of incentive programs for smoking cessation is also an open question, since extension of the incentives beyond 12 months may result in higher cessation rates over a longer period.\nThe cotinine level, which we used for biochemical verification of 7-day abstinence, is considered to be the best biomarker of smoking cessation. 12 Consistent with the recommendations of the Society for Research on Nicotine and Tobacco, our primary measure of self-reported cessation at both 9 or 12 months and 15 or 18 months was prolonged abstinence. 12 Although prolonged abstinence can be biochemically verified only indirectly because of the limitations of the cotinine test, it is likely that the point prevalence is highly correlated with prolonged abstinence 6 months after short-term quitting was assessed. To date, financial incentives within healthcare settings have been directed primarily toward providers, through Pay for Performance (P4P) programs. However, given that up to 40% of premature deaths in the United States are due to unhealthful behaviors such as smoking, poor dietary habits, and sedentary lifestyles, 18 incentives directed toward patients rather than providers may have greater potential for changing health behaviors. One approach to encouraging smoking cessation would be to adjust health-insurance premiums on the basis of smoking status; however, targeted payments for smoking cessation have the advantage of being unbundled from health-insurance premiums and thus maybe more salient to people, thereby having a greater influence on behavior. The financial benefit to employers of having their employees stop smoking is estimated to be about $3,400 per year 23 as a result of increased productivity, decreased absenteeism, and a reduced incidence of illness. There is also strong evidence that employees prefer to work for firms that offer effective and attractive benefit programs. However, few employers offer full coverage of smoking-cessation services or cessation programs in the workplace, 8,25,26 partly because a compelling \"business case\" for such coverage has not been made. Notably, neither the financial-incentive intervention nor the control intervention in our study included the establishment of a smoking-cessation program; both interventions merely encouraged participants to use existing programs. The literature on smoking cessation suggests that most relapses occur within the first month of cessation, that approximately 90% of relapses occur within the first 6 months, and that the likelihood of continuous abstinence over a 20-month period is about 95% for smokers who quit for 1 year or longer. Our finding of relapse rates between the 9-or 12-month visit and the 15-or 18-month visit (27.3% in the control group and 35.9% in the incentive group) that appear to be higher than those reported in the literature may suggest that relapse rates differ according to whether smoking cessation occurs in the presence or absence of incentives. However, since the relapse rates in both the incentive and control groups differ from those in the literature, and in view of the relatively small number of participants in our study who quit smoking, we cannot be confident that the relapse rates do in fact differ from those previously reported.\nBecause approximately 90% of the enrolled population was white and the participants had relatively high education and income levels, our study may have limited generalizability to employees with lower socioeconomic status than that of the participants in our study or to members of a minority racial or ethnic group. In addition, programs that are designed to change behavior may have unintended consequences that we could not observe in our study. However, we think it is unlikely that substantial numbers of people would start smoking in order to be eligible for such incentive programs. Studies such as this one are subject to selection bias, in that smokers who voluntarily enroll in these programs maybe more likely (whether they are assigned to the incentive group or the control group) to quit smoking; it is difficult to project how effective these programs would be in a population that included all employees within a given company.\nIn summary, this study shows that smokingcessation rates among company employees who were given both information about cessation programs and financial incentives to quit smoking were significantly higher than the rates among employees who were given program information but no financial incentives.\n",
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "44.4",
+          "rowHeaders": [
+            "Mean age (yr)",
+            "Some college or completion of college"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of the Study Participants.*",
+            "Control Group",
+            "(N = 442)"
+          ]
+        },
+        {
+          "value": "45.5",
+          "rowHeaders": [
+            "Mean age (yr)",
+            "Some college or completion of college"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of the Study Participants.*",
+            "Incentive Group",
+            "(N = 436)"
+          ]
+        },
+        {
+          "value": "64.9",
+          "rowHeaders": [
+            "Male sex (%)",
+            "Some college or completion of college"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of the Study Participants.*",
+            "Control Group",
+            "(N = 442)"
+          ]
+        },
+        {
+          "value": "65.6",
+          "rowHeaders": [
+            "Male sex (%)",
+            "Some college or completion of college"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of the Study Participants.*",
+            "Incentive Group",
+            "(N = 436)"
+          ]
+        },
+        {
+          "value": "89.3",
+          "rowHeaders": [
+            "Some college or completion of college"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of the Study Participants.*",
+            "Control Group",
+            "(N = 442)"
+          ]
+        },
+        {
+          "value": "91.5",
+          "rowHeaders": [
+            "Some college or completion of college"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of the Study Participants.*",
+            "Incentive Group",
+            "(N = 436)"
+          ]
+        },
+        {
+          "value": "5.2",
+          "rowHeaders": [
+            "Some college or completion of college"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of the Study Participants.*",
+            "Control Group",
+            "(N = 442)"
+          ]
+        },
+        {
+          "value": "4.4",
+          "rowHeaders": [
+            "Some college or completion of college"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of the Study Participants.*",
+            "Incentive Group",
+            "(N = 436)"
+          ]
+        },
+        {
+          "value": "4.1",
+          "rowHeaders": [
+            "Some college or completion of college"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of the Study Participants.*",
+            "Control Group",
+            "(N = 442)"
+          ]
+        },
+        {
+          "value": "4.1",
+          "rowHeaders": [
+            "Some college or completion of college"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of the Study Participants.*",
+            "Incentive Group",
+            "(N = 436)"
+          ]
+        },
+        {
+          "value": "5.4",
+          "rowHeaders": [
+            "Some college or completion of college"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of the Study Participants.*",
+            "Control Group",
+            "(N = 442)"
+          ]
+        },
+        {
+          "value": "4.1",
+          "rowHeaders": [
+            "Some college or completion of college"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of the Study Participants.*",
+            "Incentive Group",
+            "(N = 436)"
+          ]
+        },
+        {
+          "value": "25.6",
+          "rowHeaders": [
+            "High school or lower"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of the Study Participants.*",
+            "Control Group",
+            "(N = 442)"
+          ]
+        },
+        {
+          "value": "25.2",
+          "rowHeaders": [
+            "High school or lower"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of the Study Participants.*",
+            "Incentive Group",
+            "(N = 436)"
+          ]
+        },
+        {
+          "value": "39.6",
+          "rowHeaders": [
+            "Some college or completion of college"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of the Study Participants.*",
+            "Control Group",
+            "(N = 442)"
+          ]
+        },
+        {
+          "value": "40.8",
+          "rowHeaders": [
+            "Some college or completion of college"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of the Study Participants.*",
+            "Incentive Group",
+            "(N = 436)"
+          ]
+        },
+        {
+          "value": "34.8",
+          "rowHeaders": [
+            "Beyond college"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of the Study Participants.*",
+            "Control Group",
+            "(N = 442)"
+          ]
+        },
+        {
+          "value": "33.9",
+          "rowHeaders": [
+            "Beyond college"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of the Study Participants.*",
+            "Incentive Group",
+            "(N = 436)"
+          ]
+        },
+        {
+          "value": "1.6",
+          "rowHeaders": [
+            "<200% of the poverty level"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of the Study Participants.*",
+            "Control Group",
+            "(N = 442)"
+          ]
+        },
+        {
+          "value": "1.8",
+          "rowHeaders": [
+            "<200% of the poverty level"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of the Study Participants.*",
+            "Incentive Group",
+            "(N = 436)"
+          ]
+        },
+        {
+          "value": "34.6",
+          "rowHeaders": [
+            "200-500% of the poverty level"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of the Study Participants.*",
+            "Control Group",
+            "(N = 442)"
+          ]
+        },
+        {
+          "value": "32.1",
+          "rowHeaders": [
+            "200-500% of the poverty level"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of the Study Participants.*",
+            "Incentive Group",
+            "(N = 436)"
+          ]
+        },
+        {
+          "value": "63.8",
+          "rowHeaders": [
+            ">500% of the poverty level"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of the Study Participants.*",
+            "Control Group",
+            "(N = 442)"
+          ]
+        },
+        {
+          "value": "66.1",
+          "rowHeaders": [
+            ">500% of the poverty level"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of the Study Participants.*",
+            "Incentive Group",
+            "(N = 436)"
+          ]
+        },
+        {
+          "value": "19.7",
+          "rowHeaders": [
+            "Mean cigarettes per day (no.)"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of the Study Participants.*",
+            "Control Group",
+            "(N = 442)"
+          ]
+        },
+        {
+          "value": "20.1",
+          "rowHeaders": [
+            "Mean cigarettes per day (no.)"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of the Study Participants.*",
+            "Incentive Group",
+            "(N = 436)"
+          ]
+        },
+        {
+          "value": "6.1",
+          "rowHeaders": [
+            "Smoking >2 packs per day (%)"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of the Study Participants.*",
+            "Control Group",
+            "(N = 442)"
+          ]
+        },
+        {
+          "value": "5.1",
+          "rowHeaders": [
+            "Smoking >2 packs per day (%)"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of the Study Participants.*",
+            "Incentive Group",
+            "(N = 436)"
+          ]
+        },
+        {
+          "value": "6.7",
+          "rowHeaders": [
+            "Mean previous attempts to quit (no.)"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of the Study Participants.*",
+            "Control Group",
+            "(N = 442)"
+          ]
+        },
+        {
+          "value": "5.7",
+          "rowHeaders": [
+            "Mean previous attempts to quit (no.)"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of the Study Participants.*",
+            "Incentive Group",
+            "(N = 436)"
+          ]
+        },
+        {
+          "value": "15.6",
+          "rowHeaders": [
+            "Precontemplation"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of the Study Participants.*",
+            "Control Group",
+            "(N = 442)"
+          ]
+        },
+        {
+          "value": "15.1",
+          "rowHeaders": [
+            "Precontemplation"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of the Study Participants.*",
+            "Incentive Group",
+            "(N = 436)"
+          ]
+        },
+        {
+          "value": "63.8",
+          "rowHeaders": [
+            "Contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of the Study Participants.*",
+            "Control Group",
+            "(N = 442)"
+          ]
+        },
+        {
+          "value": "67.0",
+          "rowHeaders": [
+            "Contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of the Study Participants.*",
+            "Incentive Group",
+            "(N = 436)"
+          ]
+        },
+        {
+          "value": "20.6",
+          "rowHeaders": [
+            "Preparation"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of the Study Participants.*",
+            "Control Group",
+            "(N = 442)"
+          ]
+        },
+        {
+          "value": "17.9",
+          "rowHeaders": [
+            "Preparation"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of the Study Participants.*",
+            "Incentive Group",
+            "(N = 436)"
+          ]
+        },
+        {
+          "value": "2.0",
+          "rowHeaders": [
+            "Poor"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of the Study Participants.*",
+            "Control Group",
+            "(N = 442)"
+          ]
+        },
+        {
+          "value": "1.2",
+          "rowHeaders": [
+            "Poor"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of the Study Participants.*",
+            "Incentive Group",
+            "(N = 436)"
+          ]
+        },
+        {
+          "value": "9.3",
+          "rowHeaders": [
+            "Fair"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of the Study Participants.*",
+            "Control Group",
+            "(N = 442)"
+          ]
+        },
+        {
+          "value": "8.5",
+          "rowHeaders": [
+            "Fair"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of the Study Participants.*",
+            "Incentive Group",
+            "(N = 436)"
+          ]
+        },
+        {
+          "value": "32.1",
+          "rowHeaders": [
+            "Good"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of the Study Participants.*",
+            "Control Group",
+            "(N = 442)"
+          ]
+        },
+        {
+          "value": "33.7",
+          "rowHeaders": [
+            "Good"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of the Study Participants.*",
+            "Incentive Group",
+            "(N = 436)"
+          ]
+        },
+        {
+          "value": "45.9",
+          "rowHeaders": [
+            "Very good"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of the Study Participants.*",
+            "Control Group",
+            "(N = 442)"
+          ]
+        },
+        {
+          "value": "42.7",
+          "rowHeaders": [
+            "Very good"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of the Study Participants.*",
+            "Incentive Group",
+            "(N = 436)"
+          ]
+        },
+        {
+          "value": "10.6",
+          "rowHeaders": [
+            "Excellent"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of the Study Participants.*",
+            "Control Group",
+            "(N = 442)"
+          ]
+        },
+        {
+          "value": "14.0",
+          "rowHeaders": [
+            "Excellent"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of the Study Participants.*",
+            "Incentive Group",
+            "(N = 436)"
+          ]
+        },
+        {
+          "value": "68.1",
+          "rowHeaders": [
+            "<6"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of the Study Participants.*",
+            "Control Group",
+            "(N = 442)"
+          ]
+        },
+        {
+          "value": "66.5",
+          "rowHeaders": [
+            "<6"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of the Study Participants.*",
+            "Incentive Group",
+            "(N = 436)"
+          ]
+        },
+        {
+          "value": "31.9",
+          "rowHeaders": [
+            "≥6"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of the Study Participants.*",
+            "Control Group",
+            "(N = 442)"
+          ]
+        },
+        {
+          "value": "33.5",
+          "rowHeaders": [
+            "≥6"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of the Study Participants.*",
+            "Incentive Group",
+            "(N = 436)"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "24 (5.4)",
+          "rowHeaders": [
+            "Participation in program"
+          ],
+          "columnHeaders": [
+            "Table 2. Smoking-Cessation End Points According to Group Assignment.*",
+            "Control Group",
+            "(N = 442)"
+          ]
+        },
+        {
+          "value": "67 (15.4)",
+          "rowHeaders": [
+            "Participation in program",
+            "9 (2.0)"
+          ],
+          "columnHeaders": [
+            "Table 2. Smoking-Cessation End Points According to Group Assignment.*",
+            "Incentive Group",
+            "(N = 436)"
+          ]
+        },
+        {
+          "value": "<0.001",
+          "rowHeaders": [
+            "Participation in program",
+            "9 (2.0)",
+            "102 (23.4)"
+          ],
+          "columnHeaders": [
+            "Table 2. Smoking-Cessation End Points According to Group Assignment.*",
+            "Incentive Group",
+            "P Value"
+          ]
+        },
+        {
+          "value": "11 (2.5)",
+          "rowHeaders": [
+            "Completion of program"
+          ],
+          "columnHeaders": [
+            "Table 2. Smoking-Cessation End Points According to Group Assignment.*",
+            "Control Group",
+            "(N = 442)"
+          ]
+        },
+        {
+          "value": "47 (10.8)",
+          "rowHeaders": [
+            "Completion of program",
+            "9 (2.0)"
+          ],
+          "columnHeaders": [
+            "Table 2. Smoking-Cessation End Points According to Group Assignment.*",
+            "Incentive Group",
+            "(N = 436)"
+          ]
+        },
+        {
+          "value": "<0.001",
+          "rowHeaders": [
+            "Completion of program",
+            "9 (2.0)",
+            "102 (23.4)"
+          ],
+          "columnHeaders": [
+            "Table 2. Smoking-Cessation End Points According to Group Assignment.*",
+            "Incentive Group",
+            "P Value"
+          ]
+        },
+        {
+          "value": "62 (14.0)",
+          "rowHeaders": [
+            "Self-reported"
+          ],
+          "columnHeaders": [
+            "Table 2. Smoking-Cessation End Points According to Group Assignment.*",
+            "Control Group",
+            "(N = 442)"
+          ]
+        },
+        {
+          "value": "<0.001",
+          "rowHeaders": [
+            "Self-reported",
+            "9 (2.0)",
+            "102 (23.4)"
+          ],
+          "columnHeaders": [
+            "Table 2. Smoking-Cessation End Points According to Group Assignment.*",
+            "Incentive Group",
+            "P Value"
+          ]
+        },
+        {
+          "value": "52 (11.8)",
+          "rowHeaders": [
+            "Confirmed"
+          ],
+          "columnHeaders": [
+            "Table 2. Smoking-Cessation End Points According to Group Assignment.*",
+            "Control Group",
+            "(N = 442)"
+          ]
+        },
+        {
+          "value": "91 (20.9)",
+          "rowHeaders": [
+            "Confirmed",
+            "9 (2.0)"
+          ],
+          "columnHeaders": [
+            "Table 2. Smoking-Cessation End Points According to Group Assignment.*",
+            "Incentive Group",
+            "(N = 436)"
+          ]
+        },
+        {
+          "value": "<0.001",
+          "rowHeaders": [
+            "Confirmed",
+            "9 (2.0)",
+            "102 (23.4)"
+          ],
+          "columnHeaders": [
+            "Table 2. Smoking-Cessation End Points According to Group Assignment.*",
+            "Incentive Group",
+            "P Value"
+          ]
+        },
+        {
+          "value": "0.79",
+          "rowHeaders": [
+            "No sample submitted",
+            "9 (2.0)",
+            "9 (2.1)"
+          ],
+          "columnHeaders": [
+            "Table 2. Smoking-Cessation End Points According to Group Assignment.*",
+            "Incentive Group",
+            "P Value"
+          ]
+        },
+        {
+          "value": "0.56",
+          "rowHeaders": [
+            "Positive sample submitted",
+            "1 (0.2)",
+            "2 (0.5)"
+          ],
+          "columnHeaders": [
+            "Table 2. Smoking-Cessation End Points According to Group Assignment.*",
+            "Incentive Group",
+            "P Value"
+          ]
+        },
+        {
+          "value": "12 mo",
+          "rowHeaders": [
+            "through 9 or"
+          ],
+          "columnHeaders": [
+            "Table 2. Smoking-Cessation End Points According to Group Assignment.*",
+            "Control Group",
+            "End Point"
+          ]
+        },
+        {
+          "value": "27 (6.1)",
+          "rowHeaders": [
+            "Self-reported"
+          ],
+          "columnHeaders": [
+            "Table 2. Smoking-Cessation End Points According to Group Assignment.*",
+            "Control Group",
+            "(N = 442)"
+          ]
+        },
+        {
+          "value": "66 (15.1)",
+          "rowHeaders": [
+            "Self-reported",
+            "5 (1.1)"
+          ],
+          "columnHeaders": [
+            "Table 2. Smoking-Cessation End Points According to Group Assignment.*",
+            "Incentive Group",
+            "(N = 436)"
+          ]
+        },
+        {
+          "value": "0.002",
+          "rowHeaders": [
+            "Self-reported",
+            "5 (1.1)",
+            "2 (0.5)"
+          ],
+          "columnHeaders": [
+            "Table 2. Smoking-Cessation End Points According to Group Assignment.*",
+            "Incentive Group",
+            "P Value"
+          ]
+        },
+        {
+          "value": "22 (5.0)",
+          "rowHeaders": [
+            "Confirmed"
+          ],
+          "columnHeaders": [
+            "Table 2. Smoking-Cessation End Points According to Group Assignment.*",
+            "Control Group",
+            "(N = 442)"
+          ]
+        },
+        {
+          "value": "64 (14.7)",
+          "rowHeaders": [
+            "Confirmed",
+            "5 (1.1)"
+          ],
+          "columnHeaders": [
+            "Table 2. Smoking-Cessation End Points According to Group Assignment.*",
+            "Incentive Group",
+            "(N = 436)"
+          ]
+        },
+        {
+          "value": "<0.001",
+          "rowHeaders": [
+            "Confirmed",
+            "5 (1.1)",
+            "2 (0.5)"
+          ],
+          "columnHeaders": [
+            "Table 2. Smoking-Cessation End Points According to Group Assignment.*",
+            "Incentive Group",
+            "P Value"
+          ]
+        },
+        {
+          "value": "0.06",
+          "rowHeaders": [
+            "No sample submitted",
+            "5 (1.1)",
+            "2 (0.5)"
+          ],
+          "columnHeaders": [
+            "Table 2. Smoking-Cessation End Points According to Group Assignment.*",
+            "Incentive Group",
+            "P Value"
+          ]
+        },
+        {
+          "value": "21 (4.8)",
+          "rowHeaders": [
+            "Self-reported relapse"
+          ],
+          "columnHeaders": [
+            "Table 2. Smoking-Cessation End Points According to Group Assignment.*",
+            "Control Group",
+            "(N = 442)",
+            "0"
+          ]
+        },
+        {
+          "value": "21 (4.8)",
+          "rowHeaders": [
+            "Self-reported relapse",
+            "5 (1.1)"
+          ],
+          "columnHeaders": [
+            "Table 2. Smoking-Cessation End Points According to Group Assignment.*",
+            "Incentive Group",
+            "(N = 436)",
+            "0"
+          ]
+        },
+        {
+          "value": "0.96",
+          "rowHeaders": [
+            "Self-reported relapse",
+            "5 (1.1)",
+            "2 (0.5)"
+          ],
+          "columnHeaders": [
+            "Table 2. Smoking-Cessation End Points According to Group Assignment.*",
+            "Incentive Group",
+            "P Value",
+            "0"
+          ]
+        },
+        {
+          "value": "15 or",
+          "rowHeaders": [
+            "Continued abstinence at"
+          ],
+          "columnHeaders": [
+            "Table 2. Smoking-Cessation End Points According to Group Assignment.*",
+            "Control Group",
+            "End Point",
+            "Positive sample submitted"
+          ]
+        },
+        {
+          "value": "18 mo among participants",
+          "rowHeaders": [
+            "Continued abstinence at"
+          ],
+          "columnHeaders": [
+            "Table 2. Smoking-Cessation End Points According to Group Assignment.*",
+            "Control Group",
+            "(N = 442)",
+            "Positive sample submitted"
+          ]
+        },
+        {
+          "value": "12 mo",
+          "rowHeaders": [
+            "through 9 or"
+          ],
+          "columnHeaders": [
+            "Table 2. Smoking-Cessation End Points According to Group Assignment.*",
+            "Control Group",
+            "End Point",
+            "Positive sample submitted"
+          ]
+        },
+        {
+          "value": "17 (3.8)",
+          "rowHeaders": [
+            "Self-reported"
+          ],
+          "columnHeaders": [
+            "Table 2. Smoking-Cessation End Points According to Group Assignment.*",
+            "Control Group",
+            "(N = 442)",
+            "0"
+          ]
+        },
+        {
+          "value": "47 (10.8)",
+          "rowHeaders": [
+            "Self-reported",
+            "1 (0.2)"
+          ],
+          "columnHeaders": [
+            "Table 2. Smoking-Cessation End Points According to Group Assignment.*",
+            "Incentive Group",
+            "(N = 436)",
+            "0"
+          ]
+        },
+        {
+          "value": "<0.001",
+          "rowHeaders": [
+            "Self-reported",
+            "1 (0.2)",
+            "6 (1.4)"
+          ],
+          "columnHeaders": [
+            "Table 2. Smoking-Cessation End Points According to Group Assignment.*",
+            "Incentive Group",
+            "P Value",
+            "0"
+          ]
+        },
+        {
+          "value": "16 (3.6)",
+          "rowHeaders": [
+            "Confirmed"
+          ],
+          "columnHeaders": [
+            "Table 2. Smoking-Cessation End Points According to Group Assignment.*",
+            "Control Group",
+            "(N = 442)",
+            "0"
+          ]
+        },
+        {
+          "value": "41 (9.4)",
+          "rowHeaders": [
+            "Confirmed",
+            "1 (0.2)"
+          ],
+          "columnHeaders": [
+            "Table 2. Smoking-Cessation End Points According to Group Assignment.*",
+            "Incentive Group",
+            "(N = 436)",
+            "0"
+          ]
+        },
+        {
+          "value": "<0.001",
+          "rowHeaders": [
+            "Confirmed",
+            "1 (0.2)",
+            "6 (1.4)"
+          ],
+          "columnHeaders": [
+            "Table 2. Smoking-Cessation End Points According to Group Assignment.*",
+            "Incentive Group",
+            "P Value",
+            "0"
+          ]
+        },
+        {
+          "value": "0.03",
+          "rowHeaders": [
+            "No sample submitted",
+            "1 (0.2)",
+            "6 (1.4)"
+          ],
+          "columnHeaders": [
+            "Table 2. Smoking-Cessation End Points According to Group Assignment.*",
+            "Incentive Group",
+            "P Value",
+            "0"
+          ]
+        },
+        {
+          "value": "12 (2.8)",
+          "rowHeaders": [
+            "Self-reported relapse",
+            "3 (0.7)"
+          ],
+          "columnHeaders": [
+            "Table 2. Smoking-Cessation End Points According to Group Assignment.*",
+            "Incentive Group",
+            "(N = 436)",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "value": "0.02",
+          "rowHeaders": [
+            "Self-reported relapse",
+            "3 (0.7)",
+            "6 (1.4)"
+          ],
+          "columnHeaders": [
+            "Table 2. Smoking-Cessation End Points According to Group Assignment.*",
+            "Incentive Group",
+            "P Value",
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "page": 1
+    }
+  ]
+}

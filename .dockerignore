@@ -1,8 +1,0 @@
-**
-
-!Dockerfile
-!data
-!target/*.war
-!*.properties
-!LICENSE
-!README.md
