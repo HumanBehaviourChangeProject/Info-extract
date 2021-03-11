@@ -1,4 +1,4 @@
-[![Build Status](https://travis.ibm.com/HBCP/hbcpIE.svg?token=R4PyCMkkeUjxsWk82XxR&branch=dev)](https://travis.ibm.com/HBCP/hbcpIE)
+[![Build Status](https://staging.travis-ci.com/HumanBehaviourChangeProject/Info-extract.svg?branch=master)](https://staging.travis-ci.com/HumanBehaviourChangeProject/Info-extract)
 
 # Human Behaviour Change Project (HBCP)
 
