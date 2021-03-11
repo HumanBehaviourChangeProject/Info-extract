@@ -1,0 +1,886 @@
+{
+  "blocks": [
+    {
+      "type": "LINES",
+      "value": "Original papers",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Background. Brief advice to stop smoking from general practitioners (GPs) has been repeatedly shown to increase smoking cessation by a small, but measurable amount. Some studies have suggested that adding more intensive interventions to brief advice may increase its effectiveness, but it is unclear whether this is true in general practice. Aims. To determine whether brief advice from a doctor together with counselling and follow-up from a trained practice nurse is more effective than brief advice alone in helping people to stop smoking. Methods. The design was a randomized controlled trial. Four hundred and ninety-seven general practice patients aged older than 18 years and smoking at least one cigarette per day in six general practices in Oxfordshire, Berkshire, and Buckinghamshire were randomized to one of two interventions: brief verbal or written advice from a GP plus extended counselling and follow-up from a trained practice nurse; brief advice from a GP alone. The primary outcome was sustained abstinence from smoking at three and 12 months. A secondary outcome was forward movement in the stages of change cycle. Results. The proportion showing sustained abstinence was 3.6% in the extended counselling group, and 4.4% in the brief advice group (difference =-0.8%; 95% confidence interval =-4.3% to 2.6%). Seventy-four (30%) of those ran-domized to extended counselling actually took up this offer. No significant progression in stages of change was detected between the two groups. Conclusions. In unselected general practice patients who smoke, brief advice from a GP combined with intensive intervention and follow-up by a practice nurse is no more effective than brief advice alone.",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "A LTHOUGH public health and legislative measures have great potential for reducing the prevalence of smoking, 1 there continues to be a need for assisting existing smokers to quit. When surveyed, the majority of smokers say they want to stop. For example, in the OXCHECK study of patients undergoing health checks in general practice, 76% of current smokers regarded their habit as harmful and said they would like to quit. Government health policy in the 1990s has given general practice much of the responsibility for advising and treating this population.\nPrevious research 3-5 has shown the potential of general practice to influence attempts to quit smoking. Questions remain, however, about the most effective and economical way of offering support for smoking cessation in primary care. Brief advice from GPs has a measurable, if small, effect on cessation rates, and is relatively easy to deliver. More intensive interventions have usually shown higher success rates, 5 but are difficult for doctors to implement and sustain.\nOne proposed solution has been to devolve smoking cessation and other preventive work to practice nurses, who maybe more oriented towards counselling and other techniques important in prevention. Recent research has shown little effect of smoking advice from nurses, given in the context of general health checks. 6-7 However, it is possible that the other health messages delivered in a general health check may have diluted the support for smoking cessation, and a more targeted approach maybe needed. Ina randomized trial in an American Health Maintenance Organization, an approach combining doctor and nurse intervention was more effective than brief doctor intervention alone. This trial targeted all patients consulting their physician in a large managed care practice. Brief advice from a physician produced a sustained quit rate of 3.9% at 12 months. This rate approximately doubled (to 7.2%) when advice was supplemented with various forms of nurse-run counselling. 8 This team approach proved sustainable and popular because it made very low demands on provider time, although the particular model used resources not available inmost British general practices.\nWe set out to determine whether supporting doctor advice with a nurse-run smoking cessation intervention would be similarly effective in British general practices.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "We conducted the study in six general practices in Oxfordshire, Buckinghamshire, and Berkshire. These practices had previously stated a willingness to participate in research. In each practice, one or more nurses undertook training in counselling smokers to quit. The training consisted of a full day of work with a counsellor trained in motivational techniques to assist quitting, and also included training in the use of nicotine replacement products. A trained research nurse provided continuing support to the practice nurses, visiting the practices at least monthly during the study.\nPatients aged over 18 years and smoking at least one cigarette per day were eligible to enter the study. They were recruited by various methods, including opportunistic recruitment of smokers attending surgery with unrelated complaints and letters to Randomized trial of nurse-assisted strategies for smoking cessation in primary care Original papers patients identified as smokers by practice records. These subjects received brief advice to quit from their doctor, either in person if recruited opportunistically, or by letter. They read a letter about the study and were asked to complete a questionnaire about their smoking habits if they were willing to enter the study. Those who completed the questionnaire were then randomized. An independent statistical adviser performed randomization from computer-generated random numbers. The allocations, in blocks of 20, were in sequential sealed, opaque envelopes opened by the research nurse at the time of recruitment.\nIn addition to verbal or written advice from a doctor, individuals randomized to the brief intervention were invited to contact the research nurse if they wished to discuss the study further. They also received the Health Education Authority leaflet Stopping smoking made easier, and a fact sheet on nicotine replacement therapy. Those randomized to extended counselling were invited to contact the trained practice nurse to undertake more intensive counselling tailored to their needs. At the initial visit, the nurse assessed their motivation to quit and their 'readiness to change'. They received a carbon monoxide breath test and a personalized message about the health benefits of quitting, and further intervention according to their personal needs. If appropriate, they were counselled about the difficulties they might face in stopping and were instructed in strategies to tackle them. Those ready to quit were encouraged to set a quit date and were scheduled fora follow-up visit. An assessment of nicotine dependence was made and advice given on nicotine replacement therapy. At follow-up visits, the nurse provided advice and support and monitored use of nicotine replacement. The minimum support provided was an initial 15-minute counselling session and the offer of one follow-up visit. For those wishing further support, up to five follow-up visits were offered. These were of 10 minutes each, in the six weeks following the initial visit.\nBiochemically validated smoking cessation at three and 12 months was the main endpoint. A shift in attitudes to stopping smoking, as judged by the stages of change model, 9 was a secondary outcome measure. In the stages of change model, smoking cessation is considered a five-stage process of pre-contemplation, contemplation, preparation, action, and maintenance. The process of cessation involves movement through this cycle, which may occur over prolonged periods of time. In some surveys, up to 80% of smokers have been in one of the pre-action stages. It has therefore been proposed that a smoking cessation intervention might be successful if it moved a smoker onto the next stage of the cycle, even if abstinence was not achieved. In order to determine whether the intervention had an effect on movement through this cycle, we asked three questions at baseline and follow-up. These questions had been used in a previous study to assess readiness to change 8 .\nThe sample size was calculated to detect, with 5% significance and 80% power, a 10% rate of sustained abstinence in the intensively counselled group. The assumed rate of sustained abstinence in the brief advice group was 3%. The target sample size was therefore 259 in each group.\nWe obtained ethical approval for the study from research ethics committees in the three health districts in which the study took place.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "We surveyed participants with postal questionnaires at three and 12 months after randomization, sending two reminders to nonresponders. We asked self-reported quitters to provide a saliva sample for cotinine estimation. Salivary cotinine estimations were performed in the laboratory of the Clinical Trials Service Unit, Oxford. We considered reported quitting to be validated if the salivary cotinine concentration was <113.5 nmol/l. Occupation was used to determine social class. The main statistical comparison was between the proportions with sustained abstinence between the two groups. The chisquared test was used to test for differences between proportions, and 95% confidence intervals were calculated. Analysis was on the basis of intention to treat, and all patients who agreed to participate were included in the analysis whether or not they accepted the offer of treatment. We assumed subjects who did not provide follow-up information to be continued smokers.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Four hundred and ninety-seven smokers were randomized within the study period. This number was just below the pre-specified sample size. Four hundred and four (81%) completed a follow-up questionnaire at three months and 374 (75%) at 12 months. shows the baseline characteristics of those randomized. The two groups were similar both in demographic characteristics and in smoking habit. shows the abstinence rates at three months and 12 months, together with the sustained abstinence rate (not smoking at both three and 12 months). There were no significant differences in the proportions at any of the time points. The proportion showing sustained abstinence was 3.6% in the extended counselling group and 4.4% in the brief advice group (difference = −0.8%; 95% confidence interval = −4.3% to 2.6%). Cotinine levels suggested that one self-reported quitter in each group was continuing to smoke. The adjusted quit rates were thus 2.8% in the extended counselling group and 4.0% in the brief intervention group. Thirty percent (n = 74) of those allocated to counselling actually made an appointment and followed up for treatment. Eight percent (n = 6) of these were successful quitters at 12-month follow-up. shows those individuals who moved to a more advanced stage of readiness to change during the course of the study. There were no significant differences between the groups in those moving closer to taking action. When all three groups were collapsed together to show any forward change, fewer changed in the extended counselling group (difference = −5.7%; −13.2% to 1.7%).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The value of follow-up to support smoking cessation in general practice has not been clear from previous research. Ina study that assessed smoking status by self-report alone, patients offered follow-up by their family physician had significantly higher quit rates; 13 however, other studies have not found a significant benefit of follow-up. Ina more recent study, the specific effects of adding four follow-up visits to two visits in motivated smokers was assessed using biochemically validated cessation. There was no significant difference between the two groups in rates of sustained abstinence atone year. The authors of this study noted that, had self-reported quitting been the outcome of this study, a benefit would have been shown. Smokers in whom more time has been invested maybe less likely to tell the truth about their perceived failure to comply with treatment. Our study similarly casts doubt on the value of routinely offering intensive interventions including follow-up: even by self-report, the effects of intensive intervention were no greater than brief advice.\nControlled evaluations of smoking cessation interventions in unselected general practice populations show small effects at best. These effects maybe worthwhile if the intervention is simple and costs little. This is the basis for the continuing efforts of GPs to mention and give brief advice about giving up smoking.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Original papers  Percentages are of the number randomized, assuming those lost to follow-up continued to smoke.  T Lancaster, W Dobbie, K Vos, et al Original papers\nMore intensive interventions maybe justified if the benefits are sufficiently great. Ina larger study, Hollis et al found that adding various forms of nurse-assisted counselling to brief physician advice produced a difference in quit rates of between 1% and 3.7%. 8 It is possible that we may have failed to detect a true effect of the more intensive intervention through type 2 error; however, the direction of the point estimates in our study do not support this. At worst, the confidence intervals suggest that our study could have failed to detect an effect of the intervention of up to 2.6% or 40 smokers who would have to be counselled and followed up to produce one quitter. Such an effect, even if present, would represent an expensive option for practices wishing to make best use of their team members.\nOur study differed from that of Hollis in another important way. In that study, run in a large American HMO, all patients received direct verbal advice from their doctor to quit smoking before randomization to other interventions. We piloted this strategy in several general practices; however, the practicalities of maintaining continuous recruitment during busy surgeries under different administrative structures proved unsustainable. To maintain recruitment, we had to combine opportunistic approaches with recruitment through a letter from the doctor to known smokers. Although this letter contained advice to stop, this may have been less forceful than face-to-face contact.\nThe individuals who participated in our study had varying levels of motivation to quit; however, they showed sufficient interest in stopping to fill out questionnaires and be randomized. Although 65% of smokers randomized to extended counselling indicated they were contemplating or preparing, to proceed with a quit plan, only 30% took up the offer of further help. Even among those who took up the offer, the quit rates were low. This study did not specifically set out to test smoking cessation tailored to the stages of change model; however, the training of the nurses did include discussion of this model, together with information about matching the needs of the individual to their current level of motivation. We found no evidence that intensive counselling had any greater effect than brief advice in advancing smokers' readiness to change.\nIntensive counselling maybe worthwhile fora few highlymotivated individuals who request help with stopping, but is unlikely to reach the majority of smokers -even when they say they want to stop. Our results do not favour devoting primary care resources to intensive smoking cessation interventions. It remains important, however, that healthcare professionals deliver a firm and consistent message about quitting to their smoking patients. Brief interventions, plus advice on nicotine replacement 17 when appropriate, remain the cornerstones of support for smoking cessation in primary care.\n",
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "43 (14.2)",
+          "rowHeaders": [
+            "Mean (SD)"
+          ],
+          "columnHeaders": [
+            "a",
+            "Extended counselling group",
+            "n = 249"
+          ]
+        },
+        {
+          "value": "44 (14.2)",
+          "rowHeaders": [
+            "Mean (SD)",
+            "(2.8)"
+          ],
+          "columnHeaders": [
+            "a",
+            "Brief intervention group",
+            "n = 248"
+          ]
+        },
+        {
+          "value": "11",
+          "rowHeaders": [
+            "I",
+            "7",
+            "(2.8)"
+          ],
+          "columnHeaders": [
+            "a",
+            "Brief intervention group",
+            "n = 248",
+            "128",
+            "120"
+          ]
+        },
+        {
+          "value": "79",
+          "rowHeaders": [
+            "II"
+          ],
+          "columnHeaders": [
+            "a",
+            "Extended counselling group",
+            "n = 249",
+            "111",
+            "138"
+          ]
+        },
+        {
+          "value": "79",
+          "rowHeaders": [
+            "II",
+            "(31.7)"
+          ],
+          "columnHeaders": [
+            "a",
+            "Brief intervention group",
+            "n = 248",
+            "128",
+            "120"
+          ]
+        },
+        {
+          "value": "44",
+          "rowHeaders": [
+            "III N"
+          ],
+          "columnHeaders": [
+            "a",
+            "Extended counselling group",
+            "n = 249",
+            "111",
+            "138"
+          ]
+        },
+        {
+          "value": "42",
+          "rowHeaders": [
+            "III N",
+            "(17.7)"
+          ],
+          "columnHeaders": [
+            "a",
+            "Brief intervention group",
+            "n = 248",
+            "128",
+            "120"
+          ]
+        },
+        {
+          "value": "43",
+          "rowHeaders": [
+            "III M"
+          ],
+          "columnHeaders": [
+            "a",
+            "Extended counselling group",
+            "n = 249",
+            "111",
+            "138"
+          ]
+        },
+        {
+          "value": "56",
+          "rowHeaders": [
+            "III M",
+            "(17.3)"
+          ],
+          "columnHeaders": [
+            "a",
+            "Brief intervention group",
+            "n = 248",
+            "128",
+            "120"
+          ]
+        },
+        {
+          "value": "38",
+          "rowHeaders": [
+            "IV"
+          ],
+          "columnHeaders": [
+            "a",
+            "Extended counselling group",
+            "n = 249",
+            "111",
+            "138"
+          ]
+        },
+        {
+          "value": "26",
+          "rowHeaders": [
+            "IV",
+            "(15.3)"
+          ],
+          "columnHeaders": [
+            "a",
+            "Brief intervention group",
+            "n = 248",
+            "128",
+            "120"
+          ]
+        },
+        {
+          "value": "11",
+          "rowHeaders": [
+            "V"
+          ],
+          "columnHeaders": [
+            "a",
+            "Extended counselling group",
+            "n = 249",
+            "111",
+            "138"
+          ]
+        },
+        {
+          "value": "27",
+          "rowHeaders": [
+            "Unclassified"
+          ],
+          "columnHeaders": [
+            "a",
+            "Extended counselling group",
+            "n = 249",
+            "111",
+            "138",
+            "(4.4)"
+          ]
+        },
+        {
+          "value": "27",
+          "rowHeaders": [
+            "Unclassified",
+            "(10.8)"
+          ],
+          "columnHeaders": [
+            "a",
+            "Brief intervention group",
+            "n = 248",
+            "128",
+            "120",
+            "7"
+          ]
+        },
+        {
+          "value": "79",
+          "rowHeaders": [
+            "Other"
+          ],
+          "columnHeaders": [
+            "a",
+            "Extended counselling group",
+            "n = 249",
+            "111",
+            "138",
+            "(4.4)",
+            "170"
+          ]
+        },
+        {
+          "value": "78",
+          "rowHeaders": [
+            "Other",
+            "(31.7)"
+          ],
+          "columnHeaders": [
+            "a",
+            "Brief intervention group",
+            "n = 248",
+            "128",
+            "120",
+            "7",
+            "170"
+          ]
+        },
+        {
+          "value": "17 (8.8)",
+          "rowHeaders": [
+            "Mean (SD)"
+          ],
+          "columnHeaders": [
+            "a",
+            "Extended counselling group",
+            "n = 249",
+            "(44.6)",
+            "(55.4)",
+            "(4.4)",
+            "(68.3)"
+          ]
+        },
+        {
+          "value": "17 (8.4)",
+          "rowHeaders": [
+            "Mean (SD)",
+            "(31.7)"
+          ],
+          "columnHeaders": [
+            "a",
+            "Brief intervention group",
+            "n = 248",
+            "(51.6)",
+            "(48.4)",
+            "(2.8)",
+            "(68.5)"
+          ]
+        },
+        {
+          "value": "2.3 (1)",
+          "rowHeaders": [
+            "Mean (SD)"
+          ],
+          "columnHeaders": [
+            "a",
+            "Extended counselling group",
+            "n = 249",
+            "(44.6)",
+            "(55.4)",
+            "(4.4)",
+            "(68.3)"
+          ]
+        },
+        {
+          "value": "2.3 (1)",
+          "rowHeaders": [
+            "Mean (SD)",
+            "(31.7)"
+          ],
+          "columnHeaders": [
+            "a",
+            "Brief intervention group",
+            "n = 248",
+            "(51.6)",
+            "(48.4)",
+            "(2.8)",
+            "(68.5)"
+          ]
+        },
+        {
+          "value": "3.5 (2.4)",
+          "rowHeaders": [
+            "Mean (SD)"
+          ],
+          "columnHeaders": [
+            "a",
+            "Extended counselling group",
+            "n = 249",
+            "(44.6)",
+            "(55.4)",
+            "(4.4)",
+            "(68.3)"
+          ]
+        },
+        {
+          "value": "3.5 (2.2)",
+          "rowHeaders": [
+            "Mean (SD)",
+            "(31.7)"
+          ],
+          "columnHeaders": [
+            "a",
+            "Brief intervention group",
+            "n = 248",
+            "(51.6)",
+            "(48.4)",
+            "(2.8)",
+            "(68.5)"
+          ]
+        },
+        {
+          "value": "88 (35)",
+          "rowHeaders": [
+            "to smoking n (%)"
+          ],
+          "columnHeaders": [
+            "a",
+            "Extended counselling group",
+            "n = 249",
+            "(44.6)",
+            "(55.4)",
+            "(4.4)",
+            "(68.3)"
+          ]
+        },
+        {
+          "value": "85 (34)",
+          "rowHeaders": [
+            "to smoking n (%)",
+            "(33.7)"
+          ],
+          "columnHeaders": [
+            "a",
+            "Brief intervention group",
+            "n = 248",
+            "(51.6)",
+            "(48.4)",
+            "(2.8)",
+            "(68.5)"
+          ]
+        },
+        {
+          "value": "84",
+          "rowHeaders": [
+            "Pre-contemplation"
+          ],
+          "columnHeaders": [
+            "a",
+            "Extended counselling group",
+            "n = 249",
+            "111",
+            "138",
+            "(4.4)",
+            "170",
+            "125 (50.2)",
+            "170 (68.3)"
+          ]
+        },
+        {
+          "value": "94",
+          "rowHeaders": [
+            "Pre-contemplation",
+            "(33.7)"
+          ],
+          "columnHeaders": [
+            "a",
+            "Brief intervention group",
+            "n = 248",
+            "128",
+            "120",
+            "7",
+            "170",
+            "116 (46.8)",
+            "168 (67.7)"
+          ]
+        },
+        {
+          "value": "48",
+          "rowHeaders": [
+            "Preparation"
+          ],
+          "columnHeaders": [
+            "a",
+            "Extended counselling group",
+            "n = 249",
+            "111",
+            "138",
+            "(4.4)",
+            "170",
+            "125 (50.2)",
+            "170 (68.3)",
+            "116"
+          ]
+        },
+        {
+          "value": "36",
+          "rowHeaders": [
+            "Preparation",
+            "(19.3)"
+          ],
+          "columnHeaders": [
+            "a",
+            "Brief intervention group",
+            "n = 248",
+            "128",
+            "120",
+            "7",
+            "170",
+            "116 (46.8)",
+            "168 (67.7)",
+            "116"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "43 (14.2)",
+          "rowHeaders": [
+            "Mean (SD)"
+          ],
+          "columnHeaders": [
+            "a",
+            "Extended counselling group",
+            "n = 249"
+          ]
+        },
+        {
+          "value": "44 (14.2)",
+          "rowHeaders": [
+            "Mean (SD)",
+            "(2.8)"
+          ],
+          "columnHeaders": [
+            "a",
+            "Brief intervention group",
+            "n = 248"
+          ]
+        },
+        {
+          "value": "11",
+          "rowHeaders": [
+            "I",
+            "7",
+            "(2.8)"
+          ],
+          "columnHeaders": [
+            "a",
+            "Brief intervention group",
+            "n = 248",
+            "128",
+            "120"
+          ]
+        },
+        {
+          "value": "79",
+          "rowHeaders": [
+            "II"
+          ],
+          "columnHeaders": [
+            "a",
+            "Extended counselling group",
+            "n = 249",
+            "111",
+            "138"
+          ]
+        },
+        {
+          "value": "79",
+          "rowHeaders": [
+            "II",
+            "(31.7)"
+          ],
+          "columnHeaders": [
+            "a",
+            "Brief intervention group",
+            "n = 248",
+            "128",
+            "120"
+          ]
+        },
+        {
+          "value": "44",
+          "rowHeaders": [
+            "III N"
+          ],
+          "columnHeaders": [
+            "a",
+            "Extended counselling group",
+            "n = 249",
+            "111",
+            "138"
+          ]
+        },
+        {
+          "value": "42",
+          "rowHeaders": [
+            "III N",
+            "(17.7)"
+          ],
+          "columnHeaders": [
+            "a",
+            "Brief intervention group",
+            "n = 248",
+            "128",
+            "120"
+          ]
+        },
+        {
+          "value": "43",
+          "rowHeaders": [
+            "III M"
+          ],
+          "columnHeaders": [
+            "a",
+            "Extended counselling group",
+            "n = 249",
+            "111",
+            "138"
+          ]
+        },
+        {
+          "value": "56",
+          "rowHeaders": [
+            "III M",
+            "(17.3)"
+          ],
+          "columnHeaders": [
+            "a",
+            "Brief intervention group",
+            "n = 248",
+            "128",
+            "120"
+          ]
+        },
+        {
+          "value": "38",
+          "rowHeaders": [
+            "IV"
+          ],
+          "columnHeaders": [
+            "a",
+            "Extended counselling group",
+            "n = 249",
+            "111",
+            "138"
+          ]
+        },
+        {
+          "value": "26",
+          "rowHeaders": [
+            "IV",
+            "(15.3)"
+          ],
+          "columnHeaders": [
+            "a",
+            "Brief intervention group",
+            "n = 248",
+            "128",
+            "120"
+          ]
+        },
+        {
+          "value": "11",
+          "rowHeaders": [
+            "V"
+          ],
+          "columnHeaders": [
+            "a",
+            "Extended counselling group",
+            "n = 249",
+            "111",
+            "138"
+          ]
+        },
+        {
+          "value": "27",
+          "rowHeaders": [
+            "Unclassified"
+          ],
+          "columnHeaders": [
+            "a",
+            "Extended counselling group",
+            "n = 249",
+            "111",
+            "138",
+            "(4.4)"
+          ]
+        },
+        {
+          "value": "27",
+          "rowHeaders": [
+            "Unclassified",
+            "(10.8)"
+          ],
+          "columnHeaders": [
+            "a",
+            "Brief intervention group",
+            "n = 248",
+            "128",
+            "120",
+            "7"
+          ]
+        },
+        {
+          "value": "79",
+          "rowHeaders": [
+            "Other"
+          ],
+          "columnHeaders": [
+            "a",
+            "Extended counselling group",
+            "n = 249",
+            "111",
+            "138",
+            "(4.4)",
+            "170"
+          ]
+        },
+        {
+          "value": "78",
+          "rowHeaders": [
+            "Other",
+            "(31.7)"
+          ],
+          "columnHeaders": [
+            "a",
+            "Brief intervention group",
+            "n = 248",
+            "128",
+            "120",
+            "7",
+            "170"
+          ]
+        },
+        {
+          "value": "17 (8.8)",
+          "rowHeaders": [
+            "Mean (SD)"
+          ],
+          "columnHeaders": [
+            "a",
+            "Extended counselling group",
+            "n = 249",
+            "(44.6)",
+            "(55.4)",
+            "(4.4)",
+            "(68.3)"
+          ]
+        },
+        {
+          "value": "17 (8.4)",
+          "rowHeaders": [
+            "Mean (SD)",
+            "(31.7)"
+          ],
+          "columnHeaders": [
+            "a",
+            "Brief intervention group",
+            "n = 248",
+            "(51.6)",
+            "(48.4)",
+            "(2.8)",
+            "(68.5)"
+          ]
+        },
+        {
+          "value": "2.3 (1)",
+          "rowHeaders": [
+            "Mean (SD)"
+          ],
+          "columnHeaders": [
+            "a",
+            "Extended counselling group",
+            "n = 249",
+            "(44.6)",
+            "(55.4)",
+            "(4.4)",
+            "(68.3)"
+          ]
+        },
+        {
+          "value": "2.3 (1)",
+          "rowHeaders": [
+            "Mean (SD)",
+            "(31.7)"
+          ],
+          "columnHeaders": [
+            "a",
+            "Brief intervention group",
+            "n = 248",
+            "(51.6)",
+            "(48.4)",
+            "(2.8)",
+            "(68.5)"
+          ]
+        },
+        {
+          "value": "3.5 (2.4)",
+          "rowHeaders": [
+            "Mean (SD)"
+          ],
+          "columnHeaders": [
+            "a",
+            "Extended counselling group",
+            "n = 249",
+            "(44.6)",
+            "(55.4)",
+            "(4.4)",
+            "(68.3)"
+          ]
+        },
+        {
+          "value": "3.5 (2.2)",
+          "rowHeaders": [
+            "Mean (SD)",
+            "(31.7)"
+          ],
+          "columnHeaders": [
+            "a",
+            "Brief intervention group",
+            "n = 248",
+            "(51.6)",
+            "(48.4)",
+            "(2.8)",
+            "(68.5)"
+          ]
+        },
+        {
+          "value": "88 (35)",
+          "rowHeaders": [
+            "to smoking n (%)"
+          ],
+          "columnHeaders": [
+            "a",
+            "Extended counselling group",
+            "n = 249",
+            "(44.6)",
+            "(55.4)",
+            "(4.4)",
+            "(68.3)"
+          ]
+        },
+        {
+          "value": "85 (34)",
+          "rowHeaders": [
+            "to smoking n (%)",
+            "(33.7)"
+          ],
+          "columnHeaders": [
+            "a",
+            "Brief intervention group",
+            "n = 248",
+            "(51.6)",
+            "(48.4)",
+            "(2.8)",
+            "(68.5)"
+          ]
+        },
+        {
+          "value": "84",
+          "rowHeaders": [
+            "Pre-contemplation"
+          ],
+          "columnHeaders": [
+            "a",
+            "Extended counselling group",
+            "n = 249",
+            "111",
+            "138",
+            "(4.4)",
+            "170",
+            "125 (50.2)",
+            "170 (68.3)"
+          ]
+        },
+        {
+          "value": "94",
+          "rowHeaders": [
+            "Pre-contemplation",
+            "(33.7)"
+          ],
+          "columnHeaders": [
+            "a",
+            "Brief intervention group",
+            "n = 248",
+            "128",
+            "120",
+            "7",
+            "170",
+            "116 (46.8)",
+            "168 (67.7)"
+          ]
+        },
+        {
+          "value": "48",
+          "rowHeaders": [
+            "Preparation"
+          ],
+          "columnHeaders": [
+            "a",
+            "Extended counselling group",
+            "n = 249",
+            "111",
+            "138",
+            "(4.4)",
+            "170",
+            "125 (50.2)",
+            "170 (68.3)",
+            "116"
+          ]
+        },
+        {
+          "value": "36",
+          "rowHeaders": [
+            "Preparation",
+            "(19.3)"
+          ],
+          "columnHeaders": [
+            "a",
+            "Brief intervention group",
+            "n = 248",
+            "128",
+            "120",
+            "7",
+            "170",
+            "116 (46.8)",
+            "168 (67.7)",
+            "116"
+          ]
+        }
+      ],
+      "page": 1
+    }
+  ]
+}

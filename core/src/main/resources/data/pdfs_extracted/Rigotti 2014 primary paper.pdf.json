@@ -1,0 +1,1919 @@
+{
+  "blocks": [
+    {
+      "type": "LINES",
+      "value": "Sustained Care Intervention and Postdischarge Smoking Cessation Among Hospitalized Adults A Randomized Clinical Trial",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "IMPORTANCE Health care systems need effective models to manage chronic diseases like tobacco dependence across transitions in care. Hospitalizations provide opportunities for smokers to quit, but research suggests that hospital-delivered interventions are effective only if treatment continues after discharge. OBJECTIVE To determine whether an intervention to sustain tobacco treatment after hospital discharge increases smoking cessation rates compared with standard care. DESIGN, SETTING, AND PARTICIPANTS A randomized clinical trial compared sustained care (a postdischarge tobacco cessation intervention) with standard care among 397 hospitalized daily smokers (mean age, 53 years; 48% were males; 81% were non-Hispanic whites) who wanted to quit smoking after discharge and received a tobacco dependence intervention in the hospital; 92% of eligible patients and 44% of screened patients enrolled. The study was conducted from August 2010 through November 2012 at Massachusetts General Hospital. INTERVENTIONS Sustained care participants received automated interactive voice response telephone calls and their choice of free smoking cessation medication (any type approved by the US Food and Drug Administration) for up to 90 days. The automated telephone calls promoted cessation, provided medication management, and triaged smokers for additional counseling. Standard care participants received recommendations for postdischarge pharmacotherapy and counseling. MAIN OUTCOMES AND MEASURES The primary outcome was biochemically confirmed past 7-day tobacco abstinence at 6-month follow-up after discharge from the hospital; secondary outcomes included self-reported tobacco abstinence. RESULTS Smokers randomly assigned to sustained care (n = 198) used more counseling and more pharmacotherapy at each follow-up assessment than those assigned to standard care (n = 199). Biochemically validated 7-day tobacco abstinence at 6 months was higher with sustained care (26%) than with standard care (15%) (relative risk [RR], 1.71 [95% CI, 1.14-2.56], P = .009; number needed to treat, 9.4 [95% CI, 5.4-35.5]). Using multiple imputation for missing outcomes, the RR for 7-day tobacco abstinence was 1.55 (95% CI, 1.03-2.21; P = .04). Sustained care also resulted in higher self-reported continuous abstinence rates for 6 months after discharge (27% vs 16% for standard care; RR, 1.70 [95% CI, 1.15-2.51]; P = .007). CONCLUSIONS AND RELEVANCE Among hospitalized adult smokers who wanted to quit smoking, a postdischarge intervention providing automated telephone calls and free medication resulted in higher rates of smoking cessation at 6 months compared with a standard recommendation to use counseling and medication after discharge. These findings, if replicated, suggest an approach to help achieve sustained smoking cessation after a hospital stay.",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The Helping HAND (Hospital-initiated Assistance for Nicotine Dependence) trial was approved by the institutional review board of Partners HealthCare. A detailed study protocol has been published and also appears in Supplement 1.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The study was conducted at Massachusetts General Hospital (MGH), a 900-bed hospital located in Boston. Adults aged 18 years or older who were admitted to MGH were eligible if they were current smokers (smoked ≥1 cigarette/day during the month before admission), received smoking cessation counseling in the hospital, stated that they planned to try to quit smoking after discharge, and agreed to accept a smoking cessation medication. Patients were excluded if they had no telephone; had an expected hospital stay of less than 24 hours; substance use in the past 12 months other than tobacco, alcohol, or marijuana, or were admitted for an alcohol or drug overdose; could not give informed consent or participate in counseling due to impaired mental status, cognitive impairment, or communication barrier; were admitted to the obstetric or psychiatric units; had an estimated life expectancy of less than 12 months; or had medical instability.\nAll MGH patients have their smoking status electronically documented at admission, generating a roster of hospitalized smokers accessed daily by counselors from the Tobacco Treatment Service who aim to visit every hospitalized smoker. The counselors ensure adequate management of withdrawal symptoms with NRT and offer to assist smokers who plan to \"stay quit\" after discharge. Counselors screened smokers for study eligibility and referred the smoker to research staff to confirm eligibility, obtain informed consent, conduct the baseline assessment, and assign the participant to a study group.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Participants were randomly assigned (1:1) to sustained care or standard care in permuted blocks of 8, stratified by daily cigarette consumption (<10 vs ≥10) and admitting service (cardiac vs other). Treatment assignment was concealed in sequentially numbered sealed envelopes within each stratum. Research staff opened the next envelope corresponding to the participant's randomization stratum.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The sustained care condition had 2 components designed to reduce patient barriers to completing a full course of tobacco treatment after discharge. First, a 30-day supply of free tobacco cessation medication (any type approved by the US Food and Drug Administration) was provided at discharge and was refillable twice for up to 90 days of treatment. Medication was chosen by the patient and smoking counselor during the inpatient visit. Treatment could include single agents (nicotine patch, gum, lozenge, bupropion, or varenicline) or a combination of these. Second, 5 automated outbound interactive voice response telephone calls (at 2, 14, 30, 60, and 90 days after discharge) provided advice and support messages that prompted smokers to stay quit, encouraged proper use and adherence to cessation medication, offered medication refills, and triaged smokers to a return telephone call from a live counselor for additional support. The automated telephone script encouraged participants to request a callback from a counselor if they had low confidence in their ability to stay quit, had resumed smoking but still wanted to quit, needed a medication refill, had problems with a medication, or had stopped using any medication. A trained counselor made the return telephone calls using a standardized protocol. A fax sent to the primary care clinician of each patient informed him/her of the treatment program.\nStandard care provided smokers with a specific postdischarge medication recommendation and advice to calla free telephone quit line (1-800-QUIT-NOW). A note in the chart advised hospital physicians to prescribe the medication upon discharge.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Baseline measures included demographic factors (age, sex, race/ethnicity, education), health insurance status, smoking history (number of cigarettes/day, Fagerström Test for Nicotine Dependence, other tobacco products), prior use of tobacco cessation treatment, perceived importance of and confidence in quitting (10-point Likert scales), presence of a smoker at home, alcohol use (3-item Alcohol Use Disorders Identification Test), and the 8-item Center for Epidemiological Studies Depression Scale. Race/ethnicity was assessed by patient self-report. Hospital records provided primary discharge diagnosis, length of stay, smoking cessation medication use in the hospital, and the counselor's recommendation for postdischarge tobacco cessation medication. Participants were called 1, 3, and 6 months after hospital discharge. A telephone interviewer collected data on tobacco use status and tobacco cessation treatment use. We defined tobacco cessation treatment to include any pharmacotherapy approved by the US Food and Drug Administration (including NRT, bupropion, or varenicline) or cessation counseling provided by a physician, nurse, MGH or community counselor, or state telephone quit line. Participants were reimbursed $20 per completed survey.\nThe primary outcome was biochemically validated 7-day point prevalence tobacco abstinence 6 months after discharge. Tobacco abstinence was defined as abstinence from any tobacco product including electronic cigarettes. To verify selfreported abstinence at 6 months, patients were asked to provide a mailed saliva sample for assay of cotinine, a nicotine metabolite, and reimbursed $50 for the sample. Participants using an NRT had an in-person measurement of expired air carbon monoxide. Self-reported abstinence was considered verified if saliva cotinine level was 10 ng/mL or lessor if the carbon monoxide level was less than 9 ppm. 17 Secondary smoking status outcomes were self-reported 7-day point prevalence and continuous abstinence at 1, 3, and 6 months postdischarge.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "A sample of 330 was planned to provide 83% power to detect a 15% difference (20% vs 35%) in the primary outcome. The sample was increased to 400 without interim analysis to add statistical power. The analyses were performed using an intentto-treat approach and SAS statistical software version 9.3 (SAS Institute Inc). We compared the characteristics of the participants by group using 2-sample t tests, Wilcoxon rank sum tests, and χ 2 tests. A 2-sided P value of less than .05 was considered statistically significant. According to the prespecified protocol, we conducted cross-sectional analyses at each follow-up point, comparing rates of tobacco treatment and cessation between study groups using χ 2 tests, and calculated the number needed to treat. We also conducted a longitudinal analysis using the generalized estimating equations technique that included data from all follow-up times to assess the overall effect of the intervention. Per the prespecified protocol, patients with missing outcomes at follow-up (including those who died) or whose self-reported abstinence was not biochemically validated were counted as smokers in the primary analysis. We conducted a sensitivity analysis using previously published methods to assess the relationship between alternate approaches to imputation and effect size. Multiple imputation for the missing primary outcome measure used age, sex, whether the patient had a smoking-related disease, and the smoking outcome at 3 months as predictors in a logistic regression model. The final inference was combined from 5 sets of imputed samples.\nWe explored the effect of the intervention in subgroups of participants defined post hoc by age (<55 years or ≥55 years), sex, race (non-Hispanic white vs other), number of cigarettes/ day (<10 or ≥10), discharge diagnosis (circulatory disease vs other smoking-related disease 1 vs other), hospital length of stay (<5 days or ≥5 days), NRT use during hospitalization, and depression symptoms (8-item Center for Epidemiological Studies Depression Scale score: <16 or ≥16). We tested the interaction between study group and each subgroup using Breslow-Day tests.\nWe prospectively tracked the direct costs of delivering sustained care exclusive of research costs. Costs included the interactive voice response service, up to 90 days of medication (using the price paid by our institution), mailing of medication refills, personnel time, and office space. Personnel time included time for database construction and management, counselor training, time spent offering the intervention, tracking of patients, managing medications during the hospital stay and postdischarge, and reaching out to and counseling patients postdischarge. The value of staff time was based on salary and fringe benefits. Office space, computer, and telephone cost was based on institutional charges. We calculated the incremental cost per quit and cost per patient of delivering sustained care compared with standard care from a health system perspective. We evaluated costs under 2 scenarios. In the first scenario, the hospital paid for all medications, reflecting how the trial was conducted. In the second scenario, we assumed the hospital could bill insurers for smoking cessation medications, which should be possible with nearuniversal coverage of smoking cessation medications under the Affordable Care Act.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Between August 11, 2010, and April 17, 2012, MGH Tobacco Treatment Service staff counseled 6237 inpatient smokers and 1757 (28%) met initial study inclusion criteria). Of these 1757 smokers, 904 (51%) completed screening for eligibility and 432 (48%) of those screened were eligible for the study. displays the most common reasons for study exclusion. A total of 397 patients (92% of those eligible, 44% of those screened) consented to enroll and were randomly assigned to receive sustained care (n = 198) or standard care (n = 199) after hospital discharge. Follow-up survey completion rates were 90% at 1 month, 83% at 3 months, and 81% at 6 months, with no statistically significant difference by study group). Participants lost to follow-up were younger (mean age of 50 years vs 53 years; P = .04) but did not differ by sex, number of cigarettes/day, or admission to the cardiac service. Eight partici-pants died (2%), 4 in each group. Among self-reported nonsmokers, 78% provided a biological sample for confirmation (79% of the sustained care group and 77% of the standard care group), and abstinence was confirmed in 85% of these samples (86% of the sustained care group and 83% of the standard care group). These rates did not differ significantly by group.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Baseline characteristics and hospital course were comparable between the study groups (. The mean age of participants was 53 years, 48% were males, 81% were nonHispanic whites, and 51% had a high school education or less.\nParticipants smoked a mean of 16.7 cigarettes daily. Median hospital stay was 5 days (interquartile range, 3-7 days). The primary discharge diagnoses encompassed a range of organ systems, but circulatory disease (comprising cardiovascular, peripheral vascular, and cerebrovascular) diagnosis was the largest single category (38%). For 45% of participants, the primary discharge diagnosis was a smoking-related disease 1 (defined in footnote g in). Tobacco cessation treatment in the hospital did not differ by group; mean counseling time was 25 minutes (range, 9-50 minutes), and 67% of participants used an in-hospital cessation medication, generally NRT to manage nicotine withdrawal symptoms. Postdis-  charge medication recommendations did not differ by study group and usually continued the use of NRT started in the hospital.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Data on self-reported use of tobacco cessation treatment at 1, 3, and 6 months after discharge appear in The cumulative use of both treatments increased over 6 months, and rates of both remained higher in the sustained care group through 6 months. Sustained care participants accepted a median of 4 of the 5 interactive voice response calls. In both groups, the postdischarge medication was predominantly combination NRT. Bupropion and varenicline were each used by 5.5% or less of participants, with no difference in use by study group (data not shown). Participants in the sustained care group compared with the standard care group also had a longer duration of medication use. In the sustained care group, 61% of participants completed 8 or more weeks of the 12-week treatment course compared with 37% in the standard care group (P < .001).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The tobacco cessation outcomes appear in. More participants in the sustained care group than in the standard care group achieved the primary outcome of biochemically confirmed past 7-day tobacco abstinence at 6-month follow-up (26% vs 15%, respectively, RR, 1.71 [95% CI, 1.14-2.56]; risk difference, 11% [95% CI, 3%-19%]; P = .009). The number needed to treat was 9.4 (95% CI, 5.4-35.5). Conclusions did not change in sensitivity analyses performed to account for different scenarios of missing outcomes data 19 (eTables 1-4 in Supplement 2). When multiple imputation with 5 sets of imputed samples was applied to missing biochemical outcomes, the combined RR was 1.55 (95% CI, 1.03-2.21; P = .04). Self-reported tobacco abstinence rates were also higher for sustained care than for standard care for both pointprevalence abstinence (past 7 days) and continuous abstinence. Self-reported past 7-day abstinence rates were 52% for sustained care vs 39% for standard care at 1 month (RR, 1.33 [95% CI, 1.07-1.65]; P = .01) and 41% vs 28%, respectively, at 6 months (RR, 1.45 [95% CI, 1.10-1.92]; P = .008). Overall, the RR was 1.32 (95% CI, 1.09-1.58; P = .007) in a longitudinal analysis using the generalized estimating equations technique. Selfreported continuous tobacco abstinence after hospital discharge was higher for sustained care than for standard care at each follow-up assessment: 1 month (46% vs 33%, respectively; RR, 1.39 [95% CI, 1.08-1.78]; P = .01), 3 months (34% vs 24%; RR, 1.43 [95% CI, 1.04-1.97]; P = .03), and 6 months (27% vs 16%; RR, 1.70 [95% CI, 1.15-2.51]; P = .007). Overall, the RR was 1.49 (95% CI, 1.13-1.89; P = .005) in a longitudinal analysis using the generalized estimating equations technique. The median duration of self-reported continuous tobacco abstinence after hospital discharge was longer in the sustained care group (28 days; IQR, 5-175 days) than in the standard care group (18 days; IQR, 5-96 days), although not statistically significant (P = .08).\nThe magnitude of the intervention effect was generally similar across subgroups. The only statistically significant interaction with study group was race (P = .02). The intervention had a stronger effect in nonwhites than in whites. The validated 6-month smoking cessation rate for sustained care vs standard care was 38% vs 6% among 75 nonwhites (P = .001) and 22% vs 17% among 322 whites (P = .26).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "For this trial, the hospital provided sustained care to approximately 100 smokers annually for 2 years. At this patient volume, the hospital's estimated incremental cost per quit was  $4910 (year 1) and $2670 (subsequent years). The incremental per-patient costs were $540 (year 1) and $294 (subsequent years). Year 1 costs were primarily for building the telephone system and training staff. Medication purchase was the main cost during subsequent years. The Affordable Care Act requires insurers to coverall smoking cessation medications approved by the US Food and Drug Administration. 20,21 Assuming that insurers cover this cost, the estimated incremental cost per quit from the hospital's perspective would be $3217 (year 1) and $997 (subsequent years). The cost per patient would be $354 (year 1) and $108 (subsequent years). The complete costeffectiveness analysis is presented in eMethods, eResults, eDiscussion, eTable 5, and eTable 6 in Supplement 2.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The Helping HAND trial demonstrated the effectiveness of a program to promote long-term tobacco cessation among hospitalized cigarette smokers who received an inpatient tobacco dependence intervention and expressed an interest in cessation treatment after discharge. The intervention aimed to sustain the tobacco cessation treatment that had begun in the hospital. It succeeded in improving the use of both counseling and pharmacotherapy by smokers after discharge, and it increased by 71% the proportion of patients with biochemically confirmed tobacco abstinence 6 months after dis- e There were no between-group differences for bupropion or varenicline, which were each used by 5.5% or less of the study participants. charge, which is a standard measure of long-term smoking cessation. The intervention appeared to be effective across abroad range of smokers and provided high-value care at a relatively low cost. Hospitals could adopt this model to help meet the Joint Commission's tobacco cessation hospital quality standard. The intervention could also be incorporated into care delivery models that aim to improve population health by coordinating the care of smokers with other chronic diseases across transitions of care. The intervention used interactive voice response technology to automate telephone calls, providing an efficient, lowcost way to systematically maintain contact with smokers after hospital discharge. Ina previous study, we provided automated calls for 1 month after hospital discharge to all smokers, regardless of their intention to quit. It was feasible but did not increase smoking cessation rates. The current study focused the intervention on smokers who planned to quit, extended automated telephone calls for 3 months, and paired the telephone calls with smoking cessation medication provided at no cost to patients at discharge. It also expanded the scope of automated telephone calls to monitor and promote medication adherence and facilitate medication refills. Sustained care increased the use of both counseling and pharmacotherapy by smokers after discharge, which may have mediated the improved smoking cessation rates.\nInteractive voice response technology has been used in healthcare systems to assess postdischarge surgical outcomes and to deliver care to individuals with chronic diseases like diabetes. It has been a component of smoking interventions in ambulatory care and in the community. Our program was based on a Canadian model that offered tobacco cessation counseling by interactive voice response calls after discharge. That model improved 6-month continuous abstinence rates over baseline rates in a pre-post evaluation in 6 hospitals. Our program extends the Canadian model by offering medication at no cost to patients at discharge and by adding a medication adherence component to the interactive voice response system. Our study also used the stronger design of a randomized trial.\nPharmacotherapy was used after hospital discharge by most smokers in both study groups, probably because the inpatient smoking counselor encouraged NRT use in the hospital and made a postdischarge medication recommendation for all participants. 31 However, the sustained care program increased the duration of pharmacotherapy use after discharge. Sixty-one percent of smokers in the sustained care group used medication for 8 weeks or more of a 12-week course, whereas nearly half (48%) of smokers in the standard care group used medication for only 2 weeks or less. The longer treatment duration likely contributed to the 71% higher quit rate in the sustained care group. The magnitude of the improvement is at the higher end of the 50%-70% relative increase in cessation rates produced by NRT overall, probably reflecting good medication adherence, use of combination NRT over a single NRT product, and the concomitant use of counseling.\n",
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "164 (82.8)",
+          "rowHeaders": [
+            "1-mo follow-up"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Sustained Care",
+            "(n = 198)"
+          ]
+        },
+        {
+          "value": "125 (62.8)",
+          "rowHeaders": [
+            "1-mo follow-up",
+            "73 (36.9)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Standard Care",
+            "(n = 199)"
+          ]
+        },
+        {
+          "value": "1.32 (1.16-1.49)",
+          "rowHeaders": [
+            "1-mo follow-up",
+            "73 (36.9)",
+            "45 (22.6)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "(95% CI)"
+          ]
+        },
+        {
+          "value": "<.001",
+          "rowHeaders": [
+            "1-mo follow-up",
+            "73 (36.9)",
+            "45 (22.6)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "P Value"
+          ]
+        },
+        {
+          "value": "172 (86.9)",
+          "rowHeaders": [
+            "3-mo follow-up (cumulative)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Sustained Care",
+            "(n = 198)"
+          ]
+        },
+        {
+          "value": "152 (76.4)",
+          "rowHeaders": [
+            "3-mo follow-up (cumulative)",
+            "73 (36.9)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Standard Care",
+            "(n = 199)"
+          ]
+        },
+        {
+          "value": "1.14 (1.03-1.25)",
+          "rowHeaders": [
+            "3-mo follow-up (cumulative)",
+            "73 (36.9)",
+            "45 (22.6)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "(95% CI)"
+          ]
+        },
+        {
+          "value": ".009",
+          "rowHeaders": [
+            "3-mo follow-up (cumulative)",
+            "73 (36.9)",
+            "45 (22.6)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "P Value"
+          ]
+        },
+        {
+          "value": "178 (89.9)",
+          "rowHeaders": [
+            "6-mo follow-up (cumulative)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Sustained Care",
+            "(n = 198)"
+          ]
+        },
+        {
+          "value": "160 (80.4)",
+          "rowHeaders": [
+            "6-mo follow-up (cumulative)",
+            "73 (36.9)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Standard Care",
+            "(n = 199)"
+          ]
+        },
+        {
+          "value": "1.12 (1.03-1.21)",
+          "rowHeaders": [
+            "6-mo follow-up (cumulative)",
+            "73 (36.9)",
+            "45 (22.6)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "(95% CI)"
+          ]
+        },
+        {
+          "value": ".01",
+          "rowHeaders": [
+            "6-mo follow-up (cumulative)",
+            "73 (36.9)",
+            "45 (22.6)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "P Value"
+          ]
+        },
+        {
+          "value": "1.63 (1.19-2.23)",
+          "rowHeaders": [
+            "1-mo follow-up",
+            "73 (36.9)",
+            "45 (22.6)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "(95% CI)"
+          ]
+        },
+        {
+          "value": ".002",
+          "rowHeaders": [
+            "1-mo follow-up",
+            "73 (36.9)",
+            "45 (22.6)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "P Value"
+          ]
+        },
+        {
+          "value": "114 (57.6)",
+          "rowHeaders": [
+            "3-mo follow-up (cumulative)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Sustained Care",
+            "(n = 198)"
+          ]
+        },
+        {
+          "value": "1.40 (1.14-1.71)",
+          "rowHeaders": [
+            "3-mo follow-up (cumulative)",
+            "73 (36.9)",
+            "82 (41.2)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "(95% CI)"
+          ]
+        },
+        {
+          "value": ".001",
+          "rowHeaders": [
+            "3-mo follow-up (cumulative)",
+            "73 (36.9)",
+            "82 (41.2)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "P Value"
+          ]
+        },
+        {
+          "value": "136 (68.7)",
+          "rowHeaders": [
+            "6-mo follow-up (cumulative)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Sustained Care",
+            "(n = 198)"
+          ]
+        },
+        {
+          "value": "102 (51.3)",
+          "rowHeaders": [
+            "6-mo follow-up (cumulative)",
+            "73 (36.9)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Standard Care",
+            "(n = 199)"
+          ]
+        },
+        {
+          "value": "1.34 (1.14-1.58)",
+          "rowHeaders": [
+            "6-mo follow-up (cumulative)",
+            "73 (36.9)",
+            "82 (41.2)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "(95% CI)"
+          ]
+        },
+        {
+          "value": "<.001",
+          "rowHeaders": [
+            "6-mo follow-up (cumulative)",
+            "73 (36.9)",
+            "82 (41.2)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "P Value"
+          ]
+        },
+        {
+          "value": "156 (78.8)",
+          "rowHeaders": [
+            "1-mo follow-up"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Sustained Care",
+            "(n = 198)"
+          ]
+        },
+        {
+          "value": "117 (58.8)",
+          "rowHeaders": [
+            "1-mo follow-up",
+            "73 (36.9)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Standard Care",
+            "(n = 199)"
+          ]
+        },
+        {
+          "value": "1.34 (1.17-1.54)",
+          "rowHeaders": [
+            "1-mo follow-up",
+            "73 (36.9)",
+            "82 (41.2)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "(95% CI)"
+          ]
+        },
+        {
+          "value": "<.001",
+          "rowHeaders": [
+            "1-mo follow-up",
+            "73 (36.9)",
+            "82 (41.2)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "P Value"
+          ]
+        },
+        {
+          "value": "164 (82.8)",
+          "rowHeaders": [
+            "3-mo follow-up (cumulative)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Sustained Care",
+            "(n = 198)"
+          ]
+        },
+        {
+          "value": "132 (66.3)",
+          "rowHeaders": [
+            "3-mo follow-up (cumulative)",
+            "73 (36.9)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Standard Care",
+            "(n = 199)"
+          ]
+        },
+        {
+          "value": "1.25 (1.11-1.40)",
+          "rowHeaders": [
+            "3-mo follow-up (cumulative)",
+            "73 (36.9)",
+            "82 (41.2)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "(95% CI)"
+          ]
+        },
+        {
+          "value": "<.001",
+          "rowHeaders": [
+            "3-mo follow-up (cumulative)",
+            "73 (36.9)",
+            "82 (41.2)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "P Value"
+          ]
+        },
+        {
+          "value": "170 (85.9)",
+          "rowHeaders": [
+            "6-mo follow-up (cumulative)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Sustained Care",
+            "(n = 198)"
+          ]
+        },
+        {
+          "value": "140 (70.4)",
+          "rowHeaders": [
+            "6-mo follow-up (cumulative)",
+            "73 (36.9)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Standard Care",
+            "(n = 199)"
+          ]
+        },
+        {
+          "value": "1.22 (1.10-1.36)",
+          "rowHeaders": [
+            "6-mo follow-up (cumulative)",
+            "73 (36.9)",
+            "82 (41.2)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "(95% CI)"
+          ]
+        },
+        {
+          "value": "<.001",
+          "rowHeaders": [
+            "6-mo follow-up (cumulative)",
+            "73 (36.9)",
+            "82 (41.2)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "P Value"
+          ]
+        },
+        {
+          "value": "147 (74.2)",
+          "rowHeaders": [
+            "1-mo follow-up"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Sustained Care",
+            "(n = 198)"
+          ]
+        },
+        {
+          "value": "110 (55.3)",
+          "rowHeaders": [
+            "1-mo follow-up",
+            "73 (36.9)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Standard Care",
+            "(n = 199)"
+          ]
+        },
+        {
+          "value": "1.34 (1.16-1.56)",
+          "rowHeaders": [
+            "1-mo follow-up",
+            "73 (36.9)",
+            "90 (45.2)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "(95% CI)"
+          ]
+        },
+        {
+          "value": "<.001",
+          "rowHeaders": [
+            "1-mo follow-up",
+            "73 (36.9)",
+            "90 (45.2)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "P Value"
+          ]
+        },
+        {
+          "value": "155 (78.3)",
+          "rowHeaders": [
+            "3-mo follow-up (cumulative)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Sustained Care",
+            "(n = 198)"
+          ]
+        },
+        {
+          "value": "123 (61.8)",
+          "rowHeaders": [
+            "3-mo follow-up (cumulative)",
+            "73 (36.9)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Standard Care",
+            "(n = 199)"
+          ]
+        },
+        {
+          "value": "1.27 (1.11-1.44)",
+          "rowHeaders": [
+            "3-mo follow-up (cumulative)",
+            "73 (36.9)",
+            "90 (45.2)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "(95% CI)"
+          ]
+        },
+        {
+          "value": "<.001",
+          "rowHeaders": [
+            "3-mo follow-up (cumulative)",
+            "73 (36.9)",
+            "90 (45.2)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "P Value"
+          ]
+        },
+        {
+          "value": "161 (81.3)",
+          "rowHeaders": [
+            "6-mo follow-up (cumulative)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Sustained Care",
+            "(n = 198)"
+          ]
+        },
+        {
+          "value": "130 (65.3)",
+          "rowHeaders": [
+            "6-mo follow-up (cumulative)",
+            "73 (36.9)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Standard Care",
+            "(n = 199)"
+          ]
+        },
+        {
+          "value": "1.24 (1.10-1.41)",
+          "rowHeaders": [
+            "6-mo follow-up (cumulative)",
+            "73 (36.9)",
+            "90 (45.2)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "(95% CI)"
+          ]
+        },
+        {
+          "value": "<.001",
+          "rowHeaders": [
+            "6-mo follow-up (cumulative)",
+            "73 (36.9)",
+            "90 (45.2)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "P Value"
+          ]
+        },
+        {
+          "value": "146 (73.7)",
+          "rowHeaders": [
+            "≥2"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Sustained Care",
+            "(n = 198)"
+          ]
+        },
+        {
+          "value": "103 (51.8)",
+          "rowHeaders": [
+            "≥2",
+            "51 (25.8)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Standard Care",
+            "(n = 199)"
+          ]
+        },
+        {
+          "value": "1.42 (1.22-1.67)",
+          "rowHeaders": [
+            "≥2",
+            "51 (25.8)",
+            "90 (45.2)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "(95% CI)"
+          ]
+        },
+        {
+          "value": "<.001",
+          "rowHeaders": [
+            "≥2",
+            "51 (25.8)",
+            "90 (45.2)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "P Value"
+          ]
+        },
+        {
+          "value": "137 (69.2)",
+          "rowHeaders": [
+            "≥4"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Sustained Care",
+            "(n = 198)"
+          ]
+        },
+        {
+          "value": "1.53 (1.28-1.83)",
+          "rowHeaders": [
+            "≥4",
+            "51 (25.8)",
+            "90 (45.2)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "(95% CI)"
+          ]
+        },
+        {
+          "value": "<.001",
+          "rowHeaders": [
+            "≥4",
+            "51 (25.8)",
+            "90 (45.2)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "P Value"
+          ]
+        },
+        {
+          "value": "120 (60.6)",
+          "rowHeaders": [
+            "≥8"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Sustained Care",
+            "(n = 198)"
+          ]
+        },
+        {
+          "value": "1.65 (1.33-2.05)",
+          "rowHeaders": [
+            "≥8",
+            "51 (25.8)",
+            "73 (36.7)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "(95% CI)"
+          ]
+        },
+        {
+          "value": "<.001",
+          "rowHeaders": [
+            "≥8",
+            "51 (25.8)",
+            "73 (36.7)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "P Value"
+          ]
+        },
+        {
+          "value": "1.71 (1.14-2.56)",
+          "rowHeaders": [
+            "6-mo follow-up",
+            "51 (25.8)",
+            "30 (15.1)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "(95% CI)",
+            "Relative Risk",
+            "(95% CI)",
+            "these analyses."
+          ]
+        },
+        {
+          "value": ".009",
+          "rowHeaders": [
+            "6-mo follow-up",
+            "51 (25.8)",
+            "30 (15.1)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "P Value",
+            "Relative Risk",
+            "P Value",
+            "these analyses."
+          ]
+        },
+        {
+          "value": "103 (52.0)",
+          "rowHeaders": [
+            "1-mo follow-up"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Sustained Care",
+            "(n = 198)",
+            "Sustained Care",
+            "(n = 198)",
+            "Abstinent for past 7 d"
+          ]
+        },
+        {
+          "value": "1.33 (1.07-1.65)",
+          "rowHeaders": [
+            "1-mo follow-up",
+            "89 (44.9)",
+            "78 (39.2)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "(95% CI)",
+            "Relative Risk",
+            "(95% CI)",
+            "these analyses."
+          ]
+        },
+        {
+          "value": ".01",
+          "rowHeaders": [
+            "1-mo follow-up",
+            "89 (44.9)",
+            "78 (39.2)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "P Value",
+            "Relative Risk",
+            "P Value",
+            "these analyses."
+          ]
+        },
+        {
+          "value": "1.23 (0.96-1.56)",
+          "rowHeaders": [
+            "3-mo follow-up",
+            "89 (44.9)",
+            "73 (36.7)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "(95% CI)",
+            "Relative Risk",
+            "(95% CI)",
+            "these analyses."
+          ]
+        },
+        {
+          "value": ".10",
+          "rowHeaders": [
+            "3-mo follow-up",
+            "89 (44.9)",
+            "73 (36.7)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "P Value",
+            "Relative Risk",
+            "P Value",
+            "these analyses."
+          ]
+        },
+        {
+          "value": "1.45 (1.10-1.92)",
+          "rowHeaders": [
+            "6-mo follow-up",
+            "81 (40.9)",
+            "56 (28.1)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "(95% CI)",
+            "Relative Risk",
+            "(95% CI)",
+            "these analyses."
+          ]
+        },
+        {
+          "value": ".008",
+          "rowHeaders": [
+            "6-mo follow-up",
+            "81 (40.9)",
+            "56 (28.1)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "P Value",
+            "Relative Risk",
+            "P Value",
+            "these analyses."
+          ]
+        },
+        {
+          "value": "1.39 (1.08-1.78)",
+          "rowHeaders": [
+            "1-mo follow-up",
+            "91 (46.0)",
+            "66 (33.2)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "(95% CI)",
+            "Relative Risk",
+            "(95% CI)",
+            "these analyses."
+          ]
+        },
+        {
+          "value": ".01",
+          "rowHeaders": [
+            "1-mo follow-up",
+            "91 (46.0)",
+            "66 (33.2)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "P Value",
+            "Relative Risk",
+            "P Value",
+            "these analyses."
+          ]
+        },
+        {
+          "value": "1.43 (1.04-1.97)",
+          "rowHeaders": [
+            "3-mo follow-up",
+            "67 (33.8)",
+            "47 (23.6)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "(95% CI)",
+            "Relative Risk",
+            "(95% CI)",
+            "these analyses."
+          ]
+        },
+        {
+          "value": ".03",
+          "rowHeaders": [
+            "3-mo follow-up",
+            "67 (33.8)",
+            "47 (23.6)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "P Value",
+            "Relative Risk",
+            "P Value",
+            "these analyses."
+          ]
+        },
+        {
+          "value": "1.70 (1.15-2.51)",
+          "rowHeaders": [
+            "6-mo follow-up",
+            "54 (27.3)",
+            "32 (16.1)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "(95% CI)",
+            "Relative Risk",
+            "(95% CI)",
+            "these analyses."
+          ]
+        },
+        {
+          "value": ".007",
+          "rowHeaders": [
+            "6-mo follow-up",
+            "54 (27.3)",
+            "32 (16.1)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "P Value",
+            "Relative Risk",
+            "P Value",
+            "these analyses."
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "164 (82.8)",
+          "rowHeaders": [
+            "1-mo follow-up"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Sustained Care",
+            "(n = 198)"
+          ]
+        },
+        {
+          "value": "125 (62.8)",
+          "rowHeaders": [
+            "1-mo follow-up",
+            "73 (36.9)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Standard Care",
+            "(n = 199)"
+          ]
+        },
+        {
+          "value": "1.32 (1.16-1.49)",
+          "rowHeaders": [
+            "1-mo follow-up",
+            "73 (36.9)",
+            "45 (22.6)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "(95% CI)"
+          ]
+        },
+        {
+          "value": "<.001",
+          "rowHeaders": [
+            "1-mo follow-up",
+            "73 (36.9)",
+            "45 (22.6)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "P Value"
+          ]
+        },
+        {
+          "value": "172 (86.9)",
+          "rowHeaders": [
+            "3-mo follow-up (cumulative)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Sustained Care",
+            "(n = 198)"
+          ]
+        },
+        {
+          "value": "152 (76.4)",
+          "rowHeaders": [
+            "3-mo follow-up (cumulative)",
+            "73 (36.9)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Standard Care",
+            "(n = 199)"
+          ]
+        },
+        {
+          "value": "1.14 (1.03-1.25)",
+          "rowHeaders": [
+            "3-mo follow-up (cumulative)",
+            "73 (36.9)",
+            "45 (22.6)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "(95% CI)"
+          ]
+        },
+        {
+          "value": ".009",
+          "rowHeaders": [
+            "3-mo follow-up (cumulative)",
+            "73 (36.9)",
+            "45 (22.6)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "P Value"
+          ]
+        },
+        {
+          "value": "178 (89.9)",
+          "rowHeaders": [
+            "6-mo follow-up (cumulative)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Sustained Care",
+            "(n = 198)"
+          ]
+        },
+        {
+          "value": "160 (80.4)",
+          "rowHeaders": [
+            "6-mo follow-up (cumulative)",
+            "73 (36.9)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Standard Care",
+            "(n = 199)"
+          ]
+        },
+        {
+          "value": "1.12 (1.03-1.21)",
+          "rowHeaders": [
+            "6-mo follow-up (cumulative)",
+            "73 (36.9)",
+            "45 (22.6)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "(95% CI)"
+          ]
+        },
+        {
+          "value": ".01",
+          "rowHeaders": [
+            "6-mo follow-up (cumulative)",
+            "73 (36.9)",
+            "45 (22.6)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "P Value"
+          ]
+        },
+        {
+          "value": "1.63 (1.19-2.23)",
+          "rowHeaders": [
+            "1-mo follow-up",
+            "73 (36.9)",
+            "45 (22.6)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "(95% CI)"
+          ]
+        },
+        {
+          "value": ".002",
+          "rowHeaders": [
+            "1-mo follow-up",
+            "73 (36.9)",
+            "45 (22.6)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "P Value"
+          ]
+        },
+        {
+          "value": "114 (57.6)",
+          "rowHeaders": [
+            "3-mo follow-up (cumulative)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Sustained Care",
+            "(n = 198)"
+          ]
+        },
+        {
+          "value": "1.40 (1.14-1.71)",
+          "rowHeaders": [
+            "3-mo follow-up (cumulative)",
+            "73 (36.9)",
+            "82 (41.2)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "(95% CI)"
+          ]
+        },
+        {
+          "value": ".001",
+          "rowHeaders": [
+            "3-mo follow-up (cumulative)",
+            "73 (36.9)",
+            "82 (41.2)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "P Value"
+          ]
+        },
+        {
+          "value": "136 (68.7)",
+          "rowHeaders": [
+            "6-mo follow-up (cumulative)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Sustained Care",
+            "(n = 198)"
+          ]
+        },
+        {
+          "value": "102 (51.3)",
+          "rowHeaders": [
+            "6-mo follow-up (cumulative)",
+            "73 (36.9)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Standard Care",
+            "(n = 199)"
+          ]
+        },
+        {
+          "value": "1.34 (1.14-1.58)",
+          "rowHeaders": [
+            "6-mo follow-up (cumulative)",
+            "73 (36.9)",
+            "82 (41.2)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "(95% CI)"
+          ]
+        },
+        {
+          "value": "<.001",
+          "rowHeaders": [
+            "6-mo follow-up (cumulative)",
+            "73 (36.9)",
+            "82 (41.2)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "P Value"
+          ]
+        },
+        {
+          "value": "156 (78.8)",
+          "rowHeaders": [
+            "1-mo follow-up"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Sustained Care",
+            "(n = 198)"
+          ]
+        },
+        {
+          "value": "117 (58.8)",
+          "rowHeaders": [
+            "1-mo follow-up",
+            "73 (36.9)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Standard Care",
+            "(n = 199)"
+          ]
+        },
+        {
+          "value": "1.34 (1.17-1.54)",
+          "rowHeaders": [
+            "1-mo follow-up",
+            "73 (36.9)",
+            "82 (41.2)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "(95% CI)"
+          ]
+        },
+        {
+          "value": "<.001",
+          "rowHeaders": [
+            "1-mo follow-up",
+            "73 (36.9)",
+            "82 (41.2)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "P Value"
+          ]
+        },
+        {
+          "value": "164 (82.8)",
+          "rowHeaders": [
+            "3-mo follow-up (cumulative)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Sustained Care",
+            "(n = 198)"
+          ]
+        },
+        {
+          "value": "132 (66.3)",
+          "rowHeaders": [
+            "3-mo follow-up (cumulative)",
+            "73 (36.9)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Standard Care",
+            "(n = 199)"
+          ]
+        },
+        {
+          "value": "1.25 (1.11-1.40)",
+          "rowHeaders": [
+            "3-mo follow-up (cumulative)",
+            "73 (36.9)",
+            "82 (41.2)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "(95% CI)"
+          ]
+        },
+        {
+          "value": "<.001",
+          "rowHeaders": [
+            "3-mo follow-up (cumulative)",
+            "73 (36.9)",
+            "82 (41.2)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "P Value"
+          ]
+        },
+        {
+          "value": "170 (85.9)",
+          "rowHeaders": [
+            "6-mo follow-up (cumulative)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Sustained Care",
+            "(n = 198)"
+          ]
+        },
+        {
+          "value": "140 (70.4)",
+          "rowHeaders": [
+            "6-mo follow-up (cumulative)",
+            "73 (36.9)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Standard Care",
+            "(n = 199)"
+          ]
+        },
+        {
+          "value": "1.22 (1.10-1.36)",
+          "rowHeaders": [
+            "6-mo follow-up (cumulative)",
+            "73 (36.9)",
+            "82 (41.2)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "(95% CI)"
+          ]
+        },
+        {
+          "value": "<.001",
+          "rowHeaders": [
+            "6-mo follow-up (cumulative)",
+            "73 (36.9)",
+            "82 (41.2)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "P Value"
+          ]
+        },
+        {
+          "value": "147 (74.2)",
+          "rowHeaders": [
+            "1-mo follow-up"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Sustained Care",
+            "(n = 198)"
+          ]
+        },
+        {
+          "value": "110 (55.3)",
+          "rowHeaders": [
+            "1-mo follow-up",
+            "73 (36.9)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Standard Care",
+            "(n = 199)"
+          ]
+        },
+        {
+          "value": "1.34 (1.16-1.56)",
+          "rowHeaders": [
+            "1-mo follow-up",
+            "73 (36.9)",
+            "90 (45.2)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "(95% CI)"
+          ]
+        },
+        {
+          "value": "<.001",
+          "rowHeaders": [
+            "1-mo follow-up",
+            "73 (36.9)",
+            "90 (45.2)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "P Value"
+          ]
+        },
+        {
+          "value": "155 (78.3)",
+          "rowHeaders": [
+            "3-mo follow-up (cumulative)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Sustained Care",
+            "(n = 198)"
+          ]
+        },
+        {
+          "value": "123 (61.8)",
+          "rowHeaders": [
+            "3-mo follow-up (cumulative)",
+            "73 (36.9)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Standard Care",
+            "(n = 199)"
+          ]
+        },
+        {
+          "value": "1.27 (1.11-1.44)",
+          "rowHeaders": [
+            "3-mo follow-up (cumulative)",
+            "73 (36.9)",
+            "90 (45.2)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "(95% CI)"
+          ]
+        },
+        {
+          "value": "<.001",
+          "rowHeaders": [
+            "3-mo follow-up (cumulative)",
+            "73 (36.9)",
+            "90 (45.2)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "P Value"
+          ]
+        },
+        {
+          "value": "161 (81.3)",
+          "rowHeaders": [
+            "6-mo follow-up (cumulative)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Sustained Care",
+            "(n = 198)"
+          ]
+        },
+        {
+          "value": "130 (65.3)",
+          "rowHeaders": [
+            "6-mo follow-up (cumulative)",
+            "73 (36.9)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Standard Care",
+            "(n = 199)"
+          ]
+        },
+        {
+          "value": "1.24 (1.10-1.41)",
+          "rowHeaders": [
+            "6-mo follow-up (cumulative)",
+            "73 (36.9)",
+            "90 (45.2)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "(95% CI)"
+          ]
+        },
+        {
+          "value": "<.001",
+          "rowHeaders": [
+            "6-mo follow-up (cumulative)",
+            "73 (36.9)",
+            "90 (45.2)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "P Value"
+          ]
+        },
+        {
+          "value": "146 (73.7)",
+          "rowHeaders": [
+            "≥2"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Sustained Care",
+            "(n = 198)"
+          ]
+        },
+        {
+          "value": "103 (51.8)",
+          "rowHeaders": [
+            "≥2",
+            "51 (25.8)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Standard Care",
+            "(n = 199)"
+          ]
+        },
+        {
+          "value": "1.42 (1.22-1.67)",
+          "rowHeaders": [
+            "≥2",
+            "51 (25.8)",
+            "90 (45.2)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "(95% CI)"
+          ]
+        },
+        {
+          "value": "<.001",
+          "rowHeaders": [
+            "≥2",
+            "51 (25.8)",
+            "90 (45.2)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "P Value"
+          ]
+        },
+        {
+          "value": "137 (69.2)",
+          "rowHeaders": [
+            "≥4"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Sustained Care",
+            "(n = 198)"
+          ]
+        },
+        {
+          "value": "1.53 (1.28-1.83)",
+          "rowHeaders": [
+            "≥4",
+            "51 (25.8)",
+            "90 (45.2)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "(95% CI)"
+          ]
+        },
+        {
+          "value": "<.001",
+          "rowHeaders": [
+            "≥4",
+            "51 (25.8)",
+            "90 (45.2)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "P Value"
+          ]
+        },
+        {
+          "value": "120 (60.6)",
+          "rowHeaders": [
+            "≥8"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Sustained Care",
+            "(n = 198)"
+          ]
+        },
+        {
+          "value": "1.65 (1.33-2.05)",
+          "rowHeaders": [
+            "≥8",
+            "51 (25.8)",
+            "73 (36.7)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "(95% CI)"
+          ]
+        },
+        {
+          "value": "<.001",
+          "rowHeaders": [
+            "≥8",
+            "51 (25.8)",
+            "73 (36.7)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "P Value"
+          ]
+        },
+        {
+          "value": "1.71 (1.14-2.56)",
+          "rowHeaders": [
+            "6-mo follow-up",
+            "51 (25.8)",
+            "30 (15.1)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "(95% CI)",
+            "Relative Risk",
+            "(95% CI)",
+            "these analyses."
+          ]
+        },
+        {
+          "value": ".009",
+          "rowHeaders": [
+            "6-mo follow-up",
+            "51 (25.8)",
+            "30 (15.1)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "P Value",
+            "Relative Risk",
+            "P Value",
+            "these analyses."
+          ]
+        },
+        {
+          "value": "103 (52.0)",
+          "rowHeaders": [
+            "1-mo follow-up"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Sustained Care",
+            "(n = 198)",
+            "Sustained Care",
+            "(n = 198)",
+            "Abstinent for past 7 d"
+          ]
+        },
+        {
+          "value": "1.33 (1.07-1.65)",
+          "rowHeaders": [
+            "1-mo follow-up",
+            "89 (44.9)",
+            "78 (39.2)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "(95% CI)",
+            "Relative Risk",
+            "(95% CI)",
+            "these analyses."
+          ]
+        },
+        {
+          "value": ".01",
+          "rowHeaders": [
+            "1-mo follow-up",
+            "89 (44.9)",
+            "78 (39.2)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "P Value",
+            "Relative Risk",
+            "P Value",
+            "these analyses."
+          ]
+        },
+        {
+          "value": "1.23 (0.96-1.56)",
+          "rowHeaders": [
+            "3-mo follow-up",
+            "89 (44.9)",
+            "73 (36.7)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "(95% CI)",
+            "Relative Risk",
+            "(95% CI)",
+            "these analyses."
+          ]
+        },
+        {
+          "value": ".10",
+          "rowHeaders": [
+            "3-mo follow-up",
+            "89 (44.9)",
+            "73 (36.7)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "P Value",
+            "Relative Risk",
+            "P Value",
+            "these analyses."
+          ]
+        },
+        {
+          "value": "1.45 (1.10-1.92)",
+          "rowHeaders": [
+            "6-mo follow-up",
+            "81 (40.9)",
+            "56 (28.1)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "(95% CI)",
+            "Relative Risk",
+            "(95% CI)",
+            "these analyses."
+          ]
+        },
+        {
+          "value": ".008",
+          "rowHeaders": [
+            "6-mo follow-up",
+            "81 (40.9)",
+            "56 (28.1)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "P Value",
+            "Relative Risk",
+            "P Value",
+            "these analyses."
+          ]
+        },
+        {
+          "value": "1.39 (1.08-1.78)",
+          "rowHeaders": [
+            "1-mo follow-up",
+            "91 (46.0)",
+            "66 (33.2)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "(95% CI)",
+            "Relative Risk",
+            "(95% CI)",
+            "these analyses."
+          ]
+        },
+        {
+          "value": ".01",
+          "rowHeaders": [
+            "1-mo follow-up",
+            "91 (46.0)",
+            "66 (33.2)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "P Value",
+            "Relative Risk",
+            "P Value",
+            "these analyses."
+          ]
+        },
+        {
+          "value": "1.43 (1.04-1.97)",
+          "rowHeaders": [
+            "3-mo follow-up",
+            "67 (33.8)",
+            "47 (23.6)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "(95% CI)",
+            "Relative Risk",
+            "(95% CI)",
+            "these analyses."
+          ]
+        },
+        {
+          "value": ".03",
+          "rowHeaders": [
+            "3-mo follow-up",
+            "67 (33.8)",
+            "47 (23.6)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "P Value",
+            "Relative Risk",
+            "P Value",
+            "these analyses."
+          ]
+        },
+        {
+          "value": "1.70 (1.15-2.51)",
+          "rowHeaders": [
+            "6-mo follow-up",
+            "54 (27.3)",
+            "32 (16.1)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "(95% CI)",
+            "Relative Risk",
+            "(95% CI)",
+            "these analyses."
+          ]
+        },
+        {
+          "value": ".007",
+          "rowHeaders": [
+            "6-mo follow-up",
+            "54 (27.3)",
+            "32 (16.1)"
+          ],
+          "columnHeaders": [
+            "Table 2. Use of Smoking Cessation Treatment After Hospital Discharge by Treatment Groupa",
+            "Relative Risk",
+            "P Value",
+            "Relative Risk",
+            "P Value",
+            "these analyses."
+          ]
+        }
+      ],
+      "page": 1
+    }
+  ]
+}

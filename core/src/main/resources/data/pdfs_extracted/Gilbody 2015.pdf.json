@@ -1,0 +1,1038 @@
+{
+  "blocks": [
+    {
+      "type": "LINES",
+      "value": "Bespoke smoking cessation for people with severe mental ill health (SCIMITAR): a pilot randomised controlled trial",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Background People with severe mental ill health are three times more likely to smoke but typically do not access conventional smoking cessation services, contributing to widening health inequalities and reduced life expectancy. We aimed to pilot an intervention targeted at smokers with severe mental ill health and to test methods of recruitment, randomisation, and followup before implementing a full trial.",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "People with severe mental ill health, including schizophrenia and bipolar disorder, are more likely to smoke and to smoke heavily than are the general population. The point prevalence of smoking among individuals with severe mental ill health has been estimated to be between 58% and 90%. People with severe mental ill health begin smoking at an earlier age and at a higher incidence 4,5 than do those without severe mental ill health. Furthermore, compared with the general population, individuals with severe mental ill health smoke every cigarette more intensely (ie, they take more and deeper inhalations), extracting a greater level of nicotine from each cigarette, are more dependent on nicotine, are more likely to develop smoking-related diseases, and are less likely to receive help in quitting. Smoking is part of the culture of mental health services, among both staff and patients. Many people with severe mental ill health are misinformed by health professionals about the risks and benefi ts of smoking versus treatment for nicotine dependence and they fear and overestimate the medical risks of nicotine-replacement treatments. Many individuals believe that smoking relieves depression and anxiety, whereas nicotine in fact increases anxiety.\nSmoking contributes to the general poor physical health of individuals with severe mental ill health. Cohort studies show that people with disorders such as schizophrenia die on average 20-25 years earlier than do those without severe mental ill health, and smoking is the most important modifiable risk factor for this health inequality. Recent public health guidance issued by the UK National Institute for stresses that mental health services should become completely smoke free and that all people who use mental health services should be given full access to smoking cessation interventions. However, specific guidance is scarce on how smoking cessation services should be provided and in what way smoking cessation interventions might need to be adapted for individuals with severe mental ill health. Trial-based evidence suggests that people with severe mental ill health are able to give up smoking and that behavioural and pharmacological interventions to aid quitting might be as effective for people with severe mental ill health as they are for the general population. However, individuals with severe mental ill health do not generally access conventional smoking cessation services. In the general population, the rate of smoking is falling whereas little change has happened among people with severe mental ill health. To address this widening health inequality, we designed a smoking cessation intervention strategy specifically for people with severe mental ill health, based on evidencesupported behaviour change techniques and effective pharmacotherapy. The strategy represents a means of organising and delivering smoking cessation services in away that is responsive to the needs of people with severe mental ill health and that could boost the chances of them engaging with and using evidencesupported smoking cessation methods. In the Smoking Cessation Intervention for Severe Mental Ill Health Trial (SCIMITAR), we aimed to compare the clinical effectiveness and cost-eff ectiveness of a bespoke smoking cessation intervention with that of conventional UK National Health Service (NHS) smoking cessation methods in people with severe mental ill health. We sought preliminary evidence of clinical effectiveness in this population because doing a fully powered trial without this information would be premature.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "SCIMITAR is a pilot, pragmatic, two-arm, parallel group, randomised controlled trial to test recruitment, retention, and randomisation in people with severe mental ill health. We recruited participants from NHS primary care and mental health services in the UK (based in York, Scarborough, Manchester, and Hull). We judged people eligible for the trial if they were aged 18 years or older, had a severe mental health disorder, currently smoked, and had expressed an interest in cutting down smoking (although not necessarily quitting). No definition of severe mental ill health has been agreed, so we adopted a pragmatic definition and included people with a documented diagnosis of either schizophrenia or a delusional or psychotic illness (corresponding with categories F20·X and F22·X in the 10th revision of the International Classifi cation of Diseases [ICD 10]) or bipolar disorder (F31·X in ICD 10).\nWe specified that this diagnosis of severe mental ill health had to be made before recruitment by clinicians working within specialist psychiatric services and reported in either primary care or psychiatric notes. We excluded people who were pregnant or breastfeeding, had comorbid drug or alcohol problems (as ascertained by the family doctor or mental health worker), were nonEnglish speakers, or did not have capacity to consent.\nAll participants provided written informed consent to take part in the trial. Ethics approval was sought and granted on, by Leeds (East) Research Ethics Committee (10/H1306/72).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "We did simple randomisation with a computer-generated random number sequence. We used a secure telephone randomisation service run by the York Trials Unit to generate the random sequence and make the random allocation. Researchers telephoned the service as soon as a participant had provided informed consent and completed a baseline assessment. We randomly allocated individuals to either usual care (control group) or usual care plus a bespoke smoking cessation strategy (intervention group). After the random allocation was made, the researcher immediately informed the participant of their allocation. We sent a letter to the participant's family doctor and mental health specialist detailing their allocation and subsequent smoking cessation management. Because of the nature of the intervention, we could not mask participants and family doctors to the treatment allocation. Moreover, we could not mask researchers to treatment allocations because they informed participants at the baseline appointment of their allocation. To achieve masking, subsequent follow-up assessments would need to be done by a different researcher. People with severe mental ill health are difficult to followup; thus, we decided that to maximise participants' engagement with the study at subsequent follow-up visits, the researcher who did the baseline interview should complete all subsequent interviews.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "As soon as participants had given consent to take part in the trial, we asked them to complete a baseline questionnaire. We took height and weight measurements to calculate body-mass index (BMI) and obtained an exhaled carbon monoxide reading with a CO monitor. We then telephoned the randomisation service and allocated the participant to their study group. After randomisation, we followed up participants for 12 months, obtaining data at 1 month, 6 months, and 12 months.\nAll participants in the trial received usual care, which consisted of advice on how to access the full range of smoking cessation services off ered by local NHS services and family doctors, which are provided at no direct cost. We also told participants about a free telephone helpline (NHS Quitline) offering advice on smoking cessation. All participants remained under the care of their family doctors and continued to receive their usual service from the mental health team throughout the trial.\nIn addition to usual care, we off ered participants who were allocated to the intervention group a bespoke, structured, smoking cessation programme. This individually tailored service was delivered by a skilled mental health practitioner working in conjunction with the participant and the participant's family doctor or mental health specialist. The intervention met NICE guidelines for smoking cessation services at the time of the trial, and we delivered the service according to the Manual of Smoking Cessation, 21 with alterations to cater for people with severe mental ill health. Adaptations included making several assessments before setting a quit date, recognising the reasons for smoking in the context of an individual's mental illness, providing home visits, giving additional face-to-face support after an unsuccessful quit attempt or relapse, and informing the participant's family doctor and psychiatrist of a successful quit attempt so the clinician could review antipsychotic drug doses in case their metabolism changed.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The primary outcome was smoking cessation 12 months after randomisation. We validated this outcome by measuring exhaled CO with a CO monitor. We defined smoking cessation as a CO reading less than 10 ppm. If we could not obtain a CO measurement, we accepted the participant's self-report of abstinence.\nSecondary outcomes were the number of cigarettes smoked (reported by the patient) and scores on the Fagerstrom test for nicotine dependence, motivation to quit, 23 patient health questionnaire 9, 24 and short form 12 (physical and mental components). We screened primary care notes and recorded details of any nicotinereplacement treatments or other products for smoking cessation that had been prescribed to participants, for comparison between groups. We also asked participants about drug misuse at baseline and 12 month follow-up, to investigate nicotine substitution. Finally, we calculated BMI to assess weight change after initiation of the smoking cessation intervention. We classified adverse events according to their seriousness and relation to the intervention.\nThis trial is registered at ISRCTN.com, number ISRCTN79497236.  Data are number of participants (%), median (IQR), or mean (SD). *Data missing for two people in the control group. †Data missing for one participant in the control group. ‡Data missing for two controls and three people in the intervention group. §Data missing for one individual in each group.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "We designed an external pilot trial of a complex intervention with the primary aim to test the feasibility of the new intervention and methods of recruitment, randomisation, and follow-up in a population with severe mental ill health ahead of a full trial. We aimed to recruit 100 participants to the pilot trial. Assuming loss to follow-up of 30% of participants, with a sample size of 100 the 95% CI for this level of attrition would be between 21% and 39%. Hence, an external pilot trial of 100 participants should ensure robust estimates of recruitment and follow-up in this population. Although the likelihood was low that the small sample size would result in effectiveness being established, we nonetheless tested the primary outcome to mimic practice in a full-scale trial. We must emphasise that results from this analysis are preliminary and should be interpreted with caution. We compared the two treatment groups by logistic regression, with adjustment for the prognostic variables sex, age, number of cigarettes smoked at baseline, and alcohol consum p tion. We calculated odds ratios and corresponding 95% CIs from this model. We summarised all secondary outcomes descriptively with either mean (SD) or median (IQR) for continuous outcomes and number of participants (%) for categorical data. We reported the numbers of patients (complete cases only) included in primary and secondary analyses for each treatment group. We did a sensitivity analysis, assuming that people with missing data were still smoking.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "This study was commissioned by the UK National Institute for Health Research Health Technology Assessment Programme (project reference HTA 07/41/05). The funder had no role in study design, data collection, data analysis, data interpretation, or writing of the report. The corresponding author had full access to all data in the study, and had final responsibility for the decision to submit for publication.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Between May, 2011, and May, 2012, we recruited 97 (of the planned 100) participants to the trial (fi gure 1); 51 were allocated to usual care (control group) and 46 were assigned to usual care plus the bespoke smoking cessation programme (intervention group). Groups were well balanced in terms of prognostic and socio demographic characteristics (table 1). The median age of participants was 47·2 years (IQR 37·0-56·3). Mean duration of smoking was 27·1 years (SD 12·9, range 3-60) and a mean of 24·8 cigarettes (SD 12·7, range 5-60) were smoked per day.\nAt 12 months, 64 participants had a CO measurement available and four people self-reported their smoking status (two in each group). Eight (23%) of 35 individuals allocated to the control group had stopped smoking compared with 12 (36%) of 33 people assigned to the intervention group. By logistic regression, adjusted for sex, age, baseline number of cigarettes smoked, and baseline alcohol consumption, the likelihood of stopping smoking in the intervention group was three times higher than in the control group (odds ratio 2·9, 95% CI 0·8-10·5). Assuming that missing information meant the individual was still smoking, eight (16%) of 51 participants had stopped smoking in the control group compared with 12 (26%) of 46 people assigned to the intervention group (odds ratio 2·5, 95% CI 0·8-7·7).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Baseline\nScore on Fagerstrom test of nicotine dependence\nScore on patient health questionnaire 9\nScore on short form 12, physical component\nScore on short form 12, mental component\nData are mean (SD), median (IQR), or number of patients (%). presents the analysis of secondary outcomes. The number of cigarettes smoked per day fell slightly over the first 6 months in both groups but then rose at 12 months. Scores on the Fagerstrom test of nicotine dependence showed a slight initial decrease in both groups, indicating diminished nicotine dependence, and remained stable over 12 months of followup. Scores on motivation to quit showed similar small reductions in both groups at 12 months, suggesting that participants were somewhat motivated to stop smoking. High scores on patient health questionnaire 9 indicate augmented levels of depression; scores were fairly stable over the first 6 months in both groups and then escalated at 12 months in the intervention group and fell in the control group. On the physical component of short form 12, scores rose slightly over 6 months in both groups, suggesting better physical health, and then fell at 12 months, with the control group having scores at 12 months similar to those seen at baseline, whereas scores were slightly higher than baseline in the intervention group. Scores on the mental component of short form 12 fell slightly in the first 6 months in the intervention group, but by 12 months they were only slightly lower than at baseline. In the usual care group, score rose on the mental component after 1 month then decreased by 12 months but were slightly higher than baseline. BMI changed little over 12 months in either group. At 12 months, drug misuse was reported by two (6%) participants in the intervention arm and four (12%) in the control arm.\nNo individuals assigned to the control group used faceto-face NHS stop smoking services, but three (6%) participants allocated to the intervention group reported using NHS Quitline. During the trial period, 22 (48%) people assigned to the intervention group had used pharmacotherapy for smoking cessation, as noted in their primary care record, compared with ten (19%) controls (fi gure 2). The mainstay of pharmacotherapy was nicotine replacement; two (4%) people assigned the intervention were recorded as having received varenicline.\n21 adverse events were recorded among 17 participants during the trial (table 4). 12 events were classed as serious; however, all were unlikely to be related to the study. Of the patients with serious adverse events, eight were admitted because of a deterioration in their mental health (one patient was admitted on two separate occasions), one had surgery for an existing problem, and one was admitted for an illness unrelated to the study (chest infection); one patient died from lung cancer. Six adverse events were judged defi nitely or probably related to the intervention, but all were non-serious events; four were side-eff ects from nicotine-replacement products (burning mouth, feeling sleepy, headaches) and two were minor known side-eff ects of smoking cessation drugs (headaches, nightmares). Furthermore, one participant had a deterioration in their mental health that did not need admission, one individual had an unrelated complaint (ear infection), and one patient was diagnosed with parasomnia.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The main findings of SCIMITAR are that smoking cessation can be achieved among people with severe mental ill health and that use of a bespoke smoking cessation intervention might increase engagement with services and boost the chances of sustained quitting. The observed odds of successful quitting at 12 months were almost three times higher among individuals assigned to a bespoke smoking cessation intervention compared with people allocated to receive usual care; however, we should be cautious in interpreting these results because they are based on pilot trial data from 68 participants and the 95% CI for the odds ratio was wide. Clinicians should always ask people with severe mental ill health about their desire to quit smoking and ensure onward referral to the most suitable local smoking cessation service.\nThe bespoke smoking cessation intervention tested in SCIMITAR represents an organisational enhancement   and model of care to ensure that people with severe mental ill health are more able to access and benefit from evidence-supported strategies to quit smoking. To our knowledge, this trial is the first in the UK of a bespoke smoking cessation intervention designed for people with severe mental ill health and delivered by staff working within mental health services, with a comparator of conventional NHS stop smoking services (panel). At present, usual NHS practice is to refer people with severe mental ill health to existing NHS stop smoking services, and few adaptations have been made to accommodate the specific needs of such individuals.\nAlthough the bespoke strategy might entail more faceto-face time than with conventional stop smoking services, the components of the intervention-eg, delivery by a mental health professional who understands the needs of people with severe mental ill health-are likely to have an important role in its effectiveness. Smoking cessation interventions are rarely delivered by mental health professionals, representing anew role for these staff , whereas stop smoking programmes are at the centre of NHS services. The model of care accords with recommendations made by NICE in recent guidance. We note that NICE recommendations were made without robust evidence of clinical effectiveness and cost-eff ectiveness drawn from trial-based evidence.\nIn designing the SCIMITAR intervention, we adapted and enhanced evidence-supported NHS smoking cessation strategies and we off ered a cut-down-to-quit or nicotine-preloading approach. The results of this pilot trial, alongside data from a systematic review, 14 represent accumulating evidence of the effectiveness of smoking cessation for people with severe mental ill health. Ultimately, the clinical effectiveness and costeff ectiveness of a bespoke smoking cessation intervention for such individuals can only be tested within a fully powered randomised controlled trial. We note that a bespoke smoking cessation programme is likely to be more expensive than usual NHS services and will need new investment, justified on the basis of a costeff ectiveness analysis.\nOur findings also showed a deterioration in mental health in people assigned to the intervention group compared with controls. This finding does not accord with evidence gathered from smokers in the general population, for whom cessation of smoking usually improves mental health. However, this finding does indicate that mood should be monitored in clinical practice and the safety of smoking cessation should be further examined.\nWithin SCIMITAR, participants with severe mental ill health were encouraged to choose an appropriate form of smoking cessation treatment in collaboration with their family doctor. Family doctors were reluctant to prescribe products to aid smoking cessation, other than nicotinereplacement treatments, and this choice accords with recent guidance. Our pilot trial has several limitations. First, we did not biochemically verify endpoints to test smoking cessation in the short and medium term; a future trial should capture these outcomes. Furthermore, we obtained a biochemically verified outcome for most participants who remained in the trial, but we were unable to biochemically verify the outcome for two retained participants. The results of the trial were not altered substantially when we analysed self-report smoking data for these two participants. Nevertheless, it is important that a gold standard biochemically verified outcome is obtained in preference to self-reported data. Second, although follow-up was good in our population, 30% of participants were lost to follow-up at 12 months;\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Before designing the Smoking Cessation Intervention for Severe Mental Ill Health Trial (SCIMITAR), we first did a systematic review. We searched key databases (Medline, Embase, CINAHL, PsycINFO, HMIC, CENTRAL, and DARE) for smoking cessation studies and extracted data independently. We included randomised controlled trials done in any country or care setting and in adult smokers with severe mental ill health. We identified ten small-scale trials in which the potential effectiveness was highlighted of nicotine replacement, bupropion, and behaviour change techniques to enable people with severe mental ill health to quit smoking. 14 Eff ect sizes accorded broadly with estimates of effect in populations with non-severe mental ill health. Our systematic review also showed that smoking cessation was unlikely to cause a deterioration in mental health. These data informed the content and design of the pilot trial and the bespoke intervention. However, our systematic review highlighted the absence of research showing how services should be organised and delivered within existing mental health services and did not clarify whether people with severe mental ill health should be referred to existing smoking cessation services or whether a bespoke service was needed. Furthermore, we identified no large-scale trials or studies with longer term biologically verified smoking cessation as an outcome.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The findings of SCIMITAR show the feasibility of delivering a bespoke smoking cessation intervention to people with severe mental ill health. Moreover, we were able to recruit, randomise, and retain in the trial participants with severe mental ill health. Although the pilot trial was not powered to show clinical effectiveness and cost-eff ectiveness, people allocated to the bespoke intervention were three times more like to stop smoking than were participants in a control group; however, the 95% CI was wide. Further research is needed to ascertain whether a general smoking cessation service or a bespoke programme designed for people with severe mental ill health is the most effective and efficient configuration.\nhowever, this loss to follow-up did not differ between groups (16 [31%] of 51 controls were lost to follow-up vs 13 [28%] of 46 people in the intervention group). Strategies to enhance follow-up-eg, small payments for participants-could be used in a future trial to reduce attrition and potential bias. Finally, we did a pragmatic evaluation of a complex intervention, combining case management, pharmacotherapy, and evidence-supported behaviour change techniques. To disaggregate the relative contributions of these elements within the context of such an assessment is not possible and remains a topic for future consideration.\nIn the face of substantial health inequalities for people with severe mental ill health, smoking is the most important modifiable risk factor for poor health and reduced life expectancy. We have shown that people with severe mental ill health engage more readily with a bespoke intervention, which could translate into increased numbers of people stopping smoking. Although ensuring equitable provision of smoking cessation services for all populations is important, to invest in bespoke smoking cessation services without the results of a definitive clinical trial would be premature. Further research should aim to establish the clinical effectiveness and cost-eff ectiveness of bespoke smoking cessation services for people with severe mental ill health. A fully powered trial will commence in July, 2015 (ISCTRN72955454).\nContributors SG, M-SM, JL, CH, TBr, SK, SP, and SM designed the study. M-SM, NM, EP, CS, CP, and SK collected data. TBe, CH, JL, and SP analysed data. CH contributed to presentation of data. CH, SG, TBe, JL, SP, and EP interpreted data. SG, EP, TBe, CH, JL, and SK wrote the report. M-SM, NM, TBr, CP, SP, SM, and CS critically reviewed the report.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "We declare no competing interests.\n",
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "26 excluded",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "123 returned consent to contact"
+          ]
+        },
+        {
+          "value": "13 unable to be contacted",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "123 returned consent to contact"
+          ]
+        },
+        {
+          "value": "97 randomised",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "123 returned consent to contact"
+          ]
+        },
+        {
+          "value": "51 usual care (control group)",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "123 returned consent to contact"
+          ]
+        },
+        {
+          "value": "46 bespoke smoking cessation",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "123 returned consent to contact"
+          ]
+        },
+        {
+          "value": "35 included in primary analysis",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "123 returned consent to contact"
+          ]
+        },
+        {
+          "value": "12 months",
+          "rowHeaders": [
+            "at"
+          ],
+          "columnHeaders": [
+            "123 returned consent to contact"
+          ]
+        },
+        {
+          "value": "16 did not return questionnaire",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "123 returned consent to contact"
+          ]
+        },
+        {
+          "value": "11 unknown reasons",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "123 returned consent to contact"
+          ]
+        },
+        {
+          "value": "33 included in primary analysis",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "123 returned consent to contact"
+          ]
+        },
+        {
+          "value": "12 months",
+          "rowHeaders": [
+            "at",
+            "at"
+          ],
+          "columnHeaders": [
+            "123 returned consent to contact"
+          ]
+        },
+        {
+          "value": "13 did not return questionnaire",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "123 returned consent to contact"
+          ]
+        },
+        {
+          "value": "10 withdrawn from study",
+          "rowHeaders": [
+            "5 withdrawn from study"
+          ],
+          "columnHeaders": [
+            "123 returned consent to contact"
+          ]
+        },
+        {
+          "value": "33",
+          "rowHeaders": [
+            "Exhaled CO measurement (n)"
+          ],
+          "columnHeaders": [
+            "123 returned consent to contact",
+            "Control",
+            "group"
+          ]
+        },
+        {
+          "value": "31",
+          "rowHeaders": [
+            "Exhaled CO measurement (n)",
+            "8 (24%)"
+          ],
+          "columnHeaders": [
+            "123 returned consent to contact",
+            "Intervention",
+            "group"
+          ]
+        },
+        {
+          "value": "10 (32%)",
+          "rowHeaders": [
+            "Quit smoking (verified by exhaled CO)",
+            "8 (24%)"
+          ],
+          "columnHeaders": [
+            "123 returned consent to contact",
+            "Intervention",
+            "group"
+          ]
+        },
+        {
+          "value": "35",
+          "rowHeaders": [
+            "Exhaled CO measurement or"
+          ],
+          "columnHeaders": [
+            "123 returned consent to contact",
+            "Control",
+            "group"
+          ]
+        },
+        {
+          "value": "33",
+          "rowHeaders": [
+            "Exhaled CO measurement or",
+            "8 (24%)"
+          ],
+          "columnHeaders": [
+            "123 returned consent to contact",
+            "Intervention",
+            "group"
+          ]
+        },
+        {
+          "value": "12 (36%)",
+          "rowHeaders": [
+            "Total who quit smoking",
+            "8 (23%)"
+          ],
+          "columnHeaders": [
+            "123 returned consent to contact",
+            "Intervention",
+            "group"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "26 excluded",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "123 returned consent to contact"
+          ]
+        },
+        {
+          "value": "13 unable to be contacted",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "123 returned consent to contact"
+          ]
+        },
+        {
+          "value": "97 randomised",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "123 returned consent to contact"
+          ]
+        },
+        {
+          "value": "51 usual care (control group)",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "123 returned consent to contact"
+          ]
+        },
+        {
+          "value": "46 bespoke smoking cessation",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "123 returned consent to contact"
+          ]
+        },
+        {
+          "value": "35 included in primary analysis",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "123 returned consent to contact"
+          ]
+        },
+        {
+          "value": "12 months",
+          "rowHeaders": [
+            "at"
+          ],
+          "columnHeaders": [
+            "123 returned consent to contact"
+          ]
+        },
+        {
+          "value": "16 did not return questionnaire",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "123 returned consent to contact"
+          ]
+        },
+        {
+          "value": "11 unknown reasons",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "123 returned consent to contact"
+          ]
+        },
+        {
+          "value": "33 included in primary analysis",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "123 returned consent to contact"
+          ]
+        },
+        {
+          "value": "12 months",
+          "rowHeaders": [
+            "at",
+            "at"
+          ],
+          "columnHeaders": [
+            "123 returned consent to contact"
+          ]
+        },
+        {
+          "value": "13 did not return questionnaire",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "123 returned consent to contact"
+          ]
+        },
+        {
+          "value": "10 withdrawn from study",
+          "rowHeaders": [
+            "5 withdrawn from study"
+          ],
+          "columnHeaders": [
+            "123 returned consent to contact"
+          ]
+        },
+        {
+          "value": "33",
+          "rowHeaders": [
+            "Exhaled CO measurement (n)"
+          ],
+          "columnHeaders": [
+            "123 returned consent to contact",
+            "Control",
+            "group"
+          ]
+        },
+        {
+          "value": "31",
+          "rowHeaders": [
+            "Exhaled CO measurement (n)",
+            "8 (24%)"
+          ],
+          "columnHeaders": [
+            "123 returned consent to contact",
+            "Intervention",
+            "group"
+          ]
+        },
+        {
+          "value": "10 (32%)",
+          "rowHeaders": [
+            "Quit smoking (verified by exhaled CO)",
+            "8 (24%)"
+          ],
+          "columnHeaders": [
+            "123 returned consent to contact",
+            "Intervention",
+            "group"
+          ]
+        },
+        {
+          "value": "35",
+          "rowHeaders": [
+            "Exhaled CO measurement or"
+          ],
+          "columnHeaders": [
+            "123 returned consent to contact",
+            "Control",
+            "group"
+          ]
+        },
+        {
+          "value": "33",
+          "rowHeaders": [
+            "Exhaled CO measurement or",
+            "8 (24%)"
+          ],
+          "columnHeaders": [
+            "123 returned consent to contact",
+            "Intervention",
+            "group"
+          ]
+        },
+        {
+          "value": "12 (36%)",
+          "rowHeaders": [
+            "Total who quit smoking",
+            "8 (23%)"
+          ],
+          "columnHeaders": [
+            "123 returned consent to contact",
+            "Intervention",
+            "group"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "0",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "15"
+          ]
+        },
+        {
+          "value": "5",
+          "rowHeaders": [
+            "Patients"
+          ],
+          "columnHeaders": [
+            "15"
+          ]
+        },
+        {
+          "value": "0",
+          "rowHeaders": [
+            "Defi",
+            "nitely related"
+          ],
+          "columnHeaders": [
+            "Usual care",
+            "m",
+            "a",
+            "r",
+            "p",
+            "s",
+            "h",
+            "t",
+            "u",
+            "o",
+            "Control",
+            "group (n=51)"
+          ]
+        },
+        {
+          "value": "0",
+          "rowHeaders": [
+            "Defi",
+            "nitely related"
+          ],
+          "columnHeaders": [
+            "Usual care",
+            "y",
+            "a",
+            "r",
+            "p",
+            "s",
+            "l",
+            "a",
+            "s",
+            "a",
+            "N",
+            "Intervention",
+            "group (n=46)"
+          ]
+        },
+        {
+          "value": "0",
+          "rowHeaders": [
+            "Defi",
+            "nitely related"
+          ],
+          "columnHeaders": [
+            "Usual care",
+            "b",
+            "n",
+            "li",
+            "i",
+            "n",
+            "e",
+            "r",
+            "a",
+            "V",
+            "Total",
+            "group (n=46)"
+          ]
+        },
+        {
+          "value": "0",
+          "rowHeaders": [
+            "Probably related"
+          ],
+          "columnHeaders": [
+            "Usual care",
+            "m",
+            "a",
+            "r",
+            "p",
+            "s",
+            "h",
+            "t",
+            "u",
+            "o",
+            "Control",
+            "group (n=51)"
+          ]
+        },
+        {
+          "value": "0",
+          "rowHeaders": [
+            "Probably related"
+          ],
+          "columnHeaders": [
+            "Usual care",
+            "y",
+            "a",
+            "r",
+            "p",
+            "c",
+            "l",
+            "a",
+            "s",
+            "a",
+            "N",
+            "Intervention",
+            "group (n=46)"
+          ]
+        },
+        {
+          "value": "0",
+          "rowHeaders": [
+            "Probably related"
+          ],
+          "columnHeaders": [
+            "Usual care",
+            "b",
+            "n",
+            "li",
+            "i",
+            "n",
+            "e",
+            "r",
+            "a",
+            "V",
+            "Total",
+            "group (n=46)"
+          ]
+        },
+        {
+          "value": "1",
+          "rowHeaders": [
+            "Unlikely to be related"
+          ],
+          "columnHeaders": [
+            "Usual care",
+            "m",
+            "a",
+            "r",
+            "p",
+            "s",
+            "h",
+            "t",
+            "u",
+            "o",
+            "Control",
+            "group (n=51)"
+          ]
+        },
+        {
+          "value": "4",
+          "rowHeaders": [
+            "Unlikely to be related"
+          ],
+          "columnHeaders": [
+            "Usual care",
+            "y",
+            "a",
+            "r",
+            "p",
+            "c",
+            "l",
+            "a",
+            "s",
+            "a",
+            "N",
+            "Intervention",
+            "group (n=46)"
+          ]
+        },
+        {
+          "value": "5",
+          "rowHeaders": [
+            "Unlikely to be related"
+          ],
+          "columnHeaders": [
+            "Usual care",
+            "b",
+            "n",
+            "li",
+            "i",
+            "n",
+            "e",
+            "r",
+            "a",
+            "V",
+            "Total",
+            "group (n=46)"
+          ]
+        },
+        {
+          "value": "0",
+          "rowHeaders": [
+            "Unlikely to be related"
+          ],
+          "columnHeaders": [
+            "Usual care",
+            "m",
+            "a",
+            "r",
+            "p",
+            "s",
+            "h",
+            "t",
+            "u",
+            "o",
+            "Control",
+            "group (n=51)"
+          ]
+        },
+        {
+          "value": "6",
+          "rowHeaders": [
+            "Unlikely to be related"
+          ],
+          "columnHeaders": [
+            "Usual care",
+            "y",
+            "a",
+            "r",
+            "p",
+            "c",
+            "l",
+            "a",
+            "s",
+            "a",
+            "N",
+            "Intervention",
+            "group (n=46)"
+          ]
+        },
+        {
+          "value": "6",
+          "rowHeaders": [
+            "Unlikely to be related"
+          ],
+          "columnHeaders": [
+            "Usual care",
+            "b",
+            "n",
+            "li",
+            "i",
+            "n",
+            "e",
+            "r",
+            "a",
+            "V",
+            "Total",
+            "group (n=46)"
+          ]
+        },
+        {
+          "value": "1",
+          "rowHeaders": [
+            "Unclassifi",
+            "ed"
+          ],
+          "columnHeaders": [
+            "Usual care",
+            "m",
+            "a",
+            "r",
+            "p",
+            "s",
+            "h",
+            "t",
+            "u",
+            "o",
+            "Control",
+            "group (n=51)"
+          ]
+        },
+        {
+          "value": "0",
+          "rowHeaders": [
+            "Unclassifi",
+            "ed"
+          ],
+          "columnHeaders": [
+            "Usual care",
+            "y",
+            "a",
+            "r",
+            "p",
+            "c",
+            "l",
+            "a",
+            "s",
+            "a",
+            "N",
+            "Intervention",
+            "group (n=46)"
+          ]
+        },
+        {
+          "value": "1",
+          "rowHeaders": [
+            "Unclassifi",
+            "ed"
+          ],
+          "columnHeaders": [
+            "Usual care",
+            "b",
+            "n",
+            "li",
+            "i",
+            "n",
+            "e",
+            "r",
+            "a",
+            "V",
+            "Total",
+            "group (n=46)"
+          ]
+        },
+        {
+          "value": "1",
+          "rowHeaders": [
+            "Defi",
+            "nitely related"
+          ],
+          "columnHeaders": [
+            "Usual care",
+            "m",
+            "a",
+            "r",
+            "G",
+            "s",
+            "h",
+            "t",
+            "u",
+            "o",
+            "Control",
+            "group (n=51)"
+          ]
+        },
+        {
+          "value": "0",
+          "rowHeaders": [
+            "Defi",
+            "nitely related"
+          ],
+          "columnHeaders": [
+            "Usual care",
+            "y",
+            "a",
+            "g",
+            "p",
+            "c",
+            "l",
+            "a",
+            "s",
+            "a",
+            "N",
+            "Intervention",
+            "group (n=46)"
+          ]
+        },
+        {
+          "value": "1",
+          "rowHeaders": [
+            "Defi",
+            "nitely related"
+          ],
+          "columnHeaders": [
+            "Usual care",
+            "b",
+            "n",
+            "li",
+            "i",
+            "n",
+            "e",
+            "r",
+            "a",
+            "V",
+            "Total",
+            "group (n=46)"
+          ]
+        },
+        {
+          "value": "2",
+          "rowHeaders": [
+            "Probably related"
+          ],
+          "columnHeaders": [
+            "Usual care",
+            "m",
+            "a",
+            "r",
+            "G",
+            "s",
+            "h",
+            "t",
+            "u",
+            "o",
+            "Control",
+            "group (n=51)"
+          ]
+        },
+        {
+          "value": "3",
+          "rowHeaders": [
+            "Probably related"
+          ],
+          "columnHeaders": [
+            "Usual care",
+            "y",
+            "a",
+            "g",
+            "p",
+            "c",
+            "l",
+            "a",
+            "s",
+            "a",
+            "N",
+            "Intervention",
+            "group (n=46)"
+          ]
+        },
+        {
+          "value": "5",
+          "rowHeaders": [
+            "Probably related"
+          ],
+          "columnHeaders": [
+            "Usual care",
+            "b",
+            "n",
+            "li",
+            "i",
+            "n",
+            "e",
+            "r",
+            "a",
+            "V",
+            "Total",
+            "group (n=46)"
+          ]
+        },
+        {
+          "value": "0",
+          "rowHeaders": [
+            "Unlikely to be related"
+          ],
+          "columnHeaders": [
+            "Usual care",
+            "m",
+            "a",
+            "r",
+            "G",
+            "s",
+            "h",
+            "t",
+            "u",
+            "o",
+            "Control",
+            "group (n=51)"
+          ]
+        },
+        {
+          "value": "0",
+          "rowHeaders": [
+            "Unlikely to be related"
+          ],
+          "columnHeaders": [
+            "Usual care",
+            "y",
+            "a",
+            "g",
+            "p",
+            "c",
+            "l",
+            "a",
+            "s",
+            "a",
+            "N",
+            "Intervention",
+            "group (n=46)"
+          ]
+        },
+        {
+          "value": "0",
+          "rowHeaders": [
+            "Unlikely to be related"
+          ],
+          "columnHeaders": [
+            "Usual care",
+            "b",
+            "n",
+            "li",
+            "i",
+            "n",
+            "e",
+            "r",
+            "a",
+            "V",
+            "Total",
+            "group (n=46)"
+          ]
+        },
+        {
+          "value": "1",
+          "rowHeaders": [
+            "Unlikely to be related"
+          ],
+          "columnHeaders": [
+            "Usual care",
+            "m",
+            "a",
+            "r",
+            "G",
+            "s",
+            "h",
+            "t",
+            "u",
+            "o",
+            "Control",
+            "group (n=51)"
+          ]
+        },
+        {
+          "value": "2",
+          "rowHeaders": [
+            "Unlikely to be related"
+          ],
+          "columnHeaders": [
+            "Usual care",
+            "y",
+            "a",
+            "g",
+            "n",
+            "c",
+            "l",
+            "a",
+            "s",
+            "a",
+            "N",
+            "Intervention",
+            "group (n=46)"
+          ]
+        },
+        {
+          "value": "3",
+          "rowHeaders": [
+            "Unlikely to be related"
+          ],
+          "columnHeaders": [
+            "Usual care",
+            "b",
+            "n",
+            "li",
+            "i",
+            "n",
+            "e",
+            "r",
+            "a",
+            "V",
+            "Total",
+            "group (n=46)"
+          ]
+        },
+        {
+          "value": "6",
+          "rowHeaders": [
+            "Total",
+            "Unlikely to be related"
+          ],
+          "columnHeaders": [
+            "Usual care",
+            "m",
+            "a",
+            "r",
+            "G",
+            "s",
+            "h",
+            "t",
+            "u",
+            "o",
+            "Control",
+            "group (n=51)"
+          ]
+        }
+      ],
+      "page": 1
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+# on OSX you can access the various services on the host by modifying the address with host.docker.internal
+# to run the docker compose, run the following command:
+# docker-compose up --build
+
+version: "3.8"
+
+services:
+
+  hbcp-core:
+    container_name: hbcp-core
+    build: ./core
+    image: hbcp-core
+    ports:
+      - "8080:8080"
+    environment:
+      FLAIR_URL: hbcp-flair-tagger
+      FLAIR_PORT: 5000
+      PREDICTION_URL: hbcp-prediction-experiments
+      PREDICTION_PORT: 5001
+      PREDICTION_API_ONLY: "true"
+
+  hbcp-flair-tagger:
+    container_name: hbcp-flair-tagger
+    build: ./flair-tagger/flair
+    image: hbcp-flair-tagger
+    environment:
+      PORT: 5000
+    ports:
+      - "5000:5000"      
+
+  hbcp-prediction-experiments:
+    container_name: hbcp-prediction-experiments
+    build: ./prediction-experiments
+    image: hbcp-prediction-experiments
+    depends_on:
+      - hbcp-core
+    environment:
+      PORT: 5001
+    ports:
+      - "5001:5001"
+      

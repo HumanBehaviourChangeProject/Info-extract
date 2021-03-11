@@ -1,0 +1,10 @@
+**/*
+
+!src
+!pom.xml
+!Dockerfile
+!context.xml
+
+!scripts
+
+src/main/resources/indexes

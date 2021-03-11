@@ -1,0 +1,1960 @@
+{
+  "blocks": [
+    {
+      "type": "LINES",
+      "value": "Effectiveness of a Nurse-Managed, Lay-Led Tobacco Cessation Intervention Among Ohio Appalachian Women",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Objectives: The purpose of this study was to evaluate a nurse-managed, lay-led tobacco cessation intervention delivered to adult women in Ohio Appalachia. Methods: A randomized controlled experimental design included intervention participants (n = 147) enrolled in a nurse-managed, lay-led protocol that incorporated nicotine replacement and behavioral counseling. Control participants (n = 155) received a personalized letter from their clinic physician, who advised them to quit smoking and requested they schedule a clinic appointment to discuss cessation. Results: Self-reported and cotinine-validated quit rates were significantly higher among intervention group participants compared with control group participants at 3-and 6-month follow-up (P < 0.02). At 12 months, self-reported abstinence was 19.1% (intervention group) and 9.0% (control group), with cotinine-validated rates of 12.2% and 7.1%, respectively (P = 0.13). Prolonged abstinence rates were significantly different between groups at 3, 6, and 12 months (P < 0.02). Logistic regression analyses indicated adjusted odds of cotinine-validated quitting was associated with cigarette consumption per day (odds ratio, 0.94; 95% confidence interval, 0.89-0.99) and Center for Epidemiologic Studies Depression Scale score ≥ 16 (odds ratio, 0.39; 95% confidence interval, 0.17-0.90). Conclusions: A lay-led approach that is managed by a nurse may serve as an effective cessation strategy among this high-risk population. Additional efforts are needed to sustain long-term abstinence, even after intensive intervention. (Cancer Epidemiol Biomarkers Prev 2009;18(12):3451-8)",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Socioeconomically disadvantaged populations have higher rates of tobacco-attributable morbidity and mortality, such as heart and lung disease and cancer. In relation to the entire United States, incidence and mortality rates from cervical cancer are higher in Appalachian regions (3), and tobacco consumption has been established as an independent risk factor for cervical cancer (4). Appalachians are known to experience increased levels of poverty compared with the general population and have lower levels of education. In addition, tobacco use is more prevalent among Appalachians, especially those who are disadvantaged. For example, among Ohio Appalachian women, smoking prevalence has been estimated at >30% (5). Evidence-based tobacco cessation approaches have received limited testing in Appalachian smokers, and it has been suggested that barriers and access to preventive services operate as well as lack of information about tobacco prevention and cessation. Within healthcare settings, clinical interventions (that is, behavioral counseling and nicotine replacement therapy) are recommended as efficacious approaches to tobacco treatment but have received little attention among underserved groups.\nCreative approaches offer promise in addressing Appalachian health needs. One model that has received some attention in tobacco cessation treatment involves the use of a lay health adviser to deliver the intervention. This model is based on innovation diffusion theory and suggests that lay advisers or educators are members of the group of interest who share similar values and are viewed as credible and influential. A tobacco cessation intervention that is coordinated by a health clinic yet delivered by a lay health adviser may potentially represent an effective approach for promoting long-term tobacco cessation with a subsequent reduction in morbidity and mortality. The purpose of this study was to evaluate the effectiveness of a lay-led tobacco cessation intervention in promoting long-term abstinence from tobacco among women smokers seen in Ohio Appalachian health clinics. This project was part of a larger National Cancer Institute Center for Population Health and Health Disparities P50 Award entitled 'Reducing Cervical Cancer in Appalachia (P50 CA105632).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Research Design. A randomized controlled longitudinal experimental design was implemented in federally designated Ohio Appalachian counties. Equal numbers of rural and urban counties were selected using probability proportional to the estimated average annual counts of cervical cancer in each county from 1998 to 2000. All identified primary care and women's health clinics that served a socioeconomically diverse population and reported >200 Pap smears per month were invited to participate in the study (n = 22). A total of 14 county clinics agreed to participate, fora 63.6% participation rate. Abstinence rates between intervention and control group participants were compared to detect a treatment effect at 3, 6, and 12 mo postrandomization. The primary research hypothesis that was tested was the following: intervention group participants will have a point-prevalence tobacco abstinence rate at least 15% greater than that of control group participants at 12 mo.\nSample Size Estimation. To detect a 15% difference in abstinence rates between the intervention and control groups (17.5% versus 2.5%; χ 2 test; degree of freedom, 1) with a power of 80% and α of 0.05 (two sided), a total of 150 participants per group (total sample size of 300) were needed.\nEligibility Criteria. To be eligible to participate in this study, the patient must have been (a) female; (b) 18 y of age and older; (c) a current self-reported user of tobacco on a daily basis; (d) a resident of an Appalachian county; (e) English speaking; (f) receiving care in the clinic within the last 2 y; (g) free of any clinical condition that contraindicated use of over-the-counter nicotine replacement therapy, including severe arrhythmias, severe angina, or myocardial infarction within the previous 4 wk; (h) nonpregnant as confirmed by urine human chorionic gonadotropin test; (i) free of previous history of cervical cancer; and (j) willing to participate in the study and provide signed informed written consent. Before entry into the study, its purpose was explained, and informed consent was obtained. The study was approved by the Human Subjects Biomedical Review Committee at The Ohio State University.\nProcedure. Each clinic sent a complete list of women who visited the clinic within the past 2 y to biostatisticians on the project. Next, a biostatistics core staff member sent randomly selected names of women to a research nurse assigned to each clinic. A medical chart review of each name was then conducted by a trained clinic nurse to identify potentially eligible women who were sent a letter explaining the study and subsequently received a telephone call to reassess eligibility and invite eligible women to participate in the study. Women who agreed were scheduled fora baseline in-home survey by a trained staff interviewer who answered questions, obtained informed consent, and administered a urine pregnancy test before baseline data collection. The trained interviewer (who did not participate in delivery of the cessation protocol) read each survey item to the participant and recorded a response into a computer assisted personal interview system. Upon completion of the interview, if eligibility was intact, the participant was randomly assigned to the intervention or control group, and the tobacco cessation protocol was implemented.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Intervention Condition. The intervention was based on the U.S. Public Health Service Treating Tobacco Use and Dependence Clinical Practice Guideline. A trained lay health adviser was assigned by county to implement the 12-wk study protocol. Before protocol implementation, lay health advisers and clinic nurses completed 40 h of training conducted by the research project staff. Training content included understanding of nicotine dependence, effective behavioral counseling techniques, relapse prevention approaches, use of nicotine replacement therapy, and adverse side effects.\nThe 12-wk intervention protocol included eight faceto-face visits by the lay health adviser (usually in the woman's home) involving behavioral counseling and nicotine replacement therapy. Participants set a quit date for week 3; at that time, participants were instructed to apply a free 21 mg nicotine patch daily for 8 wk. Behavioral counseling was provided by the lay health adviser at each visit, which occurred weekly during weeks 1 to 4 and biweekly at weeks 5 to 12. Each visit lasted 30 to 40 min. Counseling topics included (a) concept of nicotine dependence; (b) reasons people use tobacco; (c) health effects of tobacco use (e.g., cervical lesions) and health benefits of cessation; (d) positive and negative aspects of tobacco use (pros and cons of tobacco use); (e) self-monitoring of tobacco consumption behaviors; (f) stimulus-control strategies; (g) withdrawal symptomatology; (h) nicotine replacement therapy; (i) mechanisms for coping with triggers to use; and (j) relapse prevention techniques. Throughout administration of nicotine replacement, all unused nicotine patches were collected and recorded at each visit. A new supply of replacement was then distributed, based on the amount of product needed until the next scheduled visit. Implementation of the intervention strategies were documented by the lay health adviser at each visit. A clinic nurse was assigned to manage or supervise the implementation of the protocol. In this capacity, the nurse met weekly with each lay health adviser, either by phone or face-to-face, to discuss the smoker's progress. Topics for discussion included participant progress with quitting, barriers to cessation, and issues associated with medication adherence and behavioral counseling.\nControl Condition. Participants assigned to the control condition received a letter, signed by their personal clinic physician. The letter strongly advised the woman to quit smoking and encouraged her to make an appointment with the physician to discuss tobacco dependence treatment. A self-help educational pamphlet entitled You Can Quit Smoking Consumer Guide 3 was enclosed in the letter. The guide included tips for successful quitting and explained that nicotine replacement was an effective medication to use during the cessation process. The guide urged the consumer to contact a healthcare provider for assistance. One week after mailing, a research staff member called the woman to verify receipt of the letter. If the woman did not recall the letter, the process was repeated.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Baseline Survey. A face-to-face survey was conducted by a trained interviewer at enrollment to assess sociodemographic information, tobacco use, and health-related factors. All participants were paid $25 for completion of the baseline survey.\nSocial and Demographic Characteristics. Variables included age, education (lower than high school), high school/General Educational Development (GED), and more than high school), race (White versus other), marital status at time of interview (never married, married/ member of couple, and divorced/widowed/separated), employment (full-time, part-time, unemployed/disabled, other), occupation (professional as defined by a degree, skilled labor, unskilled labor, other), annual household income, and percent of lifetime spent in an Appalachian county.\nLife-course Socioeconomic Position. Previously validated approaches to adult (that is, current) and childhood socioeconomic status were used to create a four-level life-course socioeconomic position variable. A woman's adult socioeconomic position was defined as \"high\" if she had more than high school education, had private insurance, and poverty-income ratio above the sample median of 1.14 (defined by U.S. Census Bureau as ratio of midpoint of observed family income category to official poverty threshold of a family of the same size for the same calendar year). Otherwise, her adult socioeconomic position was defined as \"low.\" A woman's childhood socioeconomic position was defined as high if she lived with both parents at age 14 y and both parents had a high school education. Otherwise, her childhood socioeconomic position was defined as low. Cumulative Disadvantage. A measure of cumulative disadvantage was constructed using scores from measures of childhood and adult socioeconomic position described above. The score for childhood socioeconomic position (0-3) was summed with participants receiving one point each for (a) living with one parent only; (b) having a mother with lower than high school education; and (c) having a father with lower than high school education. Likewise, the score for the adult socioeconomic position was summed with participants receiving one point each for having (a) median poverty-income ratio or less, (b) no private insurance; and (c) high school education or lower. The total cumulative score was taken as the sum of childhood and adult socioeconomic position (range, 0-6). Scores were then collapsed into four categories classified as 0, 1 to 2, 3, and 4 to 6.\nHealth-Related Factors. Variables included the Perceived Stress Scale (23), the Center for Epidemiologic Studies Depression Scale, and amount of alcohol consumption. The Perceived Stress Scale is a 10-item self-report instrument that measures a person's evaluation of stressfulness experienced in the past month. The Center for Epidemiologic Studies Depression Scale is a 20-item screening tool that assesses depressive symptoms. Scores ≥ 16 indicate presence of depressive symptoms that warrant further investigation.\nTobacco-Related Variables. Measures were self-reported daily cigarette consumption, previous quit attempts, decisional balance (25), the Fagerström Test of Nicotine Dependence, and the Heaviness of Smoking Index. A saliva sample was obtained for quantification of cotinine concentration.\nOutcome Variables. Point prevalence abstinence from tobacco use at 12 mo postrandomization served as the primary outcome measure; abstinence was also measured at 3 and 6 mo postrandomization. Tobacco use status was determined by self-report with concurrent biochemical confirmation by saliva cotinine analysis. Participants who reported no tobacco use within the previous week and had a saliva cotinine level ≤ 14 ng/mL were classified as abstinent. Participants were paid $25 for information provided at 12 mo and $15 for data obtained at 3 and 6 mo. As a secondary outcome, prolonged abstinence was also assessed at 3, 6, and 12 mo postrandomization (28). All outcome measures were collected by a trained interviewer; the lay health adviser did not participate in any outcome assessments.\nSaliva was collected using a Sali-Saver kit. Samples were processed in the clinic, frozen, and brought weekly to the laboratory for storage at −85°C until analyses were conducted. Cotinine was extracted from saliva using a gas chromatography/mass spectrometry technique. Extraction efficiency was assessed by adding an internal standard (ketamine) to all samples. The assay detection limit for cotinine was 7 ng/mL, whereas the assay calibration curve was sensitive from 10 to 200 ng/mL.\nStatistical Analyses. Baseline characteristics of women in the two groups were examined. Next, self-reported and cotinine-validated abstinence rates were estimated at 3, 6, and 12 mo postrandomization. An intent-to-treat analysis was used. Women who refused to complete a follow-up interview at each time point were considered to be smokers at that time interval. To evaluate the primary research hypothesis of the study, abstinence rates at 12 mo postrandomization were compared between the intervention and control group participants, first using an unadjusted χ 2 statistical test. The primary outcome, cotinine-validated abstinence at 12 mo, was modeled using a multivariate logistic regression model that controlled for the effects of covariates. The potential confounders that were included in the analysis of covariates were cigarette consumption because of differences in the distribution of values between the intervention and control groups, and Center for Epidemiologic Studies Depression Scale score because it has been significantly associated with current smoking in earlier work among this population.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The first participant was randomized in August 2005, with final 12-month follow-up completed in March 2009. A total of 566 women were determined as eligible to participate in the study. One hundred fifty-two women refused (26.9%), and 112 women were unable to be contacted to schedule their baseline interview (19.8%). A total of 302 women (53.3%) agreed to participate in the study. Of these, 147 and 155 women were randomized to the intervention and control groups, respectively. Sociodemographic Characteristics. There were no significant differences between the two groups for sociodemographic characteristics. The sample was relatively young, with the majority ≤ age 50 y. Almost half had greater than a high school degree and most worked full or part time, primarily as unskilled laborers. Income-related variables indicated that a sizeable proportion of the sample was socioeconomically disadvantaged. Approximately 50% had a povertyincome ratio of <1 and an annual household income of <$20,000. About two thirds of the sample reported a low socioeconomic position in childhood and at present, and more than half had a cumulative disadvantage score of ≥3.\nHealth-Related Factors. Health-related factors did not differ between groups at baseline. About 50% of the sample reported a Center for Epidemiologic Studies Depression Scale score of ≥16, which represents the cut point for the presence of depressive symptomatology. Almost half of the sample consumed no alcohol in the past month, whereas close to 15% reported consumption of more than one drink per week during the same time frame. Mean Perceived Stress Scale scores were midrange and nearly identical for the two groups.\nTobacco-Related Variables. At baseline, groups were similar for mean cotinine concentration, Fagerström score, Heavy Smoking Index, decisional balance, and proportion who had ever tried to quit smoking in the past. Control group participants consumed more cigarettes per day at baseline as compared with intervention group participants (P = 0.05).\nAbstinence Rates. A total of 259 (85.8%), 248 (82.1%), and 246 (81.5%) study participants were available for follow-up assessments at 3, 6, and 12 months, respectively. Retention rates differed between groups at 3 months (80.3% intervention versus 91% control; P = 0.007) and 6 months (77.6% intervention versus 86.5% control; P = 0.04). There was no statistically significant difference in retention by group at 12 months (77.6% intervention versus 85.2% control; P = 0.08).\nSelf-reported and cotinine-validated 7-day pointprevalence abstinence percentages between the intervention and control groups are presented in. Only those participants who reported abstinence and provided a saliva sample for cotinine analysis were classified as self-reported abstainers. Results indicated that 27.9% of the intervention group reported abstinence at 3 months compared with 2.6% in the control condition. The pattern in self-reported abstinence continued at the 6-month time point, with 21.8% of intervention group participants reporting abstinence compared with 5.8% of control group participants. At 12 months, the self-reported rates among intervention and control group participants were 19.1% and 9.0%, respectively.\nCotinine-validated point-prevalence rates indicated statistically significant differences in abstinence for the intervention and control group participants at the 3 and 6 months time points, again using an intent-to-treat analysis. Among intervention group participants, at 3 and 6 months, 17.7% and 14.3% reported abstinence, respectively, compared with 1.9% and 4.5% for control group participants at 3 months (P < 0.02) and 6 months (P < 0.02). At 12 months, the cotinine-validated 7-day point prevalence abstinence comparison was no longer significant (12.2% for intervention group and 7.1% for control group; P = 0.13). The self-reported prolonged abstinence rates for all intervention group participants were 19.1%, 16.3%, and 10.2% at 3, 6, and 12 months, respectively. Among control group participants, 1.3% reported prolonged abstinence at 3 months; none reported prolonged abstinence at 6 and 12 months. Cotinine-validated prolonged abstinence rates are also presented in. Similarities to self-reported prolonged abstinence were apparent between the two groups, with the caveat that cotinine validation did not necessarily confirm prolonged abstinence. presents information about the use of additional smoking cessation resources (e.g., Quitline, healthcare provider) by the entire sample during the 12 months following randomization. Approximately 12% to 21% of intervention group participants continued to seek resources, whereas the percentage of those using any cessation medication dropped from 68.6% at 3 months to 19.3% at 12 months. Among control group participants, the proportion of women using any resource steadily increased overtime, from 14.2 to 29.4%, as did  Logistic Regression Analysis. A multiple logistic regression was done to determine factors associated with the primary outcome, 7-day point prevalence cotininevalidated abstinence at 12 months, controlling for group assignment. Although participants were nested within clinics, the final model excluded a clinic effect in the analytic plan. In initial analyses, adding clinic as a random effect contributed to model instability, which was attributed to small numbers of participants in some clinics. Because the clinic effect did not alter model coefficients or final results and because participants were individually randomized to treatment, the final analytic plan did not control for this effect. As seen in, the adjusted odds of being classified as an abstainer at 12 months postrandomization were significantly lower for those participants who consumed more cigarettes daily [odds ratio, 0.94; 95% confidence interval (95% CI), 0.89-0.99] and had a Center for Epidemiologic Studies Depression Scale score ≥ 16 (odds ratio, 0.39; 95% CI, 0.17-0.90). The model was assessed by the Hosmer and Lemeshow Test and was determined as fit (χ 2 = 3.98; degrees of freedom, 7; P = 0.78.). The area under the receiver operating characteristic curve was 0.69. For everyone cigarette increase in daily consumption, the odds of abstinence decreased by 6%. Those with depressive symptomatology (Center for Epidemiologic Studies Depression Scale, ≥16) were 61% less likely to be classified as an abstainer at 12 months.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "This investigation represents the first trial of tobacco cessation treatment among adult female Appalachians using the recommendations from the U.S. Public Health Service Clinical Practice Guideline (7). To date, few controlled trials of evidence-based tobacco treatment exist among Appalachian populations. Findings from this study indicated that intensive treatment that included free nicotine replacement therapy and a nurse-managed, lay-led counseling was effective in promoting point-prevalence abstinence at 3 and 6 months postenrollment but was not sufficient to maintain longer term abstinence (that is, 12 month) as compared with control group participants. Abstinence rates at all time points were lower than the estimated 6-month quit rate of 23.4% observed in recent meta-analytic studies. These results show the persistent and threatening nature of tobacco dependence in a group of women at high risk for tobacco-attributable disease. Given the increased risk for tobacco use prevalence and morbidity and mortality estimates among residents of the Appalachian region, additional tobacco control efforts are critically needed. It maybe necessary to extend pharmacotherapy and counseling beyond current treatment recommendations to sustain cessation and manage relapse-related events.\nThe sample characteristics of women smokers enrolled in this study were representative of the general population of smokers, with the exception of education (31). In the current study, most women had more than a high school education. This finding maybe indicative of the decision to use a clinic-based recruitment strategy and enroll women who actively sought healthcare services in the past 2 years. On the other hand, the women participants shared many other relevant social factors with current U.S. smokers. The sample, although mostly employed, was primarily composed of blue-collar laborers, living on limited incomes, as noted by the reported low poverty-income ratio. The life-course socioeconomic position of most participants indicated that most lived a disadvantaged childhood, which is the critical period for adoption of a smoking behavior (32). Of note, approximately one half of the sample showed depressive symptomatology, as shown by their Center for Epidemiologic Studies Depression Scale scores. This finding may partially explain the resumption of smoking in an attempt to perhaps manage and self-medicate during depressive episodes. Indeed, increased daily tobacco consumption and depressive symptoms accounted for the decreased likelihood of being categorized as abstinent at 12 months, based on the logistic regression analyses. In future studies, the role of depression should be addressed, especially in clinic-based trials, wherein the disorder can be appropriately managed by a healthcare provider.  Similarly, the interaction between depression and the social environment deserves additional examination, as disadvantage and life-course socioeconomic position, in the context of an Appalachian culture, wherein tobacco use is socially acceptable, may influence long-term cessation outcomes. Interestingly, a significant portion of intervention group participants underreported posttreatment tobacco use, based on biochemical validation. At 3 months, approximately one third of self-reported intervention group abstainers were subsequently classified as smokers when cotinine validation was done. As previously reported, when demand for abstinence is high, misclassification is more likely to occur. Given the close, interpersonal nature of a lay-led intervention, underreporting by the participant (even to a trained interviewer who was not directly involved with the intervention) may operate to a greater extent. Thus, consideration should be given to using biochemical confirmation as an outcome measure of abstinence in these types of community-based cessation approaches. This recommendation is consistent with the Society for Research on Nicotine and Tobacco's position on biochemical verification of tobacco use and cessation. Demand characteristics may also partially explain the significantly higher attrition rates at 3-and 6-month follow-up for intervention group participants, as compared with control condition participants.\nWith regard to control group participants, the initial quit rates were minimal, which was to be expected given the self-help approach to treatment and the format that required the participant to initiate assistance from the clinic provider. However, the increased use of cessation resources and pharmacotherapy overtime, accompanied by increased quit rates over the 12-month follow-up period, suggest that control condition women were motivated to seek assistance with quitting. For example, at the time this study was conducted, the Ohio Quitline (with access to nicotine replacement therapy at reduced prices) was promoted in a variety of media outlets, including television. Control condition women may have been more inclined to seek resources as compared with intervention participants who had already been offered pharmacotherapy during the protocol.\nGiven the increased prevalence of tobacco use in Appalachian counties, which is coupled with the loss of Ohio Master Settlement Funds that, in the past, supported statewide tobacco treatment for the underserved, clinicians must now accelerate efforts to deliver treatment at point of access. Creative tobacco control efforts must be considered if high-risk vulnerable populations such as these are to be reached. The current study represents an important first step in developing and evaluating a lay-led approach to the delivery of evidence-based treatment among a high-risk vulnerable group.\nFinally, experts have warned that the increasing disparity in prevalence of tobacco use between privileged and disadvantaged groups must be acknowledged. Public health initiatives have yet to significantly influence tobacco use among poor smokers, and it has been suggested that, unless the overall life circumstances of deprived groups are improved, future health promotion efforts will not succeed. Given this perspective, researchers, clinicians, and policymakers must continue to broadly develop and test potentially efficacious mechanisms to reduce the present inequality in tobacco use prevalence and cessation.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "No potential conflicts of interest were disclosed.\n",
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "0.34",
+          "rowHeaders": [
+            "No adult man in home at age 14 (n = 301; %)"
+          ],
+          "columnHeaders": [
+            "3454",
+            "P"
+          ]
+        },
+        {
+          "value": "44.2",
+          "rowHeaders": [
+            "No adult man in home at age 14 (n = 301; %)"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Intervention (n = 147)"
+          ]
+        },
+        {
+          "value": "36.8",
+          "rowHeaders": [
+            "No adult man in home at age 14 (n = 301; %)"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Control (n = 155)"
+          ]
+        },
+        {
+          "value": "42.9",
+          "rowHeaders": [
+            "No adult man in home at age 14 (n = 301; %)"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Intervention (n = 147)"
+          ]
+        },
+        {
+          "value": "45.8",
+          "rowHeaders": [
+            "No adult man in home at age 14 (n = 301; %)"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Control (n = 155)"
+          ]
+        },
+        {
+          "value": "12.9",
+          "rowHeaders": [
+            "No adult man in home at age 14 (n = 301; %)"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Intervention (n = 147)"
+          ]
+        },
+        {
+          "value": "17.4",
+          "rowHeaders": [
+            "No adult man in home at age 14 (n = 301; %)"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Control (n = 155)"
+          ]
+        },
+        {
+          "value": "0.55",
+          "rowHeaders": [
+            "No adult man in home at age 14 (n = 301; %)"
+          ],
+          "columnHeaders": [
+            "3454",
+            "P"
+          ]
+        },
+        {
+          "value": "16.3",
+          "rowHeaders": [
+            "No adult man in home at age 14 (n = 301; %)"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Intervention (n = 147)"
+          ]
+        },
+        {
+          "value": "20.7",
+          "rowHeaders": [
+            "No adult man in home at age 14 (n = 301; %)"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Control (n = 155)"
+          ]
+        },
+        {
+          "value": "32.7",
+          "rowHeaders": [
+            "No adult man in home at age 14 (n = 301; %)"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Intervention (n = 147)"
+          ]
+        },
+        {
+          "value": "33.5",
+          "rowHeaders": [
+            "No adult man in home at age 14 (n = 301; %)"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Control (n = 155)"
+          ]
+        },
+        {
+          "value": "51.0",
+          "rowHeaders": [
+            "No adult man in home at age 14 (n = 301; %)"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Intervention (n = 147)"
+          ]
+        },
+        {
+          "value": "45.8",
+          "rowHeaders": [
+            "No adult man in home at age 14 (n = 301; %)"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Control (n = 155)"
+          ]
+        },
+        {
+          "value": "0.44",
+          "rowHeaders": [
+            "No adult man in home at age 14 (n = 301; %)"
+          ],
+          "columnHeaders": [
+            "3454",
+            "P"
+          ]
+        },
+        {
+          "value": "91.2",
+          "rowHeaders": [
+            "No adult man in home at age 14 (n = 301; %)"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Intervention (n = 147)"
+          ]
+        },
+        {
+          "value": "93.6",
+          "rowHeaders": [
+            "No adult man in home at age 14 (n = 301; %)"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Control (n = 155)"
+          ]
+        },
+        {
+          "value": "8.8",
+          "rowHeaders": [
+            "No adult man in home at age 14 (n = 301; %)"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Intervention (n = 147)"
+          ]
+        },
+        {
+          "value": "6.4",
+          "rowHeaders": [
+            "No adult man in home at age 14 (n = 301; %)"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Control (n = 155)"
+          ]
+        },
+        {
+          "value": "0.57",
+          "rowHeaders": [
+            "No adult man in home at age 14 (n = 301; %)"
+          ],
+          "columnHeaders": [
+            "3454",
+            "P"
+          ]
+        },
+        {
+          "value": "25.8",
+          "rowHeaders": [
+            "No adult man in home at age 14 (n = 301; %)"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Intervention (n = 147)"
+          ]
+        },
+        {
+          "value": "27.1",
+          "rowHeaders": [
+            "No adult man in home at age 14 (n = 301; %)"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Control (n = 155)"
+          ]
+        },
+        {
+          "value": "49.0",
+          "rowHeaders": [
+            "No adult man in home at age 14 (n = 301; %)"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Intervention (n = 147)"
+          ]
+        },
+        {
+          "value": "43.2",
+          "rowHeaders": [
+            "No adult man in home at age 14 (n = 301; %)"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Control (n = 155)"
+          ]
+        },
+        {
+          "value": "25.2",
+          "rowHeaders": [
+            "No adult man in home at age 14 (n = 301; %)"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Intervention (n = 147)"
+          ]
+        },
+        {
+          "value": "29.7",
+          "rowHeaders": [
+            "No adult man in home at age 14 (n = 301; %)"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Control (n = 155)"
+          ]
+        },
+        {
+          "value": "0.18",
+          "rowHeaders": [
+            "No adult man in home at age 14 (n = 301; %)"
+          ],
+          "columnHeaders": [
+            "3454",
+            "P"
+          ]
+        },
+        {
+          "value": "55.1",
+          "rowHeaders": [
+            "No adult man in home at age 14 (n = 301; %)"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Intervention (n = 147)"
+          ]
+        },
+        {
+          "value": "48.4",
+          "rowHeaders": [
+            "No adult man in home at age 14 (n = 301; %)"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Control (n = 155)"
+          ]
+        },
+        {
+          "value": "20.4",
+          "rowHeaders": [
+            "No adult man in home at age 14 (n = 301; %)"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Intervention (n = 147)"
+          ]
+        },
+        {
+          "value": "29.7",
+          "rowHeaders": [
+            "No adult man in home at age 14 (n = 301; %)"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Control (n = 155)"
+          ]
+        },
+        {
+          "value": "24.5",
+          "rowHeaders": [
+            "No adult man in home at age 14 (n = 301; %)"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Intervention (n = 147)"
+          ]
+        },
+        {
+          "value": "21.9",
+          "rowHeaders": [
+            "No adult man in home at age 14 (n = 301; %)"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Control (n = 155)"
+          ]
+        },
+        {
+          "value": "0.77",
+          "rowHeaders": [
+            "No adult man in home at age 14 (n = 301; %)"
+          ],
+          "columnHeaders": [
+            "3454",
+            "P"
+          ]
+        },
+        {
+          "value": "10.2",
+          "rowHeaders": [
+            "No adult man in home at age 14 (n = 301; %)"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Intervention (n = 147)"
+          ]
+        },
+        {
+          "value": "10.3",
+          "rowHeaders": [
+            "No adult man in home at age 14 (n = 301; %)"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Control (n = 155)"
+          ]
+        },
+        {
+          "value": "23.1",
+          "rowHeaders": [
+            "No adult man in home at age 14 (n = 301; %)"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Intervention (n = 147)"
+          ]
+        },
+        {
+          "value": "18.7",
+          "rowHeaders": [
+            "No adult man in home at age 14 (n = 301; %)"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Control (n = 155)"
+          ]
+        },
+        {
+          "value": "51.0",
+          "rowHeaders": [
+            "No adult man in home at age 14 (n = 301; %)"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Intervention (n = 147)"
+          ]
+        },
+        {
+          "value": "52.3",
+          "rowHeaders": [
+            "No adult man in home at age 14 (n = 301; %)"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Control (n = 155)"
+          ]
+        },
+        {
+          "value": "15.7",
+          "rowHeaders": [
+            "No adult man in home at age 14 (n = 301; %)"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Intervention (n = 147)"
+          ]
+        },
+        {
+          "value": "18.7",
+          "rowHeaders": [
+            "No adult man in home at age 14 (n = 301; %)"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Control (n = 155)"
+          ]
+        },
+        {
+          "value": "0.30",
+          "rowHeaders": [
+            "No adult man in home at age 14 (n = 301; %)"
+          ],
+          "columnHeaders": [
+            "3454",
+            "P"
+          ]
+        },
+        {
+          "value": "13.0",
+          "rowHeaders": [
+            "No adult man in home at age 14 (n = 301; %)"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Intervention (n = 147)"
+          ]
+        },
+        {
+          "value": "17.4",
+          "rowHeaders": [
+            "No adult man in home at age 14 (n = 301; %)"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Control (n = 155)"
+          ]
+        },
+        {
+          "value": "13.0",
+          "rowHeaders": [
+            "No adult man in home at age 14 (n = 301; %)"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Intervention (n = 147)"
+          ]
+        },
+        {
+          "value": "16.1",
+          "rowHeaders": [
+            "No adult man in home at age 14 (n = 301; %)"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Control (n = 155)"
+          ]
+        },
+        {
+          "value": "15.1",
+          "rowHeaders": [
+            "No adult man in home at age 14 (n = 301; %)"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Intervention (n = 147)"
+          ]
+        },
+        {
+          "value": "9.0",
+          "rowHeaders": [
+            "No adult man in home at age 14 (n = 301; %)"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Control (n = 155)"
+          ]
+        },
+        {
+          "value": "58.9",
+          "rowHeaders": [
+            ">75"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Intervention (n = 147)"
+          ]
+        },
+        {
+          "value": "57.4",
+          "rowHeaders": [
+            ">75"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Control (n = 155)"
+          ]
+        },
+        {
+          "value": "66.7",
+          "rowHeaders": [
+            "Parents owned home at age 14 (%)"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Intervention (n = 147)"
+          ]
+        },
+        {
+          "value": "65.2",
+          "rowHeaders": [
+            "Parents owned home at age 14 (%)"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Control (n = 155)"
+          ]
+        },
+        {
+          "value": "0.78",
+          "rowHeaders": [
+            "Parents owned home at age 14 (%)"
+          ],
+          "columnHeaders": [
+            "3454",
+            "P"
+          ]
+        },
+        {
+          "value": "18.5",
+          "rowHeaders": [
+            "No adult man in home at age 14 (n = 301; %)"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Intervention (n = 147)"
+          ]
+        },
+        {
+          "value": "12.9",
+          "rowHeaders": [
+            "No adult man in home at age 14 (n = 301; %)"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Control (n = 155)"
+          ]
+        },
+        {
+          "value": "0.18",
+          "rowHeaders": [
+            "No adult man in home at age 14 (n = 301; %)"
+          ],
+          "columnHeaders": [
+            "3454",
+            "P"
+          ]
+        },
+        {
+          "value": "0.47",
+          "rowHeaders": [
+            "Poverty-income ratio (n = 276; %)"
+          ],
+          "columnHeaders": [
+            "3454",
+            "P"
+          ]
+        },
+        {
+          "value": "40.6",
+          "rowHeaders": [
+            "<1"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Intervention (n = 147)"
+          ]
+        },
+        {
+          "value": "51.7",
+          "rowHeaders": [
+            "<1"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Control (n = 155)"
+          ]
+        },
+        {
+          "value": "27.1",
+          "rowHeaders": [
+            "1-1.99"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Intervention (n = 147)"
+          ]
+        },
+        {
+          "value": "25.9",
+          "rowHeaders": [
+            "1-1.99"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Control (n = 155)"
+          ]
+        },
+        {
+          "value": "13.5",
+          "rowHeaders": [
+            "2-2.99"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Intervention (n = 147)"
+          ]
+        },
+        {
+          "value": "8.4",
+          "rowHeaders": [
+            "2-2.99"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Control (n = 155)"
+          ]
+        },
+        {
+          "value": "12.8",
+          "rowHeaders": [
+            "3-3.99"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Intervention (n = 147)"
+          ]
+        },
+        {
+          "value": "9.8",
+          "rowHeaders": [
+            "3-3.99"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Control (n = 155)"
+          ]
+        },
+        {
+          "value": "4.5",
+          "rowHeaders": [
+            "4-4.99"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Intervention (n = 147)"
+          ]
+        },
+        {
+          "value": "2.8",
+          "rowHeaders": [
+            "4-4.99"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Control (n = 155)"
+          ]
+        },
+        {
+          "value": "1.5",
+          "rowHeaders": [
+            "≥5"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Intervention (n = 147)"
+          ]
+        },
+        {
+          "value": "1.4",
+          "rowHeaders": [
+            "≥5"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Control (n = 155)"
+          ]
+        },
+        {
+          "value": "0.08",
+          "rowHeaders": [
+            "Annual household income (n = 276; %)"
+          ],
+          "columnHeaders": [
+            "3454",
+            "P"
+          ]
+        },
+        {
+          "value": "45.1",
+          "rowHeaders": [
+            "<20,000"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Intervention (n = 147)"
+          ]
+        },
+        {
+          "value": "58.7",
+          "rowHeaders": [
+            "<20,000"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Control (n = 155)"
+          ]
+        },
+        {
+          "value": "40.6",
+          "rowHeaders": [
+            "20-50,000"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Intervention (n = 147)"
+          ]
+        },
+        {
+          "value": "29.4",
+          "rowHeaders": [
+            "20-50,000"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Control (n = 155)"
+          ]
+        },
+        {
+          "value": "14.3",
+          "rowHeaders": [
+            ">50,000"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Intervention (n = 147)"
+          ]
+        },
+        {
+          "value": "11.9",
+          "rowHeaders": [
+            ">50,000"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Control (n = 155)"
+          ]
+        },
+        {
+          "value": "0.56",
+          "rowHeaders": [
+            "Life-course SEP (n = 274; %)"
+          ],
+          "columnHeaders": [
+            "3454",
+            "P"
+          ]
+        },
+        {
+          "value": "61.1",
+          "rowHeaders": [
+            "Low child, low adult SEP"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Intervention (n = 147)"
+          ]
+        },
+        {
+          "value": "62.9",
+          "rowHeaders": [
+            "Low child, low adult SEP"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Control (n = 155)"
+          ]
+        },
+        {
+          "value": "12.2",
+          "rowHeaders": [
+            "Low child, high adult SEP"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Intervention (n = 147)"
+          ]
+        },
+        {
+          "value": "7.7",
+          "rowHeaders": [
+            "Low child, high adult SEP"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Control (n = 155)"
+          ]
+        },
+        {
+          "value": "17.5",
+          "rowHeaders": [
+            "High child, low adult SEP"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Intervention (n = 147)"
+          ]
+        },
+        {
+          "value": "19.6",
+          "rowHeaders": [
+            "High child, low adult SEP"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Control (n = 155)"
+          ]
+        },
+        {
+          "value": "9.2",
+          "rowHeaders": [
+            "High child, high adult SEP"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Intervention (n = 147)"
+          ]
+        },
+        {
+          "value": "9.8",
+          "rowHeaders": [
+            "High child, high adult SEP"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Control (n = 155)"
+          ]
+        },
+        {
+          "value": "0.67",
+          "rowHeaders": [
+            "Cumulative disadvantage score (n = 274; %)"
+          ],
+          "columnHeaders": [
+            "3454",
+            "P"
+          ]
+        },
+        {
+          "value": "9.9",
+          "rowHeaders": [
+            "0"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Intervention (n = 147)"
+          ]
+        },
+        {
+          "value": "11.2",
+          "rowHeaders": [
+            "0"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Control (n = 155)"
+          ]
+        },
+        {
+          "value": "32.8",
+          "rowHeaders": [
+            "1-2"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Intervention (n = 147)"
+          ]
+        },
+        {
+          "value": "30.8",
+          "rowHeaders": [
+            "1-2"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Control (n = 155)"
+          ]
+        },
+        {
+          "value": "25.2",
+          "rowHeaders": [
+            "3"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Intervention (n = 147)"
+          ]
+        },
+        {
+          "value": "20.3",
+          "rowHeaders": [
+            "3"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Control (n = 155)"
+          ]
+        },
+        {
+          "value": "32.1",
+          "rowHeaders": [
+            "4-6"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Intervention (n = 147)"
+          ]
+        },
+        {
+          "value": "37.7",
+          "rowHeaders": [
+            "4-6"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Control (n = 155)"
+          ]
+        },
+        {
+          "value": "52.4",
+          "rowHeaders": [
+            "CES-D score ≥ 16 (%)"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Intervention (n = 147)"
+          ]
+        },
+        {
+          "value": "49.0",
+          "rowHeaders": [
+            "CES-D score ≥ 16 (%)"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Control (n = 155)"
+          ]
+        },
+        {
+          "value": "0.56",
+          "rowHeaders": [
+            "CES-D score ≥ 16 (%)"
+          ],
+          "columnHeaders": [
+            "3454",
+            "P"
+          ]
+        },
+        {
+          "value": "0.69",
+          "rowHeaders": [
+            "Alcohol use (%)"
+          ],
+          "columnHeaders": [
+            "3454",
+            "P"
+          ]
+        },
+        {
+          "value": "46.9",
+          "rowHeaders": [
+            "No drinks in past month"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Intervention (n = 147)"
+          ]
+        },
+        {
+          "value": "49.7",
+          "rowHeaders": [
+            "No drinks in past month"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Control (n = 155)"
+          ]
+        },
+        {
+          "value": "39.5",
+          "rowHeaders": [
+            "Up to 1 drink per week in past month"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Intervention (n = 147)"
+          ]
+        },
+        {
+          "value": "34.8",
+          "rowHeaders": [
+            "Up to 1 drink per week in past month"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Control (n = 155)"
+          ]
+        },
+        {
+          "value": "13.6",
+          "rowHeaders": [
+            ">1 drink per week in past month"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Intervention (n = 147)"
+          ]
+        },
+        {
+          "value": "15.5",
+          "rowHeaders": [
+            ">1 drink per week in past month"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Control (n = 155)"
+          ]
+        },
+        {
+          "value": "0.95",
+          "rowHeaders": [
+            "Perceived Stress Scale score"
+          ],
+          "columnHeaders": [
+            "3454",
+            "P"
+          ]
+        },
+        {
+          "value": "20.7 ±",
+          "rowHeaders": [
+            "Mean ± SD"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Intervention (n = 147)"
+          ]
+        },
+        {
+          "value": "7.2",
+          "rowHeaders": [
+            "Mean ± SD"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Intervention (n = 147)"
+          ]
+        },
+        {
+          "value": "20.8 ±",
+          "rowHeaders": [
+            "Mean ± SD"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Control (n = 155)"
+          ]
+        },
+        {
+          "value": "8.1",
+          "rowHeaders": [
+            "Mean ± SD"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Control (n = 155)"
+          ]
+        },
+        {
+          "value": "0.09",
+          "rowHeaders": [
+            "Cotinine concentration (ng/mL)"
+          ],
+          "columnHeaders": [
+            "3454",
+            "P",
+            "5-37"
+          ]
+        },
+        {
+          "value": "228.3 ±",
+          "rowHeaders": [
+            "Mean ± SD"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Intervention (n = 147)",
+            "0-36"
+          ]
+        },
+        {
+          "value": "187.5",
+          "rowHeaders": [
+            "Mean ± SD"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Intervention (n = 147)",
+            "0-36"
+          ]
+        },
+        {
+          "value": "268.6 ±",
+          "rowHeaders": [
+            "Mean ± SD"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Control (n = 155)",
+            "5-37"
+          ]
+        },
+        {
+          "value": "208.1",
+          "rowHeaders": [
+            "Mean ± SD"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Control (n = 155)",
+            "5-37"
+          ]
+        },
+        {
+          "value": "0.26",
+          "rowHeaders": [
+            "Fagerström score"
+          ],
+          "columnHeaders": [
+            "3454",
+            "P",
+            "5-37"
+          ]
+        },
+        {
+          "value": "4.07 ±",
+          "rowHeaders": [
+            "Mean ± SD"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Intervention (n = 147)",
+            "0-36",
+            "0-910"
+          ]
+        },
+        {
+          "value": "2.46",
+          "rowHeaders": [
+            "Mean ± SD"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Intervention (n = 147)",
+            "0-36",
+            "0-910"
+          ]
+        },
+        {
+          "value": "4.39 ±",
+          "rowHeaders": [
+            "Mean ± SD"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Control (n = 155)",
+            "5-37",
+            "0-952"
+          ]
+        },
+        {
+          "value": "2.39",
+          "rowHeaders": [
+            "Mean ± SD"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Control (n = 155)",
+            "5-37",
+            "0-952"
+          ]
+        },
+        {
+          "value": "0.09",
+          "rowHeaders": [
+            "Heavy Smoking Index"
+          ],
+          "columnHeaders": [
+            "3454",
+            "P",
+            "5-37",
+            "0-952"
+          ]
+        },
+        {
+          "value": "2.7 ±",
+          "rowHeaders": [
+            "Mean ± SD"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Intervention (n = 147)",
+            "0-36",
+            "0-910",
+            "0-10"
+          ]
+        },
+        {
+          "value": "1.57",
+          "rowHeaders": [
+            "Mean ± SD"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Intervention (n = 147)",
+            "0-36",
+            "0-910",
+            "0-10"
+          ]
+        },
+        {
+          "value": "3.03 ±",
+          "rowHeaders": [
+            "Mean ± SD"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Control (n = 155)",
+            "5-37",
+            "0-952",
+            "0-10"
+          ]
+        },
+        {
+          "value": "1.60",
+          "rowHeaders": [
+            "Mean ± SD"
+          ],
+          "columnHeaders": [
+            "3454",
+            "Control (n = 155)",
+            "5-37",
+            "0-952",
+            "0-10"
+          ]
+        },
+        {
+          "value": "0.05",
+          "rowHeaders": [
+            "Daily cigarette consumption (n)"
+          ],
+          "columnHeaders": [
+            "3454",
+            "P",
+            "5-37",
+            "0-952",
+            "0-10"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "17.2 ±",
+          "rowHeaders": [
+            "Mean ± SD"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline characteristics of the sample by treatment group (Cont'd)",
+            "Intervention (n = 147)"
+          ]
+        },
+        {
+          "value": "9.4",
+          "rowHeaders": [
+            "Mean ± SD"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline characteristics of the sample by treatment group (Cont'd)",
+            "Intervention (n = 147)"
+          ]
+        },
+        {
+          "value": "19.4 ±",
+          "rowHeaders": [
+            "Mean ± SD"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline characteristics of the sample by treatment group (Cont'd)",
+            "Control (n = 155)"
+          ]
+        },
+        {
+          "value": "10.3",
+          "rowHeaders": [
+            "Mean ± SD"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline characteristics of the sample by treatment group (Cont'd)",
+            "Control (n = 155)"
+          ]
+        },
+        {
+          "value": "0.89",
+          "rowHeaders": [
+            "Decisional balance"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline characteristics of the sample by treatment group (Cont'd)",
+            "P"
+          ]
+        },
+        {
+          "value": "−7.83 ±",
+          "rowHeaders": [
+            "Mean ± SD"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline characteristics of the sample by treatment group (Cont'd)",
+            "Intervention (n = 147)",
+            "3-70"
+          ]
+        },
+        {
+          "value": "10.08",
+          "rowHeaders": [
+            "Mean ± SD"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline characteristics of the sample by treatment group (Cont'd)",
+            "Intervention (n = 147)",
+            "3-70"
+          ]
+        },
+        {
+          "value": "−7.67 ±",
+          "rowHeaders": [
+            "Mean ± SD"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline characteristics of the sample by treatment group (Cont'd)",
+            "Control (n = 155)",
+            "3-50"
+          ]
+        },
+        {
+          "value": "9.78",
+          "rowHeaders": [
+            "Mean ± SD"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline characteristics of the sample by treatment group (Cont'd)",
+            "Control (n = 155)",
+            "3-50"
+          ]
+        },
+        {
+          "value": "83.7",
+          "rowHeaders": [
+            "Decisional balance",
+            "Ever tried to quit smoking (%)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline characteristics of the sample by treatment group (Cont'd)",
+            "Intervention (n = 147)",
+            "3-70"
+          ]
+        },
+        {
+          "value": "86.5",
+          "rowHeaders": [
+            "Decisional balance",
+            "Ever tried to quit smoking (%)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline characteristics of the sample by treatment group (Cont'd)",
+            "Control (n = 155)",
+            "3-50"
+          ]
+        },
+        {
+          "value": "0.50",
+          "rowHeaders": [
+            "Decisional balance",
+            "Ever tried to quit smoking (%)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline characteristics of the sample by treatment group (Cont'd)",
+            "P",
+            "3-50"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "27.9",
+          "rowHeaders": [
+            "12 mo"
+          ],
+          "columnHeaders": [
+            "Table 2. Intervention and control group abstinence",
+            "Intervention (n = 147)",
+            "Self-",
+            "report"
+          ]
+        },
+        {
+          "value": "17.7",
+          "rowHeaders": [
+            "12 mo"
+          ],
+          "columnHeaders": [
+            "Table 2. Intervention and control group abstinence",
+            "Intervention (n = 147)",
+            "Cotinine",
+            "validated"
+          ]
+        },
+        {
+          "value": "2.6",
+          "rowHeaders": [
+            "12 mo"
+          ],
+          "columnHeaders": [
+            "Table 2. Intervention and control group abstinence",
+            "Control (n = 155)",
+            "Self-",
+            "report"
+          ]
+        },
+        {
+          "value": "1.9",
+          "rowHeaders": [
+            "12 mo"
+          ],
+          "columnHeaders": [
+            "Table 2. Intervention and control group abstinence",
+            "Control (n = 155)",
+            "Cotinine",
+            "validated"
+          ]
+        },
+        {
+          "value": "21.8",
+          "rowHeaders": [
+            "12 mo"
+          ],
+          "columnHeaders": [
+            "Table 2. Intervention and control group abstinence",
+            "Intervention (n = 147)",
+            "Self-",
+            "report"
+          ]
+        },
+        {
+          "value": "14.3",
+          "rowHeaders": [
+            "12 mo"
+          ],
+          "columnHeaders": [
+            "Table 2. Intervention and control group abstinence",
+            "Intervention (n = 147)",
+            "Cotinine",
+            "validated"
+          ]
+        },
+        {
+          "value": "5.8",
+          "rowHeaders": [
+            "12 mo"
+          ],
+          "columnHeaders": [
+            "Table 2. Intervention and control group abstinence",
+            "Control (n = 155)",
+            "Self-",
+            "report"
+          ]
+        },
+        {
+          "value": "4.5",
+          "rowHeaders": [
+            "12 mo"
+          ],
+          "columnHeaders": [
+            "Table 2. Intervention and control group abstinence",
+            "Control (n = 155)",
+            "Cotinine",
+            "validated"
+          ]
+        },
+        {
+          "value": "19.1",
+          "rowHeaders": [
+            "12 mo"
+          ],
+          "columnHeaders": [
+            "Table 2. Intervention and control group abstinence",
+            "Intervention (n = 147)",
+            "Self-",
+            "report"
+          ]
+        },
+        {
+          "value": "12.2",
+          "rowHeaders": [
+            "12 mo"
+          ],
+          "columnHeaders": [
+            "Table 2. Intervention and control group abstinence",
+            "Intervention (n = 147)",
+            "Cotinine",
+            "validated"
+          ]
+        },
+        {
+          "value": "9.0",
+          "rowHeaders": [
+            "12 mo"
+          ],
+          "columnHeaders": [
+            "Table 2. Intervention and control group abstinence",
+            "Control (n = 155)",
+            "Self-",
+            "report"
+          ]
+        },
+        {
+          "value": "7.1",
+          "rowHeaders": [
+            "12 mo"
+          ],
+          "columnHeaders": [
+            "Table 2. Intervention and control group abstinence",
+            "Control (n = 155)",
+            "Cotinine",
+            "validated"
+          ]
+        },
+        {
+          "value": "19.1",
+          "rowHeaders": [
+            "3 mo"
+          ],
+          "columnHeaders": [
+            "Table 2. Intervention and control group abstinence",
+            "Intervention (n = 147)",
+            "Self-",
+            "report"
+          ]
+        },
+        {
+          "value": "15.7",
+          "rowHeaders": [
+            "3 mo"
+          ],
+          "columnHeaders": [
+            "Table 2. Intervention and control group abstinence",
+            "Intervention (n = 147)",
+            "Cotinine",
+            "validated"
+          ]
+        },
+        {
+          "value": "1.3",
+          "rowHeaders": [
+            "3 mo"
+          ],
+          "columnHeaders": [
+            "Table 2. Intervention and control group abstinence",
+            "Control (n = 155)",
+            "Self-",
+            "report"
+          ]
+        },
+        {
+          "value": "1.3",
+          "rowHeaders": [
+            "3 mo"
+          ],
+          "columnHeaders": [
+            "Table 2. Intervention and control group abstinence",
+            "Control (n = 155)",
+            "Cotinine",
+            "validated"
+          ]
+        },
+        {
+          "value": "16.3",
+          "rowHeaders": [
+            "6 mo"
+          ],
+          "columnHeaders": [
+            "Table 2. Intervention and control group abstinence",
+            "Intervention (n = 147)",
+            "Self-",
+            "report"
+          ]
+        },
+        {
+          "value": "12.9",
+          "rowHeaders": [
+            "6 mo"
+          ],
+          "columnHeaders": [
+            "Table 2. Intervention and control group abstinence",
+            "Intervention (n = 147)",
+            "Cotinine",
+            "validated"
+          ]
+        },
+        {
+          "value": "10.2",
+          "rowHeaders": [
+            "12 mo"
+          ],
+          "columnHeaders": [
+            "Table 2. Intervention and control group abstinence",
+            "Intervention (n = 147)",
+            "Self-",
+            "report"
+          ]
+        },
+        {
+          "value": "8.8",
+          "rowHeaders": [
+            "12 mo"
+          ],
+          "columnHeaders": [
+            "Table 2. Intervention and control group abstinence",
+            "Intervention (n = 147)",
+            "Cotinine",
+            "validated"
+          ]
+        },
+        {
+          "value": "<0.02 except for 12-month, cotinine-validated 7-day point prevalence ab-",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 2. Intervention and control group abstinence",
+            "Control (n = 155)",
+            "Cotinine",
+            "validated",
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "11.9",
+          "rowHeaders": [
+            "6 mo (n = 247)",
+            "3 mo (n = 259)"
+          ],
+          "columnHeaders": [
+            "Table 3. Percentage of intervention and control",
+            "Intervention"
+          ]
+        },
+        {
+          "value": "14.2",
+          "rowHeaders": [
+            "6 mo (n = 247)",
+            "3 mo (n = 259)"
+          ],
+          "columnHeaders": [
+            "Table 3. Percentage of intervention and control",
+            "Control"
+          ]
+        },
+        {
+          "value": "12.3",
+          "rowHeaders": [
+            "12 mo (n = 193)",
+            "6 mo (n = 247)"
+          ],
+          "columnHeaders": [
+            "Table 3. Percentage of intervention and control",
+            "Intervention"
+          ]
+        },
+        {
+          "value": "20.9",
+          "rowHeaders": [
+            "12 mo (n = 193)",
+            "6 mo (n = 247)"
+          ],
+          "columnHeaders": [
+            "Table 3. Percentage of intervention and control",
+            "Control"
+          ]
+        },
+        {
+          "value": "20.9",
+          "rowHeaders": [
+            "12 mo (n = 193)",
+            "6 mo (n = 247)"
+          ],
+          "columnHeaders": [
+            "Table 3. Percentage of intervention and control",
+            "Intervention"
+          ]
+        },
+        {
+          "value": "29.4",
+          "rowHeaders": [
+            "12 mo (n = 245)",
+            "12 mo (n = 193)"
+          ],
+          "columnHeaders": [
+            "Table 3. Percentage of intervention and control",
+            "Control"
+          ]
+        },
+        {
+          "value": "68.6",
+          "rowHeaders": [
+            "3 mo (n = 259)"
+          ],
+          "columnHeaders": [
+            "Table 3. Percentage of intervention and control",
+            "Intervention"
+          ]
+        },
+        {
+          "value": "9.9",
+          "rowHeaders": [
+            "3 mo (n = 259)"
+          ],
+          "columnHeaders": [
+            "Table 3. Percentage of intervention and control",
+            "Control"
+          ]
+        },
+        {
+          "value": "33.6",
+          "rowHeaders": [
+            "6 mo (n = 247)"
+          ],
+          "columnHeaders": [
+            "Table 3. Percentage of intervention and control",
+            "Intervention"
+          ]
+        },
+        {
+          "value": "14.2",
+          "rowHeaders": [
+            "6 mo (n = 247)"
+          ],
+          "columnHeaders": [
+            "Table 3. Percentage of intervention and control",
+            "Control"
+          ]
+        },
+        {
+          "value": "19.3",
+          "rowHeaders": [
+            "12 mo (n = 245)"
+          ],
+          "columnHeaders": [
+            "Table 3. Percentage of intervention and control",
+            "Intervention"
+          ]
+        },
+        {
+          "value": "24.4",
+          "rowHeaders": [
+            "12 mo (n = 245)"
+          ],
+          "columnHeaders": [
+            "Table 3. Percentage of intervention and control",
+            "Control"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "1.0",
+          "rowHeaders": [
+            "Cigarette consumption per day",
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 4. Crude and adjusted odds ratios and 95% CI from logistic regression model for the primary outcome,",
+            "Unadjusted OR (95% CI) of 7-d point",
+            "prevalence abstinence at 12 mo"
+          ]
+        },
+        {
+          "value": "1.0",
+          "rowHeaders": [
+            "Cigarette consumption per day",
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 4. Crude and adjusted odds ratios and 95% CI from logistic regression model for the primary outcome,",
+            "Adjusted* OR (95% CI) of 7-d point",
+            "prevalence abstinence at 12 mo"
+          ]
+        },
+        {
+          "value": "1.83 (0.83-4.01)",
+          "rowHeaders": [
+            "Cigarette consumption per day",
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 4. Crude and adjusted odds ratios and 95% CI from logistic regression model for the primary outcome,",
+            "Unadjusted OR (95% CI) of 7-d point",
+            "prevalence abstinence at 12 mo"
+          ]
+        },
+        {
+          "value": "1.84 (0.89-4.11)",
+          "rowHeaders": [
+            "Cigarette consumption per day",
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 4. Crude and adjusted odds ratios and 95% CI from logistic regression model for the primary outcome,",
+            "Adjusted* OR (95% CI) of 7-d point",
+            "prevalence abstinence at 12 mo"
+          ]
+        },
+        {
+          "value": "0.94 (0.89-0.99)",
+          "rowHeaders": [
+            "Cigarette consumption per day",
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 4. Crude and adjusted odds ratios and 95% CI from logistic regression model for the primary outcome,",
+            "Adjusted* OR (95% CI) of 7-d point",
+            "prevalence abstinence at 12 mo"
+          ]
+        },
+        {
+          "value": "1.0",
+          "rowHeaders": [
+            "<16"
+          ],
+          "columnHeaders": [
+            "Table 4. Crude and adjusted odds ratios and 95% CI from logistic regression model for the primary outcome,",
+            "Adjusted* OR (95% CI) of 7-d point",
+            "prevalence abstinence at 12 mo"
+          ]
+        },
+        {
+          "value": "0.39 (0.17-0.90)",
+          "rowHeaders": [
+            "≥16"
+          ],
+          "columnHeaders": [
+            "Table 4. Crude and adjusted odds ratios and 95% CI from logistic regression model for the primary outcome,",
+            "Adjusted* OR (95% CI) of 7-d point",
+            "prevalence abstinence at 12 mo"
+          ]
+        }
+      ],
+      "page": 1
+    }
+  ]
+}

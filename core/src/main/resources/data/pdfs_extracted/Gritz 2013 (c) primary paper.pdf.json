@@ -1,0 +1,777 @@
+{
+  "blocks": [
+    {
+      "type": "LINES",
+      "value": "Long-term Outcomes of a Cell Phone-Delivered Intervention for Smokers Living With HIV/AIDS",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Background. People living with human immunodeficiency virus (HIV)/AIDS (PLWHA) have a substantially higher prevalence of cigarette smoking compared to the general population. In addition, PLWHA are particularly susceptible to the adverse health effects of smoking. Our primary objective was to design and test the efficacy over 12 months of a smoking cessation intervention targeting PLWHA. Methods. Participants were enrolled from an urban HIV clinic with a multiethnic and economically disadvantaged patient population. Participants received smoking cessation treatment either through usual care (UC) or counseling delivered by a cellphone intervention (CPI). The 7-day point prevalence abstinence was evaluated at 3, 6, and 12 months using logistic regression and generalized linear mixed models. Results. We randomized 474 HIV-positive smokers to either the UC or CPI group. When evaluating the overall treatment effect (7-day abstinence outcomes from 3-, 6-, and 12-month follow-ups), participants in the CPI group were 2.41 times (P = .049) more likely to demonstrate abstinence compared to the UC group. The treatment effect was strongest at the 3-month follow-up (odds ratio = 4.3, P < .001), but diminished at 6 and 12 months (P > .05). Conclusions. Cell phone-delivered smoking cessation treatment has a positive impact on abstinence rates compared to a usual care approach. Future research should focus on strategies for sustaining the treatment effect in the long term.",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Study participants were recruited from Thomas Street Health Center, a county-operated HIV clinic serving a predominantly low-income, medically indigent patient population. A total of 474 participants were recruited between February 2007 and December 2009. Research staff screened all clinic patients for eligibility as they arrived for primary care appointments. Inclusion criteria were as follows: HIV-positive, age ≥18 years, current smoker (≥5 cigarettes daily and expired carbon monoxide level of ≥7 ppm), willing to set a quit date within 7 days, and ability to speak English or Spanish. Exclusion criteria included current enrollment in another smoking cessation program and/or physician-deemed ineligibility based on medical or psychiatric conditions.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "After obtaining informed consent, participants completed an audio computer-assisted self-interview (ACASI), then received provider advice to quit smoking. Subsequently, participants were randomized to 1 of 2 treatment groups: usual care (UC) vs cellphone intervention (CPI). Both the UC and CPI treatments were informed by recommendations from the Treating Tobacco Use and Dependence Clinical Practice Guideline. Participants assigned to the UC group were provided with targeted written smoking cessation materials (ie, a \"tip sheet\" designed to address concerns of HIV-positive smokers) and instructions on how to obtain NRT in the form of nicotine patches at the clinic.\nParticipants assigned to the CPI group received the UC components plus a cell phone-delivered counseling intervention over 3 months and access to a supportive hotline. The CPI was designed to (1) reduce access to care barriers, (2) provide an intensive level of support, and (3) meet the special needs of the target population. Counseling content was drawn from cognitive-behavioral and motivational interviewing techniques that are empirically supported in the literature for smoking cessation. Further description of counseling session content, call schedule, and call completion rates have been previously published. Participants in the CPI group were provided with a prepaid cellphone. All counselors were trained and supervised by a licensed clinical psychologist.\nFollow-up assessments were conducted at 3, 6, and 12 months postenrollment, and included an ACASI and biological confirmation of smoking status using expired CO. The research protocol was approved by the institutional review boards of The University of Texas MD Anderson Cancer Center and The University of Texas Health Science Center at Houston. Additional details about treatment, study design, follow-up, and assessment procedures have been previously published.\nBaseline and follow-up assessments included measures to assess demographic, behavioral, and psychosocial characteristics. Tobacco-related items administered at baseline included age of smoking initiation, number of cigarettes smoked per day, and quit attempt history. At follow-up, items were administered to assess smoking abstinence (24-hour, 7-day, and 30-day), number of quit attempts, length of abstinence (in days), use of NRT, use of other cessation treatments, and exposure to other forms of tobacco. Other smoking-related measures included the Fagerström Test for Nicotine Dependence (FTND); the Reasons for Quitting scale (intrinsic and extrinsic quit motivation); and the 9-item quitting self-efficacy scale. Depressive symptoms were assessed with the 20-item Centers for Epidemiologic Studies Depression scale (CES-D), and current anxiety was assessed with the State component of the State-Trait Anxiety Inventory (STAI). Quality of life (QOL) was assessed with the Medical Outcomes Study HIV Health Survey (MOS-HIV), which provided both mental and physical functional status summary scores. Alcohol use was measured with the Alcohol Use Disorders Identification Test (AUDIT). A single item was used to assess illicit drug use in the past month.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Descriptive statistics were computed separately for the UC and CPI groups, and included generating means, standard deviations, and frequencies of demographic, psychosocial, tobaccorelated, and alcohol and illicit drug use variables at baseline. A series of univariable regression models were used to evaluate baseline differences of potential confounders between the 2 treatment groups; statistical significance was tested using χ 2 tests for categorical variables and t tests for continuous variables. Self-reported 7-day point prevalence abstinence was the primary outcome measure for smoking abstinence, and 24-hour and 30-day abstinence were assessed as secondary outcomes. Expired CO level was used to biochemically verify self-reported smoking status. Thus, participants who self-reported abstinence but had a CO level of ≥7 ppm were coded as smokers.\nAll smoking abstinence outcomes were expressed as dichotomous variables. Generalized linear mixed models were used to evaluate the overall treatment effect on each of the abstinence outcomes. The primary outcome of smoking abstinence was repeatedly measured at different time points, and 12 months) for each participant; therefore, GLMM was utilized in this analysis as it can accommodate repeated measures and within-subject correlations. GLMM can also handle missing data without imputing values. All GLMM models for this analysis used a logit link function and binomial error variance to generate odds ratios (ORs) and confidence intervals (CIs). All models included variables for follow-up time point and age as fixed effects, and subject as a random effect. An interaction term between follow-up visit and treatment group was used to evaluate whether the treatment effect varied statistically overtime.\nAll analyses were conducted using an intent-to-treat (ITT) approach (those lost to follow-up are coded as smokers) and then repeated using a complete case (CC) approach (only included data on participants who completed at least 1 of the follow-up assessments). All analyses were conducted using Stata software, version 10.1 (StataCorp, College Station, Texas).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "We screened a total of 1372 individuals for this study, and 553 were excluded due to failure to meet the study inclusion criteria. A total of 474 participants were randomized to the UC group (n = 238) or the CPI group (n = 236). Participant follow-up rates at 3, 6, and 12 months postenrollment were 73.8%, 76.4%, and 77.0%, respectively; there were no statistically significant differences in follow-up rates between the treatment conditions. Baseline characteristics by treatment group are presented in. The treatment groups were balanced with regard to demographic, psychosocial, tobacco-related, and alcohol and illicit drug use variables at baseline. With the exception of age, there were no statistically significant differences in the baseline variables between the treatment conditions.\nThe sample was 70.0% male, 76.2% African American, and 17.7% married (or living with a significant other). The majority of the sample was unemployed at baseline (78.9%), primarily due to health reasons (49.2%), and 38.4% had less than a high school education. The primary mode of self-reported HIV acquisition was heterosexual contact (45.6%); participants also reported HIV transmission via men having sex with men (25.2%) and injection drug use (17.2%). The mean age at baseline was 44.8 (SD, 8.1) years. Mean age was the only baseline variable with a statistically significant difference between the 2 treatment conditions (UC = 45.7 [SD, 7.8] and CPI = 43.9; P = .017), and therefore age was adjusted for in all regression models when evaluating smoking abstinence outcomes.\nMore than half the sample (67.3%) reported high levels of depressive symptoms at baseline (CES-D ≥ 16). Overall, the study sample reported poor physical and mental functional status when assessing QOL using the MOS-HIV Physical Health Summary (PHS) score and the Mental Health Summary (MHS) score. Both summary scores were below the population mean of 50, with participants reporting an average PHS score of 40.0 (SD, 10.8) and MHS score of 42.1 (SD, 11.2) at baseline. Approximately 31% of participants were classified as having a harmful or hazardous level of alcohol use (AUDIT score ≥ 8), and 40.1% reported using illicit drugs in the past 30 days. At baseline, participants reported smoking a mean of 19.2 (SD,  11.5) cigarettes per day, and 51.9% reported living with other smokers. The mean FTND score was 5.8 (SD, 2.3) indicating an overall, moderately high level of nicotine dependence. The overall treatment effect on smoking abstinence outcomes are presented in. For the primary outcome-7-day point prevalence abstinence through 12-month follow-up-results from ITT analysis indicated that participants in the CPI group were 2.41 times (95% CI, 1.01-5.76) more likely to be abstinent compared to those in the UC group. Results are similar when evaluating 7-day abstinence using the CC approach (OR = 2.46 [95% CI, 1.03-5.94]). Evaluation of the secondary smoking abstinence outcomes, 24-hour abstinence and 30-day abstinence, yielded similar ORs to those for 7-day abstinence (ORs ranging between 2.20 and 2.47). Inclusion of the interaction term for follow-up time point by treatment group in the GLMM model yielded a statistically significant change in slope (P < .0001), indicating that the treatment effect varied over each follow-up time point. This is further illustrated in, which presents the prevalence of 7-day abstinence at the individual follow-up time points by treatment group. Participants randomized to the CPI group were 4.3 times (95% CI, 1.9-9.8) more likely to report smoking abstinence at 3 months after study enrollment compared to those in the UC group when using ITT analysis; when using CC analysis, the results were similar, yielding an OR of 4.5 (95% CI, 2.0-10.3). The treatment effect evident at the 3-month time point diminished when evaluating abstinence at the 6-and 12-month follow-up time points (P > .05).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The purpose of this study was to develop and implement a smoking cessation intervention intended to address the complex medical and social needs encountered by PLWHA from low-income and multiethnic backgrounds. To this end, we provided participants with prepaid cell phones, given the lack of resources and unstable telephone service among the population. The proactive telephone calls were designed to All estimates generated using generalized linear mixed-model regression using a logit link function. Models adjusted for fixed effect of time (follow-up time point) and age, and random effect of subject.\nAbbreviations: CI, confidence interval; OR, odds ratio. address HIV-specific issues, such as treatment response and risk of HIV-related diseases. Cognitive and behavioral components were designed to help modify thoughts and behaviors that serve as barriers to quitting smoking and remaining abstinent. Finally, the motivational component was designed to address fluctuations in quit motivation and promote greater self-efficacy for quitting smoking during the treatment delivery phase. We believe that the objective success in demonstrating a significant treatment effect in the CPI group compared to the UC group attests to the targeting and personalization of the interventions for PLWHA, combined with the focus on delivering empirically validated treatment strategies for smoking cessation. However, these findings show that absolute quit rates were low in both CPI and UC groups and diminished overtime. Substantial work remains to be accomplished to assist this underserved population in tobacco cessation. Several aspects of this study deserve further comment. First, participants were selected based on a demonstrated level of smoking (≥5 cigarettes/day and expired breath CO ≥7 ppm), leading to the exclusion of 40.3% of the smokers who were screened). Even participants who did not reach the screening cutoffs applied in this study are likely to have substantial levels of nicotine dependence. Population-level data indicate that African American and Hispanic individuals smoke fewer cigarettes per day compared to white individuals, yet remain nicotine dependent. The exact reasons for this trend of lighter smoking are not known, but the lack of economic resources to purchase cigarettes for daily use maybe a contributing factor. Given that HIV/AIDS disproportionately affects racial/ethnic minorities and low-income populations, future smoking cessation efforts should be more inclusive of lighter and nondaily smokers.\nAs previously mentioned, the absolute quit rates in both the CPI and UC treatment groups were low. This maybe due to low NRT utilization and high nicotine dependence among this sample of PLWHA smokers. Although all participants received information for obtaining free NRT, the actual utilization rate was low and likely due to requirements imposed by the county clinic to participate in additional classes to receive NRT. Several characteristics of the study sample indicate a moderately high level of nicotine dependence, including a mean FTND score of 5.8, a high rate of alcohol and illicit drug use, and a substantial rate of poly-tobacco use (21.6%), including cigars and smokeless tobacco. Consequently, greater utilization of NRT might have positively affected quit rates in this dependent sample of smokers. The importance of NRT is further supported by the findings of Lloyd-Richardson and colleagues, who reported that NRT adherence was predictive of abstinence among PLWHA enrolled in a cessation trial.\nOther important descriptors of our sample at baseline were the high levels of depressive symptoms and poor mental and physical health functional status. There is a substantial burden of mental illness among smokers and PLWHA, and persons suffering from depression are known to have lower quit rates than nondepressed individuals. Again, pharmacological support has been shown to differentially benefit such persons. Finally, although our intervention featured personalized counseling to address barriers to cessation, we were notable to directly connect study participants to social services, mental health counselors, drug abuse counselors, or other specialties to address their real-world problems. Thus, we are currently developing an intervention that incorporates such features into our future research.\nThe strengths of this study include its large sample size and its urban, multiethnic population representative of PLWHA, 2 elements that few prior studies have matched. Because we used expired breath CO to verify self-report of smoking abstinence and classified those who did not meet the criterion as smokers, we had a particularly rigorous measure of abstinence. Other studies that used only self-report maybe subject to reporting bias.\nLimitations include use of a single HIV clinic, albeit a county site with a large patient population. Furthermore, the study was not designed to test whether the intervention would have been more effective if delivered at a given stage of HIV diagnosis or treatment (eg, at initial diagnosis; successful course of antiretroviral treatment as defined by CD4 count or viral load; or disease progression). Research is currently underway to address the point of optimal smoking cessation treatment. Furthermore, our design did not permit a more nuanced efficacy assessment of the specific counseling treatment components. The use of expired CO to validate smoking status is also a potential limitation. Misclassification of smoking status may have occurred due to marijuana use (ie, marijuana users could have incorrectly been classified as smokers). Alternatively, the relatively short half-life of CO may have also resulted in misclassification (ie, smokers could have been coded as abstinent due to low CO levels). However, CO-related misclassification would likely be nondifferential and have little or no impact on the treatment effect outcomes.\nIn the absence of evidence-based cessation programs for PLWHA and HIV-specific clinical smoking guidelines, recent recommendations call for clinical, behavioral, and systemsbased research tailored to the unique medical and social needs of PLWHA. It is well recognized that PLWHA from economically disadvantaged backgrounds face significant barriers that subsequently prevent this population from participating in smoking cessation programs. Barriers germane to economically disadvantaged PLWHA include transportation difficulties, lack of resources including telephones, competing medical and social needs, high frequency of household moves, and limited access to smoking cessation programs. This study is unique as it aims to address these barriers by using cellphone technology to deliver treatment. Future studies have an imperative to make pharmacologic and behavioral support readily available to this target population, and to continue to tailor interventions to address the specific needs of PLWHA. This is among the first large-scale RCTs of a smoking cessation intervention for PLWHA. The use of a proactive cell phone-based intervention that combined supportive counseling, motivational intervention, and materials/topics targeted to PLWHA was successful compared to an UC intervention that included physician advice to quit and tip sheets. However, the intervention effect declined overtime, with the greatest impact occurring at the 3-month follow-up. The findings indicate that, while efficacious, the CPI effect is not well sustained beyond the 3-month treatment period, suggesting that an extended intervention approach maybe beneficial. Future studies will address sustaining the intervention effect, raising the overall absolute quit rates, and reducing real-life barriers to cessation associated with psychiatric comorbidity, as well as environmental and lifestyle characteristics of this underserved population.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "43.9 (8.3)",
+          "rowHeaders": [
+            "Age, y, mean (SD)*"
+          ],
+          "columnHeaders": [
+            "of",
+            "Intervention",
+            "Group (n = 236)"
+          ]
+        },
+        {
+          "value": "45.7 (7.8)",
+          "rowHeaders": [
+            "Age, y, mean (SD)*"
+          ],
+          "columnHeaders": [
+            "Participants,",
+            "Usual Care",
+            "Group (n = 238)"
+          ]
+        },
+        {
+          "value": "68 (28.8)",
+          "rowHeaders": [
+            "Women"
+          ],
+          "columnHeaders": [
+            "of",
+            "Intervention",
+            "Group (n = 236)"
+          ]
+        },
+        {
+          "value": "74 (31.1)",
+          "rowHeaders": [
+            "Women"
+          ],
+          "columnHeaders": [
+            "Participants,",
+            "Usual Care",
+            "Group (n = 238)"
+          ]
+        },
+        {
+          "value": "30 (12.7)",
+          "rowHeaders": [
+            "White"
+          ],
+          "columnHeaders": [
+            "of",
+            "Intervention",
+            "Group (n = 236)"
+          ]
+        },
+        {
+          "value": "29 (12.2)",
+          "rowHeaders": [
+            "White"
+          ],
+          "columnHeaders": [
+            "Participants,",
+            "Usual Care",
+            "Group (n = 238)"
+          ]
+        },
+        {
+          "value": "24 (10.2)",
+          "rowHeaders": [
+            "Latino/Hispanic"
+          ],
+          "columnHeaders": [
+            "of",
+            "Intervention",
+            "Group (n = 236)",
+            "176 (74.6)"
+          ]
+        },
+        {
+          "value": "19 (8.0)",
+          "rowHeaders": [
+            "Latino/Hispanic"
+          ],
+          "columnHeaders": [
+            "Participants,",
+            "Usual Care",
+            "Group (n = 238)",
+            "185 (77.7)"
+          ]
+        },
+        {
+          "value": "10.9 (2.7)",
+          "rowHeaders": [
+            "Years of formal"
+          ],
+          "columnHeaders": [
+            "of",
+            "Intervention",
+            "Group (n = 236)",
+            "176 (74.6)",
+            "6 (2.5)"
+          ]
+        },
+        {
+          "value": "10.8 (2.5)",
+          "rowHeaders": [
+            "Years of formal"
+          ],
+          "columnHeaders": [
+            "Participants,",
+            "Usual Care",
+            "Group (n = 238)",
+            "185 (77.7)",
+            "5 (2.1)"
+          ]
+        },
+        {
+          "value": "94 (39.8)",
+          "rowHeaders": [
+            "Less than high school"
+          ],
+          "columnHeaders": [
+            "of",
+            "Intervention",
+            "Group (n = 236)",
+            "176 (74.6)",
+            "6 (2.5)"
+          ]
+        },
+        {
+          "value": "88 (37.0)",
+          "rowHeaders": [
+            "Less than high school"
+          ],
+          "columnHeaders": [
+            "Participants,",
+            "Usual Care",
+            "Group (n = 238)",
+            "185 (77.7)",
+            "5 (2.1)"
+          ]
+        },
+        {
+          "value": "89 (37.7)",
+          "rowHeaders": [
+            "High school or"
+          ],
+          "columnHeaders": [
+            "of",
+            "Intervention",
+            "Group (n = 236)",
+            "176 (74.6)",
+            "6 (2.5)"
+          ]
+        },
+        {
+          "value": "91 (38.2)",
+          "rowHeaders": [
+            "High school or"
+          ],
+          "columnHeaders": [
+            "Participants,",
+            "Usual Care",
+            "Group (n = 238)",
+            "185 (77.7)",
+            "5 (2.1)"
+          ]
+        },
+        {
+          "value": "53 (22.5)",
+          "rowHeaders": [
+            "More than high school"
+          ],
+          "columnHeaders": [
+            "of",
+            "Intervention",
+            "Group (n = 236)",
+            "176 (74.6)",
+            "6 (2.5)"
+          ]
+        },
+        {
+          "value": "59 (24.8)",
+          "rowHeaders": [
+            "More than high school"
+          ],
+          "columnHeaders": [
+            "Participants,",
+            "Usual Care",
+            "Group (n = 238)",
+            "185 (77.7)",
+            "5 (2.1)"
+          ]
+        },
+        {
+          "value": "53 (22.5)",
+          "rowHeaders": [
+            "Working full or part"
+          ],
+          "columnHeaders": [
+            "of",
+            "Intervention",
+            "Group (n = 236)",
+            "176 (74.6)",
+            "6 (2.5)"
+          ]
+        },
+        {
+          "value": "47 (19.7)",
+          "rowHeaders": [
+            "Working full or part"
+          ],
+          "columnHeaders": [
+            "Participants,",
+            "Usual Care",
+            "Group (n = 238)",
+            "185 (77.7)",
+            "5 (2.1)"
+          ]
+        },
+        {
+          "value": "20 (8.5)",
+          "rowHeaders": [
+            "Unable to find work"
+          ],
+          "columnHeaders": [
+            "of",
+            "Intervention",
+            "Group (n = 236)",
+            "176 (74.6)",
+            "6 (2.5)",
+            "143 (60.6)"
+          ]
+        },
+        {
+          "value": "16 (6.7)",
+          "rowHeaders": [
+            "Unable to find work"
+          ],
+          "columnHeaders": [
+            "Participants,",
+            "Usual Care",
+            "Group (n = 238)",
+            "185 (77.7)",
+            "5 (2.1)",
+            "157 (66.0)"
+          ]
+        },
+        {
+          "value": "20 (8.5)",
+          "rowHeaders": [
+            "Not working for other"
+          ],
+          "columnHeaders": [
+            "of",
+            "Intervention",
+            "Group (n = 236)",
+            "176 (74.6)",
+            "6 (2.5)",
+            "143 (60.6)"
+          ]
+        },
+        {
+          "value": "18 (7.6)",
+          "rowHeaders": [
+            "Not working for other"
+          ],
+          "columnHeaders": [
+            "Participants,",
+            "Usual Care",
+            "Group (n = 238)",
+            "185 (77.7)",
+            "5 (2.1)",
+            "157 (66.0)"
+          ]
+        },
+        {
+          "value": "62 (26.4)",
+          "rowHeaders": [
+            "Male homosexual"
+          ],
+          "columnHeaders": [
+            "of",
+            "Intervention",
+            "Group (n = 236)",
+            "176 (74.6)",
+            "6 (2.5)",
+            "143 (60.6)"
+          ]
+        },
+        {
+          "value": "57 (24.1)",
+          "rowHeaders": [
+            "Male homosexual"
+          ],
+          "columnHeaders": [
+            "Participants,",
+            "Usual Care",
+            "Group (n = 238)",
+            "185 (77.7)",
+            "5 (2.1)",
+            "157 (66.0)"
+          ]
+        },
+        {
+          "value": "34 (14.5)",
+          "rowHeaders": [
+            "Injection drug use"
+          ],
+          "columnHeaders": [
+            "of",
+            "Intervention",
+            "Group (n = 236)",
+            "176 (74.6)",
+            "6 (2.5)",
+            "143 (60.6)",
+            "108 (46.0)"
+          ]
+        },
+        {
+          "value": "47 (19.8)",
+          "rowHeaders": [
+            "Injection drug use"
+          ],
+          "columnHeaders": [
+            "Participants,",
+            "Usual Care",
+            "Group (n = 238)",
+            "185 (77.7)",
+            "5 (2.1)",
+            "157 (66.0)",
+            "107 (45.2)"
+          ]
+        },
+        {
+          "value": "31 (13.2)",
+          "rowHeaders": [
+            "Other"
+          ],
+          "columnHeaders": [
+            "of",
+            "Intervention",
+            "Group (n = 236)",
+            "176 (74.6)",
+            "6 (2.5)",
+            "143 (60.6)",
+            "108 (46.0)"
+          ]
+        },
+        {
+          "value": "26 (11.0)",
+          "rowHeaders": [
+            "Other"
+          ],
+          "columnHeaders": [
+            "Participants,",
+            "Usual Care",
+            "Group (n = 238)",
+            "185 (77.7)",
+            "5 (2.1)",
+            "157 (66.0)",
+            "107 (45.2)"
+          ]
+        },
+        {
+          "value": "39 (16.5)",
+          "rowHeaders": [
+            "Married/living with"
+          ],
+          "columnHeaders": [
+            "of",
+            "Intervention",
+            "Group (n = 236)",
+            "176 (74.6)",
+            "6 (2.5)",
+            "143 (60.6)",
+            "108 (46.0)"
+          ]
+        },
+        {
+          "value": "45 (18.9)",
+          "rowHeaders": [
+            "Married/living with"
+          ],
+          "columnHeaders": [
+            "Participants,",
+            "Usual Care",
+            "Group (n = 238)",
+            "185 (77.7)",
+            "5 (2.1)",
+            "157 (66.0)",
+            "107 (45.2)"
+          ]
+        },
+        {
+          "value": "22.0 (11.2)",
+          "rowHeaders": [
+            "Depression (CES-D"
+          ],
+          "columnHeaders": [
+            "of",
+            "Intervention",
+            "Group (n = 236)",
+            "176 (74.6)",
+            "6 (2.5)",
+            "143 (60.6)",
+            "108 (46.0)"
+          ]
+        },
+        {
+          "value": "21.5 (11.4)",
+          "rowHeaders": [
+            "Depression (CES-D"
+          ],
+          "columnHeaders": [
+            "Participants,",
+            "Usual Care",
+            "Group (n = 238)",
+            "185 (77.7)",
+            "5 (2.1)",
+            "157 (66.0)",
+            "107 (45.2)"
+          ]
+        },
+        {
+          "value": "43.6 (13.6)",
+          "rowHeaders": [
+            "Anxiety (STAI, state"
+          ],
+          "columnHeaders": [
+            "of",
+            "Intervention",
+            "Group (n = 236)",
+            "176 (74.6)",
+            "6 (2.5)",
+            "143 (60.6)",
+            "108 (46.0)",
+            "167 (70.8)"
+          ]
+        },
+        {
+          "value": "43.0 (13.2)",
+          "rowHeaders": [
+            "Anxiety (STAI, state"
+          ],
+          "columnHeaders": [
+            "Participants,",
+            "Usual Care",
+            "Group (n = 238)",
+            "185 (77.7)",
+            "5 (2.1)",
+            "157 (66.0)",
+            "107 (45.2)",
+            "152 (63.9)"
+          ]
+        },
+        {
+          "value": "39.8 (11.2)",
+          "rowHeaders": [
+            "Physical health summary"
+          ],
+          "columnHeaders": [
+            "of",
+            "Intervention",
+            "Group (n = 236)",
+            "176 (74.6)",
+            "6 (2.5)",
+            "143 (60.6)",
+            "108 (46.0)",
+            "167 (70.8)"
+          ]
+        },
+        {
+          "value": "40.3 (10.4)",
+          "rowHeaders": [
+            "Physical health summary"
+          ],
+          "columnHeaders": [
+            "Participants,",
+            "Usual Care",
+            "Group (n = 238)",
+            "185 (77.7)",
+            "5 (2.1)",
+            "157 (66.0)",
+            "107 (45.2)",
+            "152 (63.9)"
+          ]
+        },
+        {
+          "value": "41.9 (11.4)",
+          "rowHeaders": [
+            "Mental health summary"
+          ],
+          "columnHeaders": [
+            "of",
+            "Intervention",
+            "Group (n = 236)",
+            "176 (74.6)",
+            "6 (2.5)",
+            "143 (60.6)",
+            "108 (46.0)",
+            "167 (70.8)"
+          ]
+        },
+        {
+          "value": "42.3 (11.1)",
+          "rowHeaders": [
+            "Mental health summary"
+          ],
+          "columnHeaders": [
+            "Participants,",
+            "Usual Care",
+            "Group (n = 238)",
+            "185 (77.7)",
+            "5 (2.1)",
+            "157 (66.0)",
+            "107 (45.2)",
+            "152 (63.9)"
+          ]
+        },
+        {
+          "value": "18.2 (9.0)",
+          "rowHeaders": [
+            "Age of smoking initiation,"
+          ],
+          "columnHeaders": [
+            "of",
+            "Intervention",
+            "Group (n = 236)",
+            "176 (74.6)",
+            "6 (2.5)",
+            "143 (60.6)",
+            "108 (46.0)",
+            "167 (70.8)"
+          ]
+        },
+        {
+          "value": "17.4 (6.8)",
+          "rowHeaders": [
+            "Age of smoking initiation,"
+          ],
+          "columnHeaders": [
+            "Participants,",
+            "Usual Care",
+            "Group (n = 238)",
+            "185 (77.7)",
+            "5 (2.1)",
+            "157 (66.0)",
+            "107 (45.2)",
+            "152 (63.9)"
+          ]
+        },
+        {
+          "value": "18.6 (11.3)",
+          "rowHeaders": [
+            "Cigarettes smoked per"
+          ],
+          "columnHeaders": [
+            "of",
+            "Intervention",
+            "Group (n = 236)",
+            "176 (74.6)",
+            "6 (2.5)",
+            "143 (60.6)",
+            "108 (46.0)",
+            "167 (70.8)"
+          ]
+        },
+        {
+          "value": "19.7 (11.8)",
+          "rowHeaders": [
+            "Cigarettes smoked per"
+          ],
+          "columnHeaders": [
+            "Participants,",
+            "Usual Care",
+            "Group (n = 238)",
+            "185 (77.7)",
+            "5 (2.1)",
+            "157 (66.0)",
+            "107 (45.2)",
+            "152 (63.9)"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "2.41 (1.01-5.76)",
+          "rowHeaders": [
+            "7-d"
+          ],
+          "columnHeaders": [
+            "Primary and Secondary Smoking Abstinence Outcomes for Participants Randomized to the Cell Phone Intervention Group vs",
+            "Intent-to-Treat (N = 474)",
+            "OR (95% CI)"
+          ]
+        },
+        {
+          "value": ".049",
+          "rowHeaders": [
+            "7-d"
+          ],
+          "columnHeaders": [
+            "Primary and Secondary Smoking Abstinence Outcomes for Participants Randomized to the Cell Phone Intervention Group vs",
+            "Intent-to-Treat (N = 474)",
+            "P Value"
+          ]
+        },
+        {
+          "value": "2.46 (1.03-5.94)",
+          "rowHeaders": [
+            "7-d"
+          ],
+          "columnHeaders": [
+            "Primary and Secondary Smoking Abstinence Outcomes for Participants Randomized to the Cell Phone Intervention Group vs",
+            "Complete Case (n = 423)",
+            "OR (95% CI)"
+          ]
+        },
+        {
+          "value": ".044",
+          "rowHeaders": [
+            "7-d"
+          ],
+          "columnHeaders": [
+            "Primary and Secondary Smoking Abstinence Outcomes for Participants Randomized to the Cell Phone Intervention Group vs",
+            "Complete Case (n = 423)",
+            "P Value"
+          ]
+        },
+        {
+          "value": "2.36 (1.28-4.38)",
+          "rowHeaders": [
+            "24-h"
+          ],
+          "columnHeaders": [
+            "Primary and Secondary Smoking Abstinence Outcomes for Participants Randomized to the Cell Phone Intervention Group vs",
+            "Intent-to-Treat (N = 474)",
+            "OR (95% CI)"
+          ]
+        },
+        {
+          "value": ".006",
+          "rowHeaders": [
+            "24-h"
+          ],
+          "columnHeaders": [
+            "Primary and Secondary Smoking Abstinence Outcomes for Participants Randomized to the Cell Phone Intervention Group vs",
+            "Intent-to-Treat (N = 474)",
+            "P Value"
+          ]
+        },
+        {
+          "value": "2.47 (1.31-4.64)",
+          "rowHeaders": [
+            "24-h"
+          ],
+          "columnHeaders": [
+            "Primary and Secondary Smoking Abstinence Outcomes for Participants Randomized to the Cell Phone Intervention Group vs",
+            "Complete Case (n = 423)",
+            "OR (95% CI)"
+          ]
+        },
+        {
+          "value": ".005",
+          "rowHeaders": [
+            "24-h"
+          ],
+          "columnHeaders": [
+            "Primary and Secondary Smoking Abstinence Outcomes for Participants Randomized to the Cell Phone Intervention Group vs",
+            "Complete Case (n = 423)",
+            "P Value"
+          ]
+        },
+        {
+          "value": "2.20 (.83-5.83)",
+          "rowHeaders": [
+            "30-d"
+          ],
+          "columnHeaders": [
+            "Primary and Secondary Smoking Abstinence Outcomes for Participants Randomized to the Cell Phone Intervention Group vs",
+            "Intent-to-Treat (N = 474)",
+            "OR (95% CI)"
+          ]
+        },
+        {
+          "value": ".114",
+          "rowHeaders": [
+            "30-d"
+          ],
+          "columnHeaders": [
+            "Primary and Secondary Smoking Abstinence Outcomes for Participants Randomized to the Cell Phone Intervention Group vs",
+            "Intent-to-Treat (N = 474)",
+            "P Value"
+          ]
+        },
+        {
+          "value": "2.29 (.85-6.15)",
+          "rowHeaders": [
+            "30-d"
+          ],
+          "columnHeaders": [
+            "Primary and Secondary Smoking Abstinence Outcomes for Participants Randomized to the Cell Phone Intervention Group vs",
+            "Complete Case (n = 423)",
+            "OR (95% CI)"
+          ]
+        },
+        {
+          "value": ".133",
+          "rowHeaders": [
+            "30-d"
+          ],
+          "columnHeaders": [
+            "Primary and Secondary Smoking Abstinence Outcomes for Participants Randomized to the Cell Phone Intervention Group vs",
+            "Complete Case (n = 423)",
+            "P Value"
+          ]
+        }
+      ],
+      "page": 1
+    }
+  ]
+}

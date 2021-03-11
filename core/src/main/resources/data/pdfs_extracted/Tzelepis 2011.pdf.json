@@ -1,0 +1,2365 @@
+{
+  "blocks": [
+    {
+      "type": "LINES",
+      "value": "A randomised controlled trial of proactive telephone counselling on cold-called smokers' cessation rates",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Objectives Active telephone recruitment ('cold calling') can enrol almost 45 times more smokers to cessation services than media. However, the effectiveness of proactive telephone counselling with cold-called smokers from the broader community is unknown. This study examined whether proactive telephone counselling improved abstinence, quit attempts and reduced cigarette consumption among cold-called smokers. Methods From 48 014 randomly selected electronic telephone directory numbers, 3008 eligible smokers were identified and 1562 (51.9%) smokers recruited into the randomised controlled trial. Of these, 769 smokers were randomly allocated to proactive telephone counselling and 793 to the control (ie, mailed self-help) conditions. Six counselling calls were offered to intervention smokers willing to quit within a month and four to those not ready to quit. The 4-month, 7-month and 13-month follow-up interviews were completed by 1369 (87.6%), 1278 (81.8%) and 1245 (79.9%) participants, respectively. Results Proactive telephone counselling participants were significantly more likely than controls to achieve 7-day point prevalence abstinence at 4 months (13.8% vs 9.6%, p¼0.005) and 7 months (14.3% vs 11.0%, p¼0.02) but not at 13 months. There was a significant impact of telephone counselling on prolonged abstinence at 4 months (3.4% vs 1.8%, p¼0.02) and at 7 months (2.2% vs 0.9%, p¼0.02). At 4 months post recruitment, telephone counselling participants were significantly more likely than controls to have made a quit attempt (48.6% vs 42.9%, p¼0.01) and reduced cigarette consumption (16.9% vs 9.0%, p¼0.0002). Conclusions Proactive telephone counselling initially increased abstinence and quitting behaviours among cold-called smokers. Given its superior reach, quitlines should consider active telephone recruitment, provided relapse can be reduced.",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Proactive telephone counselling involves counsellor-initiated counselling calls and maybe offered to treatment seekers after their initial contact or to smokers referred to the quitline. Yet only 1% to 7% of adult smokers use quitlines annually 2e4 despite about 40% of smokers making a quit attempt each year. Active recruitment strategies that involve recruiter-initiated contact with smokers, such as active telephone recruitment or 'cold calling', may increase quitline use given it is acceptable to smokers and can recruit almost 45 times more smokers to cessation interventions than media. Most randomised controlled trials (RCTs) examining proactive telephone counselling recruited smokers seeking treatment. Of those that measured 7-day point prevalence abstinence the majority found a significant effect of proactive telephone counselling at 3 months, 18 22 but not at 6 months 15 17 20 or 12 months . In relation to prolonged abstinence a significant treatment effect was mainly reported. 8e15 Two trials revealed that proactive telephone counselling significantly increased quit attempts during the first 3 months. However, others reported no shortterm or long-term impact. In regards to reduction in daily cigarette consumption, proactive telephone counselling had a partial or no impact.\nSmokers who seek cessation interventions are not representative of the smoking population. For instance, quitline callers are more likely to be women, younger, higher educated, more addicted, have previously quit and be ready to quit within 30 days than smokers in the general population. Proactive telephone counselling trials with treatment seekers have limited generalisability to all smokers, especially since many included only smokers ready to quit within 30 days. 11e13 16 17 However, it is uncertain whether proactive telephone counselling would be as effective with actively recruited smokers as for treatment seekers. The cost of extending the reach of quitlines can only be justified if proactive telephone counselling of actively recruited smokers is effective and achieves acceptable cessation rates.\nA limited number of RCTs have evaluated the effectiveness of proactive telephone counselling among actively recruited smokers. One of two trials that measured 7-day point prevalence abstinence found a significant effect of proactive telephone counselling at 3 months, but most reported no impact at 6 months 28 33 and at 12 months. None of these studies reported a significant impact of proactive telephone counselling on prolonged abstinence within 12 months or quit attempts. 26e28 Proactive telephone counselling was found to reduce cigarette consumption at 3 months, 6 months 26 and 12 months. Of the proactive telephone counselling trials with actively recruited smokers, three recruited participants via mail, 30e32 one used mail supplemented by telephone and four used active telephone recruitment. The trials that used active telephone recruitment targeted a particular segment of the smoking population: women having cervical cancer screening, clients from a health maintenance organisation, parents with young children and general community smokers interested in quitting. Given active telephone recruitment could increase the proportion of smokers using quitlines it is important to examine the efficacy of proactive telephone counselling among cold-called smokers from the broader general population.\nThis study recruited adult daily smokers by telephone from the broader general population and assessed the short-term and long-term effectiveness of proactive telephone counselling on (i) 7-day point prevalence abstinence and prolonged abstinence, (ii) making a quit attempt and (iii) reducing cigarette consumption by at least 50%.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Recruitment occurred between September 2005 and April 2007. Eligibility requirements were: daily tobacco use; aged 18 years or older; New South Wales (NSW) resident, Australia; and English speaking. Smokers were eligible regardless of their quitting intention.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Overall, 48 014 telephone numbers were randomly selected from the NSW Electronic White Pages telephone directory. Households were mailed an information letter and a trained interviewer telephoned within 2 weeks. Of 43 710 households reached, 3008 contained at least 1 eligible smoker. If two or more eligible smokers were residents, a computerised age grid randomly selected one smoker. This smoker was invited to join the RCTand if he/she gave verbal consent completed a baseline computerassisted telephone interview (CATI; n¼1562). Subsequently, the CATI used a random number generator created by an independent programmer to allocate the smoker to proactive telephone counselling (n¼769) or self-help materials (control: n¼793). Assessors were blind to participant condition during the baseline interview.\nBetween January 2006 and June 2008, CATIs were conducted at 4 months, 7 months and 13 months post recruitment to assess smoking cessation. Given follow-up interviews included condition-specific items assessors were not blind to participant condition. However, assessors were independent of the researchers and NSW Quitline. outlines participant recruitment and assessment.\nThe University of Newcastle Human Research Ethics Committee and the Hunter New England Human Research Ethics Committee granted ethics approval.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The contact details of each intervention participant, preferred days and times to call, and responses to selected baseline interview items were included in a referral form and securely emailed to the NSW Quitline the next working day.\nThe NSW Quitline called all intervention participants regardless of their quitting intention. The initial proactive counselling call typically occurred within 1 week of referral and aimed to provide smokers with motivation to set a quit date or move closer to quitting. At the end of the initial counselling call, participants were asked if they were willing to quit within a month and counselling calls offered according to their quitting intention. Six attempts were made over a week to reach the participant for each counselling session. At the end of each counselling call the next session was scheduled (if accepted).\nAlthough calls were offered as per the schedule, each call was booked according to participant preference.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Participants ready to quit within a month were offered an additional five proactive telephone counselling calls: on the quit date, and at 3, 7, 14 and 30 days after the quit date. This evidence-based call schedule accounts for the greatest probability of relapse, involves calls being scheduled close to the critical first 2 weeks following a quit attempt and mimics the standard call schedule offered by NSW Quitline.\nThe content of the 'ready to quit' calls included: assessing smoking status (eg, stopped, cut down, relapsed, smoking the same), identifying and coping with triggers (eg, alcohol, stress, tea/coffee, meals), information on effective quitting aids (eg, nicotine replacement therapy (NRT), bupropion), setting tasks to assist with quitting (eg, listing goals, listing triggers and strategies to deal with triggers) and relapse prevention strategies and promotion of self-efficacy.\nThose who relapsed and set anew quit date within a month restarted the 'ready to quit' schedule, whereas those who did not were offered a call in 1 month's time.\n'Not ready to quit' callback schedule  1 month, 3 months and 5 months after the initial counselling call. The 'not ready to quit' calls involved motivational interviewing (MI) that focused on encouraging participants to move towards setting a quit date. These calls included assessing smoking status, setting tasks to encourage quitting, talking about available quitting strategies and promotion of self-efficacy. If those in the 'not ready to quit' schedule indicated during counselling that they were now willing to quit within a month, they began the 'ready to quit' callback schedule on their nominated quit date.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "To allow for changes in readiness to quit a maximum of 12 proactive counselling calls were offered regardless of quitting intention.\nAdvisor training NSW Quitline training NSW Quitline advisors receive comprehensive theoretical and practical training, including supervision with an experienced mentor before undertaking telephone counselling. A refresher course on cognitiveebehavioural therapy and MI is also provided. Most (70%) advisors who delivered the intervention attended booster MI training sessions to assist with supporting smokers who were not ready to quit.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Advisors contacted participants only after attending a 2 h training session where researchers outlined the study protocols. The researchers provided feedback to advisors on intervention delivery bimonthly.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Control participants were mailed a non-tailored quit kit the next working day after their baseline interview. These materials were identical to those the NSW Quitline offers to their callers.\nThe quit kit contained the following: a letter outlining the contents and the quitline phone number, Quit Because You Can booklet (a guide to quitting), Products to Help You Quit Smoking brochure that described effective pharmacotherapy and behavioural quitting strategies, You Can Quit pocket guide that included suggestions on how to remain smoke free, a Quitline brochure, explaining the telephone counselling services offered and a 'no smoking' sticker.\nThese self-help materials outlined the risks of smoking, triggers associated with smoking, effective quitting aids such as pharmacotherapies, withdrawal symptoms and cravings and coping with setbacks. These topics are similar to those that were discussed with intervention participants.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Baseline interview question topics included sociodemographics (eg, education), smoking-related issues (eg, cigarettes smoked per day) and other behaviour (eg, alcohol consumption) (see).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Among proactive telephone counselling participants (n¼769), 90% accepted at least one and 65% three or more counselling calls. Of those who received any counselling calls (n¼695), the mean was 4.4 calls (SD 2.9; median¼4). The mean duration of each consecutive counselling call was: 12.4 min (SD 10.0; median¼10); 7.7 min (SD 7.8; median¼5); 7.9 min (SD 7.6; median¼5); 7.6 min (SD 7.6; median¼5); 7.0 min (SD 6.2; median¼5); and 7.6 min (SD 8.2; median¼5).\nAccording to self-report, 7.8% of control participants called the quitline themselves for telephone support (ie, contamination rate). The corresponding proportion from the quitline database check was 2.5% but as quitline callers can remain anonymous this figure was expected to bean underestimate of quitline use.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "During the 13-month assessment respondents were asked about any use of quitting aids since baseline. Overall, 40.6% (41.9% intervention, 39.3% control) used NRT, 21.1% (23.3% intervention, 19.1% control) general practitioner advice, 7.2% (8.3% intervention, 6.3% control) bupropion and 1.4% (1.2% intervention; 1.6% control) group counselling. When asked about other strategies used, 0.1% (0.2% intervention; 0% control) reported using web-assisted interventions. There were no significant differences in the use of any quitting strategies (other than telephone counselling) by condition. reports the 7-day point prevalence and prolonged abstinence rates at each assessment. Those offered proactive telephone counselling were significantly more likely than control participants to achieve 7-day point prevalence abstinence at 4 months (13.8% vs 9.6%, p¼0.005) and 7 months post recruitment (14.3% vs 11.0%, p¼0.02). At the 13-month interview there was no significant difference by condition (15.2% vs 14.4%, p¼0.4).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The primary outcomes as recommended by an expert workgroup were self-reported 7-day point prevalence abstinence (ie, abstinence for at least 7-days immediately preceding follow-up) and prolonged abstinence (ie, sustained abstinence after an initial period in which smoking is not counted as a failure) assessed at 4 months, 7 months and 13 months post recruitment.\nTo achieve 7-day point prevalence abstinence, participants had to answer 'no' to 'Have you smoked at least part of a cigarette in the last 7 days?' and 'Have you used any of those other forms of tobacco, for example pipes or cigars, in the last 7 days?'. Prolonged abstinence was measured from a 1-month postrecruitment grace period (to give smokers an opportunity to quit) to each follow-up and between interviews, resulting in prolonged abstinence of 3 months, 6 months, 9 months and 12 months. To achieve prolonged abstinence participants had to answer 'no' to 'Since [date] did you smoke at all, even part of a cigarette? have you used any other forms of tobacco, for example, pipes or cigars?'. The related to the end of the 1-month post-recruitment grace period during the 4-month interview and the preceding follow-up at the 7-month and 13-month assessments.\nSecondary outcomes related to the proportion of smokers making a quit attempt and reducing their cigarette consumption by at least 50%. During the 4-month interview, all participants (given all smoked at baseline) were asked whether they had quit for 1 day or longer since baseline. At the 7-month and 13-month assessments the proportion that made a quit attempt was based on those who had smoked at sometime since the previous interview. The proportion that reduced their cigarette consumption by at least 50% was calculated among respondents who smoked daily at the follow-up interviews.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "A total of 770 participants were needed per group at 13 months post recruitment to detect a difference of 5% for 7-day point prevalence (ie, 15% vs 10%) and 3% for prolonged abstinence (ie, 6% vs 3%) based on a significance level of 5% and 80% power.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Statistical analysis was completed using SAS software V. 9.1 (SAS, Cary, North Carolina, USA). c 2 tests and t tests were used to examine whether participants' baseline characteristics differed by condition.\nTo compare 7-day point prevalence abstinence, prolonged abstinence, quit attempts or at least 50% cigarette reduction by condition, logistic regression analysis was used to adjust for between-group differences at baseline (ie, marital status and cigarette consumption). Analysis was on intention to treat and for 7-day point prevalence and prolonged abstinence those who refused or could not be reached for follow-up were presumed to be smokers. For the quit attempt and cigarette reduction analyses, only those providing follow-up data were included. Tests of significance were performed at a¼0.05.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Of 3008 eligible smokers, 1562 (51.9%) were recruited. describes participants' baseline characteristics by condition.\nApart from relatively small divergences in marital status and cigarettes smoked per day, there were no other significant between-group differences at baseline.\nThe 4-month, 7-month and 13-month interviews were completed by 1369 (87.6%), 1278 (81.8%) and 1245 (79.9%) participants, respectively. Attrition rates did not differ significantly by condition for any assessment.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Proactive telephone counselling participants were significantly more likely than controls to achieve 3-month prolonged abstinence at 4 months post recruitment (3.4% vs 1.8%, p¼0.02) and 6-month prolonged abstinence during the 7-month interview (2.2% vs 0.9%, p¼0.02). The 3-month prolonged abstinence measure failed to reach significance at 7-month follow-up. No measure of prolonged abstinence differed significantly by condition at 13 months post recruitment.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "As shown in table 3, during the 4-month interview the proactive telephone counselling group (48.6%) was significantly more likely than the control (42.9%) to have made a quit attempt since baseline (p¼0.01). Between the 4e7 month, 7e13 month and baseline to 13-month periods, there was no significant difference in quit attempts by condition.\nCigarette reduction among daily smokers illustrates that proactive telephone counselling participants who smoked daily at 4 months were significantly more likely than their control group counterparts to have reduced their cigarette consumption by at least 50% since baseline (16.9% vs 9.0%, p¼0.0002). However, a treatment effect was not found between 4e7 months, 7e13 months or baseline to 13 months.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "This is the first trial to assess the efficacy of using active telephone recruitment exclusively ('cold calling') followed by proactive telephone counselling among daily smokers from the broader general population. At 4 and 7 months post recruitment proactive telephone counselling significantly increased 7-day point prevalence abstinence. However, this was not sustained longer term. The North American Quitline Consortium recently recommended assessing quit rates at 7 months 36 however many previous trials have done so at 6 months. If we assume that our 4-month, 7-month and 13-month assessments are similar to the 3-month, 6-month and 12-month assessments in other trials, respectively, comparisons can be made. The 7-day point prevalence abstinence findings were consistent with trials of treatment seekers that reported a significant proactive telephone counselling effect at 3 months, 15 18 22 and 6 months 18 but not at 12 months. 17 18 Apart from two trials that reported much higher proportions, 15 18 our 7-day point prevalence abstinence rates for proactive telephone counselling participants at 4 months (13.8%), 7 months (14.3%) and 13 months (15.2%) were similar to those of treatment seekers: 10% to 15% at 3 months, 15% to 20% at 6 months 17 20 and 14% to 17% at 12 months. Our results were also consistent with most trials of actively recruited smokers that reported no impact of proactive telephone counselling on 7-day point prevalence abstinence at 12 months. Proactive telephone counselling significantly increased 3-month prolonged abstinence at 4 months and 6-month prolonged abstinence at 7 months but not for any measure at 13 months post recruitment. Given most trials with treatment seekers reported that proactive telephone counselling significantly increased prolonged abstinence 8e15 the present findings are only partially consistent. The proportion of proactive telephone counselling participants who achieved prolonged abstinence appears lower than corresponding rates with treatment seekers, 8 9 12 13 15 16 particularly the 12-month prolonged abstinence rate (1.4%). This may reflect that giving smokers who had not volunteered for treatment a month in order to make a quit attempt and achieve abstinence is not along enough grace period to facilitate measurement of prolonged abstinence. Research suggests that 3% to 5% of self-quitters achieve prolonged abstinence at 6 months. The intervention group's 3-month prolonged abstinence at 7 months (6.0%) and 6-month prolonged abstinence at 13 months (5.7%) were higher. Past trials with actively recruited smokers reported proactive telephone counselling had no impact on prolonged abstinence within 12 months, therefore this is the first time that significant prolonged abstinence findings with actively recruited smokers have been found at 4-month and 7-month follow-ups.\nMaking a quit attempt was significantly more likely for proactive telephone counselling participants than controls at 4 months post recruitment. However, this was not maintained longer term. Similarly, proactive telephone counselling increased treatment seekers' quit attempts in the first 3 months, 12 13 but not at 6 or 12 months post recruitment. 8 16 Unlike previous trials with actively recruited smokers, 26e28 this trial demonstrated that proactive telephone counselling can facilitate quit attempts in the short term among actively recruited smokers. The finding that proactive telephone counselling produced a significant reduction in daily smokers' cigarette consumption at 4 months but not longer term was partly consistent with   previous results with treatment seekers or actively recruited smokers that reported short-term and longer-term treatment effects.\nThe RE-AIM ('Reach, Efficacy, Adoption, Implementation, and Maintenance') framework proposes that the combined effects of the intervention's reach, efficacy, adoption, implementation and maintenance determines the public health impact of the intervention. Given 52% of eligible smokers were recruited, 34 compared to the 1% to 7% of adult smokers calling quitlines annually 2e4 this trial dramatically increased the reach of proactive telephone counselling. Efficacy was also found up to 7 months post recruitment. However, there was no difference between the intervention and control groups in long-term maintenance of smoking cessation. This raises the question of whether the mailing of self-help materials to cold-called smokers is a more cost-efficient option.\nThe results consistently show short-term but not longer-term effects of proactive telephone counselling with actively recruited smokers. While intervention participants were receiving proactive telephone counselling their cessation outcomes were superior to the control group. More booster telephone sessions 23 over a longer period or re-enrolling participants back into quitline treatment 39 may have helped maintain the initial proactive telephone counselling benefit. Further research is needed to determine if such strategies would increase the efficacy of proactive telephone counselling with cold-called smokers longer term.\nLimitations included the following. First, that the reach of active telephone recruitment was restricted because the telephone directory did not contain unlisted or mobile phone numbers. Random digit dialling may have increased the reach of recruitment. Second, participants were not asked about their mental health or use of illicit drugs at baseline. Therefore, the potential influence of such factors on the proportion of smokers achieving abstinence is unknown. Third, no biochemical validation of self-reported cessation was conducted. An expert workgroup recommended that it is unnecessary for large-scale population-based trials without face-to-face contact to conduct biochemical validation. Given evidence that disconfirmation rates are low and do not differ significantly between conditions 41 the lack of biochemical validation is unlikely to have influenced the outcomes. Fourth, an untreated control group was not included because it was not appropriate to withhold treatment having actively recruited smokers. Fifth, the impact on participant abstinence of other household smokers using the self-help materials mailed to the control group or phoning the quitline to receive similar support to their intervention group housemates is unknown. Finally, tobacco control activities in NSW during the trial such as media campaigns, new graphic warnings on cigarette packets and increased smoking restrictions inside licensed premises may have improved outcomes but are likely to have impacted both conditions equally.\nProactive telephone counselling initially increased abstinence, quit attempts and cigarette reduction among smokers actively recruited by telephone. Given 52% of eligible smokers were recruited, 34 compared to the 1% to 7% of adult smokers calling quitlines annually, 2e4 active telephone recruitment has considerable potential for facilitating more successful quit attempts provided longer-term efficacy and cessation rates broadly similar to smokers seeking treatment can be achieved. Quitlines should consider intervening with smokers actively recruited by telephone, provided effective means of reducing relapse can be incorporated.\n",
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "50.2",
+          "rowHeaders": [
+            "Male"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Proactive telephone",
+            "counselling (n[769)y"
+          ]
+        },
+        {
+          "value": "48.5",
+          "rowHeaders": [
+            "Male"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Controls",
+            "(n[793)z"
+          ]
+        },
+        {
+          "value": "0.5",
+          "rowHeaders": [
+            "Male"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Controls",
+            "p Valuex"
+          ]
+        },
+        {
+          "value": "49.8",
+          "rowHeaders": [
+            "Female"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Proactive telephone",
+            "counselling (n[769)y"
+          ]
+        },
+        {
+          "value": "51.5",
+          "rowHeaders": [
+            "Female"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Controls",
+            "(n[793)z"
+          ]
+        },
+        {
+          "value": "45.4 (12.7)",
+          "rowHeaders": [
+            "Mean (SD)"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Proactive telephone",
+            "counselling (n[769)y"
+          ]
+        },
+        {
+          "value": "44.4 (13.8)",
+          "rowHeaders": [
+            "Mean (SD)"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Controls",
+            "(n[793)z"
+          ]
+        },
+        {
+          "value": "0.2",
+          "rowHeaders": [
+            "Mean (SD)"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Controls",
+            "p Valuex"
+          ]
+        },
+        {
+          "value": "81.8",
+          "rowHeaders": [
+            "Australia"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Proactive telephone",
+            "counselling (n[769)y",
+            "45"
+          ]
+        },
+        {
+          "value": "79.9",
+          "rowHeaders": [
+            "Australia"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Controls",
+            "(n[793)z",
+            "44"
+          ]
+        },
+        {
+          "value": "0.4",
+          "rowHeaders": [
+            "Australia"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Controls",
+            "p Valuex",
+            "44"
+          ]
+        },
+        {
+          "value": "18.2",
+          "rowHeaders": [
+            "Other"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Proactive telephone",
+            "counselling (n[769)y",
+            "45"
+          ]
+        },
+        {
+          "value": "20.1",
+          "rowHeaders": [
+            "Other"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Controls",
+            "(n[793)z",
+            "44"
+          ]
+        },
+        {
+          "value": "0.9",
+          "rowHeaders": [
+            "Primary only"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Proactive telephone",
+            "counselling (n[769)y",
+            "45"
+          ]
+        },
+        {
+          "value": "1.0",
+          "rowHeaders": [
+            "Primary only"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Controls",
+            "(n[793)z",
+            "44"
+          ]
+        },
+        {
+          "value": "0.5",
+          "rowHeaders": [
+            "Primary only"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Controls",
+            "p Valuex",
+            "44"
+          ]
+        },
+        {
+          "value": "32.9",
+          "rowHeaders": [
+            "Year 7e10"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Proactive telephone",
+            "counselling (n[769)y",
+            "45"
+          ]
+        },
+        {
+          "value": "31.3",
+          "rowHeaders": [
+            "Year 7e10"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Controls",
+            "(n[793)z",
+            "44"
+          ]
+        },
+        {
+          "value": "46.7",
+          "rowHeaders": [
+            "HSC or TAFE"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Proactive telephone",
+            "counselling (n[769)y",
+            "45"
+          ]
+        },
+        {
+          "value": "46.2",
+          "rowHeaders": [
+            "HSC or TAFE"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Controls",
+            "(n[793)z",
+            "44"
+          ]
+        },
+        {
+          "value": "18.2",
+          "rowHeaders": [
+            "University or tertiary"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Proactive telephone",
+            "counselling (n[769)y",
+            "45"
+          ]
+        },
+        {
+          "value": "19.2",
+          "rowHeaders": [
+            "University or tertiary"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Controls",
+            "(n[793)z",
+            "44"
+          ]
+        },
+        {
+          "value": "1.3",
+          "rowHeaders": [
+            "Other"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Proactive telephone",
+            "counselling (n[769)y",
+            "45"
+          ]
+        },
+        {
+          "value": "2.4",
+          "rowHeaders": [
+            "Other"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Controls",
+            "(n[793)z",
+            "44"
+          ]
+        },
+        {
+          "value": "52.6",
+          "rowHeaders": [
+            "Married/de facto"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Proactive telephone",
+            "counselling (n[769)y",
+            "45"
+          ]
+        },
+        {
+          "value": "57.4",
+          "rowHeaders": [
+            "Married/de facto"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Controls",
+            "(n[793)z",
+            "44"
+          ]
+        },
+        {
+          "value": "0.01*",
+          "rowHeaders": [
+            "Married/de facto"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Controls",
+            "p Valuex",
+            "44"
+          ]
+        },
+        {
+          "value": "23.4",
+          "rowHeaders": [
+            "Divorced/separated"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Proactive telephone",
+            "counselling (n[769)y",
+            "45"
+          ]
+        },
+        {
+          "value": "16.8",
+          "rowHeaders": [
+            "Divorced/separated"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Controls",
+            "(n[793)z",
+            "44"
+          ]
+        },
+        {
+          "value": "3.9",
+          "rowHeaders": [
+            "Widowed"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Proactive telephone",
+            "counselling (n[769)y",
+            "45"
+          ]
+        },
+        {
+          "value": "4.7",
+          "rowHeaders": [
+            "Widowed"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Controls",
+            "(n[793)z",
+            "44"
+          ]
+        },
+        {
+          "value": "20.1",
+          "rowHeaders": [
+            "Never married"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Proactive telephone",
+            "counselling (n[769)y",
+            "45"
+          ]
+        },
+        {
+          "value": "21.1",
+          "rowHeaders": [
+            "Never married"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Controls",
+            "(n[793)z",
+            "44"
+          ]
+        },
+        {
+          "value": "45.1",
+          "rowHeaders": [
+            "Employed full time"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Proactive telephone",
+            "counselling (n[769)y",
+            "45"
+          ]
+        },
+        {
+          "value": "44.6",
+          "rowHeaders": [
+            "Employed full time"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Controls",
+            "(n[793)z",
+            "44"
+          ]
+        },
+        {
+          "value": "0.4",
+          "rowHeaders": [
+            "Employed full time"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Controls",
+            "p Valuex",
+            "44"
+          ]
+        },
+        {
+          "value": "20.8",
+          "rowHeaders": [
+            "Employed part time/casual"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Proactive telephone",
+            "counselling (n[769)y",
+            "45"
+          ]
+        },
+        {
+          "value": "18.5",
+          "rowHeaders": [
+            "Employed part time/casual"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Controls",
+            "(n[793)z",
+            "44"
+          ]
+        },
+        {
+          "value": "6.1",
+          "rowHeaders": [
+            "Unemployed"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Proactive telephone",
+            "counselling (n[769)y",
+            "45"
+          ]
+        },
+        {
+          "value": "6.9",
+          "rowHeaders": [
+            "Unemployed"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Controls",
+            "(n[793)z",
+            "44"
+          ]
+        },
+        {
+          "value": "2.0",
+          "rowHeaders": [
+            "Student"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Proactive telephone",
+            "counselling (n[769)y",
+            "45"
+          ]
+        },
+        {
+          "value": "2.6",
+          "rowHeaders": [
+            "Student"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Controls",
+            "(n[793)z",
+            "44"
+          ]
+        },
+        {
+          "value": "9.6",
+          "rowHeaders": [
+            "Retired"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Proactive telephone",
+            "counselling (n[769)y",
+            "45"
+          ]
+        },
+        {
+          "value": "11.5",
+          "rowHeaders": [
+            "Retired"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Controls",
+            "(n[793)z",
+            "44"
+          ]
+        },
+        {
+          "value": "6.0",
+          "rowHeaders": [
+            "Permanently unable to work"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Proactive telephone",
+            "counselling (n[769)y",
+            "45"
+          ]
+        },
+        {
+          "value": "4.7",
+          "rowHeaders": [
+            "Permanently unable to work"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Controls",
+            "(n[793)z",
+            "44"
+          ]
+        },
+        {
+          "value": "7.5",
+          "rowHeaders": [
+            "Home duties"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Proactive telephone",
+            "counselling (n[769)y",
+            "45"
+          ]
+        },
+        {
+          "value": "9.2",
+          "rowHeaders": [
+            "Home duties"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Controls",
+            "(n[793)z",
+            "44"
+          ]
+        },
+        {
+          "value": "2.9",
+          "rowHeaders": [
+            "Other"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Proactive telephone",
+            "counselling (n[769)y",
+            "45"
+          ]
+        },
+        {
+          "value": "1.9",
+          "rowHeaders": [
+            "Other"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Controls",
+            "(n[793)z",
+            "44"
+          ]
+        },
+        {
+          "value": "43.4",
+          "rowHeaders": [
+            "Metropolitan"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Proactive telephone",
+            "counselling (n[769)y",
+            "45"
+          ]
+        },
+        {
+          "value": "42.0",
+          "rowHeaders": [
+            "Metropolitan"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Controls",
+            "(n[793)z",
+            "44"
+          ]
+        },
+        {
+          "value": "0.6",
+          "rowHeaders": [
+            "Metropolitan"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Controls",
+            "p Valuex",
+            "44"
+          ]
+        },
+        {
+          "value": "56.6",
+          "rowHeaders": [
+            "Non-metropolitan"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Proactive telephone",
+            "counselling (n[769)y",
+            "45"
+          ]
+        },
+        {
+          "value": "58.0",
+          "rowHeaders": [
+            "Non-metropolitan"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Controls",
+            "(n[793)z",
+            "44"
+          ]
+        },
+        {
+          "value": "17.3 (4.4)",
+          "rowHeaders": [
+            "Mean (SD)"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Proactive telephone",
+            "counselling (n[769)y",
+            "45"
+          ]
+        },
+        {
+          "value": "17.6 (4.7)",
+          "rowHeaders": [
+            "Mean (SD)"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Controls",
+            "(n[793)z",
+            "44"
+          ]
+        },
+        {
+          "value": "0.2",
+          "rowHeaders": [
+            "Mean (SD)"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Controls",
+            "p Valuex",
+            "44"
+          ]
+        },
+        {
+          "value": "47.1 (84.4)",
+          "rowHeaders": [
+            "Mean (SD)"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Proactive telephone",
+            "counselling (n[769)y",
+            "45",
+            "17"
+          ]
+        },
+        {
+          "value": "55.4 (114.4)",
+          "rowHeaders": [
+            "Mean (SD)"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Controls",
+            "(n[793)z",
+            "44",
+            "17"
+          ]
+        },
+        {
+          "value": "0.1",
+          "rowHeaders": [
+            "Mean (SD)"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Controls",
+            "p Valuex",
+            "44",
+            "17"
+          ]
+        },
+        {
+          "value": "19.9 (9.6)",
+          "rowHeaders": [
+            "Mean (SD)"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Proactive telephone",
+            "counselling (n[769)y",
+            "45",
+            "17",
+            "20"
+          ]
+        },
+        {
+          "value": "18.9 (9.9)",
+          "rowHeaders": [
+            "Mean (SD)"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Controls",
+            "(n[793)z",
+            "44",
+            "17",
+            "20"
+          ]
+        },
+        {
+          "value": "0.03*",
+          "rowHeaders": [
+            "Mean (SD)"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Controls",
+            "p Valuex",
+            "44",
+            "17",
+            "20"
+          ]
+        },
+        {
+          "value": "89.1",
+          "rowHeaders": [
+            "Yes"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Proactive telephone",
+            "counselling (n[769)y",
+            "45",
+            "17",
+            "20",
+            "20"
+          ]
+        },
+        {
+          "value": "89.7",
+          "rowHeaders": [
+            "Yes"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Controls",
+            "(n[793)z",
+            "44",
+            "17",
+            "20",
+            "20"
+          ]
+        },
+        {
+          "value": "0.7",
+          "rowHeaders": [
+            "Yes"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Controls",
+            "p Valuex",
+            "44",
+            "17",
+            "20",
+            "20"
+          ]
+        },
+        {
+          "value": "10.9",
+          "rowHeaders": [
+            "No/don't know"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Proactive telephone",
+            "counselling (n[769)y",
+            "45",
+            "17",
+            "20",
+            "20"
+          ]
+        },
+        {
+          "value": "10.3",
+          "rowHeaders": [
+            "No/don't know"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Controls",
+            "(n[793)z",
+            "44",
+            "17",
+            "20",
+            "20"
+          ]
+        },
+        {
+          "value": "47.6",
+          "rowHeaders": [
+            "Yes"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Proactive telephone",
+            "counselling (n[769)y",
+            "45",
+            "17",
+            "20",
+            "20"
+          ]
+        },
+        {
+          "value": "47.3",
+          "rowHeaders": [
+            "Yes"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Controls",
+            "(n[793)z",
+            "44",
+            "17",
+            "20",
+            "20"
+          ]
+        },
+        {
+          "value": "0.9",
+          "rowHeaders": [
+            "Yes"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Controls",
+            "p Valuex",
+            "44",
+            "17",
+            "20",
+            "20"
+          ]
+        },
+        {
+          "value": "52.4",
+          "rowHeaders": [
+            "No"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Proactive telephone",
+            "counselling (n[769)y",
+            "45",
+            "17",
+            "20",
+            "20"
+          ]
+        },
+        {
+          "value": "52.7",
+          "rowHeaders": [
+            "No"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Controls",
+            "(n[793)z",
+            "44",
+            "17",
+            "20",
+            "20"
+          ]
+        },
+        {
+          "value": "29.0",
+          "rowHeaders": [
+            "Will quit in next 30 days"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Proactive telephone",
+            "counselling (n[769)y",
+            "45",
+            "17",
+            "20",
+            "20"
+          ]
+        },
+        {
+          "value": "26.9",
+          "rowHeaders": [
+            "Will quit in next 30 days"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Controls",
+            "(n[793)z",
+            "44",
+            "17",
+            "20",
+            "20"
+          ]
+        },
+        {
+          "value": "0.3",
+          "rowHeaders": [
+            "Will quit in next 30 days"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Controls",
+            "p Valuex",
+            "44",
+            "17",
+            "20",
+            "20"
+          ]
+        },
+        {
+          "value": "40.8",
+          "rowHeaders": [
+            "Will quit in next 6 months"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Proactive telephone",
+            "counselling (n[769)y",
+            "45",
+            "17",
+            "20",
+            "20"
+          ]
+        },
+        {
+          "value": "38.7",
+          "rowHeaders": [
+            "Will quit in next 6 months"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Controls",
+            "(n[793)z",
+            "44",
+            "17",
+            "20",
+            "20"
+          ]
+        },
+        {
+          "value": "25.7",
+          "rowHeaders": [
+            "Will not quit in next 6 months"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Proactive telephone",
+            "counselling (n[769)y",
+            "45",
+            "17",
+            "20",
+            "20"
+          ]
+        },
+        {
+          "value": "29.9",
+          "rowHeaders": [
+            "Will not quit in next 6 months"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Controls",
+            "(n[793)z",
+            "44",
+            "17",
+            "20",
+            "20"
+          ]
+        },
+        {
+          "value": "4.4",
+          "rowHeaders": [
+            "Don't know"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Proactive telephone",
+            "counselling (n[769)y",
+            "45",
+            "17",
+            "20",
+            "20"
+          ]
+        },
+        {
+          "value": "4.5",
+          "rowHeaders": [
+            "Don't know"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Controls",
+            "(n[793)z",
+            "44",
+            "17",
+            "20",
+            "20"
+          ]
+        },
+        {
+          "value": "24.1",
+          "rowHeaders": [
+            "Yes"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Proactive telephone",
+            "counselling (n[769)y",
+            "45",
+            "17",
+            "20",
+            "20"
+          ]
+        },
+        {
+          "value": "25.0",
+          "rowHeaders": [
+            "Yes"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Controls",
+            "(n[793)z",
+            "44",
+            "17",
+            "20",
+            "20"
+          ]
+        },
+        {
+          "value": "0.7",
+          "rowHeaders": [
+            "Yes"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Controls",
+            "p Valuex",
+            "44",
+            "17",
+            "20",
+            "20"
+          ]
+        },
+        {
+          "value": "75.9",
+          "rowHeaders": [
+            "No"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Proactive telephone",
+            "counselling (n[769)y",
+            "45",
+            "17",
+            "20",
+            "20"
+          ]
+        },
+        {
+          "value": "75.0",
+          "rowHeaders": [
+            "No"
+          ],
+          "columnHeaders": [
+            "Participant characteristics at baseline",
+            "Controls",
+            "(n[793)z",
+            "44",
+            "17",
+            "20",
+            "20"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "18.9",
+          "rowHeaders": [
+            "Daily"
+          ],
+          "columnHeaders": [
+            "Continued",
+            "Proactive telephone",
+            "counselling (n[769)y"
+          ]
+        },
+        {
+          "value": "15.7",
+          "rowHeaders": [
+            "Daily"
+          ],
+          "columnHeaders": [
+            "Continued",
+            "Controls",
+            "(n[793)z"
+          ]
+        },
+        {
+          "value": "0.4",
+          "rowHeaders": [
+            "Daily"
+          ],
+          "columnHeaders": [
+            "Continued",
+            "Controls",
+            "p Valuex"
+          ]
+        },
+        {
+          "value": "42.1",
+          "rowHeaders": [
+            "Weekly"
+          ],
+          "columnHeaders": [
+            "Continued",
+            "Proactive telephone",
+            "counselling (n[769)y"
+          ]
+        },
+        {
+          "value": "43.8",
+          "rowHeaders": [
+            "Weekly"
+          ],
+          "columnHeaders": [
+            "Continued",
+            "Controls",
+            "(n[793)z"
+          ]
+        },
+        {
+          "value": "21.9",
+          "rowHeaders": [
+            "Less than weekly"
+          ],
+          "columnHeaders": [
+            "Continued",
+            "Proactive telephone",
+            "counselling (n[769)y"
+          ]
+        },
+        {
+          "value": "23.8",
+          "rowHeaders": [
+            "Less than weekly"
+          ],
+          "columnHeaders": [
+            "Continued",
+            "Controls",
+            "(n[793)z"
+          ]
+        },
+        {
+          "value": "17.1",
+          "rowHeaders": [
+            "Don't drink alcohol"
+          ],
+          "columnHeaders": [
+            "Continued",
+            "Proactive telephone",
+            "counselling (n[769)y"
+          ]
+        },
+        {
+          "value": "16.7",
+          "rowHeaders": [
+            "Don't drink alcohol"
+          ],
+          "columnHeaders": [
+            "Continued",
+            "Controls",
+            "(n[793)z"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "13.8",
+          "rowHeaders": [
+            "4 months post recruitment",
+            "106"
+          ],
+          "columnHeaders": [
+            "Point prevalence and prolonged abstinence at 4 months,",
+            "counselling",
+            "(n[769)",
+            "Smoking cessation measure",
+            "%"
+          ]
+        },
+        {
+          "value": "9.6",
+          "rowHeaders": [
+            "4 months post recruitment",
+            "106",
+            "76"
+          ],
+          "columnHeaders": [
+            "Point prevalence and prolonged abstinence at 4 months,",
+            "Controls",
+            "(n[793)",
+            "Adjusted",
+            "%"
+          ]
+        },
+        {
+          "value": "0.005*",
+          "rowHeaders": [
+            "4 months post recruitment",
+            "106",
+            "76"
+          ],
+          "columnHeaders": [
+            "Point prevalence and prolonged abstinence at 4 months,",
+            "Controls",
+            "(n[793)",
+            "Adjusted",
+            "p Valuez"
+          ]
+        },
+        {
+          "value": "14.3",
+          "rowHeaders": [
+            "7 months post recruitment",
+            "110"
+          ],
+          "columnHeaders": [
+            "Point prevalence and prolonged abstinence at 4 months,",
+            "counselling",
+            "(n[769)",
+            "Smoking cessation measure",
+            "%"
+          ]
+        },
+        {
+          "value": "11.0",
+          "rowHeaders": [
+            "7 months post recruitment",
+            "110",
+            "87"
+          ],
+          "columnHeaders": [
+            "Point prevalence and prolonged abstinence at 4 months,",
+            "Controls",
+            "(n[793)",
+            "Adjusted",
+            "%"
+          ]
+        },
+        {
+          "value": "0.02*",
+          "rowHeaders": [
+            "7 months post recruitment",
+            "110",
+            "87"
+          ],
+          "columnHeaders": [
+            "Point prevalence and prolonged abstinence at 4 months,",
+            "Controls",
+            "(n[793)",
+            "Adjusted",
+            "p Valuez"
+          ]
+        },
+        {
+          "value": "15.2",
+          "rowHeaders": [
+            "13 months post recruitment",
+            "117"
+          ],
+          "columnHeaders": [
+            "Point prevalence and prolonged abstinence at 4 months,",
+            "counselling",
+            "(n[769)",
+            "Smoking cessation measure",
+            "%"
+          ]
+        },
+        {
+          "value": "14.4",
+          "rowHeaders": [
+            "13 months post recruitment",
+            "117",
+            "114"
+          ],
+          "columnHeaders": [
+            "Point prevalence and prolonged abstinence at 4 months,",
+            "Controls",
+            "(n[793)",
+            "Adjusted",
+            "%"
+          ]
+        },
+        {
+          "value": "0.4",
+          "rowHeaders": [
+            "13 months post recruitment",
+            "117",
+            "114"
+          ],
+          "columnHeaders": [
+            "Point prevalence and prolonged abstinence at 4 months,",
+            "Controls",
+            "(n[793)",
+            "Adjusted",
+            "p Valuez"
+          ]
+        },
+        {
+          "value": "3.4",
+          "rowHeaders": [
+            "4 months post recruitment",
+            "26"
+          ],
+          "columnHeaders": [
+            "Point prevalence and prolonged abstinence at 4 months,",
+            "counselling",
+            "(n[769)",
+            "Smoking cessation measure",
+            "%"
+          ]
+        },
+        {
+          "value": "1.8",
+          "rowHeaders": [
+            "4 months post recruitment",
+            "26",
+            "14"
+          ],
+          "columnHeaders": [
+            "Point prevalence and prolonged abstinence at 4 months,",
+            "Controls",
+            "(n[793)",
+            "Adjusted",
+            "%"
+          ]
+        },
+        {
+          "value": "0.02*",
+          "rowHeaders": [
+            "4 months post recruitment",
+            "26",
+            "14"
+          ],
+          "columnHeaders": [
+            "Point prevalence and prolonged abstinence at 4 months,",
+            "Controls",
+            "(n[793)",
+            "Adjusted",
+            "p Valuez"
+          ]
+        },
+        {
+          "value": "6.0",
+          "rowHeaders": [
+            "7 months post recruitment",
+            "46"
+          ],
+          "columnHeaders": [
+            "Point prevalence and prolonged abstinence at 4 months,",
+            "counselling",
+            "(n[769)",
+            "Smoking cessation measure",
+            "%"
+          ]
+        },
+        {
+          "value": "4.5",
+          "rowHeaders": [
+            "7 months post recruitment",
+            "46",
+            "36"
+          ],
+          "columnHeaders": [
+            "Point prevalence and prolonged abstinence at 4 months,",
+            "Controls",
+            "(n[793)",
+            "Adjusted",
+            "%"
+          ]
+        },
+        {
+          "value": "0.1",
+          "rowHeaders": [
+            "7 months post recruitment",
+            "46",
+            "36"
+          ],
+          "columnHeaders": [
+            "Point prevalence and prolonged abstinence at 4 months,",
+            "Controls",
+            "(n[793)",
+            "Adjusted",
+            "p Valuez"
+          ]
+        },
+        {
+          "value": "2.2",
+          "rowHeaders": [
+            "7 months post recruitment",
+            "17"
+          ],
+          "columnHeaders": [
+            "Point prevalence and prolonged abstinence at 4 months,",
+            "counselling",
+            "(n[769)",
+            "Smoking cessation measure",
+            "%"
+          ]
+        },
+        {
+          "value": "0.9",
+          "rowHeaders": [
+            "7 months post recruitment",
+            "17",
+            "7"
+          ],
+          "columnHeaders": [
+            "Point prevalence and prolonged abstinence at 4 months,",
+            "Controls",
+            "(n[793)",
+            "Adjusted",
+            "%"
+          ]
+        },
+        {
+          "value": "0.02*",
+          "rowHeaders": [
+            "7 months post recruitment",
+            "17",
+            "7"
+          ],
+          "columnHeaders": [
+            "Point prevalence and prolonged abstinence at 4 months,",
+            "Controls",
+            "(n[793)",
+            "Adjusted",
+            "p Valuez"
+          ]
+        },
+        {
+          "value": "5.7",
+          "rowHeaders": [
+            "13 months post recruitment",
+            "44"
+          ],
+          "columnHeaders": [
+            "Point prevalence and prolonged abstinence at 4 months,",
+            "counselling",
+            "(n[769)",
+            "Smoking cessation measure",
+            "%"
+          ]
+        },
+        {
+          "value": "5.5",
+          "rowHeaders": [
+            "13 months post recruitment",
+            "44",
+            "44"
+          ],
+          "columnHeaders": [
+            "Point prevalence and prolonged abstinence at 4 months,",
+            "Controls",
+            "(n[793)",
+            "Adjusted",
+            "%"
+          ]
+        },
+        {
+          "value": "0.7",
+          "rowHeaders": [
+            "13 months post recruitment",
+            "44",
+            "44"
+          ],
+          "columnHeaders": [
+            "Point prevalence and prolonged abstinence at 4 months,",
+            "Controls",
+            "(n[793)",
+            "Adjusted",
+            "p Valuez"
+          ]
+        },
+        {
+          "value": "3.3",
+          "rowHeaders": [
+            "13 months post recruitment",
+            "25"
+          ],
+          "columnHeaders": [
+            "Point prevalence and prolonged abstinence at 4 months,",
+            "counselling",
+            "(n[769)",
+            "Smoking cessation measure",
+            "%"
+          ]
+        },
+        {
+          "value": "3.4",
+          "rowHeaders": [
+            "13 months post recruitment",
+            "25",
+            "27"
+          ],
+          "columnHeaders": [
+            "Point prevalence and prolonged abstinence at 4 months,",
+            "Controls",
+            "(n[793)",
+            "Adjusted",
+            "%"
+          ]
+        },
+        {
+          "value": "0.9",
+          "rowHeaders": [
+            "13 months post recruitment",
+            "25",
+            "27"
+          ],
+          "columnHeaders": [
+            "Point prevalence and prolonged abstinence at 4 months,",
+            "Controls",
+            "(n[793)",
+            "Adjusted",
+            "p Valuez"
+          ]
+        },
+        {
+          "value": "1.4",
+          "rowHeaders": [
+            "13 months post recruitment",
+            "11"
+          ],
+          "columnHeaders": [
+            "Point prevalence and prolonged abstinence at 4 months,",
+            "counselling",
+            "(n[769)",
+            "Smoking cessation measure",
+            "%"
+          ]
+        },
+        {
+          "value": "0.8",
+          "rowHeaders": [
+            "13 months post recruitment",
+            "11",
+            "6"
+          ],
+          "columnHeaders": [
+            "Point prevalence and prolonged abstinence at 4 months,",
+            "Controls",
+            "(n[793)",
+            "Adjusted",
+            "%"
+          ]
+        },
+        {
+          "value": "0.1",
+          "rowHeaders": [
+            "13 months post recruitment",
+            "11",
+            "6"
+          ],
+          "columnHeaders": [
+            "Point prevalence and prolonged abstinence at 4 months,",
+            "Controls",
+            "(n[793)",
+            "Adjusted",
+            "p Valuez"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "664",
+          "rowHeaders": [
+            "Baseline to 4 months"
+          ],
+          "columnHeaders": [
+            "Proportion making a quit attempt between the follow-up",
+            "counselling",
+            "N"
+          ]
+        },
+        {
+          "value": "323",
+          "rowHeaders": [
+            "Baseline to 4 months"
+          ],
+          "columnHeaders": [
+            "Proportion making a quit attempt between the follow-up",
+            "counselling",
+            "n"
+          ]
+        },
+        {
+          "value": "48.6",
+          "rowHeaders": [
+            "Baseline to 4 months"
+          ],
+          "columnHeaders": [
+            "Proportion making a quit attempt between the follow-up",
+            "counselling",
+            "%"
+          ]
+        },
+        {
+          "value": "704",
+          "rowHeaders": [
+            "Baseline to 4 months"
+          ],
+          "columnHeaders": [
+            "Proportion making a quit attempt between the follow-up",
+            "Controls",
+            "N"
+          ]
+        },
+        {
+          "value": "302",
+          "rowHeaders": [
+            "Baseline to 4 months"
+          ],
+          "columnHeaders": [
+            "Proportion making a quit attempt between the follow-up",
+            "Controls",
+            "n"
+          ]
+        },
+        {
+          "value": "42.9",
+          "rowHeaders": [
+            "Baseline to 4 months"
+          ],
+          "columnHeaders": [
+            "Proportion making a quit attempt between the follow-up",
+            "Controls",
+            "%"
+          ]
+        },
+        {
+          "value": "0.01*",
+          "rowHeaders": [
+            "Baseline to 4 months"
+          ],
+          "columnHeaders": [
+            "Proportion making a quit attempt between the follow-up",
+            "Controls",
+            "p Valuey"
+          ]
+        },
+        {
+          "value": "574",
+          "rowHeaders": [
+            "4e7 months"
+          ],
+          "columnHeaders": [
+            "Proportion making a quit attempt between the follow-up",
+            "counselling",
+            "N"
+          ]
+        },
+        {
+          "value": "213",
+          "rowHeaders": [
+            "4e7 months"
+          ],
+          "columnHeaders": [
+            "Proportion making a quit attempt between the follow-up",
+            "counselling",
+            "n"
+          ]
+        },
+        {
+          "value": "37.1",
+          "rowHeaders": [
+            "4e7 months"
+          ],
+          "columnHeaders": [
+            "Proportion making a quit attempt between the follow-up",
+            "counselling",
+            "%"
+          ]
+        },
+        {
+          "value": "622",
+          "rowHeaders": [
+            "4e7 months"
+          ],
+          "columnHeaders": [
+            "Proportion making a quit attempt between the follow-up",
+            "Controls",
+            "N"
+          ]
+        },
+        {
+          "value": "216",
+          "rowHeaders": [
+            "4e7 months"
+          ],
+          "columnHeaders": [
+            "Proportion making a quit attempt between the follow-up",
+            "Controls",
+            "n"
+          ]
+        },
+        {
+          "value": "34.7",
+          "rowHeaders": [
+            "4e7 months"
+          ],
+          "columnHeaders": [
+            "Proportion making a quit attempt between the follow-up",
+            "Controls",
+            "%"
+          ]
+        },
+        {
+          "value": "0.3",
+          "rowHeaders": [
+            "4e7 months"
+          ],
+          "columnHeaders": [
+            "Proportion making a quit attempt between the follow-up",
+            "Controls",
+            "p Valuey"
+          ]
+        },
+        {
+          "value": "562",
+          "rowHeaders": [
+            "7e13 months"
+          ],
+          "columnHeaders": [
+            "Proportion making a quit attempt between the follow-up",
+            "counselling",
+            "N"
+          ]
+        },
+        {
+          "value": "232",
+          "rowHeaders": [
+            "7e13 months"
+          ],
+          "columnHeaders": [
+            "Proportion making a quit attempt between the follow-up",
+            "counselling",
+            "n"
+          ]
+        },
+        {
+          "value": "41.3",
+          "rowHeaders": [
+            "7e13 months"
+          ],
+          "columnHeaders": [
+            "Proportion making a quit attempt between the follow-up",
+            "counselling",
+            "%"
+          ]
+        },
+        {
+          "value": "595",
+          "rowHeaders": [
+            "7e13 months"
+          ],
+          "columnHeaders": [
+            "Proportion making a quit attempt between the follow-up",
+            "Controls",
+            "N"
+          ]
+        },
+        {
+          "value": "223",
+          "rowHeaders": [
+            "7e13 months"
+          ],
+          "columnHeaders": [
+            "Proportion making a quit attempt between the follow-up",
+            "Controls",
+            "n"
+          ]
+        },
+        {
+          "value": "37.5",
+          "rowHeaders": [
+            "7e13 months"
+          ],
+          "columnHeaders": [
+            "Proportion making a quit attempt between the follow-up",
+            "Controls",
+            "%"
+          ]
+        },
+        {
+          "value": "0.1",
+          "rowHeaders": [
+            "7e13 months"
+          ],
+          "columnHeaders": [
+            "Proportion making a quit attempt between the follow-up",
+            "Controls",
+            "p Valuey"
+          ]
+        },
+        {
+          "value": "566",
+          "rowHeaders": [
+            "Baseline to 13 monthsz"
+          ],
+          "columnHeaders": [
+            "Proportion making a quit attempt between the follow-up",
+            "counselling",
+            "N"
+          ]
+        },
+        {
+          "value": "384",
+          "rowHeaders": [
+            "Baseline to 13 monthsz"
+          ],
+          "columnHeaders": [
+            "Proportion making a quit attempt between the follow-up",
+            "counselling",
+            "n"
+          ]
+        },
+        {
+          "value": "67.8",
+          "rowHeaders": [
+            "Baseline to 13 monthsz"
+          ],
+          "columnHeaders": [
+            "Proportion making a quit attempt between the follow-up",
+            "counselling",
+            "%"
+          ]
+        },
+        {
+          "value": "610",
+          "rowHeaders": [
+            "Baseline to 13 monthsz"
+          ],
+          "columnHeaders": [
+            "Proportion making a quit attempt between the follow-up",
+            "Controls",
+            "N"
+          ]
+        },
+        {
+          "value": "390",
+          "rowHeaders": [
+            "Baseline to 13 monthsz"
+          ],
+          "columnHeaders": [
+            "Proportion making a quit attempt between the follow-up",
+            "Controls",
+            "n"
+          ]
+        },
+        {
+          "value": "63.9",
+          "rowHeaders": [
+            "Baseline to 13 monthsz"
+          ],
+          "columnHeaders": [
+            "Proportion making a quit attempt between the follow-up",
+            "Controls",
+            "%"
+          ]
+        },
+        {
+          "value": "0.09",
+          "rowHeaders": [
+            "Baseline to 13 monthsz"
+          ],
+          "columnHeaders": [
+            "Proportion making a quit attempt between the follow-up",
+            "Controls",
+            "p Valuey"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "85",
+          "rowHeaders": [
+            "Baseline to 4 months",
+            "504"
+          ],
+          "columnHeaders": [
+            "At least 50% reduction in cigarette consumption among daily",
+            "counselling",
+            "50% reduction in cigarette",
+            "n"
+          ]
+        },
+        {
+          "value": "16.9",
+          "rowHeaders": [
+            "Baseline to 4 months",
+            "504"
+          ],
+          "columnHeaders": [
+            "At least 50% reduction in cigarette consumption among daily",
+            "counselling",
+            "50% reduction in cigarette",
+            "%"
+          ]
+        },
+        {
+          "value": "53",
+          "rowHeaders": [
+            "Baseline to 4 months",
+            "504",
+            "589"
+          ],
+          "columnHeaders": [
+            "At least 50% reduction in cigarette consumption among daily",
+            "Controls",
+            "Adjusted",
+            "n"
+          ]
+        },
+        {
+          "value": "9.0",
+          "rowHeaders": [
+            "Baseline to 4 months",
+            "504",
+            "589"
+          ],
+          "columnHeaders": [
+            "At least 50% reduction in cigarette consumption among daily",
+            "Controls",
+            "Adjusted",
+            "%"
+          ]
+        },
+        {
+          "value": "0.0002*",
+          "rowHeaders": [
+            "Baseline to 4 months",
+            "504",
+            "589"
+          ],
+          "columnHeaders": [
+            "At least 50% reduction in cigarette consumption among daily",
+            "Controls",
+            "Adjusted",
+            "p Valuey"
+          ]
+        },
+        {
+          "value": "18",
+          "rowHeaders": [
+            "4e7 months",
+            "411"
+          ],
+          "columnHeaders": [
+            "At least 50% reduction in cigarette consumption among daily",
+            "counselling",
+            "50% reduction in cigarette",
+            "n"
+          ]
+        },
+        {
+          "value": "4.4",
+          "rowHeaders": [
+            "4e7 months",
+            "411"
+          ],
+          "columnHeaders": [
+            "At least 50% reduction in cigarette consumption among daily",
+            "counselling",
+            "50% reduction in cigarette",
+            "%"
+          ]
+        },
+        {
+          "value": "23",
+          "rowHeaders": [
+            "4e7 months",
+            "411",
+            "480"
+          ],
+          "columnHeaders": [
+            "At least 50% reduction in cigarette consumption among daily",
+            "Controls",
+            "Adjusted",
+            "n"
+          ]
+        },
+        {
+          "value": "4.8",
+          "rowHeaders": [
+            "4e7 months",
+            "411",
+            "480"
+          ],
+          "columnHeaders": [
+            "At least 50% reduction in cigarette consumption among daily",
+            "Controls",
+            "Adjusted",
+            "%"
+          ]
+        },
+        {
+          "value": "0.8",
+          "rowHeaders": [
+            "4e7 months",
+            "411",
+            "480"
+          ],
+          "columnHeaders": [
+            "At least 50% reduction in cigarette consumption among daily",
+            "Controls",
+            "Adjusted",
+            "p Valuey"
+          ]
+        },
+        {
+          "value": "18",
+          "rowHeaders": [
+            "7e13 months",
+            "378"
+          ],
+          "columnHeaders": [
+            "At least 50% reduction in cigarette consumption among daily",
+            "counselling",
+            "50% reduction in cigarette",
+            "n"
+          ]
+        },
+        {
+          "value": "4.8",
+          "rowHeaders": [
+            "7e13 months",
+            "378"
+          ],
+          "columnHeaders": [
+            "At least 50% reduction in cigarette consumption among daily",
+            "counselling",
+            "50% reduction in cigarette",
+            "%"
+          ]
+        },
+        {
+          "value": "24",
+          "rowHeaders": [
+            "7e13 months",
+            "378",
+            "430"
+          ],
+          "columnHeaders": [
+            "At least 50% reduction in cigarette consumption among daily",
+            "Controls",
+            "Adjusted",
+            "n"
+          ]
+        },
+        {
+          "value": "5.6",
+          "rowHeaders": [
+            "7e13 months",
+            "378",
+            "430"
+          ],
+          "columnHeaders": [
+            "At least 50% reduction in cigarette consumption among daily",
+            "Controls",
+            "Adjusted",
+            "%"
+          ]
+        },
+        {
+          "value": "0.4",
+          "rowHeaders": [
+            "7e13 months",
+            "378",
+            "430"
+          ],
+          "columnHeaders": [
+            "At least 50% reduction in cigarette consumption among daily",
+            "Controls",
+            "Adjusted",
+            "p Valuey"
+          ]
+        },
+        {
+          "value": "13 months",
+          "rowHeaders": [
+            "Baseline to"
+          ],
+          "columnHeaders": [
+            "At least 50% reduction in cigarette consumption among daily",
+            "counselling",
+            "50% reduction in cigarette",
+            "consumption:"
+          ]
+        },
+        {
+          "value": "64",
+          "rowHeaders": [
+            "Baseline to",
+            "449"
+          ],
+          "columnHeaders": [
+            "At least 50% reduction in cigarette consumption among daily",
+            "counselling",
+            "50% reduction in cigarette",
+            "n"
+          ]
+        },
+        {
+          "value": "14.3",
+          "rowHeaders": [
+            "Baseline to",
+            "449"
+          ],
+          "columnHeaders": [
+            "At least 50% reduction in cigarette consumption among daily",
+            "counselling",
+            "50% reduction in cigarette",
+            "%"
+          ]
+        },
+        {
+          "value": "52",
+          "rowHeaders": [
+            "Baseline to",
+            "449",
+            "484"
+          ],
+          "columnHeaders": [
+            "At least 50% reduction in cigarette consumption among daily",
+            "Controls",
+            "Adjusted",
+            "n"
+          ]
+        },
+        {
+          "value": "10.7",
+          "rowHeaders": [
+            "Baseline to",
+            "449",
+            "484"
+          ],
+          "columnHeaders": [
+            "At least 50% reduction in cigarette consumption among daily",
+            "Controls",
+            "Adjusted",
+            "%"
+          ]
+        },
+        {
+          "value": "0.3",
+          "rowHeaders": [
+            "Baseline to",
+            "449",
+            "484"
+          ],
+          "columnHeaders": [
+            "At least 50% reduction in cigarette consumption among daily",
+            "Controls",
+            "Adjusted",
+            "p Valuey"
+          ]
+        }
+      ],
+      "page": 1
+    }
+  ]
+}

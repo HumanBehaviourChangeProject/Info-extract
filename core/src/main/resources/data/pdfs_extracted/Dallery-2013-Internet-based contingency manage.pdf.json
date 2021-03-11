@@ -1,0 +1,469 @@
+{
+  "blocks": [
+    {
+      "type": "LINES",
+      "value": "INTERNET-BASED CONTINGENCY MANAGEMENT TO PROMOTE SMOKING CESSATION: A RANDOMIZED CONTROLLED STUDY",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "We evaluated an Internet-based contingency management intervention to promote smoking cessation. Participants in the contingent group (n ¼ 39) earned vouchers contingent on video confirmation of breath carbon monoxide (CO) 4 parts per million (ppm). Earnings for participants in the noncontingent group (n ¼ 38) were independent of CO levels. Goals and feedback about smoking status were provided on participants' homepages. The median percentages of negative samples during the intervention in the noncontingent and contingent groups were 25% and 66.7%, respectively. There were no significant differences in absolute CO levels or abstinence at 3-and 6-month follow-ups. Compared to baseline, however, participants in both groups reduced CO by an estimated 15.6 ppm during the intervention phases. The results suggest that the contingency for negative COs promoted higher rates of abstinence during treatment, and that other elements of the system, such as feedback, frequent monitoring, and goals, reduced smoking.",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Participants were healthy smokers recruited through print media and word of mouth in north-central Florida. Participant characteristics are presented in. To be included in the study, smokers had to be between the ages of 18 and 60 years, smoke >10 cigarettes per day, blow a CO at intake of ! 10 ppm, report a minimum 2-year smoking history, own a computer and have Internet access, and express a desire to quit smoking (a score of 8 or greater on a scale of 1 to 10 in response to the question, \"How much do you want to quit smoking right now?\"). Applicants were excluded if they showed evidence of current alcohol dependence or drug use (verified by self-report or urinalysis for cocaine, benzodiazepines, and opiates), reported smoking marijuana more than twice per month, reported a history of medical or psychiatric illness that, in our judgment, would interfere with the study, or resided with another smoker who smoked inside the home. Women were disqualified if they were pregnant (assessed via urine testing). The local institutional review board approved all study procedures.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Participants were loaned a CO monitor and a web camera if needed. In seven cases, a laptop computer was loaned to participants if their computer did notwork properly. CO monitors were initially calibrated by the manufacturer and then at least every 6 months thereafter (per the manufacturer's recommendations) using a calibration kit provided by the distributor. Copies of participants' driver's licenses were obtained, and they were asked to sign an off-campus property certificate and contract stating that they would return the equipment.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Interested persons were screened over the phone for basic qualifying criteria such as smoking severity, desire to quit smoking, and age. Qualified applicants were scheduled for an in-person screening. During the screening, participants underwent an informed consent process during which a member of the research team described the study procedures in detail. Participants were informed that they could earn a maximum $530.00 in voucher earnings during the study. The vouchers could be exchanged for goods or gift certificates purchased over the Internet (e.g., Amazon.com) at any point during the study. Participants were informed that they could purchase desired items as soon as they earned enough money to cover the cost of the item plus shipping and handling. Participants were also informed about environmental sources that could elevate CO readings. In particular, participants were instructed to avoid secondhand or environmental smoke, and avoid smoking any other substances (e.g., marijuana). A CO reading above 4 ppm was always considered positive, regardless of the cause. If a participant believed the sample was a false positive, he or she could contest the result. If the samples before and after the contested sample were negative, the contested sample was considered negative and vouchers were awarded (but for the purposes of data analysis, the sample was considered positive).\nIn addition, participants completed a brief psychosocial history and several questionnaires. The psychosocial history contained questions related to demographics, smoking history, prior drug use and abuse, general health, medication use, and the Fagerstrom Test for Nicotine Dependence, which is a 6-item questionnaire that assesses nicotine dependence. Scores can range from 0 to 10, with 0 representing very low dependence and 10 representing very high dependence. Urine and CO samples were collected, and the urine samples were analyzed for the presence of cocaine, benzodiazepines, and opiates. Weight was measured on a regularly calibrated electronic scale.\nParticipants also completed the University of Rhode Island Change Assessment (URICA;, which is a self-report measure that assesses four stages of change (precontemplation, contemplation, action, and maintenance). Participants responded on a 5-point Likert scale (1 ¼ strongly disagree to 5 ¼ strongly agree). The subscales are combined arithmetically to yield a continuous score that can be used to assess self-reported readiness to change. Finally, participants completed a delay-discounting task on a computer. The task was based on prior research that used similar procedures). Participants clicked one of two response buttons presented on the computer screen. The left button corresponded to an adjusting amount of money available immediately, and the right button corresponded to $100.00 after one of eight delays (1 week, 2 weeks, 1 month, 4 months, 8 months, 1 year, 5 years, and 10 years) presented in random order. An algorithm was used to adjust the value of the immediate adjusting amount of money so that an indifference point, or the point at which each option was approximately equated in terms of value, was determined at each delay (for detailed information about the computer algorithm, seethe Supporting Information or contact the first author). All choices during the discounting task were hypothetical in the sense that participants did not actually receive the amounts they chose. The only instructions for this task were located above the two response alternatives and said, \"Please choose the option you prefer, based on how you feel right now.\" A summary measure of delay discounting, the area under the curve (AUC), was calculated by normalizing the delays and indifference points and then summing the areas under each pair of the eight indifference points. Specifically, the AUC was calculated by summing the results of the following equation:\n, where x 1 and x 2 are successive delays and y 1 and y 2 are the present values associated with those delays. The AUC measure can thus range from 0 (maximum discounting) to 1 (no discounting). The AUC yields a normally distributed measure of discounting (see, for details).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The study used a two-group randomized design. The primary difference between the two groups was whether vouchers were delivered contingently (contingent CO group) or noncontingently (noncontingent CO group) based on smoking abstinence. Participants also were informed about the availability of vouchers on a sample-by-sample basis in the contingent CO group during the intervention. The first five participants were assigned to the contingent CO group to ensure that there were enough participants to use in the yoking procedure (see below). The remaining participants were randomly assigned to the contingent CO or noncontingent CO group after the screening phase (. Participants were stratified based on smoking severity (>30 cigarettes per day, yes-no) and gender). Each participant in the noncontingent CO group was yoked to a single participant (selected randomly) in the contingent CO group. The yoked participant received the same vouchers as his or her matched participant in the contingent CO group (e.g., Higgins, Wong, Badger,). Noncontingent CO participants were told that the only way to earn vouchers was by submitting CO videos, but that the vouchers would be delivered on an unpredictable schedule and they mayor may not actually earn any vouchers. They were also told that earning vouchers would not be based on self-reports of smoking, cotinine levels, or for meeting CO goals (described below). Vouchers were delivered immediately after a CO video was submitted, but the amount of the voucher was determined by the participant's yoked contingent counterpart.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "A software engineer developed a web-based application called M otiv 8 for managing contingency management programs and collecting CO video samples. Study participants logged into the M otiv 8 website using a username and password and completed the CO video sample collection by following simple on-screen and printed instructions. The web-based sample-collection process, explained in detail below, progressed as follows: participant homepage, bandwidth selector, video post result entry, voucher display, back to homepage.\nThe participant's homepage, which was accessed over a secure, encrypted connection, consisted of a graph of the participant's sample results (showing cumulative smoking abstinence), voucher earnings history, a box showing messages from the system administrator, a \"post video\" button, and a display showing his or her previous sample's date and time and the earliest date and time at which he or she could provide their next sample (see). The procedure specified that an 8-hr interval must elapse between samples. When the participant clicked the \"post video\" button, the program directed him or her to the bandwidth selector interface. The participant selected whether he or she was using a high-speed connection (a digital subscriber line, cable modem, or satellite) or a lowspeed connection (dial up over a phone line).\nThe video post interface guided the participant through the process of uploading a CO video sample and posting a result. On the video post screen, the participant was instructed to click a button, which turned on the webcam. A box (320 by 240 pixels) then displayed what the webcam was seeing, allowing the user to orient the camera properly to capture the result. The user was then instructed to click \"record\" when he or she was ready to leave a sample (see. When the participant wished to stop recording, he or she was instructed to click the \"stop\" button. The video stream from the webcam was sent directly to the study server over a secure, encrypted connection so that it could not be tampered with by the participant.\nA properly recorded video contained the following components: (a) participant resetting the CO meter and showing that it was zeroed; (b) participant holding his or her breath while the meter counted down from 15 s; (c) participant exhaling into the CO meter; and (d) participant showing the results indicated by a digital display on the CO meter to the camera.\nAfter recording the sampling procedure, the participant entered the numerical result indicated on the CO meter and posted the result in a text box. The result was fed into the voucher program, where it was processed by the M otiv 8 incentive tracking system and the result and appropriate voucher amount were stored. The appropriate voucher interface was generated, and the participant was automatically directed to the voucher display. For the voucher display, the screen displayed different messages based on a positive or negative result and group assignment. If the participant was in the contingent CO group, the participant's earnings and account balance were displayed, along with the amount he or she could earn for the next negative sample. The latter information about potential earnings for the next sample was not included for participants in the noncontingent CO group but was otherwise the same.\nThe user could then click a \"continue\" button to return to his or her homepage, where the latest graph, account summary, and earliest possible date and time for providing the next CO sample were displayed. The average time to upload a video after accessing the M otiv website was approximately 90 s. All videos were reviewed, usually twice per day, by trained staff, and the results entered by participants were compared to the results shown on the videos. Staff also made sure that the steps for submitting a video (described above) were properly followed and that participants were not attempting to fake a video. Visual cues, such as watching the chest expand before (during the initial deep breath) and after the exhalation, as well as audio cues, such as hearing the exhalation through the meter, were used to verify the authenticity of the CO submission process. If there were concerns about authenticity, the participant was contacted, and in some cases was asked to turn his or her head sideways during exhalation to show that his or her lips were around the mouthpiece of the meter during exhalation. Of the 4,774 samples, 39 were problematic, mainly for technical reasons, but four were discrepancies between the user input and the video-confirmed CO reading. None of these discrepancies, however, resulted in a voucher being awarded erroneously.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "After group assignment, research staff met with participants in their homes to provide equipment and instruct them regarding the various phases of the study as well as the CO sampling procedures. Participants completed a quiz demonstrating that they had read and understood the instructions for their group assignment.\nBaseline. During the first 3 days, participants were asked to submit two video clips showing CO values each day. There were no cut-off requirements during this phase. An average CO was calculated at the end of this phase.\nTapering. For participants in the contingent CO group, reductions in breath CO were required for voucher delivery for each of the eight submissions during this 4-day phase. For participants in both groups, reduction goals were determined based on the average of the baseline CO levels, such that at the end of the phase the final CO cutpoint was 4 ppm. For example, if the average baseline CO was 36 ppm, then each successive sample would have to be 4 ppm lower than the previous sample so that the goal for the eighth sample was 4 ppm. Meeting the cut-off for each submission resulted in a $3.00 voucher if the participant was in the contingent CO group. Participants in the noncontingent CO group earned vouchers based on their matched contingent CO counterpart, contingent on submitting videos but independent of meeting their goals. Also, for all participants, the quantitative progress graph on each participant's homepage showed his or her own personal tapering goals as horizontal dashed lines in the graph above the respective sample number (see). In addition, for all participants, after leaving a sample, the goal for the next CO sample was indicated in a text box. The final day of tapering (Day 7) was designated as the quit date.\nAbstinence induction. During the remainder of the voucher procedure (21 days), CO samples from participants in the contingent CO group were judged to be either positive or negative. Samples 4 ppm were considered negative. Evidence of continued abstinence resulted in an increasing schedule of voucher magnitude for contingent participants. The initial voucher value was $3.00 and increased in value by $0.25. In addition, every third consecutive negative CO resulted in a $5.00 bonus. Thus, the first negative sample resulted in a $3.00 voucher, the second in $3.25, the third in $8.50, the fourth in $3.75, and soon. Participants in the noncontingent CO group earned vouchers based on their matched voucher counterpart, contingent on video submissions but independent of abstinence. At the end of the abstinence induction phase, participants completed a Treatment Acceptability Scale (results reported by Raiff, Jarvis,.\nThinning. A 21-day thinning phase followed the main treatment phase. Monitoring and the possibility of voucher delivery were decreased to twice per week (one sample on Mondays and one sample on Thursdays, anytime after 12:00 p.m. but before 12:00 a.m.). The voucher values simply continued based on the previous schedule for the contingent CO group. As with the previous two phases, participants in the noncontingent CO group earned vouchers based on their matched counterpart, contingent on video submissions but independent of abstinence.\nCounseling. Brief supportive counseling was provided in person during the tapering phase, by phone after the quit day and after Week 4, and then another in-person session at the end of Week 7. Counselors followed a semistructured script based on Public Health Service guidelines), and were not blind to group assignment. An identical script was used in each phase. Counselors were trained by a licensed psychologist.\nFollow-up. Follow-up visits were scheduled at the completion of the thinning phase and at 3 and 6 months after completion of the thinning phase. Research assistants visited participants in their homes or participants came to the clinic. During these visits, participants provided CO and urine samples, and they were asked to report whether they had smoked cigarettes, even a puff, during the past 7 days (yes or no). Abstinence was defined by CO 4 ppm, urine cotinine < 80 ng/ml, and an answer of \"no\" to whether they had smoked during the past 7 days. Urine cotinine was assessed by a highly sensitive gas chromatography technique. Cotinine was excluded in the point prevalence measure for participants who reported nicotine replacement (e.g., a patch). This occurred for one participant at 4 weeks and one participant at 3 and 6 months in the contingent CO group, and for one participant in the noncontingent CO group at 6 months.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The main dependent variable for the study was breath CO level. Missing samples were considered positive. shows individual subject CO data for both groups during all phases of the study, with each row representing a different participant. Positive samples are indicated by a thin line, negative samples are represented by a thick line, and missing samples are indicated by blank spaces. Few samples were negative during baseline, suggesting that self-monitoring alone did not promote smoking abstinence. During tapering, slightly more CO samples met the 4 ppm cutpoint for abstinence compared to baseline. Visual analysis also suggests that there were higher rates of negative CO samples during the treatment phase in both groups compared to baseline.\nAverage CO levels (AESD) across baseline, tapering, abstinence induction, and thinning phases in the contingent CO group were 25.4 ppm (AE17.4), 13.9 ppm (AE12.3), 6.8 ppm (AE11.8), 7.7 ppm (AE13.8), and average COs in the noncontingent CO group were 23.5 ppm (AE12.4), 16.3 ppm (AE11.3), 8.0 ppm (AE7.5), 9.3 ppm (AE9.3). We used a mixed-effects linear model to assess the effects of group assignment and treatment phase on CO levels. Our response variable was CO level (ppm), and our fixed factors were group (contingent or noncontingent), phase (baseline, tapering, abstinence induction, or thinning) and the group-byphase interaction, as well as subject weight, age, race, gender, FTND score, URICA score, and AUC. We modeled a random intercept for each subject and assumed a first-order autoregressive correlation structure across the four phases.\nMixed-model analysis showed no significant effect of group and no group-by-phase interaction, indicating that group status was not a reliable predictor of daily CO. However, CO level varied significantly by phase across both treatment groups. Our model estimated that CO level in the tapering phase was, on average, 9.0 ppm lower than at baseline (p < .0001, 95% CI ¼ [À11.2, À6.8]), CO level in abstinence induction was 15.6 ppm lower than at baseline (p < .0001, 95% CI ¼ [À17.8, À13.4]), and CO level in thinning was 14.5 ppm lower than at baseline (p < .0001, 95% CI ¼ [À16.7, À12.2]). Also, average CO level in thinning was estimated to be 5.5 ppm lower than in tapering (p < .0001, 95% CI ¼ [À7.7, À3.2]), and CO level during abstinence induction was 6.6 ppm lower than during tapering (p < .0001, 95% CI ¼ [À8.8, À4.4]). Average CO level during thinning was not significantly different than during abstinence induction (p ¼ .3339).\nAmong patient demographic variables included in the mixed model (age, weight, race, gender, FTND, URICA, and AUC), CO level was significantly associated with FTND and marginally associated with AUC. Across both groups, average daily CO level was estimated to increase by 1.80 ppm for each additional point of the FTND score (95% CI ¼ [0.501, 3.090], p ¼ .0072), and CO level was estimated to decrease by 1.02 ppm for each additional increase of 0.1 of AUC (95% CI ¼ [À2.111, À0.713], p ¼ .0685).\nBecause contingencies were placed on the dichotomous outcome of smoking or abstaining, we also assessed group differences in the percentage of abstinence during treatment (abstinence induction and thinning phases combined). shows the median percentage of negative samples in both groups (shaded bars) as well as the percentage of negative samples for each participant (filled circles). The median percentages of negative samples in the noncontingent CO and contingent CO groups were 25% and 66.7%, respectively (p ¼ .048 by two-sided Mann-Whitney test). shows the median number of days of sustained abstinence using the same conventions as in the top panel. Median days of sustained abstinence in the noncontingent CO and contingent CO groups were 2.25 and 5.50, respectively (p ¼ .0731 by two-sided MannWhitney test).\nAdherence to the video submission protocol was high in both groups. The median percentages of submitted samples in the noncontingent CO and contingent CO groups were 89.5% and 91.9%, respectively. In addition, participants returned the equipment (CO monitor, laptop, webcam) at a high rate: All laptops were collected, and only three CO monitors were not returned.\nOut of the total maximum earnings of $530.00 for continuous smoking abstinence, the average amount earned in the contingent CO group was $245.70. Because participants were yoked, nearly the same magnitude of earnings was received by individuals in the noncontingent CO group ($223.88).\nAt the 3-month follow-up, 18% of the participants in the contingent group were abstinent, and 7.7% in the noncontingent CO group were abstinent, based on the definition of abstinence described above. At the 6-month follow-up, 8% in the contingent CO group were abstinent, and 15.8% in the noncontingent CO group were abstinent. x 2 tests indicated that these differences were not statistically significant. Participants lost to follow-up were considered positive for smoking (indicated by blank spaces in at the 3-and 6-month time points; note that shows CO data only; abstinence defined here is per the point prevalence definition noted above).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The present study suggests that Internet-based contingency management can promote higher rates of negative CO samples during treatment relative to a group in which vouchers are delivered regardless of CO levels (. Of all the CO samples, 67% were negative for smoking in the contingent CO group and 25% were negative in the noncontingent CO group. These differences were not related to betweengroups differences in adherence to the videobased CO sampling procedure: Both groups provided equivalently high rates of CO submissions via the M otiv 8 system. The main procedural difference between groups was the contingency for abstinence; both groups received nearly identical instructions, goals, and feedback based on smoking status. Although there were differences in the percentages of negative COs between groups during treatment, there were no significant differences in sustained abstinence during treatment () and no significant differences between groups in absolute CO levels. Nevertheless, CO levels did decrease substantially in both groups relative to baseline. shows that following a baseline condition (CO monitoring) in which virtually all participants continued to smoke, a meaningful number of participants in both groups were able to achieve some sustained period of abstinence during treatment. These results suggest that factors other than the contingencies for abstinence influenced smoking. We can only speculate that this behavior change was due to frequent monitoring (twice daily), goal-based instructions for reducing CO, automated and immediate feedback, graphed progress (see), implicit social contingencies for abstinence, or some combination of these factors. Other studies that have used noncontingent comparison groups did not include most of these factors (e.g., Higgins, Wong, Badger,), particularly the frequent monitoring, immediate feedback, and quantitative and graphed goals. Participants in this study also indicated that they found these features to be some of the most helpful in promoting abstinence (reported in.\nThus, the procedures in the noncontingent CO comparison group most likely entailed a number of active ingredients that promoted behavior change. In addition, adherence to the video submission protocol was high in both groups, which may suggest that monetary consequences, even when they are not contingent on CO, play a role in promoting abstinence. That is, to the extent monetary consequences increased engagement with the self-monitoring, feedback, and goal-setting procedures, they may have also increased abstinence. It is also possible the monetary consequences adventitiously reinforced abstinence (cf.. Overall, the pattern of results suggests that the contingency based on abstinence per se was important, but other factors were also operative in generating negative COs.\nThe findings that group differences in negative COs were not paralleled by group, mean differences in the absolute CO levels, and point prevalence measures at follow-up are consistent with the study. These findings may suggest that frequent monitoring over the Internet is more likely to capture smoking abstinence or to record false negatives. It would have been desirable to characterize smoking status more fully using other biochemical measures, such as salivary cotinine, throughout the study. Future researchers could use Internet-based methods to obtain salivary cotinine results. The process to obtain salivary cotinine may become more rapid and affordable as new nanomaterial electrochemical biosensors are developed (e.g.,). The use of CO and cotinine could be combined such that CO could be used early in treatment to initiate abstinence, and then salivary cotinine could be used during maintenance, as Higgins and colleagues have done with their in-person contingency management procedure with pregnant smokers (e.g.,. A combined procedure would optimize the chances of detecting and reinforcing early abstinence, which cotinine cannot do given its much longer half-life (about 20 hr) compared to CO.\nHigher rates of delay discounting (i.e., AUC) were marginally associated with smoking status during treatment. Although there is considerable interest in the relation between discounting and smoking status (e.g.,, and whether discounting could be used to tailor treatment, the relatively weak association between the two in the present study suggests that delay discounting may have limited utility, at least under some conditions. In contrast, a measure of nicotine dependence, the FTND, was significantly associated with CO levels during the study. Whether, and how, measures of nicotine dependence could be used to tailor contingency management, or incorporate additional interventions (), awaits further research.\nThe present study included a brief tapering, or shaping, period before the abstinence induction condition. Several studies have used similar procedures to initiate abstinence gradually in hard-to-treat smokers) and heavy smokers . However, it is unclear whether shaping improves cessation outcomes relative to an abrupt transition to abstinence. Research with cocaine-dependent individuals that used a shaping procedure found no meaningful differences in abstinence between participants who were exposed to shaping and those who were not exposed). In the context of smoking cessation, one study suggests that shaping may enhance outcomes, relative to a more abrupt transition to abstinence, in hard-totreat smokers (. It is plausible that the more frequent assessments of smoking relative to cocaine use (daily rather than three times per week) enhanced the effects of shaping with this population. A CO-based measurement procedure can detect relatively small changes in smoking, and such changes can be reinforced shortly after they occur. The and studies differed in several other respects, and thus the differences in success could be the result of other factors such as the duration of the shaping period or the particulars of the shaping schedule employed, to name a few.\nThe lack of group differences in point prevalence at follow-up may not be surprising given that absolute CO levels and durations of sustained abstinence did not significantly differ between groups during treatment. Several factors with respect to enhancing and maintaining treatment gains should be considered. First, the duration of the current treatment period, at 7 weeks, was relatively short. This duration was shorter than most contingency management interventions that have targeted other drugs of abuse ( and was shorter than many other psychosocial and pharmacological interventions that have targeted cigarette smoking. Although treatment duration does not appear to be related to effects on abstinence while contingency management is ongoing), it is possible that longer durations may translate into greater long-term maintenance. Second, the magnitude of voucher earnings may have been too low to generate high enough sustained rates of abstinence during treatment. Higher earnings have been associated with greater long-term success rates). Third, aside from the brief counseling sessions and the 3-week thinning period during which vouchers were available twice weekly for abstinence, the intervention did not include explicit procedures to maintain abstinence and prevent relapse after the intervention was removed. Future research should investigate the potential for intermittent schedules to maintain abstinence for long durations (e. g., several months). It might be desirable to include a random schedule of CO monitoring to prevent the possibility of timing smoking and then providing a CO measure after some period of abstinence, which might be more likely with a predictable schedule of CO monitoring such as the one used in the present study.\nAdditional methods to enhance treatment gains should be considered, such as combining Internet-based contingency management with pharmacotherapy and cognitive behavioral therapy (K. M.). In addition, developed a group contingency model in which small groups of smokers worked together as a team to initiate abstinence and earn vouchers. Communication between members was enabled via a discussion board integrated into the M otiv 8 architecture. The group contingency model could be sustained after the vouchers are withdrawn, thereby permitting a low-cost method to maintain social contingencies for abstinence.\nThe present study adds to the growing literature on Internet-based methods to promote smoking cessation. Although disparities still exist in access to Internet-based healthcare, there is some evidence that the access gap can be reduced through Internet-based methods). Video-enabled mobile phones could also be employed in future versions of the intervention to further narrow the access gap (). Furthermore, with the advent of lower cost methods to detect smoking ( and novel methods to fund contingency management interventions, Internetbased contingency management may become increasingly practical and scalable. Regardless of the particular method, information technology will continue to mitigate barriers to evidencebased behavioral treatments to promote smoking cessation and other healthy lifestyle choices.\n",
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "39.3 AE",
+          "rowHeaders": [
+            "Age (years)"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Contingent",
+            "group (n ¼ 39)"
+          ]
+        },
+        {
+          "value": "13.20",
+          "rowHeaders": [
+            "Age (years)"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Contingent",
+            "group (n ¼ 39)"
+          ]
+        },
+        {
+          "value": "40.1 AE",
+          "rowHeaders": [
+            "Age (years)"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Noncontingent",
+            "group (n ¼ 38)"
+          ]
+        },
+        {
+          "value": "13.28",
+          "rowHeaders": [
+            "Age (years)"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Noncontingent",
+            "group (n ¼ 38)"
+          ]
+        },
+        {
+          "value": "74.4",
+          "rowHeaders": [
+            "Caucasian (%)"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Contingent",
+            "group (n ¼ 39)",
+            "49"
+          ]
+        },
+        {
+          "value": "81.6",
+          "rowHeaders": [
+            "Caucasian (%)"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Noncontingent",
+            "group (n ¼ 38)",
+            "47"
+          ]
+        },
+        {
+          "value": "20.4 AE",
+          "rowHeaders": [
+            "Cigarettes per day"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Contingent",
+            "group (n ¼ 39)",
+            "49"
+          ]
+        },
+        {
+          "value": "8.74",
+          "rowHeaders": [
+            "Cigarettes per day"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Contingent",
+            "group (n ¼ 39)",
+            "49"
+          ]
+        },
+        {
+          "value": "20.6 AE",
+          "rowHeaders": [
+            "Cigarettes per day"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Noncontingent",
+            "group (n ¼ 38)",
+            "47"
+          ]
+        },
+        {
+          "value": "9.65",
+          "rowHeaders": [
+            "Cigarettes per day"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Noncontingent",
+            "group (n ¼ 38)",
+            "47"
+          ]
+        },
+        {
+          "value": "80.4 AE",
+          "rowHeaders": [
+            "Weight (kg)"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Contingent",
+            "group (n ¼ 39)",
+            "49"
+          ]
+        },
+        {
+          "value": "16.7",
+          "rowHeaders": [
+            "Weight (kg)"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Contingent",
+            "group (n ¼ 39)",
+            "49"
+          ]
+        },
+        {
+          "value": "79.3 AE",
+          "rowHeaders": [
+            "Weight (kg)"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Noncontingent",
+            "group (n ¼ 38)",
+            "47"
+          ]
+        },
+        {
+          "value": "19.1",
+          "rowHeaders": [
+            "Weight (kg)"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Noncontingent",
+            "group (n ¼ 38)",
+            "47"
+          ]
+        },
+        {
+          "value": "25.1 AE",
+          "rowHeaders": [
+            "Intake CO (ppm)"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Contingent",
+            "group (n ¼ 39)",
+            "49"
+          ]
+        },
+        {
+          "value": "15.82",
+          "rowHeaders": [
+            "Intake CO (ppm)"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Contingent",
+            "group (n ¼ 39)",
+            "49"
+          ]
+        },
+        {
+          "value": "25.2 AE",
+          "rowHeaders": [
+            "Intake CO (ppm)"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Noncontingent",
+            "group (n ¼ 38)",
+            "47"
+          ]
+        },
+        {
+          "value": "13.14",
+          "rowHeaders": [
+            "Intake CO (ppm)"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Noncontingent",
+            "group (n ¼ 38)",
+            "47"
+          ]
+        },
+        {
+          "value": "19.64 AE",
+          "rowHeaders": [
+            "Years smoking"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Contingent",
+            "group (n ¼ 39)",
+            "49"
+          ]
+        },
+        {
+          "value": "12.37",
+          "rowHeaders": [
+            "Years smoking"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Contingent",
+            "group (n ¼ 39)",
+            "49"
+          ]
+        },
+        {
+          "value": "19.68 AE",
+          "rowHeaders": [
+            "Years smoking"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Noncontingent",
+            "group (n ¼ 38)",
+            "47"
+          ]
+        },
+        {
+          "value": "12.74",
+          "rowHeaders": [
+            "Years smoking"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Noncontingent",
+            "group (n ¼ 38)",
+            "47"
+          ]
+        },
+        {
+          "value": "5.13 AE",
+          "rowHeaders": [
+            "Nicotine dependence"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Contingent",
+            "group (n ¼ 39)",
+            "49"
+          ]
+        },
+        {
+          "value": "1.90",
+          "rowHeaders": [
+            "Nicotine dependence"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Contingent",
+            "group (n ¼ 39)",
+            "49"
+          ]
+        },
+        {
+          "value": "5.24 AE",
+          "rowHeaders": [
+            "Nicotine dependence"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Noncontingent",
+            "group (n ¼ 38)",
+            "47"
+          ]
+        },
+        {
+          "value": "2.54",
+          "rowHeaders": [
+            "Nicotine dependence"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Noncontingent",
+            "group (n ¼ 38)",
+            "47"
+          ]
+        },
+        {
+          "value": "9.9 AE",
+          "rowHeaders": [
+            "Readiness to"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Contingent",
+            "group (n ¼ 39)",
+            "49"
+          ]
+        },
+        {
+          "value": "1.27",
+          "rowHeaders": [
+            "Readiness to"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Contingent",
+            "group (n ¼ 39)",
+            "49"
+          ]
+        },
+        {
+          "value": "10.1 AE",
+          "rowHeaders": [
+            "Readiness to"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Noncontingent",
+            "group (n ¼ 38)",
+            "47"
+          ]
+        },
+        {
+          "value": "1.52",
+          "rowHeaders": [
+            "Readiness to"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Noncontingent",
+            "group (n ¼ 38)",
+            "47"
+          ]
+        },
+        {
+          "value": "0.421 AE",
+          "rowHeaders": [
+            "Delay discounting (AUC)"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Contingent",
+            "group (n ¼ 39)",
+            "49"
+          ]
+        },
+        {
+          "value": "0.270",
+          "rowHeaders": [
+            "Delay discounting (AUC)"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Contingent",
+            "group (n ¼ 39)",
+            "49"
+          ]
+        },
+        {
+          "value": "0.454 AE",
+          "rowHeaders": [
+            "Delay discounting (AUC)"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Noncontingent",
+            "group (n ¼ 38)",
+            "47"
+          ]
+        },
+        {
+          "value": "0.228",
+          "rowHeaders": [
+            "Delay discounting (AUC)"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Noncontingent",
+            "group (n ¼ 38)",
+            "47"
+          ]
+        }
+      ],
+      "page": 1
+    }
+  ]
+}

@@ -1,3 +1,5 @@
+[![Build Status](https://staging.travis-ci.com/HumanBehaviourChangeProject/Info-extract.svg?branch=master)](https://staging.travis-ci.com/HumanBehaviourChangeProject/Info-extract)
+
 # Human Behaviour Change Project (HBCP)
 
 The Human Behaviour-Change Project (HBCP) is a collaboration between behavioral scientists, computer scientists and 
@@ -9,74 +11,50 @@ for behavior change (e.g., outcome value given a set of population and intervent
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine.
+These instructions will get you a copy of the project up and running on your local machine, with a REST API ready to use. 
 
-### Prerequisites
+### Prerequisite
 
-hbcpIE uses Java 1.8 and needs to have [Maven](https://maven.apache.org/) installed to compile and run the project. 
+[Docker](https://docs.docker.com/get-docker/) is the only requirement.
 
-### Installing
-
-After cloning the project go the the root `hbcpIE` directory.
-
-Compile the code:
-```
-mvn clean compile -U
-```
-
-## Example Usage
-
-Once you've confirmed that Maven can build the code, there are two ways to quickly test our APIs.
-1. [Use with Maven commands](#with-maven-commands)
-1. [Use with Docker](#with-docker)
-
-### With Maven commands
-
-The easiest way to test our entity extraction and prediction APIs is via a [Swagger](https://swagger.io/) interface 
-using your own PDFs of behavior change literature. Before doing that, we need to build the indexes used by extraction
-and prediction. This is done with the following commands:
-```
-mvn exec:java@indexer
-```
-and 
-```
-mvn exec:java@extractor
-```
-
-(you should see after each of these something like `[INFO] BUILD SUCCESS`)
-
-Next we will start the server that will allow us to access the Swagger interface:
-```
-mvn spring-boot:run
-```
-
-This will take several seconds to start.  After it has started, open a web browser and go to 
-http://127.0.0.1:8080/swagger-ui.html. You can then follow the instructions on that page to see how to use the extractor and
-predictor APIs. 
-
-### With Docker
-
-Make sure that your Docker runtime memory option is set to at least 8GB.
+⚠️ Make sure that your Docker runtime memory option is set to at least 8GB.
 * Mac: https://docs.docker.com/docker-for-mac/#memory
 * Windows: https://docs.docker.com/docker-for-windows/#advanced
 
-Build the project with:
+Make sure your version of Docker (e.g. Docker Desktop on Mac) is running.
+
+### Running the API
+
+After cloning the project, open a terminal in the root `hbcpIE` directory and simply type this command:
+
 ```
-mvn clean install
+docker-compose up
 ```
-Build the docker image with:
+
+Docker will set up our API and install all of its requirements for you. This may take a while as
+this also trains some of the machine learning models we use. When it's over the last line you
+should see in your terminal should be something like:
 ```
-docker build .
+hbcp-core | 17-Feb-2021 13:21:37.079 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [60,591] milliseconds
 ```
-Run a docker container exposing the API on port 8080:
-```
-docker run -t -p 8080:8080 [your_image_id]
-```
-It will take a while, as it is indexing and running the extraction. After it has started, open a web browser and go to http://127.0.0.1:8080/swagger-ui.html. You can then follow the instructions on that page to see how to use the extractor and predictor APIs.
+
+### Example Usage
+
+The easiest way to try the API is to extract all the entities in a behavior change article in PDF format. 
+
+Here is a study of Lou et al. (2013) to get you started: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3704267/pdf/1471-2296-14-91.pdf.
+You can download this file and feed it to the API through the interface. Of course, you can use any other PDF of behavior change literature.
+
+1. Open a web browser and go to http://127.0.0.1:8080/swagger-ui.html.
+1. Look at the bottom of the page and click on `extractor-controller` to view its calls.
+1. Click on the first call: `/api/extract/all`.
+1. Find the `file` parameter and click on `Choose file` to select your PDF.
+1. Click on `Try it out!` and wait for 1-2 minutes.
+1. You can then view all the extracted entities in JSON format in the `Response Body`.
 
 ## Publications
 
-If you use the extractor please cite:
+If you use the system please cite:
 
 * Debasis Ganguly, Yufang Hou, Léa A. Deleris, Francesca Bonin: 
   [Information Extraction of Behavior Change Intervention Descriptions](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6568066/). AMIA Joint Summits on Translational Science 
@@ -95,11 +73,9 @@ If you use the extractor please cite:
 
 
 ## Team Members
-* Debasis Ganguly
+* Francesca Bonin
 * Martin Gleize
 * Yufang Hou
-* Charles Jochim
-* Francesca Bonin
 * Pierpaolo Tommasi
 
 ## Acknowledgments
@@ -108,5 +84,3 @@ Thanks to the UCL annotators that developed the Behaviour Change Intervention On
 ## License
 This program is free software; you can redistribute it and/or modify it under the terms of the [Apache License 
 Version 2.0](./LICENSE).
-
-

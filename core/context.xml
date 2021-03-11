@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+
+  This file will be used in the docker deploy, replacing the original context.xml.
+
+  The only change to the original context.xml file has been to disable cache,
+  since it was generating too many warnings (data is in the classpath and it's
+  only needed at startup time, making the cache itself pointless).
+
+-->
+<!-- The contents of this file will be loaded for each web application -->
+<Context>
+
+    <!-- Default set of monitored resources. If one of these changes, the    -->
+    <!-- web application will be reloaded.                                   -->
+    <WatchedResource>WEB-INF/web.xml</WatchedResource>
+    <WatchedResource>WEB-INF/tomcat-web.xml</WatchedResource>
+    <WatchedResource>${catalina.base}/conf/web.xml</WatchedResource>
+
+    <!-- Change for the HBCP project, disabling cache  -->
+    <Resources antiResourceLocking="false" cachingAllowed="false" />
+
+</Context>
