@@ -14,8 +14,11 @@ import org.slf4j.LoggerFactory;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.io.OutputStream;
 import java.net.HttpURLConnection;
 import java.net.URL;
+import java.nio.charset.StandardCharsets;
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
 import java.util.stream.Collectors;
@@ -26,6 +29,7 @@ public class PredictionServiceConnector {
     private final int port;
     private static final String PROTOCOL = "http";
     private static final String ENDPOINT = "/hbcp/api/v1.0/predict/outcome/";
+    private static final String ENDPOINT_BATCH = "/hbcp/api/v1.0/predict/outcome/batch/";
 
     private static final Logger log = LoggerFactory.getLogger(PredictionServiceConnector.class);
 
@@ -40,6 +44,58 @@ public class PredictionServiceConnector {
     /** Gets a connector to a Prediction service run on localhost and port 5000 */
     public static PredictionServiceConnector createForLocalService() {
         return new PredictionServiceConnector(Environment.getPredictionURL(), Environment.getPredictionPort());
+    }
+
+    public List<PredictionWithConfidence> requestPredictionBatch(List<List<AttributeValuePair>> queriesAsAvps) {
+        // format the body to send in POST request
+        String queriesString = queriesAsAvps.stream()
+                .map(queryString -> queryString.stream()
+                        .map(AttributeValueNode::new)
+                        .map(AttributeValueNode::toString)
+                        .collect(Collectors.joining("-")))
+                .collect(Collectors.joining("\n"))
+                .replaceAll("\\n+", "\n");
+        // open the HTTP connection with a POST request
+        HttpURLConnection con = null;
+        try {
+            // query the prediction API
+            URL predictionUrl = new URL(PROTOCOL, host, port, ENDPOINT_BATCH);
+            con = (HttpURLConnection) predictionUrl.openConnection();
+            con.setRequestMethod("POST");
+            con.setRequestProperty("Content-Type", "text/plain; charset=utf-8");
+            con.setRequestProperty("Accept", "application/json");
+            con.setDoInput(true);
+            con.setDoOutput(true);
+            // write the queries
+            try (OutputStream os = con.getOutputStream()) {
+                byte[] input = queriesString.getBytes(StandardCharsets.UTF_8);
+                os.write(input, 0, input.length);
+            }
+            // get the response
+            int status = con.getResponseCode();
+            if (status < 300) {
+                try (BufferedReader in = new BufferedReader(
+                        new InputStreamReader(con.getInputStream(), StandardCharsets.UTF_8))) {
+                    PredictionBatchResult batchResult = gson.fromJson(in, new TypeToken<PredictionBatchResult>() {
+                    }.getType());
+                    return batchResult.results;
+                }
+            } else {
+                try (BufferedReader in = new BufferedReader(new InputStreamReader(con.getErrorStream()))) {
+                    log.error("Error in batch prediction API response for query: {}", queriesAsAvps);
+                    String line;
+                    while ((line = in.readLine()) != null) {
+                        log.error(line);
+                    }
+                }
+                return new ArrayList<>();
+            }
+        } catch (IOException e) {
+            log.error("Error while batch-querying the prediction API with: " + queriesString, e);
+            return new ArrayList<>();
+        } finally {
+            if (con != null) con.disconnect();
+        }
     }
 
     public Optional<PredictionWithConfidence> requestPrediction(List<? extends AttributeValuePair> avps) {
@@ -83,6 +139,11 @@ public class PredictionServiceConnector {
     public static class PredictionWithConfidence {
         double value;
         double conf;
+    }
+
+    @Value
+    public static class PredictionBatchResult {
+        List<PredictionWithConfidence> results;
     }
 
     public static void main(String[] args) throws IOException {

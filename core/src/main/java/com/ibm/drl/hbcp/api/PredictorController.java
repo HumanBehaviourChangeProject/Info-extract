@@ -7,10 +7,13 @@ import java.util.stream.Collectors;
 import javax.json.Json;
 import javax.json.JsonArrayBuilder;
 import javax.json.JsonObjectBuilder;
+import javax.ws.rs.core.MediaType;
 
 import com.ibm.drl.hbcp.core.attributes.Attribute;
 import com.ibm.drl.hbcp.predictor.api.*;
 import com.ibm.drl.hbcp.util.Environment;
+import io.swagger.annotations.Example;
+import io.swagger.annotations.ExampleProperty;
 import org.slf4j.LoggerFactory;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -76,6 +79,7 @@ public class PredictorController {
         jsonRefParser = new JSONRefParser(baseProps);
         nodeVecsPerConfig = new HashMap<>();
         translatingRankers = new HashMap<>();
+        // completely disable indexing of values
         if (!Environment.isPredictionApiOnly()) { // outside of a docker-compose setting we fall back on a baseline
             // if not done, index the papers
             PaperIndexer.ensure(baseProps);
@@ -145,6 +149,47 @@ public class PredictorController {
                 useNeuralPrediction).toPrettyString();
     }
 
+    /**
+     * Returns the top K interventions by predicted outcome values, to a query asking for a combination of population characteristics,
+     * possible BC techniques, experimental settings.
+     * The results are scored with a confidence score. */
+    @ApiOperation(value = "Recommends best interventions for user scenarios.",
+            notes = "Returns the top K interventions by predicted outcome values, to a query asking for a combination of population characteristics, " +
+                    "possible BC techniques, experimental settings." +
+                    "As an example of 'query', you can use: " +
+                    "[{\"id\":\"3673271\",\"type\":\"boolean\",\"value\":true},{\"id\":\"3673272\",\"type\":\"boolean\",\"value\":true},{\"id\":\"3673273\",\"type\":\"boolean\",\"value\":true},{\"id\":\"3673274\",\"type\":\"boolean\",\"value\":true},{\"id\":\"3673275\",\"type\":\"boolean\",\"value\":true},{\"id\":\"3675715\",\"type\":\"boolean\",\"value\":true},{\"id\":\"3673282\",\"type\":\"boolean\",\"value\":true},{\"id\":\"3673283\",\"type\":\"boolean\",\"value\":true},{\"id\":\"3673284\",\"type\":\"boolean\",\"value\":true},{\"id\":\"3673285\",\"type\":\"boolean\",\"value\":true},{\"id\":\"3675717\",\"type\":\"boolean\",\"value\":true},{\"id\":\"3675718\",\"type\":\"boolean\",\"value\":true},{\"id\":\"3675719\",\"type\":\"boolean\",\"value\":true},{\"id\":\"5579088\",\"type\":\"numeric\",\"value\":30},{\"id\":\"5579096\",\"type\":\"numeric\",\"value\":50}]")
+    @RequestMapping(value = "/api/predict/recommend", method = RequestMethod.POST, consumes = "application/json", produces="application/json;charset=utf-8")
+    public String recommend(
+            @ApiParam(value = "Maximum number of recommended scenarios (the more, the longer the API call).")
+            @RequestParam(value="max", required = false, defaultValue = "10") int max,
+            @ApiParam(value = "A set of attribute-value pairs representing Behavior Change intervention scenarios serving as input")
+            @RequestBody AttributeValue[] query) throws IOException {
+        // turn into good old AVPs
+        List<AttributeValuePair> avps = Arrays.stream(query).map(AttributeValue::toAvp).collect(Collectors.toList());
+        // produce the candidate interventions to send to the prediction model
+        List<List<String>> recommendedInterventionsInfo = RecommendedInterventions.get().getRecommendedInterventions(avps, max).stream()
+                .map(ArrayList::new)
+                .collect(Collectors.toList());
+        List<List<AttributeValuePair>> queries = RecommendedInterventions.get().getRecommendedScenarios(avps, max);
+        // run the query
+        RankedResults<SearchResult> predictions = runBatchQueries(queries, 1, true, false, true);
+        // build the recommendation results
+        List<RecommendedIntervention> res = new ArrayList<>();
+        for (int i = 0; i < predictions.getResults().size(); i++) {
+            List<String> intervention = recommendedInterventionsInfo.get(i);
+            SearchResult prediction = predictions.getResults().get(i);
+            RecommendedIntervention reco = new RecommendedIntervention(intervention,
+                    prediction.getNode().getNumericValue(), prediction.getScore());
+            res.add(reco);
+        }
+        // sort by predicted outcome value
+        res.sort(Comparator.comparing((RecommendedIntervention reco) -> -reco.getPredictedValue()));
+        // return JSON response
+        return Jsonable.toPrettyString(Json.createObjectBuilder()
+                .add("results", Jsonable.getJsonArrayFromCollection(res))
+                .build());
+    }
+
     public RankedResults<SearchResult> predictOutcome(
             List<String> populationAttributes,
             List<String> interventionAttributes,
@@ -198,6 +243,25 @@ public class PredictorController {
             // collapse to weighted average (this reduces the list to a singleton)
             List<SearchResult> collapsed = Evaluator.collapseToWeightedAverage(res);
             return new RankedResults<>(collapsed);
+        }
+    }
+
+    private RankedResults<SearchResult> runBatchQueries(List<List<AttributeValuePair>> queries,
+                                                 int topK, boolean useAnnotations, boolean useEffectSize,
+                                                 boolean usePredictionApi) {
+        if (usePredictionApi || Environment.isPredictionApiOnly()) {
+            // create a new predictor service (very fast)
+            PredictionServiceConnector connector = PredictionServiceConnector.createForLocalService();
+            // request a prediction
+            List<PredictionServiceConnector.PredictionWithConfidence> predictionResponses = connector.requestPredictionBatch(queries);
+            List<SearchResult> res = predictionResponses.stream()
+                    .map(predictionResponse -> new SearchResult(new AttributeValueNode(
+                            new AttributeValuePair(Attributes.get().getFromName("Outcome value"), String.valueOf(predictionResponse.getValue()))),
+                            predictionResponse.getConf()))
+                    .collect(Collectors.toList());
+            return new RankedResults<>(res);
+        } else {
+            return new RankedResults<>(new ArrayList<>());
         }
     }
 
@@ -270,7 +334,7 @@ public class PredictorController {
     @RequestMapping(value = "/api/predict/options/all", method = RequestMethod.GET, produces="application/json;charset=utf-8")
     public String allInputOptions() {
         List<String> options = Attributes.get().stream()
-                .map(Attribute::getName)
+                .map(Attribute::getId)
                 .collect(Collectors.toList());
         return attributeInfo(options);
     }
@@ -286,12 +350,18 @@ public class PredictorController {
     }
 
     /** Returns all the input attributes handled by the prediction system, clustered by type. */
-    @ApiOperation(value = "Returns prediction insights: a comparison of a predicted outcome value and relevant scientific articles " +
-                            "with their reported outcome value.")
+    @ApiOperation(value = "Returns prediction insights.",
+            notes = "Returns prediction insights: a comparison of a predicted outcome value and relevant scientific articles " +
+                    "with their reported outcome value. As an example of query, you can use: " +
+                    "[{\"id\":\"5579096\",\"type\":\"numeric\",\"value\":50},{\"id\":\"3673271\",\"type\":\"boolean\",\"value\":true}]")
     @RequestMapping(value = "/api/predict/insights", method = RequestMethod.POST, consumes = "application/json", produces="application/json;charset=utf-8")
     public String predictionInsights(
             @ApiParam(value = "Whether to use the neural prediction model.")
             @RequestParam(value="useneuralprediction", required = false, defaultValue = "false") boolean useNeuralPrediction,
+            @ApiParam(value = "A set of attribute-value pairs representing a Behavior Change intervention scenario serving as input",
+            examples = @Example(value = @ExampleProperty(
+                    mediaType = MediaType.APPLICATION_JSON,
+                    value = "[{\"id\":\"5579096\",\"type\":\"numeric\",\"value\":50},{\"id\":\"3673271\",\"type\":\"boolean\",\"value\":true}]")))
             @RequestBody AttributeValue[] query) throws IOException {
         // turn into good old AVPs
         List<AttributeValuePair> avps = Arrays.stream(query).map(AttributeValue::toAvp).collect(Collectors.toList());
