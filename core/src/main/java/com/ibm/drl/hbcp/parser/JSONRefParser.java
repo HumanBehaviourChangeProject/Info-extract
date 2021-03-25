@@ -20,6 +20,7 @@ import com.ibm.drl.hbcp.util.FileUtils;
 import com.ibm.drl.hbcp.util.ParsingUtils;
 import com.ibm.drl.hbcp.util.Props;
 import lombok.Data;
+import net.arnx.jsonic.JSON;
 import org.apache.commons.lang3.NotImplementedException;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -486,9 +487,24 @@ public class JSONRefParser implements JSONRefParserBase {
         System.out.println(nameNumberValues.size());
     }
 
+    public static void displayReachAttributes() throws IOException {
+        JSONRefParser parser = new JSONRefParser(new File("../data/jsons/All_annotations_512papers_05March20.json"));
+        for (AnnotatedAttributeValuePair avp : parser.getAttributeValuePairs()) {
+            if (avp.getAttribute().getName().contains(" analysed")) {
+                System.out.println("For doc: " + avp.getDocName());
+                System.out.println(avp);
+            }
+        }
+    }
+
     public static void countAttributes() throws IOException {
-        JSONRefParser parser = new JSONRefParser(new File("data/jsons/All_annotations_512papers_05March20.json"));
+        JSONRefParser parser = new JSONRefParser(new File("../data/jsons/All_annotations_512papers_05March20.json"));
         System.out.println("Attribute count: " + parser.getAttributeValuePairs().getAllAttributeIds().size());
+    }
+
+    public static void countAttributesPA() throws IOException {
+        JSONRefParser parser = new JSONRefParser(new File("../data/jsons/PhysicalActivity Sprint1ArmsAnd Prioritised47Papers.json"));
+        System.out.println("Attribute count for PA: " + parser.getAttributeValuePairs().getAllAttributeIds().size());
     }
 
     public static void mainTableGrammar() throws IOException {
@@ -519,7 +535,9 @@ public class JSONRefParser implements JSONRefParserBase {
     }
 
     public static void main(String[] args) throws IOException {
-        mainTableGrammar();
+        //mainTableGrammar();
         //countAttributes();
+        //countAttributesPA();
+        displayReachAttributes();
     }
 }
