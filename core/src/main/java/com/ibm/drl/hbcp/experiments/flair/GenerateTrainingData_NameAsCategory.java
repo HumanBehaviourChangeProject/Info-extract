@@ -48,6 +48,9 @@ import com.ibm.drl.hbcp.util.Props;
 
 import edu.stanford.nlp.simple.Sentence;
 import edu.stanford.nlp.simple.Token;
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.FileReader;
 
 
 /**
@@ -94,9 +97,8 @@ public class GenerateTrainingData_NameAsCategory {
         }
         return sentences;        
     }
-    
-    
-    public List<String> generateTestingSentence(String docName, String dir) {
+
+   public List<String> generateTestingSentence(String docName, String dir) {
 //        System.err.println("generate testing sentence:" + docName);
         List<String> sentences = new ArrayList<>();
         File jsonPdfOutput = new File(dir + docName + ".json");
@@ -125,6 +127,52 @@ public class GenerateTrainingData_NameAsCategory {
                 if(str.matches(".*?(one|two|three|four|five|six|seven|eight|nine|twice)-(month|months|monthly|week|weeks|weekly|day|days|session|sessions|time).*?"))
                     str = splitDashBetweenTokens(str);
                 sentences.add(str);
+            }
+        } catch (Exception e) {
+            System.err.println(e.toString());
+        }
+        return sentences;
+    }
+     
+    
+    public List<String> generateTestingSentence_mention(String docName, String dir) {
+//        System.err.println("generate testing sentence:" + docName);
+        List<String> sentences = new ArrayList<>();
+        File jsonPdfOutput = new File(dir + docName + ".json");
+        try {
+            Reparser parser = new Reparser(jsonPdfOutput);
+            for (String str : parser.toText().split("\n")) {
+//                if(str.contains("has a value of")&&str.split(" ").length>30) continue;
+//                if (str.equalsIgnoreCase("acknowledgements") || str.equalsIgnoreCase("references")) {
+//                    break;
+//                }
+                if (str.equalsIgnoreCase("references")) { //part of rank3 entities are about funding infor
+                    break;
+                }
+                if (str.matches(".*?http:.*?")) {
+                    continue;
+                }
+                if (str.split(" ").length < 6) {
+                    continue;
+                }
+                if(str.matches(".*?(\\d+|\\d+\\%|\\d+\\.\\d+|\\d+\\.\\d+\\%)-(\\d+|\\d+\\%|\\d+\\.\\d+|\\d+\\.\\d+\\%|[a-zA-Z].*?).*?"))
+                    str = splitDashBetweenNumbers(str);
+                if(str.matches(".*?(\\d+|\\d+\\%|\\d+\\.\\d+|\\d+\\.\\d+\\%)/(\\d+|\\d+\\%|\\d+\\.\\d+|\\d+\\.\\d+\\%|[a-zA-Z].*?).*?"))
+                    str = splitSlashBetweenNumbers(str);
+                if(str.matches(".*? (\\d+th) .*?")||str.contains("1st")||str.contains("2nd")||str.contains("3rd"))
+                    str = splitNumberth(str);
+                if(str.matches(".*?(one|two|three|four|five|six|seven|eight|nine|twice)-(month|months|monthly|week|weeks|weekly|day|days|session|sessions|time).*?"))
+                    str = splitDashBetweenTokens(str);
+                for(String str1: str.split("(\\. |\\.89 |\\.\\'°01 |\\, \\(|; \\(|\\n|\n|\\?)")){
+//                    if(str1.split("\\, ").length>10){
+                    if(str1.contains("M.Sc.")){
+                        System.err.println("filter:" + str1);
+                        continue;
+                    }
+                    if(isContextFromTable(str1))
+                        continue;
+                    sentences.add(str1);
+                }
             }
         } catch (Exception e) {
             System.err.println(e.toString());
@@ -520,22 +568,604 @@ public class GenerateTrainingData_NameAsCategory {
         return pairs;
  
     }
+    
+    public void generateTestingData_mention_classification() throws IOException, Exception{
+        Map<String, List<String>> traintest = generateTrainingTestingFiles();
+        String testdir = "../data/All_512Papers_04March20_extracted_fixname23/";
+        BufferedWriter writer3 = new BufferedWriter(new FileWriter(new File(BaseDirInfo.getBaseDir() + "../mentionExp/menExt/test.tsv")));
+        int filterSent = 0;
+        int senttokencount = 0;
+        String longestSent = "";
+        int sentcount = 0;
+        List<String> debug = new ArrayList();
+        List<String> addedDoc = new ArrayList();
+        for (String doc : traintest.get("test")) {
+            List<String> sents = generateTestingSentence_mention(doc, testdir);
+            if(sents.isEmpty()){
+                System.err.println(doc + ": no corresponding xml file");
+                continue;
+            }
+            addedDoc.add(doc);
+            int sentid = 0;
+            for (String block : sents) {
+                if(block.contains("has a value of")) continue;
+                List<String> tokens = new ArrayList();
+                for(String s: block.split(" ")){
+                    tokens.add(s);
+                }
+                if(tokens.size()>150) {
+                    filterSent ++;
+                    System.err.println("filter:"+ tokens.size() + "--" + block);
+                    continue;
+                }
+                if(tokens.size()>senttokencount){
+                    senttokencount = tokens.size();
+                    longestSent = block;
+                }
+                for(int i=0; i<tokens.size(); i++) { //start position
+                    for(int len = 1; len<=10; len++) {
+//                  for(int len = 1; len<=tokens.size(); len++) {
+			if(i + len>tokens.size()) break;
+			String spanContent = "";
+			String newsent = "";
+			int originalStart = i;
+			int originalEnd = i + len-1;
+			for(int k = originalStart; k<=originalEnd; k++) {
+                            spanContent = spanContent + " " + tokens.get(k);
+			}
+			spanContent = spanContent.trim();
+			for(int j = 0; j<tokens.size(); j++) {
+                            if(j==originalStart && j==originalEnd) {
+				newsent = newsent + " [unused1] " + tokens.get(j) + " [unused2]";
+                            }else if(j==originalStart) {
+				newsent = newsent + " [unused1] " + tokens.get(j);
+                            }else if(j==originalEnd) {
+				newsent = newsent + " " + tokens.get(j) + " [unused2]";
+                            }else {
+				newsent = newsent + " " + tokens.get(j);
+                            }
+			}
+			newsent = newsent.trim();
+			// detect position of [unused1] and [unused2]
+			int position_unused1 = originalStart;
+			int position_unused2 = originalEnd + 2;
+			String newMentionid = doc + "_sent" + sentid + "_"+position_unused1 + "_"+position_unused2;
+			String isMention = "0";
+			String gold_mention = "unknown";
+			String gold_inforstatus = "unknown";
+//                        if(newsent.contains("[unused2]")){
+//                            System.err.println(spanContent + ":" + newsent);
+//                        }
+			writer3.append(isMention + "\t" + newMentionid + "\t" + "unknown" + " " + "unknown"  + "\t"
+								+ newsent + "\t" + spanContent + "\t" + "unknown" + "\t" + gold_mention + "\t" + gold_inforstatus).append("\n");
+                        sentcount++;
+//                        if(sentcount<=1775072 && sentcount>=1775008){
+//                            debug.add(newsent);
+//                        }
+                    }
+                } 
+            }
+            sentid = sentid + 1;
+        }
+        writer3.close();
+        System.err.println("filter sent:" + filterSent + ":" + senttokencount);
+        System.err.println("longest sent:" + longestSent);
+        for(String s: debug)
+            System.err.println(s);
+//        for(String s: addedDoc)
+//            System.err.print(s);
+        
+    }
+ 
+	public class ExtractedMention{
+		public String mentionid;
+		public String docid;
+		public int sentid; 
+		public int start; 
+		public int end; 
+		public String mentioncontent;
+		public String sentconent;
+		public String fullpremention;
+		public String partialfullpremention;
+		
+		public ExtractedMention(String mentionid, String docid, int sentid, int start, int end, String mentioncontent, String sentconent) {
+			this.mentionid = mentionid;
+			this.docid = docid;
+			this.sentid = sentid;
+			this.start = start;
+			this.end = end;
+			this.mentioncontent = mentioncontent;
+			this.sentconent = sentconent;
+			this.fullpremention = "FALSE";
+			this.partialfullpremention = "UNKNOWN";
+		}
+	}
+    
+    
+    public Map<String, Map<Integer, List<ExtractedMention>>> getExtractedMentionPerDoc() throws IOException, Exception{
+	BufferedReader textFileReader = new BufferedReader(new FileReader("/Users/yhou/git/hbcp-tableqa/mentionExp/menExt/mentionPredictions"));
+        String line = "";
+        Map<String, Map<Integer, List<ExtractedMention>>> mentions_sent_doc = new HashMap();
+        Map<String, List<ExtractedMention>> mentionsdoc = new HashMap();
+        while ((line = textFileReader.readLine()) != null) {
+        	String mentionid = line.split("\t")[0];
+        	String docid = mentionid.split("_sent")[0].replace("_", " ");
+        	int sentid = Integer.valueOf(mentionid.split("_sent")[1].split("_")[0]);
+        	int start = Integer.valueOf(mentionid.split("_sent")[1].split("_")[1]);
+        	int end = Integer.valueOf(mentionid.split("_sent")[1].split("_")[2]);
+        	String sent = line.split("\t")[2];
+        	if(!sent.contains("[unused2]")) {
+        		System.err.println(mentionid + ":" + sent);
+        	}
+        	String mention_content = line.split("\t")[3];
+        	ExtractedMention mention = new ExtractedMention(mentionid, docid, sentid, start, end, mention_content, sent);
+        	if(mentions_sent_doc.containsKey(docid)) {
+        		Map<Integer, List<ExtractedMention>> sent_mentions = mentions_sent_doc.get(docid);
+        		if(sent_mentions.containsKey(sentid)) {
+        			sent_mentions.get(sentid).add(mention);
+        		}else {
+        			List<ExtractedMention> sentMentions= new ArrayList();
+        			sentMentions.add(mention);
+        			sent_mentions.put(sentid, sentMentions);
+        		}
+        	}else {
+    			List<ExtractedMention> sentMentions= new ArrayList();
+    			sentMentions.add(mention);
+    			Map<Integer, List<ExtractedMention>> sent_mentions = new HashMap();
+    			sent_mentions.put(sentid, sentMentions);
+    			mentions_sent_doc.put(docid, sent_mentions);
+        	}
+        	if(mentionsdoc.containsKey(docid)) {
+        		mentionsdoc.get(docid).add(mention);
+        	}else {
+        		List<ExtractedMention> mentions = new ArrayList();
+        		mentions.add(mention);
+        		mentionsdoc.put(docid, mentions);
+            }
+        }
+        return mentions_sent_doc;
+	}
+    
+    
+    
+    public void generateTrainingData_mention_classification() throws IOException, Exception{
+        Map<String, List<String>> traintest = generateTrainingTestingFiles();
+        Map<String, Map<Integer, List<ExtractedMention>>> extractedMentions = getExtractedMentionPerDoc();
+        BufferedWriter writer1 = new BufferedWriter(new FileWriter(new File(BaseDirInfo.getBaseDir() + "../mentionExp/train.tsv")));
+
+        BufferedWriter writer2 = new BufferedWriter(new FileWriter(new File(BaseDirInfo.getBaseDir() + "../mentionExp/test.tsv")));
+        String testdir = "../data/All_512Papers_04March20_extracted_fixname23/";
+        Properties props = Props.loadProperties();
+        JSONRefParser refParser = new JSONRefParser(props);
+        Set<String> targetedAttri = Sets.newHashSet(
+                "1.1.Goal setting (behavior)",
+                "1.2 Problem solving",
+                "1.4 Action planning",
+                "2.2 Feedback on behaviour",
+                "2.3 Self-monitoring of behavior",
+                "3.1 Social support (unspecified)",
+                "5.1 Information about health consequences",
+                "5.3 Information about social and environmental consequences",
+                "11.1 Pharmacological support",
+                "11.2 Reduce negative emotions",
+
+                "Arm name",
+                "Outcome value",
+                "Mean age",
+                "Proportion identifying as female gender",
+                "Mean number of times tobacco used",
+                "Proportion identifying as male gender",
+                "Proportion identifying as belonging to a specific ethnic group",
+                "Lower-level geographical region",
+                "Smoking",
+                "4.1 Instruction on how to perform the behavior",
+                
+                "Longest follow up",
+                "Effect size p value",
+                "Effect size estimate",
+                "Biochemical verification",
+                "Proportion employed",
+                "4.5. Advise to change behavior",
+                "Proportion achieved university or college education",
+                "Country of intervention",
+                "Self report",
+                "Odds Ratio",
+                
+                "Aggregate patient role",
+                "Aggregate health status type",
+                "Aggregate relationship status",
+                "Proportion in a legal marriage or union",
+                "Mean number of years in education completed",
+                "Proportion belonging to specified family or household income category",
+                "Proportion belonging to specified individual income category", 
+                "Healthcare facility", 
+                "Doctor-led primary care facility",
+                "Hospital facility",
+                
+                "Site",
+                "Individual-level allocated",
+                "Individual-level analysed",
+                "Face to face",
+                "Distance",
+                "Printed material",
+                "Digital content type",
+                "Website / Computer Program / App",
+                "Somatic",
+                "Patch",
+                
+                "Pill",
+                "Individual",
+                "Group-based",
+                "Health Professional",
+                "Psychologist",
+                "Researcher not otherwise specified",
+                "Interventionist not otherwise specified",
+                "Expertise of Source",
+                
+                //rank3
+                "Dose",
+                "Overall duration",
+                "Number of contacts",
+                "Contact frequency",
+                "Contact duration",
+                "Format",
+                "Nicotine dependence", 
+                "Cognitive Behavioural Therapy", 
+                "Mindfulness",
+                "Motivational Interviewing",
+                "Brief advice",
+                "Physical activity",
+                "Individual reasons for attrition",
+                "Encountered intervention",
+                "Completed intervention",
+                "Sessions delivered",
+                "Pharmaceutical company funding",
+                "Tobacco company funding",
+                "Research grant funding",
+                "No funding",
+                "Pharmaceutical company competing interest",
+                "Tobacco company competing interest",
+                "Research grant competing interest",
+                "No competing interest"
+                );
+        Set<String> nameValueAttri = Sets.newHashSet(
+                "Proportion identifying as belonging to a specific ethnic group",
+                "Proportion belonging to specified family or household income category",
+                "Proportion belonging to specified individual income category",
+                "Aggregate relationship status",
+                "Nicotine dependence",
+                "Individual reasons for attrition"
+                );
+        List<Pair<String, Collection<AnnotatedAttributeValuePair>>> groundTruth = getGroundTruthForEvaluation_fromJson(refParser);
+        for (Pair<String, Collection<AnnotatedAttributeValuePair>> pairsPerDoc : groundTruth) {
+            String doc = pairsPerDoc.getKey();
+            Set<String> matchedTableSent = new HashSet();
+            Map<String, Set<String>> annotationPerContext = new HashMap();
+            for (ArmifiedAttributeValuePair cap : pairsPerDoc.getValue()) {
+                String annotation = cap.getValue();
+                String highlightedText = ((AnnotatedAttributeValuePair)cap).getHighlightedText();
+                String context = cap.getContext();
+                String attrName = cap.getAttribute().getName();
+                if (!targetedAttri.contains(cap.getAttribute().getName().trim())) {
+                    continue;
+                }
+                //annotated context
+                if (isContextFromTable(context)) {
+                    //context is from table
+                    continue;
+                }
+                if (context.isEmpty() || annotation.isEmpty()) {
+                    //context is empty
+                    continue;
+                }
+                if (cap.getAttribute().getId().equalsIgnoreCase("5730447")) {//arm name
+                    List<String> armNames = cap.getArm().getAllNames();
+                    annotation = "";
+                    for (String s : armNames) {
+                        annotation = s + "##" + cap.getAttribute().getName().trim();
+                        if (annotationPerContext.containsKey(context)) {
+                            annotationPerContext.get(context).add(annotation + "##" + cap.getAttribute().getName().trim());
+                        } else {
+                            Set<String> anno = Sets.newHashSet(annotation + "##" + cap.getAttribute().getName().trim());
+                            annotationPerContext.put(context, anno);
+                        }
+                    }
+                }else if(nameValueAttri.contains(cap.getAttribute().getName().trim())){
+                       AnnotatedAttributeNameNumberTriple nameNumber = (AnnotatedAttributeNameNumberTriple)cap;
+                       String name = nameNumber.getValueName();
+                       String value = nameNumber.getValueNumber();
+                       if(annotationPerContext.containsKey(context)){
+                                annotationPerContext.get(context).add(name + "##" + cap.getAttribute().getName().trim() + "-name");
+                                annotationPerContext.get(context).add(value + "##" + cap.getAttribute().getName().trim() + "-value");
+                        }else{
+                                Set<String> anno = Sets.newHashSet(name + "##" + cap.getAttribute().getName().trim() + "-name");
+                                anno.add(value + "##" + cap.getAttribute().getName().trim() + "-value");
+                                annotationPerContext.put(context, anno);
+                        }
+                }else {
+                    if (annotationPerContext.containsKey(context)) {
+                        annotationPerContext.get(context).add(annotation + "##"  + cap.getAttribute().getName().trim());
+                    } else {
+                        Set<String> anno = Sets.newHashSet(annotation + "##" + cap.getAttribute().getName().trim());
+                        annotationPerContext.put(context, anno);
+                    }
+                }
+            }
+            //write to file per doc
+
+            for (String context : annotationPerContext.keySet()) {
+                boolean problematicAnnotation = true;
+                List<String> splitsent = new ArrayList<>();
+                for(String str: context.split("( ; |\\.; |\\. ;|\\.;|\\.;|;;;)")){
+                    if(str.split(" ").length>100||(str.contains("\n")&&str.replaceAll("\n", " ").split(" ").length>=100)){
+                        for(String str1: str.split("(\\. |\\, \\(|; \\(|\\n|\n|\\?)")){
+                            splitsent.add(str1);
+                        }
+                    }else{
+                        splitsent.add(str.replaceAll("\n", " "));
+                    }
+                }
+                  for(String str: splitsent){
+                      if(str.contains("has a value of")) continue;
+                      if (str.split(" ").length >= 2) {
+                        str = splitDashBetweenNumbers(str);
+                        str = splitSlashBetweenNumbers(str);
+                        str = splitNumberth(str);
+                        str = splitDashBetweenTokens(str);
+                        Sentence sent = new Sentence(str);
+                        List<NERToken> annotation = getAnnotationOnSent(sent, annotationPerContext.get(context));
+                        if(annotation==null){
+                            //try to fix the partical annotation problem here, using the fixed annotation to match the context again
+                            String currentcontext = str; 
+                            Set<String> fixedAnnotation = new HashSet<>();
+                            for(String annoplustype:annotationPerContext.get(context)){
+                                String highlightedText = annoplustype.split("##")[0];
+                                String type = annoplustype.split("##")[1];
+                                String newhightlightedText = fixParticalAnnotation(currentcontext, highlightedText);
+                                fixedAnnotation.add(newhightlightedText + "##" + type);
+                            }
+                            annotation = getAnnotationOnSent(sent, fixedAnnotation);
+                        }
+                        if (annotation != null) {
+                           if(context.contains("has a value of")){
+                               continue;
+                           }
+                           
+                            
+                            List<String> results = generateMentionClassifierTrainingData(doc.replace(" ", "_"), annotation);
+                            if (traintest.get("train").contains(doc)) {
+                                for(String s: results){
+                                    writer1.append(s).append("\n");
+                                } 
+                            }
+                        }
+                    }
+                }
+            }
+        }
+     //write testing data
+        for(String doc: traintest.get("test")){
+            Map<Integer, List<ExtractedMention>> mentions = extractedMentions.get(doc);
+            if(mentions==null) continue;
+            System.err.println(doc + ":" + mentions.get(0).size());
+            for(Integer sentid: mentions.keySet()){
+                for(ExtractedMention men: mentions.get(sentid)){
+                    for(String attri: targetedAttri_mentionExp)
+                        writer2.append(doc.replace(" ", "_") + "\t" + men.sentconent + "\t" + men.mentioncontent + "\t" + attri + "\t" + "0").append("\n");
+                    }
+                } 
+            }
+        writer1.close();
+        writer2.close();
+    }
+ 
+    Set<String> targetedAttri_mentionExp = Sets.newHashSet(
+                "1.1.Goal setting (behavior)",
+                "1.2 Problem solving",
+                "1.4 Action planning",
+                "2.2 Feedback on behaviour",
+                "2.3 Self-monitoring of behavior",
+                "3.1 Social support (unspecified)",
+                "5.1 Information about health consequences",
+                "5.3 Information about social and environmental consequences",
+                "11.1 Pharmacological support",
+                "11.2 Reduce negative emotions",
+
+                "Arm name",
+                "Outcome value",
+                "Mean age",
+                "Proportion identifying as female gender",
+                "Mean number of times tobacco used",
+                "Proportion identifying as male gender",
+                "Proportion identifying as belonging to a specific ethnic group",
+                "Lower-level geographical region",
+                "Smoking",
+                "4.1 Instruction on how to perform the behavior",
+                
+                "Longest follow up",
+                "Effect size p value",
+                "Effect size estimate",
+                "Biochemical verification",
+                "Proportion employed",
+                "4.5. Advise to change behavior",
+                "Proportion achieved university or college education",
+                "Country of intervention",
+                "Self report",
+                "Odds Ratio",
+                
+                "Aggregate patient role",
+                "Aggregate health status type",
+                "Aggregate relationship status",
+                "Proportion in a legal marriage or union",
+                "Mean number of years in education completed",
+                "Proportion belonging to specified family or household income category",
+                "Proportion belonging to specified individual income category", 
+                "Healthcare facility", 
+                "Doctor-led primary care facility",
+                "Hospital facility",
+                
+                "Site",
+                "Individual-level allocated",
+                "Individual-level analysed",
+                "Face to face",
+                "Distance",
+                "Printed material",
+                "Digital content type",
+                "Website / Computer Program / App",
+                "Somatic",
+                "Patch",
+                
+                "Pill",
+                "Individual",
+                "Group-based",
+                "Health Professional",
+                "Psychologist",
+                "Researcher not otherwise specified",
+                "Interventionist not otherwise specified",
+                "Expertise of Source",
+                
+                //rank3
+                "Dose",
+                "Overall duration",
+                "Number of contacts",
+                "Contact frequency",
+                "Contact duration",
+                "Format",
+                "Nicotine dependence", 
+                "Cognitive Behavioural Therapy", 
+                "Mindfulness",
+                "Motivational Interviewing",
+                "Brief advice",
+                "Physical activity",
+                "Individual reasons for attrition",
+                "Encountered intervention",
+                "Completed intervention",
+                "Sessions delivered",
+                "Pharmaceutical company funding",
+                "Tobacco company funding",
+                "Research grant funding",
+                "No funding",
+                "Pharmaceutical company competing interest",
+                "Tobacco company competing interest",
+                "Research grant competing interest",
+                "No competing interest",
+                
+                "a specific ethnic group",
+                "Proportion identifying as belonging to a specific ethnic group",
+                "specified family or household income category",
+                "Proportion belonging to specified family or household income category",
+                "specified individual income category",
+                "Proportion belonging to specified individual income category",
+                "Aggregate relationship status name",
+                "Aggregate relationship status value",
+                "Nicotine dependence name",
+                "Nicotine dependence value",
+                "Individual reasons for attrition name",
+                "Individual reasons for attrition value"
+                );
+    
+    
+    public List<String> generateMentionClassifierTrainingData (String doc, List<NERToken> annotation){
+        List<String> results = new ArrayList();
+        List<String> mentionIndexWithType = new ArrayList();
+        Boolean mentionStart = false;
+        int index = 0;
+        int mentionStartIndex = 0;
+        int mentionEndIndex = 0;
+        String mentionType = "";
+        for(NERToken token: annotation){
+            if(!mentionStart&&token.nertag.contains("B-")){
+                mentionStart = true;
+                mentionStartIndex = index;
+                mentionType = token.nertag;
+	    }else if(mentionStart && token.nertag.contains("B")) {
+		mentionEndIndex = index-1;
+                mentionIndexWithType.add(mentionStartIndex + "#" + mentionEndIndex + "#" + mentionType);
+                mentionStart = true;
+                mentionType = token.nertag;
+                mentionStartIndex = index;
+                mentionEndIndex = 0;
+            }else if(mentionStart && token.nertag.contains("O")) {
+		mentionEndIndex = index -1;
+                mentionIndexWithType.add(mentionStartIndex + "#" + mentionEndIndex + "#" + mentionType);
+                mentionStart = false;
+                mentionType = "";
+                mentionStartIndex = 0;
+                mentionEndIndex = 0;
+            }
+            index = index + 1;
+	}
+        for(String s: mentionIndexWithType){
+            int start = Integer.valueOf(s.split("#")[0]);
+            int end = Integer.valueOf(s.split("#")[1]);
+            String type = s.split("#")[2];
+            String sent = "";
+            String spanContent = "";
+            for(int k = start; k<=end; k++) {
+		spanContent = spanContent + " " + annotation.get(k).word;
+            }
+	    spanContent = spanContent.trim();
+
+            for(int i=0; i< annotation.size(); i++){
+                NERToken token = annotation.get(i);
+                if(start==i && end==i){
+                    sent = sent + " [unused1] " + token.word + " [unused2]";
+                }else if(start ==i){
+                    sent = sent + " [unused1] " + token.word;
+                }else if(end ==i){
+                    sent = sent + " " + token.word + " [unused2]";
+                }else{
+                    sent = sent + " " + token.word;
+                }
+            }
+            type = type.replace("B-", "").replaceAll("_", "").replace("-", "").trim();
+            if(type.equalsIgnoreCase("Proportion identifying as belonging to a specific ethnic group name")){
+                type = "a specific ethnic group";
+            }
+            if(type.equalsIgnoreCase("Proportion identifying as belonging to a specific ethnic group value")){
+                type = "Proportion identifying as belonging to a specific ethnic group";
+            }
+            if(type.equalsIgnoreCase("Proportion belonging to specified family or household income category name")){
+                type = "specified family or household income category";
+            }
+            if(type.equalsIgnoreCase("Proportion belonging to specified family or household income category value")){
+                type = "Proportion belonging to specified family or household income category";
+            }
+            if(type.equalsIgnoreCase("Proportion belonging to specified individual income category name")){
+                type = "specified individual income category";
+            }
+            if(type.equalsIgnoreCase("Proportion belonging to specified individual income category value")){
+                type = "Proportion belonging to specified individual income category";
+            }
+            results.add(doc + "\t" + sent.trim() + "\t" +spanContent + "\t"+ type + "\t" + "1");
+            for(String attri: targetedAttri_mentionExp){
+                if(!type.equalsIgnoreCase(attri)){
+                    results.add(doc + "\t" + sent.trim() + "\t" + spanContent + "\t"+ attri + "\t" + "0");
+                }
+            }
+        }
+        return results;
+    }
 
     public void generateTrainTestData_BIO_Tagging() throws IOException, Exception {
         Map<String, List<String>> traintest = generateTrainingTestingFiles();
-        FileWriter writer1 = new FileWriter(new File(BaseDirInfo.getBaseDir() + "../flairExp/rank123Exp/train_rank123_augment1_newtablesent.csv"));
+        FileWriter writer1 = new FileWriter(new File(BaseDirInfo.getBaseDir() + "../flairExp/rank123Exp/train_rank123_oddsratio_wotablesent.csv"));
+//        FileWriter writer1 = new FileWriter(new File(BaseDirInfo.getBaseDir() + "../flairExp/rank123Exp/train_rank123_augment1_wotablesent.csv"));
+//        FileWriter writer1 = new FileWriter(new File(BaseDirInfo.getBaseDir() + "../flairExp/rank123Exp/train_rank123_augment1_newtablesent.csv"));
 //        FileWriter writer1 = new FileWriter(new File(BaseDirInfo.getBaseDir() + "../flairExp/rank123Exp/train_rank123_augment2.csv"));
 //        FileWriter writer1 = new FileWriter(new File(BaseDirInfo.getBaseDir() + "../flairExp/rank123Exp/train_rank123_augment1.csv"));
 //        FileWriter writer1 = new FileWriter(new File(BaseDirInfo.getBaseDir() + "../flairExp/rank123Exp/train_rank123_oldtablesent_moreoutcome.csv"));
 //        FileWriter writer1 = new FileWriter(new File(BaseDirInfo.getBaseDir() + "flairExp/train_rank12_wotable.csv"));
         StringBuffer sb1 = new StringBuffer();
-        FileWriter writer2 = new FileWriter(new File(BaseDirInfo.getBaseDir() + "../flairExp/rank123Exp/test_rank123_augment1_newtablesent.csv"));
+//        FileWriter writer2 = new FileWriter(new File(BaseDirInfo.getBaseDir() + "../flairExp/rank123Exp/test_rank123_augment1_newtablesent.csv"));
+         FileWriter writer2 = new FileWriter(new File(BaseDirInfo.getBaseDir() + "../flairExp/rank123Exp/test_rank123_oddsratio_wotablesent.csv"));
+//         FileWriter writer2 = new FileWriter(new File(BaseDirInfo.getBaseDir() + "../flairExp/rank123Exp/test_rank123_augment1_wotablesent.csv"));
 //        FileWriter writer2 = new FileWriter(new File(BaseDirInfo.getBaseDir() + "../flairExp/rank123Exp/test_rank123_augment2.csv"));
 //        FileWriter writer2 = new FileWriter(new File(BaseDirInfo.getBaseDir() + "../flairExp/rank123Exp/test_rank123_augment1.csv"));
 //        FileWriter writer2 = new FileWriter(new File(BaseDirInfo.getBaseDir() + "../flairExp/rank123Exp/test_rank123_oldtablesent_moreoutcome.csv"));
 //        FileWriter writer2 = new FileWriter(new File(BaseDirInfo.getBaseDir() + "flairExp/test_rank12_wotable.csv"));
         StringBuffer sb2 = new StringBuffer();
-        FileWriter writer4 = new FileWriter(new File(BaseDirInfo.getBaseDir() + "../flairExp/rank123Exp/unmatch_020420.txt"));
+        FileWriter writer4 = new FileWriter(new File(BaseDirInfo.getBaseDir() + "../flairExp/rank123Exp/unmatch_050220.txt"));
         StringBuffer sb4 = new StringBuffer();
         
         String testdir = "../data/All_512Papers_04March20_extracted_fixname23/";
@@ -547,7 +1177,7 @@ public class GenerateTrainingData_NameAsCategory {
 //        IndexManager index = getDefaultIndexManager(props);
 
 //priority rank1 + rank2 + rank3
-        Set<String> augmentAttri = Sets.newHashSet(
+        Set<String> augmentAttri1 = Sets.newHashSet(
                 "2.2 Feedback on behaviour",
                 "Doctor-led primary care facility",
                 "Patch",
@@ -571,13 +1201,18 @@ public class GenerateTrainingData_NameAsCategory {
                 "Encountered intervention",
                 "Sessions delivered"
         );
-        Set<String> augmentAttri_namevalue = Sets.newHashSet(
+        Set<String> augmentAttri_namevalue1 = Sets.newHashSet(
                 "Proportion belonging to specified family or household income category-name",
                 "Proportion belonging to specified individual income category-name",
                 "Aggregate relationship status-name",
                 "Proportion identifying as belonging to a specific ethnic group-name",
                 "Nicotine dependence-name"
         );
+        Set<String> augmentAttri_namevalue = Sets.newHashSet(
+        );
+        Set<String> augmentAttri = Sets.newHashSet(
+        );
+
         Set<String> targetedAttri1 = Sets.newHashSet("Arm name");
         Set<String> targetedAttri2 = Sets.newHashSet(
 //                "Proportion identifying as belonging to a specific ethnic group",
@@ -591,10 +1226,10 @@ public class GenerateTrainingData_NameAsCategory {
 //                "Proportion identifying as male gender"
 //                "2.2 Feedback on behaviour"
                 );
-        Set<String> nameValueAttri1 = Sets.newHashSet(
+        Set<String> nameValueAttri = Sets.newHashSet(
 //                "Proportion identifying as belonging to a specific ethnic group"
         );
-        Set<String> nameValueAttri = Sets.newHashSet(
+        Set<String> nameValueAttri1 = Sets.newHashSet(
                 "Proportion identifying as belonging to a specific ethnic group",
                 "Proportion belonging to specified family or household income category",
                 "Proportion belonging to specified individual income category",
@@ -607,6 +1242,10 @@ public class GenerateTrainingData_NameAsCategory {
 //                "Proportion identifying as belonging to a specific ethnic group"
         );        
         Set<String> targetedAttri = Sets.newHashSet(
+               "Odds Ratio"
+//                "Proportion identifying as belonging to a specific ethnic group"
+        );        
+        Set<String> targetedAttri4 = Sets.newHashSet(
 //                "Minimum age",
 //                "Maximum age",
 //                "All male",
@@ -623,7 +1262,7 @@ public class GenerateTrainingData_NameAsCategory {
                 "11.1 Pharmacological support",
                 "11.2 Reduce negative emotions",
 
-//                "Arm name",
+                "Arm name",
                 "Outcome value",
                 "Mean age",
                 "Proportion identifying as female gender",
@@ -840,7 +1479,7 @@ public class GenerateTrainingData_NameAsCategory {
 //                for (String str : context.split("( ; |.; |. ;|.;|.;)")) {
 //                for (String str : context.split("(;|,)")) {
                   for(String str: splitsent){
-//                      if(str.contains("has a value of")) continue;
+                      if(str.contains("has a value of")) continue;
                       if (str.split(" ").length >= 2) {
                         str = splitDashBetweenNumbers(str);
                         str = splitSlashBetweenNumbers(str);
@@ -955,28 +1594,28 @@ public class GenerateTrainingData_NameAsCategory {
             }
 //            System.err.print(matchedTableSent);
         //for table sentences, bring in all 'O' sentences
-            List<String> sents = generateTestingSentence(doc, testdir);
-            int tableSentCount = 0;
-            for(String sent: sents){
-                if(sent.contains("has a value of")&&!matchedTableSent.contains(sent)){
-                    Sentence tableSent = new Sentence(sent);
-                    List<Token> tokens_original = tableSent.tokens();
-                    tableSentCount++;
-                    if(tableSentCount>10) break;
-                    if(traintest.get("train").contains(doc)){ //training
-                        for(Token t: tokens_original){
-                            sb1.append(doc.replace(" ", "_") + "\t" + t.originalText() + "\t" + t.posTag() + "\t" + "O" + "\n");
-                        }
-                        sb1.append("\n");
-                    }else{ //testing
-                        for(Token t: tokens_original){
-                        sb2.append(doc.replace(" ", "_") + "\t" + t.originalText() + "\t" + t.posTag() + "\t" + "O" + "\n");
-                    }
-                        sb2.append("\n");
-                    }
-                     
-                }
-            }// add table sentences which do not have any annotations
+//            List<String> sents = generateTestingSentence(doc, testdir);
+//            int tableSentCount = 0;
+//            for(String sent: sents){
+//                if(sent.contains("has a value of")&&!matchedTableSent.contains(sent)){
+//                    Sentence tableSent = new Sentence(sent);
+//                    List<Token> tokens_original = tableSent.tokens();
+//                    tableSentCount++;
+//                    if(tableSentCount>10) break;
+//                    if(traintest.get("train").contains(doc)){ //training
+//                        for(Token t: tokens_original){
+//                            sb1.append(doc.replace(" ", "_") + "\t" + t.originalText() + "\t" + t.posTag() + "\t" + "O" + "\n");
+//                        }
+//                        sb1.append("\n");
+//                    }else{ //testing
+//                        for(Token t: tokens_original){
+//                        sb2.append(doc.replace(" ", "_") + "\t" + t.originalText() + "\t" + t.posTag() + "\t" + "O" + "\n");
+//                    }
+//                        sb2.append("\n");
+//                    }
+//                     
+//                }
+//            }// add table sentences which do not have any annotations
         }
         //add augenentated annotations in the training file
 //         for(String attribute: augmentAttri){
@@ -1115,21 +1754,21 @@ public class GenerateTrainingData_NameAsCategory {
         System.err.println("num of HBCP annotated instances:" + instanceNum_annotate);
         System.err.println("num of problematic annotated instances:" + problematicAnnotationCount);
 //generate real testing data
-//        for (String doc : traintest.get("test")) {
-//            List<String> sents = generateTestingSentence(doc, testdir);
-//            if(sents.isEmpty()){
-//                System.err.println(doc + ": no corresponding xml file");
-//                continue;
-//            }
-////            FileWriter writer3 = new FileWriter(new File(BaseDirInfo.getBaseDir() + "flairExp/testfile/" + doc + ".txt"));
-//            FileWriter writer3 = new FileWriter(new File(BaseDirInfo.getBaseDir() + "../flairExp/rank123Exp/testfile_rank123/" + doc + ".txt"));
-//            StringBuffer sb3 = new StringBuffer();
-//            for (String sent : sents) {
-//                sb3.append(sent).append("\n");
-//            }
-//            writer3.write(sb3.toString());
-//            writer3.close();
-//        }
+        for (String doc : traintest.get("test")) {
+            List<String> sents = generateTestingSentence(doc, testdir);
+            if(sents.isEmpty()){
+                System.err.println(doc + ": no corresponding xml file");
+                continue;
+            }
+//            FileWriter writer3 = new FileWriter(new File(BaseDirInfo.getBaseDir() + "flairExp/testfile/" + doc + ".txt"));
+            FileWriter writer3 = new FileWriter(new File(BaseDirInfo.getBaseDir() + "../flairExp/rank123Exp/testfile_rank123/" + doc + ".txt"));
+            StringBuffer sb3 = new StringBuffer();
+            for (String sent : sents) {
+                sb3.append(sent).append("\n");
+            }
+            writer3.write(sb3.toString());
+            writer3.close();
+        }
         for(String attri: stat.keySet()){
             System.err.println(attri + "\t" + stat.get(attri).get(0) + "\t" + stat.get(attri).get(1) + "\t" + stat.get(attri).get(2) + "\t" + stat.get(attri).get(3));
         }
@@ -1506,7 +2145,15 @@ public class GenerateTrainingData_NameAsCategory {
 //        System.err.println(generatorTrainTest.isContextFromTable(s1));
 //        System.err.println(generatorTrainTest.isContextFromTable(s2));
 
-          generatorTrainTest.generateTrainTestData_BIO_Tagging();
+         generatorTrainTest.generateTrainTestData_BIO_Tagging();
+
+//mention classification exp
+//        generate candidate mentions
+//          generatorTrainTest.generateTestingData_mention_classification();
+ //generate mention classification data
+//          generatorTrainTest.generateTrainingData_mention_classification();
+
+
 //        generatorTrainTest.generateTestingFileForPhysicalActivity("/Users/yhou/git/hbcp/data/Physical_Activity_extracted");
         
 //        generatorTrainTest.count();

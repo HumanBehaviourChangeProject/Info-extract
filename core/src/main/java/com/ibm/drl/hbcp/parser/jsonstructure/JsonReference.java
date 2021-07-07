@@ -10,5 +10,8 @@ public class JsonReference {
     private String title;
     private String shortTitle;
     private String Abstract;
-    private JsonCode[] codes = new JsonCode[0]; // empty codes can happen when the document has no annotation
+    // empty codes can happen when the document has no annotation
+    private JsonCode[] codes = new JsonCode[0];
+    // exclusively used in physical activity, not smoking cessation
+    private JsonOutcome[] outcomes = new JsonOutcome[0];
 }

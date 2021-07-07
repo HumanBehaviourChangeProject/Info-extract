@@ -200,11 +200,11 @@ public class ExtractorController extends SpringBootServletInitializer {
     protected String extractAllMulti(
             @ApiParam("Number of top passages to retrieve for aggregating the confidences of BCT presence")
             @RequestParam(value="ntoppassages", required= false, defaultValue = "5") Integer numTopPassagesToRetrieve,
-            @ApiParam("A comma separated list of window sizes to use, e.g. '10,20'")
+            @ApiParam("A comma separated list of window sizes to use, e.g. '10,20', only useful if using the unsupervised baseline")
             @RequestParam(value="wsizes", required= false, defaultValue = "10,20") String wsizes,
-            @ApiParam("A threshold value within the range of [0, 1] (e.g. 0.25)")
+            @ApiParam("A threshold value within the range of [0, 1] (e.g. 0.25), only useful if using the unsupervised baseline")
             @RequestParam(value="threshold", required= false, defaultValue = "0.2") Float threshold,
-            @ApiParam("Whether to use an ABBYY XML file as input instead of a PDF (true to use ABBYY, false to use raw PDF")
+            @ApiParam("Whether to use an ABBYY XML file as input instead of a PDF (true to use ABBYY .pdf.xml, false to use raw PDF")
             @RequestParam(value = "useAbbyy", required = false, defaultValue = "false") boolean useAbbyy,
             @ApiParam("Whether to use the faster, less accurate unsupervised extraction algorithm")
             @RequestParam(value = "useUnsupervisedBaseline", required = false, defaultValue = "false") boolean useUnsupervisedBaseline,

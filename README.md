@@ -1,5 +1,3 @@
-[![Build Status](https://staging.travis-ci.com/HumanBehaviourChangeProject/Info-extract.svg?branch=master)](https://staging.travis-ci.com/HumanBehaviourChangeProject/Info-extract)
-
 # Human Behaviour Change Project (HBCP)
 
 The Human Behaviour-Change Project (HBCP) is a collaboration between behavioral scientists, computer scientists and 

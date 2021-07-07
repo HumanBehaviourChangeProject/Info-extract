@@ -42,7 +42,6 @@ public class PdfParsingManager implements PdfToDocumentFunction {
                         List<Pair<RegisteredPdfParsers.PdfParser, ContentToUse>> res = new ArrayList<>();
                         res.add(Pair.of(RegisteredPdfParsers.PdfParser.ABBYY, ContentToUse.ALL));
                         res.add(Pair.of(RegisteredPdfParsers.PdfParser.TEXTRACT, ContentToUse.ONLY_TABLES));
-                        res.add(Pair.of(RegisteredPdfParsers.PdfParser.GROBID, ContentToUse.ALL));
                         return res;
                     }
                 },

@@ -9,7 +9,6 @@ import com.ibm.drl.hbcp.inforetrieval.indexer.PaperIndexerWithParser;
 import com.ibm.drl.hbcp.parser.pdf.Document;
 import com.ibm.drl.hbcp.parser.pdf.manager.PdfToAbbyyParse;
 import com.ibm.drl.hbcp.parser.pdf.manager.PdfToDocumentFunction;
-import com.ibm.drl.hbcp.parser.pdf.manager.PdfToGrobidParse;
 import com.ibm.drl.hbcp.parser.pdf.reparsing.ReparsePdfToDocument;
 import com.ibm.drl.hbcp.util.Props;
 import com.opencsv.CSVWriter;
@@ -42,8 +41,7 @@ public class AbbyyVsGrobidComparer {
     public AbbyyVsGrobidComparer() throws IOException {
         props = Props.loadProperties();
         parsers = Lists.newArrayList(
-                new PdfToAbbyyParse(props),
-                new PdfToGrobidParse()
+                new PdfToAbbyyParse(props)
         );
     }
 

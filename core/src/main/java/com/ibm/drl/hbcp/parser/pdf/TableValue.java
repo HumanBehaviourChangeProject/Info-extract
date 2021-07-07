@@ -36,9 +36,9 @@ public class TableValue implements Jsonable {
     public String toText() {
         return TEMPLATE
                 .replace("[row]",
-                        StringUtils.join(rowHeaders, ": "))
+                        StringUtils.join(getFilteredHeadersForTableSentence(rowHeaders), ": "))
                 .replace("[column]",
-                        StringUtils.join(columnHeaders, ": "))
+                        StringUtils.join(getFilteredHeadersForTableSentence(columnHeaders), ": "))
                 .replace("[value]", value.trim())
                 .replaceAll("[\\r\\n]+", "");
     }
@@ -51,9 +51,18 @@ public class TableValue implements Jsonable {
                 .collect(Collectors.toList());
     }
 
+    private List<String> getFilteredHeadersForTableSentence(List<String> headers) {
+        return headers.stream()
+                .filter(this::isValidSingleHeaderForTableSentence)
+                .collect(Collectors.toList());
+    }
+
     private boolean isValidSingleHeader(String header) {
-        return CONTAINS_LETTER_REGEX.matcher(header).find() &&
-                !header.toLowerCase().matches(".*table [0-9]+.*");
+        return CONTAINS_LETTER_REGEX.matcher(header).find();
+    }
+
+    private boolean isValidSingleHeaderForTableSentence(String header) {
+        return !header.toLowerCase().matches(".*table [0-9]+.*");
     }
 
     @Override
