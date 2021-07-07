@@ -83,8 +83,10 @@ public class AnnotatedAttributeValuePair extends ArmifiedAttributeValuePair {
     @Override
     public String toString() {
         // value and hightlighted text should be the same
-        return "{attributeId:" + attribute.getId() + ", attributeName:" + attribute.getName() + ", value:" + getSingleLineValue() + ", context:" + context
-                + ", docName:" + getDocName() + ", annotationPage:" + annotationPage + ", sprintNo:" + sprintNo + ", arm:" + arm + "}";
+        return "{attributeId:" + attribute.getId() + ", attributeName:" + attribute.getName() + ", value:" + getSingleLineValue()
+                + ", context:" + normalizeWhitespace(context)
+                + ", highlightedText: " + normalizeWhitespace(highlightedText)
+                + ", docName:" + getDocName() + ", arm:" + arm + "}";
     }
 
     protected String normalizeWhitespace(String s) { return s.replaceAll("\\s", " "); }

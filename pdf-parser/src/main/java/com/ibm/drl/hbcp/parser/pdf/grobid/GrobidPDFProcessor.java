@@ -44,6 +44,7 @@ import javax.xml.xpath.XPath;
 import javax.xml.xpath.XPathConstants;
 import javax.xml.xpath.XPathFactory;
 
+import org.apache.commons.lang3.tuple.Pair;
 import org.grobid.core.GrobidModels;
 import org.grobid.core.data.BiblioItem;
 import org.grobid.core.data.Figure;
@@ -63,7 +64,6 @@ import org.grobid.core.main.GrobidHomeFinder;
 import org.grobid.core.utilities.BoundingBoxCalculator;
 import org.grobid.core.utilities.GrobidProperties;
 import org.grobid.core.utilities.LayoutTokensUtil;
-import org.grobid.core.utilities.Pair;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 import org.w3c.dom.Node;
@@ -329,7 +329,7 @@ public class GrobidPDFProcessor {
             if (nNode.getNodeType() == Node.ELEMENT_NODE) {
                 Element eElement = (Element) nNode;
                 Node head = (Element) xpath.evaluate("head", eElement, XPathConstants.NODE);
-                String sectiontitle = head.getTextContent();
+                String sectiontitle = head != null ? head.getTextContent() : "";
                 String sectionParagraphs = "";
                 NodeList nList2 = ((Element) eElement).getElementsByTagName("p");
                 for (int j = 0; j < nList2.getLength(); j++) {
@@ -433,8 +433,8 @@ public class GrobidPDFProcessor {
             if (featSeg != null) {
                 // if featSeg is null, it usually means that no body segment is found in the
                 // document segmentation
-                String bodytext = featSeg.getA();
-                layoutTokenization = featSeg.getB();
+                String bodytext = featSeg.getLeft();
+                layoutTokenization = featSeg.getRight();
                 if ((bodytext != null) && (bodytext.trim().length() > 0)) {
                     rese = parsers.getFullTextParser().label(bodytext);
                 }

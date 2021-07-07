@@ -8,6 +8,7 @@ import com.ibm.drl.hbcp.parser.pdf.TableValue;
 import com.ibm.drl.hbcp.util.ParsingUtils;
 import lombok.Getter;
 import org.apache.commons.lang3.tuple.Pair;
+import org.jetbrains.annotations.NotNull;
 
 import java.util.*;
 import java.util.regex.Pattern;
@@ -33,19 +34,31 @@ public class TableValueFinder {
 
     public Optional<TableValue> findTableValue(AnnotatedAttributeValuePair avp) {
         // detect if this AVP was found in a table
-        Optional<TableAnnotationAnalyzer.TableAnnotationAnalysis> tableAnalysis = tableAnnotationAnalyzer.analyze(avp);
+        Optional<TableAnnotationAnalyzer.TableAnnotationAnalysis> tableAnalysis = getTableAnnotationAnalysis(avp);
         if (!tableAnalysis.isPresent())
             return Optional.empty();
-        if (tablePreprocessings.isEmpty()) // it means that the AVP actually wasn't in a table (false positive of the TableAnnotationAnalyzer)
+        if (tablePreprocessings.isEmpty()) // no tables detected in the document
             return Optional.empty();
         // find the table most likely to contain the value (by computing some kind of recall of the cells in the context)
         List<String> numbersInTableContext = tableAnalysis.get().getNumericCellSequences().stream()
                 .flatMap(List::stream)
                 .map(ParsingUtils::parseFirstDoubleString)
                 .collect(Collectors.toList());
-        List<TablePreprocessing> closestTables = findClosestTables(numbersInTableContext, tablePreprocessings);
+        List<TablePreprocessing> closestTables = findClosestTables(avp, numbersInTableContext, tablePreprocessings);
         // find the value in the ABBYY table
         return findCell(avp.getValue(), closestTables);
+    }
+
+    private Optional<TableAnnotationAnalyzer.TableAnnotationAnalysis> getTableAnnotationAnalysis(AnnotatedAttributeValuePair avp) {
+        Optional<TableAnnotationAnalyzer.TableAnnotationAnalysis> tableAnalysis = tableAnnotationAnalyzer.analyze(avp);
+        if (!tableAnalysis.isPresent() && isOtherTableValue(avp)) {
+            TableAnnotationAnalyzer.TableAnnotationAnalysis emptyAnalysis = new TableAnnotationAnalyzer.TableAnnotationAnalysis(
+                    avp,
+                    new ArrayList<>()
+            );
+            tableAnalysis = Optional.of(emptyAnalysis);
+        }
+        return tableAnalysis;
     }
 
     public Pair<List<TableValue>, List<TableValue>> getSameRowAndSameColumnValues(TableValue value) {
@@ -61,7 +74,35 @@ public class TableValueFinder {
         return Pair.of(sameRow, sameColumn);
     }
 
-    private List<TablePreprocessing> findClosestTables(List<String> numbersInTableContext, Map<Block, TablePreprocessing> tables) {
+    private List<TablePreprocessing> findClosestTables(AnnotatedAttributeValuePair avp,
+                                                       List<String> numbersInTableContext,
+                                                       Map<Block, TablePreprocessing> tables) {
+        List<TablePreprocessing> closestTables;
+        if (numbersInTableContext.isEmpty() && isOtherTableValue(avp)) {
+            // first use the Physical Activity convention (the more recent one):
+            // a table value has empty context (and the table caption has been added in "highlighted text")
+            String tableCaption = avp.getHighlightedText();
+            closestTables = findClosestTablesWithTableCaption(tableCaption, tables);
+        } else {
+            // then use the Smoking Cessation convention (the older one):
+            // the table value has a context with 3 rows of the table to help the locating of the table
+            closestTables = findClosestTablesWithContextNumbers(numbersInTableContext, tables);
+        }
+        return closestTables;
+    }
+
+    private List<TablePreprocessing> findClosestTablesWithTableCaption(String tableCaption, Map<Block, TablePreprocessing> tables) {
+        List<TablePreprocessing> res = new ArrayList<>();
+        for (Block table : tables.keySet()) {
+            TablePreprocessing preprocessedTable = tables.get(table);
+            if (tableHasHeader(preprocessedTable, tableCaption)) {
+                res.add(preprocessedTable);
+            }
+        }
+        return res;
+    }
+
+    private List<TablePreprocessing> findClosestTablesWithContextNumbers(List<String> numbersInTableContext, Map<Block, TablePreprocessing> tables) {
         List<TablePreprocessing> res = new ArrayList<>();
         long max = Long.MIN_VALUE;
         for (Block table : tables.keySet()) {
@@ -95,6 +136,14 @@ public class TableValueFinder {
         } else {
             return Optional.empty();
         }
+    }
+
+    /** Detects other types of table values that the TableAnnotationAnalyzer couldn't detect such as:
+     * table values in Physical Activity for which the convention is that the context stays empty
+     * and the table caption is found somewhere else */
+    private boolean isOtherTableValue(AnnotatedAttributeValuePair avp) {
+        // highlighted text will carry the table caption
+        return avp.getContext().isEmpty() && !avp.getHighlightedText().isEmpty();
     }
 
     private Map<Block, TablePreprocessing> preprocessAbbyyTable(Document document) {
@@ -131,6 +180,34 @@ public class TableValueFinder {
                 .distinct()
                 .filter(tableNumbers::contains)
                 .count();
+    }
+
+    private boolean tableHasHeader(TablePreprocessing table, String searchString) {
+        Set<String> headers = getHeaders(table);
+        for (String header : headers) {
+            if (headerMatchesSearchString(header, searchString)) {
+                return true;
+            }
+        }
+        return false;
+    }
+
+    private Set<String> getHeaders(TablePreprocessing table) {
+        Set<String> res = new HashSet<>();
+        for (TableValue value : table.getTable()) {
+            res.addAll(value.getRowHeaders());
+            res.addAll(value.getColumnHeaders());
+        }
+        return res;
+    }
+
+    private boolean headerMatchesSearchString(@NotNull String header, String searchString) {
+        // soft match on the start of the string
+        if (header.length() < "Table X".length()) {
+            return header.equals(searchString);
+        } else {
+            return searchString.startsWith(header);
+        }
     }
 
     public static String escapeRegex(String pattern) {

@@ -51,9 +51,12 @@ public class GrobidParser implements PdfAnalysisOutput {
 
     private static class TableBlock implements Block {
         @Getter
+        private final String tableCaption;
+        @Getter
         private final List<TableValue> table;
 
         TableBlock(NLPLeaderboardTable table) {
+            tableCaption = firstLine(joinTokens(table.getCaptionLayoutTokens()));
             this.table = table.getNumberCells().stream()
                     .map(this::convert)
                     .collect(Collectors.toList());
@@ -70,6 +73,11 @@ public class GrobidParser implements PdfAnalysisOutput {
             List<String> columnHeaders = cell.associatedTags_column.values().stream()
                     .map(tableCell -> joinTokens(tableCell.lt))
                     .collect(Collectors.toList());
+            // we artificially add the table caption at the start of the column headers
+            // mimicking if the table title was contained in a fictitious single-cell first row
+            columnHeaders = new ArrayList<>(columnHeaders);
+            if (tableCaption != null && (columnHeaders.isEmpty() || !columnHeaders.get(0).equals(tableCaption)))
+                columnHeaders.add(0, tableCaption);
             return new TableValue(text, rowHeaders, columnHeaders, this);
         }
 
@@ -85,7 +93,7 @@ public class GrobidParser implements PdfAnalysisOutput {
                     sb.append(delimiters.get(i));
                 }
                 sb.append(tokens.get(tokens.size() - 1));
-                return sb.toString();
+                return sb.toString().replaceAll("  +", " ");
             } else {
                 return tokens.stream()
                         .map(LayoutToken::getText)
@@ -110,6 +118,10 @@ public class GrobidParser implements PdfAnalysisOutput {
             }
         }
 
+        private static String firstLine(String text) {
+            return text.split("\\n")[0];
+        }
+
         @Override
         public Type getType() { return Type.TABLE; }
 
@@ -123,7 +135,7 @@ public class GrobidParser implements PdfAnalysisOutput {
     }
 
     public static void main(String[] args) throws Exception {
-        File folderBase = new File("data/All_512Papers_04March20/All_512Papers_04March20/");
+        File folderBase = new File("data/pdfs_PA");
         for (File pdf : folderBase.listFiles()) {
             if (pdf.getName().endsWith(".pdf")) {
                 try {
@@ -131,10 +143,13 @@ public class GrobidParser implements PdfAnalysisOutput {
                     // this is to get an object you can manipulate with code
                     Document doc = parser.getDocument();
                     // this is to write the result of the parsing in a JSON format (the one that's "universally" used for all PDF parsers)
-                    doc.writeToFile(new File("data/All_512Papers_04March20_extracted/" + pdf.getName() + ".json"));
+                    doc.writeToFile(new File("data/pdfs_PA_extracted_Grobid/" + pdf.getName() + ".json"));
                     System.out.println(pdf.getName() + " parsed.");
                 } catch (GrobidException e) {
                     System.err.println("Grobid couldn't parse " + pdf.getName());
+                    e.printStackTrace();
+                } catch (Exception e) {
+                    System.err.println("Unexpected exception thrown by Grobid.");
                     e.printStackTrace();
                 }
             }

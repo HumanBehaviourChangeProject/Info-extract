@@ -14,7 +14,6 @@ import com.ibm.drl.hbcp.parser.pdf.Document;
 import com.ibm.drl.hbcp.parser.pdf.TableValue;
 import com.ibm.drl.hbcp.parser.pdf.manager.PdfToAbbyyParse;
 import com.ibm.drl.hbcp.parser.pdf.manager.PdfToDocumentFunction;
-import com.ibm.drl.hbcp.parser.pdf.manager.PdfToGrobidParse;
 import com.ibm.drl.hbcp.parser.pdf.reparsing.ReparsePdfToDocument;
 import com.ibm.drl.hbcp.util.ParsingUtils;
 import com.ibm.drl.hbcp.util.Props;
@@ -41,7 +40,7 @@ public class GrobidRecall {
     public GrobidRecall(Properties props) {
         this.props = props;
         abbyyParser = new PdfToAbbyyParse(props);
-        grobidParser = new PdfToGrobidParse();
+        grobidParser = new PdfToAbbyyParse(props);
         reparseParser = new ReparsePdfToDocument(ABBYY_PDF_BY_GROBID_FOLDER);
     }
 

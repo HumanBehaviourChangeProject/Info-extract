@@ -1,0 +1,25 @@
+/target/
+/data/
+
+# Binaries
+*.class
+
+# eclipse project file
+.settings/
+.classpath
+.project
+
+# IntelliJ IDE
+.idea/
+hbcpIE.iml
+hbcp-core.iml
+
+# Grobid-related files/folders
+/grobid-*
+grobid.log*
+
+# NetBeans IDE
+
+/nbproject/
+nb-configuration.xml
+nbactions.xml

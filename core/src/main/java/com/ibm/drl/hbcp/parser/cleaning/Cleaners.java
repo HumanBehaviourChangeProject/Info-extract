@@ -27,9 +27,11 @@ public class Cleaners implements Cleaner {
         List<String> predefinedNumericAttributeIds = Arrays.asList(properties.getProperty("prediction.attribtype.numerical").split(","));
         cleaners = Lists.newArrayList(
                 new NEqualsArtifactCleaner(),
+                new ExoticCharacterCleaner(),
                 new ValueCompletionCleaner(),
                 new NumericValueCleaner(predefinedNumericAttributeIds),
                 new ContextCompletionCleaner(properties, predefinedNumericAttributeIds),
+                new EmptyContextStandardizingCleaner(),
                 new ContextInTableCleaner(properties)
         );
     }

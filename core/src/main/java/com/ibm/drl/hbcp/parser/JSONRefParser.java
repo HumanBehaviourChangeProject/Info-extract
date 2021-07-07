@@ -12,10 +12,7 @@ import com.ibm.drl.hbcp.core.attributes.AttributeType;
 import com.ibm.drl.hbcp.core.attributes.collection.AttributeValueCollection;
 import com.ibm.drl.hbcp.inforetrieval.indexer.BaseDirInfo;
 import com.ibm.drl.hbcp.parser.cleaning.typing.LineConsistencyChecker;
-import com.ibm.drl.hbcp.parser.jsonstructure.JsonAnnotationFile;
-import com.ibm.drl.hbcp.parser.jsonstructure.JsonCode;
-import com.ibm.drl.hbcp.parser.jsonstructure.JsonItemAttributeFullTextDetail;
-import com.ibm.drl.hbcp.parser.jsonstructure.JsonReference;
+import com.ibm.drl.hbcp.parser.jsonstructure.*;
 import com.ibm.drl.hbcp.util.FileUtils;
 import com.ibm.drl.hbcp.util.ParsingUtils;
 import com.ibm.drl.hbcp.util.Props;
@@ -173,6 +170,12 @@ public class JSONRefParser implements JSONRefParserBase {
                         res.addAll(getAttributeValuePairs(code, reference.getItemId()));
                 }
             }
+            // separate handling of outcomes (only used for physical activity)
+            if (reference.getOutcomes() != null) {
+                for (JsonOutcome outcome : reference.getOutcomes()) {
+                    res.addAll(getAttributeValuePairs(outcome, reference));
+                }
+            }
         }
         return res;
     }
@@ -246,18 +249,56 @@ public class JSONRefParser implements JSONRefParserBase {
                     new AnnotatedAttributeValuePair(attribute, highlightedText, docName, finalArm, context, highlightedText, finalSprintNo, finalAnnotationPage)
             );
         }
+    }
 
+    private List<AnnotatedAttributeValuePair> getAttributeValuePairs(JsonOutcome outcome, JsonReference reference) {
+        Optional<String> docNameTrue = getFirstDocname(reference);
+        String docName = docNameTrue.orElse(outcome.getShortTitle());
+        // we use the highlighted text to put the table caption
+        String highlightedText = outcome.getOutcomeDescription();
+        Arm arm1 = getAssignedArm(outcome.getItemArmIdGrp1(), outcome.getGrp1ArmName());
+        Arm arm2 = getAssignedArm(outcome.getItemArmIdGrp2(), outcome.getGrp2ArmName());
+        // outcome values
+        Attribute ovAttribute = attributes.getFromName("Outcome value");
+        AnnotatedAttributeValuePair ov1 = new AnnotatedAttributeValuePair(ovAttribute, outcome.getData3(),
+                docName, arm1, "", highlightedText, "", 0);
+        AnnotatedAttributeValuePair ov2 = new AnnotatedAttributeValuePair(ovAttribute, outcome.getData4(),
+                docName, arm2, "", highlightedText, "", 0);
+        // timepoints
+        Attribute timepointAttribute = attributes.getFromName("Longest follow up");
+        AnnotatedAttributeValuePair tp1 = new AnnotatedAttributeValuePair(timepointAttribute, outcome.getTimepointString(),
+                docName, arm1, "", highlightedText, "", 0);
+        AnnotatedAttributeValuePair tp2 = new AnnotatedAttributeValuePair(timepointAttribute, outcome.getTimepointString(),
+                docName, arm2, "", highlightedText, "", 0);
+        // timepoint units
+        Attribute timepointUnitAttribute = attributes.getFromName("Longest follow up (metric)");
+        AnnotatedAttributeValuePair tpUnit1 = new AnnotatedAttributeValuePair(timepointUnitAttribute, outcome.getItemTimepointMetric(),
+                docName, arm1, "", highlightedText, "", 0);
+        AnnotatedAttributeValuePair tpUnit2 = new AnnotatedAttributeValuePair(timepointUnitAttribute, outcome.getItemTimepointMetric(),
+                docName, arm2, "", highlightedText, "", 0);
+        // sample size
+        Attribute samplesizeAttribute = attributes.getFromName("Individual-level analysed");
+        AnnotatedAttributeValuePair ss1 = new AnnotatedAttributeValuePair(samplesizeAttribute, outcome.getData1(),
+                docName, arm1, "", highlightedText, "", 0);
+        AnnotatedAttributeValuePair ss2 = new AnnotatedAttributeValuePair(samplesizeAttribute, outcome.getData2(),
+                docName, arm2, "", highlightedText, "", 0);
+        // TODO: anything else?
+        return Lists.newArrayList(ov1, ov2, tp1, tp2, tpUnit1, tpUnit2, ss1, ss2);
     }
 
     protected Arm getAssignedArm(JsonCode code, int itemId) {
         int armId = isArmifiedBasedOnItemId ? itemId : (isArmified ? code.getArmId() : 0);
+        return getAssignedArm(armId, code.getArmTitle());
+    }
+
+    protected Arm getAssignedArm(int armId, String armTitle) {
         Arm arm = arms.get(armId);
         if (arm == null) {
             // this means the arm is implicit in the document (not annotated/declared), we add it on-the-fly
             // this is an expected behavior
-            arm = new Arm(String.valueOf(code.getArmId()), code.getArmTitle());
-            logger.debug("Arm {} was implicit (not declared/annotated).", code.getArmId());
-            arms.put(code.getArmId(), arm);
+            arm = new Arm(String.valueOf(armId), armTitle);
+            logger.debug("Arm {} was implicit (not declared/annotated).", armId);
+            arms.put(armId, arm);
         }
         return arm;
     }
@@ -497,14 +538,44 @@ public class JSONRefParser implements JSONRefParserBase {
         }
     }
 
+    public static void outcomeValuesStats() throws IOException {
+        JSONRefParser parser = new JSONRefParser(new File("../data/jsons/All_annotations_512papers_05March20.json"));
+        double total = 0;
+        List<Double> values = new ArrayList<>();
+        // compute mean
+        double mean = 0.0;
+        for (AnnotatedAttributeValuePair outcome : parser.getAttributeValuePairs().byId().get(Attributes.get().getFromName("Outcome value").getId())) {
+            try {
+                double value = ParsingUtils.parseFirstDouble(outcome.getValue());
+                mean += value;
+                values.add(value);
+                total++;
+            } catch (NumberFormatException e) {
+
+            }
+        }
+        mean /= total;
+        // compute SD
+        double sd = 0.0;
+        for (double value : values) {
+            sd += (value - mean) * (value - mean);
+        }
+        sd /= total;
+        sd = Math.sqrt(sd);
+        System.out.println("Mean = " + mean);
+        System.out.println("SD = " + sd);
+    }
+
     public static void countAttributes() throws IOException {
         JSONRefParser parser = new JSONRefParser(new File("../data/jsons/All_annotations_512papers_05March20.json"));
         System.out.println("Attribute count: " + parser.getAttributeValuePairs().getAllAttributeIds().size());
     }
 
     public static void countAttributesPA() throws IOException {
-        JSONRefParser parser = new JSONRefParser(new File("../data/jsons/PhysicalActivity Sprint1ArmsAnd Prioritised47Papers.json"));
-        System.out.println("Attribute count for PA: " + parser.getAttributeValuePairs().getAllAttributeIds().size());
+        JSONRefParser parser = new JSONRefParser(new File("data/PhysicalActivity Sprint1ArmsAnd Prioritised47Papers.json"));
+        System.out.println("Docs: " + parser.getAttributeValuePairs().getDocNames().size());
+        parser = new JSONRefParser(new File("data/Batch2PhysicalActivityPrioritisedCodeset.json"));
+        System.out.println("Docs: " + parser.getAttributeValuePairs().getDocNames().size());
     }
 
     public static void mainTableGrammar() throws IOException {
@@ -537,7 +608,7 @@ public class JSONRefParser implements JSONRefParserBase {
     public static void main(String[] args) throws IOException {
         //mainTableGrammar();
         //countAttributes();
-        //countAttributesPA();
-        displayReachAttributes();
+        countAttributesPA();
+        //outcomeValuesStats();
     }
 }
