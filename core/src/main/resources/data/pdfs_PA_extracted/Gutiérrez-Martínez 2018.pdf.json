@@ -1,0 +1,2634 @@
+{
+  "blocks": [
+    {
+      "type": "LINES",
+      "value": "Effects of a strategy for the promotion of physical activity in students from Bogotá",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "To examine the effect of the promotion of physical activity during recess on the levels of physical activity, sedentary behaviors, and adiposity of Colombian students.\nThree schools were randomly selected by an intervention group in Bogotá, Colombia, in 2013: Intervention (Active Module of Active Recess -MARA) + Text Messages (SMS) (MARA+SMS group), intervention (MARA group), control (control group). Intervention was implemented for ten weeks. The duration and intensity of physical activity and sedentary behaviors were measured objectively using accelerometers Actigraph-GT3X+. Adiposity was measured by body mass index and fat percentage. We measured at baseline (T0) and during the tenth week of intervention (T1). We evaluated the effect of the intervention using a difference-in-difference analysis (DID).\nWe included 120 students (57.5% girls; mean age = 10.5 years; standard deviation [SD] = 0.64). There was a significant increase in the mean daily minutes of moderate to vigorous physical activity in the MARA group (Difference T1-T0 = 6.1 minutes, standard error [SE] = 3.49, p = 0.005) in relation to the control group. There were no significant changes in the minutes of moderate to vigorous physical activity in the MARA+SMS group (Difference T1-T0 = -1.0 minute; SE = 3.06; p = 0.363). The minutes decreased in the control group (Difference T1-T0 = -7.7 minutes; SE = 3.15; p = 0.011). The minutes of sedentary behaviors decreased in the MARA and MARA+SMS groups and increased in the control group (MARA Difference T1-T0 = -15.8 minutes; SE = 10.05; p= 0.279; MARA+SMS Difference T1-T0 = -11.5 minutes; SE = 8.80; p= 0.869; Control Difference T1-T0 = 10.9 minutes; SE = 9.07; p = 0.407). There was a higher participation in the MARA group in relation to the MARA+SMS group (MARA group = 34.4%; MARA+SMS group = 12.1%). There were no significant changes in adiposity at 10 weeks according to difference-in-differences analysis (body mass index p: ΔMARA+SMS group versus Δcontrol group = 0.945, ΔMARA group versus Δcontrol group = 0.847, ΔMARA+SMS group versus ΔMARA group = 0.990; FP p ΔMARA+SMS group versus Δcontrol group = 0.788, ΔMARA group versus Δcontrol group = 0.915, ΔMARA+SMS group versus ΔMARA group = 0.975).\nThe Active Module of Active Recess is a promising strategy to increase physical activity levels and decrease sedentary behavior in students. The addition of Text Messages was not associated with increased moderate to vigorous physical activity or changes in adiposity.",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Childhood overweight and obesity area global public health problem and at least 10% of the children in the world are overweight or obese . Between 22.5 and 25.9 million children suffer from overweight or obesity in Latin America , and this number reaches one in six children and adolescents aged between five and seventeen years in Colombia . The promotion of physical activity (PA) and the decrease of the time dedicated to sedentary behaviors (SB) are fundamental in preventing childhood obesity . However, 74% of the population aged between 13 and 17 years do not follow the recommendations of PA and 57.9% of the children aged between five and 12 years dedicate two hours per day or more to SB in Colombia . Physical education classes and recess time are fundamental for the promotion of PA in students, since children and adolescents spend between six and eight hours a day in school . Consequently, strategies involving recess time are promising interventions for the promotion of PA in students .\nThe incorporation of information technologies has shown the potential to promote healthy lifestyles and health-related structural changes, such as text messages (SMS) that encourage healthy behaviors through immediate feedback and advice .\nPolicies exist to extend the student journey in Colombia, strengthening areas such as mathematics, natural sciences, and English, but they do not include PA or sports activities . However, Bogota was a model for the promotion of PA in students through district programs aimed at the school community . Successful local experiences of community programs in urban settings have been described , but studies on the impact of interventions together with SMS to promote PA and decrease SB in student settings are limited. Therefore, the objective of this study was to examine the effect of a intervention for the promotion of PA during recess, intensified by a SMS strategy, on the levels of PA, SB, and adiposity in students from Bogotá.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "This is a randomized community trial carried outwith fifth grade students from three schools located in San Cristóbal in Bogotá, DC, Colombia, between July and November 2013.\nThe included schools were selected from the 20 eligible schools of the International Study of Childhood Obesity, Lifestyles, and the Environment (ISCOLE) . We performed a previous random sampling with the dimensions of socioeconomic level (1, 2, and 3), number of students, level of self-reported PA in a previous study (4.9%-11.8% of compliance with the recommendations of moderate to vigorous physical activity [MVPA]), and distance from the school to the Ciclovia (< 1 km). The Ciclovia is a program which temporarily closes the streets to all motorized transport allowing only the access to persons for recreational activities . The number of included schools was determined by the availability of resources for the new implementation of the Active Module of Active Recess (MARA) by the District Institute of Recreation and Sport (IDRD).\nThe intervention was part of the multi-component program named Movam Se Estudantes of the IDRD of Bogotá. This strategy seeks to promote PA in students by integrating elements, structured activities, and supervision. The activities were designed to improve cardiovascular capacity, speed, muscle strength, coordination, and teamwork skills .\nThe MARA module transformed the usual recess space with standardized activities lasting 20 minutes from the 30 minutes of the usual recess time, three times a week for 10 weeks. The MARA module included 30 PA sessions that combined games with elements such as bows, balls, hoops, ladders, parachutes, tablecloths, rumba, and gaming sessions. In case of unforeseen circumstances to carryout the programmed activity, an alternative was used. All sessions were directed and supervised by the PA managers of the IDRD a .\na For the material with the programmed activities, please contact the corresponding author.\nThe MARA+SMS group received a daily SMS to promote the participation of the students in the intervention and its dissemination among partners, to motivate the performance of the PA in the context outside school and with the family, and to encourage a healthy diet. The SMS written by expert psychologists were sent to the cell phones of parents and some students, according to the approval of parents and the instruction of the Ethics Committee of the Universidade dos Andes. Parents were asked to show their children every SMS received, if the participant did not receive it directly.\nThe three selected schools were randomly chosen for an intervention or control group: intervention at recess time (MARA) together with SMS (MARA+SMS group), intervention only (MARA group), and control group (control group) (Figure) without any intervention. Data were collected in two periods: before the beginning of the intervention (T0) and during the tenth week of intervention (T1). There was no risk of contamination for the control group as the school was located more than 1 km from the intervention schools, and the implementation of the strategy depended on IDRD personnel.    The levels of PA and SB were objectively measured using accelerometers Actigraph GT3X+ (ActiGraph, Pensacola, FL). The accelerometer was used in an elastic belt over the right midaxillary line. Students were instructed to use the accelerometer 24 hours a day for at least seven days, after one day of familiarization, including two weekend days. The minimum acceptable amount of valid accelerometry data included three weekdays, with at least 10 hours of daily use. In the work days, we did not take into account weekend days, since the evaluated intervention was performed on weekdays. The data were compiled with a sampling frequency of 80 Hz, downloaded in one-second epochs and grouped in 15-second epochs for analysis . After data collection, we validated the time of use with software R3.2.3.\nAccording to Evenson cut-off points, we defined MVPA as ≥ 574 counts per 15 seconds and physical inactivity as ≤ 25 counts per 15-second epochs . We encouraged the daily use of the accelerometer with decals that the students put on these devices or their journals.\nWe performed the following anthropometric measurements: size, weight, fat percentage (FP), abdominal perimeter, and the middle third of the arm. Participant size was measured using the portable stadiometer Seca 230 (Hamburg, Germany), using the Frankfort plan. Weight and FP, calculated by bipolar electrical bioimpedance (EBI), were measured using the Portable Body Composition Analyzer Tanita SC-240 (Arlington Heights, IL). Each measurement was taken twice and the mean was used for the analyses. Body mass index (BMI) was calculated using the formula weight (kg)/height 2 (m 2 ). We determined the nutritional status of the children according to BMI using the z-scores derived from the standard deviation (SD) of the measurement, established in the growth patterns of the World Health Organization (WHO) ; we grouped risk of thinness and thinness.\nThe sociodemographic variables included were: sex, age, socioeconomic level, education level, and marital status of the parents. In Bogotá, socioeconomic level is classified from one (low-low) to six (high) according to the characteristics of the households, being 1-2-3 the lowest levels . This information was reported by parents using the sociodemographic and family information questionnaire. Age was calculated with the date of birth and the date of the anthropometric measurements. We evaluated behaviors related to PA, physical inactivity, and eating habits using the diet and lifestyle questionnaire designed for the ISCOLE study and adapted for this study . This questionnaire was administered by a researcher to each participant during intervention days. Some questions related to daily PA and physical inactivity were adapted from the American Youth Risk Behavior Surveillance System (YRBSS) . We designed a component to question the time and type of activities during recess and a satisfaction module about MARA.\nStatistical analysis was performed in four phases. First, we carried out a univariate analysis to describe the sociodemographic characteristics, type and frequency of the activities during recess, consumption of food, and anthropometric characteristics. Daily and weekday PA and SB were evaluated as a continuous variable, in mean minutes, with previous log transformation, since the data did not present a normal distribution. Second, we evaluated heterogeneity between groups (MARA+SMS group versus MARA group versus control group) using Fisher homogeneity test for categorical variables and ANOVA for continuous variables. Third, we performed a bivariate and multivariate analysis with intention-to-treat analysis for students with valid accelerometry data using mixed multilevel models -individual and school -adjusted for sex and age. We evaluated the effect of the intervention using a difference-in-differences analysis (DID) of absolute values, with the models proposed in the previous step, to compare the changes in the levels of PA, SB, and adiposity overtime (T0 versus T1) among the three study groups. All possible combinations were considered: MARA+SMS group versus control group, MARA group versus control group, MARA+SMS group versus MARA group.\nWe compared the intensity of some types of activities implemented in MARA by plotting the mean counts per minute of the assistants of a session of each activity in one of the schools involved, using software R3.2.3. Statistical analysis was performed in SAS 9.3 and Stata 13. Data on the continuous PA variables were expressed as means.\nThe strategy implementation processes were evaluated with eleven semi-structured interviews with the teachers of the participating schools and members of the IDRD team. These interviews were recorded in audio and transcribed verbatim. We took notes when the interviewee did not agree to be recorded. We reviewed the project documents, including protocol, meeting minutes, fieldwork formats, service lists, and SMS. We qualitatively evaluated the process, context, and conditions of the research implementation in these documents. In addition, we analyzed the service lists to understand the dynamics of student participation in the proposed activities.\nWe sent informed consents to the schools and parents or guardians of potential participants to authorize their inclusion in the study. Similarly, students signed an informed consent accepting their participation. The study was approved by the ethics committee of the Universidade dos Andes (Process 214-2013).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The total sample consisted of 184 students, and 45.7% complied with the recommendations of PA, according to the mean daily MVPA obtained with accelerometry (MARA+SMS group = 43.9%; MARA group = 31.7%; control group = 59.7%; p = 0.844).\nThere were no significant differences between groups, except for socioeconomic level. The MARA+SMS group had a higher percentage of boys living in level 3 households (Table). There were no statistically significant differences between the groups for the indicators of adiposity evaluated neither for the daily consumption of fruits and vegetables or high-calorie food reported (Table).).\nParachute activity reached the highest levels of PA compared to other activities (Figure).\nPreference was reported for activities that included games with balls (37.1%), games with parachute (21.4%), and rumba (15.7%). Additionally, 47.2% identified MARA as an opportunity to do PA during recess and 94.4% reported interest in keeping doing it.\nThe environmental, safety, and time factors were the main reasons for no participation in MARA. Approximately 40.0% of the students reported not doing any PA because of an environmental factor (26.6% because of the cold; 12.5% because of the heat). Approximately 10.0% thought it was dangerous to play at recess. Approximately 10.0% of the children reported that recess time and facilities were not enough.\nThe physical environment, characteristics of the student (ages, preferences, course composition), and type of activity were identified as relevant factors that affected MARA acceptance and participation. The most successful activities identified by the teachers and members of the IDRD were those involving the following elements: parachutes, bows or balls, those related to skills, running, with a lot of movement, and rumba.\nAnother important factor associated with the implementation and acceptability of the intervention was the work of PA managers in the follow-up of the intervention. Specifically, b Socioeconomic level goes from 1 (low-low) to 6 (high) according to the characteristics of the households, and 1-2-3 are the lowest levels. The sum of the observations is not equal to total n because of missing values. The categories were defined according to the z-scores established in the growth patterns of the World Health Organization (WHO): z < -2 SD thinness; -2 SD < z < -1 DE risk of thinness; -1 SD < z < 1 SD appropriate forage; 1 SD < z < 2 SD overweight; z > 2 SD obesity. e MVPA: moderate to vigorous physical activity. These results were obtained by accelerometry with n = 120.\nthe constant presence of a team of managers created a safe environment for students, which allowed them to identify with MARA and keep their participation overtime. However, the presence of younger students in the MARA was identified as a factor so that the target age group of MARA did not get involved.\nTeachers reported that the SMS strategy worked to reinforce the self-esteem of students by their recognition from someone perceived as an external authority figure (the research group). Barriers were identified that might mitigate the effect of the SMS, including difficulties in receiving SMS, lack of interest in MARA or SMS, and perception of an inadequate physical environment.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The main finding of this study is the potential of MARA to increase the minutes of daily MVPA and decrease the minutes of SB in students. The increase of 6.1 minutes in daily MVPA reported in the MARA group represents 10.1% of the recommended daily time for this age group, together with a decrease between 11.5 and 15.8 minutes in SB in the groups with intervention. These results contrast with the decrease in the minutes of MVPA and the increase of SB in the control group. Regardless of the group, there was no effect on the indicators of adiposity.\nOur results are consistent with those reported in previous studies on interventions during recess . Howe et al. have shown that the participation of students in an intervention with structured recess could contribute with an increase of 8±1.1 minutes of MVPA, that is, an increase from 6.9 (SD = 0.8) to 14.9 (SD = 0.9) minutes in a 30-minute recess. Ridgers et al. have found that an intervention with redesign of play spaces during recess resulted in an increase of 4.5% in MVPA and 2.3% in vigorous PA during recess. In addition, a systematic review has included nine controlled trials that have evaluated interventions to promote PA during recess. This study has reported an increase in MVPA (between 4.0% and 12.9%) when they were implemented with play elements and marking of areas .\nOn the other hand, the lack of effect on the indicators of adiposity is debatable in light of the available evidence. The lack of consensus was attributed to the high heterogeneity of duration, intensity, and type of PA of the interventions . A meta-analysis has included 18 studies with interventions in primary school students involving a central component of PA and lasting between 12 and 72 months. This study has exposed the potential of these interventions fora healthy BMI despite the high heterogeneity among the included studies . Therefore, it is possible that the duration of MARA has not been enough to achieve changes in the indicators of adiposity.\nThe participation of children in PA was associated with entertainment and being appropriate forage . In this study, we obtained a percentage of participation of 34.4% in the MARA group compared to 12.1% in the MARA+SMS group. This suggests an association between participation and increased minutes of PA. According to the satisfaction survey and the process analysis, the perception of disagreement between the age of the students   and the proposed activities, as well as the physical environment, negatively affected the participation in MARA. The MARA group had a better physical environment in terms of size and accessibility compared to the MARA+SMS group. This difference could affect the participation in each group, since the students in schools with better physical surroundings got involved up to 20 minutes more in MVPA per week .\nThe SMS communication strategy was not associated with an increase in the minutes of PA or changes in the indicators of adiposity. In this sense, the success of this strategy is in its ability to reach an emotional level in the person, in addition to communicating a risk .\nIn this study, although 97.7% of the students reported receiving the SMS, they operated in asocial context where the decision to participate in MARA was affected by other factors, among them, interest in the activities offered.\nThis study presented limitations. Only three schools were evaluated, given the limited resources for the new implementation of MARA by the IDRD. Future studies should consider a larger sample. The estimated difference in minutes of PA over the 10 weeks included all students with valid accelerometry data. However, the highest percentage of students participating in MARA with accelerometer was 47.0%. Consequently, the sample evaluated with accelerometry includes students who probably did not participate in the proposed activities. For this reason, the increase in daily minutes of MVPA could not be attributed solely to MARA. However, we can suggested that it has the potential to make students aware of the practice of PA in other settings and times of the day.\nThe number of MARA sessions was fulfilled according to the methodology exposed, despite the interruptions in its implementation because of the temporary work stoppage in the schools. During the year, there were protests for better working conditions for teachers in the public sector, which led to the interruption of the classes for several days.\nThe MARA transformed the recess space, adapting to the available infrastructure and incorporating elements of the Colombian culture. However, the interpretation of these results should be made considering the context of a pilot study. Therefore, the number of schools evaluated and the intervention time limit the generalization of the results. Future interventions should consider a previous study of the profile of the students so that the activities offered better fit their interests and implementation should last at least six months.\nThe redesign of the intervention should consider the inclusion of teachers or students in social service of each institution trained by the IDRD. This is the first time that an objective evaluation of this type of intervention has been carried out in a randomized community trial in Bogotá with the local sports and recreation agency (IDRD). This alliance enabled these results and lessons learned to transcend from the inquiring scope to the practice. The intervention was incorporated with the support of policies in each school and a 40-week PA pedagogical plan was designed in some schools in Bogotá.\nIn Latin America, student interventions focused on physical education classes were identified as the only community intervention to promote PA with solid evidence for the development of recommendations . This study provides evidence on the effectiveness of MARA to increase PA and decrease daily physical inactivity during recess in the context of a vulnerable sector of the Colombian capital. These findings indicate the potential to escalate a similar intervention to other middle-income countries. In addition, these results could be the focus of a national public policy to protect the active recess of students as a unique opportunity, free of barriers to accessibility, to engage them in more active lifestyles.\n",
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "42.1",
+          "rowHeaders": [
+            "Divorced/Separated/Widowed",
+            "Male",
+            "Bellow high school - high school"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "MARA+SMS group",
+            "(n = 57)"
+          ]
+        },
+        {
+          "value": "40.0",
+          "rowHeaders": [
+            "Divorced/Separated/Widowed",
+            "Male",
+            "Bellow high school - high school"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "MARA group",
+            "(n = 60)"
+          ]
+        },
+        {
+          "value": "46.3",
+          "rowHeaders": [
+            "Divorced/Separated/Widowed",
+            "Male",
+            "Bellow high school - high school"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "Control group",
+            "(n = 67)"
+          ]
+        },
+        {
+          "value": "0.789",
+          "rowHeaders": [
+            "Divorced/Separated/Widowed",
+            "Male",
+            "Bellow high school - high school"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "Control group",
+            "p"
+          ]
+        },
+        {
+          "value": "57.9",
+          "rowHeaders": [
+            "Divorced/Separated/Widowed",
+            "Female",
+            "Bellow high school - high school"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "MARA+SMS group",
+            "(n = 57)"
+          ]
+        },
+        {
+          "value": "60.0",
+          "rowHeaders": [
+            "Divorced/Separated/Widowed",
+            "Female",
+            "Bellow high school - high school"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "MARA group",
+            "(n = 60)"
+          ]
+        },
+        {
+          "value": "53.7",
+          "rowHeaders": [
+            "Divorced/Separated/Widowed",
+            "Female",
+            "Bellow high school - high school"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "Control group",
+            "(n = 67)"
+          ]
+        },
+        {
+          "value": "10.4",
+          "rowHeaders": [
+            "Mean age in years and SDa",
+            "Divorced/Separated/Widowed",
+            "Bellow high school - high school"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "MARA+SMS group",
+            "(n = 57)",
+            "n"
+          ]
+        },
+        {
+          "value": "0.7",
+          "rowHeaders": [
+            "Mean age in years and SDa",
+            "Divorced/Separated/Widowed",
+            "Bellow high school - high school"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "MARA+SMS group",
+            "(n = 57)"
+          ]
+        },
+        {
+          "value": "10.4",
+          "rowHeaders": [
+            "Mean age in years and SDa",
+            "Divorced/Separated/Widowed",
+            "Bellow high school - high school"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "MARA group",
+            "(n = 60)",
+            "n"
+          ]
+        },
+        {
+          "value": "0.6",
+          "rowHeaders": [
+            "Mean age in years and SDa",
+            "Divorced/Separated/Widowed",
+            "Bellow high school - high school"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "MARA group",
+            "(n = 60)"
+          ]
+        },
+        {
+          "value": "10.6",
+          "rowHeaders": [
+            "Mean age in years and SDa",
+            "Divorced/Separated/Widowed",
+            "Bellow high school - high school"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "Control group",
+            "(n = 67)",
+            "n"
+          ]
+        },
+        {
+          "value": "0.8",
+          "rowHeaders": [
+            "Mean age in years and SDa",
+            "Divorced/Separated/Widowed",
+            "Bellow high school - high school"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "Control group",
+            "(n = 67)"
+          ]
+        },
+        {
+          "value": "0.125",
+          "rowHeaders": [
+            "Mean age in years and SDa",
+            "Divorced/Separated/Widowed",
+            "Bellow high school - high school"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "Control group",
+            "p"
+          ]
+        },
+        {
+          "value": "64.9",
+          "rowHeaders": [
+            "Mean age in years and SDa",
+            "1 and 2",
+            "Bellow high school - high school"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "MARA+SMS group",
+            "(n = 57)"
+          ]
+        },
+        {
+          "value": "96.7",
+          "rowHeaders": [
+            "Mean age in years and SDa",
+            "1 and 2",
+            "Bellow high school - high school"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "MARA group",
+            "(n = 60)"
+          ]
+        },
+        {
+          "value": "94.0",
+          "rowHeaders": [
+            "Divorced/Separated/Widowed",
+            "1 and 2",
+            "Bellow high school - high school"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "Control group",
+            "(n = 67)"
+          ]
+        },
+        {
+          "value": "0.001",
+          "rowHeaders": [
+            "Divorced/Separated/Widowed",
+            "1 and 2",
+            "Bellow high school - high school"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "Control group",
+            "p"
+          ]
+        },
+        {
+          "value": "35.1",
+          "rowHeaders": [
+            "Bellow high school - high school"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "MARA+SMS group",
+            "(n = 57)"
+          ]
+        },
+        {
+          "value": "3.3",
+          "rowHeaders": [
+            "Bellow high school - high school"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "MARA group",
+            "(n = 60)"
+          ]
+        },
+        {
+          "value": "6.0",
+          "rowHeaders": [
+            "Bellow high school - high school"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "Control group",
+            "(n = 67)"
+          ]
+        },
+        {
+          "value": "75.4",
+          "rowHeaders": [
+            "Divorced/Separated/Widowed",
+            "Bellow high school - high school"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "MARA+SMS group",
+            "(n = 57)"
+          ]
+        },
+        {
+          "value": "76.7",
+          "rowHeaders": [
+            "Divorced/Separated/Widowed",
+            "Bellow high school - high school"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "MARA group",
+            "(n = 60)"
+          ]
+        },
+        {
+          "value": "85.1",
+          "rowHeaders": [
+            "Divorced/Separated/Widowed",
+            "Bellow high school - high school"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "Control group",
+            "(n = 67)"
+          ]
+        },
+        {
+          "value": "0.346",
+          "rowHeaders": [
+            "Divorced/Separated/Widowed",
+            "Bellow high school - high school"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "Control group",
+            "p"
+          ]
+        },
+        {
+          "value": "24.6",
+          "rowHeaders": [
+            "Divorced/Separated/Widowed",
+            "Bellow high school - high school"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "MARA+SMS group",
+            "(n = 57)"
+          ]
+        },
+        {
+          "value": "23.3",
+          "rowHeaders": [
+            "Divorced/Separated/Widowed",
+            "Bellow high school - high school"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "MARA group",
+            "(n = 60)"
+          ]
+        },
+        {
+          "value": "14.9",
+          "rowHeaders": [
+            "Divorced/Separated/Widowed",
+            "Bellow high school - high school"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "Control group",
+            "(n = 67)"
+          ]
+        },
+        {
+          "value": "14.0",
+          "rowHeaders": [
+            "Married"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "MARA+SMS group",
+            "(n = 57)"
+          ]
+        },
+        {
+          "value": "26.7",
+          "rowHeaders": [
+            "Married"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "MARA group",
+            "(n = 60)"
+          ]
+        },
+        {
+          "value": "26.9",
+          "rowHeaders": [
+            "Married"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "Control group",
+            "(n = 67)"
+          ]
+        },
+        {
+          "value": "0.160",
+          "rowHeaders": [
+            "Married"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "Control group",
+            "p"
+          ]
+        },
+        {
+          "value": "35.1",
+          "rowHeaders": [
+            "Divorced/Separated/Widowed"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "MARA+SMS group",
+            "(n = 57)"
+          ]
+        },
+        {
+          "value": "20.0",
+          "rowHeaders": [
+            "Divorced/Separated/Widowed"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "MARA group",
+            "(n = 60)"
+          ]
+        },
+        {
+          "value": "31.3",
+          "rowHeaders": [
+            "Divorced/Separated/Widowed"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "Control group",
+            "(n = 67)"
+          ]
+        },
+        {
+          "value": "50.9",
+          "rowHeaders": [
+            "Never married"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "MARA+SMS group",
+            "(n = 57)"
+          ]
+        },
+        {
+          "value": "53.3",
+          "rowHeaders": [
+            "Never married"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "MARA group",
+            "(n = 60)"
+          ]
+        },
+        {
+          "value": "41.8",
+          "rowHeaders": [
+            "Never married"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "Control group",
+            "(n = 67)"
+          ]
+        },
+        {
+          "value": "1.8",
+          "rowHeaders": [
+            "Thin"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "MARA+SMS group",
+            "(n = 57)"
+          ]
+        },
+        {
+          "value": "1.7",
+          "rowHeaders": [
+            "Thin"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "MARA group",
+            "(n = 60)"
+          ]
+        },
+        {
+          "value": "3.0",
+          "rowHeaders": [
+            "Thin"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "Control group",
+            "(n = 67)"
+          ]
+        },
+        {
+          "value": "0.867",
+          "rowHeaders": [
+            "Thin"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "Control group",
+            "p"
+          ]
+        },
+        {
+          "value": "78.9",
+          "rowHeaders": [
+            "Appropriate for age"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "MARA+SMS group",
+            "(n = 57)"
+          ]
+        },
+        {
+          "value": "75.0",
+          "rowHeaders": [
+            "Appropriate for age"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "MARA group",
+            "(n = 60)"
+          ]
+        },
+        {
+          "value": "80.6",
+          "rowHeaders": [
+            "Appropriate for age"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "Control group",
+            "(n = 67)"
+          ]
+        },
+        {
+          "value": "19.3",
+          "rowHeaders": [
+            "Overweight/Obesity"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "MARA+SMS group",
+            "(n = 57)"
+          ]
+        },
+        {
+          "value": "23.3",
+          "rowHeaders": [
+            "Overweight/Obesity"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "MARA group",
+            "(n = 60)"
+          ]
+        },
+        {
+          "value": "16.4",
+          "rowHeaders": [
+            "Overweight/Obesity"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "Control group",
+            "(n = 67)"
+          ]
+        },
+        {
+          "value": "10.5",
+          "rowHeaders": [
+            "Low"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "MARA+SMS group",
+            "(n = 57)"
+          ]
+        },
+        {
+          "value": "8.3",
+          "rowHeaders": [
+            "Low"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "MARA group",
+            "(n = 60)"
+          ]
+        },
+        {
+          "value": "22.4",
+          "rowHeaders": [
+            "Low"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "Control group",
+            "(n = 67)"
+          ]
+        },
+        {
+          "value": "0.111",
+          "rowHeaders": [
+            "Low"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "Control group",
+            "p"
+          ]
+        },
+        {
+          "value": "75.5",
+          "rowHeaders": [
+            "Normal"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "MARA+SMS group",
+            "(n = 57)"
+          ]
+        },
+        {
+          "value": "76.7",
+          "rowHeaders": [
+            "Normal"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "MARA group",
+            "(n = 60)"
+          ]
+        },
+        {
+          "value": "64.2",
+          "rowHeaders": [
+            "Normal"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "Control group",
+            "(n = 67)"
+          ]
+        },
+        {
+          "value": "7.0",
+          "rowHeaders": [
+            "Overweight"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "MARA+SMS group",
+            "(n = 57)"
+          ]
+        },
+        {
+          "value": "6.7",
+          "rowHeaders": [
+            "Overweight"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "MARA group",
+            "(n = 60)"
+          ]
+        },
+        {
+          "value": "11.9",
+          "rowHeaders": [
+            "Overweight"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "Control group",
+            "(n = 67)"
+          ]
+        },
+        {
+          "value": "7.0",
+          "rowHeaders": [
+            "Obesity"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "MARA+SMS group",
+            "(n = 57)"
+          ]
+        },
+        {
+          "value": "8.3",
+          "rowHeaders": [
+            "Obesity"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "MARA group",
+            "(n = 60)"
+          ]
+        },
+        {
+          "value": "1.5",
+          "rowHeaders": [
+            "Obesity"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "Control group",
+            "(n = 67)"
+          ]
+        },
+        {
+          "value": "80.7",
+          "rowHeaders": [
+            "No consumption"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "MARA+SMS group",
+            "(n = 57)"
+          ]
+        },
+        {
+          "value": "76.7",
+          "rowHeaders": [
+            "No consumption"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "MARA group",
+            "(n = 60)"
+          ]
+        },
+        {
+          "value": "79.1",
+          "rowHeaders": [
+            "No consumption"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "Control group",
+            "(n = 67)"
+          ]
+        },
+        {
+          "value": "0.876",
+          "rowHeaders": [
+            "No consumption"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "Control group",
+            "p"
+          ]
+        },
+        {
+          "value": "19.3",
+          "rowHeaders": [
+            "Daily consumption"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "MARA+SMS group",
+            "(n = 57)"
+          ]
+        },
+        {
+          "value": "23.3",
+          "rowHeaders": [
+            "Daily consumption"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "MARA group",
+            "(n = 60)"
+          ]
+        },
+        {
+          "value": "20.9",
+          "rowHeaders": [
+            "Daily consumption"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "Control group",
+            "(n = 67)"
+          ]
+        },
+        {
+          "value": "43.9",
+          "rowHeaders": [
+            "No consumption"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "MARA+SMS group",
+            "(n = 57)"
+          ]
+        },
+        {
+          "value": "56.7",
+          "rowHeaders": [
+            "No consumption"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "MARA group",
+            "(n = 60)"
+          ]
+        },
+        {
+          "value": "46.3",
+          "rowHeaders": [
+            "No consumption"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "Control group",
+            "(n = 67)"
+          ]
+        },
+        {
+          "value": "0.335",
+          "rowHeaders": [
+            "No consumption"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "Control group",
+            "p"
+          ]
+        },
+        {
+          "value": "56.1",
+          "rowHeaders": [
+            "Daily consumption"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "MARA+SMS group",
+            "(n = 57)"
+          ]
+        },
+        {
+          "value": "43.3",
+          "rowHeaders": [
+            "Daily consumption"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "MARA group",
+            "(n = 60)"
+          ]
+        },
+        {
+          "value": "53.7",
+          "rowHeaders": [
+            "Daily consumption"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "Control group",
+            "(n = 67)"
+          ]
+        },
+        {
+          "value": "61.9",
+          "rowHeaders": [
+            "Mean minutes of daily MVPA e"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "MARA+SMS group",
+            "(n = 57)",
+            "n"
+          ]
+        },
+        {
+          "value": "3.1",
+          "rowHeaders": [
+            "Mean minutes of daily MVPA e"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "MARA+SMS group",
+            "(n = 57)"
+          ]
+        },
+        {
+          "value": "56.6",
+          "rowHeaders": [
+            "Mean minutes of daily MVPA e"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "MARA group",
+            "(n = 60)",
+            "n"
+          ]
+        },
+        {
+          "value": "3.5",
+          "rowHeaders": [
+            "Mean minutes of daily MVPA e"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "MARA group",
+            "(n = 60)"
+          ]
+        },
+        {
+          "value": "67.7",
+          "rowHeaders": [
+            "Mean minutes of daily MVPA e"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "Control group",
+            "(n = 67)",
+            "n"
+          ]
+        },
+        {
+          "value": "3.1",
+          "rowHeaders": [
+            "Mean minutes of daily MVPA e"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "Control group",
+            "(n = 67)"
+          ]
+        },
+        {
+          "value": "0.141",
+          "rowHeaders": [
+            "Mean minutes of daily MVPA e"
+          ],
+          "columnHeaders": [
+            "Table 1. Characteristics of students from Bogotá by intervention group at baseline in 2013.",
+            "Control group",
+            "p"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "31.6",
+          "rowHeaders": [
+            "Always",
+            "Behavior associated with moderate to vigorous PA"
+          ],
+          "columnHeaders": [
+            "Table 2. Descriptive statistics of the frequency of self-reported activities during recess at baseline and week 10. Bogotá, Colombia, 2013.",
+            "MARA+SMS group",
+            "(n = 57)",
+            "T0a"
+          ]
+        },
+        {
+          "value": "31.6",
+          "rowHeaders": [
+            "Always",
+            "Behavior associated with moderate to vigorous PA"
+          ],
+          "columnHeaders": [
+            "Table 2. Descriptive statistics of the frequency of self-reported activities during recess at baseline and week 10. Bogotá, Colombia, 2013.",
+            "MARA+SMS group",
+            "(n = 57)",
+            "T1"
+          ]
+        },
+        {
+          "value": "38.3",
+          "rowHeaders": [
+            "Always",
+            "Behavior associated with moderate to vigorous PA"
+          ],
+          "columnHeaders": [
+            "Table 2. Descriptive statistics of the frequency of self-reported activities during recess at baseline and week 10. Bogotá, Colombia, 2013.",
+            "MARA group",
+            "(n = 60)",
+            "T0"
+          ]
+        },
+        {
+          "value": "53.3",
+          "rowHeaders": [
+            "Always",
+            "Behavior associated with moderate to vigorous PA"
+          ],
+          "columnHeaders": [
+            "Table 2. Descriptive statistics of the frequency of self-reported activities during recess at baseline and week 10. Bogotá, Colombia, 2013.",
+            "MARA group",
+            "(n = 60)",
+            "T1"
+          ]
+        },
+        {
+          "value": "40.3",
+          "rowHeaders": [
+            "Always",
+            "Behavior associated with moderate to vigorous PA"
+          ],
+          "columnHeaders": [
+            "Table 2. Descriptive statistics of the frequency of self-reported activities during recess at baseline and week 10. Bogotá, Colombia, 2013.",
+            "Control group",
+            "(n = 67)",
+            "T0"
+          ]
+        },
+        {
+          "value": "23.9",
+          "rowHeaders": [
+            "Always",
+            "Behavior associated with moderate to vigorous PA"
+          ],
+          "columnHeaders": [
+            "Table 2. Descriptive statistics of the frequency of self-reported activities during recess at baseline and week 10. Bogotá, Colombia, 2013.",
+            "Control group",
+            "(n = 67)",
+            "T1"
+          ]
+        },
+        {
+          "value": "0.737",
+          "rowHeaders": [
+            "Always",
+            "Behavior associated with moderate to vigorous PA"
+          ],
+          "columnHeaders": [
+            "Table 2. Descriptive statistics of the frequency of self-reported activities during recess at baseline and week 10. Bogotá, Colombia, 2013.",
+            "Control group",
+            "(n = 67)",
+            "T0"
+          ]
+        },
+        {
+          "value": "0.01",
+          "rowHeaders": [
+            "Always",
+            "Behavior associated with moderate to vigorous PA"
+          ],
+          "columnHeaders": [
+            "Table 2. Descriptive statistics of the frequency of self-reported activities during recess at baseline and week 10. Bogotá, Colombia, 2013.",
+            "Control group",
+            "(n = 67)",
+            "T1"
+          ]
+        },
+        {
+          "value": "61.4",
+          "rowHeaders": [
+            "Sedentary behaviors",
+            "Behavior associated with moderate to vigorous PA",
+            "Sometimes"
+          ],
+          "columnHeaders": [
+            "Table 2. Descriptive statistics of the frequency of self-reported activities during recess at baseline and week 10. Bogotá, Colombia, 2013.",
+            "MARA+SMS group",
+            "(n = 57)",
+            "T0a"
+          ]
+        },
+        {
+          "value": "63.2",
+          "rowHeaders": [
+            "Sedentary behaviors",
+            "Behavior associated with moderate to vigorous PA",
+            "Sometimes"
+          ],
+          "columnHeaders": [
+            "Table 2. Descriptive statistics of the frequency of self-reported activities during recess at baseline and week 10. Bogotá, Colombia, 2013.",
+            "MARA+SMS group",
+            "(n = 57)",
+            "T1"
+          ]
+        },
+        {
+          "value": "51.7",
+          "rowHeaders": [
+            "Sedentary behaviors",
+            "Behavior associated with moderate to vigorous PA",
+            "Sometimes"
+          ],
+          "columnHeaders": [
+            "Table 2. Descriptive statistics of the frequency of self-reported activities during recess at baseline and week 10. Bogotá, Colombia, 2013.",
+            "MARA group",
+            "(n = 60)",
+            "T0"
+          ]
+        },
+        {
+          "value": "43.3",
+          "rowHeaders": [
+            "Sedentary behaviors",
+            "Behavior associated with moderate to vigorous PA",
+            "Sometimes"
+          ],
+          "columnHeaders": [
+            "Table 2. Descriptive statistics of the frequency of self-reported activities during recess at baseline and week 10. Bogotá, Colombia, 2013.",
+            "MARA group",
+            "(n = 60)",
+            "T1"
+          ]
+        },
+        {
+          "value": "49.3",
+          "rowHeaders": [
+            "Sedentary behaviors",
+            "Behavior associated with moderate to vigorous PA",
+            "Sometimes"
+          ],
+          "columnHeaders": [
+            "Table 2. Descriptive statistics of the frequency of self-reported activities during recess at baseline and week 10. Bogotá, Colombia, 2013.",
+            "Control group",
+            "(n = 67)",
+            "T0"
+          ]
+        },
+        {
+          "value": "70.2",
+          "rowHeaders": [
+            "Sedentary behaviors",
+            "Behavior associated with moderate to vigorous PA",
+            "Sometimes"
+          ],
+          "columnHeaders": [
+            "Table 2. Descriptive statistics of the frequency of self-reported activities during recess at baseline and week 10. Bogotá, Colombia, 2013.",
+            "Control group",
+            "(n = 67)",
+            "T1"
+          ]
+        },
+        {
+          "value": "7.0",
+          "rowHeaders": [
+            "Behavior associated with moderate to vigorous PA",
+            "Never"
+          ],
+          "columnHeaders": [
+            "Table 2. Descriptive statistics of the frequency of self-reported activities during recess at baseline and week 10. Bogotá, Colombia, 2013.",
+            "MARA+SMS group",
+            "(n = 57)",
+            "T0a"
+          ]
+        },
+        {
+          "value": "5.3",
+          "rowHeaders": [
+            "Behavior associated with moderate to vigorous PA",
+            "Never"
+          ],
+          "columnHeaders": [
+            "Table 2. Descriptive statistics of the frequency of self-reported activities during recess at baseline and week 10. Bogotá, Colombia, 2013.",
+            "MARA+SMS group",
+            "(n = 57)",
+            "T1"
+          ]
+        },
+        {
+          "value": "10.0",
+          "rowHeaders": [
+            "Behavior associated with moderate to vigorous PA",
+            "Never"
+          ],
+          "columnHeaders": [
+            "Table 2. Descriptive statistics of the frequency of self-reported activities during recess at baseline and week 10. Bogotá, Colombia, 2013.",
+            "MARA group",
+            "(n = 60)",
+            "T0"
+          ]
+        },
+        {
+          "value": "3.3",
+          "rowHeaders": [
+            "Behavior associated with moderate to vigorous PA",
+            "Never"
+          ],
+          "columnHeaders": [
+            "Table 2. Descriptive statistics of the frequency of self-reported activities during recess at baseline and week 10. Bogotá, Colombia, 2013.",
+            "MARA group",
+            "(n = 60)",
+            "T1"
+          ]
+        },
+        {
+          "value": "10.5",
+          "rowHeaders": [
+            "Behavior associated with moderate to vigorous PA",
+            "Never"
+          ],
+          "columnHeaders": [
+            "Table 2. Descriptive statistics of the frequency of self-reported activities during recess at baseline and week 10. Bogotá, Colombia, 2013.",
+            "Control group",
+            "(n = 67)",
+            "T0"
+          ]
+        },
+        {
+          "value": "6.0",
+          "rowHeaders": [
+            "Behavior associated with moderate to vigorous PA",
+            "Never"
+          ],
+          "columnHeaders": [
+            "Table 2. Descriptive statistics of the frequency of self-reported activities during recess at baseline and week 10. Bogotá, Colombia, 2013.",
+            "Control group",
+            "(n = 67)",
+            "T1"
+          ]
+        },
+        {
+          "value": "15.8",
+          "rowHeaders": [
+            "Sedentary behaviors",
+            "Behavior associated with moderate to vigorous PA",
+            "e"
+          ],
+          "columnHeaders": [
+            "Table 2. Descriptive statistics of the frequency of self-reported activities during recess at baseline and week 10. Bogotá, Colombia, 2013.",
+            "MARA+SMS group",
+            "(n = 57)",
+            "T0a"
+          ]
+        },
+        {
+          "value": "3.5",
+          "rowHeaders": [
+            "Sedentary behaviors",
+            "Behavior associated with moderate to vigorous PA",
+            "e"
+          ],
+          "columnHeaders": [
+            "Table 2. Descriptive statistics of the frequency of self-reported activities during recess at baseline and week 10. Bogotá, Colombia, 2013.",
+            "MARA+SMS group",
+            "(n = 57)",
+            "T1"
+          ]
+        },
+        {
+          "value": "5.0",
+          "rowHeaders": [
+            "Sedentary behaviors",
+            "Behavior associated with moderate to vigorous PA",
+            "e"
+          ],
+          "columnHeaders": [
+            "Table 2. Descriptive statistics of the frequency of self-reported activities during recess at baseline and week 10. Bogotá, Colombia, 2013.",
+            "MARA group",
+            "(n = 60)",
+            "T0"
+          ]
+        },
+        {
+          "value": "8.3",
+          "rowHeaders": [
+            "Sedentary behaviors",
+            "Behavior associated with moderate to vigorous PA",
+            "e"
+          ],
+          "columnHeaders": [
+            "Table 2. Descriptive statistics of the frequency of self-reported activities during recess at baseline and week 10. Bogotá, Colombia, 2013.",
+            "MARA group",
+            "(n = 60)",
+            "T1"
+          ]
+        },
+        {
+          "value": "9.0",
+          "rowHeaders": [
+            "Sedentary behaviors",
+            "Behavior associated with moderate to vigorous PA",
+            "e"
+          ],
+          "columnHeaders": [
+            "Table 2. Descriptive statistics of the frequency of self-reported activities during recess at baseline and week 10. Bogotá, Colombia, 2013.",
+            "Control group",
+            "(n = 67)",
+            "T0"
+          ]
+        },
+        {
+          "value": "9.0",
+          "rowHeaders": [
+            "Sedentary behaviors",
+            "Behavior associated with moderate to vigorous PA",
+            "e"
+          ],
+          "columnHeaders": [
+            "Table 2. Descriptive statistics of the frequency of self-reported activities during recess at baseline and week 10. Bogotá, Colombia, 2013.",
+            "Control group",
+            "(n = 67)",
+            "T1"
+          ]
+        },
+        {
+          "value": "0.039",
+          "rowHeaders": [
+            "Sedentary behaviors",
+            "Behavior associated with moderate to vigorous PA",
+            "e"
+          ],
+          "columnHeaders": [
+            "Table 2. Descriptive statistics of the frequency of self-reported activities during recess at baseline and week 10. Bogotá, Colombia, 2013.",
+            "Control group",
+            "(n = 67)",
+            "T0"
+          ]
+        },
+        {
+          "value": "0.464",
+          "rowHeaders": [
+            "Sedentary behaviors",
+            "Behavior associated with moderate to vigorous PA",
+            "e"
+          ],
+          "columnHeaders": [
+            "Table 2. Descriptive statistics of the frequency of self-reported activities during recess at baseline and week 10. Bogotá, Colombia, 2013.",
+            "Control group",
+            "(n = 67)",
+            "T1"
+          ]
+        },
+        {
+          "value": "5.3",
+          "rowHeaders": [
+            "Sedentary behaviors",
+            "Behavior associated with light PA",
+            "f"
+          ],
+          "columnHeaders": [
+            "Table 2. Descriptive statistics of the frequency of self-reported activities during recess at baseline and week 10. Bogotá, Colombia, 2013.",
+            "MARA+SMS group",
+            "(n = 57)",
+            "T0a"
+          ]
+        },
+        {
+          "value": "5.3",
+          "rowHeaders": [
+            "Sedentary behaviors",
+            "Behavior associated with light PA",
+            "f"
+          ],
+          "columnHeaders": [
+            "Table 2. Descriptive statistics of the frequency of self-reported activities during recess at baseline and week 10. Bogotá, Colombia, 2013.",
+            "MARA+SMS group",
+            "(n = 57)",
+            "T1"
+          ]
+        },
+        {
+          "value": "18.3",
+          "rowHeaders": [
+            "Sedentary behaviors",
+            "Behavior associated with light PA",
+            "f"
+          ],
+          "columnHeaders": [
+            "Table 2. Descriptive statistics of the frequency of self-reported activities during recess at baseline and week 10. Bogotá, Colombia, 2013.",
+            "MARA group",
+            "(n = 60)",
+            "T0"
+          ]
+        },
+        {
+          "value": "10.0",
+          "rowHeaders": [
+            "Sedentary behaviors",
+            "Behavior associated with light PA",
+            "f"
+          ],
+          "columnHeaders": [
+            "Table 2. Descriptive statistics of the frequency of self-reported activities during recess at baseline and week 10. Bogotá, Colombia, 2013.",
+            "MARA group",
+            "(n = 60)",
+            "T1"
+          ]
+        },
+        {
+          "value": "20.9",
+          "rowHeaders": [
+            "Sedentary behaviors",
+            "Behavior associated with light PA",
+            "f"
+          ],
+          "columnHeaders": [
+            "Table 2. Descriptive statistics of the frequency of self-reported activities during recess at baseline and week 10. Bogotá, Colombia, 2013.",
+            "Control group",
+            "(n = 67)",
+            "T0"
+          ]
+        },
+        {
+          "value": "11.9",
+          "rowHeaders": [
+            "Sedentary behaviors",
+            "Behavior associated with light PA",
+            "f"
+          ],
+          "columnHeaders": [
+            "Table 2. Descriptive statistics of the frequency of self-reported activities during recess at baseline and week 10. Bogotá, Colombia, 2013.",
+            "Control group",
+            "(n = 67)",
+            "T1"
+          ]
+        },
+        {
+          "value": "79.0",
+          "rowHeaders": [
+            "Sedentary behaviors",
+            "Behavior associated with moderate to vigorous PA",
+            "g"
+          ],
+          "columnHeaders": [
+            "Table 2. Descriptive statistics of the frequency of self-reported activities during recess at baseline and week 10. Bogotá, Colombia, 2013.",
+            "MARA+SMS group",
+            "(n = 57)",
+            "T0a"
+          ]
+        },
+        {
+          "value": "91.2",
+          "rowHeaders": [
+            "Sedentary behaviors",
+            "Behavior associated with moderate to vigorous PA",
+            "g"
+          ],
+          "columnHeaders": [
+            "Table 2. Descriptive statistics of the frequency of self-reported activities during recess at baseline and week 10. Bogotá, Colombia, 2013.",
+            "MARA+SMS group",
+            "(n = 57)",
+            "T1"
+          ]
+        },
+        {
+          "value": "76.7",
+          "rowHeaders": [
+            "Sedentary behaviors",
+            "Behavior associated with moderate to vigorous PA",
+            "g"
+          ],
+          "columnHeaders": [
+            "Table 2. Descriptive statistics of the frequency of self-reported activities during recess at baseline and week 10. Bogotá, Colombia, 2013.",
+            "MARA group",
+            "(n = 60)",
+            "T0"
+          ]
+        },
+        {
+          "value": "81.7",
+          "rowHeaders": [
+            "Sedentary behaviors",
+            "Behavior associated with moderate to vigorous PA",
+            "g"
+          ],
+          "columnHeaders": [
+            "Table 2. Descriptive statistics of the frequency of self-reported activities during recess at baseline and week 10. Bogotá, Colombia, 2013.",
+            "MARA group",
+            "(n = 60)",
+            "T1"
+          ]
+        },
+        {
+          "value": "70.2",
+          "rowHeaders": [
+            "Sedentary behaviors",
+            "Behavior associated with moderate to vigorous PA",
+            "g"
+          ],
+          "columnHeaders": [
+            "Table 2. Descriptive statistics of the frequency of self-reported activities during recess at baseline and week 10. Bogotá, Colombia, 2013.",
+            "Control group",
+            "(n = 67)",
+            "T0"
+          ]
+        },
+        {
+          "value": "79.1",
+          "rowHeaders": [
+            "Sedentary behaviors",
+            "Behavior associated with moderate to vigorous PA",
+            "g"
+          ],
+          "columnHeaders": [
+            "Table 2. Descriptive statistics of the frequency of self-reported activities during recess at baseline and week 10. Bogotá, Colombia, 2013.",
+            "Control group",
+            "(n = 67)",
+            "T1"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "61.9 (3.06)",
+          "rowHeaders": [
+            "Daily MVPA (SE)",
+            "MVPA on weekdays (SE)",
+            "Physical inactivity on weekdays (SE)"
+          ],
+          "columnHeaders": [
+            "Table 3. Effect of the intervention on the mean minutes of physical activity, physical inactivity, and indicators of adiposity of students from",
+            "P-values of difference-in-differences",
+            "MARA+SMS group",
+            "(n = 44)",
+            "versus",
+            "Control",
+            "T0a"
+          ]
+        },
+        {
+          "value": "60.9 (3.06)",
+          "rowHeaders": [
+            "Daily MVPA (SE)",
+            "MVPA on weekdays (SE)",
+            "Physical inactivity on weekdays (SE)"
+          ],
+          "columnHeaders": [
+            "Table 3. Effect of the intervention on the mean minutes of physical activity, physical inactivity, and indicators of adiposity of students from",
+            "P-values of difference-in-differences",
+            "MARA+SMS group",
+            "(n = 44)",
+            "versus",
+            "Control",
+            "T1b"
+          ]
+        },
+        {
+          "value": "56.6 (3.49)",
+          "rowHeaders": [
+            "Daily MVPA (SE)",
+            "Physical inactivity on weekdays (SE)"
+          ],
+          "columnHeaders": [
+            "Table 3. Effect of the intervention on the mean minutes of physical activity, physical inactivity, and indicators of adiposity of students from",
+            "P-values of difference-in-differences",
+            "MARA group",
+            "(n = 34)",
+            "versus",
+            "Control",
+            "T0"
+          ]
+        },
+        {
+          "value": "62.7 (3.49)",
+          "rowHeaders": [
+            "Daily MVPA (SE)",
+            "Physical inactivity on weekdays (SE)"
+          ],
+          "columnHeaders": [
+            "Table 3. Effect of the intervention on the mean minutes of physical activity, physical inactivity, and indicators of adiposity of students from",
+            "P-values of difference-in-differences",
+            "MARA group",
+            "(n = 34)",
+            "versus",
+            "Control",
+            "T1"
+          ]
+        },
+        {
+          "value": "67.7 (3.15)",
+          "rowHeaders": [
+            "Daily MVPA (SE)",
+            "Physical inactivity on weekdays (SE)"
+          ],
+          "columnHeaders": [
+            "Table 3. Effect of the intervention on the mean minutes of physical activity, physical inactivity, and indicators of adiposity of students from",
+            "P-values of difference-in-differences",
+            "Control group",
+            "(n = 42)",
+            "versus",
+            "Control",
+            "T0"
+          ]
+        },
+        {
+          "value": "60.0 (3.15)",
+          "rowHeaders": [
+            "Daily MVPA (SE)",
+            "Physical inactivity on weekdays (SE)"
+          ],
+          "columnHeaders": [
+            "Table 3. Effect of the intervention on the mean minutes of physical activity, physical inactivity, and indicators of adiposity of students from",
+            "P-values of difference-in-differences",
+            "Control group",
+            "(n = 42)",
+            "versus",
+            "Control",
+            "T1"
+          ]
+        },
+        {
+          "value": "0.005",
+          "rowHeaders": [
+            "Daily MVPA (SE)",
+            "Physical inactivity on weekdays (SE)"
+          ],
+          "columnHeaders": [
+            "Table 3. Effect of the intervention on the mean minutes of physical activity, physical inactivity, and indicators of adiposity of students from",
+            "P-values of difference-in-differences",
+            "Control group",
+            "MARA",
+            "versus",
+            "Control"
+          ]
+        },
+        {
+          "value": "0.005",
+          "rowHeaders": [
+            "Daily MVPA (SE)",
+            "Physical inactivity on weekdays (SE)"
+          ],
+          "columnHeaders": [
+            "Table 3. Effect of the intervention on the mean minutes of physical activity, physical inactivity, and indicators of adiposity of students from",
+            "P-values of difference-in-differences",
+            "Control group",
+            "MARA+SMS",
+            "versus",
+            "Control"
+          ]
+        },
+        {
+          "value": "0.005",
+          "rowHeaders": [
+            "Daily MVPA (SE)",
+            "Physical inactivity on weekdays (SE)"
+          ],
+          "columnHeaders": [
+            "Table 3. Effect of the intervention on the mean minutes of physical activity, physical inactivity, and indicators of adiposity of students from",
+            "P-values of difference-in-differences",
+            "Control group",
+            "MARA+SMS",
+            "versus",
+            "MARA"
+          ]
+        },
+        {
+          "value": "65.8 (3.27)",
+          "rowHeaders": [
+            "MVPA on weekdays (SE)",
+            "Daily light PA (SE)",
+            "Physical inactivity on weekdays (SE)"
+          ],
+          "columnHeaders": [
+            "Table 3. Effect of the intervention on the mean minutes of physical activity, physical inactivity, and indicators of adiposity of students from",
+            "P-values of difference-in-differences",
+            "MARA+SMS group",
+            "(n = 44)",
+            "versus",
+            "Control",
+            "T0a"
+          ]
+        },
+        {
+          "value": "64.4 (3.27)",
+          "rowHeaders": [
+            "MVPA on weekdays (SE)",
+            "Daily light PA (SE)",
+            "Physical inactivity on weekdays (SE)"
+          ],
+          "columnHeaders": [
+            "Table 3. Effect of the intervention on the mean minutes of physical activity, physical inactivity, and indicators of adiposity of students from",
+            "P-values of difference-in-differences",
+            "MARA+SMS group",
+            "(n = 44)",
+            "versus",
+            "Control",
+            "T1b"
+          ]
+        },
+        {
+          "value": "60.2 (3.73)",
+          "rowHeaders": [
+            "MVPA on weekdays (SE)",
+            "Daily light PA (SE)",
+            "Physical inactivity on weekdays (SE)"
+          ],
+          "columnHeaders": [
+            "Table 3. Effect of the intervention on the mean minutes of physical activity, physical inactivity, and indicators of adiposity of students from",
+            "P-values of difference-in-differences",
+            "MARA group",
+            "(n = 34)",
+            "versus",
+            "Control",
+            "T0"
+          ]
+        },
+        {
+          "value": "63.9 (3.73)",
+          "rowHeaders": [
+            "MVPA on weekdays (SE)",
+            "Daily light PA (SE)",
+            "Physical inactivity on weekdays (SE)"
+          ],
+          "columnHeaders": [
+            "Table 3. Effect of the intervention on the mean minutes of physical activity, physical inactivity, and indicators of adiposity of students from",
+            "P-values of difference-in-differences",
+            "MARA group",
+            "(n = 34)",
+            "versus",
+            "Control",
+            "T1"
+          ]
+        },
+        {
+          "value": "72.5 (3.36)",
+          "rowHeaders": [
+            "MVPA on weekdays (SE)",
+            "Daily light PA (SE)",
+            "Physical inactivity on weekdays (SE)"
+          ],
+          "columnHeaders": [
+            "Table 3. Effect of the intervention on the mean minutes of physical activity, physical inactivity, and indicators of adiposity of students from",
+            "P-values of difference-in-differences",
+            "Control group",
+            "(n = 42)",
+            "versus",
+            "Control",
+            "T0"
+          ]
+        },
+        {
+          "value": "63.3 (3.36)",
+          "rowHeaders": [
+            "MVPA on weekdays (SE)",
+            "Daily light PA (SE)",
+            "Physical inactivity on weekdays (SE)"
+          ],
+          "columnHeaders": [
+            "Table 3. Effect of the intervention on the mean minutes of physical activity, physical inactivity, and indicators of adiposity of students from",
+            "P-values of difference-in-differences",
+            "Control group",
+            "MARA",
+            "versus",
+            "Control",
+            "T1"
+          ]
+        },
+        {
+          "value": "0.005",
+          "rowHeaders": [
+            "MVPA on weekdays (SE)",
+            "Daily light PA (SE)",
+            "Physical inactivity on weekdays (SE)"
+          ],
+          "columnHeaders": [
+            "Table 3. Effect of the intervention on the mean minutes of physical activity, physical inactivity, and indicators of adiposity of students from",
+            "P-values of difference-in-differences",
+            "Control group",
+            "MARA",
+            "versus",
+            "Control"
+          ]
+        },
+        {
+          "value": "0.005",
+          "rowHeaders": [
+            "MVPA on weekdays (SE)",
+            "Daily light PA (SE)",
+            "Physical inactivity on weekdays (SE)"
+          ],
+          "columnHeaders": [
+            "Table 3. Effect of the intervention on the mean minutes of physical activity, physical inactivity, and indicators of adiposity of students from",
+            "P-values of difference-in-differences",
+            "Control group",
+            "MARA+SMS",
+            "versus",
+            "Control"
+          ]
+        },
+        {
+          "value": "0.005",
+          "rowHeaders": [
+            "MVPA on weekdays (SE)",
+            "Daily light PA (SE)",
+            "Physical inactivity on weekdays (SE)"
+          ],
+          "columnHeaders": [
+            "Table 3. Effect of the intervention on the mean minutes of physical activity, physical inactivity, and indicators of adiposity of students from",
+            "P-values of difference-in-differences",
+            "Control group",
+            "MARA+SMS",
+            "versus",
+            "MARA"
+          ]
+        },
+        {
+          "value": "311.9 (7.33)",
+          "rowHeaders": [
+            "Daily light PA (SE)",
+            "Physical inactivity on weekdays (SE)"
+          ],
+          "columnHeaders": [
+            "Table 3. Effect of the intervention on the mean minutes of physical activity, physical inactivity, and indicators of adiposity of students from",
+            "P-values of difference-in-differences",
+            "MARA+SMS group",
+            "(n = 44)",
+            "versus",
+            "Control",
+            "T0a"
+          ]
+        },
+        {
+          "value": "294.8 (7.33)",
+          "rowHeaders": [
+            "Daily light PA (SE)",
+            "Physical inactivity on weekdays (SE)"
+          ],
+          "columnHeaders": [
+            "Table 3. Effect of the intervention on the mean minutes of physical activity, physical inactivity, and indicators of adiposity of students from",
+            "P-values of difference-in-differences",
+            "MARA+SMS group",
+            "(n = 44)",
+            "versus",
+            "Control",
+            "T1b"
+          ]
+        },
+        {
+          "value": "279.3 (8.36)",
+          "rowHeaders": [
+            "Daily light PA (SE)",
+            "Physical inactivity on weekdays (SE)"
+          ],
+          "columnHeaders": [
+            "Table 3. Effect of the intervention on the mean minutes of physical activity, physical inactivity, and indicators of adiposity of students from",
+            "P-values of difference-in-differences",
+            "MARA group",
+            "(n = 34)",
+            "versus",
+            "Control",
+            "T0"
+          ]
+        },
+        {
+          "value": "298.0 (8.36)",
+          "rowHeaders": [
+            "Daily light PA (SE)",
+            "Physical inactivity on weekdays (SE)"
+          ],
+          "columnHeaders": [
+            "Table 3. Effect of the intervention on the mean minutes of physical activity, physical inactivity, and indicators of adiposity of students from",
+            "P-values of difference-in-differences",
+            "MARA group",
+            "(n = 34)",
+            "versus",
+            "Control",
+            "T1"
+          ]
+        },
+        {
+          "value": "301.2 (7.54)",
+          "rowHeaders": [
+            "Daily light PA (SE)",
+            "Physical inactivity on weekdays (SE)"
+          ],
+          "columnHeaders": [
+            "Table 3. Effect of the intervention on the mean minutes of physical activity, physical inactivity, and indicators of adiposity of students from",
+            "P-values of difference-in-differences",
+            "Control group",
+            "(n = 42)",
+            "versus",
+            "Control",
+            "T0"
+          ]
+        },
+        {
+          "value": "281.3 (7.54)",
+          "rowHeaders": [
+            "Daily light PA (SE)",
+            "Physical inactivity on weekdays (SE)"
+          ],
+          "columnHeaders": [
+            "Table 3. Effect of the intervention on the mean minutes of physical activity, physical inactivity, and indicators of adiposity of students from",
+            "P-values of difference-in-differences",
+            "Control group",
+            "MARA",
+            "versus",
+            "Control",
+            "T1"
+          ]
+        },
+        {
+          "value": "0.002",
+          "rowHeaders": [
+            "Daily light PA (SE)",
+            "Physical inactivity on weekdays (SE)"
+          ],
+          "columnHeaders": [
+            "Table 3. Effect of the intervention on the mean minutes of physical activity, physical inactivity, and indicators of adiposity of students from",
+            "P-values of difference-in-differences",
+            "Control group",
+            "MARA",
+            "versus",
+            "Control"
+          ]
+        },
+        {
+          "value": "0.003",
+          "rowHeaders": [
+            "Daily light PA (SE)",
+            "Physical inactivity on weekdays (SE)"
+          ],
+          "columnHeaders": [
+            "Table 3. Effect of the intervention on the mean minutes of physical activity, physical inactivity, and indicators of adiposity of students from",
+            "P-values of difference-in-differences",
+            "Control group",
+            "MARA+SMS",
+            "versus",
+            "Control"
+          ]
+        },
+        {
+          "value": "0.002",
+          "rowHeaders": [
+            "Daily light PA (SE)",
+            "Physical inactivity on weekdays (SE)"
+          ],
+          "columnHeaders": [
+            "Table 3. Effect of the intervention on the mean minutes of physical activity, physical inactivity, and indicators of adiposity of students from",
+            "P-values of difference-in-differences",
+            "Control group",
+            "MARA+SMS",
+            "versus",
+            "MARA"
+          ]
+        },
+        {
+          "value": "318.7 (7.48)",
+          "rowHeaders": [
+            "Daily light PA (SE)",
+            "Light PA on weekdays (SE)",
+            "Physical inactivity on weekdays (SE)"
+          ],
+          "columnHeaders": [
+            "Table 3. Effect of the intervention on the mean minutes of physical activity, physical inactivity, and indicators of adiposity of students from",
+            "P-values of difference-in-differences",
+            "MARA+SMS group",
+            "(n = 44)",
+            "versus",
+            "Control",
+            "T0a"
+          ]
+        },
+        {
+          "value": "301.1 (7.48)",
+          "rowHeaders": [
+            "Daily light PA (SE)",
+            "Light PA on weekdays (SE)",
+            "Physical inactivity on weekdays (SE)"
+          ],
+          "columnHeaders": [
+            "Table 3. Effect of the intervention on the mean minutes of physical activity, physical inactivity, and indicators of adiposity of students from",
+            "P-values of difference-in-differences",
+            "MARA+SMS group",
+            "(n = 44)",
+            "versus",
+            "Control",
+            "T1b"
+          ]
+        },
+        {
+          "value": "281.6 (8.54)",
+          "rowHeaders": [
+            "Daily light PA (SE)",
+            "Light PA on weekdays (SE)",
+            "Physical inactivity on weekdays (SE)"
+          ],
+          "columnHeaders": [
+            "Table 3. Effect of the intervention on the mean minutes of physical activity, physical inactivity, and indicators of adiposity of students from",
+            "P-values of difference-in-differences",
+            "MARA group",
+            "(n = 34)",
+            "versus",
+            "Control",
+            "T0"
+          ]
+        },
+        {
+          "value": "305.1 (8.54)",
+          "rowHeaders": [
+            "Daily light PA (SE)",
+            "Light PA on weekdays (SE)",
+            "Physical inactivity on weekdays (SE)"
+          ],
+          "columnHeaders": [
+            "Table 3. Effect of the intervention on the mean minutes of physical activity, physical inactivity, and indicators of adiposity of students from",
+            "P-values of difference-in-differences",
+            "MARA group",
+            "(n = 34)",
+            "versus",
+            "Control",
+            "T1"
+          ]
+        },
+        {
+          "value": "308.9 (7.70)",
+          "rowHeaders": [
+            "Daily light PA (SE)",
+            "Light PA on weekdays (SE)",
+            "Physical inactivity on weekdays (SE)"
+          ],
+          "columnHeaders": [
+            "Table 3. Effect of the intervention on the mean minutes of physical activity, physical inactivity, and indicators of adiposity of students from",
+            "P-values of difference-in-differences",
+            "Control group",
+            "(n = 42)",
+            "versus",
+            "Control",
+            "T0"
+          ]
+        },
+        {
+          "value": "283.2 (7.70)",
+          "rowHeaders": [
+            "Daily light PA (SE)",
+            "Light PA on weekdays (SE)",
+            "Physical inactivity on weekdays (SE)"
+          ],
+          "columnHeaders": [
+            "Table 3. Effect of the intervention on the mean minutes of physical activity, physical inactivity, and indicators of adiposity of students from",
+            "P-values of difference-in-differences",
+            "Control group",
+            "MARA",
+            "versus",
+            "Control",
+            "T1"
+          ]
+        },
+        {
+          "value": "0.002",
+          "rowHeaders": [
+            "Daily light PA (SE)",
+            "Light PA on weekdays (SE)",
+            "Physical inactivity on weekdays (SE)"
+          ],
+          "columnHeaders": [
+            "Table 3. Effect of the intervention on the mean minutes of physical activity, physical inactivity, and indicators of adiposity of students from",
+            "P-values of difference-in-differences",
+            "Control group",
+            "MARA",
+            "versus",
+            "Control"
+          ]
+        },
+        {
+          "value": "0.003",
+          "rowHeaders": [
+            "Daily light PA (SE)",
+            "Light PA on weekdays (SE)",
+            "Physical inactivity on weekdays (SE)"
+          ],
+          "columnHeaders": [
+            "Table 3. Effect of the intervention on the mean minutes of physical activity, physical inactivity, and indicators of adiposity of students from",
+            "P-values of difference-in-differences",
+            "Control group",
+            "MARA+SMS",
+            "versus",
+            "Control"
+          ]
+        },
+        {
+          "value": "0.002",
+          "rowHeaders": [
+            "Daily light PA (SE)",
+            "Light PA on weekdays (SE)",
+            "Physical inactivity on weekdays (SE)"
+          ],
+          "columnHeaders": [
+            "Table 3. Effect of the intervention on the mean minutes of physical activity, physical inactivity, and indicators of adiposity of students from",
+            "P-values of difference-in-differences",
+            "Control group",
+            "MARA+SMS",
+            "versus",
+            "MARA"
+          ]
+        },
+        {
+          "value": "543.6 (8.80)",
+          "rowHeaders": [
+            "Daily light PA (SE)",
+            "Physical inactivity on weekdays (SE)"
+          ],
+          "columnHeaders": [
+            "Table 3. Effect of the intervention on the mean minutes of physical activity, physical inactivity, and indicators of adiposity of students from",
+            "P-values of difference-in-differences",
+            "MARA+SMS group",
+            "(n = 44)",
+            "versus",
+            "Control",
+            "T0a"
+          ]
+        },
+        {
+          "value": "532.1 (8.80)",
+          "rowHeaders": [
+            "Daily light PA (SE)",
+            "Physical inactivity on weekdays (SE)"
+          ],
+          "columnHeaders": [
+            "Table 3. Effect of the intervention on the mean minutes of physical activity, physical inactivity, and indicators of adiposity of students from",
+            "P-values of difference-in-differences",
+            "MARA+SMS group",
+            "(n = 44)",
+            "versus",
+            "Control",
+            "T1b"
+          ]
+        },
+        {
+          "value": "547.6 (10.05)531.8 (10.05)",
+          "rowHeaders": [
+            "Daily light PA (SE)",
+            "Physical inactivity on weekdays (SE)"
+          ],
+          "columnHeaders": [
+            "Table 3. Effect of the intervention on the mean minutes of physical activity, physical inactivity, and indicators of adiposity of students from",
+            "P-values of difference-in-differences",
+            "MARA group",
+            "(n = 34)",
+            "versus",
+            "Control",
+            "T1"
+          ]
+        },
+        {
+          "value": "502.5 (9.07)",
+          "rowHeaders": [
+            "Physical inactivity on weekdays (SE)"
+          ],
+          "columnHeaders": [
+            "Table 3. Effect of the intervention on the mean minutes of physical activity, physical inactivity, and indicators of adiposity of students from",
+            "P-values of difference-in-differences",
+            "Control group",
+            "(n = 42)",
+            "versus",
+            "Control",
+            "T0"
+          ]
+        },
+        {
+          "value": "513.3 (9.07)",
+          "rowHeaders": [
+            "Physical inactivity on weekdays (SE)"
+          ],
+          "columnHeaders": [
+            "Table 3. Effect of the intervention on the mean minutes of physical activity, physical inactivity, and indicators of adiposity of students from",
+            "P-values of difference-in-differences",
+            "Control group",
+            "MARA",
+            "versus",
+            "Control",
+            "T1"
+          ]
+        },
+        {
+          "value": "0.003",
+          "rowHeaders": [
+            "Physical inactivity on weekdays (SE)"
+          ],
+          "columnHeaders": [
+            "Table 3. Effect of the intervention on the mean minutes of physical activity, physical inactivity, and indicators of adiposity of students from",
+            "P-values of difference-in-differences",
+            "Control group",
+            "MARA",
+            "versus",
+            "Control"
+          ]
+        },
+        {
+          "value": "0.003",
+          "rowHeaders": [
+            "Physical inactivity on weekdays (SE)"
+          ],
+          "columnHeaders": [
+            "Table 3. Effect of the intervention on the mean minutes of physical activity, physical inactivity, and indicators of adiposity of students from",
+            "P-values of difference-in-differences",
+            "Control group",
+            "MARA+SMS",
+            "versus",
+            "Control"
+          ]
+        },
+        {
+          "value": "0.001",
+          "rowHeaders": [
+            "Physical inactivity on weekdays (SE)"
+          ],
+          "columnHeaders": [
+            "Table 3. Effect of the intervention on the mean minutes of physical activity, physical inactivity, and indicators of adiposity of students from",
+            "P-values of difference-in-differences",
+            "Control group",
+            "MARA+SMS",
+            "versus",
+            "MARA"
+          ]
+        },
+        {
+          "value": "566.3 (9.62)",
+          "rowHeaders": [
+            "Physical inactivity on weekdays (SE)"
+          ],
+          "columnHeaders": [
+            "Table 3. Effect of the intervention on the mean minutes of physical activity, physical inactivity, and indicators of adiposity of students from",
+            "P-values of difference-in-differences",
+            "MARA+SMS group",
+            "(n = 44)",
+            "versus",
+            "Control",
+            "T0a"
+          ]
+        },
+        {
+          "value": "548.2 (9.62)",
+          "rowHeaders": [
+            "Physical inactivity on weekdays (SE)"
+          ],
+          "columnHeaders": [
+            "Table 3. Effect of the intervention on the mean minutes of physical activity, physical inactivity, and indicators of adiposity of students from",
+            "P-values of difference-in-differences",
+            "MARA+SMS group",
+            "(n = 44)",
+            "versus",
+            "Control",
+            "T1b"
+          ]
+        },
+        {
+          "value": "561.9 (10.99)539.9 (10.99)",
+          "rowHeaders": [
+            "Physical inactivity on weekdays (SE)"
+          ],
+          "columnHeaders": [
+            "Table 3. Effect of the intervention on the mean minutes of physical activity, physical inactivity, and indicators of adiposity of students from",
+            "P-values of difference-in-differences",
+            "MARA group",
+            "(n = 34)",
+            "versus",
+            "Control",
+            "T1"
+          ]
+        },
+        {
+          "value": "504.3 (9.92)",
+          "rowHeaders": [
+            "Physical inactivity on weekdays (SE)"
+          ],
+          "columnHeaders": [
+            "Table 3. Effect of the intervention on the mean minutes of physical activity, physical inactivity, and indicators of adiposity of students from",
+            "P-values of difference-in-differences",
+            "Control group",
+            "(n = 42)",
+            "versus",
+            "Control",
+            "T0"
+          ]
+        },
+        {
+          "value": "523.6 (9.92)",
+          "rowHeaders": [
+            "Physical inactivity on weekdays (SE)"
+          ],
+          "columnHeaders": [
+            "Table 3. Effect of the intervention on the mean minutes of physical activity, physical inactivity, and indicators of adiposity of students from",
+            "P-values of difference-in-differences",
+            "Control group",
+            "MARA",
+            "versus",
+            "Control",
+            "T1"
+          ]
+        },
+        {
+          "value": "0.003",
+          "rowHeaders": [
+            "Physical inactivity on weekdays (SE)"
+          ],
+          "columnHeaders": [
+            "Table 3. Effect of the intervention on the mean minutes of physical activity, physical inactivity, and indicators of adiposity of students from",
+            "P-values of difference-in-differences",
+            "Control group",
+            "MARA",
+            "versus",
+            "Control"
+          ]
+        },
+        {
+          "value": "0.004",
+          "rowHeaders": [
+            "Physical inactivity on weekdays (SE)"
+          ],
+          "columnHeaders": [
+            "Table 3. Effect of the intervention on the mean minutes of physical activity, physical inactivity, and indicators of adiposity of students from",
+            "P-values of difference-in-differences",
+            "Control group",
+            "MARA+SMS",
+            "versus",
+            "Control"
+          ]
+        },
+        {
+          "value": "0.001",
+          "rowHeaders": [
+            "Physical inactivity on weekdays (SE)"
+          ],
+          "columnHeaders": [
+            "Table 3. Effect of the intervention on the mean minutes of physical activity, physical inactivity, and indicators of adiposity of students from",
+            "P-values of difference-in-differences",
+            "Control group",
+            "MARA+SMS",
+            "versus",
+            "MARA"
+          ]
+        },
+        {
+          "value": "0.05 (0.16)",
+          "rowHeaders": [
+            "BMI z-score (SE)"
+          ],
+          "columnHeaders": [
+            "Table 3. Effect of the intervention on the mean minutes of physical activity, physical inactivity, and indicators of adiposity of students from",
+            "P-values of difference-in-differences",
+            "MARA+SMS group",
+            "(n = 44)",
+            "versus",
+            "Control",
+            "T0a"
+          ]
+        },
+        {
+          "value": "0.1 (0.16)",
+          "rowHeaders": [
+            "BMI z-score (SE)"
+          ],
+          "columnHeaders": [
+            "Table 3. Effect of the intervention on the mean minutes of physical activity, physical inactivity, and indicators of adiposity of students from",
+            "P-values of difference-in-differences",
+            "MARA+SMS group",
+            "(n = 44)",
+            "versus",
+            "Control",
+            "T1b"
+          ]
+        },
+        {
+          "value": "0.4 (0.19)",
+          "rowHeaders": [
+            "BMI z-score (SE)"
+          ],
+          "columnHeaders": [
+            "Table 3. Effect of the intervention on the mean minutes of physical activity, physical inactivity, and indicators of adiposity of students from",
+            "P-values of difference-in-differences",
+            "MARA group",
+            "(n = 34)",
+            "versus",
+            "Control",
+            "T0"
+          ]
+        },
+        {
+          "value": "0.4 (0.19)",
+          "rowHeaders": [
+            "BMI z-score (SE)"
+          ],
+          "columnHeaders": [
+            "Table 3. Effect of the intervention on the mean minutes of physical activity, physical inactivity, and indicators of adiposity of students from",
+            "P-values of difference-in-differences",
+            "MARA group",
+            "(n = 34)",
+            "versus",
+            "Control",
+            "T1"
+          ]
+        },
+        {
+          "value": "-0.2 (0.17)",
+          "rowHeaders": [
+            "BMI z-score (SE)"
+          ],
+          "columnHeaders": [
+            "Table 3. Effect of the intervention on the mean minutes of physical activity, physical inactivity, and indicators of adiposity of students from",
+            "P-values of difference-in-differences",
+            "Control group",
+            "(n = 42)",
+            "versus",
+            "Control",
+            "T0"
+          ]
+        },
+        {
+          "value": "-0.1 (0.17)",
+          "rowHeaders": [
+            "BMI z-score (SE)"
+          ],
+          "columnHeaders": [
+            "Table 3. Effect of the intervention on the mean minutes of physical activity, physical inactivity, and indicators of adiposity of students from",
+            "P-values of difference-in-differences",
+            "Control group",
+            "MARA",
+            "versus",
+            "Control",
+            "T1"
+          ]
+        },
+        {
+          "value": "0.847",
+          "rowHeaders": [
+            "BMI z-score (SE)"
+          ],
+          "columnHeaders": [
+            "Table 3. Effect of the intervention on the mean minutes of physical activity, physical inactivity, and indicators of adiposity of students from",
+            "P-values of difference-in-differences",
+            "Control group",
+            "MARA",
+            "versus",
+            "Control"
+          ]
+        },
+        {
+          "value": "0.945",
+          "rowHeaders": [
+            "BMI z-score (SE)"
+          ],
+          "columnHeaders": [
+            "Table 3. Effect of the intervention on the mean minutes of physical activity, physical inactivity, and indicators of adiposity of students from",
+            "P-values of difference-in-differences",
+            "Control group",
+            "MARA+SMS",
+            "versus",
+            "Control"
+          ]
+        },
+        {
+          "value": "0.990",
+          "rowHeaders": [
+            "BMI z-score (SE)"
+          ],
+          "columnHeaders": [
+            "Table 3. Effect of the intervention on the mean minutes of physical activity, physical inactivity, and indicators of adiposity of students from",
+            "P-values of difference-in-differences",
+            "Control group",
+            "MARA+SMS",
+            "versus",
+            "MARA"
+          ]
+        },
+        {
+          "value": "18.9 (0.82)",
+          "rowHeaders": [
+            "Fat percentage (SE)"
+          ],
+          "columnHeaders": [
+            "Table 3. Effect of the intervention on the mean minutes of physical activity, physical inactivity, and indicators of adiposity of students from",
+            "P-values of difference-in-differences",
+            "MARA+SMS group",
+            "(n = 44)",
+            "versus",
+            "Control",
+            "T0a"
+          ]
+        },
+        {
+          "value": "20.0 (0.83)",
+          "rowHeaders": [
+            "Fat percentage (SE)"
+          ],
+          "columnHeaders": [
+            "Table 3. Effect of the intervention on the mean minutes of physical activity, physical inactivity, and indicators of adiposity of students from",
+            "P-values of difference-in-differences",
+            "MARA+SMS group",
+            "(n = 44)",
+            "versus",
+            "Control",
+            "T1b"
+          ]
+        },
+        {
+          "value": "20.2 (1.03)",
+          "rowHeaders": [
+            "Fat percentage (SE)"
+          ],
+          "columnHeaders": [
+            "Table 3. Effect of the intervention on the mean minutes of physical activity, physical inactivity, and indicators of adiposity of students from",
+            "P-values of difference-in-differences",
+            "MARA group",
+            "(n = 34)",
+            "versus",
+            "Control",
+            "T0"
+          ]
+        },
+        {
+          "value": "21.1 (1.03)",
+          "rowHeaders": [
+            "Fat percentage (SE)"
+          ],
+          "columnHeaders": [
+            "Table 3. Effect of the intervention on the mean minutes of physical activity, physical inactivity, and indicators of adiposity of students from",
+            "P-values of difference-in-differences",
+            "MARA group",
+            "(n = 34)",
+            "versus",
+            "Control",
+            "T1"
+          ]
+        },
+        {
+          "value": "18.1 (0.93)",
+          "rowHeaders": [
+            "Fat percentage (SE)"
+          ],
+          "columnHeaders": [
+            "Table 3. Effect of the intervention on the mean minutes of physical activity, physical inactivity, and indicators of adiposity of students from",
+            "P-values of difference-in-differences",
+            "Control group",
+            "(n = 42)",
+            "versus",
+            "Control",
+            "T0"
+          ]
+        },
+        {
+          "value": "18.8 (0.93)",
+          "rowHeaders": [
+            "Fat percentage (SE)"
+          ],
+          "columnHeaders": [
+            "Table 3. Effect of the intervention on the mean minutes of physical activity, physical inactivity, and indicators of adiposity of students from",
+            "P-values of difference-in-differences",
+            "Control group",
+            "MARA",
+            "versus",
+            "Control",
+            "T1"
+          ]
+        },
+        {
+          "value": "0.915",
+          "rowHeaders": [
+            "Fat percentage (SE)"
+          ],
+          "columnHeaders": [
+            "Table 3. Effect of the intervention on the mean minutes of physical activity, physical inactivity, and indicators of adiposity of students from",
+            "P-values of difference-in-differences",
+            "Control group",
+            "MARA",
+            "versus",
+            "Control"
+          ]
+        },
+        {
+          "value": "0.788",
+          "rowHeaders": [
+            "Fat percentage (SE)"
+          ],
+          "columnHeaders": [
+            "Table 3. Effect of the intervention on the mean minutes of physical activity, physical inactivity, and indicators of adiposity of students from",
+            "P-values of difference-in-differences",
+            "Control group",
+            "MARA+SMS",
+            "versus",
+            "Control"
+          ]
+        },
+        {
+          "value": "0.975",
+          "rowHeaders": [
+            "Fat percentage (SE)"
+          ],
+          "columnHeaders": [
+            "Table 3. Effect of the intervention on the mean minutes of physical activity, physical inactivity, and indicators of adiposity of students from",
+            "P-values of difference-in-differences",
+            "Control group",
+            "MARA+SMS",
+            "versus",
+            "MARA"
+          ]
+        }
+      ],
+      "page": 1
+    }
+  ]
+}

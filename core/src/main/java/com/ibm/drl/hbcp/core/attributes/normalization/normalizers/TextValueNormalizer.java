@@ -97,7 +97,7 @@ public class TextValueNormalizer implements Normalizer<AttributeValuePair> {
         
         // assign most similar category
         String norm = mostSimCat.getText();
-        logger.info(text + " --> " + norm);
+        logger.debug(text + " --> " + norm);
         return norm;
     }
     

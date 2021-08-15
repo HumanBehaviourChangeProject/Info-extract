@@ -1,0 +1,1281 @@
+{
+  "blocks": [
+    {
+      "type": "LINES",
+      "value": "Cluster randomized controlled trial of a multilevel physical activity intervention for older adults",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Background: Older adults are the least active population group. Interventions in residential settings may support a multi-level approach to behavior change. Methods: Ina cluster randomized control trial, 11 San Diego retirement communities were assigned to a physical activity (PA) intervention or a healthy aging attention control condition. Participants were 307 adults over 65 years old. The multilevel PA intervention was delivered with the assistance of peer leaders, who were trained older adult from the retirement communities. Intervention components included individual counseling & self-monitoring with pedometers, group education sessions, group walks, community advocacy and pedestrian community change projects. Intervention condition by time interactions were tested using generalized mixed effects regressions. The primary outcomes was accelerometer measured physical activity. Secondary outcomes were blood pressure and objectively measured physical functioning. Results: Over 70% of the sample were 80 years or older. PA significantly increased in the intervention condition (56 min of moderate-vigorous PA per week; 119 min of light PA) compared with the control condition and remained significantly higher across the 12 month study. Men and participants under 84 years old benefited most from the intervention. There was a significant decrease in systolic (p < .007) and diastolic (p < .02) blood pressure at 6 months. Physical functioning improved but the changes were not statistically significant. Conclusions: Intervention fidelity was high demonstrating feasibility. Changes in PA and blood pressure achieved were comparable to other studies with much younger participants. Men, in particular, avoided a year-long decline in PA. Trial registration: clincialtrials.gov Identifier: NCT01155011.",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Physical inactivity has been identified as a major public health problem, particularly for older adults. In addition to longevity, physical activity (PA) confers many health benefits to older adults including maintaining physical functioning and controlling conditions such as hypertension that are prevalent in this age group. Several reviews have shown that PA in older adults can be increased in short term (6 month) controlled trials in multiple settings using behavioral and cognitive approaches at the individual or group level. In 2015, the Office of the Surgeon General in the US Department of Health and Human Services released \"Step It Up! The Surgeon General's Call to Action to Promote Walking and Walkable Communities\" to recognize walking as an important way to promote physical activity and researchers have proposed ecological approaches to reach larger population groups. While there are many successful walking interventions, few interventions in older adults have included pedestrian advocacy to promote environmental changes or assessed longterm sustainable approaches to behavior change.\nRetirement communities provide opportunities and supportive environments for older adults' PA, but residents are still not meeting PA guidelines. Retirement communities, however, provide an ideal setting to study multi-level interventions as individual (goal setting), interpersonal (group walks) and environmental components (pedestrian advocacy to improve local walkability) can be delivered in and around a single location where a large vulnerable population resides.\nThe primary objective of this study was to determine the effect of a 6 month multilevel PA intervention on objectively measured daily minutes of PA among older adults living in retirement communities. The secondary aim was to assess intervention effects on blood pressure and physical functioning. The exploratory aim was to assess intervention effects on self-reported physical and emotional outcomes. We explored demographic moderators of effects as other studies have found differences by age and gender. We hypothesized that PA levels would increase in the intervention condition compared to the healthy aging attention control and be sustained over 12 months study and men and younger adults would benefit more from the intervention.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The institutional review board approved the study; a Multilevel Intervention for Physical Activity in Retirement Communities (MIPARC) and the study was conducted according to the Helsinki declaration. An independent data and safety monitor reviewed all adverse events. All participants provided written informed consent.\nMIPARC was a cluster randomized trial conducted in retirement communities in San Diego County. Sites had to house at least 100 residents, include independent living options, and have a store or park within 1 mile. Randomization was assigned at the site level. Both arms of the study were described to site managers and their written agreement to participate was procured prior to randomization. Once a memorandum of understanding was received, the statistician revealed the randomization condition for the next number on the list to the project manager, who informed the study site of which program they would receive. Peer leaders were then trained in the intervention they were allocated. Participants were recruited, unblended, to the specific study condition by peer leaders and no information about their health or behavior was available prior to randomization.\nOlder adult peer leaders, who helped deliver the program, were identified by site staff and residents. They were required to meet the same eligibility criteria as participants. Participants were recruited through presentations from UCSD staff, flyers, information tables, and peer leader outreach. Eligible participants had to be over 65 years old, complete a 'timed up and go' in less than 30 s (for screening purposes only), be able to walk 20 m without human assistance, have not had a fall in the previous 12 months that resulted in hospitalization, be able to talk over the phone, and have no plans to move in the next year. Within sites, educational groups were limited to less than 35 participants to keep group activities manageable. This resulted in 7 sites with 9 educational groups in the control condition and 4 sites with 6 educational groups in the intervention condition. Thus an additional clustering level of education group (N = 15) was created post randomization. Participants were enrolled between 2010 and 2013 and followed through 2014.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The multilevel MIPARC intervention was described previously. It employed techniques from the Social Cognitive Theory and applied them in an Ecological framework with intervention activities occurring at the individual (goal setting), interpersonal (group walks), and community level (pedestrian advocated improvements in walkability). Peer leaders helped deliver the program. Activities included up to 9 group education sessions (interpersonal level) over a 6 month period at sites. Group sessions aimed to provide information, social support, and behavior modeling. Group walks were co-led by UCSD staff and peer leaders for the first 6 months, with the peer leaders continuing this after 6 months. Four counseling phone calls were completed in the first 8 weeks to identify barriers and support safe goal setting (individual level). Participants wore pedometers and completed weekly step logs. The focus of the intervention was 'Every Step Counts' , we did not require any specific intensity of PA. In the first 6 months of the study, their steps were plotted in progress charts to provide feedback every two weeks. Participants were encouraged to continue to wear the pedometer and return the logs to peer leaders in the second 6 months. All participants, regardless of baseline steps, were encouraged to achieve a daily 3000 step increase from their baseline over a period of 12 weeks, then focused on maintaining that increase for the remainder of the study. Weekly goal setting was discussed with the phone counselors and goal achievement was celebrated in the group sessions. Participants received educational materials, step counts for common locations around their campus, and walking maps for their local community. Peer leaders advocated for local environment improvements (environment level) to ensure participants had safe walking routes in their neighborhoods. They completed a walk audit with the community advocacy organization 'Walk San Diego' and received training to communicate with local policy makers and city officials. Community improvements achieved included extending crosswalk times and adding auditory and visual traffic cues at busy intersections, cleaning up a pedestrian access bridge, cutting back foliage that had grown over sidewalks, adding parking bollards to prevent cars parking over a sidewalk, and adding walking paths to a redevelopment plan. Changes to the environments occurred on average by 6 months but ranged from 3 to 12 months.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Participants in the healthy aging attention control condition received similar levels of attention on the same schedule as intervention participants. They received up to 9 group education sessions in the first 6 months on topics related to successful aging and completed 4 general health calls with UCSD staff counselors within the first 8 weeks.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "All participant assessments occurred at the retirement communities. The accelerometer data processor and statistician were blinded to the outcomes. In field assessors were not blinded as the intervention conditions were apparent at each site, for example only intervention participants had pedometers and visible celebration boards.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Table presents the unadjusted minutes for multiple accelerometer cut points overtime by the intervention conditions. In the moderate vigorous intensity category there was an 8 min increase in physical activity per day, for the lighter intensity category (e.g. 760 counts per minute) increases in physical activity were up to 17 min a day i.e. 119 min per week. Figure presents the model based estimates of daily accelerometer moderatevigorous PA minutes over the 12 month intervention period adjusting for baseline differences in demographics and physical functioning, accelerometer wear time, nesting of days within people and people within sites. Differences between the intervention and control conditions remained significant at 12 months.\nDemographic moderators were examined as they have been found to be significant in previous studies. The statistical analyses also revealed interactions by gender, age, marital status and education (p < .001). The largest interaction effects were for gender (see Additional file 2: Figure). Men almost doubled their PA levels from baseline in the intervention condition while men in the control condition greatly decreased their PA levels. The women did not have as large an increase or decrease in behavior across the two conditions. Participants less than 84 years old (the mean for this population) had greater increases in PA compared to control participants. Married participants in the intervention Fig. CONSORT diagram condition increased their PA more than those in the control condition who were married. Likewise college educated participants in the intervention condition increased their PA more than college educated participants in the control condition.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "At baseline, 6 and 12 months, participants completed the Short Physical Performance Battery (SPBB) and timed 400 m walk test that results in a walking speed outcome. Blood pressure was measured at rest using standard sphygmomanometer procedures. The mean of three measures was calculated.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Self-reported outcomes included the Centers for Epidemiologic Studies Depression scale, Perceived Quality of Life scale, Perceived Stress Scale, Fear Efficacy Scale International, PROMIS Pain Interference scale and the Late Life Function and Disability Instrument.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "An intention to treat analysis was conducted. The statistician was blinded to site condition. Generalized mixed effects regression methods were employed to assess intervention condition by time interaction. All models adjusted for site level clustering as appropriate fora cluster RCT. Partially complete records are included in the model, avoiding biases associated with a completers only analysis. This method gives unbiased estimates under the assumption that data are \"missing at random\". Analyses were conducted in R with educational group (N = 15 across the 11 sites) entered as a random clustering effect for all analyses. For accelerometer analyses, days were nested within participants, and a random participant-level intercept was included in the model. Condition (intervention versus control), time, and a two way interaction effect, condition x time, were included as fixed-effects. Models were adjusted for baseline differences in age, marital status, and physical functioning, as covariates. There was no difference in the adjusted and unadjusted models therefore the adjusted models are presented. Accelerometer wear time was entered as a fixed effect covariate in the primary outcome analyses. Three way interaction effects were explored to assess the moderating effects of demographic variables on the intervention.\nThe PA outcome demonstrated a negative binomial distribution, hence the generalized linear mixed model was applied with logarithmic link functions. A logistic regression mixed model with binomial link was used for the pain outcome; for all other health outcomes linear mixed effects models with Gaussian link were used. Fear of falling and depression scores were log transformed. A p-value of <.05 was employed for main effects and interactions.\nFor the primary outcome of accelerometer measured PA at 6 months, it was estimated that a sample size of 250 would provide a minimum of 80% power to detect a medium effect size (0.5 SD) accounting for an ICC of .07 for site cluster.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Figure provides a CONSORT flow diagram of recruitment, screening and enrollment; 73% of all participants who were eligible were enrolled. At 12 months, accelerometer data that met validity criteria were available for 92% of intervention participants and 88% of comparison participants. There were 7 sites randomized to control and 4 sites randomized to intervention. Within the control sites 9 educational groups were formed and in the intervention 6 educational groups were formed. Site level clusters ranged from 15 to 79 participants and educational groups within sites ranged from 15 to 30. Drop out varied by 11-47% by site level cluster. Intervention and controls had similar drop outs. The site level clustering ICC was .008. Table presents descriptive statistics at baseline, adjusting for site level clustering. Participants in the intervention condition were significantly more likely to be younger and married and more likely to complete the 400 m walk. Participants represented the communities from which they were drawn, except that a greater percentage of males were enrolled compared to the population in the retirement community (i.e. 28% in our study compared to 20% in the communities). Baseline differences in characteristics were adjusted for in the mixed model approach and results did not differ between the adjusted and unadjusted models.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "There was a significant time x condition interaction for both systolic (t value = − 2.68, p = .007) and diastolic (t value = − 2.35 p = .02) blood pressure at 6 months. Systolic blood pressure reduced by 6.8 (SD = 3.2) points on average, diastolic by 2.5 (SD = 1.9) points, and having clinically high blood pressure reduced by 18.2% (10.4%, 24.3%). The intervention effects were no longer significant at 12 months. There was a 0.02 m/s (SD = 0.03) improvement in walk speed and 0.26 (0.28) improvement in SPPB score between baseline and 6 months but the differences were not statistically significant.\nNone of the exploratory survey outcomes significantly increased in the intervention condition overtime. Table shows the unadjusted change in these survey measures overtime.\nIn total, 174 adverse events were reported during the 12 month study period, 68 of which met our criteria for serious adverse events (SAE), based on NIH guidelines. The SAEs by person are reported in Additional file 3: Table. No SAEs were determined to be definitely related to study participation and there was no significant difference in the number of events, including falls, between the intervention and control conditions, although physical injuries were higher in the intervention group.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Attendance at the group education sessions, assessed by staff checking from a list of names, was 82% on average ranging from 93 to 76% in the intervention condition over the 6 months and from 87 to 73% in the control condition. The completion rate of phone counseling calls with participants (logged by callers and verified by recording) was 90% on average. In the intervention condition daily enactment of intervention was high. On average 96% meta daily increase of 1000 steps, 78% meta daily increase of 2000 steps and 51% meta daily increase of 3000 steps assessed by returned pedometer logs entered by staff.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "A significant increase in PA was found for the intervention; about 56 min of moderate-vigorous PA per week or 119 min of light PA, compared to no change overall in the controls. The difference remained significant over the 12 month intervention period, although the greatest increase was in the first 3 months. The guidelines for older adults encourage any increase in physical activity as  Fig. Differences in moderate vigorous physical activity (MVPA) between intervention and control conditions overtime, adjusting for baseline demographic differences, nesting of days within people and people within sites beneficial, and increases in moderate-vigorous PA as more beneficial. Both light and moderate PA improved in this study, despite the focus on steps rather than intensity. Some subgroups, men and younger participants, benefited from this intervention more than others. Adverse events were similar to other PA intervention trials, even though participants were much older than other studies and intervention participants were encouraged to walk in local neighborhoods, if it was safe to do so. Intervention adherence was high. Our findings for PA were similar to other studies in older adults, even though our sample was much older.\nThe impact of the intervention on blood pressure had clinical significance with a reduction of 7 points in systolic blood pressure. The weekly increase in PA minutes could contribute to participants meeting PA guidelines and having reduced risk of cancer, heart disease, and diabetes. There was no impact of the intervention on self-reported outcomes or the physical functioning measures. This could have been due to high rates of functioning at baseline, lack of statistical power, or because the walking intervention was insufficient to impact these outcomes.\nIn men, this intervention prevented a 12 month decline in PA of 45%. MIPARC included male peer leaders as role models and allowed for independent walking and encouraged neighborhood walking, which may have appealed to men more than group exercise classes typically offered at sites. These positive effects for men are important in light of recent findings that men decrease their activity levels as they age. MIPARC also successfully recruited older men, who are often not reached in PA programs.\nWhile differences between the intervention and control conditions remained significant at 12 months, initial large increases in PA at 3 months were not maintained throughout. Many previous studies also demonstrate only short-term effects of PA interventions, but some studies (even simple pedometer interventions) have been successful over 6 months. Few studies have assessed PA objectively through 12 months, especially in this much older age group.\nThe decline overtime in some control participants, despite participants living in well facilitated and serviced retirement communities, indicates that supportive environments alone are insufficient for some groups e.g. men.\nThe steady decline in PA in the intervention group after 3 months is somewhat surprising given intervention activities continued and high attendance at events was maintained through 6 months. Further, the peer leaders continued events, including group walks and community advocacy, and participants continued to wear and return pedometer logs through 12 months. Our goal setting schedule, however, emphasized improvements should be achieved by 3 months and thereafter maintained. This could have led participants to focus too much on this short-term goal. Personal counseling phone calls also only occurred in the first 8 weeks of the study. These calls may have been important in this sample and previous studies have shown that PA counseling is effective. Feasible and affordable ways to continue such personal support are needed. Training of peer leaders in such counseling techniques maybe one solution.\nStrengths of this intervention include the objective measures of PA, the multilevel approach to the intervention including peer leaders and community advocacy, and the retirement community setting that enabled us to reach much older adults than are typically included in PA trials. Further, this community setting holds promise for future implementation and dissemination efforts. The study demonstrated that all levels of the ecological model could be targeted and high attendance suggests participants were not burdened by the multiple components. Peers were able to help deliver the interpersonal elements such as group activities. Local environmental changes related to walkability such as crossing timings and improving sidewalk access were achieved through peer led pedestrian advocacy efforts. The study design, however, did not allow us to assess whether anyone component was more effective than another and high levels of fidelity across all levels do not support finding dose effects.\nLimitations include the homogeneity of the participants. It is not clear if the current intervention would generalize to all older adults, especially since San Diego County has a temperate climate. Other limitations include significant differences in age, marital status and physical functioning between the two intervention conditions at baseline. Such imbalances are common in cluster RCTs and can only be controlled for if baseline characteristics are available to researchers before enrollment, such as patient data in a clinical setting. This information was not available in the retirement community setting. Results were the same with and without adjustment for these differences. Further differences in the sample would have reduced our power and results for PA and blood pressure were significant. Such differences may have reduced significance for the physical functioning outcomes which showed similar rates of improvement as other PA trials. Another imbalance that could have affected power was between the intervention and control sites (4 to 7) although the number of participants between intervention and control was almost equal and dropout did not differ by study arm. The difference in number of sites, however, across intervention and control conditions was due to no upper limit on the size of sites and agreements with sites that allowed all residents who were eligible to be enrolled. This resulted in a large intervention site that provided 3 educational groups within the site. We adjusted for educational group clustering in our analyses to handle this difference. Regardless of size all sites had similar recruitment rates (10%). In ability to blind assessors to intervention condition could also have affected findings, but given measures such as the physical functioning tests were not different between conditions it suggests there was no bias in the assessments.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "This study provides a model of training and multilevel intervention delivery that could be applied to other community settings. The multilevel PA intervention was acceptable to participants and peer leaders with high adherence rates. Men benefited most from the program. The increases in PA (up to 119 min light PA and 56 min moderate-vigorous PA per week) can contribute to older adults meeting daily PA guidelines. The intervention, despite including lower intensity activities, had a significant impact on blood pressure and hypertension rates. Efforts to maintain increases in PA in this age group, including personal counseling, are still needed.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Additional file 1: Table.\n",
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "85.3 (6.5)",
+          "rowHeaders": [
+            "Mean age (years)"
+          ],
+          "columnHeaders": [
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "Control N = 156"
+          ]
+        },
+        {
+          "value": "81.9 (5.9)",
+          "rowHeaders": [
+            "Mean age (years)"
+          ],
+          "columnHeaders": [
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "Intervention N = 151"
+          ]
+        },
+        {
+          "value": "0.007",
+          "rowHeaders": [
+            "Mean age (years)"
+          ],
+          "columnHeaders": [
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "P value*"
+          ]
+        },
+        {
+          "value": "0.47",
+          "rowHeaders": [
+            "Gender (% female)"
+          ],
+          "columnHeaders": [
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "P value*"
+          ]
+        },
+        {
+          "value": "0.11",
+          "rowHeaders": [
+            "Education (% college and above)"
+          ],
+          "columnHeaders": [
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "P value*"
+          ]
+        },
+        {
+          "value": "0.0002",
+          "rowHeaders": [
+            "Marital Status (% married)"
+          ],
+          "columnHeaders": [
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "P value*"
+          ]
+        },
+        {
+          "value": "2.3 (1.8,",
+          "rowHeaders": [
+            "Moderate-Vigorous Physical Activity"
+          ],
+          "columnHeaders": [
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "Control N = 156"
+          ]
+        },
+        {
+          "value": "3.8)",
+          "rowHeaders": [
+            "Moderate-Vigorous Physical Activity"
+          ],
+          "columnHeaders": [
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "Control N = 156"
+          ]
+        },
+        {
+          "value": "3.1 (1.9,",
+          "rowHeaders": [
+            "Moderate-Vigorous Physical Activity"
+          ],
+          "columnHeaders": [
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "Intervention N = 151"
+          ]
+        },
+        {
+          "value": "4.9)",
+          "rowHeaders": [
+            "Moderate-Vigorous Physical Activity"
+          ],
+          "columnHeaders": [
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "Intervention N = 151"
+          ]
+        },
+        {
+          "value": "0.261",
+          "rowHeaders": [
+            "Moderate-Vigorous Physical Activity"
+          ],
+          "columnHeaders": [
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "P value*"
+          ]
+        },
+        {
+          "value": "0.02",
+          "rowHeaders": [
+            "400 m walking speed (meters/s)"
+          ],
+          "columnHeaders": [
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "P value*"
+          ]
+        },
+        {
+          "value": "7.96 (2.79)",
+          "rowHeaders": [
+            "SPPB score b"
+          ],
+          "columnHeaders": [
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "Control N = 156"
+          ]
+        },
+        {
+          "value": "9.25 (2.60)",
+          "rowHeaders": [
+            "SPPB score b"
+          ],
+          "columnHeaders": [
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "Intervention N = 151"
+          ]
+        },
+        {
+          "value": "0.07",
+          "rowHeaders": [
+            "SPPB score b"
+          ],
+          "columnHeaders": [
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "P value*"
+          ]
+        },
+        {
+          "value": "130.70 (19.07)",
+          "rowHeaders": [
+            "Systolic BP c"
+          ],
+          "columnHeaders": [
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "Control N = 156"
+          ]
+        },
+        {
+          "value": "132.06 (19.24)",
+          "rowHeaders": [
+            "Systolic BP c"
+          ],
+          "columnHeaders": [
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "Intervention N = 151"
+          ]
+        },
+        {
+          "value": "0.59",
+          "rowHeaders": [
+            "Systolic BP c"
+          ],
+          "columnHeaders": [
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "P value*"
+          ]
+        },
+        {
+          "value": "67.00 (8.88)",
+          "rowHeaders": [
+            "Diastolic BP c"
+          ],
+          "columnHeaders": [
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "Control N = 156"
+          ]
+        },
+        {
+          "value": "69.24 (11.18)",
+          "rowHeaders": [
+            "Diastolic BP c"
+          ],
+          "columnHeaders": [
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "Intervention N = 151"
+          ]
+        },
+        {
+          "value": "0.81",
+          "rowHeaders": [
+            "Diastolic BP c"
+          ],
+          "columnHeaders": [
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "P value*"
+          ]
+        },
+        {
+          "value": "13.73",
+          "rowHeaders": [
+            "% with BP c over 150/90"
+          ],
+          "columnHeaders": [
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "Control N = 156"
+          ]
+        },
+        {
+          "value": "21.19",
+          "rowHeaders": [
+            "% with BP c over 150/90"
+          ],
+          "columnHeaders": [
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "Intervention N = 151"
+          ]
+        },
+        {
+          "value": "0.48",
+          "rowHeaders": [
+            "% with BP c over 150/90"
+          ],
+          "columnHeaders": [
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "P value*"
+          ]
+        },
+        {
+          "value": "36.34 (8.94)",
+          "rowHeaders": [
+            "LLFDI d score (range 10-50)"
+          ],
+          "columnHeaders": [
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "Control N = 156"
+          ]
+        },
+        {
+          "value": "40.54 (8.32)",
+          "rowHeaders": [
+            "LLFDI d score (range 10-50)"
+          ],
+          "columnHeaders": [
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "Intervention N = 151"
+          ]
+        },
+        {
+          "value": "0.29",
+          "rowHeaders": [
+            "LLFDI d score (range 10-50)"
+          ],
+          "columnHeaders": [
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "P value*"
+          ]
+        },
+        {
+          "value": "3.85 (0.64)",
+          "rowHeaders": [
+            "QoL e (range 1-5)"
+          ],
+          "columnHeaders": [
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "Control N = 156"
+          ]
+        },
+        {
+          "value": "4.00 (0.64)",
+          "rowHeaders": [
+            "QoL e (range 1-5)"
+          ],
+          "columnHeaders": [
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "Intervention N = 151"
+          ]
+        },
+        {
+          "value": "0.26",
+          "rowHeaders": [
+            "QoL e (range 1-5)"
+          ],
+          "columnHeaders": [
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "P value*"
+          ]
+        },
+        {
+          "value": "6.17 (4.24)",
+          "rowHeaders": [
+            "CESD f (range 0-30)"
+          ],
+          "columnHeaders": [
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "Control N = 156"
+          ]
+        },
+        {
+          "value": "4.80 (3.76)",
+          "rowHeaders": [
+            "CESD f (range 0-30)"
+          ],
+          "columnHeaders": [
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "Intervention N = 151"
+          ]
+        },
+        {
+          "value": "0.19",
+          "rowHeaders": [
+            "CESD f (range 0-30)"
+          ],
+          "columnHeaders": [
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "P value*"
+          ]
+        },
+        {
+          "value": "4.60 (2.51)",
+          "rowHeaders": [
+            "Stress (range 0-16)"
+          ],
+          "columnHeaders": [
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "Control N = 156"
+          ]
+        },
+        {
+          "value": "3.79 (2.47)",
+          "rowHeaders": [
+            "Stress (range 0-16)"
+          ],
+          "columnHeaders": [
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "Intervention N = 151"
+          ]
+        },
+        {
+          "value": "0.08",
+          "rowHeaders": [
+            "Stress (range 0-16)"
+          ],
+          "columnHeaders": [
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "P value*"
+          ]
+        },
+        {
+          "value": "10.02 (4.50)",
+          "rowHeaders": [
+            "Pain (range 6-30)"
+          ],
+          "columnHeaders": [
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "Control N = 156"
+          ]
+        },
+        {
+          "value": "9.02 (4.25)",
+          "rowHeaders": [
+            "Pain (range 6-30)"
+          ],
+          "columnHeaders": [
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "Intervention N = 151"
+          ]
+        },
+        {
+          "value": "0.41",
+          "rowHeaders": [
+            "Pain (range 6-30)"
+          ],
+          "columnHeaders": [
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "P value*"
+          ]
+        },
+        {
+          "value": "27.88 (9.20)",
+          "rowHeaders": [
+            "LLFDI d score (range 10-50)",
+            "Fear of falling (range 16-64)"
+          ],
+          "columnHeaders": [
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "Control N = 156"
+          ]
+        },
+        {
+          "value": "23.92 (6.89)",
+          "rowHeaders": [
+            "LLFDI d score (range 10-50)",
+            "Fear of falling (range 16-64)"
+          ],
+          "columnHeaders": [
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "Intervention N = 151"
+          ]
+        },
+        {
+          "value": "0.12",
+          "rowHeaders": [
+            "Moderate-Vigorous Physical Activity",
+            "Fear of falling (range 16-64)"
+          ],
+          "columnHeaders": [
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "Table 1 Descriptive statistics for the sample at baseline at the participant level",
+            "P value*"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "821.80 (81.70)",
+          "rowHeaders": [
+            "Control"
+          ],
+          "columnHeaders": [
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Average (SD)",
+            "daily wear time",
+            "minutes per",
+            "person"
+          ]
+        },
+        {
+          "value": "5.90 (1.60)",
+          "rowHeaders": [
+            "Control"
+          ],
+          "columnHeaders": [
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Average",
+            "(SD) wear",
+            "days per",
+            "person"
+          ]
+        },
+        {
+          "value": "39.19 (28.30)",
+          "rowHeaders": [
+            "Control"
+          ],
+          "columnHeaders": [
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Average (SD) daily",
+            "minutes 760 CPM",
+            "and above per",
+            "person"
+          ]
+        },
+        {
+          "value": "24.12 (20.72)",
+          "rowHeaders": [
+            "Control"
+          ],
+          "columnHeaders": [
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Average (SD) daily",
+            "minutes 1041 CPM",
+            "and above (SD) per",
+            "person"
+          ]
+        },
+        {
+          "value": "6.76 (10.28)",
+          "rowHeaders": [
+            "Control"
+          ],
+          "columnHeaders": [
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Average (SD) daily",
+            "minutes 1952 CPM",
+            "and above (SD) per",
+            "a",
+            "person"
+          ]
+        },
+        {
+          "value": "805.10 (79.10)",
+          "rowHeaders": [
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Average (SD)",
+            "daily wear time",
+            "minutes per",
+            "person"
+          ]
+        },
+        {
+          "value": "5.50 (1.60)",
+          "rowHeaders": [
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Average",
+            "(SD) wear",
+            "days per",
+            "person"
+          ]
+        },
+        {
+          "value": "50.03 (29.02)",
+          "rowHeaders": [
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Average (SD) daily",
+            "minutes 760 CPM",
+            "and above per",
+            "person"
+          ]
+        },
+        {
+          "value": "31.74 (23.10)",
+          "rowHeaders": [
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Average (SD) daily",
+            "minutes 1041 CPM",
+            "and above (SD) per",
+            "person"
+          ]
+        },
+        {
+          "value": "10.53 (13.58)",
+          "rowHeaders": [
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Average (SD) daily",
+            "minutes 1952 CPM",
+            "and above (SD) per",
+            "a",
+            "person"
+          ]
+        },
+        {
+          "value": "809.90 (81.30)",
+          "rowHeaders": [
+            "Control"
+          ],
+          "columnHeaders": [
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Average (SD)",
+            "daily wear time",
+            "minutes per",
+            "person"
+          ]
+        },
+        {
+          "value": "5.10 (1.40)",
+          "rowHeaders": [
+            "Control"
+          ],
+          "columnHeaders": [
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Average",
+            "(SD) wear",
+            "days per",
+            "person"
+          ]
+        },
+        {
+          "value": "39.66 (29.49)",
+          "rowHeaders": [
+            "Control"
+          ],
+          "columnHeaders": [
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Average (SD) daily",
+            "minutes 760 CPM",
+            "and above per",
+            "person"
+          ]
+        },
+        {
+          "value": "24.80 (21.94)",
+          "rowHeaders": [
+            "Control"
+          ],
+          "columnHeaders": [
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Average (SD) daily",
+            "minutes 1041 CPM",
+            "and above (SD) per",
+            "person"
+          ]
+        },
+        {
+          "value": "6.54 (9.91)",
+          "rowHeaders": [
+            "Control"
+          ],
+          "columnHeaders": [
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Average (SD) daily",
+            "minutes 1952 CPM",
+            "and above (SD) per",
+            "a",
+            "person"
+          ]
+        },
+        {
+          "value": "825.10 (85.40)",
+          "rowHeaders": [
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Average (SD)",
+            "daily wear time",
+            "minutes per",
+            "person"
+          ]
+        },
+        {
+          "value": "5.20 (1.40)",
+          "rowHeaders": [
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Average",
+            "(SD) wear",
+            "days per",
+            "person"
+          ]
+        },
+        {
+          "value": "67.24 (41.54)",
+          "rowHeaders": [
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Average (SD) daily",
+            "minutes 760 CPM",
+            "and above per",
+            "person"
+          ]
+        },
+        {
+          "value": "46.02 (34.23)",
+          "rowHeaders": [
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Average (SD) daily",
+            "minutes 1041 CPM",
+            "and above (SD) per",
+            "person"
+          ]
+        },
+        {
+          "value": "18.31 (22.58)",
+          "rowHeaders": [
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Average (SD) daily",
+            "minutes 1952 CPM",
+            "and above (SD) per",
+            "a",
+            "person"
+          ]
+        },
+        {
+          "value": "811.40 (86.70)",
+          "rowHeaders": [
+            "Control"
+          ],
+          "columnHeaders": [
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Average (SD)",
+            "daily wear time",
+            "minutes per",
+            "person"
+          ]
+        },
+        {
+          "value": "5.40 (1.20)",
+          "rowHeaders": [
+            "Control"
+          ],
+          "columnHeaders": [
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Average",
+            "(SD) wear",
+            "days per",
+            "person"
+          ]
+        },
+        {
+          "value": "39.24 (25.11)",
+          "rowHeaders": [
+            "Control"
+          ],
+          "columnHeaders": [
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Average (SD) daily",
+            "minutes 760 CPM",
+            "and above per",
+            "person"
+          ]
+        },
+        {
+          "value": "23.78 (18.08)",
+          "rowHeaders": [
+            "Control"
+          ],
+          "columnHeaders": [
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Average (SD) daily",
+            "minutes 1041 CPM",
+            "and above (SD) per",
+            "person"
+          ]
+        },
+        {
+          "value": "6.29 (8.56)",
+          "rowHeaders": [
+            "Control"
+          ],
+          "columnHeaders": [
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Average (SD) daily",
+            "minutes 1952 CPM",
+            "and above (SD) per",
+            "a",
+            "person"
+          ]
+        },
+        {
+          "value": "821.50 (78.40)",
+          "rowHeaders": [
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Average (SD)",
+            "daily wear time",
+            "minutes per",
+            "person"
+          ]
+        },
+        {
+          "value": "5.20 (1.20)",
+          "rowHeaders": [
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Average",
+            "(SD) wear",
+            "days per",
+            "person"
+          ]
+        },
+        {
+          "value": "59.46 (40.05)",
+          "rowHeaders": [
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Average (SD) daily",
+            "minutes 760 CPM",
+            "and above per",
+            "person"
+          ]
+        },
+        {
+          "value": "40.59 (32.87)",
+          "rowHeaders": [
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Average (SD) daily",
+            "minutes 1041 CPM",
+            "and above (SD) per",
+            "person"
+          ]
+        },
+        {
+          "value": "15.60 (20.11)",
+          "rowHeaders": [
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Average (SD) daily",
+            "minutes 1952 CPM",
+            "and above (SD) per",
+            "a",
+            "person"
+          ]
+        },
+        {
+          "value": "807.00 (89.50)",
+          "rowHeaders": [
+            "Control"
+          ],
+          "columnHeaders": [
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Average (SD)",
+            "daily wear time",
+            "minutes per",
+            "person"
+          ]
+        },
+        {
+          "value": "5.23 (1.47)",
+          "rowHeaders": [
+            "Control"
+          ],
+          "columnHeaders": [
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Average",
+            "(SD) wear",
+            "days per",
+            "person"
+          ]
+        },
+        {
+          "value": "38.12 (26.53)",
+          "rowHeaders": [
+            "Control"
+          ],
+          "columnHeaders": [
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Average (SD) daily",
+            "minutes 760 CPM",
+            "and above per",
+            "person"
+          ]
+        },
+        {
+          "value": "22.52 (18.32)",
+          "rowHeaders": [
+            "Control"
+          ],
+          "columnHeaders": [
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Average (SD) daily",
+            "minutes 1041 CPM",
+            "and above (SD) per",
+            "person"
+          ]
+        },
+        {
+          "value": "5.40 (7.83)",
+          "rowHeaders": [
+            "Control"
+          ],
+          "columnHeaders": [
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Average (SD) daily",
+            "minutes 1952 CPM",
+            "and above (SD) per",
+            "a",
+            "person"
+          ]
+        },
+        {
+          "value": "818.53 (87.90)",
+          "rowHeaders": [
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Average (SD)",
+            "daily wear time",
+            "minutes per",
+            "person"
+          ]
+        },
+        {
+          "value": "5.28 (1.43)",
+          "rowHeaders": [
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Average",
+            "(SD) wear",
+            "days per",
+            "person"
+          ]
+        },
+        {
+          "value": "53.56 (31.44)",
+          "rowHeaders": [
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Average (SD) daily",
+            "minutes 760 CPM",
+            "and above per",
+            "person"
+          ]
+        },
+        {
+          "value": "35.46 (26.34)",
+          "rowHeaders": [
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Average (SD) daily",
+            "minutes 1041 CPM",
+            "and above (SD) per",
+            "person"
+          ]
+        },
+        {
+          "value": "12.87 (17.06)",
+          "rowHeaders": [
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Average (SD) daily",
+            "minutes 1952 CPM",
+            "and above (SD) per",
+            "a",
+            "person"
+          ]
+        },
+        {
+          "value": "807.01 (89.47)",
+          "rowHeaders": [
+            "Control"
+          ],
+          "columnHeaders": [
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Average (SD)",
+            "daily wear time",
+            "minutes per",
+            "person"
+          ]
+        },
+        {
+          "value": "5.57 (1.30)",
+          "rowHeaders": [
+            "Control"
+          ],
+          "columnHeaders": [
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Average",
+            "(SD) wear",
+            "days per",
+            "person"
+          ]
+        },
+        {
+          "value": "38.70 (26.50)",
+          "rowHeaders": [
+            "Control"
+          ],
+          "columnHeaders": [
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Average (SD) daily",
+            "minutes 760 CPM",
+            "and above per",
+            "person"
+          ]
+        },
+        {
+          "value": "23.21 (19.62)",
+          "rowHeaders": [
+            "Control"
+          ],
+          "columnHeaders": [
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Average (SD) daily",
+            "minutes 1041 CPM",
+            "and above (SD) per",
+            "person"
+          ]
+        },
+        {
+          "value": "5.96 (9.68)",
+          "rowHeaders": [
+            "Control"
+          ],
+          "columnHeaders": [
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Average (SD) daily",
+            "minutes 1952 CPM",
+            "and above (SD) per",
+            "a",
+            "person"
+          ]
+        },
+        {
+          "value": "816.58 (87.59)",
+          "rowHeaders": [
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Average (SD)",
+            "daily wear time",
+            "minutes per",
+            "person"
+          ]
+        },
+        {
+          "value": "5.47 (1.24)",
+          "rowHeaders": [
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Average",
+            "(SD) wear",
+            "days per",
+            "person"
+          ]
+        },
+        {
+          "value": "56.79 (38.32)",
+          "rowHeaders": [
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Average (SD) daily",
+            "minutes 760 CPM",
+            "and above per",
+            "person"
+          ]
+        },
+        {
+          "value": "37.45 (30.38)",
+          "rowHeaders": [
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Average (SD) daily",
+            "minutes 1041 CPM",
+            "and above (SD) per",
+            "person"
+          ]
+        },
+        {
+          "value": "13.38 (16.87)",
+          "rowHeaders": [
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Table 2 Descriptive statistics of the accelerometer data collected across all time points",
+            "Average (SD) daily",
+            "minutes 1952 CPM",
+            "and above (SD) per",
+            "a",
+            "person"
+          ]
+        }
+      ],
+      "page": 1
+    }
+  ]
+}

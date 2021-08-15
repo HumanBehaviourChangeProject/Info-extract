@@ -1,0 +1,2175 @@
+{
+  "blocks": [
+    {
+      "type": "LINES",
+      "value": "Pedometer Feedback Interventions Increase Daily Physical Activity in Phase III Cardiac Rehabilitation Participants",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "P atient participation in an outpatient cardiac rehabilitation (CR) program confers multisystem health benefits, improves quality of life, and reduces risk of future hospital readmissions and mortality compared with patients who do not attend CR. [1][2][3][4][5] Programs typically encourage patients to",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "attend site-based exercise sessions on 3 d/wk while promoting exercise to be completed on non-CR days in an effort to accumulate ≥5 exercise d/wk. Despite strong practitioner endorsement of exercise on most days of the week, device-assessed evidence demonstrates significantly lower physical activity (PA) levels on days patients do not attend phase III CR. While performing purposeful exercise at moderate to vigorous intensities on 3 d/wk is sufficient to accumulate health benefits in CR patients, further health benefits can be achieved with additional days of PA. Many efforts have been made to identify effective strategies to promote PA in patients attending a phase III CR program or those completing outpatient phase II CR. Pedometer-based interventions have been particularly successful as they provide immediate feedback regarding individual PA behavior throughout the day. Simply providing a pedometer to a group of patients upon completion of a phase II CR program has been shown to significantly increase step counts and their use in CR programs has accordingly been endorsed by the American Association of Cardiovascular and Pulmonary Rehabilitation. Moreover, setting weekly step goals increases patient walking time. A small pilot study from our group was the first study to employ an individualized pedometer-driven PA intervention with patients beginning a phase III CR program. Setting increasing weekly step count goals (10% of baseline steps achieved in 1 wk) over an 8-wk period in patients starting a phase III CR program increased the number of steps per week during CR and non-CR days by roughly 2000 steps. However, PA intensity was not assessed and it is therefore not known whether increased step counts translate to increased time spent in moderate to vigorous PA (MVPA) intensities.\nCardiac rehabilitation patients experience many physical and behavioral barriers that limit PA habits. Self-efficacy compared with healthy age-matched adults is compromised and limits an individual from becoming and staying physically active. Although CR patients as a group may share similar barriers to PA, individually, each patient may also experience a unique set of barriers. As such, individually tailored motivational-matched messaging interventions promote higher PA levels and facilitate achievement of PA targets. Strong evidence supports the efficacy of mediated PA interventions that utilize theory-based, individually tailored motivational messaging (MM). Implementation of these techniques more importantly can promote the long-term adoption of PA and effectively reduce future events, maintain quality of life, and preserve functional independence.\nTo date, there has not been a study, to our knowledge, that has investigated the impact of dual pedometer feedback (PF) and MM compared to the respective interventions alone or to standard of care CR. Both of these approaches (PF and MM) can be implemented with a minimal amount of face-to-face contact with patients and thus, if shown to be effective, could be implemented in CR programs in a costeffective manner. Therefore, the primary aim of this study was to determine the relative effectiveness of individually tailored interventions designed to increase PA in CR patients.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Patients enrolling in the Phase III Maintenance CR Program for the first time at Indiana University Health Ball Memorial Hospital in Muncie, Indiana, were recruited for this study. Men and women ≥18 yr with a primary diagnosis of myocardial infarction, coronary artery bypass graft surgery, percutaneous coronary intervention, heart valve repair/ replacement, or stable angina were eligible to participate. Those with a documented ejection fraction <20%, diagnosis of chronic obstructive pulmonary disease, or any substantial orthopedic limitation or other medical condition that limited the ability to sustain ambulation were excluded from the study. All participants signed an informed consent document previously approved by the Institutional Review Boards from Ball State University and the Indiana University Health Ball Memorial Hospital prior to participation.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Eligible participants were randomized to a PF, MM, PF + MM, or usual care (UC) group. Before starting the phase III CR program, baseline PA and average daily step counts were measured using the Actigraph GT3X (ActiGraph) and Lifecorder PLUS (New-Lifestyles, Inc), respectively. To ensure that participant activity was not influenced by step count feedback provided by the Lifecorder PLUS, all monitors were set to blind display mode. The 12-wk study intervention and participation in the phase III CR program started on the same day. All participants wore both PA monitors throughout the study period, with only those randomized to the PF groups able to view their step counts. After completing the respective interventions, an additional 7 d of PA assessment were performed to quantify post-intervention PA levels.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "In addition to participating in the phase III CR program, participants were provided recommendations to perform 30 to 50 min of home exercise on ≥2 non-CR days.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "In addition to the instructions provided to the UC group, participants randomized to PF received a weekly goal to increase their PA by 10% of their baseline values. If the participants achieved their goal on ≥4 d/wk, their step goal was increased by 10% of the baseline step average for the next week. If the step goal was not met, the step goal was repeated for the subsequent week. Participants in this group were asked to record their step counts 4 times each day to obtain immediate feedback on their daily progress toward their goal.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "In addition to UC group instructions, these participants were given a weekly newsletter containing both cognitive and behavioral information to encourage PA. Motivational materials were based on the initial stage of change for PA readiness of each individual (derived from baseline questionnaire assessment). Briefly, each participant identified a baseline stage of change for PA readiness. From this level, stage-matched booklets (one for each stage of change) were developed in an effort to use cognitive and behavioral approaches to increase PA. The stage-specific booklet was given to each participant on a weekly basis.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "In addition to following the same PA step goals as the PF group, participants received newsletters relative to whether or not they accomplished their PA goal for the week. If the step goal for the week was met, participants received a congratulatory newsletter. If the step goal was not met, participants completed a worksheet of common barriers to PA and were given a newsletter with specific approaches to address the barriers listed. Day by day PA levels were entered into a computer newsletter template to plot their PA accumulated per day compared with their daily goal for that week. Newsletters were generated and provided to all participants on the same day they turned in their PA monitors for data download. If participants returned monitors before exercising for the day, devices were immediately downloaded and returned to the participants before they started exercising.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Objective measures of steps throughout the intervention were made with the Lifecorder PLUS (Suzuken) and PA intensity with the GT3X (ActiGraph). All subjects wore a GT3X on their right hip at the waist midline with the knee during the 7-d observation period at baseline and the last week of the respective interventions. GT3X monitors were initialized using a 60-Hz sampling rate. Subjects were instructed to wear the GT3X during all waking hours, removing the unit for water-based activities only (eg, showering, bathing, and swimming). Raw accelerometer data were downloaded using ActiLife version 6.8.0, scored using a 60sec epoch, and time spent in PA intensities were quantified using the Freedson cut points. To validate the wear time, GT3X files were scanned fora minimum wear time of 10 hr/d, with a minimum of 4-d wear time across the week (with at least 1 weekend day). Nonwear time was recognized as ≥60 min of consecutive zeros. Activity status was characterized at the baseline and follow-up assessments and defined as ≥7500 steps/d, a threshold that has previously been associated with a favorable health profile and recommended to identify active individuals rather than the more commonly promoted 10 000 steps/d threshold.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Blood pressure was measured under quiet, controlled conditions conforming strictly to the American Heart Association guidelines. Blood pressure was measured in triplicate using the manual auscultatory technique. Height, weight, and waist and hip circumferences were assessed using standardized procedures. Body mass index was determined and the ratio of waist and hip circumference provided an indication of body fat distribution in the abdominal and gluteal regions of the body. Before starting the study, participants performed a 6-min walk test around a 160-ft track and were provided instructions using standardized language as previously described.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "To determine sample size, the change in steps/d at 12 wk from baseline was used as the primary outcome. Assuming a main interaction effect of 1500 steps/d in the PF and MM groups compared with the control group with an 1800 steps/d SD   based on published works, 32 subjects per group would be needed to demonstrate a statistical difference (P < .016) with 80% power using a 2-tailed t test, after adjusting for multiple comparisons (Bonferroni adjustment). Because of funding and time constraints, we were unable to recruit 32 subjects/group; however, post hoc analyses revealed that the current sample size provided a power to detect a statistical difference (P < .05) of 95% between the intervention groups and control. Descriptive statistics were used to summarize data. Chisquare tests were employed on categorical variables to ensure that there was no association between treatment assignment and demographic characteristics. The change scores (postintervention-preintervention) were compared using analysis of variance to examine the effects of intervention and time in PA change for the 4 randomized study groups. A Bonferroni multiple comparison adjustment was used to explore between-group differences. AP < .05 was considered statistically significant. All analyses were performed with SPSS statistical software version 24 (SPSS Inc).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Subject characteristics or PA measures were not significantly different at baseline among the respective intervention groups (Table). Average steps/d were found to sig-nificantly increase from baseline to follow-up in the PF (5548 ± 2761 to 8505 ± 3866 steps/d, P < .001) and PF + MM (5334 ± 2064 to 8484 ± 3714 steps/d, P < .001) groups but not in the UC (5750 ± 2393 to 6014 ± 2305 steps/d, P = .56) or MM (5420 ± 2601 to 6138 ± 2392 steps/d, P = .15) group (Figure). The average change in steps/d (Figure) was not significantly different between the 2 PF groups (2957 ± 3185 and 3150 ± 3007 steps/d, respectively, P = 1.00). The number of participants achieving an average of ≥7500 steps/d at baseline among the groups were 5, 7, 3, and 4 in the UC, PF, MM, and PF + MM, respectively. At the end of the intervention, 5 (P = 1.00), 16 (P < .01), 7 (P = .04), and 11 (P = .02) participants, respectively, were at or above 7500 steps/d. Despite significant increases in steps/d in both PF groups, there were no significant changes in time spent in light PA or MVPA in either group (Table). However, the PF + MM was approaching a significant difference between baseline and follow-up in MVPA time (P = .08). These observations were similar when time in the respective activity categories was expressed as a proportion of daily time (Table). There was, however, a significant decline in absolute (min/d) and proportional (%) sedentary time in the PF-only group (Table). Changes in any of the additional PA measures were not observed in either of the MM groups (Table). and high amounts of sedentary time, interventions that foster increases in PA and decreases in sedentary time may decrease risk of future events. Our group has previously demonstrated the efficacy of increasing daily steps by applying individualized, PF PA interventions in a similar cohort. Following the same weekly step count goal strategy used in the current study, phase III CR participants increased daily steps by 42% (2297 ± 1606 steps/d, P = .001) over an 8-wk period. Moreover, participants randomized to the PF intervention in the previous study had increased steps taken on phase III non-CR days (1872 ± 2026 steps/d) whereas those randomized to UC experienced no significant changes. This was a particularly compelling finding when considering the significant body of evidence that has shown lower levels of PA on non-CR days, despite strong practitioner endorsement of PA on ≥5 d/wk to meet PA recommendations. Whether or not the respective PF interventions in this study increased stepson non-CR days is not known due to inconsistencies with documenting phase III CR attendance. However, on average, participants of a phase III CR program have been documented to attend roughly 3 d/wk. In this study, PF participants had to achieve ≥4 d above their daily step count goal to achieve their weekly goal. Therefore, with PF participants gradually increasing step goals throughout the intervention, it is likely that non-CR day step counts were greater compared with participants not receiving PF. Furthermore, from baseline, 9 (PF) and 7 (PF + MM) participants increased their average daily step count to >7500 steps/d, a value that has been previously associated with a better health profile compared with inactive older adults. The nonsignificant increase in MVPA for either of the PF interventions is in contrast to our previous study that documented an increase in MVPA from 10.2 ± 8.0 to 17.7 ± 10.5 min/d (P < .05). One potential explanation for the discordant findings might be related to the relatively high average baseline MVPA of all participants (25.3 ± 36.7 min/d) in this study compared with our previous study (10.2 ± 8.0 min/d). Starting at a relatively higher PA level may have required an intervention to specifically emphasize increasing time spent in MVPA rather than emphasizing step increases. Another reason maybe related to the differences in PA monitors used to quantify MVPA between the 2 studies. Participants in this study wore a more robust activity monitor (Actigraph GT3X) compared to the New Lifestyles NL-1000 (New-Lifestyles, Inc. Lee's Summit) used in our earlier study, which is more readily used for its pedometer feature. In addition, because participants were not instructed on how many of their steps should be acquired through structured exercise, it is plausible that the remaining steps necessary to achieve a daily goal were accumulated at lower intensities. The inability to differentiate intensities of steps taken throughout the day with pedometers may limit their ability to promote increases in MVPA.\nBoth Phase II and III CR programs place greater emphasis on increasing time spent in MVPA than optimizing strategies to reduce SB. Recent cross-sectional and experimental studies have underscored the deleterious health consequences of SB and its strong association with increased risk of events in apparently healthy individuals and those with cardiovascular disease. Furthermore, an individual maybe classified as being physically active by meeting the PA guidelines; however, prolonged periods of SB can negate the protective effects of PA. While there are limited data on the association between SB and mortality risk in CR participants, heart failure patients who spend >4 hr/d watching television have been shown to have a 65% greater risk (hazard ratio, 1.65; CI, 1.10-2.48, P = .016) of mortality than those who watch television for <2 hr. On average, participants in this study spent roughly 460 min/d of sedentary time at baseline. This is markedly lower than previous reports of phase II CR participants spending roughly 680 min/d to 723 ± 58 min/d 47 in sedentary activities. Although there was a statistically significant decrease in SB in the PF group, the average decrease of 12.8 ± 22.4 min is likely not clinically meaningful. This is inline with previous phase II CR PA intervention studies that are effective in increasing PA but not decreasing sedentary time. Therefore, PA interventions, particularly those that include PF or MM, should not be used as the primary method of decreasing SB. Future efforts are needed to identify effective SB modification interventions that can be employed in CR settings.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Participation in secondary prevention programs confer numerous health benefits that translate to reductions in rehospitalizations, events, and early mortality. It is also known that a portion of patients attending CR have lower PA on phase II or III non-CR days. Pedometer feedback interventions that utilize individualized weekly step goals were demonstrated in this study and our previous studies to facilitate increases in activity on CR and non-CR days. While utilizing research grade pedometers or accelerometers may not be a viable option for many CR programs, recent evidence demonstrates acceptable accuracy of popular wearable devices and smartphones, increasing the potential for their clinical application. Although there have not been any interventions to date using smartphones for individualized step goal setting that we are aware of, it is a fruitful area of study that requires further investigation. Practitioners should also be mindful of how PA-based MM is delivered to patients. Our study demonstrated that MM via newsletter was not effective in increasing steps and MVPA or reducing sedentary behavior. This is in contrast to the study by Strath and colleagues, whose study showed that individualized motivational feedback and biweekly telephone feedback with step count goals contributed to greater increases in PA compared with PF alone, thus reinforcing the limitations associated with delivering MM via paper-based formats, while highlighting the need for incorporating a higher level of personal attention when delivering MM interventions. Another method that could be viable for CR programs is the use of face-to-face group PA counseling incorporated into standard CR, which has been shown to be effective in not only increasing daily steps but also time spent in MVPA in phase II setting.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "This study is not without limitations. Of note, the days participants attended phase III CR sessions were not recorded for all participants and therefore PA comparisons between non-CR and CR days cannot be made. Our previous work in a similar population clearly demonstrated that PF was effective in increasing stepson days participants did not attend CR. In addition, we do not have weekly PA data that may have provided information on the trajectory of PA patterns. Understanding if and when a plateau in PA occurs during a 12-wk CR-based intervention could have highlighted periods when additional encouragement or interventions maybe necessary to promote the continual increase in PA. Furthermore, the generalizability of our findings are limited due to a greater proportion of men enrolled in the study and only being conducted at a single center. Finally, without having information on the physical environment of the participant, we were unable to account for factors (ie, neighborhood walkability, weather) that may have influenced PA patterns.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Findings from this study reinforce the application of pedometers to increase PA in patients starting a phase III CR program. Providing newsletter-based MM alone does not appear to be effective in promoting PA behavior change and may require more contact time such as regular counseling sessions. Because of the relatively high cost of the pedometers utilized in this study, future studies are encouraged to test the accuracy, reliability, and efficacy of more affordable units or test the efficacy of commonly available smartphone applications that maybe used in real-world CR programs. Cardiac rehabilitation programs are encouraged to implement PA feedback with individualized PA goals in order to support the increase in PA and potentially decrease SB.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "This project was supported by an American Heart Association Midwest Affiliate Grant-in-Aide (09GRNT2390048; L. A. Kaminsky, principal investigator).\n",
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "60.3 ±",
+          "rowHeaders": [
+            "Age, yr",
+            "Resting HR, bpm"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "UC (n = 21)"
+          ]
+        },
+        {
+          "value": "11.5",
+          "rowHeaders": [
+            "Age, yr",
+            "Resting HR, bpm"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "UC (n = 21)"
+          ]
+        },
+        {
+          "value": "62.2 ±",
+          "rowHeaders": [
+            "Age, yr",
+            "Resting HR, bpm"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "PF (n = 29)"
+          ]
+        },
+        {
+          "value": "9.1",
+          "rowHeaders": [
+            "Age, yr",
+            "Resting HR, bpm"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "PF (n = 29)"
+          ]
+        },
+        {
+          "value": "62.0 ±",
+          "rowHeaders": [
+            "Age, yr",
+            "Resting HR, bpm"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "MM (n = 25)"
+          ]
+        },
+        {
+          "value": "12.8",
+          "rowHeaders": [
+            "Age, yr",
+            "Resting HR, bpm"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "MM (n = 25)"
+          ]
+        },
+        {
+          "value": "61.1 ±",
+          "rowHeaders": [
+            "Age, yr",
+            "SBP rest, mm Hg"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "PF + MM (n = 24)"
+          ]
+        },
+        {
+          "value": "9.8",
+          "rowHeaders": [
+            "Age, yr",
+            "SBP rest, mm Hg"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "PF + MM (n = 24)"
+          ]
+        },
+        {
+          "value": "18 (86)",
+          "rowHeaders": [
+            "Resting HR, bpm"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "UC (n = 21)"
+          ]
+        },
+        {
+          "value": "20 (69)",
+          "rowHeaders": [
+            "Resting HR, bpm"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "PF (n = 29)"
+          ]
+        },
+        {
+          "value": "20 (80)",
+          "rowHeaders": [
+            "Men",
+            "SBP rest, mm Hg"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "MM (n = 25)"
+          ]
+        },
+        {
+          "value": "19 (79)",
+          "rowHeaders": [
+            "Men",
+            "SBP rest, mm Hg"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "PF + MM (n = 24)"
+          ]
+        },
+        {
+          "value": "64 ± 9",
+          "rowHeaders": [
+            "Age, yr",
+            "Resting HR, bpm"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "UC (n = 21)"
+          ]
+        },
+        {
+          "value": "68 ±",
+          "rowHeaders": [
+            "Age, yr",
+            "Resting HR, bpm"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "PF (n = 29)"
+          ]
+        },
+        {
+          "value": "13",
+          "rowHeaders": [
+            "Age, yr",
+            "Resting HR, bpm"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "PF (n = 29)"
+          ]
+        },
+        {
+          "value": "68 ±",
+          "rowHeaders": [
+            "Age, yr",
+            "Resting HR, bpm"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "MM (n = 25)"
+          ]
+        },
+        {
+          "value": "12",
+          "rowHeaders": [
+            "Age, yr",
+            "Resting HR, bpm"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "MM (n = 25)"
+          ]
+        },
+        {
+          "value": "65 ±",
+          "rowHeaders": [
+            "Resting HR, bpm",
+            "WC, cm"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "PF + MM (n = 24)"
+          ]
+        },
+        {
+          "value": "10",
+          "rowHeaders": [
+            "Resting HR, bpm",
+            "WC, cm"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "PF + MM (n = 24)"
+          ]
+        },
+        {
+          "value": "18",
+          "rowHeaders": [
+            "SBP rest, mm Hg",
+            "WC, cm"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "UC (n = 21)"
+          ]
+        },
+        {
+          "value": "17",
+          "rowHeaders": [
+            "SBP rest, mm Hg",
+            "WC, cm"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "PF (n = 29)"
+          ]
+        },
+        {
+          "value": "15",
+          "rowHeaders": [
+            "SBP rest, mm Hg",
+            "WC, cm"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "MM (n = 25)"
+          ]
+        },
+        {
+          "value": "14",
+          "rowHeaders": [
+            "SBP rest, mm Hg",
+            "WC, cm"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "PF + MM (n = 24)"
+          ]
+        },
+        {
+          "value": "69 ± 9",
+          "rowHeaders": [
+            "DBP rest, mm Hg",
+            "WC, cm"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "UC (n = 21)"
+          ]
+        },
+        {
+          "value": "72 ± 9",
+          "rowHeaders": [
+            "DBP rest, mm Hg",
+            "WC, cm"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "PF (n = 29)"
+          ]
+        },
+        {
+          "value": "73 ±",
+          "rowHeaders": [
+            "DBP rest, mm Hg",
+            "WC, cm"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "MM (n = 25)"
+          ]
+        },
+        {
+          "value": "12",
+          "rowHeaders": [
+            "DBP rest, mm Hg",
+            "WC, cm"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "MM (n = 25)"
+          ]
+        },
+        {
+          "value": "71 ± 9",
+          "rowHeaders": [
+            "DBP rest, mm Hg",
+            "WC, cm"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "PF + MM (n = 24)"
+          ]
+        },
+        {
+          "value": "93 ±",
+          "rowHeaders": [
+            "Weight, kg",
+            "WC, cm"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "UC (n = 21)"
+          ]
+        },
+        {
+          "value": "12",
+          "rowHeaders": [
+            "Weight, kg",
+            "WC, cm"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "UC (n = 21)"
+          ]
+        },
+        {
+          "value": "86.5 ±",
+          "rowHeaders": [
+            "Weight, kg",
+            "WC, cm"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "PF (n = 29)"
+          ]
+        },
+        {
+          "value": "18.9",
+          "rowHeaders": [
+            "Weight, kg",
+            "WC, cm"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "PF (n = 29)"
+          ]
+        },
+        {
+          "value": "94.5 ±",
+          "rowHeaders": [
+            "Weight, kg",
+            "WC, cm"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "MM (n = 25)"
+          ]
+        },
+        {
+          "value": "17.5",
+          "rowHeaders": [
+            "Weight, kg",
+            "WC, cm"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "MM (n = 25)"
+          ]
+        },
+        {
+          "value": "86.5 ±",
+          "rowHeaders": [
+            "Weight, kg",
+            "WC, cm"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "PF + MM (n = 24)"
+          ]
+        },
+        {
+          "value": "14.4",
+          "rowHeaders": [
+            "Weight, kg",
+            "WC, cm"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "PF + MM (n = 24)"
+          ]
+        },
+        {
+          "value": "31 ± 6",
+          "rowHeaders": [
+            "BMI, kg/m",
+            "WC, cm"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "UC (n = 21)"
+          ]
+        },
+        {
+          "value": "30.0 ±",
+          "rowHeaders": [
+            "BMI, kg/m",
+            "WC, cm"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "PF (n = 29)"
+          ]
+        },
+        {
+          "value": "5.4",
+          "rowHeaders": [
+            "BMI, kg/m",
+            "WC, cm"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "PF (n = 29)"
+          ]
+        },
+        {
+          "value": "31.1 ±",
+          "rowHeaders": [
+            "BMI, kg/m",
+            "WC, cm"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "MM (n = 25)"
+          ]
+        },
+        {
+          "value": "4.8",
+          "rowHeaders": [
+            "BMI, kg/m",
+            "WC, cm"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "MM (n = 25)"
+          ]
+        },
+        {
+          "value": "29.4 ±",
+          "rowHeaders": [
+            "BMI, kg/m",
+            "WC, cm"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "PF + MM (n = 24)"
+          ]
+        },
+        {
+          "value": "4.6",
+          "rowHeaders": [
+            "BMI, kg/m",
+            "WC, cm"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "PF + MM (n = 24)"
+          ]
+        },
+        {
+          "value": "105.6 ±",
+          "rowHeaders": [
+            "WC, cm"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "UC (n = 21)"
+          ]
+        },
+        {
+          "value": "10.2",
+          "rowHeaders": [
+            "WC, cm"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "UC (n = 21)"
+          ]
+        },
+        {
+          "value": "102.1 ±",
+          "rowHeaders": [
+            "WC, cm"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "PF (n = 29)"
+          ]
+        },
+        {
+          "value": "14.3",
+          "rowHeaders": [
+            "WC, cm"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "PF (n = 29)"
+          ]
+        },
+        {
+          "value": "104.9 ±",
+          "rowHeaders": [
+            "WC, cm"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "MM (n = 25)"
+          ]
+        },
+        {
+          "value": "14.1",
+          "rowHeaders": [
+            "WC, cm"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "MM (n = 25)"
+          ]
+        },
+        {
+          "value": "97.6 ±",
+          "rowHeaders": [
+            "WC, cm"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "PF + MM (n = 24)"
+          ]
+        },
+        {
+          "value": "21.0",
+          "rowHeaders": [
+            "WC, cm"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "PF + MM (n = 24)"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "463.0 ±",
+          "rowHeaders": [
+            "UC"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Sedentary Time",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "96.6",
+          "rowHeaders": [
+            "UC"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Sedentary Time",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "448.4 ±",
+          "rowHeaders": [
+            "UC"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Sedentary Time",
+            "Post"
+          ]
+        },
+        {
+          "value": "100.3",
+          "rowHeaders": [
+            "UC"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Sedentary Time",
+            "Post"
+          ]
+        },
+        {
+          "value": ".34",
+          "rowHeaders": [
+            "UC"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Sedentary Time",
+            "P Value"
+          ]
+        },
+        {
+          "value": "202.9 ±",
+          "rowHeaders": [
+            "UC"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "LPA",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "65.3",
+          "rowHeaders": [
+            "UC"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "LPA",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "204.4 ±",
+          "rowHeaders": [
+            "UC"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "LPA",
+            "Post"
+          ]
+        },
+        {
+          "value": "63.7",
+          "rowHeaders": [
+            "UC"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "LPA",
+            "Post"
+          ]
+        },
+        {
+          "value": ".68",
+          "rowHeaders": [
+            "UC"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "LPA",
+            "P Value"
+          ]
+        },
+        {
+          "value": "21.3 ±",
+          "rowHeaders": [
+            "UC"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "MVPA",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "23.5",
+          "rowHeaders": [
+            "UC"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "MVPA",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "24.6 ±",
+          "rowHeaders": [
+            "UC"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "MVPA",
+            "Post"
+          ]
+        },
+        {
+          "value": "19.7",
+          "rowHeaders": [
+            "UC"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "MVPA",
+            "Post"
+          ]
+        },
+        {
+          "value": ".23",
+          "rowHeaders": [
+            "UC"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "MVPA",
+            "P Value"
+          ]
+        },
+        {
+          "value": "470.2 ±",
+          "rowHeaders": [
+            "PF"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Sedentary Time",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "77.1",
+          "rowHeaders": [
+            "PF"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Sedentary Time",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "447.8 ±",
+          "rowHeaders": [
+            "PF"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Sedentary Time",
+            "Post"
+          ]
+        },
+        {
+          "value": "74.9",
+          "rowHeaders": [
+            "PF"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Sedentary Time",
+            "Post"
+          ]
+        },
+        {
+          "value": ".01",
+          "rowHeaders": [
+            "PF",
+            "b"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Sedentary Time",
+            "P Value"
+          ]
+        },
+        {
+          "value": "189.1 ±",
+          "rowHeaders": [
+            "PF",
+            "b"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "LPA",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "41.9",
+          "rowHeaders": [
+            "PF",
+            "b"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "LPA",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "197.4 ±",
+          "rowHeaders": [
+            "PF",
+            "b"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "LPA",
+            "Post"
+          ]
+        },
+        {
+          "value": "48.9",
+          "rowHeaders": [
+            "PF",
+            "b"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "LPA",
+            "Post"
+          ]
+        },
+        {
+          "value": ".39",
+          "rowHeaders": [
+            "PF",
+            "b"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "LPA",
+            "P Value"
+          ]
+        },
+        {
+          "value": "29.0 ±",
+          "rowHeaders": [
+            "PF",
+            "b"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "MVPA",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "35.9",
+          "rowHeaders": [
+            "PF",
+            "b"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "MVPA",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "38.5 ±",
+          "rowHeaders": [
+            "PF",
+            "b"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "MVPA",
+            "Post"
+          ]
+        },
+        {
+          "value": "43.0",
+          "rowHeaders": [
+            "PF",
+            "b"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "MVPA",
+            "Post"
+          ]
+        },
+        {
+          "value": ".34",
+          "rowHeaders": [
+            "PF",
+            "b"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "MVPA",
+            "P Value"
+          ]
+        },
+        {
+          "value": "447.5 ±",
+          "rowHeaders": [
+            "MM"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Sedentary Time",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "73.2",
+          "rowHeaders": [
+            "MM"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Sedentary Time",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "444.2 ±",
+          "rowHeaders": [
+            "MM"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Sedentary Time",
+            "Post"
+          ]
+        },
+        {
+          "value": "109.2",
+          "rowHeaders": [
+            "MM"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Sedentary Time",
+            "Post"
+          ]
+        },
+        {
+          "value": ".91",
+          "rowHeaders": [
+            "MM"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Sedentary Time",
+            "P Value"
+          ]
+        },
+        {
+          "value": "187.3 ±",
+          "rowHeaders": [
+            "MM"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "LPA",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "52.5",
+          "rowHeaders": [
+            "MM"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "LPA",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "182.0 ±",
+          "rowHeaders": [
+            "MM"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "LPA",
+            "Post"
+          ]
+        },
+        {
+          "value": "55.9",
+          "rowHeaders": [
+            "MM"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "LPA",
+            "Post"
+          ]
+        },
+        {
+          "value": ".69",
+          "rowHeaders": [
+            "MM"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "LPA",
+            "P Value"
+          ]
+        },
+        {
+          "value": "33.1 ±",
+          "rowHeaders": [
+            "MM"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "MVPA",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "59.7",
+          "rowHeaders": [
+            "MM"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "MVPA",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "34.9 ±",
+          "rowHeaders": [
+            "MM"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "MVPA",
+            "Post"
+          ]
+        },
+        {
+          "value": "55.8",
+          "rowHeaders": [
+            "MM"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "MVPA",
+            "Post"
+          ]
+        },
+        {
+          "value": ".72",
+          "rowHeaders": [
+            "MM"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "MVPA",
+            "P Value"
+          ]
+        },
+        {
+          "value": "450.4 ±",
+          "rowHeaders": [
+            "PF + MM"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Sedentary Time",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "61.0",
+          "rowHeaders": [
+            "PF + MM"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Sedentary Time",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "443.9 ±",
+          "rowHeaders": [
+            "PF + MM"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Sedentary Time",
+            "Post"
+          ]
+        },
+        {
+          "value": "75.1",
+          "rowHeaders": [
+            "PF + MM"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Sedentary Time",
+            "Post"
+          ]
+        },
+        {
+          "value": ".54",
+          "rowHeaders": [
+            "PF + MM"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Sedentary Time",
+            "P Value"
+          ]
+        },
+        {
+          "value": "197.4 ±",
+          "rowHeaders": [
+            "PF + MM"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "LPA",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "50.6",
+          "rowHeaders": [
+            "PF + MM"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "LPA",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "208.3 ±",
+          "rowHeaders": [
+            "PF + MM"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "LPA",
+            "Post"
+          ]
+        },
+        {
+          "value": "61.4",
+          "rowHeaders": [
+            "PF + MM"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "LPA",
+            "Post"
+          ]
+        },
+        {
+          "value": ".28",
+          "rowHeaders": [
+            "PF + MM"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "LPA",
+            "P Value"
+          ]
+        },
+        {
+          "value": "19.2 ±",
+          "rowHeaders": [
+            "PF + MM"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "MVPA",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "17.5",
+          "rowHeaders": [
+            "PF + MM"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "MVPA",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "22.3 ±",
+          "rowHeaders": [
+            "PF + MM"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "MVPA",
+            "Post"
+          ]
+        },
+        {
+          "value": "18.4",
+          "rowHeaders": [
+            "PF + MM"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "MVPA",
+            "Post"
+          ]
+        },
+        {
+          "value": ".08",
+          "rowHeaders": [
+            "PF + MM"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "MVPA",
+            "P Value"
+          ]
+        },
+        {
+          "value": "67.0 ±",
+          "rowHeaders": [
+            "UC"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Sedentary Time",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "10.8",
+          "rowHeaders": [
+            "UC"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Sedentary Time",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "65.7 ±",
+          "rowHeaders": [
+            "UC"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Sedentary Time",
+            "Post"
+          ]
+        },
+        {
+          "value": "10.9",
+          "rowHeaders": [
+            "UC"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Sedentary Time",
+            "Post"
+          ]
+        },
+        {
+          "value": ".29",
+          "rowHeaders": [
+            "UC"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Sedentary Time",
+            "P Value"
+          ]
+        },
+        {
+          "value": "29.8 ±",
+          "rowHeaders": [
+            "UC"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "LPA",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "10.2",
+          "rowHeaders": [
+            "UC"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "LPA",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "30.5 ±",
+          "rowHeaders": [
+            "UC"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "LPA",
+            "Post"
+          ]
+        },
+        {
+          "value": "10.4",
+          "rowHeaders": [
+            "UC"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "LPA",
+            "Post"
+          ]
+        },
+        {
+          "value": ".40",
+          "rowHeaders": [
+            "UC"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "LPA",
+            "P Value"
+          ]
+        },
+        {
+          "value": "3.3 ±",
+          "rowHeaders": [
+            "UC"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "MVPA",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "3.8",
+          "rowHeaders": [
+            "UC"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "MVPA",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "3.8 ±",
+          "rowHeaders": [
+            "UC"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "MVPA",
+            "Post"
+          ]
+        },
+        {
+          "value": "3.3",
+          "rowHeaders": [
+            "UC"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "MVPA",
+            "Post"
+          ]
+        },
+        {
+          "value": ".22",
+          "rowHeaders": [
+            "UC"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "MVPA",
+            "P Value"
+          ]
+        },
+        {
+          "value": "68.1 ±",
+          "rowHeaders": [
+            "PF"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Sedentary Time",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "6.6",
+          "rowHeaders": [
+            "PF"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Sedentary Time",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "65.5 ±",
+          "rowHeaders": [
+            "PF"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Sedentary Time",
+            "Post"
+          ]
+        },
+        {
+          "value": "9.0",
+          "rowHeaders": [
+            "PF"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Sedentary Time",
+            "Post"
+          ]
+        },
+        {
+          "value": ".03",
+          "rowHeaders": [
+            "PF",
+            "b"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Sedentary Time",
+            "P Value"
+          ]
+        },
+        {
+          "value": "27.6 ±",
+          "rowHeaders": [
+            "PF",
+            "b"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "LPA",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "5.9",
+          "rowHeaders": [
+            "PF",
+            "b"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "LPA",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "29.0 ±",
+          "rowHeaders": [
+            "PF",
+            "b"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "LPA",
+            "Post"
+          ]
+        },
+        {
+          "value": "7.0",
+          "rowHeaders": [
+            "PF",
+            "b"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "LPA",
+            "Post"
+          ]
+        },
+        {
+          "value": ".26",
+          "rowHeaders": [
+            "PF",
+            "b"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "LPA",
+            "P Value"
+          ]
+        },
+        {
+          "value": "4.4 ±",
+          "rowHeaders": [
+            "PF",
+            "b"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "MVPA",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "5.8",
+          "rowHeaders": [
+            "PF",
+            "b"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "MVPA",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "5.6 ±",
+          "rowHeaders": [
+            "PF",
+            "b"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "MVPA",
+            "Post"
+          ]
+        },
+        {
+          "value": "6.0",
+          "rowHeaders": [
+            "PF",
+            "b"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "MVPA",
+            "Post"
+          ]
+        },
+        {
+          "value": ".40",
+          "rowHeaders": [
+            "PF",
+            "b"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "MVPA",
+            "P Value"
+          ]
+        },
+        {
+          "value": "67.4 ±",
+          "rowHeaders": [
+            "MM"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Sedentary Time",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "9.2",
+          "rowHeaders": [
+            "MM"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Sedentary Time",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "66.5 ±",
+          "rowHeaders": [
+            "MM"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Sedentary Time",
+            "Post"
+          ]
+        },
+        {
+          "value": "12.0",
+          "rowHeaders": [
+            "MM"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Sedentary Time",
+            "Post"
+          ]
+        },
+        {
+          "value": ".72",
+          "rowHeaders": [
+            "MM"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Sedentary Time",
+            "P Value"
+          ]
+        },
+        {
+          "value": "28.4 ±",
+          "rowHeaders": [
+            "MM"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "LPA",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "8.4",
+          "rowHeaders": [
+            "MM"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "LPA",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "28.0 ±",
+          "rowHeaders": [
+            "MM"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "LPA",
+            "Post"
+          ]
+        },
+        {
+          "value": "10.1",
+          "rowHeaders": [
+            "MM"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "LPA",
+            "Post"
+          ]
+        },
+        {
+          "value": ".88",
+          "rowHeaders": [
+            "MM"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "LPA",
+            "P Value"
+          ]
+        },
+        {
+          "value": "4.3 ±",
+          "rowHeaders": [
+            "MM"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "MVPA",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "6.2",
+          "rowHeaders": [
+            "MM"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "MVPA",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "5.5 ±",
+          "rowHeaders": [
+            "MM"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "MVPA",
+            "Post"
+          ]
+        },
+        {
+          "value": "9.9",
+          "rowHeaders": [
+            "MM"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "MVPA",
+            "Post"
+          ]
+        },
+        {
+          "value": ".25",
+          "rowHeaders": [
+            "MM"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "MVPA",
+            "P Value"
+          ]
+        },
+        {
+          "value": "67.6 ±",
+          "rowHeaders": [
+            "PF + MM"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Sedentary Time",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "5.6",
+          "rowHeaders": [
+            "PF + MM"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Sedentary Time",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "65.8 ±",
+          "rowHeaders": [
+            "PF + MM"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Sedentary Time",
+            "Post"
+          ]
+        },
+        {
+          "value": "8.8",
+          "rowHeaders": [
+            "PF + MM"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Sedentary Time",
+            "Post"
+          ]
+        },
+        {
+          "value": ".19",
+          "rowHeaders": [
+            "PF + MM"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Sedentary Time",
+            "P Value"
+          ]
+        },
+        {
+          "value": "29.5 ±",
+          "rowHeaders": [
+            "PF + MM"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "LPA",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "6.3",
+          "rowHeaders": [
+            "PF + MM"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "LPA",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "30.9 ±",
+          "rowHeaders": [
+            "PF + MM"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "LPA",
+            "Post"
+          ]
+        },
+        {
+          "value": "8.8",
+          "rowHeaders": [
+            "PF + MM"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "LPA",
+            "Post"
+          ]
+        },
+        {
+          "value": ".26",
+          "rowHeaders": [
+            "PF + MM"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "LPA",
+            "P Value"
+          ]
+        },
+        {
+          "value": "3.0 ±",
+          "rowHeaders": [
+            "PF + MM"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "MVPA",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "2.8",
+          "rowHeaders": [
+            "PF + MM"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "MVPA",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "3.4 ±",
+          "rowHeaders": [
+            "PF + MM"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "MVPA",
+            "Post"
+          ]
+        },
+        {
+          "value": "2.9",
+          "rowHeaders": [
+            "PF + MM"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "MVPA",
+            "Post"
+          ]
+        },
+        {
+          "value": ".06",
+          "rowHeaders": [
+            "PF + MM"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "MVPA",
+            "P Value"
+          ]
+        }
+      ],
+      "page": 1
+    }
+  ]
+}

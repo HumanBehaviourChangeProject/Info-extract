@@ -1,0 +1,448 @@
+{
+  "blocks": [
+    {
+      "type": "LINES",
+      "value": "An RCT to Facilitate Implementation of School Practices Known to Increase Physical Activity",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Introduction: Although comprehensive school-based physical activity interventions are efficacious when tested under research conditions, they often require adaptation in order for implementation at scale. This paper reports the effectiveness of an adapted efficacious school-based intervention in improving children's moderate to vigorous physical activity. The impact of strategies to support program implementation was also assessed.\nA cluster RCT of low socioeconomic elementary schools in New South Wales, Australia.\nSetting/participants: Consenting schools were randomized (25 intervention, 21 control) using a computerized random number function. Follow-up measures were taken at 6 months postrandomization (May-August 2015) by blinded research assistants. The multicomponent schoolbased intervention, based on an efficacious school-based physical activity program (Supporting Children's Outcomes using Rewards, Exercise and Skills), consisted of four physical activity strategies and seven implementation support strategies. The intervention was adapted for scalability and delivery by a local health service over 6 months. The primary outcome was accelerometer assessed, student mean daily minutes spent in moderate to vigorous physical activity. Physical education lesson quality and other school physical activity practices were also assessed.\nResults: Participants (n¼1,139, 49% male) were third-through sixth-grade students at follow-up (May-August 2015). Valid wear time and analysis of data were provided for 989 (86%) participants (571 intervention, 568 control). At 6-month follow-up, there were no significant effects in overall daily minutes of moderate to vigorous physical activity between groups (1.96 minutes, 95% CI¼ -3.49, 7.41, p¼0.48). However, adjusted difference in mean minutes of overall vigorous physical activity (2.19, 95% CI¼0.06, 4.32, p¼0.04); mean minutes of school day moderate to vigorous physical activity (2.90, 95% CI¼0.06, 5.85, p¼0.05); and mean minutes of school day vigorous physical activity (1.81, 95% CI¼0.78, 2.83, p≤0.01) were significantly different in favor of the intervention group. Physical education lesson quality and school physical activity practices were significantly different favoring the intervention group (analyzed October 2015-January 2016).\nThe modified intervention was not effective in increasing children's overall daily minutes of moderate to vigorous physical activity, when adapted for implementation at scale. However, the intervention did improve daily minutes of vigorous physical activity and school day moderate to vigorous physical activity, lesson quality, and school physical activity practices.",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "R egular participation in adequate physical activity (PA) has numerous health benefits. However, 80% of young people do not accumulate adequate amounts of moderate to vigorous PA (MVPA). As PA patterns track into adulthood, ensuring children are active is essential for future chronic disease prevention. Consequently, interventions to improve children's levels of MVPA area public health priority.\nSchools are key settings for interventions, providing universal access to children on a continuous and intensive basis. Systematic reviews indicate school-based interventions are effective and sustainable in improving child PA. Despite the existence of effective schoolbased PA interventions, unless programs are implemented at scale, they cannot benefit child health. Even with substantial government investment, schools often fail to adopt effective PA practices. For example, audits of teacher schedules and in-school observations indicate just 5%-20% of schools in the U.S. complied with mandated school Physical Education (PE) policies. Similar implementation difficulties have been reported in childcare settings following efforts to implement evidence-based policies promoting PA. The limited translation of PA interventions may result as the interventions trialed may not be immediately amenable to large-scale implementation. Published PA interventions are often complex, trialed under ideal conditions, and administered by experts. Delivery of such interventions is, therefore, often incompatible with usual school routines, expertise, or resources. Findings of such studies have limited external validity and translation is a considerable challenge. Although scaling up effective health interventions is an emerging health priority, delivering programs at scale may require adaptation of program components and implementation support strategies to cater for greater numbers, diversity, and differences in geographic and socioeconomic contexts. Given the need for government action to enhance PA, policy makers and school administrators often adapt interventions to make them amenable to implementation within local contexts. In doing so, intervention effectiveness maybe compromised. Indeed, meta-analyses of obesity prevention and PA interventions in other settings suggests that the effects of interventions implemented in more real-world contexts are less than half that reported in interventions trialed under tightly controlled research conditions. Despite a large number of trials reporting the effects of school-based PA interventions, few have assessed the impact of adapting an efficacious intervention for largescale implementation within a real-world context. A recent national dissemination of a promising schoolbased obesity prevention intervention was conducted in the Netherlands. To prepare for dissemination, adaptations to the program were made based on teacher feedback and process evaluation from the efficacy trial. Similarly, an efficacious elementary school-based PA intervention was modified to enhance reach via the use of web-based intervention components. Although adaptations are undertaken routinely as part of government supported rollout of health initiatives, the impact of modifications are rarely evaluated and, therefore, unknown.\nThe primary aim of this paper is to report the effectiveness of an adapted version of an evidencebased school PA program known as Supporting Children's Outcomes using Rewards, Exercise and Skills (SCORES), on children's MVPA. Secondary trial outcomes describe the impact on school implementation of practices including PE teaching quality and school PA practices.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "A cluster randomized trial was conducted in elementary schools (25 intervention, 21 control) in socioeconomically disadvantaged communities in the Hunter New England (HNE) region of New South Wales. The primary outcome assessment was conducted in a nested sample of students at 6 months post-randomization. Outcome data were only collected post-intervention as the health service responsible for rollout of the intervention had 12 months to do so, and the collection of both baseline and follow-up data would preclude sufficient time for intervention delivery. Post-intervention assessment designs remain a robust means of quantifying between group differences attributable to intervention, are commonly used in behavioral sciences, and have been used in previous large-scale implementation research trials. The primary outcome was objectively measured daily minutes of MVPA. Secondary outcomes included PE lesson quality and implementation of school PA practices. The trial was registered with the Australian New Zealand Clinical Trials Registry (ACTRN1 2615000437561) and approved by the HNE Area Human Research Ethics Committee (11/03/16/4.0) and University of Newcastle Human Research Ethics Committee (H-2008-0343).\nThe study was conducted as part of routine delivery of health promotion services by HNE Population Health (HNEPH), an integrated unit of health service staff (including psychologists, dietitians, health promotion practitioners) and University of Newcastle researchers (including implementation scientists, public health and health behavior researchers) conducting applied research to improve public health.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Elementary schools were eligible for inclusion if they were government or Catholic schools; located within HNE Local Health District; had an SES score of ≤5 (lower 50% of New South Wales) based on school postcode ; and not participating in other PA studies. Recruitment occurred in October 2014, by experienced Health Promotion staff. To maximize external validity, schools were randomly selected to participate. School principals were mailed study information and phoned to invite participation and gain consent to participate in the intervention and measures.\nThe intervention was delivered to all students in schools allocated to the intervention group by experienced Health Promotion staff. However, 20 randomly selected schools that had agreed to participate in the study were invited to also participate in a nested evaluation of the primary outcome. In such schools, four classes in third through sixth grade (Stage 2 and Stage 3) were randomly selected from class lists for the measurement component of the study. Students were excluded from the measurement if they had major physical or intellectual conditions impeding engagement in PA. Active parental consent was required. Class teachers distributed study information and consent forms to parents pertaining to the measurement component asking that signed consent forms be returned prior to the data collection.\nTo assess the secondary trial outcomes, all school teachers completed an online survey assessing school PA practices. Consent was deemed via return of the survey. In addition, randomly selected PE lessons were observed in up to four randomly selected classes across fourth through sixth grade to assess PE teaching quality. Lessons were observed by trained research staff with experience in PE, blinded to group allocation. Principals gave school-level consent for PE lesson observation, and teachers gave verbal consent prior to class commencement.\nRandom allocation of schools to group occurred post-recruitment. Schools underwent stratified randomization based on SES, allocated in a 1:1 ratio to intervention or control by an independent statistician using computerized random number function in Microsoft Excel. Twenty schools were randomly selected to participate in a nested trial to evaluate the primary trial outcome.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The intervention was based on the SCORES program and was delivered during two school terms. A previous cluster RCT of the SCORES program demonstrated efficacy in increasing students' MVPA by 12.7 minutes per day, improving fundamental movement skills (FMS), and increasing cardiorespiratory fitness at 12month follow-up. SCORES was guided by social ecological theory and consistent with the Health Promoting Schools framework. The intervention consisted of school committees and policy review, quality PE lessons, recess and lunchtime activity via student leadership, provision of equipment, and linkage with parents and community sporting organizations (Figure).\nThe SCORES program utilized in the efficacy trial was not amenable to large-scale rollout using existing HNEPH resources. Program adaptation followed a structured process (Appendix Table, available online). Adaptations are outlined in Figure. Briefly, modifications included (1) the quality PE and FMS component was delivered via a combination of in-school professional learning sessions, ongoing support via team teaching, video sessions, and observation and feedback on PE lessons rather than 1.5 days of face-to-face professional learning; (2) recess and lunchtime PA was modified from the original SCORES program by allowing schools to reward students in anyway that suited the school rather than utilizing reward booklets; and (3) community PA links were removed.\nThe adapted intervention (Figure) included the following:\n1. Teaching strategies to improve the quality of PE lessons including FMS and increasing MVPA. 2. School PA policies were reviewed with the aim of enhancing student PA and embedding practices to increase PA. 3. Recess and lunchtime PA via student leadership. Schools were provided with PA equipment (e.g., balls, skipping equipment), and encouraged to offer supervised PA in recess and lunch breaks on at least 2 days per week. Sixth-grade students were given incentives (e.g., certificates, acknowledgement) to become school PA leaders and setup, run, and pack away games and equipment. SCORES reward booklets were provided to schools and encouraged to reward students for their involvement in recess and lunchtime PA. 4. Parent engagement was encouraged through information sent to parents each term via newsletters and school website.\nSeven intervention implementation strategies were modified from the efficacy trial to enhance scalability. Implementation strategies were based on evidence regarding their ability to facilitate the implementation of school-based interventions, change professional service delivery practices, or build capacity of organizations Control schools participated in the measurement components of the trial only and delivered school PA practices according to the curriculum. Support was offered post-data collection.\nAll outcome data were collected directly following the 6-month intervention period in May-August 2015. Data pertaining to the primary trial outcome were collected by blinded, trained research assistants, within a nested sample of randomly selected schools. Students were asked to wear an accelerometer (Actigraph GT3X+) on an elastic belt around their waist for 7 days during waking hours. Student demographic characteristics were collected on consent forms signed by parents.\nData related to PE lesson quality (school PA practice intervention 2) were collected by trained research assistants blinded to group allocation. Data from up to four randomly selected classes per school across third through sixth grade were collected from the nested sample while wearing accelerometers, whereas the remaining intervention and control schools were assessed when usual PE lessons occurred.\nData related to implementation of school PA practices, practices intervention 1 (school PA policy), intervention 3 (recess and lunchtime PA) and intervention 4 (parental engagement) were self-reported from classroom teachers via an online survey. The survey included implementation of school PA practices, intervention acceptability, and perceived usefulness.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Accelerometer data were used to derive the primary PA outcome measure, overall minutes of MVPA per day. PA outside of school, throughout the school day, during recess and lunchtime, and in PE lessons were also explored. For all PA outcome measures, accelerometer non-wear time was defined as 30 minutes of consecutive zeros. Counts were collected in 15-second epochs. The Evenson cut-points were used to categorize the intensity of PA (moderate or vigorous). As recent reviews indicate, a wear time criterion of at least two 10-hour days is valid in children, with 3 days most commonly applied, students were asked to wear an accelerometer for 7 days and included in the analyses if worn for ≥600 minutes per day on any ≥3 days, including at least 1 valid school day, recess and lunch period, or PE lesson. Student consent forms collected student characteristics including age, sex, and residential postcode to assess SES.\nAn observational checklist, known as the SAAFE checklist, developed for the original SCORES efficacy trial, assessed the quality of PE lessons in intervention compared with control schools (school PA practice intervention 1). Blinded trained research assistants scored each component using a 5-point Likert scale (1¼never observed to 5¼always).\nAn online survey assessed school and teachers' implementation of the remaining three school PA practices (school PA policy, recess and lunchtime PA, and parental engagement) in addition to questions related to the delivery and acceptability of the implementation strategies (e.g., staff training content, usefulness of resources, peer teaching, and academic detailing session).\nTeacher surveys assessed delivery of the intervention (i.e., implementation support strategies) and acceptability and perceived usefulness of the intervention.\nBased on estimating 1,000 children per intervention arm (three to four classes per school year) and assuming 50% children consented and provided 3 days of valid accelerometer data, each school would yield at least 50 students at follow-up. With 500 students per arm and previous studies reporting the estimate of the SD of mean daily minutes of MVPA (10.7) and the interclass correlation coefficient (0.01), after adjustment fora design effect of 1.49, the effective sample size was estimated at 336 students per group. Based on ten schools per arm, with this sample size, 80% power and an α level of 0.05, the study was able to detect a difference in the primary trial outcome, mean daily minutes of MVPA between experimental and control students of SD¼2.3 minutes at follow-up.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Analyses were conducted using SAS, version 9.2, from October 2015 to January 2016. Summary statistics describe variables of interest. Significance levels were set at po0.05. Analysis of the primary outcome and other PA outcomes were undertaken using an F-test. Linear and generalized linear mixed models with a random intercept for school were used to assess the intervention effect. Least squares means (95% CIs) for each treatment group and pvalues for the difference in least squares means are presented, adjusted for sex. Post hoc exploratory investigation on the impact on children's overall vigorous and moderate PA (VPA, MPA); school day PA; recess and lunchtime PA; and PA within PE were undertaken.\nPE lesson quality and school PA practices were assessed by comparing the proportion of teachers within the intervention and control schools reporting the components of the SAAFE checklist and if school PA practices were being implemented. Statistical differences between groups was determined by t-tests. Descriptive statistics were used to summarize teacher acceptability.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Of 64 eligible schools approached, 46 agreed to participate in the implementation trial (25 intervention, 21 control), of which 20 schools agreed to take part in the nested evaluation measuring the primary trial outcome. One school, however, was unable to participate at late notice and following random allocation but prior to data collection, leaving 19 schools participating in the nested evaluation (Figure). Characteristics of schools in the nested sample were similar to the overall sample.\nFor the primary outcome, 1,160 of the 1,959 eligible students (60%) from the 19 nested schools consented to participate, of which 1,139 students (58% of eligible students) wore an accelerometer and 87% (989/1,139) provided 43 days of valid accelerometer data (492 control and 497 intervention). The 1,139 students wearing an accelerometer represented 99% of students with parental consent (Appendix Table, available online).\nTo assess the secondary outcomes, school PE lesson quality and school PA practices, 69 lessons were observed (88% of eligible lessons), and 141 (87 intervention, 54 control) of the 382 eligible school teachers (37%) completed an online survey across the 46 participating intervention and control schools.\nTable outlines the primary trial outcomes, mean minutes of MVPA per day, and the additional PA outcomes assessed via accelerometry including school day PA, recess/lunchtime PA, and PA in PE lessons.\nThe mean difference in daily MVPA between groups was 1.96 minutes in favor of the intervention group (95% CI¼ -3.49, 7.41, p¼0.48; Table). There was a significant difference between groups in overall daily VPA, mean difference of 2.19 minutes (95% CI¼0.06, 4.32, p¼0.04), but not on daily MPA, mean difference -0.23 minutes (95% CI¼ -3.84, 3.37, p¼0.90). The intervention also had a significant effect on mean minutes of school day MVPA (difference between groups 2.9 minutes, 95% CI¼0.06, 5.85, p¼0.05) and VPA (difference between groups 1.81 minutes, 95% CI¼0.78, 2.83, p≤0.01), but not MPA. No significant intervention effects were observed for recess and lunchtime PA or PA within PE lessons. Table outlines the observational assessment of teachers to assess PE lesson quality (School PA practice intervention 2). There were significant effects in favor of the intervention group for overall mean lesson quality score (po0.01). In addition, each quality component of the SAAFE checklist was also statistically significantly higher in teachers from the intervention schools, compared with teachers from control schools (po0.01). There were no other significant differences in school PA practices.\nAppendix Table (available online) outlines the process measures for the intervention delivery and uptake of the intervention as reported by teachers (n¼114), along with teacher-reported implementation acceptability and usefulness.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "This implementation trial assessed the effectiveness of a modified version of the school-based PA program known as SCORES. The implementation trial was not effective at increasing the primary trial outcome, children's overall mean daily minutes of MVPA. However, exploratory analysis revealed significant improvements in overall VPA, school day MVPA, and school day VPA. Given longitudinal research indicates a dose-response relationship between VPA and cardiometabolic outcomes and small increases in VPA may lower BMI, this increase is meaningful. Further, implementation support provided as part of the intervention improved the quality of PE lessons, but not the implementation of other school PA practices. The study findings reinforce the challenges of scaling up efficacious PA interventions and demonstrate that adaptations to interventions for real-world delivery can substantially alter effect sizes.\nAlthough the efficacy trial found a post-intervention effect of 12 minutes, this trial resulted in only 2 minutes more MVPA. Despite a thorough process including identification of organizational and individual barriers to PA matched with potential behavior change techniques undertaken in the development of the implementation intervention to ensure suitability for dissemination, not all of the original strategies were maintained. The reduced effect on student daily MVPA, in comparison with the original trial, may have resulted because of modifications made to improve scalability. Most notably, the implementation intervention was significantly shorter in duration compared with the SCORES efficacy trial, and thus may provide an explanation for why the implementation intervention did not result in a significant effect on daily MVPA. Systematic reviews of school-based PA interventions indicate that longerduration interventions (412 months) are more effective than shorter duration interventions. In the efficacy trial, the statistically significant effect was seen at the 12-month follow-up but not at the 6-month followup ; perhaps allowing further time for schools to implement the required intervention would be beneficial. This is consistent with other school-based PA interventions reporting greater effects from mid-intervention to follow-up. Nonetheless, doubling support duration would add significant resource costs and may not be feasible in jurisdictions with more limited capacity. The implementation intervention was a modification of the original efficacy trial, with some components removed and delivery of others heavily modified to suit scalability. The strategy relating to linkage with the community was removed entirely, potentially impacting overall student MVPA. Systematic reviews indicate multicomponent interventions with links to both the home and community are more likely to result in an increase in MVPA. Although the community links strategy implemented in the original SCORES efficacy trial was not perceived to bean essential element, continued reinforcement of behavioral change messages, within and beyond school, maybe necessary to impact a child's overall daily MVPA.\nDelivery of the intervention was also modified by giving schools flexibility to implement components of the intervention. Whereas flexibility and tailoring the intervention to suit local context is deemed an important element within scalability, schools may require minimum standards or guidelines to assist with delivering the required dose to students. School practice data collected from teachers indicated no difference in the provision of recess and lunchtime activities or equipment between the intervention and control group. Additionally, school record data indicated poor intervention fidelity; in some cases, control group implementation was greater than the intervention, potentially explained by compensatory rivalry whereby control group participants are motivated to outperform the intervention group. As school-based PA interventions have noted a dose-response relationship between schools implementing the required dose and greater effect on student PA, further support is required to ensure schools implement the intervention as intended, potentially improving effect size. Indeed, the authors' exploratory analyses revealed a moderately strong dose-response relationship between implementation fidelity and overall mean MVPA. Research is urgently needed to better inform implementation strategies.\nThe study has a number of strengths, including use of a randomized controlled design, use of an objective measure of PA, inclusion of blind assessors, and the inclusion of a suite of intervention implementation strategies as recommended in past school-based PA reviews. Additionally, all modifications made were carefully documented, showing how the strategies from the efficacy trial were adapted to be more suitable for wide-scale dissemination.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Limitations should be considered. Implementing school-based interventions with longer duration is recommended. Although implementation support was provided by a health service organization within existing resources, the organization is uniquely composed of staff with considerable integrated research expertise. Findings may therefore not generalize to organizations with limited capacity to facilitate implementation. Response rates from teachers were low, requiring additional executive support to evaluate implementation efforts. Inclusion of more robust process measures, not reliant on teacher self-report (i.e., observation) and subject to socially desirable reporting, would enhance evaluation efforts, as would examination of the Activity-Stat hypothesis to explore the increase in school day PA without an increase in total daily activity.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The implementation intervention supporting delivery at scale did not completely translate the efficacy trial results; an increase in daily minutes of MVPA in the intervention compared with the control group was not observed. Further research is required to determine if implementation over a longer duration can enhance the effect or if alternate implementation support strategies are needed.\n",
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "60",
+          "rowHeaders": [
+            "School PA policy or plan (% of schools)",
+            "Provision of sports equipment at recess (mean % of days offered)"
+          ],
+          "columnHeaders": [
+            "Table 2. School Physical Activity Practices",
+            "Table 2. School Physical Activity Practices",
+            "Control (n¼54)"
+          ]
+        },
+        {
+          "value": "76",
+          "rowHeaders": [
+            "School PA policy or plan (% of schools)",
+            "Provision of sports equipment at recess (mean % of days offered)"
+          ],
+          "columnHeaders": [
+            "Table 2. School Physical Activity Practices",
+            "Table 2. School Physical Activity Practices",
+            "Intervention (n¼87)"
+          ]
+        },
+        {
+          "value": "0.41",
+          "rowHeaders": [
+            "School PA policy or plan (% of schools)",
+            "Provision of sports equipment at recess (mean % of days offered)"
+          ],
+          "columnHeaders": [
+            "Table 2. School Physical Activity Practices",
+            "Table 2. School Physical Activity Practices",
+            "p-value"
+          ]
+        },
+        {
+          "value": "36.0",
+          "rowHeaders": [
+            "Overall lesson quality score",
+            "Provision of sports equipment at recess (mean % of days offered)"
+          ],
+          "columnHeaders": [
+            "Table 2. School Physical Activity Practices",
+            "Table 2. School Physical Activity Practices",
+            "Control (n¼54)"
+          ]
+        },
+        {
+          "value": "57.5",
+          "rowHeaders": [
+            "Overall lesson quality score",
+            "Provision of sports equipment at recess (mean % of days offered)"
+          ],
+          "columnHeaders": [
+            "Table 2. School Physical Activity Practices",
+            "Table 2. School Physical Activity Practices",
+            "Intervention (n¼87)"
+          ]
+        },
+        {
+          "value": "o0.01",
+          "rowHeaders": [
+            "Overall lesson quality score",
+            "Provision of sports equipment at recess (mean % of days offered)"
+          ],
+          "columnHeaders": [
+            "Table 2. School Physical Activity Practices",
+            "Table 2. School Physical Activity Practices",
+            "p-value"
+          ]
+        },
+        {
+          "value": "7.1",
+          "rowHeaders": [
+            "Supportive",
+            "Provision of sports equipment at recess (mean % of days offered)"
+          ],
+          "columnHeaders": [
+            "Table 2. School Physical Activity Practices",
+            "Table 2. School Physical Activity Practices",
+            "Control (n¼54)"
+          ]
+        },
+        {
+          "value": "11.6",
+          "rowHeaders": [
+            "Supportive",
+            "Provision of sports equipment at recess (mean % of days offered)"
+          ],
+          "columnHeaders": [
+            "Table 2. School Physical Activity Practices",
+            "Table 2. School Physical Activity Practices",
+            "Intervention (n¼87)"
+          ]
+        },
+        {
+          "value": "o0.01",
+          "rowHeaders": [
+            "Supportive",
+            "Provision of sports equipment at recess (mean % of days offered)"
+          ],
+          "columnHeaders": [
+            "Table 2. School Physical Activity Practices",
+            "Table 2. School Physical Activity Practices",
+            "p-value"
+          ]
+        },
+        {
+          "value": "10.6",
+          "rowHeaders": [
+            "Active",
+            "Provision of sports equipment at recess (mean % of days offered)"
+          ],
+          "columnHeaders": [
+            "Table 2. School Physical Activity Practices",
+            "Table 2. School Physical Activity Practices",
+            "Control (n¼54)"
+          ]
+        },
+        {
+          "value": "15.2",
+          "rowHeaders": [
+            "Active",
+            "Provision of sports equipment at recess (mean % of days offered)"
+          ],
+          "columnHeaders": [
+            "Table 2. School Physical Activity Practices",
+            "Table 2. School Physical Activity Practices",
+            "Intervention (n¼87)"
+          ]
+        },
+        {
+          "value": "o0.01",
+          "rowHeaders": [
+            "Active",
+            "Provision of sports equipment at recess (mean % of days offered)"
+          ],
+          "columnHeaders": [
+            "Table 2. School Physical Activity Practices",
+            "Table 2. School Physical Activity Practices",
+            "p-value"
+          ]
+        },
+        {
+          "value": "4.6",
+          "rowHeaders": [
+            "Autonomous",
+            "Provision of sports equipment at recess (mean % of days offered)"
+          ],
+          "columnHeaders": [
+            "Table 2. School Physical Activity Practices",
+            "Table 2. School Physical Activity Practices",
+            "Control (n¼54)"
+          ]
+        },
+        {
+          "value": "8.3",
+          "rowHeaders": [
+            "Autonomous",
+            "Provision of sports equipment at recess (mean % of days offered)"
+          ],
+          "columnHeaders": [
+            "Table 2. School Physical Activity Practices",
+            "Table 2. School Physical Activity Practices",
+            "Intervention (n¼87)"
+          ]
+        },
+        {
+          "value": "o0.01",
+          "rowHeaders": [
+            "Autonomous",
+            "Provision of sports equipment at recess (mean % of days offered)"
+          ],
+          "columnHeaders": [
+            "Table 2. School Physical Activity Practices",
+            "Table 2. School Physical Activity Practices",
+            "p-value"
+          ]
+        },
+        {
+          "value": "5.8",
+          "rowHeaders": [
+            "Provision of sports equipment at recess (mean % of days offered)"
+          ],
+          "columnHeaders": [
+            "Table 2. School Physical Activity Practices",
+            "Table 2. School Physical Activity Practices",
+            "Control (n¼54)"
+          ]
+        },
+        {
+          "value": "10.2",
+          "rowHeaders": [
+            "Provision of sports equipment at recess (mean % of days offered)"
+          ],
+          "columnHeaders": [
+            "Table 2. School Physical Activity Practices",
+            "Table 2. School Physical Activity Practices",
+            "Intervention (n¼87)"
+          ]
+        },
+        {
+          "value": "o0.01",
+          "rowHeaders": [
+            "Provision of sports equipment at recess (mean % of days offered)"
+          ],
+          "columnHeaders": [
+            "Table 2. School Physical Activity Practices",
+            "Table 2. School Physical Activity Practices",
+            "p-value"
+          ]
+        },
+        {
+          "value": "8.2",
+          "rowHeaders": [
+            "Provision of sports equipment at recess (mean % of days offered)"
+          ],
+          "columnHeaders": [
+            "Table 2. School Physical Activity Practices",
+            "Table 2. School Physical Activity Practices",
+            "Control (n¼54)"
+          ]
+        },
+        {
+          "value": "12.3",
+          "rowHeaders": [
+            "Provision of sports equipment at recess (mean % of days offered)"
+          ],
+          "columnHeaders": [
+            "Table 2. School Physical Activity Practices",
+            "Table 2. School Physical Activity Practices",
+            "Intervention (n¼87)"
+          ]
+        },
+        {
+          "value": "o0.01",
+          "rowHeaders": [
+            "Provision of sports equipment at recess (mean % of days offered)"
+          ],
+          "columnHeaders": [
+            "Table 2. School Physical Activity Practices",
+            "Table 2. School Physical Activity Practices",
+            "p-value"
+          ]
+        },
+        {
+          "value": "40",
+          "rowHeaders": [
+            "Provision of sports equipment at recess (mean % of days offered)"
+          ],
+          "columnHeaders": [
+            "Table 2. School Physical Activity Practices",
+            "Table 2. School Physical Activity Practices",
+            "Control (n¼54)"
+          ]
+        },
+        {
+          "value": "24",
+          "rowHeaders": [
+            "Provision of sports equipment at recess (mean % of days offered)"
+          ],
+          "columnHeaders": [
+            "Table 2. School Physical Activity Practices",
+            "Table 2. School Physical Activity Practices",
+            "Intervention (n¼87)"
+          ]
+        },
+        {
+          "value": "0.28",
+          "rowHeaders": [
+            "Provision of sports equipment at recess (mean % of days offered)"
+          ],
+          "columnHeaders": [
+            "Table 2. School Physical Activity Practices",
+            "Table 2. School Physical Activity Practices",
+            "p-value"
+          ]
+        },
+        {
+          "value": "40",
+          "rowHeaders": [
+            "Provision of sports equipment at recess (mean % of days offered)"
+          ],
+          "columnHeaders": [
+            "Table 2. School Physical Activity Practices",
+            "Table 2. School Physical Activity Practices",
+            "Control (n¼54)"
+          ]
+        },
+        {
+          "value": "42",
+          "rowHeaders": [
+            "Provision of sports equipment at recess (mean % of days offered)"
+          ],
+          "columnHeaders": [
+            "Table 2. School Physical Activity Practices",
+            "Table 2. School Physical Activity Practices",
+            "Intervention (n¼87)"
+          ]
+        },
+        {
+          "value": "0.94",
+          "rowHeaders": [
+            "Provision of sports equipment at recess (mean % of days offered)"
+          ],
+          "columnHeaders": [
+            "Table 2. School Physical Activity Practices",
+            "Table 2. School Physical Activity Practices",
+            "p-value"
+          ]
+        },
+        {
+          "value": "82",
+          "rowHeaders": [
+            "Provision of sports equipment at recess (mean % of days offered)"
+          ],
+          "columnHeaders": [
+            "Table 2. School Physical Activity Practices",
+            "Table 2. School Physical Activity Practices",
+            "Intervention (n¼87)"
+          ]
+        },
+        {
+          "value": "0.19",
+          "rowHeaders": [
+            "Provision of sports equipment at recess (mean % of days offered)"
+          ],
+          "columnHeaders": [
+            "Table 2. School Physical Activity Practices",
+            "Table 2. School Physical Activity Practices",
+            "p-value"
+          ]
+        },
+        {
+          "value": "1.0",
+          "rowHeaders": [
+            "Provision of sports equipment at lunch (mean % of days offered)"
+          ],
+          "columnHeaders": [
+            "Table 2. School Physical Activity Practices",
+            "Table 2. School Physical Activity Practices",
+            "p-value"
+          ]
+        },
+        {
+          "value": "40",
+          "rowHeaders": [
+            "Parent newsletters regarding PA"
+          ],
+          "columnHeaders": [
+            "Table 2. School Physical Activity Practices",
+            "Table 2. School Physical Activity Practices",
+            "Control (n¼54)"
+          ]
+        },
+        {
+          "value": "71",
+          "rowHeaders": [
+            "Parent newsletters regarding PA"
+          ],
+          "columnHeaders": [
+            "Table 2. School Physical Activity Practices",
+            "Table 2. School Physical Activity Practices",
+            "Intervention (n¼87)"
+          ]
+        },
+        {
+          "value": "0.22",
+          "rowHeaders": [
+            "Parent newsletters regarding PA"
+          ],
+          "columnHeaders": [
+            "Table 2. School Physical Activity Practices",
+            "Table 2. School Physical Activity Practices",
+            "p-value"
+          ]
+        }
+      ],
+      "page": 1
+    }
+  ]
+}

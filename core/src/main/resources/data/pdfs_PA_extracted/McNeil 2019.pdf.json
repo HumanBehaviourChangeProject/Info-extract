@@ -1,0 +1,3646 @@
+{
+  "blocks": [
+    {
+      "type": "LINES",
+      "value": "Activity Tracker to Prescribe Various Exercise Intensities in Breast Cancer Survivors",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Purpose: To prescribe different physical activity (PA) intensities using activity trackers to increase PA, reduce sedentary time, and improve health outcomes among breast cancer survivors. The maintenance effect of the interventions on study outcomes was also assessed. Methods: The Breast Cancer and Physical Activity Level pilot trial randomized breast cancer survivors to a home-based, 12-wk lower (300 min•wk −1 at 40%-59% of HR reserve) or higher-intensity PA (150 min•wk −1 at 60%-80% of HR reserve), or no PA intervention/control. Both intervention groups received Polar A360® activity trackers. Study outcomes assessed at baseline, 12 and 24 wk included PA and sedentary time (ActiGraph GT3X+), health-related fitness (e.g., body composition, cardiopulmonary fitness/V O 2max ), and patient-reported outcomes (e.g., quality of life). Intention-to-treat analyses were conducted using linear mixed models and adjusted for baseline outcomes. Results: Increases in moderate-vigorous intensity PA (least squares adjusted group difference [LSAGD], 0.6; 95% confidence interval [CI], 0.1-1.0) and decreases in sedentary time (LSAGD, −1.2; 95% CI, −2.2 to −0.2) were significantly greater in the lowerintensity PA group versus control at 12 wk. Increases in V O 2max at 12 wk in both interventions groups were significantly greater than changes in the control group (lower-intensity PA group LSAGD, 4.2; 95% CI, 0.5-8.0 mL•kg −1 •min −1 ; higher-intensity PA group LSAGD, 5.4; 95% CI, 1.7-9.1 mL•kg −1 •min −1 ). Changes in PA and V O 2max remained at 24 wk, but differences between the intervention and control groups were no longer statistically significant. Conclusions: Increases in PA time and cardiopulmonary fitness/V O 2max can be achieved with both lowerand higher-intensity PA interventions in breast cancer survivors. Reductions in sedentary time were also noted in the lower-intensity PA group.",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "As breast cancer survivors live longer, more women are seeking ways to improve their quality of life after diagnosis, and increasing physical activity (PA) and decreasing sedentary time are being viewed as means to achieve this objective. The American Cancer Society and the American College of Sports Medicine (3) advise cancer survivors to engage in at least 150 min•wk −1 of moderate-to vigorousintensity (40%-85% of HR reserve [HRR]) (4) PA and limit total sitting time for overall health and well-being. These guidelines are based on convincing evidence that PA and limiting sitting time during or after cancer treatment improves quality of life, muscular and aerobic fitness, and does not cause harm. Despite these recommendations, research in Canada and the United States suggests that the majority of breast cancer survivors are not sufficiently active, spending on average 65% to 80% of their time awake being sedentary and only 2% to 3% of their time as moderate-to vigorous-intensity PA. These rates of physical inactivity and high sedentary time are concerning given evidence that low levels of PA and/or high amounts of sedentary time are associated with increased risks of cancer recurrence and mortality.\nA recent meta-analysis of randomized controlled trials (RCT) including home-based PA interventions in posttreatment cancer survivors reported an overall small effect size of 0.21 favoring the PA intervention versus usual care for improvements in moderate-vigorous intensity PA time. Another systematic review reported improvements in cardiorespiratory fitness and muscular strength after aerobic and/or resistance PA interventions in breast cancer survivors. Three systematic reviews have also assessed the effects of PA interventions on patient-reported outcomes, reporting that PA interventions lead to greater improvements in patient-reported outcomes compared to conventional interventions/usual care. Finally, some, but not all, studies have reported associations between high levels of sedentary time and/or low sit-to-stand transitions with markers of health-related fitness and patient-reported outcomes in breast cancer survivors. Additional research is needed to establish interventions aimed at reducing sedentary time and its impact on health outcomes in breast cancer survivors.\nDespite strong evidence for improvements in markers of health-related fitness and patient-reported outcomes after PA interventions of at least moderate-intensity, a recent study reported that breast cancer survivors with the lowest self-reported PA levels expressed more barriers to PA participation and consistently preferred light-to moderate-intensity PA, whereas more active women preferred moderate-to vigorousintensity PA. Hence, promoting lower-intensity PA (40%-59% of HRR, or lower end of moderate-intensity PA (4)) could be a successful means for improving adherence and reducing barriers to PA participation in physically inactive breast cancer survivors. Evidence is needed to assess differences in adherence and feasibility to achieving PA goals based on a prescription of lower (40%-59% of HRR) versus higher (60%-80% of HRR, or higher end of moderate/vigorous-intensity PA (4)) intensity PA in this population.\nFew RCT to date have also tested the efficacy of newer forms of technology, such as mobile technologies and wearable activity trackers, to deliver PA interventions in cancer survivors. Specifically, wearable activity trackers use self-monitoring strategies to prompt behavior change by providing automated feedback on sedentary time and PA of different intensities. These devices are low cost and have potential for scalable use in behavioral interventions that promote both reductions in sedentary time and increases in PA. Breast cancer survivors, specifically, have also expressed an interest in using wearable activity trackers to self-monitor physical activity and sedentary time. Initial intervention studies using wearable activity trackers have shown improvements in PA, reductions in sedentary time, as well as improved sleep quality, self-reported quality of life, and cardiorespiratory fitness. However, only one study utilized measures from the wearable activity trackers to assess adherence to the intervention and another assessed changes in study outcomes at follow-up. Furthermore, no RCT to date has assessed the efficacy of using wearable activity trackers to prescribe PA intensity based on HRR among inactive breast cancer survivors.\nTo develop the methods for and establish the feasibility of a full scale trial, we conducted pilot data collection in 45 breast cancer survivors. The aim of the Breast Cancer and Physical Activity Level (BC-) pilot trial was to assess the effects of prescribing 300 min•wk −1 of lower-intensity PA (40%-59% of HRR) or 150 min•wk −1 of higher-intensity PA (60%-80% of HRR) for 12 wk using wearable activity trackers, compared to no PA intervention/control, on objective measures of PA and sedentary time, as well as markers of health-related fitness and patient reported outcomes, in physically inactive breast cancer survivors. This study also evaluated the longer-term (24 wk) maintenance effect of these interventions on study outcomes. Lastly, this study assessed differences in adherence to wearing the activity tracker and achieving the prescribed PA prescriptions between both intervention groups.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Setting and participants. This single-center, three-armed, 12-wk pilot RCT was conducted in Calgary (Alberta, Canada) between February 2017 and April 2018. Participants were recruited through the Alberta Cancer Registry, a populationbased registry which receives information on all cancer cases diagnosed throughout Alberta from physicians and laboratories. The Alberta Cancer Registry mailed invitation letters from the study investigators, a copy of the study consent form and a study brochure to 900 randomly selected breast cancer survivors who were residing in the Calgary area at the time of recruitment. Breast cancer survivors who were interested in receiving more information and/or participating in the study were invited to contact the study team. Of the 109 individuals who contacted the study team, 53 completed baseline assessments and 45 were randomized to one of three groups: 1) lower-intensity PA intervention, 2) higher-intensity PA intervention, or 3) no PA intervention (control). Eligibility criteria included: females 18 yr or older; diagnosed with histologically confirmed stage I-IIIc breast cancer; completion of adjuvant treatment (chemotherapy, radiation therapy, and surgery) except for hormonal therapy; nonpregnant; recreationally inactive (accumulating ≤60 min of moderate-vigorous intensity PA per week and ≤10,000 steps per day); able to undertake a PA program and received medical clearance from a physician if the potential participant had medical conditions that may impede safe PA participation (e.g., severe arthritis, spinal cord injury, heart or cardiovascular disease); currently living in the Calgary area and able to meet with study staff at the Holy Cross Centre in Calgary on six occasions for data collection. All eligibility criteria were first assessed by self-report over the phone. Further assessment of PA levels was completed at baseline by verifying accelerometry data and providing a pedometer to wear for 7 d if participants reported achieving ≥10,000 steps or ≥60 min•wk −1 of PA on occasion or reported having an \"active\" employment (e.g., housekeeping). Information on breast cancer stage at diagnosis and the type of treatments received were also verified through electronic medical records maintained by the Department of Cancer Surveillance within CancerControl Alberta, Alberta Health Services. The study protocol was conducted according to the guidelines laid down in the Declaration of Helsinki, and all procedures involving human participants were approved by the Health Research Ethics Board of Alberta-Cancer Committee. Written informed consent was provided by all participants.\nPhysical activity interventions. Participants randomized to the lower-and higher-intensity PA interventions were instructed to accumulate 300 min•wk −1 of PA at an intensity of 40% to 59% of HRR (~3-5 METs) or 150 min•wk −1 of PA at an intensity of 60% to 80% of HRR (~6-9 METs), respectively. The total PA volume prescribed to each group was similar (~15-25 MET•h•wk −1 ). Participants randomized to these PA interventions were given a wrist-worn Polar A360® device to record HR/PA intensity and PA duration throughout the intervention. The target PA intensity was individualized for each participant based on calculated HRR: [(HR max − HR rest ) Â exercise intensity (%)] + HR rest . HR max was estimated based on the following equation: 220 À age. This target PA intensity was programmed under the \"training\" application of this wearable activity tracker. Any aerobic activity that raises the HR into the target HR zone was counted as PA time, including household and short PA bouts (i.e., <10 min). This activity tracker also provided prompt feedback on HR/ PA intensity and PA duration that could be used by participants to modify their home-based/unsupervised PA participation. Participants were instructed to upload their data to the Polar Flow® application at least once per week to minimize the risk of missing data and to allow the Study Exercise Physiologist to track their progress.\nAs part of the PA interventions, these participants also received a diary with questions on goal setting, the feasibility of the prescribed PA targets, and strategies and barriers to PA participation, which they were instructed to complete every 3 wk to facilitate active follow-up discussions by phone or e-mail with the Study Exercise Physiologist. These active follow-up discussions were used to review data from the Polar A360® device and diary, to reinforce adherence, and discuss any problems/ barriers to achieving the prescribed PA goals.\nParticipants randomized to the control group were instructed to maintain their baseline PA levels and did not receive any aspect of the PA interventions during the 12-wk intervention and 12-wk follow-up periods.\nFollow-up period. Participants were aware that all study outcome assessments would be repeated at the 24-wk timepoint. However, PA participation was not monitored, nor did participants receive a PA prescription during the follow-up period. Participants randomized to either of the PA interventions were able to retain their Polar A360® device as an incentive for study participation, but its use during this followup period was discretionary. Participants randomized to the control group received the written resources from the interventions, a personal PA prescription from the Study Exercise Physiologist and a wrist-worn activity tracker as an incentive for study participation at the end of the follow-up period. All participants also received personalized results for all outcome measurements after their involvement in the study and were able to discuss these results and pose any questions that they may have with the Study Exercise Physiologist at this time.\nOutcome measures. All outcomes were assessed at baseline, just before the end of the intervention (12 wk) and at end of follow-up (24 wk). Our primary outcomes included total, moderate-vigorous and light-intensity PA times, as well as sedentary and sleep times, assessed with the ActiGraph® GT3X+ accelerometer (ActiGraph LLC, Pensacola, FL). All participants were asked to wear this accelerometer around their waist for 24 h•d −1 (except for water-based activities because this device is not waterproof ) for seven consecutive days. Accelerometry data were collected from the ActiGraph® GT3X+ device at a sampling rate of 80 Hz and were aggregated to 60-s epoch files for analysis by the ActiLife® software (v6.10.2). We used the Actigraph® Vertical Axis (VT) calculations to derive PA and sedentary time outcomes from the accelerometry-measured activity counts. The following cutpoints, which were initially calibrated against abroad range of lifestyle and ambulatory activities assessed under free-living conditions, were used to define PA time according to intensity and sedentary time for the VT calculations: <100 counts per minute (sedentary), 100 to 760 counts per minute (light intensity) and >760 counts per minute (moderate-vigorous intensity). These cutoff points were also recently shown to provide more accurate estimates of moderate-to vigorous-intensity PA time by capturing a broader range of activities under free-living conditions. To identify nonwear and sleep times, an automated algorithm developed by McVeigh et al. (41) using only counts per minute VT data from hip-worn Actigraph® accelerometers was used. This algorithm first attempts to identify long periods of in-bed time by searching for prolonged periods of low activity (≥180 min at <89 counts per minute). The algorithm then searches for sustained periods of higher-intensity activity (≥10 min at ≥89 counts per minutes), which is assumed to be the time the participant arose from bed/woke up. To determine exact bed and wake times, the algorithm searches for the 30 min before and after this prolonged sleep period and identifies bedtime as the first minute with an activity count ≤89 counts per minute that follows 10 min containing ≥4 min with activity counts ≤50. Wake time is identified as the first minute with ≥91 counts per minute followed by 10 min containing ≥3 min with activity counts >200. Time in bed (assumed sleeping time) is then calculated as the elapsed time between bed and wake times.\nOur secondary outcomes included markers of health-related fitness. Specifically, anthropometric data, which include standing height, weight, waist, and hip circumferences, were measured using standard equipment and methods established by the Canadian Society for Exercise Physiology. A dual X-ray absorptiometry scan (Hologic® system, Marlborough, MA) with a full body image was used to estimate total lean body mass (kg) and fat mass (kg). The multistage, submaximal Balke treadmill test was used to estimate cardiorespiratory fitness in all participants. During this treadmill test, participants walked at a speed of 3 mph with a gradient starting at 0% which increased by 2.5% every 3 min until they reached 85% of predicted maximal HR. This testis considered safe for individuals with low PA levels because the elevation in workload is moderate. Measurements during this test included: test duration (minutes), HR at rest and during exercise assessed with a HR monitor, blood pressure at rest and during exercise assessed with a blood pressure cuff and sphygmomanometer, and ratings of perceived exertion assessed with a Borg scale. The following formula developed by Pollock et al.  All analyses were performed using SAS (SAS Enterprise Guide Version 7.13 for Linux; SAS Institute Inc.). An intentionto-treat analysis that included all participants with complete outcome data at baseline, 12 and 24 wk regardless of protocol adherence was used. Independent t-tests were used to assess differences between intervention groups in the number of intervention weeks with activity tracker data and the percentage of participants who achieved the prescribed amount of PA within the targeted HRR zone. Repeated-measures ANOVA tests were also conducted to assess any changes across time (weeks 1-3, 4-6, 7-9, and 10-12) in the relative number of participants who achieved the prescribed amount of PA and the absolute amount of PA accumulated within the prescribed HRR zones for each intervention group. Linear models estimated changes in study outcomes within each group at and 24 wk, compared with baseline, after adjusting for baseline outcome values. These models also tested the null hypothesis of no differences between randomization groups using an ANCOVA test (adjusted for baseline outcome values), as well as differences in outcome changes between the lowerintensity PA versus the control groups, and the higher-intensity PA versus the control groups, using least squares means. The same model was used in an exploratory analysis to test changes in study outcomes and differences between groups at 24 wk compared with 12 wk after adjusting for 12-wk outcome values.\nStatistical significance was set at α < 0.05, which remained for all analyses given the exploratory nature of this pilot study.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The number of invited and eligible participants, reasons for exclusion from randomization, and the number of participants with complete outcome data are presented in Figure. Two participants in the control group dropped out of the study and two participants refused or were unable to participate in follow-up assessments, meaning that 43 and 41 participants completed outcome assessments at 12 and 24 wk, respectively. Baseline characteristics for all participants (n = 45) are presented in Table.\nResults collected from the Polar A360® activity trackers for each week of the intervention in the lower-and higherintensity PA groups are presented in Figure. Polar A360® activity tracker data were available for participants randomized to the lower-and higher-intensity PA groups on 11.7 ± 0.6 and 11.4 ± 1.4 interventions weeks, respectively (P = 0.40). The HR data were available for the entire 12-wk intervention in 26 of 30 participants (12 participants randomized to each intervention group). Over the entire 12-wk intervention, the relative number of participants who achieved the prescribed amount of PA within the target HR zone was significantly higher in the lower-intensity versus higher-intensity PA group (96% ± 5% vs 49% ± 35%; P < 0.0001). Participants in the lower-intensity PA group also averaged 928 ± 520 min•wk −1 (133 ± 74 min•d −1 ) within the prescribed HR zone of 40% to 59% of HRR, and participants in the higher-intensity PA group averaged 166 ± 101 min•wk −1 (24 ± 14 min•d −1 ) within the prescribed HR zone of 60% to 80% of HRR. There were no statistically significant differences in the relative number of participants who achieved the prescribed PA amounts across time in the lower-intensity (weeks 1-3, 93% ± 14%; weeks 4-6, 100% ± 0%; week 7-9, 96% ± 12%; weeks 10-12, 93% ± 14%; P = 0.35) and higher-intensity (weeks 1-3, 51% ± 47%; weeks 4-6, 49% ± 43%; weeks 7-9, 44% ± 43%; weeks 10-12, 40% ± 40%; P = 0.77) PA groups. Similarly, there were no statistically significant differences in the absolute amount of PA accumulated within the prescribed HRR zone across time in the lower-intensity (weeks 1-3, 981 ± 548 min•wk −1 ; weeks 4-6, 917 ± 500 min•wk −1 ; weeks 7-9, 986 ± 555 min•wk −1 ; weeks 10-12, 1013 ± 543 min•wk −1 ; P = 0.78) and higher-intensity (weeks 1-3: 168 ± 111 min•wk −1 , weeks 4-6: 135 ± 85 min•wk −1 , weeks 7-9: 159 ± 144 min•wk −1 , weeks 10-12: 144 ± 109 min•wk −1 ; P = 0.75) PA groups.\nTable presents the results for changes in accelerometrymeasured physical activity, sedentary and sleep times from baseline to 12 wk. Adjusted mean increases in total (66 min•d −1 ), moderate-vigorous (42 min•d −1 ) and light (24 min•d −1 ) intensity PA time, in addition to decreases in sedentary (54 min•d −1 ) and sleep (48 min•d −1 ) times were noted in the lower-intensity PA group. Adjusted mean increases in total (42 min•d −1 ) and moderate-to vigorous-intensity (24 min•d −1 ) PA were also noted in the higher-intensity PA group. The adjusted mean group differences in moderate-to vigorous-intensity PA (36 min•d −1 ) and sedentary time (72 min•d −1 ) between the lower-intensity PA and control groups were statistically significant, whereas no statistically significant differences were noted in accelerometry measurements between the high-intensity PA and control groups. Table presents the results for changes in accelerometry-measured physical activity, sedentary, and sleep times from baseline to 24 wk. Only increases in moderateto vigorous-intensity PA time in the lower-intensity PA group were statistically significant (24 min•d −1 ); however, this increase was not significantly different than the changes seen in the control group. Lastly, there were no statistically significant changes within each group, or differences between groups, in accelerometry data between 12 and 24 wk (see Table, Supplemental Digital Content 1, results for accelerometry-derived PA, sedentary and sleep times from 12 to 24 wk, http://links.lww. com/MSS/B493).\nTable presents the results for changes in markers of health-related fitness from baseline to 12 wk. Adjusted mean increases in V O 2max were noted after both PA interventions (lower-intensity PA: 4.5 mL•kg −1 •min −1 , higher-intensity PA: 5.6 mL•kg −1 •min −1 ). These changes in V O 2max were significantly greater in both PA intervention groups compared to the control group (lower-intensity PA: 4.2 mL•kg −1 •min −1 , higherintensity PA: 5.4 mL•kg −1 •min −1 ). The higher-intensity PA group also had a decrease in body fat mass (1.2 kg), however, this increase was not significantly different than the changes seen in the control group. Table presents the results for changes in markers of health-related fitness from baseline to wk. Increases in V O 2max in both PA intervention groups were noted (lower-intensity PA: 4.9 mL•kg −1 •min −1 , higherintensity PA: 3.5 mL•kg −1 •min −1 ), however, these changes were not significantly different than that seen in the control group. Supplemental Digital Content 2 presents the results for changes in markers of health-related fitness from   significant increase in body fat mass was observed in the higherintensity PA group (0.9 kg); however, this increase was not significantly different than that seen in the control group. Lastly, results for changes in patient-reported outcomes from baseline to 12 wk, baseline to 24 and 12 to 24 wk are presented in Supplemental Digital Content 3 (see Table Supplemental Digital Content 3, results for changes in patient reported outcomes from baseline to 12 wk, baseline to 24 wk and 12 to 24 wk, http://links.lww.com/MSS/B495). Only a significant adjusted group difference in self-reported sleep quality from baseline to 12 wk was noted between the higher-intensity PA and control groups, with the higher-intensity PA group showing improvements in self-reported sleep quality (−2.1 from the Pittsburgh Sleep Quality Index total score) between these timepoints.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The aim of the BC-PAL pilot trial was to assess the preliminary effects of prescribing a home-based, lower-or higherintensity PA intervention versus no PA intervention on objective measures of PA and sedentary time, as well as markers of health-related fitness and patient reported outcomes in physically inactive breast cancer survivors during a 12-wk intervention and 12-wk follow-up period. To our knowledge, this is the first trial to assess the effects of prescribing different volumes and intensities of PA using wearable activity trackers.\nOverall, this study had good retention rates at 12 wk and follow-up in all groups. Although adherence in the higherintensity PA group was high (average of 166 min•wk −1 of PA within 60%-80% of HRR), the lower-intensity PA group accumulated over three times the prescribed PA volume within the prescribed HRR zone (928 min•wk −1 within 40%-59% of HRR). These results suggest that the lower-intensity PA prescription may have been too easy and/or effortless for these  participants. Nevertheless, an increase of~60 min•d −1 in total PA time coupled with decreases in sedentary and sleep time of 50 min•d −1 each were observed in participants randomized to the lower-intensity PA group, which is a substantial change in activity behavior. Comparatively, participants randomized to the higher-intensity PA group had a mean increase in total PA of~40 min•d −1 with very little change in sedentary and sleep time at 12 wk compared with baseline. It is possible that the large volume of PA accumulated within the prescribed \"lower-intensity\" HRR zone maybe needed to impact daily sedentary time. Additionally, the statistically significant differences in accelerometry-measured moderate-to vigorous-intensity P value for the test of significance for the null hypothesis that the baseline-adjusted mean change in the outcome variable across time equals 0.\nc P value for the test of significance for the null hypothesis that the baseline-adjusted group means in the control, lower-and higher-intensity PA groups are all equal.\nd P values for the tests of significance for the null hypothesis that the LS group differences between the control and lower-intensity PA group, and the control and higher-intensity PA group, equal 0. e Total PA time includes light and moderate-to vigorous-intensity PA time.  30.6 (7.9) 30.5 (7.6) 0.1 ( À 0.7 to 0.9) 0.80 À 0. a Within-group mean changes and least squares groups differences are calculated based on the generalized linear model: Change (24 wk À baseline) = β0 + β1 x group (lower) + β2 x group (higher) + β3 x outcome variable at baseline.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "P value for the test of significance for the null hypothesis that the baseline-adjusted mean change in the outcome variable across time equals 0.\nc P value for the test of significance for the null hypothesis that the baseline-adjusted group means in the control, lower-, and higher-intensity PA groups are all equal.\nd P values for the tests of significance for the null hypothesis that the LS group differences between the control and lower-intensity PA group, and the control and higher-intensity PA group, equal 0. P value for the test of significance for the null hypothesis that the baseline-adjusted mean change in the outcome variable across time equals 0.\nc P value for the test of significance for the null hypothesis that the baseline-adjusted group means in the control, lower-and higher-intensity PA groups are all equal.\n(>760 counts per minute) in the present analysis which has been previously validated to capture a broader range of lifestyle and ambulatory activities accumulated in daily life. Findings from the follow-up assessments revealed that total PA time, although not statistically significant, was~30 min•d −1 greater at 24 wk compared with baseline in both intervention groups, indicating that some of the increases in total PA from the intervention were maintained at follow-up. Similarly, daily sedentary time was~20 min•d −1 lower at follow-up compared to baseline in both intervention groups. A recent 10-wk RCT that included a combined activity tracker (Polar M400®) and Facebook-delivered health education intervention in breast cancer survivors reported mean increases in daily moderatevigorous and light intensity PA time of~12 min•d −1 from baseline to 10 wk. However, no differences in sedentary time, cardiorespiratory fitness and self-reported quality of life were noted across time or between groups in this study. A second RCT conducted in breast cancer survivors included a 12-wk PA intervention using the Fitbit One® activity tracker. Objectively measured moderate-to vigorousintensity PA increased by~100 min•wk −1 from baseline to 12 wk. Adherence to wearing the activity tracker in this study was high (88%) and was associated with greater increases in ActiGraph-measured moderate-to vigorous-intensity PA time. Other interventions including wearable activity trackers that were conducted in different populations included stroke patients who experienced reductions in sedentary time at the end of an 8-wk intervention (reduction of 54 min•d −1 ) and 8-wk follow-up period (reduction of 27 min•d −1 ) (34), as well as postmenopausal women living with obesity who had a mean increase of 62 min•wk −1 of moderate-vigorous intensity PA time and 789 steps per day. Taken together, initial intervention trials that have used wearable activity trackers, including the BC-PAL pilot trial, have shown promising results for increasing total PA and/or reducing sedentary time, which maybe partially sustained after intervention completion.\nChanges in certain markers of health-related fitness, including a reduction in body fat mass of 1.2 kg in the higher-intensity PA group and increases of~5 mL•kg −1 •min −1 in V O 2max in both intervention groups, were noted at 12 wk compared with baseline. These increases in V O 2max were also significantly greater than the changes seen in the control group at 12 wk compared to baseline. These changes in V O 2max are substantial given the relatively short duration and home-based nature of the intervention. Trials that have compared two different intensities of PA prescriptions in cancer survivors have also reported improvements in V O 2max and/or body composition. For instance, findings from the REACT trial showed significantly larger improvements in V O 2max in cancer survivors randomized to a 12-wk, supervised, low-to moderateintensity (40%-55% of one-repetition maximum and 40%-50% of HRR) or high-intensity (70%-85% of one-repetition maximum and ≥80% of HRR) intervention that combined resistance and interval training, compared with control. Similarly, Martin et al. reported significantly greater increases in V O 2max after an 8-wk, supervised, lower-intensity (50%-65% of onerepetition maximum and 60%-65% of V O 2max ), or higherintensity (75%-80% of 1-repetition maximum and 75%-80% of V O 2max ) PA interventions compared with control, in prostate and breast cancer survivors. However, only the higher intensity PA group maintained this increase in V O 2max at the end of a 4-month follow-up period. These follow-up findings slightly differ from those noted in the present study, where improvements in V O 2max in both intervention groups remained at 24 wk compared with baseline. Although the use of the Polar A360® activity tracker was not monitored by the study team during the follow-up period, it is possible that the maintained changes in PA time during follow-up may have contributed to the maintenance of improvements in V O 2max . These preliminary findings are promising given the challenges associated with reversions in PA behavior and/or health outcomes after intervention completion. Additional studies are needed to assess the continued use of wearable activity trackers and PA/sedentary behavior change during follow-up.\nStrengths of the BC-PAL pilot trial include objective measurements of PA and sedentary time, the assessment of study outcomes at the end of a 12-wk follow-up period, and the use of the Polar A360® activity tracker to prescribe the PA interventions and assess adherence throughout the 12-wk intervention. Our limitations include the large number of analyses conducted, which may increase the chances of spurious findings. Additionally, participants in this pilot trial are likely more motivated to change their PA and sedentary behaviors, which may limit generalizability to all breast cancer survivors. That said, there was some evidence of contamination in the control group (e.g., mean increase of 24 min•d −1 in total PA from baseline to 12 wk), which may have limited our ability to observe statistically significant differences between groups in certain outcome changes overtime. The use of an equation (220 − age) to estimate maximal HR and HRR is also a limitation of our study and future studies should assess maximal HR at the end of a maximal cardiorespiratory fitness test to provide a more accurate PA prescription based on HRR. The ActiGraph® GT3X+ accelerometer may provide inaccurate estimates of sedentary time because it only uses counts per minute cutoff points, and not posture allocation, to estimate sedentary and PA time. Lastly, the use of the Polar A360® activity tracker was not monitored by the study team during the follow-up period, so we are unable to conclude whether or not the continued use of the activity tracker without support from the Study Exercise Physiologist may have contributed to some of the maintained changes in PA and sedentary time at the end of follow-up.\nThe BC-PAL pilot trial provides preliminary findings on the efficacy of using wearable activity trackers to prescribe different PA intensities to improve PA/sedentary behavior and health outcomes in previously inactive breast cancer survivors. In summary, participants randomized to both intervention groups had an increase in total PA and V O 2max after the 12-wk intervention, with some of these changes in PA behavior and cardiorespiratory fitness being maintained at the end of a\n",
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "9",
+          "rowHeaders": [
+            "Age (yr): mean AE SD",
+            "US $50,000-100,000; n (%)",
+            "60 AE"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline participant characteristics, the breast cancer and physical activity level",
+            "Lower-Intensity",
+            "Control Group",
+            "(n = 15)"
+          ]
+        },
+        {
+          "value": "5",
+          "rowHeaders": [
+            "Age (yr): mean AE SD",
+            "US $50,000-100,000; n (%)",
+            "60 AE"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline participant characteristics, the breast cancer and physical activity level",
+            "Lower-Intensity",
+            "PA Group",
+            "(n = 15)"
+          ]
+        },
+        {
+          "value": "9",
+          "rowHeaders": [
+            "Age (yr): mean AE SD",
+            "US $50,000-100,000; n (%)",
+            "60 AE",
+            "8AE"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline participant characteristics, the breast cancer and physical activity level",
+            "Lower-Intensity",
+            "PA Group",
+            "(n = 15)"
+          ]
+        },
+        {
+          "value": "5",
+          "rowHeaders": [
+            "Age (yr): mean AE SD",
+            "US $50,000-100,000; n (%)",
+            "60 AE",
+            "8AE"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline participant characteristics, the breast cancer and physical activity level",
+            "Higher-Intensity",
+            "PA Group",
+            "(n = 15)"
+          ]
+        },
+        {
+          "value": "8 AE 10",
+          "rowHeaders": [
+            "Age (yr): mean AE SD",
+            "US $50,000-100,000; n (%)",
+            "60 AE",
+            "8AE"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline participant characteristics, the breast cancer and physical activity level",
+            "Higher-Intensity",
+            "PA Group",
+            "(n = 15)"
+          ]
+        },
+        {
+          "value": "4 (26.7)",
+          "rowHeaders": [
+            "US $50,000-100,000; n (%)",
+            "Stage I; n (%)"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline participant characteristics, the breast cancer and physical activity level",
+            "Higher-Intensity",
+            "PA Group",
+            "(n = 15)",
+            "1422 AE 1340"
+          ]
+        },
+        {
+          "value": "6 (40.0)",
+          "rowHeaders": [
+            "US $50,000-100,000; n (%)",
+            "Stage II; n (%)"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline participant characteristics, the breast cancer and physical activity level",
+            "Lower-Intensity",
+            "Control Group",
+            "(n = 15)",
+            "1009 AE 570"
+          ]
+        },
+        {
+          "value": "4 (26.7)",
+          "rowHeaders": [
+            "US $50,000-100,000; n (%)",
+            "Stage II; n (%)"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline participant characteristics, the breast cancer and physical activity level",
+            "Lower-Intensity",
+            "PA Group",
+            "(n = 15)",
+            "749 AE 643"
+          ]
+        },
+        {
+          "value": "3 (20.0)",
+          "rowHeaders": [
+            "US $50,000-100,000; n (%)",
+            "Stage III; n (%)"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline participant characteristics, the breast cancer and physical activity level",
+            "Lower-Intensity",
+            "Control Group",
+            "(n = 15)",
+            "1009 AE 570"
+          ]
+        },
+        {
+          "value": "4 (26.7)",
+          "rowHeaders": [
+            "US $50,000-100,000; n (%)",
+            "Stage III; n (%)"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline participant characteristics, the breast cancer and physical activity level",
+            "Lower-Intensity",
+            "PA Group",
+            "(n = 15)",
+            "749 AE 643"
+          ]
+        },
+        {
+          "value": "1 (6.7)",
+          "rowHeaders": [
+            "US $50,000-100,000; n (%)",
+            "Stage III; n (%)"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline participant characteristics, the breast cancer and physical activity level",
+            "Higher-Intensity",
+            "PA Group",
+            "(n = 15)",
+            "1422 AE 1340"
+          ]
+        },
+        {
+          "value": "4 (26.6)",
+          "rowHeaders": [
+            "US $50,000-100,000; n (%)",
+            "Other; n (%)"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline participant characteristics, the breast cancer and physical activity level",
+            "Lower-Intensity",
+            "Control Group",
+            "(n = 15)",
+            "1009 AE 570"
+          ]
+        },
+        {
+          "value": "4 (26.7)",
+          "rowHeaders": [
+            "US $50,000-100,000; n (%)",
+            "Other; n (%)"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline participant characteristics, the breast cancer and physical activity level",
+            "Lower-Intensity",
+            "PA Group",
+            "(n = 15)",
+            "749 AE 643"
+          ]
+        },
+        {
+          "value": "2 (13.3)",
+          "rowHeaders": [
+            "US $50,000-100,000; n (%)",
+            "Other; n (%)"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline participant characteristics, the breast cancer and physical activity level",
+            "Higher-Intensity",
+            "PA Group",
+            "(n = 15)",
+            "1422 AE 1340"
+          ]
+        },
+        {
+          "value": "2 (13.3)",
+          "rowHeaders": [
+            "US $50,000-100,000; n (%)",
+            "High school; n (%)"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline participant characteristics, the breast cancer and physical activity level",
+            "Lower-Intensity",
+            "Control Group",
+            "(n = 15)",
+            "1009 AE 570"
+          ]
+        },
+        {
+          "value": "3 (20.0)",
+          "rowHeaders": [
+            "US $50,000-100,000; n (%)",
+            "High school; n (%)"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline participant characteristics, the breast cancer and physical activity level",
+            "Lower-Intensity",
+            "PA Group",
+            "(n = 15)",
+            "749 AE 643"
+          ]
+        },
+        {
+          "value": "3 (20.0)",
+          "rowHeaders": [
+            "US $50,000-100,000; n (%)",
+            "High school; n (%)"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline participant characteristics, the breast cancer and physical activity level",
+            "Higher-Intensity",
+            "PA Group",
+            "(n = 15)",
+            "1422 AE 1340"
+          ]
+        },
+        {
+          "value": "4 (26.7)",
+          "rowHeaders": [
+            "US $50,000-100,000; n (%)",
+            "Other, n (%)"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline participant characteristics, the breast cancer and physical activity level",
+            "Lower-Intensity",
+            "Control Group",
+            "(n = 15)",
+            "1009 AE 570"
+          ]
+        },
+        {
+          "value": "3 (20.0)",
+          "rowHeaders": [
+            "US $50,000-100,000; n (%)",
+            "Other, n (%)"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline participant characteristics, the breast cancer and physical activity level",
+            "Lower-Intensity",
+            "PA Group",
+            "(n = 15)",
+            "749 AE 643"
+          ]
+        },
+        {
+          "value": "2 (13.3)",
+          "rowHeaders": [
+            "US $50,000-100,000; n (%)",
+            "Other, n (%)"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline participant characteristics, the breast cancer and physical activity level",
+            "Higher-Intensity",
+            "PA Group",
+            "(n = 15)",
+            "1422 AE 1340"
+          ]
+        },
+        {
+          "value": "3 (20.0)",
+          "rowHeaders": [
+            "US $50,000-100,000; n (%)"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline participant characteristics, the breast cancer and physical activity level",
+            "Lower-Intensity",
+            "Control Group",
+            "(n = 15)",
+            "1009 AE 570"
+          ]
+        },
+        {
+          "value": "1 (6.7)",
+          "rowHeaders": [
+            "US $50,000-100,000; n (%)"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline participant characteristics, the breast cancer and physical activity level",
+            "Lower-Intensity",
+            "PA Group",
+            "(n = 15)",
+            "749 AE 643"
+          ]
+        },
+        {
+          "value": "0 (0.0)",
+          "rowHeaders": [
+            "US $50,000-100,000; n (%)"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline participant characteristics, the breast cancer and physical activity level",
+            "Higher-Intensity",
+            "PA Group",
+            "(n = 15)",
+            "1422 AE 1340"
+          ]
+        },
+        {
+          "value": "5 (33.3)",
+          "rowHeaders": [
+            "US $50,000-100,000; n (%)"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline participant characteristics, the breast cancer and physical activity level",
+            "Lower-Intensity",
+            "Control Group",
+            "(n = 15)",
+            "1009 AE 570"
+          ]
+        },
+        {
+          "value": "6 (40.0)",
+          "rowHeaders": [
+            "US $50,000-100,000; n (%)"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline participant characteristics, the breast cancer and physical activity level",
+            "Lower-Intensity",
+            "PA Group",
+            "(n = 15)",
+            "749 AE 643"
+          ]
+        },
+        {
+          "value": "8 (53.3)",
+          "rowHeaders": [
+            "US $50,000-100,000; n (%)"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline participant characteristics, the breast cancer and physical activity level",
+            "Higher-Intensity",
+            "PA Group",
+            "(n = 15)",
+            "1422 AE 1340"
+          ]
+        },
+        {
+          "value": "3 (20.0)",
+          "rowHeaders": [
+            ">US $100,000; n (%)"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline participant characteristics, the breast cancer and physical activity level",
+            "Lower-Intensity",
+            "Control Group",
+            "(n = 15)",
+            "1009 AE 570"
+          ]
+        },
+        {
+          "value": "6 (40.0)",
+          "rowHeaders": [
+            ">US $100,000; n (%)"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline participant characteristics, the breast cancer and physical activity level",
+            "Lower-Intensity",
+            "PA Group",
+            "(n = 15)",
+            "749 AE 643"
+          ]
+        },
+        {
+          "value": "7 (46.7)",
+          "rowHeaders": [
+            ">US $100,000; n (%)"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline participant characteristics, the breast cancer and physical activity level",
+            "Higher-Intensity",
+            "PA Group",
+            "(n = 15)",
+            "1422 AE 1340"
+          ]
+        },
+        {
+          "value": "4 (26.7)",
+          "rowHeaders": [
+            "Prefer not to disclose or"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline participant characteristics, the breast cancer and physical activity level",
+            "Lower-Intensity",
+            "Control Group",
+            "(n = 15)",
+            "1009 AE 570"
+          ]
+        },
+        {
+          "value": "2 (13.3)",
+          "rowHeaders": [
+            "Prefer not to disclose or"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline participant characteristics, the breast cancer and physical activity level",
+            "Lower-Intensity",
+            "PA Group",
+            "(n = 15)",
+            "749 AE 643"
+          ]
+        },
+        {
+          "value": "0 (0.0)",
+          "rowHeaders": [
+            "Prefer not to disclose or"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline participant characteristics, the breast cancer and physical activity level",
+            "Higher-Intensity",
+            "PA Group",
+            "(n = 15)",
+            "1422 AE 1340"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "12 wk, M (SD)",
+          "rowHeaders": [
+            "Outcome Measure",
+            "Lower-intensity PA (n = 15)",
+            "Baseline M (SD)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in accelerometry-derived physical activity, sedentary and sleep times (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Adjusted Mean"
+          ]
+        },
+        {
+          "value": "24 (À12 to 60)",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 14)",
+            "Control (n = 13)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in accelerometry-derived physical activity, sedentary and sleep times (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "Change a M (95% CI)"
+          ]
+        },
+        {
+          "value": "0.22",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 14)",
+            "Control (n = 13)",
+            "to 42)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in accelerometry-derived physical activity, sedentary and sleep times (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "P b"
+          ]
+        },
+        {
+          "value": "0.18",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 14)",
+            "Control (n = 13)",
+            "to 42)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in accelerometry-derived physical activity, sedentary and sleep times (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Group Differences",
+            "P c"
+          ]
+        },
+        {
+          "value": "66 (36 to 102)",
+          "rowHeaders": [
+            "Lower-intensity PA (n = 15)",
+            "Control (n = 13)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in accelerometry-derived physical activity, sedentary and sleep times (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "Change a M (95% CI)"
+          ]
+        },
+        {
+          "value": "<0.001",
+          "rowHeaders": [
+            "Lower-intensity PA (n = 15)",
+            "Control (n = 13)",
+            "to 42)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in accelerometry-derived physical activity, sedentary and sleep times (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "P b"
+          ]
+        },
+        {
+          "value": "48 (À6 to 96)",
+          "rowHeaders": [
+            "Lower-intensity PA (n = 15)",
+            "Control (n = 13)",
+            "À48 (À90 to À0.3)",
+            "to 42)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in accelerometry-derived physical activity, sedentary and sleep times (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Group Differences",
+            "M (95% CI)"
+          ]
+        },
+        {
+          "value": "0.07",
+          "rowHeaders": [
+            "Lower-intensity PA (n = 15)",
+            "Control (n = 13)",
+            "À48 (À90 to À0.3)",
+            "À6 (À48 to 30)",
+            "to 42)",
+            "À24 (À84 to 36)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in accelerometry-derived physical activity, sedentary and sleep times (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Group Differences",
+            "P d"
+          ]
+        },
+        {
+          "value": "42 (6 to 78)",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 14)",
+            "Control (n = 13)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in accelerometry-derived physical activity, sedentary and sleep times (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "Change a M (95% CI)"
+          ]
+        },
+        {
+          "value": "0.02",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 14)",
+            "Control (n = 13)",
+            "to 42)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in accelerometry-derived physical activity, sedentary and sleep times (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "P b"
+          ]
+        },
+        {
+          "value": "18 (",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 14)",
+            "Control (n = 13)",
+            "À48 (À90 to À0.3)",
+            "to 42)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in accelerometry-derived physical activity, sedentary and sleep times (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Group Differences",
+            "M (95% CI)"
+          ]
+        },
+        {
+          "value": "30 to 66)",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 14)",
+            "Control (n = 13)",
+            "À48 (À90 to À0.3)",
+            "to 42)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in accelerometry-derived physical activity, sedentary and sleep times (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Group Differences",
+            "M (95% CI)"
+          ]
+        },
+        {
+          "value": "0.46",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 14)",
+            "Control (n = 13)",
+            "À48 (À90 to À0.3)",
+            "À6 (À48 to 30)",
+            "to 42)",
+            "À24 (À84 to 36)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in accelerometry-derived physical activity, sedentary and sleep times (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Group Differences",
+            "P d"
+          ]
+        },
+        {
+          "value": "84 (60)",
+          "rowHeaders": [
+            "Control (n = 13)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in accelerometry-derived physical activity, sedentary and sleep times (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "Change a M (95% CI)"
+          ]
+        },
+        {
+          "value": "96 (48)",
+          "rowHeaders": [
+            "Control (n = 13)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in accelerometry-derived physical activity, sedentary and sleep times (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "Change a M (95% CI)"
+          ]
+        },
+        {
+          "value": "12 to 30)",
+          "rowHeaders": [
+            "Control (n = 13)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in accelerometry-derived physical activity, sedentary and sleep times (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "Change a M (95% CI)"
+          ]
+        },
+        {
+          "value": "0.35",
+          "rowHeaders": [
+            "Control (n = 13)",
+            "Baseline M (SD)",
+            "to 42)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in accelerometry-derived physical activity, sedentary and sleep times (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "P b"
+          ]
+        },
+        {
+          "value": "0.04",
+          "rowHeaders": [
+            "Control (n = 13)",
+            "Baseline M (SD)",
+            "À48 (À90 to À0.3)",
+            "to 42)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in accelerometry-derived physical activity, sedentary and sleep times (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Group Differences",
+            "P c"
+          ]
+        },
+        {
+          "value": "42 (24 to",
+          "rowHeaders": [
+            "Control (n = 13)",
+            "Lower-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in accelerometry-derived physical activity, sedentary and sleep times (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "Change a M (95% CI)"
+          ]
+        },
+        {
+          "value": "60",
+          "rowHeaders": [
+            "Control (n = 13)",
+            "Lower-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in accelerometry-derived physical activity, sedentary and sleep times (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "Change a M (95% CI)"
+          ]
+        },
+        {
+          "value": "<0.001",
+          "rowHeaders": [
+            "Control (n = 13)",
+            "Lower-intensity PA (n = 15)",
+            "to 42)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in accelerometry-derived physical activity, sedentary and sleep times (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "P b"
+          ]
+        },
+        {
+          "value": "36 (6 to",
+          "rowHeaders": [
+            "Control (n = 13)",
+            "Lower-intensity PA (n = 15)",
+            "À48 (À90 to À0.3)",
+            "À6 (À48 to 30)",
+            "to 42)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in accelerometry-derived physical activity, sedentary and sleep times (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Group Differences",
+            "M (95% CI)"
+          ]
+        },
+        {
+          "value": "60",
+          "rowHeaders": [
+            "Control (n = 13)",
+            "Lower-intensity PA (n = 15)",
+            "À48 (À90 to À0.3)",
+            "À6 (À48 to 30)",
+            "to 42)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in accelerometry-derived physical activity, sedentary and sleep times (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Group Differences",
+            "M (95% CI)"
+          ]
+        },
+        {
+          "value": "0.0",
+          "rowHeaders": [
+            "Control (n = 13)",
+            "Lower-intensity PA (n = 15)",
+            "À48 (À90 to À0.3)",
+            "À6 (À48 to 30)",
+            "to 42)",
+            "À24 (À84 to 36)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in accelerometry-derived physical activity, sedentary and sleep times (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Group Differences",
+            "P d"
+          ]
+        },
+        {
+          "value": "90 (42)",
+          "rowHeaders": [
+            "Control (n = 13)",
+            "Higher-intensity PA (n = 14)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in accelerometry-derived physical activity, sedentary and sleep times (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "Change a M (95% CI)"
+          ]
+        },
+        {
+          "value": "24 (6 to 42)",
+          "rowHeaders": [
+            "Control (n = 13)",
+            "Higher-intensity PA (n = 14)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in accelerometry-derived physical activity, sedentary and sleep times (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "Change a M (95% CI)"
+          ]
+        },
+        {
+          "value": "0.01",
+          "rowHeaders": [
+            "Control (n = 13)",
+            "Higher-intensity PA (n = 14)",
+            "to 42)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in accelerometry-derived physical activity, sedentary and sleep times (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "P b"
+          ]
+        },
+        {
+          "value": "12 (À12 to 42)",
+          "rowHeaders": [
+            "Control (n = 13)",
+            "Higher-intensity PA (n = 14)",
+            "Baseline M (SD)",
+            "À48 (À90 to À0.3)",
+            "À6 (À48 to 30)",
+            "to 42)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in accelerometry-derived physical activity, sedentary and sleep times (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Group Differences",
+            "M (95% CI)"
+          ]
+        },
+        {
+          "value": "0.26",
+          "rowHeaders": [
+            "Control (n = 13)",
+            "Higher-intensity PA (n = 14)",
+            "Baseline M (SD)",
+            "À48 (À90 to À0.3)",
+            "À6 (À48 to 30)",
+            "to 42)",
+            "À24 (À84 to 36)",
+            "À132 to À12)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in accelerometry-derived physical activity, sedentary and sleep times (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Group Differences",
+            "P d"
+          ]
+        },
+        {
+          "value": "12 (À6 to 36)",
+          "rowHeaders": [
+            "Control (n = 13)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in accelerometry-derived physical activity, sedentary and sleep times (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "Change a M (95% CI)"
+          ]
+        },
+        {
+          "value": "0.21",
+          "rowHeaders": [
+            "Control (n = 13)",
+            "À48 (À90 to À0.3)",
+            "À6 (À48 to 30)",
+            "to 42)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in accelerometry-derived physical activity, sedentary and sleep times (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "P b"
+          ]
+        },
+        {
+          "value": "0.80",
+          "rowHeaders": [
+            "Control (n = 13)",
+            "À48 (À90 to À0.3)",
+            "À6 (À48 to 30)",
+            "to 42)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in accelerometry-derived physical activity, sedentary and sleep times (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Group Differences",
+            "P c"
+          ]
+        },
+        {
+          "value": "24 (3 to 48)",
+          "rowHeaders": [
+            "Control (n = 13)",
+            "Lower-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in accelerometry-derived physical activity, sedentary and sleep times (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "Change a M (95% CI)"
+          ]
+        },
+        {
+          "value": "0.03",
+          "rowHeaders": [
+            "Control (n = 13)",
+            "Lower-intensity PA (n = 15)",
+            "À48 (À90 to À0.3)",
+            "À6 (À48 to 30)",
+            "to 42)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in accelerometry-derived physical activity, sedentary and sleep times (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "P b"
+          ]
+        },
+        {
+          "value": "12 (À18 to 42)",
+          "rowHeaders": [
+            "Control (n = 13)",
+            "Lower-intensity PA (n = 15)",
+            "À48 (À90 to À0.3)",
+            "À6 (À48 to 30)",
+            "to 42)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in accelerometry-derived physical activity, sedentary and sleep times (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Group Differences",
+            "M (95% CI)"
+          ]
+        },
+        {
+          "value": "0.50",
+          "rowHeaders": [
+            "Control (n = 13)",
+            "Lower-intensity PA (n = 15)",
+            "À48 (À90 to À0.3)",
+            "À6 (À48 to 30)",
+            "to 42)",
+            "À24 (À84 to 36)",
+            "À132 to À12)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in accelerometry-derived physical activity, sedentary and sleep times (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Group Differences",
+            "P d"
+          ]
+        },
+        {
+          "value": "18 (",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 14)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in accelerometry-derived physical activity, sedentary and sleep times (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "Change a M (95% CI)"
+          ]
+        },
+        {
+          "value": "0.09",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 14)",
+            "À48 (À90 to À0.3)",
+            "À6 (À48 to 30)",
+            "to 42)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in accelerometry-derived physical activity, sedentary and sleep times (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "P b"
+          ]
+        },
+        {
+          "value": "24 to 36)",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 14)",
+            "À48 (À90 to À0.3)",
+            "À6 (À48 to 30)",
+            "to 42)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in accelerometry-derived physical activity, sedentary and sleep times (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Group Differences",
+            "M (95% CI)"
+          ]
+        },
+        {
+          "value": "0.75",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 14)",
+            "À48 (À90 to À0.3)",
+            "to 42)",
+            "À24 (À84 to 36)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in accelerometry-derived physical activity, sedentary and sleep times (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Group Differences",
+            "P d"
+          ]
+        },
+        {
+          "value": "12 (",
+          "rowHeaders": [
+            "Control (n = 13)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in accelerometry-derived physical activity, sedentary and sleep times (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "Change a M (95% CI)"
+          ]
+        },
+        {
+          "value": "30 to 60)",
+          "rowHeaders": [
+            "Control (n = 13)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in accelerometry-derived physical activity, sedentary and sleep times (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "Change a M (95% CI)"
+          ]
+        },
+        {
+          "value": "0.48",
+          "rowHeaders": [
+            "Control (n = 13)",
+            "À48 (À90 to À0.3)",
+            "À6 (À48 to 30)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in accelerometry-derived physical activity, sedentary and sleep times (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "P b"
+          ]
+        },
+        {
+          "value": "0.05",
+          "rowHeaders": [
+            "Control (n = 13)",
+            "À48 (À90 to À0.3)",
+            "À6 (À48 to 30)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in accelerometry-derived physical activity, sedentary and sleep times (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Group Differences",
+            "P c"
+          ]
+        },
+        {
+          "value": "54 (",
+          "rowHeaders": [
+            "Control (n = 13)",
+            "Lower-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in accelerometry-derived physical activity, sedentary and sleep times (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "Change a M (95% CI)"
+          ]
+        },
+        {
+          "value": "96 to À18)",
+          "rowHeaders": [
+            "Control (n = 13)",
+            "Lower-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in accelerometry-derived physical activity, sedentary and sleep times (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "Change a M (95% CI)"
+          ]
+        },
+        {
+          "value": "0.01",
+          "rowHeaders": [
+            "Control (n = 13)",
+            "Lower-intensity PA (n = 15)",
+            "À6 (À48 to 30)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in accelerometry-derived physical activity, sedentary and sleep times (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "P b"
+          ]
+        },
+        {
+          "value": "72 (",
+          "rowHeaders": [
+            "Control (n = 13)",
+            "Lower-intensity PA (n = 15)",
+            "À48 (À90 to À0.3)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in accelerometry-derived physical activity, sedentary and sleep times (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Group Differences",
+            "M (95% CI)"
+          ]
+        },
+        {
+          "value": "0.02",
+          "rowHeaders": [
+            "Control (n = 13)",
+            "Lower-intensity PA (n = 15)",
+            "À48 (À90 to À0.3)",
+            "À24 (À84 to 36)",
+            "À132 to À12)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in accelerometry-derived physical activity, sedentary and sleep times (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Group Differences",
+            "P d"
+          ]
+        },
+        {
+          "value": "0.66",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 14)",
+            "Control (n = 13)",
+            "À48 (À90 to À0.3)",
+            "À6 (À48 to 30)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in accelerometry-derived physical activity, sedentary and sleep times (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "P b"
+          ]
+        },
+        {
+          "value": "0.42",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 14)",
+            "Control (n = 13)",
+            "À48 (À90 to À0.3)",
+            "À6 (À48 to 30)",
+            "À24 (À84 to 36)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in accelerometry-derived physical activity, sedentary and sleep times (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Group Differences",
+            "P d"
+          ]
+        },
+        {
+          "value": "42 (",
+          "rowHeaders": [
+            "Control (n = 13)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in accelerometry-derived physical activity, sedentary and sleep times (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "Change a M (95% CI)"
+          ]
+        },
+        {
+          "value": "90 to 6)",
+          "rowHeaders": [
+            "Control (n = 13)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in accelerometry-derived physical activity, sedentary and sleep times (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "Change a M (95% CI)"
+          ]
+        },
+        {
+          "value": "0.10",
+          "rowHeaders": [
+            "Control (n = 13)",
+            "À48 (À90 to À0.3)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in accelerometry-derived physical activity, sedentary and sleep times (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "P b"
+          ]
+        },
+        {
+          "value": "0.50",
+          "rowHeaders": [
+            "Control (n = 13)",
+            "À48 (À90 to À0.3)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in accelerometry-derived physical activity, sedentary and sleep times (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Group Differences",
+            "P c"
+          ]
+        },
+        {
+          "value": "0.05",
+          "rowHeaders": [
+            "Lower-intensity PA (n = 15)",
+            "À48 (À90 to À0.3)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in accelerometry-derived physical activity, sedentary and sleep times (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "P b"
+          ]
+        },
+        {
+          "value": "0.89",
+          "rowHeaders": [
+            "Lower-intensity PA (n = 15)",
+            "À48 (À90 to À0.3)",
+            "À24 (À84 to 36)",
+            "À6 (À72 to 66)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in accelerometry-derived physical activity, sedentary and sleep times (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Group Differences",
+            "P d"
+          ]
+        },
+        {
+          "value": "12 (",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 14)",
+            "Control (n = 13)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in accelerometry-derived physical activity, sedentary and sleep times (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "Change a M (95% CI)"
+          ]
+        },
+        {
+          "value": "60 to 36)",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 14)",
+            "Control (n = 13)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in accelerometry-derived physical activity, sedentary and sleep times (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "Change a M (95% CI)"
+          ]
+        },
+        {
+          "value": "0.66",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 14)",
+            "Control (n = 13)",
+            "À48 (À90 to À0.3)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in accelerometry-derived physical activity, sedentary and sleep times (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "P b"
+          ]
+        },
+        {
+          "value": "30 (",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 14)",
+            "Control (n = 13)",
+            "À48 (À90 to À0.3)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in accelerometry-derived physical activity, sedentary and sleep times (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Group Differences",
+            "M (95% CI)"
+          ]
+        },
+        {
+          "value": "36 to 102)",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 14)",
+            "Control (n = 13)",
+            "À48 (À90 to À0.3)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in accelerometry-derived physical activity, sedentary and sleep times (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Group Differences",
+            "M (95% CI)"
+          ]
+        },
+        {
+          "value": "0.36",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 14)",
+            "Control (n = 13)",
+            "À48 (À90 to À0.3)",
+            "À24 (À84 to 36)",
+            "À6 (À72 to 66)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in accelerometry-derived physical activity, sedentary and sleep times (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Group Differences",
+            "P d"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "0.88",
+          "rowHeaders": [
+            "Control (n = 12)",
+            "À24 (À66 to 24)",
+            "18 (À2 to 42)",
+            "À42 to 48)"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Changes in accelerometry-derived physical activity, sedentary, and sleep times (baseline to 24 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "P b"
+          ]
+        },
+        {
+          "value": "0.61",
+          "rowHeaders": [
+            "Control (n = 12)",
+            "À24 (À66 to 24)",
+            "18 (À2 to 42)",
+            "À42 to 48)"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Changes in accelerometry-derived physical activity, sedentary, and sleep times (baseline to 24 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Group Differences,",
+            "P c"
+          ]
+        },
+        {
+          "value": "0.12",
+          "rowHeaders": [
+            "Lower-intensity PA (n = 14)",
+            "À24 (À66 to 24)",
+            "18 (À2 to 42)",
+            "30 (À6 to 72)"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Changes in accelerometry-derived physical activity, sedentary, and sleep times (baseline to 24 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "P b"
+          ]
+        },
+        {
+          "value": "0.34",
+          "rowHeaders": [
+            "Lower-intensity PA (n = 14)",
+            "À24 (À66 to 24)",
+            "18 (À2 to 42)",
+            "30 (À6 to 72)",
+            "30 (À30 to 84)"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Changes in accelerometry-derived physical activity, sedentary, and sleep times (baseline to 24 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Group Differences,",
+            "P d"
+          ]
+        },
+        {
+          "value": "0.26",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 12)",
+            "À24 (À66 to 24)",
+            "3 (À18 to 24)",
+            "À18 to 66)"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Changes in accelerometry-derived physical activity, sedentary, and sleep times (baseline to 24 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "P b"
+          ]
+        },
+        {
+          "value": "0.3 (",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 12)",
+            "À24 (À66 to 24)",
+            "3 (À18 to 24)",
+            "À18 to 66)"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Changes in accelerometry-derived physical activity, sedentary, and sleep times (baseline to 24 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Group Differences,",
+            "M (95% CI)"
+          ]
+        },
+        {
+          "value": "0.48",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 12)",
+            "À24 (À66 to 24)",
+            "3 (À18 to 24)",
+            "À18 to 66)",
+            "36 to 78)"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Changes in accelerometry-derived physical activity, sedentary, and sleep times (baseline to 24 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Group Differences,",
+            "P d"
+          ]
+        },
+        {
+          "value": "0.79",
+          "rowHeaders": [
+            "Control (n = 12)",
+            "À24 (À66 to 24)",
+            "18 (À2 to 42)",
+            "3 (À18 to 24)"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Changes in accelerometry-derived physical activity, sedentary, and sleep times (baseline to 24 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "P b"
+          ]
+        },
+        {
+          "value": "0.29",
+          "rowHeaders": [
+            "Control (n = 12)",
+            "À24 (À66 to 24)",
+            "18 (À2 to 42)",
+            "3 (À18 to 24)"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Changes in accelerometry-derived physical activity, sedentary, and sleep times (baseline to 24 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Group Differences,",
+            "P c"
+          ]
+        },
+        {
+          "value": "0.01",
+          "rowHeaders": [
+            "Lower-intensity PA (n = 14)",
+            "À24 (À66 to 24)",
+            "18 (À2 to 42)",
+            "24 (6 to 48)",
+            "3 (À18 to 24)"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Changes in accelerometry-derived physical activity, sedentary, and sleep times (baseline to 24 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "P b"
+          ]
+        },
+        {
+          "value": "0.12",
+          "rowHeaders": [
+            "Lower-intensity PA (n = 14)",
+            "À24 (À66 to 24)",
+            "18 (À2 to 42)",
+            "24 (6 to 48)",
+            "3 (À18 to 24)",
+            "to 54)"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Changes in accelerometry-derived physical activity, sedentary, and sleep times (baseline to 24 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Group Differences,",
+            "P d"
+          ]
+        },
+        {
+          "value": "0.08",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 12)",
+            "À24 (À66 to 24)",
+            "18 (À2 to 42)"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Changes in accelerometry-derived physical activity, sedentary, and sleep times (baseline to 24 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "P b"
+          ]
+        },
+        {
+          "value": "0.30",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 12)",
+            "À24 (À66 to 24)",
+            "18 (À2 to 42)",
+            "18 (À12 to 48)"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Changes in accelerometry-derived physical activity, sedentary, and sleep times (baseline to 24 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Group Differences,",
+            "P d"
+          ]
+        },
+        {
+          "value": "0.90",
+          "rowHeaders": [
+            "Control (n = 12)",
+            "À24 (À66 to 24)",
+            "À24 to 30)"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Changes in accelerometry-derived physical activity, sedentary, and sleep times (baseline to 24 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "P b"
+          ]
+        },
+        {
+          "value": "0.99",
+          "rowHeaders": [
+            "Control (n = 12)",
+            "À24 (À66 to 24)",
+            "À24 to 30)"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Changes in accelerometry-derived physical activity, sedentary, and sleep times (baseline to 24 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Group Differences,",
+            "P c"
+          ]
+        },
+        {
+          "value": "0.90",
+          "rowHeaders": [
+            "Control (n = 12)",
+            "À24 (À66 to 24)",
+            "À24 to 30)",
+            "36 to 42)"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Changes in accelerometry-derived physical activity, sedentary, and sleep times (baseline to 24 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Group Differences,",
+            "P d"
+          ]
+        },
+        {
+          "value": "0.75",
+          "rowHeaders": [
+            "Lower-intensity PA (n = 14)",
+            "À18 (À66 to 24)",
+            "4 (À24 to 30)"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Changes in accelerometry-derived physical activity, sedentary, and sleep times (baseline to 24 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "P b"
+          ]
+        },
+        {
+          "value": "0.74",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 12)",
+            "À24 (À66 to 24)",
+            "À24 to 30)"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Changes in accelerometry-derived physical activity, sedentary, and sleep times (baseline to 24 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "P b"
+          ]
+        },
+        {
+          "value": "0.88",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 12)",
+            "À24 (À66 to 24)",
+            "À24 to 30)",
+            "36 to 42)"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Changes in accelerometry-derived physical activity, sedentary, and sleep times (baseline to 24 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Group Differences,",
+            "P d"
+          ]
+        },
+        {
+          "value": "0.37",
+          "rowHeaders": [
+            "Control (n = 12)",
+            "À18 (À66 to 24)"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Changes in accelerometry-derived physical activity, sedentary, and sleep times (baseline to 24 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "P b"
+          ]
+        },
+        {
+          "value": ">0.99",
+          "rowHeaders": [
+            "Control (n = 12)",
+            "À18 (À66 to 24)"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Changes in accelerometry-derived physical activity, sedentary, and sleep times (baseline to 24 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Group Differences,",
+            "P c"
+          ]
+        },
+        {
+          "value": "0.32",
+          "rowHeaders": [
+            "Lower-intensity PA (n = 14)",
+            "À60 to 18)"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Changes in accelerometry-derived physical activity, sedentary, and sleep times (baseline to 24 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "P b"
+          ]
+        },
+        {
+          "value": "0.2 (",
+          "rowHeaders": [
+            "Lower-intensity PA (n = 14)",
+            "À60 to 18)"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Changes in accelerometry-derived physical activity, sedentary, and sleep times (baseline to 24 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Group Differences,",
+            "M (95% CI)"
+          ]
+        },
+        {
+          "value": "0.99",
+          "rowHeaders": [
+            "Lower-intensity PA (n = 14)",
+            "À60 to 18)",
+            "to 60)"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Changes in accelerometry-derived physical activity, sedentary, and sleep times (baseline to 24 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Group Differences,",
+            "P d"
+          ]
+        },
+        {
+          "value": "0.33",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 12)",
+            "À24 (À66 to 24)"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Changes in accelerometry-derived physical activity, sedentary, and sleep times (baseline to 24 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "P b"
+          ]
+        },
+        {
+          "value": "0.96",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 12)",
+            "À24 (À66 to 24)",
+            "À2 (À66 to 60)"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Changes in accelerometry-derived physical activity, sedentary, and sleep times (baseline to 24 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Group Differences,",
+            "P d"
+          ]
+        },
+        {
+          "value": "0.63",
+          "rowHeaders": [
+            "Control (n = 11)",
+            "À12 (À66 to 42)",
+            "À48 to 78)"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Changes in accelerometry-derived physical activity, sedentary, and sleep times (baseline to 24 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "P b"
+          ]
+        },
+        {
+          "value": "0.78",
+          "rowHeaders": [
+            "Control (n = 11)",
+            "À12 (À66 to 42)",
+            "À48 to 78)"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Changes in accelerometry-derived physical activity, sedentary, and sleep times (baseline to 24 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Group Differences,",
+            "P c"
+          ]
+        },
+        {
+          "value": "0.66",
+          "rowHeaders": [
+            "Lower-intensity PA (n = 14)",
+            "À12 (À66 to 42)"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Changes in accelerometry-derived physical activity, sedentary, and sleep times (baseline to 24 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "P b"
+          ]
+        },
+        {
+          "value": "0.52",
+          "rowHeaders": [
+            "Lower-intensity PA (n = 14)",
+            "À12 (À66 to 42)",
+            "À24 (À108 to 54)"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Changes in accelerometry-derived physical activity, sedentary, and sleep times (baseline to 24 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Group Differences,",
+            "P d"
+          ]
+        },
+        {
+          "value": "0.76",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 12)",
+            "À12 (À66 to 42)",
+            "À48 to 66)"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Changes in accelerometry-derived physical activity, sedentary, and sleep times (baseline to 24 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "P b"
+          ]
+        },
+        {
+          "value": "0.89",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 12)",
+            "À12 (À66 to 42)",
+            "À48 to 66)",
+            "90 to 78)"
+          ],
+          "columnHeaders": [
+            "TABLE 3. Changes in accelerometry-derived physical activity, sedentary, and sleep times (baseline to 24 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL",
+            "LS Adjusted",
+            "Group Differences,",
+            "P d"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "25.7 (3.5)",
+          "rowHeaders": [
+            "Control (n = 13)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "Baseline, M (SD)"
+          ]
+        },
+        {
+          "value": "26.0 (3.8)",
+          "rowHeaders": [
+            "Control (n = 13)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "12 wk, M (SD)"
+          ]
+        },
+        {
+          "value": "0.3 (À0.3 to",
+          "rowHeaders": [
+            "Control (n = 13)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "Change,"
+          ]
+        },
+        {
+          "value": "1.0)",
+          "rowHeaders": [
+            "Control (n = 13)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "a M (95% CI)"
+          ]
+        },
+        {
+          "value": "0.29",
+          "rowHeaders": [
+            "Control (n = 13)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "P b"
+          ]
+        },
+        {
+          "value": "0.57",
+          "rowHeaders": [
+            "Control (n = 13)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Group Differences,",
+            "P c"
+          ]
+        },
+        {
+          "value": "28.7 (4.9)",
+          "rowHeaders": [
+            "Lower-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "Baseline, M (SD)"
+          ]
+        },
+        {
+          "value": "28.6 (5.0)",
+          "rowHeaders": [
+            "Lower-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "12 wk, M (SD)"
+          ]
+        },
+        {
+          "value": "À0.1 (À0.7 to",
+          "rowHeaders": [
+            "Lower-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "Change,"
+          ]
+        },
+        {
+          "value": "0.5)",
+          "rowHeaders": [
+            "Lower-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "a M (95% CI)"
+          ]
+        },
+        {
+          "value": "0.72",
+          "rowHeaders": [
+            "Lower-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "P b"
+          ]
+        },
+        {
+          "value": "0.4 (À1.3 to",
+          "rowHeaders": [
+            "Lower-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Group Differences,",
+            "M (95% CI)"
+          ]
+        },
+        {
+          "value": "0.4)",
+          "rowHeaders": [
+            "Lower-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Group Differences,",
+            "M (95% CI)"
+          ]
+        },
+        {
+          "value": "0.30",
+          "rowHeaders": [
+            "Lower-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Group Differences,",
+            "P d"
+          ]
+        },
+        {
+          "value": "31.1 (8.4)",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "Baseline, M (SD)"
+          ]
+        },
+        {
+          "value": "31.0 (8.5)",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "12 wk, M (SD)"
+          ]
+        },
+        {
+          "value": "0.02 (",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "Change,"
+          ]
+        },
+        {
+          "value": "0.6 to",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "a M (95% CI)"
+          ]
+        },
+        {
+          "value": "0.6)",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "a M (95% CI)"
+          ]
+        },
+        {
+          "value": "0.94",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "P b"
+          ]
+        },
+        {
+          "value": "0.4 (",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Group Differences,",
+            "M (95% CI)"
+          ]
+        },
+        {
+          "value": "1.2 to",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Group Differences,",
+            "M (95% CI)"
+          ]
+        },
+        {
+          "value": "0.5)",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Group Differences,",
+            "M (95% CI)"
+          ]
+        },
+        {
+          "value": "0.42",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Group Differences,",
+            "P d"
+          ]
+        },
+        {
+          "value": "85.9 (8.5)",
+          "rowHeaders": [
+            "Control (n = 13)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "Baseline, M (SD)"
+          ]
+        },
+        {
+          "value": "86.8 (8.0)",
+          "rowHeaders": [
+            "Control (n = 13)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "12 wk, M (SD)"
+          ]
+        },
+        {
+          "value": "1.0 (",
+          "rowHeaders": [
+            "Control (n = 13)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "Change,"
+          ]
+        },
+        {
+          "value": "1.3 to",
+          "rowHeaders": [
+            "Control (n = 13)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "a M (95% CI)"
+          ]
+        },
+        {
+          "value": "3.2)",
+          "rowHeaders": [
+            "Control (n = 13)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "a M (95% CI)"
+          ]
+        },
+        {
+          "value": "0.39",
+          "rowHeaders": [
+            "Control (n = 13)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "P b"
+          ]
+        },
+        {
+          "value": "0.31",
+          "rowHeaders": [
+            "Control (n = 13)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Group Differences,",
+            "P c"
+          ]
+        },
+        {
+          "value": "92.7 (11.2)",
+          "rowHeaders": [
+            "Lower-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "Baseline, M (SD)"
+          ]
+        },
+        {
+          "value": "91.5 (12.0)",
+          "rowHeaders": [
+            "Lower-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "12 wk, M (SD)"
+          ]
+        },
+        {
+          "value": "1.1 (",
+          "rowHeaders": [
+            "Lower-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "Change,"
+          ]
+        },
+        {
+          "value": "3.1 to",
+          "rowHeaders": [
+            "Lower-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "a M (95% CI)"
+          ]
+        },
+        {
+          "value": "0.8)",
+          "rowHeaders": [
+            "Lower-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "a M (95% CI)"
+          ]
+        },
+        {
+          "value": "0.25",
+          "rowHeaders": [
+            "Lower-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "P b"
+          ]
+        },
+        {
+          "value": "2.1 (",
+          "rowHeaders": [
+            "Lower-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Group Differences,",
+            "M (95% CI)"
+          ]
+        },
+        {
+          "value": "5.1 to",
+          "rowHeaders": [
+            "Lower-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Group Differences,",
+            "M (95% CI)"
+          ]
+        },
+        {
+          "value": "0.9)",
+          "rowHeaders": [
+            "Lower-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Group Differences,",
+            "M (95% CI)"
+          ]
+        },
+        {
+          "value": "0.16",
+          "rowHeaders": [
+            "Lower-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Group Differences,",
+            "P d"
+          ]
+        },
+        {
+          "value": "99.6 (18.2)",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "Baseline, M (SD)"
+          ]
+        },
+        {
+          "value": "98.5 (19.1)",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "12 wk, M (SD)"
+          ]
+        },
+        {
+          "value": "À1.1 (À3.2 to",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "Change,"
+          ]
+        },
+        {
+          "value": "1.0)",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "a M (95% CI)"
+          ]
+        },
+        {
+          "value": "0.29",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "P b"
+          ]
+        },
+        {
+          "value": "À2.1 (À5.2 to",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Group Differences,",
+            "M (95% CI)"
+          ]
+        },
+        {
+          "value": "1.1)",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Group Differences,",
+            "M (95% CI)"
+          ]
+        },
+        {
+          "value": "0.19",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Group Differences,",
+            "P d"
+          ]
+        },
+        {
+          "value": "101.0 (9.9)",
+          "rowHeaders": [
+            "Control (n = 13)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "Baseline, M (SD)"
+          ]
+        },
+        {
+          "value": "101.6 (10.2)",
+          "rowHeaders": [
+            "Control (n = 13)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "12 wk, M (SD)"
+          ]
+        },
+        {
+          "value": "0.7 (À0.6 to",
+          "rowHeaders": [
+            "Control (n = 13)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "Change,"
+          ]
+        },
+        {
+          "value": "2.0)",
+          "rowHeaders": [
+            "Control (n = 13)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "a M (95% CI)"
+          ]
+        },
+        {
+          "value": "0.28",
+          "rowHeaders": [
+            "Control (n = 13)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "P b"
+          ]
+        },
+        {
+          "value": "0.51",
+          "rowHeaders": [
+            "Control (n = 13)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Group Differences,",
+            "P c"
+          ]
+        },
+        {
+          "value": "108.1 (12.4)",
+          "rowHeaders": [
+            "Lower-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "Baseline, M (SD)"
+          ]
+        },
+        {
+          "value": "107.9 (12.4)",
+          "rowHeaders": [
+            "Lower-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "12 wk, M (SD)"
+          ]
+        },
+        {
+          "value": "À0.2 (À1.3 to",
+          "rowHeaders": [
+            "Lower-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "Change,"
+          ]
+        },
+        {
+          "value": "1.0)",
+          "rowHeaders": [
+            "Lower-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "a M (95% CI)"
+          ]
+        },
+        {
+          "value": "0.80",
+          "rowHeaders": [
+            "Lower-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "P b"
+          ]
+        },
+        {
+          "value": "À0.9 (À2.6 to",
+          "rowHeaders": [
+            "Lower-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Group Differences,",
+            "M (95% CI)"
+          ]
+        },
+        {
+          "value": "0.9)",
+          "rowHeaders": [
+            "Lower-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Group Differences,",
+            "M (95% CI)"
+          ]
+        },
+        {
+          "value": "0.32",
+          "rowHeaders": [
+            "Lower-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Group Differences,",
+            "P d"
+          ]
+        },
+        {
+          "value": "114.0 (16.9)",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "Baseline, M (SD)"
+          ]
+        },
+        {
+          "value": "113.8 (17.3)",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "12 wk, M (SD)"
+          ]
+        },
+        {
+          "value": "0.3 (",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "Change,"
+          ]
+        },
+        {
+          "value": "1.5 to",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "a M (95% CI)"
+          ]
+        },
+        {
+          "value": "1.0)",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "a M (95% CI)"
+          ]
+        },
+        {
+          "value": "0.66",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "P b"
+          ]
+        },
+        {
+          "value": "1.0 (",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Group Differences,",
+            "M (95% CI)"
+          ]
+        },
+        {
+          "value": "2.9 to",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Group Differences,",
+            "M (95% CI)"
+          ]
+        },
+        {
+          "value": "0.9)",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Group Differences,",
+            "M (95% CI)"
+          ]
+        },
+        {
+          "value": "0.29",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Group Differences,",
+            "P d"
+          ]
+        },
+        {
+          "value": "28.4 (7.5)",
+          "rowHeaders": [
+            "Control (n = 13)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "Baseline, M (SD)"
+          ]
+        },
+        {
+          "value": "28.6 (8.0)",
+          "rowHeaders": [
+            "Control (n = 13)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "12 wk, M (SD)"
+          ]
+        },
+        {
+          "value": "0.2 (",
+          "rowHeaders": [
+            "Control (n = 13)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "Change,"
+          ]
+        },
+        {
+          "value": "1.0 to",
+          "rowHeaders": [
+            "Control (n = 13)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "a M (95% CI)"
+          ]
+        },
+        {
+          "value": "1.3)",
+          "rowHeaders": [
+            "Control (n = 13)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "a M (95% CI)"
+          ]
+        },
+        {
+          "value": "0.76",
+          "rowHeaders": [
+            "Control (n = 13)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "P b"
+          ]
+        },
+        {
+          "value": "0.2",
+          "rowHeaders": [
+            "Control (n = 13)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Group Differences,",
+            "P c"
+          ]
+        },
+        {
+          "value": "34.1 (10.5)",
+          "rowHeaders": [
+            "Lower-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "Baseline, M (SD)"
+          ]
+        },
+        {
+          "value": "33.8 (10.7)",
+          "rowHeaders": [
+            "Lower-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "12 wk, M (SD)"
+          ]
+        },
+        {
+          "value": "0.4 (",
+          "rowHeaders": [
+            "Lower-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "Change,"
+          ]
+        },
+        {
+          "value": "1.4 to",
+          "rowHeaders": [
+            "Lower-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "a M (95% CI)"
+          ]
+        },
+        {
+          "value": "0.6)",
+          "rowHeaders": [
+            "Lower-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "a M (95% CI)"
+          ]
+        },
+        {
+          "value": "0.45",
+          "rowHeaders": [
+            "Lower-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "P b"
+          ]
+        },
+        {
+          "value": "0.6 (",
+          "rowHeaders": [
+            "Lower-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Group Differences,",
+            "M (95% CI)"
+          ]
+        },
+        {
+          "value": "2.1 to",
+          "rowHeaders": [
+            "Lower-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Group Differences,",
+            "M (95% CI)"
+          ]
+        },
+        {
+          "value": "1.0)",
+          "rowHeaders": [
+            "Lower-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Group Differences,",
+            "M (95% CI)"
+          ]
+        },
+        {
+          "value": "0.46",
+          "rowHeaders": [
+            "Lower-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Group Differences,",
+            "P d"
+          ]
+        },
+        {
+          "value": "40.0 (14.9)",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "Baseline, M (SD)"
+          ]
+        },
+        {
+          "value": "38.9 (15.1)",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "12 wk, M (SD)"
+          ]
+        },
+        {
+          "value": "À1.2 (À2.2 to À0.1)",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "a M (95% CI)"
+          ]
+        },
+        {
+          "value": "0.03",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "P b"
+          ]
+        },
+        {
+          "value": "À1.4 (À3.0 to",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Group Differences,",
+            "M (95% CI)"
+          ]
+        },
+        {
+          "value": "0.3)",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Group Differences,",
+            "M (95% CI)"
+          ]
+        },
+        {
+          "value": "0.10",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Group Differences,",
+            "P d"
+          ]
+        },
+        {
+          "value": "32.6 (3.3)",
+          "rowHeaders": [
+            "Control (n = 13)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "Baseline, M (SD)"
+          ]
+        },
+        {
+          "value": "33.0 (3.2)",
+          "rowHeaders": [
+            "Control (n = 13)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "12 wk, M (SD)"
+          ]
+        },
+        {
+          "value": "0.4 (",
+          "rowHeaders": [
+            "Control (n = 13)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "Change,"
+          ]
+        },
+        {
+          "value": "0.5 to",
+          "rowHeaders": [
+            "Control (n = 13)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "a M (95% CI)"
+          ]
+        },
+        {
+          "value": "1.2)",
+          "rowHeaders": [
+            "Control (n = 13)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "a M (95% CI)"
+          ]
+        },
+        {
+          "value": "0.36",
+          "rowHeaders": [
+            "Control (n = 13)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "P b"
+          ]
+        },
+        {
+          "value": "0.31",
+          "rowHeaders": [
+            "Control (n = 13)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Group Differences,",
+            "P c"
+          ]
+        },
+        {
+          "value": "37.5 (3.8)",
+          "rowHeaders": [
+            "Lower-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "Baseline, M (SD)"
+          ]
+        },
+        {
+          "value": "37.5 (4.6)",
+          "rowHeaders": [
+            "Lower-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "12 wk, M (SD)"
+          ]
+        },
+        {
+          "value": "À0.1 (À0.8 to",
+          "rowHeaders": [
+            "Lower-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "Change,"
+          ]
+        },
+        {
+          "value": "0.6)",
+          "rowHeaders": [
+            "Lower-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "a M (95% CI)"
+          ]
+        },
+        {
+          "value": "0.79",
+          "rowHeaders": [
+            "Lower-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "P b"
+          ]
+        },
+        {
+          "value": "À0.5 (À1.6 to",
+          "rowHeaders": [
+            "Lower-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Group Differences,",
+            "M (95% CI)"
+          ]
+        },
+        {
+          "value": "0.6)",
+          "rowHeaders": [
+            "Lower-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Group Differences,",
+            "M (95% CI)"
+          ]
+        },
+        {
+          "value": "0.39",
+          "rowHeaders": [
+            "Lower-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Group Differences,",
+            "P d"
+          ]
+        },
+        {
+          "value": "40.8 (6.8)",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "Baseline, M (SD)"
+          ]
+        },
+        {
+          "value": "41.5 (6.7)",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "12 wk, M (SD)"
+          ]
+        },
+        {
+          "value": "0.7 (",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "Change,"
+          ]
+        },
+        {
+          "value": "0.1 to",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "a M (95% CI)"
+          ]
+        },
+        {
+          "value": "1.4)",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "a M (95% CI)"
+          ]
+        },
+        {
+          "value": "0.09",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "P b"
+          ]
+        },
+        {
+          "value": "0.3 (",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Group Differences,",
+            "M (95% CI)"
+          ]
+        },
+        {
+          "value": "1.0 to",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Group Differences,",
+            "M (95% CI)"
+          ]
+        },
+        {
+          "value": "1.5)",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Group Differences,",
+            "M (95% CI)"
+          ]
+        },
+        {
+          "value": "0.66",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Group Differences,",
+            "P d"
+          ]
+        },
+        {
+          "value": "18.0 (6.5)",
+          "rowHeaders": [
+            "Control (n = 13)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "Baseline, M (SD)"
+          ]
+        },
+        {
+          "value": "18.3 (6.7)",
+          "rowHeaders": [
+            "Control (n = 13)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "12 wk, M (SD)"
+          ]
+        },
+        {
+          "value": "0.3 (",
+          "rowHeaders": [
+            "Control (n = 13)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "Change,"
+          ]
+        },
+        {
+          "value": "2.5 to",
+          "rowHeaders": [
+            "Control (n = 13)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "a M (95% CI)"
+          ]
+        },
+        {
+          "value": "3.0)",
+          "rowHeaders": [
+            "Control (n = 13)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "a M (95% CI)"
+          ]
+        },
+        {
+          "value": "0.84",
+          "rowHeaders": [
+            "Control (n = 13)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "P b"
+          ]
+        },
+        {
+          "value": "0.02",
+          "rowHeaders": [
+            "Control (n = 13)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Group Differences,",
+            "P c"
+          ]
+        },
+        {
+          "value": "19.9 (7.9)",
+          "rowHeaders": [
+            "Lower-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "Baseline, M (SD)"
+          ]
+        },
+        {
+          "value": "24.0 (7.0)",
+          "rowHeaders": [
+            "Lower-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "12 wk, M (SD)"
+          ]
+        },
+        {
+          "value": "4.5",
+          "rowHeaders": [
+            "Lower-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "Change,"
+          ]
+        },
+        {
+          "value": "(2.0 to",
+          "rowHeaders": [
+            "Lower-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "a M (95% CI)"
+          ]
+        },
+        {
+          "value": "7.0)",
+          "rowHeaders": [
+            "Lower-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "a M (95% CI)"
+          ]
+        },
+        {
+          "value": "<0.01",
+          "rowHeaders": [
+            "Lower-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "P b"
+          ]
+        },
+        {
+          "value": "4.2",
+          "rowHeaders": [
+            "Lower-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Group Differences,",
+            "M (95% CI)"
+          ]
+        },
+        {
+          "value": "(0.5 to",
+          "rowHeaders": [
+            "Lower-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Group Differences,",
+            "M (95% CI)"
+          ]
+        },
+        {
+          "value": "8.0)",
+          "rowHeaders": [
+            "Lower-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Group Differences,",
+            "M (95% CI)"
+          ]
+        },
+        {
+          "value": "0.03",
+          "rowHeaders": [
+            "Lower-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Group Differences,",
+            "P d"
+          ]
+        },
+        {
+          "value": "17.2 (8.3)",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "Baseline, M (SD)"
+          ]
+        },
+        {
+          "value": "23.1 (9.2)",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "12 wk, M (SD)"
+          ]
+        },
+        {
+          "value": "5.6",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "Change,"
+          ]
+        },
+        {
+          "value": "(3.1 to",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "a M (95% CI)"
+          ]
+        },
+        {
+          "value": "8.2)",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "a M (95% CI)"
+          ]
+        },
+        {
+          "value": "<0.01",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Adjusted Mean",
+            "P b"
+          ]
+        },
+        {
+          "value": "5.4",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Group Differences,",
+            "M (95% CI)"
+          ]
+        },
+        {
+          "value": "(1.7 to",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Group Differences,",
+            "M (95% CI)"
+          ]
+        },
+        {
+          "value": "9.1)",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Group Differences,",
+            "M (95% CI)"
+          ]
+        },
+        {
+          "value": "0.01",
+          "rowHeaders": [
+            "Higher-intensity PA (n = 15)"
+          ],
+          "columnHeaders": [
+            "TABLE 4. Changes in markers of health-related fitness (baseline to 12 wk) in the lower- and higher-intensity PA groups compared with control in the BC-PAL pilot study, Calgary, Alberta, Canada,",
+            "LS Adjusted",
+            "Group Differences,",
+            "P d"
+          ]
+        }
+      ],
+      "page": 1
+    }
+  ]
+}

@@ -1,0 +1,1285 @@
+{
+  "blocks": [
+    {
+      "type": "LINES",
+      "value": "Telephone-based motivational interviewing versus usual care in primary care to increase physical activity: a randomized pilot study",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Background: Diabetes and prediabetes are chronic conditions that affect over 40% of the US adult population combined. Regular physical activity can benefit people with diabetes through improved glucose control and can reduce the conversion of prediabetes to diabetes. Studies are needed in settings where people with these conditions can be identified and provided the skills and support to increase physical activity. The primary care setting meets this need, but there are insufficient high-quality trials to recommend this approach be broadly implemented.\nMethods: We conducted a randomized, 24-week pilot study in Southern California to assess the feasibility of using information technology systems available in primary care for identifying potential participants, test methods for obtaining physical activity clearance, conducting mail-based assessments, and delivering telephone-based motivational interviewing to increase physical activity. Eligibility criteria included age between 18 and 74 years, diabetes or prediabetes, and physically inactive based on a clinical assessment tool. At baseline and follow-up, physical activity was assessed by a 7-day accelerometry, cardiometabolic risk factors were collected from electronic medical records, and psychosocial factors were assessed from validated questionnaires administered through a mail survey. Participants were block randomized into intervention or usual care. Staff collecting outcome data were blinded to group assignment. Analysis of covariance was used to assess the difference at follow-up between the intervention and usual care, adjusting for baseline.\nResults: A total of 67 participants were randomized. Follow-up mail assessments were completed by 53 participants. Of 224 potential intervention calls, 194 were completed (87%). Psychosocial measures significantly improved in four of the five factors for physical activity motivation relative to participants in the usual care arm. The more internally focused factors for exercise self-regulation and outcome expectancies scores were significantly greater for participants in intervention compared with usual care. Moderate to vigorous physical activity improved in intervention participants relative to usual care, but the difference was not statistically significant. No adverse events were noted.\nThe objectives of this pilot study were met. If a fully powered trial is successful, primary care settings with \"behind-the-scenes\" information technology support maybe appropriate to increase physical activity among patients with prediabetes and diabetes.",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Diabetes is a chronic disease that is increasing in prevalence. About 30.3 million people have diabetes-9.4% of the US population. Another 84 million adults, or about ½ of the US population, have prediabetes, a condition of abnormally high blood glucose levels and a precursor to diabetes.\nRegular physical activity markedly improves health for those with diabetes and prediabetes. For patients with diabetes, regular physical activity training significantly improves glucose control and can induce remission. Intense lifestyle interventions, including physical activity and weight loss, can reduce the transition of prediabetes to diabetes. However, this knowledge is insufficient to motivate Americans to increase their physical activity. Based on accelerometry data from the National Health and Nutrition Examination Survey (NHANES), 34% are extremely inactive (accumulate about 5 min of moderate to vigorous physical activity (MVPA) per day) and only 5% meet national guidelines of 150 min per week.\nThe healthcare sector is an important setting to promote physical activity because of its ability to reach and influence large numbers of people with diabetes and prediabetes. Brief healthcare provider physical activity assessment and counseling can successfully increase physical activity in the short-term (< 6 months), but advice during an outpatient visit is insufficient for lasting improvements. The US Preventive Services Task Force reported limited information on physical activity counseling interventions on cardiometabolic risk factors, that well-conducted trials are needed to increase physical activity, and called for more studies of such interventions in primary care settings that require minimal healthcare resources. Telephone-based counseling for physical activity is evidence-based, and although healthcare systems routinely use this technology for care management, it has not been studied for physical activity promotion in this setting. Additionally, objective measures to assess physical activity are needed.\nIn response to these recommendations, we conducted a pilot study to determine if telephone counseling, in a healthcare setting that routinely assesses the physical activity of its patients, is a feasible approach to improve physical activity among patients with diabetes and prediabetes. We built on an existing innovation at Kaiser Permanente, in which physical activity is assessed at every outpatient visit and recorded in their electronic medical record (EMR) using a \"Exercise Vital Sign\" (EVS). The primary aims were to pilot study elements, including identification of eligible patients; healthcare provider recruitment, training, and engagement; patient recruitment; data collection procedures; and a 24-week intervention.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "This pilot tested the elements of a two-armed study with parallel group of a 24-week physical activity intervention among physically inactive prediabetic and diabetic patients not prescribed insulin. A sample size of 60 was chosen to provide a sample large enough to test study procedures and allow fora range of intervention experiences by participants. After completion of baseline data collection, participants were randomized to intervention or usual care conditions. The intervention consisted of telephone counseling, using motivational interviewing (MI) and individualized support, to assist participants in increasing and maintaining their physical activity. We assessed physical activity assessed from accelerometers, psychosocial measures such as quality of life, weight change, and cardiometabolic risk factors such as blood pressure and glycated hemoglobin (HbA1c). All measures were assessed at baseline and following the 24-week intervention. Accelerometers and surveys were mailed to participants and returned in previously addressed, stamped envelopes. Weight and cardiometabolic risk factors were extracted directly from the EMR. After study completion, selected participants, clinic staff, and providers were recruited for one-in-one interviews regarding feasibility and acceptability of the study design and methods. The study was approved by the Kaiser Permanente Southern California Institutional Review Board, IRB # 10106.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The target population was physically inactive individuals (i.e., less than 30 min of physical activity per week as assessed by the EVS) between age 18 and 74 years, with a primary care visit in the previous 2 years, having either prediabetes or diabetes without insulin and able to communicate in English. All patients had to be cleared by their primary care provider to increase their physical activity. Prediabetes was defined as a HbA1c level between 5.7 and 6.4%, a fasting blood glucose level between 100 and 125 mg/dL, a 2-h oral glucose tolerance test between 140 and 199 mg/dL, or at least one outpatient ICD-9 or ICD-10 diagnosis code for abnormal glucose levels, all within the past 6 months. Diabetes was defined as having at least two outpatient ICD-9 or ICD-10 diabetes diagnoses in the EMR in the past 3 years, and one of the following: a HbA1c value at or greater than 6.5% in the past 2 years or a fasting blood glucose greater than 125 mg/dL in the past 2 years. Exclusion criteria were health conditions that might limit individuals from participating in physical activity without professional supervision, including obesity class 3 (body mass index (BMI; kg/m 2 > 40 kg/m 2 ), disabling rheumatoid or osteoarthritis, and ongoing treatment for cancer or unstable coronary heart disease.\nPhysical activity was assessed at each outpatient visit by trained medical assistants who asked patients two questions: \"On average, how many days per week do you engage in moderate to strenuous exercise (like a brisk walk)?\" and \"On average, how many minutes do you engage in exercise at this level?\" Response choices for days were 0-7, and minutes were recorded as 0, 10, 20, 30, 40, 50, 60, 90, 120, and 150 minor greater. The responses were recorded in each patient's EMR, and the associated software calculated minutes per week of MVPA. Face and discriminant validity of the EVS are adequate, and being physically active (EVS ≥ 150 min per week, compared to 0 EVS minutes per week) was associated with lower HbA1c values.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Study staff identified primary care office clinics located in Southern California that might be interested in participating in the pilot study. After initial interest, staff met with clinic leadership to explain study goals, further gauge interest, and identify methods to recruit patients. Because of the pilot's small scope, it was determined that pre-eligibility would be assessed by study staff and primary care providers would assess potentially eligible patients for their ability to increase physical activity and provide clearance through the EMR. Methods to remind providers to clear patients were identified, and tools were created. These included (1) 4 × 6 in. cards of eligibility criteria with contact information if patient was eligible that could be placed in the exam room when rooming a potentially eligible patient, (2) a bright yellow card indicating the patient should be assessed for eligibility, and (3) creating an automatic note in the EMR that would auto-populate stating whether a patient was or was not cleared for exercise.\nStudy staff attended a monthly primary care provider and clinic staff meeting to present the study's background and rationale and explain the \"ask;\" that is, to determine if a potentially eligible patient could safely increase his/her physical activity, and if so, to clear them for exercise by either placing a code in the patient's EMR or asking the clinic staff to relay the information to study staff. Neither providers nor clinic staff were asked to recruit participants.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "A program code run against the EMR database was used to determine possible eligibility according to the study inclusion and exclusion criteria. The code was run twice weekly to identify potentially eligible patients who had clinic appointments that week. Initially, lists were sent to clinic staff and brightly colored notecards were placed in examination rooms to identify patients to be assessed for possible medical contraindications for increased physical activity. The evaluation was based on general knowledge of the patients' medical conditions. Patients cleared for physical activity were called by study staff, the study purpose was explained, eligibility was confirmed, and if interested, they were invited to participate in the pilot. Informed consent was mailed to potential participants, and after written consent was obtained, participants underwent baseline data collection.\nMany potentially eligible patients were not assessed for their ability to increase physical activity during their medical clinic visit because the primary care provider forgot to make the assessment. A revised plan was enacted in which study staff directly reached out to potentially eligible participants through mail and follow-up telephone calls. If interested, study staff directly contacted the corresponding provider to ascertain if it was safe for the patient to increase physical activity. Once a patient was cleared for increased physical activity, the same procedures were followed to obtain written informed consent.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Physical activity was assessed with Actigraph® model 7185 accelerometers. After contacting the participant to confirm timing, monitors were mailed to participants via 1-day return receipt mail along with printed instructions on its use. Accelerometers were initialized prior to mailing and set to begin collecting data at 5 am on the day after the participants received the monitor. Participants were asked to wear a monitor during all waking hours for 7 consecutive days. Participants returned the monitors in envelopes provided by the study. The following count thresholds were used to assign each 60-s interval to a physical activity intensity category: sedentary (< 100), light (100-1951), moderate (1952-5723), and vigorous (> 5723 counts). At least 10 h per day of monitor wear for at least 4 days was required fora participant's data to be used for analysis.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "We assessed BMI, HbA1c, blood pressure, and lipids at baseline and follow-up from the EMR. Baseline data were identified as the most recent prior to randomization. Follow-up was defined as 24 weeks after randomization. Data from office and laboratory visits closest to the follow-up accelerometry date were used; at times this required using some follow-up data from before 24 weeks.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "A survey was mailed to participants along with the accelerometer to complete and return. Quality of life was assessed by the SF-36. This widely adopted generic measure of 36 items yields scales of functional health and well-being as well as summary physical health and mental health scores. Reliability typically exceeds 0.90. Additional instruments were administered to assess constructs relevant to the intervention theory (described below). Perceived competence for participating in physical activity was assessed by the Exercise Self-Efficacy Scale (12 items, α = 0.83-0.85). The scale has two factors: making time for exercise and sticking to it. Motivation for physical activity was assessed using the Motivation for Physical Activities Measure. It is a 30-item scale with internal consistency greater than 0.87 in which participants are asked to indicate on a 5-point Likert scale their motivations for participating in physical activity, with factors of interest/enjoyment, competence, appearance, fitness, and social motivations. Physical activity self-regulation is a 16-item scale with response options ranging from 1 to 7, anchored with \"not at all true\" (1) and \"very true\" (7). The scale results in four factors: external regulation (participating in physical activity to gain an external reward or avoid punishment), introjected regulation (participating because of feelings of obligation or guilt), identified regulation (participating because of the value of the consequences), and intrinsic regulation (participating because it is consonant with one's values). Relative Autonomy Index is formed from the factors, with higher scores indicating greater autonomy toward physical activity. The outcome expectations for exercise scale is a 9-item scale with 5-point Likert response options. Internal consistency is 0.89. Social support for physical activity is a 13-item scale that queries separately for family and friends. Internal consistency ranges from 0.61-0.9). Two factors result for family and friends, \"participation\" and \"rewards.\" These instruments predict physical activity behavior change.\nStaff collecting outcome data were blinded to participant treatment assignment.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The conceptual model for the intervention was based on Self-Determination Theory (SDT) which posits that motivation fora behavior ranges on a continuum from external to internal motivation. The behaviors that originate from one's self (i.e., autonomous or internalized) are more likely to be maintained compared with behaviors resulting from external forces (which in the extreme can be coercive). When a person becomes autonomously motivated toward a health behavior, that behavior receives more effort, engagement, persistence, and is thus more likely to continue. Autonomous self-regulation can be promoted by autonomy supportive social environments in which the individual is accepted, his/her frame of reference is acknowledged, information and encouragement is provided about making behavior change, and choices are respected. SDT identifies 3 psychological needs that are critical to supporting intrinsic self-regulation: the need for autonomy, competency to achieve desired outcomes (i.e., self-efficacy), and relatedness to others.\nWe chose to MI as the tool to deliver the intervention, a technique successfully implemented health behavior change studies. MI is based on the clinical principles of (1) expressing empathy, understanding, and acceptance, including understanding that ambivalence is normal; identifying discrepancies between current behavior and important goals and facilitating the participant to present rationale for change, rather than using direct persuasion techniques; (3) allowing the participant to be resistant to change, so resistance can be explored and the participant can resolve resistance; and (4) supporting self-efficacy for change by identifying the participant's strengths, encouraging his/her ability for change, and affirming successes and achievements. While SDT and MI were developed independently, there are considerable similarities and MI is a common approach for implementing SDT interventions.\nThe intervention goal was to meet national physical activity guidelines of 150 min of MVPA per week. The intervention was administered through behavioral counseling using MI by telephone. The interventionist, based in the research department, was a research associate with a master's degree and broad knowledge in public health and health behavior change. She underwent a 30-h web-based MI program with webinars, skill-building activities and a 2-day face-to-face training with a MI expert trainer. A manual of procedures was created to prompt MI skills and guide physical activity-related information to share with participants during the calls. MI calls were scheduled at weeks 1, 2, 4, 6, 12, 16, and 24. Intervention participants received a packet that included information about target heart rate, rate of perceived exertion scale, expected changes while exercising (e.g., increased heart rate and breathing, perspiration), tips about exercising in hot and inclement weather, tips for motivation and reducing barriers, a 24-week physical activity log, and a KP-branded physical activity personal action plan.\nThe first MI call included introductions, intervention format and expectations, and information describing types of moderate intensity physical activity; verification that the participant knew how to monitor physical exertion through counting pulse rate or using the rate of perceived exertion scale; appropriate clothing and footwear for physical activity; and warm-up, cool-down, and flexibility exercises. The final MI call included a discussion on long-term maintenance strategies, plans to overcome boredom with an activity routine, and intrinsic and extrinsic rewards when goals are met.\nParticipants received approximately 2.5 h of telephone counseling, although for those who needed more support, more counseling occurred, and vice versa for those who needed less support. Because of the highly interactive nature of the motivational interviewing process, the intervention was not prescriptive, but rather designed to meet the participant where s/he was to increase physical activity and was empathetic but designed to create discrepancy between the participant's current state and desired goals so change could be produced. Participants self-selected their physical activity intensity goal, which was typically at least of a moderate intensity (e.g., brisk walk). Weekly study staff meetings included case discussions on participants' achievements and challenges toward goals; any medical-related issues participants had (e.g., hbA1c monitoring) were referred back to their primary care provider. The interventionist documented encounters and goals attained through progress notes in the EMR so the providers could monitor patients' progress, if desired. After the last MI call, participants were mailed an action plan that was negotiated during the last call.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Participants randomized to the usual care arm received a 3-page physical activity resource handout that included fitness classes and facilities, their costs, and available walking paths located in their communities as well as online resources available through Kaiser Permanente.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "After completion of the study, semi-structured interview guides were prepared for primary care providers, clinic staff, and participants to identify strengths and weaknesses of the study approach. Providers and staff who engaged in the study were asked about their familiarity with how patients were identified to be cleared for exercise, what the intervention components were, how they felt the intervention benefitted patients, and what challenges they faced with participating in the study. Participants were asked about potential measurement burden, their perceptions of the telephone format, what challenges they faced during the study, benefits they obtained, and recommendations for improving the intervention. Interview participants were those who had been assigned to the intervention arm and selected by their engagement in the intervention; those who completed most MI calls and those who missed a number were asked to participate to gain a wide range of opinions. Interviews were conducted in person (physicians and clinic staff ) and by phone (participants), and all were audio recorded.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Participants were randomized by study staff into intervention vs usual care using a block randomization using blocks of 8, 10, and 12, stratified by sex. Study staff informed participants of their study assignment. Baseline characteristics of the intervention and usual care groups were compared using chi-square test for categorical variables and Wilcoxon rank sum test for continuous variables as appropriate.\nAn analysis of covariance was used to assess the difference in means in physiological, accelerometry, and survey response measures at 6 months of follow-up between the intervention and usual care, adjusting for their respective baseline measures. All analyses were performed with SAS Enterprise Guide 5.1. All tests of significance were exploratory. No adjustment of the overall level of significance for multiple testing was done.\nRecordings of qualitative interviews were listened to verbatim by researchers and staff. Main themes were independently identified, summarized, and compared. When discrepancies were noted, results were compared, and consensus was obtained. Due to cost considerations, written transcripts were not prepared or analyzed.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Recruitment Figure displays the participant recruitment process for clinic A (diabetic and prediabetic patients). From a potential pool of 94,101 patients who had an outpatient visit in the prior 2 years, 3315 met the basic eligibility criteria. Clinic B (diabetic patients only) had 637 diabetic patients that met eligibility criteria. Of the patients who were potentially eligible from both clinics, 504 had outpatient visits scheduled during the study's recruitment period and were thus available to be recruited.\nFigure displays the clinic recruitment process. Recruitment began in November 2015 and continued through May 2016. Of the potentially eligible patients, 80 either did not attend or canceled their appointment, 8 were deemed to not meet eligibility criteria during the visit, and providers determined that it was not safe for 56 to increase their physical activity. Providers forgot to screen 46% of eligible patients who had a clinic visit, leaving 167 patients for study staff to be contacted and informed about the study. Of those, 38% actively declined and 37% were notable to be reached by phone, leaving 44 patients who consented to participate. The clinic recruitment methods took 35 weeks (i.e., 1.25 participants per week).\nDirectly mailing potentially eligible participants from both clinics took 11 weeks to recruit the remaining 23 participants. During this time, 330 letters were mailed explaining the study and informing patients they would receive a follow-up telephone call. Three letters were returned because of bad addresses, we were notable to reach 159 (48%) patients, and 117 (35%) declined, leaving patients interested in the study. There were 8 interested patients who did not receive clearance to increase their physical activity, another 8 patients whose provider did not respond to us, and 12 patients who lost interest in the study. Thus, direct mail resulted in consenting 23 participants.\nA total of 32 participants were randomized to the intervention arm; the remaining 35 were randomized to the control arm (Table).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The intervention was designed for each participant to receive 7 MI calls. Of 224 potential calls with 32 intervention participants, 194 were completed (87%); 5 participants dropped out of the intervention (16%). MI calls varied from 5 to 25 min.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Baseline descriptive statistics for intervention and control participants are presented in Table. Participants were 61% female, 33% Hispanic, 12% non-Hispanic black, 7% Asian/Pacific Islander, 40% non-Hispanic white, and 8% other. Their mean age was 61.2 (7.61) years, and 69% were obese. Most participants (60%) were either high school graduates or had attended college but not graduated. Consistent with eligibility criteria, 73.1% had 0 min of physical activity, determined from the EVS (data not shown). Because one clinic agreed to include  only diabetic patients, almost ½ of participants had HbA1c levels above 6.4%. Baseline LDL-cholesterol and HDL-cholesterol mean values were normal. Baseline mean blood pressure met the current criteria for stage 1 hypertension. Accelerometry-based moderate-to-vigorous activity at baseline was 17.7 (14.53) minutes/day, with baseline values higher for the usual care group. There were no other differences between intervention and usual care participants at baseline.\nA total of 53 participants (79%) completed the mail-based follow-up assessments, which were completed in December 2016. Of those randomized, we were unable to contact 5 participants, 3 returned the package with no data, 2 declined further participation, and 4 did not return the package. There were 46 participants (69% of randomized participants; 87% of those who had follow-up assessments) with sufficient accelerometer data for analysis. Reasons for non-analysis were accelerometer malfunction (n = 4) and inadequate wear time (n = 3).\nMVPA increased non-significantly among participants in the intervention group and decreased in participants in the usual care group, with a mean baseline-adjusted difference of 7.41 daily minutes (95% CI −2.9, 17.4) (baseline adjusted 6-month MVPA min/day intervention, 24.8 [95% CI 16.6, 33.0]; usual care, 16.4 [95% CI 7.7, 25.2]) (Table). This is an average increase of more than 50 min per week.\nFollow-up BMI and blood pressure data were available for 54 (80%) participants; HbA1c was available for only 46 (57%) participants. Because lipid values are periodically assessed in clinical care, we had 6-month follow-up values in the EMR for only 23 (34%) participants. There were no between-group differences in these measures (Table).\nHealth-related quality of life did not differ between participants in the intervention versus the usual care arm. There was a significant improvement for participants in the intervention compared with those in usual care for four of the five factors for physical activity motivation, with the social motivation factor approaching significance (baseline-adjusted mean difference 0.60 [95% CI 0.00, 1.20]) (Table). The more internally focused factors for exercise self-regulation were significantly greater for participants in intervention compared with those in usual care, as were outcome expectancies scores (baseline adjusted mean difference 0.28 [95% CI 0.02, 0.54]). Physical activity self-efficacy and social support scores did not differ for participants in the intervention compared with participants in the usual care arm.\nNo study-related adverse events were noted for either treatment arm.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Each of study participants interviewed (n = 4) (all intervention) was highly favorable on all aspects of the study design and implementation (Table). They stated that the calls helped with accountability, provided support and encouragement, and educated them about increasing their physical activity. They also mentioned that it would be nice to meet the interventionist in person to enhance the personal interaction. Health care providers (n = 7) and clinic staff (n = 4) thought the study was an excellent idea, that it was something that all their patients could benefit from, had minimal effect on their workflow, and that if it helps their patients, it is worth the extra time (Table). Even with the tools provided to remind providers to assess their patient's ability to increase physical activity, they often forgot to make the assessment. They stated that clearing patients for exercise would be easier if it was part of their routine and offered suggestions of incorporating it into existing reminders imbedded into the EMR. They also suggested that providing staff support at the clinic would be a helpful reminder.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Results from this pilot study suggest that it is feasible to identify potential eligible diabetic and prediabetic participants from EMRs, have their ability to increase physical activity assessed in primary care, data collection conducted through the mail, be randomized, administer an intervention entirely by telephone, and obtain follow-up data through mail and EMRs. Participants viewed the intervention positively, and primary care providers and clinic staff reported the study was an excellent idea and one that can benefit patients. Results indicate that intervention participants significantly increased some psychosocial constructs associated with SDT and MI and that there was a non-significant improvement in MVPA relative to usual care, providing further evidence of the potential effectiveness of a fully powered trial. Randomized, controlled trials of physical activity interventions using SDT are appearing in the literature and show promise for increasing self-reported physical activity in the short term and up to 2 years. Silva et al. conducted a weight loss trial among 239 women and found improvements in exercise self-regulation, motivations for exercise, self-reported physical activity, and pedometer-assessed steps per day over 12 months in intervention compared with control participants.\nResults persisted at 2 years. Their trial was powered to be able to detect significant between-group differences, was twice as long as our pilot, and much more intense. Over the 12 months, about 60 h of intervention/participant contact time was scheduled compared with our average 2.5 hover 24 weeks. However, Silva et al. conducted the intervention in groups of 25-30 women compared with our one-on-one approach. Although we did not find significant differences in MVPA, our impressive improvements in psychosocial variables representing SDT among intervention participants relative to usual care participants may suggest that fewer contact hours maybe sufficient to obtain results using a one-to-one intervention, even if remotely delivered by telephone.  Even though the study was not powered to detect significant difference in biological outcomes, the 24-week intervention did not provide any signal of potential improvement. We learned that while most participants (82%) had visited their primary care provider within our follow-up window and, thus, had blood pressure and BMI measures in the EMR, only 34% had HbA1c or lipid values. We did not request providers to place laboratory orders for these outcomes, as it was beyond the scope of the pilot and we did not want to burden participants with the cost of a co-pay. Ina trial with a longer intervention and follow-up period, more participants may have the assessments in their EMR. For those who do not, study staff can request that orders are placed and study funds can be used to cover the costs of co-pays. Physical activity interventions improve cardiometabolic risk factors, and it is important to continue to document these outcomes to convince primary care providers and healthcare systems to actively promote physical activity as a method to reduce risk.\nInterviews with participants, providers, and clinic staff confirmed that the study is feasible. Participants were highly positive about all aspects, with the lone suggestion of the ability to meet with the interventionist at least once to improve the quality of interactions. Providers and clinic staff suggested that the study be more integrated into the clinic setting. While they did not want their workflows altered or be required to recruit patients into possible participation, they did believe that the study would benefit their patients. The time constraints in primary care offices are not trivial; feasible and sustainable approaches in this setting require limited involvement of providers and clinical staff. The suggestions the providers and clinical staff provided to incorporate some of the study elements into existing clinical systems can be accomplished in a fully powered trial.\nThere are study limitations. Clinics were not randomly selected to be invited to participate in the pilot study because they were selected by convenience they may have been more responsive to the intervention. The interventionist only had 2 days of MI training and the calls were not assessed for fidelity. She may have strayed from the MI approach. Only four study participants were interviewed for the qualitative data collection and they all were assigned to the intervention arm. Qualitative results may have been different if all participants, both from the intervention and control arms, participated in interviews. Results of this study may not be generalizable\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "What is your feedback on the frequency of the phone calls, the length of the study, the telephone intervention, the study instruments, the accelerometer?\nParticipants: Easy to take calls. Not a time burden. Survey length is good. Wearing the accelerometer was fine.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "What resources were available to you to help you increase and maintain your physical activity? Was the intervention helpful? Was it a hindrance or burden? How does the phone counseling fit with your daily life activities? How can the program be more effective?\nParticipants: Found a place to walk that is safe. Felt supported and helped me make changes. Helped with accountability. In-person visit to meet counselor would be nice. May want to consider email/texts if cannot make calls.\nto other healthcare settings. Additionally, given the exploratory nature of the study, results should be interpreted with caution.\nIn conclusion, the objectives of this pilot study were met. We demonstrated that the methods for identifying potential participants, data collection, and intervention were feasible and well-received by participants, providers, and clinic staff. Intervention participants exhibited improvements in SDT constructs, and there was a signal that accelerometry-derived MVPA improved relative to usual care participants. We learned about alternative methods to assess a potential participant's medical ability to increase MVPA, given the busy clinic environment, and received useful advice for how to better incorporate study elements into primary care clinics. If a fully powered trial is successful, primary care settings with \"behind-the-scenes\" information technology support maybe appropriate for increased MVPA among patients with prediabetes and diabetes, which would have a major impact on their health.\n",
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "504",
+          "rowHeaders": [
+            "Total screened"
+          ],
+          "columnHeaders": [
+            "Table 1 Participant yield by recruitment method",
+            "Table 1 Participant yield by recruitment method",
+            "Clinic-based (35 weeks)"
+          ]
+        },
+        {
+          "value": "330",
+          "rowHeaders": [
+            "Total screened"
+          ],
+          "columnHeaders": [
+            "Table 1 Participant yield by recruitment method",
+            "Table 1 Participant yield by recruitment method",
+            "Mailing plus telephone follow-up (11 weeks)"
+          ]
+        },
+        {
+          "value": "167",
+          "rowHeaders": [
+            "Provider cleared for exercise"
+          ],
+          "columnHeaders": [
+            "Table 1 Participant yield by recruitment method",
+            "Table 1 Participant yield by recruitment method",
+            "Clinic-based (35 weeks)"
+          ]
+        },
+        {
+          "value": "194",
+          "rowHeaders": [
+            "Provider forgot"
+          ],
+          "columnHeaders": [
+            "Table 1 Participant yield by recruitment method",
+            "Table 1 Participant yield by recruitment method",
+            "Clinic-based (35 weeks)"
+          ]
+        },
+        {
+          "value": "117 (35%)",
+          "rowHeaders": [
+            "Patient declined participation"
+          ],
+          "columnHeaders": [
+            "Table 1 Participant yield by recruitment method",
+            "Table 1 Participant yield by recruitment method",
+            "Mailing plus telephone follow-up (11 weeks)"
+          ]
+        },
+        {
+          "value": "162 (49%)",
+          "rowHeaders": [
+            "Patient not able to be reached by telephone or mail"
+          ],
+          "columnHeaders": [
+            "Table 1 Participant yield by recruitment method",
+            "Table 1 Participant yield by recruitment method",
+            "Mailing plus telephone follow-up (11 weeks)"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "2 Baseline demographic, health, and moderate-to-vigorous physical activity characteristics",
+          "rowHeaders": [
+            "Table",
+            "Black"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline demographic, health, and moderate-to-vigorous physical activity characteristics"
+          ]
+        },
+        {
+          "value": "61.2 (7.61)",
+          "rowHeaders": [
+            "Age (years)",
+            "Less than high school",
+            "Normal weight"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline demographic, health, and moderate-to-vigorous physical activity characteristics",
+            "Total (N = 67)"
+          ]
+        },
+        {
+          "value": "61.6 (7.52)",
+          "rowHeaders": [
+            "Age (years)",
+            "College graduate or higher",
+            "Normal weight"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline demographic, health, and moderate-to-vigorous physical activity characteristics",
+            "Usual care (N = 35)"
+          ]
+        },
+        {
+          "value": "60.8 (7.81)",
+          "rowHeaders": [
+            "Age (years)",
+            "College graduate or higher",
+            "Normal weight"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline demographic, health, and moderate-to-vigorous physical activity characteristics",
+            "Intervention (N = 32)"
+          ]
+        },
+        {
+          "value": "9 (28.1%)",
+          "rowHeaders": [
+            "Body mass index (kg/m",
+            "Hispanic",
+            "Normal weight"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline demographic, health, and moderate-to-vigorous physical activity characteristics",
+            "Intervention (N = 32)"
+          ]
+        },
+        {
+          "value": "8 (11.9%)",
+          "rowHeaders": [
+            "Black",
+            "Normal weight"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline demographic, health, and moderate-to-vigorous physical activity characteristics",
+            "Total (N = 67)"
+          ]
+        },
+        {
+          "value": "5 (14.3%)",
+          "rowHeaders": [
+            "Black",
+            "Normal weight"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline demographic, health, and moderate-to-vigorous physical activity characteristics",
+            "Usual care (N = 35)"
+          ]
+        },
+        {
+          "value": "3 (9.4%)",
+          "rowHeaders": [
+            "Black",
+            "Normal weight"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline demographic, health, and moderate-to-vigorous physical activity characteristics",
+            "Intervention (N = 32)"
+          ]
+        },
+        {
+          "value": "5 (7.5%)",
+          "rowHeaders": [
+            "Body mass index (kg/m",
+            "Asian/PI",
+            "Normal weight"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline demographic, health, and moderate-to-vigorous physical activity characteristics",
+            "Total (N = 67)"
+          ]
+        },
+        {
+          "value": "0 (0%)",
+          "rowHeaders": [
+            "Body mass index (kg/m",
+            "Asian/PI",
+            "Normal weight"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline demographic, health, and moderate-to-vigorous physical activity characteristics",
+            "Usual care (N = 35)"
+          ]
+        },
+        {
+          "value": "5 (15.6%)",
+          "rowHeaders": [
+            "Body mass index (kg/m",
+            "Asian/PI",
+            "Normal weight"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline demographic, health, and moderate-to-vigorous physical activity characteristics",
+            "Intervention (N = 32)"
+          ]
+        },
+        {
+          "value": "5 (7.5%)",
+          "rowHeaders": [
+            "Other",
+            "Normal weight"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline demographic, health, and moderate-to-vigorous physical activity characteristics",
+            "Total (N = 67)"
+          ]
+        },
+        {
+          "value": "3 (8.6%)",
+          "rowHeaders": [
+            "Other",
+            "Normal weight"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline demographic, health, and moderate-to-vigorous physical activity characteristics",
+            "Usual care (N = 35)"
+          ]
+        },
+        {
+          "value": "2 (6.3%)",
+          "rowHeaders": [
+            "Other",
+            "Normal weight"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline demographic, health, and moderate-to-vigorous physical activity characteristics",
+            "Intervention (N = 32)"
+          ]
+        },
+        {
+          "value": "5 (7.5%)",
+          "rowHeaders": [
+            "Body mass index (kg/m",
+            "Less than high school",
+            "Normal weight"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline demographic, health, and moderate-to-vigorous physical activity characteristics",
+            "Total (N = 67)"
+          ]
+        },
+        {
+          "value": "2 (5.7%)",
+          "rowHeaders": [
+            "Body mass index (kg/m",
+            "Less than high school",
+            "Normal weight"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline demographic, health, and moderate-to-vigorous physical activity characteristics",
+            "Usual care (N = 35)"
+          ]
+        },
+        {
+          "value": "3 (9.4%)",
+          "rowHeaders": [
+            "Body mass index (kg/m",
+            "Hemoglobin A1c (%)",
+            "Less than high school"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline demographic, health, and moderate-to-vigorous physical activity characteristics",
+            "Intervention (N = 32)"
+          ]
+        },
+        {
+          "value": "9 (28.1%)",
+          "rowHeaders": [
+            "Body mass index (kg/m",
+            "High-density lipoprotein cholesterol (mg/dL)",
+            "College graduate or higher"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline demographic, health, and moderate-to-vigorous physical activity characteristics",
+            "Intervention (N = 32)"
+          ]
+        },
+        {
+          "value": "2",
+          "rowHeaders": [
+            "Other",
+            "Normal weight"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline demographic, health, and moderate-to-vigorous physical activity characteristics",
+            "Variable",
+            "Sex n (%) female",
+            "White",
+            "High school graduate/some college"
+          ]
+        },
+        {
+          "value": "31.9 (4.48)",
+          "rowHeaders": [
+            "Body mass index (kg/m",
+            "Normal weight"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline demographic, health, and moderate-to-vigorous physical activity characteristics",
+            "Total (N = 67)"
+          ]
+        },
+        {
+          "value": "32.5 (4.46)",
+          "rowHeaders": [
+            "Body mass index (kg/m",
+            "Hemoglobin A1c (%)"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline demographic, health, and moderate-to-vigorous physical activity characteristics",
+            "Usual care (N = 35)"
+          ]
+        },
+        {
+          "value": "31.2 (4.47)",
+          "rowHeaders": [
+            "Body mass index (kg/m",
+            "High-density lipoprotein cholesterol (mg/dL)"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline demographic, health, and moderate-to-vigorous physical activity characteristics",
+            "Intervention (N = 32)"
+          ]
+        },
+        {
+          "value": "4 (6%)",
+          "rowHeaders": [
+            "Body mass index (kg/m",
+            "College graduate or higher",
+            "Normal weight"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline demographic, health, and moderate-to-vigorous physical activity characteristics",
+            "Total (N = 67)"
+          ]
+        },
+        {
+          "value": "2 (5.7%)",
+          "rowHeaders": [
+            "Body mass index (kg/m",
+            "College graduate or higher",
+            "Normal weight"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline demographic, health, and moderate-to-vigorous physical activity characteristics",
+            "Usual care (N = 35)"
+          ]
+        },
+        {
+          "value": "2 (6.3%)",
+          "rowHeaders": [
+            "Body mass index (kg/m",
+            "High-density lipoprotein cholesterol (mg/dL)",
+            "College graduate or higher",
+            "Normal weight"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline demographic, health, and moderate-to-vigorous physical activity characteristics",
+            "Intervention (N = 32)"
+          ]
+        },
+        {
+          "value": "6 (17.1%)",
+          "rowHeaders": [
+            "Body mass index (kg/m",
+            "Overweight"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline demographic, health, and moderate-to-vigorous physical activity characteristics",
+            "Usual care (N = 35)"
+          ]
+        },
+        {
+          "value": "6.8 (1.21)",
+          "rowHeaders": [
+            "Body mass index (kg/m",
+            "Hemoglobin A1c (%)"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline demographic, health, and moderate-to-vigorous physical activity characteristics",
+            "Total (N = 67)"
+          ]
+        },
+        {
+          "value": "6.9 (1.26)",
+          "rowHeaders": [
+            "Body mass index (kg/m",
+            "High-density lipoprotein cholesterol (mg/dL)"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline demographic, health, and moderate-to-vigorous physical activity characteristics",
+            "Usual care (N = 35)"
+          ]
+        },
+        {
+          "value": "6.8 (1.18)",
+          "rowHeaders": [
+            "Body mass index (kg/m",
+            "High-density lipoprotein cholesterol (mg/dL)"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline demographic, health, and moderate-to-vigorous physical activity characteristics",
+            "Intervention (N = 32)"
+          ]
+        },
+        {
+          "value": "5.7%",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 2 Baseline demographic, health, and moderate-to-vigorous physical activity characteristics",
+            "Variable",
+            "Sex n (%) female",
+            "White",
+            "High school graduate/some college",
+            "Obese"
+          ]
+        },
+        {
+          "value": "6 (9%)",
+          "rowHeaders": [
+            "Systolic blood pressure (mmHg)"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline demographic, health, and moderate-to-vigorous physical activity characteristics",
+            "Total (N = 67)"
+          ]
+        },
+        {
+          "value": "3 (8.6%)",
+          "rowHeaders": [
+            "High-density lipoprotein cholesterol (mg/dL)"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline demographic, health, and moderate-to-vigorous physical activity characteristics",
+            "Usual care (N = 35)"
+          ]
+        },
+        {
+          "value": "3 (9.4%)",
+          "rowHeaders": [
+            "High-density lipoprotein cholesterol (mg/dL)"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline demographic, health, and moderate-to-vigorous physical activity characteristics",
+            "Intervention (N = 32)"
+          ]
+        },
+        {
+          "value": "8 (22.9%)",
+          "rowHeaders": [
+            "Body mass index (kg/m",
+            "High-density lipoprotein cholesterol (mg/dL)"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline demographic, health, and moderate-to-vigorous physical activity characteristics",
+            "Usual care (N = 35)"
+          ]
+        },
+        {
+          "value": "7 (21.9%)",
+          "rowHeaders": [
+            "Body mass index (kg/m",
+            "High-density lipoprotein cholesterol (mg/dL)"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline demographic, health, and moderate-to-vigorous physical activity characteristics",
+            "Intervention (N = 32)"
+          ]
+        },
+        {
+          "value": "8 (11.9%)",
+          "rowHeaders": [
+            "Body mass index (kg/m",
+            "High-density lipoprotein cholesterol (mg/dL)"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline demographic, health, and moderate-to-vigorous physical activity characteristics",
+            "Total (N = 67)"
+          ]
+        },
+        {
+          "value": "2 (5.7%)",
+          "rowHeaders": [
+            "Body mass index (kg/m",
+            "High-density lipoprotein cholesterol (mg/dL)"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline demographic, health, and moderate-to-vigorous physical activity characteristics",
+            "Usual care (N = 35)"
+          ]
+        },
+        {
+          "value": "6 (18.8%)",
+          "rowHeaders": [
+            "Body mass index (kg/m",
+            "High-density lipoprotein cholesterol (mg/dL)"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline demographic, health, and moderate-to-vigorous physical activity characteristics",
+            "Intervention (N = 32)"
+          ]
+        },
+        {
+          "value": "7 (10.4%)",
+          "rowHeaders": [
+            "High-density lipoprotein cholesterol (mg/dL)"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline demographic, health, and moderate-to-vigorous physical activity characteristics",
+            "Total (N = 67)"
+          ]
+        },
+        {
+          "value": "5 (14.3%)",
+          "rowHeaders": [
+            "Body mass index (kg/m",
+            "High-density lipoprotein cholesterol (mg/dL)"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline demographic, health, and moderate-to-vigorous physical activity characteristics",
+            "Usual care (N = 35)"
+          ]
+        },
+        {
+          "value": "2 (6.3%)",
+          "rowHeaders": [
+            "Body mass index (kg/m",
+            "High-density lipoprotein cholesterol (mg/dL)"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline demographic, health, and moderate-to-vigorous physical activity characteristics",
+            "Intervention (N = 32)"
+          ]
+        },
+        {
+          "value": "9.0%",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 2 Baseline demographic, health, and moderate-to-vigorous physical activity characteristics",
+            "Variable",
+            "Sex n (%) female",
+            "White",
+            "High school graduate/some college",
+            "Obese"
+          ]
+        },
+        {
+          "value": "5 (7.5%)",
+          "rowHeaders": [
+            "High-density lipoprotein cholesterol (mg/dL)"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline demographic, health, and moderate-to-vigorous physical activity characteristics",
+            "Total (N = 67)"
+          ]
+        },
+        {
+          "value": "3 (8.6%)",
+          "rowHeaders": [
+            "High-density lipoprotein cholesterol (mg/dL)"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline demographic, health, and moderate-to-vigorous physical activity characteristics",
+            "Usual care (N = 35)"
+          ]
+        },
+        {
+          "value": "2 (6.3%)",
+          "rowHeaders": [
+            "High-density lipoprotein cholesterol (mg/dL)"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline demographic, health, and moderate-to-vigorous physical activity characteristics",
+            "Intervention (N = 32)"
+          ]
+        },
+        {
+          "value": "130.7 (15.53)",
+          "rowHeaders": [
+            "Systolic blood pressure (mmHg)"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline demographic, health, and moderate-to-vigorous physical activity characteristics",
+            "Total (N = 67)"
+          ]
+        },
+        {
+          "value": "131.6 (15.38)",
+          "rowHeaders": [
+            "Body mass index (kg/m",
+            "Systolic blood pressure (mmHg)"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline demographic, health, and moderate-to-vigorous physical activity characteristics",
+            "Usual care (N = 35)"
+          ]
+        },
+        {
+          "value": "129.7 (15.88)",
+          "rowHeaders": [
+            "Body mass index (kg/m",
+            "Systolic blood pressure (mmHg)"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline demographic, health, and moderate-to-vigorous physical activity characteristics",
+            "Intervention (N = 32)"
+          ]
+        },
+        {
+          "value": "75.4 (7.40)",
+          "rowHeaders": [
+            "Diastolic blood pressure (mmHg)"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline demographic, health, and moderate-to-vigorous physical activity characteristics",
+            "Total (N = 67)"
+          ]
+        },
+        {
+          "value": "76.3 (6.57)",
+          "rowHeaders": [
+            "Diastolic blood pressure (mmHg)"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline demographic, health, and moderate-to-vigorous physical activity characteristics",
+            "Usual care (N = 35)"
+          ]
+        },
+        {
+          "value": "74.3 (8.20)",
+          "rowHeaders": [
+            "Body mass index (kg/m",
+            "Diastolic blood pressure (mmHg)"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline demographic, health, and moderate-to-vigorous physical activity characteristics",
+            "Intervention (N = 32)"
+          ]
+        },
+        {
+          "value": "172.7 (36.20)",
+          "rowHeaders": [
+            "Total cholesterol (mg/dL)"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline demographic, health, and moderate-to-vigorous physical activity characteristics",
+            "Total (N = 67)"
+          ]
+        },
+        {
+          "value": "166.6 (31.39)",
+          "rowHeaders": [
+            "Total cholesterol (mg/dL)"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline demographic, health, and moderate-to-vigorous physical activity characteristics",
+            "Usual care (N = 35)"
+          ]
+        },
+        {
+          "value": "179.3 (40.28)",
+          "rowHeaders": [
+            "Body mass index (kg/m",
+            "Total cholesterol (mg/dL)"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline demographic, health, and moderate-to-vigorous physical activity characteristics",
+            "Intervention (N = 32)"
+          ]
+        },
+        {
+          "value": "46.8 (12.33)",
+          "rowHeaders": [
+            "High-density lipoprotein cholesterol (mg/dL)"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline demographic, health, and moderate-to-vigorous physical activity characteristics",
+            "Total (N = 67)"
+          ]
+        },
+        {
+          "value": "45.1 (11.34)",
+          "rowHeaders": [
+            "High-density lipoprotein cholesterol (mg/dL)"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline demographic, health, and moderate-to-vigorous physical activity characteristics",
+            "Usual care (N = 35)"
+          ]
+        },
+        {
+          "value": "48.7 (13.24)",
+          "rowHeaders": [
+            "Body mass index (kg/m",
+            "High-density lipoprotein cholesterol (mg/dL)"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline demographic, health, and moderate-to-vigorous physical activity characteristics",
+            "Intervention (N = 32)"
+          ]
+        },
+        {
+          "value": "97.4 (31.97)",
+          "rowHeaders": [
+            "Low-density lipoprotein cholesterol (mg/dL)"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline demographic, health, and moderate-to-vigorous physical activity characteristics",
+            "Total (N = 67)"
+          ]
+        },
+        {
+          "value": "91.7 (27.52)",
+          "rowHeaders": [
+            "Low-density lipoprotein cholesterol (mg/dL)"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline demographic, health, and moderate-to-vigorous physical activity characteristics",
+            "Usual care (N = 35)"
+          ]
+        },
+        {
+          "value": "103.6 (35.61)",
+          "rowHeaders": [
+            "Low-density lipoprotein cholesterol (mg/dL)"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline demographic, health, and moderate-to-vigorous physical activity characteristics",
+            "Intervention (N = 32)"
+          ]
+        },
+        {
+          "value": "18.0 (15.13)",
+          "rowHeaders": [
+            "Moderate-to-vigorous activity (min/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline demographic, health, and moderate-to-vigorous physical activity characteristics",
+            "Total (N = 67)"
+          ]
+        },
+        {
+          "value": "22.6 (17.97)",
+          "rowHeaders": [
+            "Moderate-to-vigorous activity (min/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline demographic, health, and moderate-to-vigorous physical activity characteristics",
+            "Usual care (N = 35)"
+          ]
+        },
+        {
+          "value": "13.0 (9.11)",
+          "rowHeaders": [
+            "Moderate-to-vigorous activity (min/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline demographic, health, and moderate-to-vigorous physical activity characteristics",
+            "Intervention (N = 32)"
+          ]
+        },
+        {
+          "value": "15.2",
+          "rowHeaders": [
+            "Low-density lipoprotein cholesterol (mg/dL)",
+            "Median"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline demographic, health, and moderate-to-vigorous physical activity characteristics",
+            "Total (N = 67)"
+          ]
+        },
+        {
+          "value": "16.1",
+          "rowHeaders": [
+            "Low-density lipoprotein cholesterol (mg/dL)",
+            "Median"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline demographic, health, and moderate-to-vigorous physical activity characteristics",
+            "Usual care (N = 35)"
+          ]
+        },
+        {
+          "value": "12.9",
+          "rowHeaders": [
+            "High-density lipoprotein cholesterol (mg/dL)",
+            "Median"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline demographic, health, and moderate-to-vigorous physical activity characteristics",
+            "Intervention (N = 32)"
+          ]
+        },
+        {
+          "value": "8.0,",
+          "rowHeaders": [
+            "Low-density lipoprotein cholesterol (mg/dL)",
+            "Q1, Q3"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline demographic, health, and moderate-to-vigorous physical activity characteristics",
+            "Total (N = 67)"
+          ]
+        },
+        {
+          "value": "22.6",
+          "rowHeaders": [
+            "Low-density lipoprotein cholesterol (mg/dL)",
+            "Q1, Q3"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline demographic, health, and moderate-to-vigorous physical activity characteristics",
+            "Total (N = 67)"
+          ]
+        },
+        {
+          "value": "9.6,",
+          "rowHeaders": [
+            "Low-density lipoprotein cholesterol (mg/dL)",
+            "Q1, Q3"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline demographic, health, and moderate-to-vigorous physical activity characteristics",
+            "Usual care (N = 35)"
+          ]
+        },
+        {
+          "value": "29.3",
+          "rowHeaders": [
+            "Low-density lipoprotein cholesterol (mg/dL)",
+            "Q1, Q3"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline demographic, health, and moderate-to-vigorous physical activity characteristics",
+            "Usual care (N = 35)"
+          ]
+        },
+        {
+          "value": "3.5,",
+          "rowHeaders": [
+            "Low-density lipoprotein cholesterol (mg/dL)",
+            "Q1, Q3"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline demographic, health, and moderate-to-vigorous physical activity characteristics",
+            "Intervention (N = 32)"
+          ]
+        },
+        {
+          "value": "20.7",
+          "rowHeaders": [
+            "Low-density lipoprotein cholesterol (mg/dL)",
+            "Q1, Q3"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline demographic, health, and moderate-to-vigorous physical activity characteristics",
+            "Intervention (N = 32)"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "31.6 (30.6,",
+          "rowHeaders": [
+            "Moderate to vigorous activity (min/day)"
+          ],
+          "columnHeaders": [
+            "Table 3 Follow-up body mass index, blood pressure, and moderate-to-vigorous physical activity and 95% confidence intervals",
+            "Table 3 Follow-up body mass index, blood pressure, and moderate-to-vigorous physical activity and 95% confidence intervals",
+            "Usual care"
+          ]
+        },
+        {
+          "value": "32.5)",
+          "rowHeaders": [
+            "Moderate to vigorous activity (min/day)",
+            "N = 28"
+          ],
+          "columnHeaders": [
+            "Table 3 Follow-up body mass index, blood pressure, and moderate-to-vigorous physical activity and 95% confidence intervals",
+            "Table 3 Follow-up body mass index, blood pressure, and moderate-to-vigorous physical activity and 95% confidence intervals",
+            "Usual care"
+          ]
+        },
+        {
+          "value": "31.7 (30.8,",
+          "rowHeaders": [
+            "Moderate to vigorous activity (min/day)",
+            "N = 28"
+          ],
+          "columnHeaders": [
+            "Table 3 Follow-up body mass index, blood pressure, and moderate-to-vigorous physical activity and 95% confidence intervals",
+            "Table 3 Follow-up body mass index, blood pressure, and moderate-to-vigorous physical activity and 95% confidence intervals",
+            "Intervention"
+          ]
+        },
+        {
+          "value": "32.6)",
+          "rowHeaders": [
+            "Moderate to vigorous activity (min/day)",
+            "N = 28",
+            "N = 27"
+          ],
+          "columnHeaders": [
+            "Table 3 Follow-up body mass index, blood pressure, and moderate-to-vigorous physical activity and 95% confidence intervals",
+            "Table 3 Follow-up body mass index, blood pressure, and moderate-to-vigorous physical activity and 95% confidence intervals",
+            "Intervention"
+          ]
+        },
+        {
+          "value": "0.15 (−1.16,",
+          "rowHeaders": [
+            "Body mass index (kg/m",
+            "N = 28",
+            "N = 27"
+          ],
+          "columnHeaders": [
+            "Table 3 Follow-up body mass index, blood pressure, and moderate-to-vigorous physical activity and 95% confidence intervals",
+            "Table 3 Follow-up body mass index, blood pressure, and moderate-to-vigorous physical activity and 95% confidence intervals",
+            "Adjusted mean difference"
+          ]
+        },
+        {
+          "value": "1.47)",
+          "rowHeaders": [
+            "Body mass index (kg/m",
+            "N = 28",
+            "N = 27"
+          ],
+          "columnHeaders": [
+            "Table 3 Follow-up body mass index, blood pressure, and moderate-to-vigorous physical activity and 95% confidence intervals",
+            "Table 3 Follow-up body mass index, blood pressure, and moderate-to-vigorous physical activity and 95% confidence intervals",
+            "Adjusted mean difference"
+          ]
+        },
+        {
+          "value": "136.4 (129.7,",
+          "rowHeaders": [
+            "Moderate to vigorous activity (min/day)"
+          ],
+          "columnHeaders": [
+            "Table 3 Follow-up body mass index, blood pressure, and moderate-to-vigorous physical activity and 95% confidence intervals",
+            "Table 3 Follow-up body mass index, blood pressure, and moderate-to-vigorous physical activity and 95% confidence intervals",
+            "Usual care"
+          ]
+        },
+        {
+          "value": "143.0)",
+          "rowHeaders": [
+            "Moderate to vigorous activity (min/day)",
+            "N = 28"
+          ],
+          "columnHeaders": [
+            "Table 3 Follow-up body mass index, blood pressure, and moderate-to-vigorous physical activity and 95% confidence intervals",
+            "Table 3 Follow-up body mass index, blood pressure, and moderate-to-vigorous physical activity and 95% confidence intervals",
+            "Usual care"
+          ]
+        },
+        {
+          "value": "133.2 (126.3,",
+          "rowHeaders": [
+            "Moderate to vigorous activity (min/day)",
+            "N = 28"
+          ],
+          "columnHeaders": [
+            "Table 3 Follow-up body mass index, blood pressure, and moderate-to-vigorous physical activity and 95% confidence intervals",
+            "Table 3 Follow-up body mass index, blood pressure, and moderate-to-vigorous physical activity and 95% confidence intervals",
+            "Intervention"
+          ]
+        },
+        {
+          "value": "140.1)",
+          "rowHeaders": [
+            "Moderate to vigorous activity (min/day)",
+            "N = 28",
+            "N = 26"
+          ],
+          "columnHeaders": [
+            "Table 3 Follow-up body mass index, blood pressure, and moderate-to-vigorous physical activity and 95% confidence intervals",
+            "Table 3 Follow-up body mass index, blood pressure, and moderate-to-vigorous physical activity and 95% confidence intervals",
+            "Intervention"
+          ]
+        },
+        {
+          "value": "−3.17 (−12.77,",
+          "rowHeaders": [
+            "Systolic blood pressure (mmHg)",
+            "N = 28",
+            "N = 26"
+          ],
+          "columnHeaders": [
+            "Table 3 Follow-up body mass index, blood pressure, and moderate-to-vigorous physical activity and 95% confidence intervals",
+            "Table 3 Follow-up body mass index, blood pressure, and moderate-to-vigorous physical activity and 95% confidence intervals",
+            "Adjusted mean difference"
+          ]
+        },
+        {
+          "value": "6.43)",
+          "rowHeaders": [
+            "Systolic blood pressure (mmHg)",
+            "N = 28",
+            "N = 26"
+          ],
+          "columnHeaders": [
+            "Table 3 Follow-up body mass index, blood pressure, and moderate-to-vigorous physical activity and 95% confidence intervals",
+            "Table 3 Follow-up body mass index, blood pressure, and moderate-to-vigorous physical activity and 95% confidence intervals",
+            "Adjusted mean difference"
+          ]
+        },
+        {
+          "value": "76.4 (72.1,",
+          "rowHeaders": [
+            "Moderate to vigorous activity (min/day)"
+          ],
+          "columnHeaders": [
+            "Table 3 Follow-up body mass index, blood pressure, and moderate-to-vigorous physical activity and 95% confidence intervals",
+            "Table 3 Follow-up body mass index, blood pressure, and moderate-to-vigorous physical activity and 95% confidence intervals",
+            "Usual care"
+          ]
+        },
+        {
+          "value": "80.7)",
+          "rowHeaders": [
+            "Moderate to vigorous activity (min/day)",
+            "N = 28"
+          ],
+          "columnHeaders": [
+            "Table 3 Follow-up body mass index, blood pressure, and moderate-to-vigorous physical activity and 95% confidence intervals",
+            "Table 3 Follow-up body mass index, blood pressure, and moderate-to-vigorous physical activity and 95% confidence intervals",
+            "Usual care"
+          ]
+        },
+        {
+          "value": "76.2 (71.8,",
+          "rowHeaders": [
+            "Moderate to vigorous activity (min/day)",
+            "N = 28"
+          ],
+          "columnHeaders": [
+            "Table 3 Follow-up body mass index, blood pressure, and moderate-to-vigorous physical activity and 95% confidence intervals",
+            "Table 3 Follow-up body mass index, blood pressure, and moderate-to-vigorous physical activity and 95% confidence intervals",
+            "Intervention"
+          ]
+        },
+        {
+          "value": "80.7)",
+          "rowHeaders": [
+            "Moderate to vigorous activity (min/day)",
+            "N = 28",
+            "N = 26"
+          ],
+          "columnHeaders": [
+            "Table 3 Follow-up body mass index, blood pressure, and moderate-to-vigorous physical activity and 95% confidence intervals",
+            "Table 3 Follow-up body mass index, blood pressure, and moderate-to-vigorous physical activity and 95% confidence intervals",
+            "Intervention"
+          ]
+        },
+        {
+          "value": "−0.22 (−6.41,",
+          "rowHeaders": [
+            "Diastolic blood pressure (mmHg)",
+            "N = 28",
+            "N = 26"
+          ],
+          "columnHeaders": [
+            "Table 3 Follow-up body mass index, blood pressure, and moderate-to-vigorous physical activity and 95% confidence intervals",
+            "Table 3 Follow-up body mass index, blood pressure, and moderate-to-vigorous physical activity and 95% confidence intervals",
+            "Adjusted mean difference"
+          ]
+        },
+        {
+          "value": "5.98)",
+          "rowHeaders": [
+            "Diastolic blood pressure (mmHg)",
+            "N = 28",
+            "N = 26"
+          ],
+          "columnHeaders": [
+            "Table 3 Follow-up body mass index, blood pressure, and moderate-to-vigorous physical activity and 95% confidence intervals",
+            "Table 3 Follow-up body mass index, blood pressure, and moderate-to-vigorous physical activity and 95% confidence intervals",
+            "Adjusted mean difference"
+          ]
+        },
+        {
+          "value": "16.4 (7.7,",
+          "rowHeaders": [
+            "Moderate to vigorous activity (min/day)"
+          ],
+          "columnHeaders": [
+            "Table 3 Follow-up body mass index, blood pressure, and moderate-to-vigorous physical activity and 95% confidence intervals",
+            "Table 3 Follow-up body mass index, blood pressure, and moderate-to-vigorous physical activity and 95% confidence intervals",
+            "Usual care"
+          ]
+        },
+        {
+          "value": "25.2)",
+          "rowHeaders": [
+            "Moderate to vigorous activity (min/day)",
+            "N = 25"
+          ],
+          "columnHeaders": [
+            "Table 3 Follow-up body mass index, blood pressure, and moderate-to-vigorous physical activity and 95% confidence intervals",
+            "Table 3 Follow-up body mass index, blood pressure, and moderate-to-vigorous physical activity and 95% confidence intervals",
+            "Usual care"
+          ]
+        },
+        {
+          "value": "24.8 (16.6,",
+          "rowHeaders": [
+            "Moderate to vigorous activity (min/day)",
+            "N = 25"
+          ],
+          "columnHeaders": [
+            "Table 3 Follow-up body mass index, blood pressure, and moderate-to-vigorous physical activity and 95% confidence intervals",
+            "Table 3 Follow-up body mass index, blood pressure, and moderate-to-vigorous physical activity and 95% confidence intervals",
+            "Intervention"
+          ]
+        },
+        {
+          "value": "33.0)",
+          "rowHeaders": [
+            "Moderate to vigorous activity (min/day)",
+            "N = 25",
+            "N = 21"
+          ],
+          "columnHeaders": [
+            "Table 3 Follow-up body mass index, blood pressure, and moderate-to-vigorous physical activity and 95% confidence intervals",
+            "Table 3 Follow-up body mass index, blood pressure, and moderate-to-vigorous physical activity and 95% confidence intervals",
+            "Intervention"
+          ]
+        },
+        {
+          "value": "7.41 (−2.9,",
+          "rowHeaders": [
+            "Moderate to vigorous activity (min/day)",
+            "N = 25",
+            "N = 21"
+          ],
+          "columnHeaders": [
+            "Table 3 Follow-up body mass index, blood pressure, and moderate-to-vigorous physical activity and 95% confidence intervals",
+            "Table 3 Follow-up body mass index, blood pressure, and moderate-to-vigorous physical activity and 95% confidence intervals",
+            "Adjusted mean difference"
+          ]
+        },
+        {
+          "value": "17.4)",
+          "rowHeaders": [
+            "Moderate to vigorous activity (min/day)",
+            "N = 25",
+            "N = 21"
+          ],
+          "columnHeaders": [
+            "Table 3 Follow-up body mass index, blood pressure, and moderate-to-vigorous physical activity and 95% confidence intervals",
+            "Table 3 Follow-up body mass index, blood pressure, and moderate-to-vigorous physical activity and 95% confidence intervals",
+            "Adjusted mean difference"
+          ]
+        }
+      ],
+      "page": 1
+    }
+  ]
+}

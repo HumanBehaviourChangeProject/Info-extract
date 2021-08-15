@@ -1,0 +1,3202 @@
+{
+  "blocks": [
+    {
+      "type": "LINES",
+      "value": "'Physical Activity 4 Everyone' school-based intervention to prevent decline in adolescent physical activity levels: 12 month (mid-intervention) report on a cluster randomised trial",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "ABSTRACT Background Adolescence is a recognised period of physical activity decline, particularly among low-income communities. We report the 12-month (midpoint) effects of a 2-year multicomponent physical activity intervention implemented in disadvantaged secondary schools. Methods A cluster randomised trial was undertaken in 10 secondary schools located in disadvantaged areas in New South Wales, Australia. Students in Grade 7 were recruited, with follow-up in Grade 8. The intervention was guided by socioecological theory and included seven physical activity strategies, and six implementation adoption strategies. The primary outcome was mean minutes of moderate-to-vigorous physical activity (MVPA) per day assessed using Actigraph GT3X accelerometers. Outcome data were analysed using repeated measures linear mixed models. Results At baseline, 1150 (93%) students participated in the data collection (mean age 12 years, 48% boys) and 1050 (79%) students participated at 12-month follow-up. By the 12-month follow-up, the six implementation adoption strategies had been used to support schools to deliver four of the seven physical activity elements. There was a significant group-by-time interaction for mean minutes of MVPA per day in favour of the intervention group (adjusted difference between groups at follow-up=3.85 min, 95% CI (0.79 to 6.91), p≤0.01), including significantly more vigorous physical activity (2.45 min, p≤0.01), equating to 27 min more MVPA per week. Summary At 12-month follow-up, the intervention had reduced the decline in physical activity among adolescents from disadvantaged schools. The intervention may assist students to meet physical activity guidelines.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Participation in adequate physical activity has numerous physical and psychological health benefits. 1 Despite this, the proportion of adolescents who are adequately active is consistently low, with as few as 20% meeting physical activity guidelines of 60 min MVPA per day. International data indicate a significant inverse association between physical activity and socioeconomic status (SES), with adolescents from disadvantaged backgrounds experiencing a steeper decline in physical activity. As physical inactivity tends to track into adulthood, reducing this decline is a public health priority. Schools provide access to almost all adolescents over extended periods of time. Schools have qualified staff such as physical education (PE) teachers, resources including sporting equipment and facilities, and a mandate to implement curriculum that promotes physical activity. Based on a number of systematic reviews, there is evidence that school-based interventions are effective in increasing the proportion of students who are physically active, the length of time spent being active, and student fitness levels. However, such evidence is primarily focused on children of elementary school age (5-12 years), with very few studies focusing on adolescents. Systematic reviews of physical activity interventions for children and adolescents conclude that interventions were more likely to be successful if they were multicomponent, longer in duration and based on theory. 10 Such reviews recommended that future trials include the use of an objective measure of physical activity, measurement of total daily physical activity, use clear intervention implementation strategies, focus on low-socioeconomic groups, focus on interventions targeting adolescents, have an intervention duration spanning greater than 12 months, and employ longer follow-up.\nOf the fourteen interventions targeting schoolbased physical activity in adolescents, only five studies have specifically targeted disadvantaged secondary school students. Of these, three have tested single sex interventions, and the studies did not demonstrate a positive intervention effect on physical activity. The two remaining intervention trials both used an objective measure of physical activity and were able to demonstrate an intervention effect. However, both interventions were of short duration, weeks and 6 months, respectively. Given the limited number of effective interventions targeting greater physical activity among adolescents from disadvantaged backgrounds, the primary aim of this study was to report on the 12-month, mid-intervention impact of a 2-year multicomponent physical activity intervention implemented in disadvantaged secondary schools, which aimed to reduce the decline in physical activity associated with adolescence. Subgroup analyses for sex, baseline weight status and baseline activity level are also reported.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The Physical Activity 4 Everyone (PA4E1) study was a multicomponent school-based cluster randomised trial with study assessments conducted at baseline, 12 months (midintervention) and 24 months. The trial was conducted in three local government areas (Hunter, Central Coast and Mid-North Coast) in the state of New South Wales (NSW), Australia. The regions have lower average indices of socioeconomic status than the state. The trial was registered with the Australian New Zealand Clinical Trials Registry (ACTRN1261200038287) and approved by the Hunter New England Area Human Research Ethics Committee (11/03/16/4.0), and University of Newcastle Human Research Ethics Committee (H-2011-0210). A trial protocol has been published elsewhere. The study adheres to the Consolidated Standards of Reporting Trials (CONSORT) guidelines (http://www.consort-statement.org).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The Socioeconomic Indexes for Areas (SEIFA) of relative socioeconomic disadvantage were used to identify eligible secondary schools. The SEIFA (scale: 1=lowest to 10=highest) summarises the characteristics of people and households within an area and is based on postcode. Secondary schools were considered eligible if they met the following criteria: Government and Catholic schools; schools with a SEIFA score of 5 or less (bottom 50% of NSW) ; between 120 and 200 year 7 students (to meet sample size requirements); and were not participating in other physical activity intervention studies. Recruitment of schools occurred from October to December 2011. An invitation to participate was sent to the first 10 randomly selected schools. Thirteen schools were approached to obtain a sample of 10 schools.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "All students in Grade 7 (first year of secondary school) at participating schools were invited to take part via an information package sent to their parents. Parental consent was obtained via returned consent form. If a consent form was not obtained, parents were contacted via telephone and asked to provide consent.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "All PE teachers at intervention schools were invited to complete a pen and paper survey. Consent was obtained via return survey.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Randomisation and allocation of schools to the intervention or control group occurred after baseline data collection. Using block randomisation (1:1 ratio), schools were allocated based on a random number function in Microsoft Excel. Schools were randomly allocated to receive either a multicomponent intervention that was implemented during school terms and started after baseline data collection in June 2012, or to a control group.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The 24-month PA4E1 intervention was designed as a multicomponent school-based programme guided by social cognitive and social-ecological theories. The strategies implemented in the intervention addressed the domains of the WHO's Health Promoting Schools framework targeting the curriculum, school environment and community. The intervention comprised seven physical activity strategies to be implemented in a staged fashion over the intervention period (see figure for strategies and the standards set to be achieved for each). The strategies were: 'Formal Curriculum'-(1) teaching strategies to maximise activity in PE lessons, including pedometer-based lessons, (2) development of individual student physical activity plans, (3) enhanced school sport for all students (to be delivered in Grade (8); 'School Ethos and Environment'-(4) school physical activity policies, (5) offering physical activity in school breaks (lunch and recess); 'Partnerships and Services'-(6) linking schools to community physical activity providers, (7) parent engagement. By 12-month follow-up, implementation duration within intervention schools ranged from two to three school terms (each term was 10 weeks in duration). Implementation of four of the seven physical activity strategies started (strategies 1, 2, 5, 7 above).\nFigure summarises the physical activity strategies delivered, the adoption strategies used to facilitate their delivery and the desired standard and dose delivered within the first 12 months of the intervention period. In the first 12-month period, two curriculum-based strategies started, including teaching strategies to maximise activity in PE and the development of individualised student physical activity plans. To facilitate adoption, PE teachers were provided training on strategies to maximise physical activity in PE, prompted by the change agent to teach pedometer-based lessons and support students to complete personalised physical activity plans, were given resources (such as templates and instructions for use) to support students in developing personal activity plans, and given feedback on activity levels in PE based on SOFIT observations. One strategy targeting the school ethos and environment started within the first 12-month period. Offering physical activity in school breaks (lunch and/or recess) started in each school twice per week. Schools were provided equipment, including a variety of balls, hoops and ropes in a secure locked box to facilitate the start of these activities. The final strategy to start within the first 12-month period focused on parent engagement, whereby hard copy newsletters and websites were used to provide parents with updates in the programme being implemented at school plus articles about ways to support students to be active outside of the school. To facilitate the adoption of these physical activity strategies, schools established committees to oversee the changes and were provided with feedback reports outlining the schools progress towards programme adoption at the end of each term. Meetings were held with school executives, PE teachers and the school change agent to communicate the content of each feedback report.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Schools allocated to the control group participated in the measurement components of the study only. They were asked to continue with their usual physical activity practices, including time table-based Health and Physical Education lessons, school sport, breaks for recess and lunch and any scheduled professional development for teachers.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Data collection was undertaken by trained research assistants, blinded to group allocation. Baseline data were collected from March to June 2012, and 12-month follow-up data (midintervention) data collected from the same cohort of students 12 months later in March-June 2013. The average duration between baseline and follow-up measurements for all schools was 12 months.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Physical activity was measured using accelerometers (Actigraph GT3X+ and GT3X models). Mean minutes of MVPA per day was the primary outcome. Additional outcome measures included: (1) percentage of time spent in MVPA per day (calculated to adjust for individual wear time), (2) mean minutes per day and percentage wear time for moderate physical activity, (3) mean minutes per day and percentage of wear time in vigorous physical activity, (4) accelerometer counts per minute (CPM). Counts were collected in 15 s epochs and CPM calculated by dividing the total counts per day by the minutes of wear time. The proportion of students meeting physical activity guidelines of 60 min of MVPA/day has also been reported.\nAccelerometers and instructions for use were distributed to students within class time when students also completed an online survey and had anthropometric measures taken. Students were requested to wear the accelerometer over the right hip during waking hours for seven consecutive days. Student and parent mobile numbers were collected via the consent form, and these were used to text daily reminders to wear the accelerometer. Student data were included in the analysis if the accelerometer was worn for ≥600 min on ≥3 days. Non-wear time was defined as 30 min of consecutive zeros. The Everson cutpoints were used to categorise different intensities of physical activity.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Student anthropometric data, including height, weight (used to calculate body mass index (BMI)) and waist circumference was collected in duplicate using the International Society for the Advancement of Kinanthropometry (ISAK) procedures. Weight was measured in light clothing without shoes using a portable digital scale (Model no. UC-321PC, A&D Company Ltd., Tokyo, Japan) to the nearest 0.1 kg. Height was recorded to the nearest 0.1 cm using a portable stadiometer (Model no. PE087, Mentone Educational Centre, Australia). Weight status (BMI) was determined using International Obesity Taskforce definitions. Waist measurement was taken at the narrowest point between the inferior rib border and the iliac crest, using a flexible but inelastic tape measure. Waist circumference was recorded to the nearest 0.1 cm.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Students completed an online survey that assessed student sociodemographic characteristics, including age, sex, Aboriginal or Torres Strait Islander status, and postcode of residence. The online survey also included other measures that were not included in the current paper (eg, physical activity mediators).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Table outlines process evaluation data collected from teachers and students at 12-month follow-up. At 12-month follow-up, 95.5% of teachers reported using pedometers to increase activity levels in PE, 70.3% reported incorporating student personal physical activity plans each term and providing feedback to students on these plans, and 75% reported the school offered organised physical activity at recess and/or lunchtimes, at least twice per week. The school change agent records showed that all schools had started use of the pedometers in PE classes, with four of the five schools (80%) using them with the desired frequency (figure). Similarly, while all schools had administered student physical activity plans at least once, three (60%) had administered these as per the desired termly standard (2 or 3 per student). All schools had implemented recess and/or lunch activities at least once per week, and four (80%) had these implemented at least twice per week. All schools had provided parents with additional information regarding physical activity via newsletters and the school website with the requested termly frequency.\nAt 12-month follow-up, 92.7% of students reported being offered pedometer-based PE lessons at least twice per term, 51.6% reported completing a personal physical activity plan at least once, and 55.8% reported that the school offered organised physical activity at recess and/or lunch. When the results were compared for male and female students, and for students grouped according to baseline weight and physical activity status, the only statistically significant difference was that male students were more likely than female students to report the school offered recess and/or lunch physical activities (61.5% vs 50.9% ( p=0.03); table).\nThe adoption strategies outlined in figure were being used consistently in all intervention schools. All schools had formed committees to oversee the implementation of physical activity strategies and had at least 2-3 meetings; the school change agent attended each school for 1 day per week and all schools had at least one staff member attend the professional development (range 1-4 staff ). The school change agent sent weekly prompts to PE teachers encouraging pedometer-based PE lessons and completion of student physical activity plans. A range of equipment to facilitate recess and/or lunch activities and a storage box were delivered to each school, and feedback reports outlining progress against each strategy were delivered and discussed with school executives and the head PE teacher at the end of each school term.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Based on an estimate of 120 students per school and 50% of year 7 students consenting, it was estimated each school should yield at least 60 students, providing at least students per group. Based on 65% of the cohort providing usable data at 24-month follow-up, it was estimated that there would beat least 195 students per group at follow-up. Previous studies were used to estimate the SD of mean daily minutes MVPA per group (17.1) and the intraclass correlation coefficient (ICC; 0.01). After adjustment for the design effect of 1.38, the effective sample size was estimated to beat least 141 students per group. With this sample size, 80% power and an α level of 0.05, the study was able to detect a difference in the mean daily MVPA between intervention and control students of ±5.73 min at follow-up.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "All analyses were conducted using SAS V.9.2 (SAS Institute Inc, Cary, North Carolina, USA). Summary statistics were created for the variables of interest (student sex, age, aboriginality, height, weight, BMI, activity level, SES) and accelerometer wear time. T tests were used to determine if students who provided data at 12-month follow-up differed to those that only provided baseline data on the following characteristics-sex, baseline age, weight status and physical activity level. Significance levels were set at p≤0.05.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Analyses followed intention-to-treat principles. Analysis of the primary outcome (minutes of MVPA/day), and of the additional physical activity outcome variables (% of wear time spent in MVPA/ day; mean minutes and % wear time in moderate physical activity and vigorous physical activity and accelerometer CPM) were facilitated through a linear mixed model (LMM). These statistical models are preferable as they are robust to the biases of missing data. A three-level hierarchical model was used to capture the correlations in the data with random intercepts for repeated measures (level-1) on individuals (level-2) and clustering within schools (level-3). LMM analysis was used to determine whether the change in physical activity between intervention and control groups differed significantly after 12 months, assessed through an interaction term between group (intervention vs control) and time (baseline vs follow-up). The data were analysed assuming data were 'missing at random'. Descriptive statistics were used to describe the proportion of students in each group meeting the physical activity guidelines of 60 min MVPA per day.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Sex, baseline weight status and baseline activity level were the variables chosen a priori as these are common moderators of energy balance interventions. Students' baseline BMI were categorised into two groups: 'underweight/healthy weight' and 'overweight/obese' based on the Cole cut-points. Baseline student activity level was categorised as those who obtained 60 minor more of MVPA per day (meeting the guidelines), and those with less than 60 min of MVPA each day (not meeting the physical activity guidelines). We included moderator interaction terms in the above LMM separately for all potential moderators and presented the results by mediator subgroup if the test for three-way interaction term (group×time×moderator) was significant at the liberal 20% threshold.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Ten schools were recruited to the study, which included four Government and one Catholic secondary school in the intervention group and control group. Thirty-three PE teachers (100%) in intervention schools completed the pen and paper survey. Parental consent was received from 1233 of the 1468 (84%) year 7 students. Figure outlines the flow of participants from recruitment to 12-month follow-up. Baseline characteristics of the 1150 students who wore an accelerometer (93% of those with parental consent) are outlined in table 1.\nAt baseline, 78% of those students who wore an accelerometer provided at least three days of valid accelerometer data (965/1150). At 12-month follow-up, 1050 students wore an accelerometer and 61% of these students provided at least 3 days of valid accelerometer data (643/1050). We found baseline weight and age were predictive of dropout at 12 months, with higher BMI and younger students more likely to dropout (p=≤0.001 and p=≤0.001, respectively). A sensitivity analysis was conducted on the main outcome, adjusting for baseline weight and age, with minimal difference in the result detected; therefore, unadjusted results are presented.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Physical activity outcomes from baseline to 12-month follow-up are presented in table 2. At 12-month follow-up, students in the intervention group participated in statistically significant more minutes per day of MVPA than students in the control group (adjusted difference=3.85 min (0.79 to 6.91), p=0.01).\nThe intervention group spent significantly more time in vigorous activity each day (adjusted difference=2.45 min (0.90 to 4.00), p=≤0.01), but not moderate physical activity. The percent time spent in MVPA (0.5% (0.11 to 0.90)) and vigorous activity (0.3%) (0.12 to 0.52)) also differed significantly between groups at 12 month follow-up ( p=0.01 and p=≤0.01, respectively) in favour of the intervention group. Mean accelerometer CPM was significantly different between groups at 12-month follow-up in favour of the intervention group (31.02 CPM, (9.05 to 53.00), p=0.01). The proportion of students meeting the physical activity guidelines were 33% at baseline and 34% at 12-month follow-up in the intervention group, and 34% at baseline and 28% at 12-month follow-up in the control group.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The subgroup interaction term indicated time by intervention effects that differed by subgroup for each variable: sex (p≤0.01), baseline weight status (p=≤0.01) and baseline physical activity status ( p=≤0.01); therefore subgroup analyses were progressed for each. The 12-month physical activity analyses by subgroup are reported in table 3. A greater effect was observed in male students in the intervention group compared with the control group on mean minutes of MVPA per day (6.47 min (1.24 to 12.95), p=0.02) and percentage of wear time spent in MVPA (0.9%, p=0.02). No significant differences between groups for females were observed at 12-month follow-up. There were no detected differences between intervention and control based on weight status or activity level detected.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "We report the 12-month mid-intervention findings from a multicomponent physical activity intervention implemented in disadvantaged secondary schools. At 12-month follow-up, students attending intervention schools participated in nearly 4 min more MVPA per day than control group students. To some readers, this may not sound like a clinically meaningful difference. However, it represents 27 min more of MVPA over the course of a week.\nSmall, but clinically significant effect at 1 year Research in children and adolescents has identified a doseresponse relationship between the total volume of MVPA and a reduction in cardiometabolic risk; therefore, any increase in MVPA has public health benefit. Students in the intervention group participated in significantly more vigorous activity and spent a greater proportion of time in MVPA and vigorous activity each day. We suggest that this magnitude of change in physical activity, particularly the increase in vigorous activity, is clinically meaningful, and may facilitate the prevention of chronic disease such as type 2 diabetes and obesity. The results displayed at 12 months extend the results described in a meta-analysis of physical activity interventions in children and adolescents; 51 however, most interventions focus on children and few on adolescents. As a result, the effect size seems larger than other school-based interventions targeting adolescents. Of the interventions targeting adolescents that have been effective, two studies published midintervention findings, both of which showed no significant intervention effect. Other school-based interventions targeting adolescents demonstrated positive postintervention findings in favour of the intervention group, with effect sizes  More recently, three interventions have specifically targeted adolescents from lower socioeconomic backgrounds; however, none have shown a significant intervention effect on MVPA. Given the challenges in conducting intervention research targeting disadvantaged adolescents and schools, a positive mid-intervention effect demonstrates potential to intervene with this target group.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The PA4E1 intervention differed from previous trials as it focused on students attending schools located in disadvantaged areas, targeted the whole school community while incorporating strategies to engage low-active students. In addition, the PA4E1 intervention was longer in duration, and included a school change agent position within a set of clear adoption  strategies. Including explicit implementation strategies, as recommended in systematic reviews, may explain our positive findings.\nIn particular, the change agent, someone located within the school 1 day per week to support schools in implementing the physical activity strategies (not to deliver them) is novel. Schools often report time and demanding workloads as barriers to implementing intervention strategies. The addition of a change agent aims to overcome these barriers, and maximise intervention reach and fidelity. The addition of a further three physical activity strategies to the PA4E1 intervention in the second phase of intervention, may enhance the likelihood of sustained success. Systematic reviews have concluded that study duration, study size and positive mid-intervention results are associated with a significant intervention effect at follow-up.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "As subgroup analyses were exploratory due to limited power, results should be seen as suggestive and interpreted with caution. At 12-month follow-up, the results were only statistically significant for boys-the intervention appeared to be effective for male students, but there was no significant effect among females. These results are in contrast to a systematic review by Yildirim finding girls responded better to interventions than boys. If our midpoint assessment holds true, it would have heath implications as female students who participate in less MVPA per day are less likely to achieve the daily physical activity guidelines and reduce their activity throughout adolescence at a faster rate. Although programme records showed that recess and lunch activities were offered in all intervention schools, girls were less likely to report that their school offered organised recess and lunchtime physical activities compared to boys; a substantial proportion of both sexes were not aware of the activities. As physical activity during recess and lunch has been reported to contribute as much as 40% towards daily physical activity recommendations, the introduction of recess and lunchtime activities that are more evident to students, especially those that appeal to girls, seems an important consideration for future research. However, our mid-intervention results may also indicate girls take longer to respond to interventions than boys.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The strengths of this study include the group randomised controlled design, use of an objective measure of physical activity, the focus on disadvantaged populations and the multicomponent socioecological design. However, there are limitations. Obtaining valid accelerometer data in this age group was challenging, as has been discussed elsewhere.\nAlthough a high proportion of students who participated in baseline also participated at midpoint (84%), only 61% of the baseline sample provided at least three days of valid data at 12 months. This decrease, however, seems consistent with other studies for this target group. Lubans et al 62 found that although 79% to 85% of the baseline sample was retained after 12 months, only 53.5% of the sample of disadvantaged girls provided three or more days of valid accelerometer data. Similarly, only 64% of students in the HEIA study in Norway provided useable accelerometer data at the 20-month postintervention. Although accelerometers are considered the optimal method for measuring physical activity, compliance to protocols among the students, particularly disadvantaged students, has been documented as a challenge. The study did not assess maturation status, which is known to impact on physical activity levels of adolescents. In summary, the mid-intervention effects of PA4E1 demonstrates the potential to implement a multicomponent schoolbased intervention in disadvantaged secondary schools. We will report 24-month follow-up as that is the primary outcome of the study.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "▸ School-based physical activity interventions targeting adolescents from disadvantaged schools are feasible and can produce meaningful physical activity effects. ▸ Interventions with positive mid-intervention effects are more likely to have significant effects at follow-up and therefore, the Physical Activity 4 Everyone intervention shows promising signs for impacting on physical activity levels of disadvantaged adolescents. ▸ At mid-intervention, the intervention appears to be impacting more on male students.\nHow might it impact on clinical practice in the near future?\n▸ Multicomponent school-based interventions that include strategies across the domains of the socioecological framework, such as increasing physical activity level in physical education, recess and/or lunch activities and linking with parents can improve physical activity levels of disadvantaged adolescents. ▸ Intervention adoption strategies appear important particularly in this setting/population.\n",
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "12.0",
+          "rowHeaders": [
+            "Mean age (years)"
+          ],
+          "columnHeaders": [
+            "Table 1 PA4E1 sample characteristics at baseline",
+            "PA4E1 sample characteristics at baseline",
+            "Intervention",
+            "group"
+          ]
+        },
+        {
+          "value": "12.0",
+          "rowHeaders": [
+            "Mean age (years)"
+          ],
+          "columnHeaders": [
+            "Table 1 PA4E1 sample characteristics at baseline",
+            "PA4E1 sample characteristics at baseline",
+            "Control",
+            "group"
+          ]
+        },
+        {
+          "value": "5.3",
+          "rowHeaders": [
+            "Aboriginal and/or Torres Strait Islander (%)"
+          ],
+          "columnHeaders": [
+            "Table 1 PA4E1 sample characteristics at baseline",
+            "PA4E1 sample characteristics at baseline",
+            "Intervention",
+            "group"
+          ]
+        },
+        {
+          "value": "7.8",
+          "rowHeaders": [
+            "Aboriginal and/or Torres Strait Islander (%)"
+          ],
+          "columnHeaders": [
+            "Table 1 PA4E1 sample characteristics at baseline",
+            "PA4E1 sample characteristics at baseline",
+            "Control",
+            "group"
+          ]
+        },
+        {
+          "value": "157.1",
+          "rowHeaders": [
+            "Height, (mean m)"
+          ],
+          "columnHeaders": [
+            "Table 1 PA4E1 sample characteristics at baseline",
+            "PA4E1 sample characteristics at baseline",
+            "Intervention",
+            "group"
+          ]
+        },
+        {
+          "value": "156.8",
+          "rowHeaders": [
+            "Height, (mean m)"
+          ],
+          "columnHeaders": [
+            "Table 1 PA4E1 sample characteristics at baseline",
+            "PA4E1 sample characteristics at baseline",
+            "Control",
+            "group"
+          ]
+        },
+        {
+          "value": "49.3",
+          "rowHeaders": [
+            "Weight, (mean kg)"
+          ],
+          "columnHeaders": [
+            "Table 1 PA4E1 sample characteristics at baseline",
+            "PA4E1 sample characteristics at baseline",
+            "Intervention",
+            "group"
+          ]
+        },
+        {
+          "value": "50.0",
+          "rowHeaders": [
+            "Weight, (mean kg)"
+          ],
+          "columnHeaders": [
+            "Table 1 PA4E1 sample characteristics at baseline",
+            "PA4E1 sample characteristics at baseline",
+            "Control",
+            "group"
+          ]
+        },
+        {
+          "value": "77.5%",
+          "rowHeaders": [
+            "All students"
+          ],
+          "columnHeaders": [
+            "Table 1 PA4E1 sample characteristics at baseline",
+            "PA4E1 sample characteristics at baseline",
+            "Intervention",
+            "group"
+          ]
+        },
+        {
+          "value": "74.0%",
+          "rowHeaders": [
+            "All students"
+          ],
+          "columnHeaders": [
+            "Table 1 PA4E1 sample characteristics at baseline",
+            "PA4E1 sample characteristics at baseline",
+            "Control",
+            "group"
+          ]
+        },
+        {
+          "value": "78.3%",
+          "rowHeaders": [
+            "Boys"
+          ],
+          "columnHeaders": [
+            "Table 1 PA4E1 sample characteristics at baseline",
+            "PA4E1 sample characteristics at baseline",
+            "Intervention",
+            "group"
+          ]
+        },
+        {
+          "value": "74.4%",
+          "rowHeaders": [
+            "Boys"
+          ],
+          "columnHeaders": [
+            "Table 1 PA4E1 sample characteristics at baseline",
+            "PA4E1 sample characteristics at baseline",
+            "Control",
+            "group"
+          ]
+        },
+        {
+          "value": "77.2%",
+          "rowHeaders": [
+            "Girls"
+          ],
+          "columnHeaders": [
+            "Table 1 PA4E1 sample characteristics at baseline",
+            "PA4E1 sample characteristics at baseline",
+            "Intervention",
+            "group"
+          ]
+        },
+        {
+          "value": "73.7%",
+          "rowHeaders": [
+            "Girls"
+          ],
+          "columnHeaders": [
+            "Table 1 PA4E1 sample characteristics at baseline",
+            "PA4E1 sample characteristics at baseline",
+            "Control",
+            "group"
+          ]
+        },
+        {
+          "value": "21.8%",
+          "rowHeaders": [
+            "All students"
+          ],
+          "columnHeaders": [
+            "Table 1 PA4E1 sample characteristics at baseline",
+            "PA4E1 sample characteristics at baseline",
+            "Intervention",
+            "group"
+          ]
+        },
+        {
+          "value": "26.0%",
+          "rowHeaders": [
+            "All students"
+          ],
+          "columnHeaders": [
+            "Table 1 PA4E1 sample characteristics at baseline",
+            "PA4E1 sample characteristics at baseline",
+            "Control",
+            "group"
+          ]
+        },
+        {
+          "value": "21.9%",
+          "rowHeaders": [
+            "Boys"
+          ],
+          "columnHeaders": [
+            "Table 1 PA4E1 sample characteristics at baseline",
+            "PA4E1 sample characteristics at baseline",
+            "Intervention",
+            "group"
+          ]
+        },
+        {
+          "value": "24.4%",
+          "rowHeaders": [
+            "Boys"
+          ],
+          "columnHeaders": [
+            "Table 1 PA4E1 sample characteristics at baseline",
+            "PA4E1 sample characteristics at baseline",
+            "Control",
+            "group"
+          ]
+        },
+        {
+          "value": "22.9%",
+          "rowHeaders": [
+            "Girls"
+          ],
+          "columnHeaders": [
+            "Table 1 PA4E1 sample characteristics at baseline",
+            "PA4E1 sample characteristics at baseline",
+            "Intervention",
+            "group"
+          ]
+        },
+        {
+          "value": "26.9%",
+          "rowHeaders": [
+            "Girls"
+          ],
+          "columnHeaders": [
+            "Table 1 PA4E1 sample characteristics at baseline",
+            "PA4E1 sample characteristics at baseline",
+            "Control",
+            "group"
+          ]
+        },
+        {
+          "value": "57.8%",
+          "rowHeaders": [
+            "Low SES"
+          ],
+          "columnHeaders": [
+            "Table 1 PA4E1 sample characteristics at baseline",
+            "PA4E1 sample characteristics at baseline",
+            "Intervention",
+            "group"
+          ]
+        },
+        {
+          "value": "793.6",
+          "rowHeaders": [
+            "Low SES"
+          ],
+          "columnHeaders": [
+            "Table 1 PA4E1 sample characteristics at baseline",
+            "PA4E1 sample characteristics at baseline",
+            "Intervention",
+            "group"
+          ]
+        },
+        {
+          "value": "804.6",
+          "rowHeaders": [
+            "Low SES"
+          ],
+          "columnHeaders": [
+            "Table 1 PA4E1 sample characteristics at baseline",
+            "PA4E1 sample characteristics at baseline",
+            "Control",
+            "group"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "53.3",
+          "rowHeaders": [
+            "Total MVPA",
+            "Counts per minute"
+          ],
+          "columnHeaders": [
+            "Table 2 Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Intervention",
+            "BASELINE",
+            "(n=524)"
+          ]
+        },
+        {
+          "value": "54.2",
+          "rowHeaders": [
+            "Total MVPA",
+            "Counts per minute"
+          ],
+          "columnHeaders": [
+            "Table 2 Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Intervention",
+            "MIDPOINT",
+            "(n=352)"
+          ]
+        },
+        {
+          "value": "0.55",
+          "rowHeaders": [
+            "Total MVPA",
+            "Counts per minute"
+          ],
+          "columnHeaders": [
+            "Table 2 Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Control",
+            "MIDPOINT",
+            "p Value"
+          ]
+        },
+        {
+          "value": "53.6",
+          "rowHeaders": [
+            "Total MVPA",
+            "Counts per minute"
+          ],
+          "columnHeaders": [
+            "Table 2 Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Control",
+            "BASELINE",
+            "(n=435)"
+          ]
+        },
+        {
+          "value": "50.8",
+          "rowHeaders": [
+            "Total MVPA",
+            "Counts per minute"
+          ],
+          "columnHeaders": [
+            "Table 2 Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Control",
+            "MIDPOINT",
+            "(n=288)"
+          ]
+        },
+        {
+          "value": "0.07",
+          "rowHeaders": [
+            "Total MVPA",
+            "Counts per minute"
+          ],
+          "columnHeaders": [
+            "Table 2 Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Control",
+            "MIDPOINT",
+            "p Value"
+          ]
+        },
+        {
+          "value": "3.85",
+          "rowHeaders": [
+            "Total MVPA",
+            "Counts per minute"
+          ],
+          "columnHeaders": [
+            "Table 2 Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Control",
+            "Adjusted difference between",
+            "treatment group (95% CI)"
+          ]
+        },
+        {
+          "value": "(0.79 to",
+          "rowHeaders": [
+            "Total MVPA",
+            "Percentage moderate"
+          ],
+          "columnHeaders": [
+            "Table 2 Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Control",
+            "Adjusted difference between",
+            "treatment group (95% CI)"
+          ]
+        },
+        {
+          "value": "6.91)",
+          "rowHeaders": [
+            "Total MVPA",
+            "Percentage moderate"
+          ],
+          "columnHeaders": [
+            "Table 2 Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Control",
+            "Adjusted difference between",
+            "treatment group (95% CI)"
+          ]
+        },
+        {
+          "value": "0.01*",
+          "rowHeaders": [
+            "Total MVPA",
+            "Percentage moderate"
+          ],
+          "columnHeaders": [
+            "Table 2 Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Control",
+            "Group×time",
+            "p value"
+          ]
+        },
+        {
+          "value": "16.6",
+          "rowHeaders": [
+            "Vigorous activity",
+            "Counts per minute"
+          ],
+          "columnHeaders": [
+            "Table 2 Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Intervention",
+            "BASELINE",
+            "(n=524)"
+          ]
+        },
+        {
+          "value": "18.0",
+          "rowHeaders": [
+            "Vigorous activity",
+            "Counts per minute"
+          ],
+          "columnHeaders": [
+            "Table 2 Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Intervention",
+            "MIDPOINT",
+            "(n=352)"
+          ]
+        },
+        {
+          "value": "0.07",
+          "rowHeaders": [
+            "Vigorous activity",
+            "Counts per minute"
+          ],
+          "columnHeaders": [
+            "Table 2 Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Control",
+            "MIDPOINT",
+            "p Value"
+          ]
+        },
+        {
+          "value": "16.9",
+          "rowHeaders": [
+            "Vigorous activity",
+            "Counts per minute"
+          ],
+          "columnHeaders": [
+            "Table 2 Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Control",
+            "BASELINE",
+            "(n=435)"
+          ]
+        },
+        {
+          "value": "16.2",
+          "rowHeaders": [
+            "Vigorous activity",
+            "Counts per minute"
+          ],
+          "columnHeaders": [
+            "Table 2 Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Control",
+            "MIDPOINT",
+            "(n=288)"
+          ]
+        },
+        {
+          "value": "0.37",
+          "rowHeaders": [
+            "Vigorous activity",
+            "Percentage moderate"
+          ],
+          "columnHeaders": [
+            "Table 2 Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Control",
+            "MIDPOINT",
+            "p Value"
+          ]
+        },
+        {
+          "value": "2.45",
+          "rowHeaders": [
+            "Vigorous activity",
+            "Percentage moderate"
+          ],
+          "columnHeaders": [
+            "Table 2 Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Control",
+            "Adjusted difference between",
+            "treatment group (95% CI)"
+          ]
+        },
+        {
+          "value": "(0.90 to",
+          "rowHeaders": [
+            "Vigorous activity",
+            "Percentage moderate"
+          ],
+          "columnHeaders": [
+            "Table 2 Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Control",
+            "Adjusted difference between",
+            "treatment group (95% CI)"
+          ]
+        },
+        {
+          "value": "4.00)",
+          "rowHeaders": [
+            "Vigorous activity",
+            "Percentage moderate"
+          ],
+          "columnHeaders": [
+            "Table 2 Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Control",
+            "Adjusted difference between",
+            "treatment group (95% CI)"
+          ]
+        },
+        {
+          "value": "0.002",
+          "rowHeaders": [
+            "Vigorous activity",
+            "Percentage moderate"
+          ],
+          "columnHeaders": [
+            "Table 2 Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Control",
+            "Group×time",
+            "p value"
+          ]
+        },
+        {
+          "value": "36.7",
+          "rowHeaders": [
+            "Moderate activity",
+            "Counts per minute"
+          ],
+          "columnHeaders": [
+            "Table 2 Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Intervention",
+            "BASELINE",
+            "(n=524)"
+          ]
+        },
+        {
+          "value": "36.2",
+          "rowHeaders": [
+            "Moderate activity",
+            "Counts per minute"
+          ],
+          "columnHeaders": [
+            "Table 2 Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Intervention",
+            "MIDPOINT",
+            "(n=352)"
+          ]
+        },
+        {
+          "value": "0.52",
+          "rowHeaders": [
+            "Moderate activity",
+            "Counts per minute"
+          ],
+          "columnHeaders": [
+            "Table 2 Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Control",
+            "MIDPOINT",
+            "p Value"
+          ]
+        },
+        {
+          "value": "36.7",
+          "rowHeaders": [
+            "Moderate activity",
+            "Percentage vigorous"
+          ],
+          "columnHeaders": [
+            "Table 2 Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Control",
+            "BASELINE",
+            "(n=435)"
+          ]
+        },
+        {
+          "value": "34.6",
+          "rowHeaders": [
+            "Moderate activity",
+            "Percentage moderate"
+          ],
+          "columnHeaders": [
+            "Table 2 Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Control",
+            "MIDPOINT",
+            "(n=288)"
+          ]
+        },
+        {
+          "value": "0.02",
+          "rowHeaders": [
+            "Moderate activity",
+            "Percentage moderate"
+          ],
+          "columnHeaders": [
+            "Table 2 Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Control",
+            "MIDPOINT",
+            "p Value"
+          ]
+        },
+        {
+          "value": "1.41 (−0.50 to",
+          "rowHeaders": [
+            "Moderate activity",
+            "Percentage moderate"
+          ],
+          "columnHeaders": [
+            "Table 2 Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Control",
+            "Adjusted difference between",
+            "treatment group (95% CI)"
+          ]
+        },
+        {
+          "value": "3.33)",
+          "rowHeaders": [
+            "Moderate activity",
+            "Percentage moderate"
+          ],
+          "columnHeaders": [
+            "Table 2 Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Control",
+            "Adjusted difference between",
+            "treatment group (95% CI)"
+          ]
+        },
+        {
+          "value": "0.15",
+          "rowHeaders": [
+            "Moderate activity",
+            "Percentage moderate"
+          ],
+          "columnHeaders": [
+            "Table 2 Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Control",
+            "Group×time",
+            "p value"
+          ]
+        },
+        {
+          "value": "482.2",
+          "rowHeaders": [
+            "Moderate activity",
+            "Counts per minute"
+          ],
+          "columnHeaders": [
+            "Table 2 Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Intervention",
+            "BASELINE",
+            "(n=524)"
+          ]
+        },
+        {
+          "value": "476.2",
+          "rowHeaders": [
+            "Moderate activity",
+            "Counts per minute"
+          ],
+          "columnHeaders": [
+            "Table 2 Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Intervention",
+            "MIDPOINT",
+            "(n=352)"
+          ]
+        },
+        {
+          "value": "0.58",
+          "rowHeaders": [
+            "Moderate activity",
+            "Counts per minute"
+          ],
+          "columnHeaders": [
+            "Table 2 Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Control",
+            "MIDPOINT",
+            "p Value"
+          ]
+        },
+        {
+          "value": "486.1",
+          "rowHeaders": [
+            "Moderate activity",
+            "Counts per minute"
+          ],
+          "columnHeaders": [
+            "Table 2 Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Control",
+            "BASELINE",
+            "(n=435)"
+          ]
+        },
+        {
+          "value": "452.3",
+          "rowHeaders": [
+            "Moderate activity",
+            "Counts per minute"
+          ],
+          "columnHeaders": [
+            "Table 2 Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Control",
+            "MIDPOINT",
+            "(n=288)"
+          ]
+        },
+        {
+          "value": "0.002",
+          "rowHeaders": [
+            "Moderate activity",
+            "Counts per minute"
+          ],
+          "columnHeaders": [
+            "Table 2 Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Control",
+            "MIDPOINT",
+            "p Value"
+          ]
+        },
+        {
+          "value": "31.02",
+          "rowHeaders": [
+            "Moderate activity",
+            "Counts per minute"
+          ],
+          "columnHeaders": [
+            "Table 2 Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Control",
+            "Adjusted difference between",
+            "treatment group (95% CI)"
+          ]
+        },
+        {
+          "value": "(9.05 to",
+          "rowHeaders": [
+            "Moderate activity",
+            "Counts per minute"
+          ],
+          "columnHeaders": [
+            "Table 2 Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Control",
+            "Adjusted difference between",
+            "treatment group (95% CI)"
+          ]
+        },
+        {
+          "value": "53.00)",
+          "rowHeaders": [
+            "Moderate activity",
+            "Counts per minute"
+          ],
+          "columnHeaders": [
+            "Table 2 Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Control",
+            "Adjusted difference between",
+            "treatment group (95% CI)"
+          ]
+        },
+        {
+          "value": "0.01",
+          "rowHeaders": [
+            "Moderate activity",
+            "Counts per minute"
+          ],
+          "columnHeaders": [
+            "Table 2 Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Control",
+            "Group×time",
+            "p value"
+          ]
+        },
+        {
+          "value": "6.7",
+          "rowHeaders": [
+            "Moderate activity",
+            "Percentage MVPA"
+          ],
+          "columnHeaders": [
+            "Table 2 Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Intervention",
+            "BASELINE",
+            "(n=524)"
+          ]
+        },
+        {
+          "value": "6.9",
+          "rowHeaders": [
+            "Moderate activity",
+            "Percentage MVPA"
+          ],
+          "columnHeaders": [
+            "Table 2 Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Intervention",
+            "MIDPOINT",
+            "(n=352)"
+          ]
+        },
+        {
+          "value": "0.44",
+          "rowHeaders": [
+            "Moderate activity",
+            "Percentage MVPA"
+          ],
+          "columnHeaders": [
+            "Table 2 Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Control",
+            "MIDPOINT",
+            "p Value"
+          ]
+        },
+        {
+          "value": "6.7",
+          "rowHeaders": [
+            "Moderate activity",
+            "Percentage MVPA"
+          ],
+          "columnHeaders": [
+            "Table 2 Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Control",
+            "BASELINE",
+            "(n=435)"
+          ]
+        },
+        {
+          "value": "6.4",
+          "rowHeaders": [
+            "Moderate activity",
+            "Percentage MVPA"
+          ],
+          "columnHeaders": [
+            "Table 2 Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Control",
+            "MIDPOINT",
+            "(n=288)"
+          ]
+        },
+        {
+          "value": "0.10",
+          "rowHeaders": [
+            "Moderate activity",
+            "Percentage MVPA"
+          ],
+          "columnHeaders": [
+            "Table 2 Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Control",
+            "MIDPOINT",
+            "p Value"
+          ]
+        },
+        {
+          "value": "0.50",
+          "rowHeaders": [
+            "Moderate activity",
+            "Percentage MVPA"
+          ],
+          "columnHeaders": [
+            "Table 2 Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Control",
+            "Adjusted difference between",
+            "treatment group (95% CI)"
+          ]
+        },
+        {
+          "value": "(0.11 to",
+          "rowHeaders": [
+            "Moderate activity",
+            "Percentage MVPA"
+          ],
+          "columnHeaders": [
+            "Table 2 Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Control",
+            "Adjusted difference between",
+            "treatment group (95% CI)"
+          ]
+        },
+        {
+          "value": "0.90)",
+          "rowHeaders": [
+            "Moderate activity",
+            "Percentage MVPA"
+          ],
+          "columnHeaders": [
+            "Table 2 Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Control",
+            "Adjusted difference between",
+            "treatment group (95% CI)"
+          ]
+        },
+        {
+          "value": "0.01",
+          "rowHeaders": [
+            "Moderate activity",
+            "Percentage MVPA"
+          ],
+          "columnHeaders": [
+            "Table 2 Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Control",
+            "Group×time",
+            "p value"
+          ]
+        },
+        {
+          "value": "2.1",
+          "rowHeaders": [
+            "Moderate activity",
+            "Percentage vigorous"
+          ],
+          "columnHeaders": [
+            "Table 2 Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Intervention",
+            "BASELINE",
+            "(n=524)"
+          ]
+        },
+        {
+          "value": "2.3",
+          "rowHeaders": [
+            "Moderate activity",
+            "Percentage vigorous"
+          ],
+          "columnHeaders": [
+            "Table 2 Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Intervention",
+            "MIDPOINT",
+            "(n=352)"
+          ]
+        },
+        {
+          "value": "0.05",
+          "rowHeaders": [
+            "Moderate activity",
+            "Percentage vigorous"
+          ],
+          "columnHeaders": [
+            "Table 2 Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Control",
+            "MIDPOINT",
+            "p Value"
+          ]
+        },
+        {
+          "value": "2.1",
+          "rowHeaders": [
+            "Moderate activity",
+            "Percentage vigorous"
+          ],
+          "columnHeaders": [
+            "Table 2 Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Control",
+            "BASELINE",
+            "(n=435)"
+          ]
+        },
+        {
+          "value": "2.0",
+          "rowHeaders": [
+            "Moderate activity",
+            "Percentage vigorous"
+          ],
+          "columnHeaders": [
+            "Table 2 Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Control",
+            "MIDPOINT",
+            "(n=288)"
+          ]
+        },
+        {
+          "value": "0.40",
+          "rowHeaders": [
+            "Moderate activity",
+            "Percentage vigorous"
+          ],
+          "columnHeaders": [
+            "Table 2 Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Control",
+            "MIDPOINT",
+            "p Value"
+          ]
+        },
+        {
+          "value": "0.32",
+          "rowHeaders": [
+            "Moderate activity",
+            "Percentage vigorous"
+          ],
+          "columnHeaders": [
+            "Table 2 Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Control",
+            "Adjusted difference between",
+            "treatment group (95% CI)"
+          ]
+        },
+        {
+          "value": "(0.12 to",
+          "rowHeaders": [
+            "Moderate activity",
+            "Percentage vigorous"
+          ],
+          "columnHeaders": [
+            "Table 2 Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Control",
+            "Adjusted difference between",
+            "treatment group (95% CI)"
+          ]
+        },
+        {
+          "value": "0.52)",
+          "rowHeaders": [
+            "Moderate activity",
+            "Percentage vigorous"
+          ],
+          "columnHeaders": [
+            "Table 2 Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Control",
+            "Adjusted difference between",
+            "treatment group (95% CI)"
+          ]
+        },
+        {
+          "value": "0.001",
+          "rowHeaders": [
+            "Moderate activity",
+            "Percentage vigorous"
+          ],
+          "columnHeaders": [
+            "Table 2 Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Control",
+            "Group×time",
+            "p value"
+          ]
+        },
+        {
+          "value": "4.6",
+          "rowHeaders": [
+            "Moderate activity",
+            "Percentage moderate"
+          ],
+          "columnHeaders": [
+            "Table 2 Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Intervention",
+            "BASELINE",
+            "(n=524)"
+          ]
+        },
+        {
+          "value": "4.6",
+          "rowHeaders": [
+            "Moderate activity",
+            "Percentage moderate"
+          ],
+          "columnHeaders": [
+            "Table 2 Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Intervention",
+            "MIDPOINT",
+            "(n=352)"
+          ]
+        },
+        {
+          "value": "0.70",
+          "rowHeaders": [
+            "Moderate activity",
+            "Percentage moderate"
+          ],
+          "columnHeaders": [
+            "Table 2 Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Control",
+            "MIDPOINT",
+            "p Value"
+          ]
+        },
+        {
+          "value": "4.6",
+          "rowHeaders": [
+            "Moderate activity",
+            "Percentage moderate"
+          ],
+          "columnHeaders": [
+            "Table 2 Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Control",
+            "BASELINE",
+            "(n=435)"
+          ]
+        },
+        {
+          "value": "4.4",
+          "rowHeaders": [
+            "Moderate activity",
+            "Percentage moderate"
+          ],
+          "columnHeaders": [
+            "Table 2 Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Control",
+            "MIDPOINT",
+            "(n=288)"
+          ]
+        },
+        {
+          "value": "0.04",
+          "rowHeaders": [
+            "Moderate activity",
+            "Percentage moderate"
+          ],
+          "columnHeaders": [
+            "Table 2 Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Control",
+            "MIDPOINT",
+            "p Value"
+          ]
+        },
+        {
+          "value": "0.18 (−0.06 to",
+          "rowHeaders": [
+            "Moderate activity",
+            "Percentage moderate"
+          ],
+          "columnHeaders": [
+            "Table 2 Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Control",
+            "Adjusted difference between",
+            "treatment group (95% CI)"
+          ]
+        },
+        {
+          "value": "0.43)",
+          "rowHeaders": [
+            "Moderate activity",
+            "Percentage moderate"
+          ],
+          "columnHeaders": [
+            "Table 2 Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Control",
+            "Adjusted difference between",
+            "treatment group (95% CI)"
+          ]
+        },
+        {
+          "value": "0.15",
+          "rowHeaders": [
+            "Moderate activity",
+            "Percentage moderate"
+          ],
+          "columnHeaders": [
+            "Table 2 Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Changes in physical activity from baseline to 12-month follow-up (minutes MVPA, % wear time in MVPA, % meeting PA Guidelines)",
+            "Control",
+            "Group×time",
+            "p value"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "1.9 min of MVPA per day after 2",
+          "rowHeaders": [
+            "ranging from"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Intervention",
+            "BASELINE",
+            "(n=524)"
+          ]
+        },
+        {
+          "value": "3.5 min MVPA per day for males",
+          "rowHeaders": [
+            "vention in the TAAG study,53"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Intervention",
+            "p",
+            "(n=352)"
+          ]
+        },
+        {
+          "value": "62.7 (22.54)",
+          "rowHeaders": [
+            "Males",
+            "MVPA (min per day)"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Intervention",
+            "BASELINE",
+            "(n=524)"
+          ]
+        },
+        {
+          "value": "66.3 (27.19)",
+          "rowHeaders": [
+            "Males",
+            "MVPA (min per day)"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Intervention",
+            "MIDPOINT",
+            "(n=352)"
+          ]
+        },
+        {
+          "value": "0.17",
+          "rowHeaders": [
+            "Males",
+            "MVPA (min per day)"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "p",
+            "Value"
+          ]
+        },
+        {
+          "value": "59.4 (23.32)",
+          "rowHeaders": [
+            "Males",
+            "MVPA (min per day)"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "BASELINE",
+            "(n=435)"
+          ]
+        },
+        {
+          "value": "56.6 (19.81)",
+          "rowHeaders": [
+            "Males",
+            "MVPA (min per day)"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "MIDPOINT",
+            "(n=288)"
+          ]
+        },
+        {
+          "value": "0.27",
+          "rowHeaders": [
+            "Males",
+            "MVPA (min per day)"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "p",
+            "Value"
+          ]
+        },
+        {
+          "value": "6.47 (−1.84 to",
+          "rowHeaders": [
+            "Males",
+            "MVPA (min per day)"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "Adjusted difference between",
+            "treatment group (95% CI)"
+          ]
+        },
+        {
+          "value": "14.78)",
+          "rowHeaders": [
+            "Males",
+            "MVPA (min per day)"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "Adjusted difference between",
+            "treatment group (95% CI)"
+          ]
+        },
+        {
+          "value": "0.02*",
+          "rowHeaders": [
+            "Males",
+            "MVPA (min per day)"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "Group×",
+            "time p value"
+          ]
+        },
+        {
+          "value": "8.0 (2.89)",
+          "rowHeaders": [
+            "Underweight/",
+            "Percentage of wear"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Intervention",
+            "BASELINE",
+            "(n=524)"
+          ]
+        },
+        {
+          "value": "8.5 (3.72)",
+          "rowHeaders": [
+            "healthy weight",
+            "Percentage of wear"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Intervention",
+            "MIDPOINT",
+            "(n=352)"
+          ]
+        },
+        {
+          "value": "0.19",
+          "rowHeaders": [
+            "Overweight/obese",
+            "Percentage of wear"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "p",
+            "Value"
+          ]
+        },
+        {
+          "value": "7.5 (2.88)",
+          "rowHeaders": [
+            "Overweight/obese",
+            "Percentage of wear"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "BASELINE",
+            "(n=435)"
+          ]
+        },
+        {
+          "value": "7.2 (2.57)",
+          "rowHeaders": [
+            "Overweight/obese",
+            "Percentage of wear"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "MIDPOINT",
+            "(n=288)"
+          ]
+        },
+        {
+          "value": "0.34",
+          "rowHeaders": [
+            "Overweight/obese",
+            "Percentage of wear"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "p",
+            "Value"
+          ]
+        },
+        {
+          "value": "0.90 (−0.13 to",
+          "rowHeaders": [
+            "Overweight/obese",
+            "Percentage of wear"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "Adjusted difference between",
+            "treatment group (95% CI)"
+          ]
+        },
+        {
+          "value": "1.93)",
+          "rowHeaders": [
+            "Overweight/obese",
+            "Percentage of wear"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "Adjusted difference between",
+            "treatment group (95% CI)"
+          ]
+        },
+        {
+          "value": "0.02*",
+          "rowHeaders": [
+            "Overweight/obese",
+            "Percentage of wear"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "Group×",
+            "time p value"
+          ]
+        },
+        {
+          "value": "46.6 (16.45)",
+          "rowHeaders": [
+            "Females",
+            "MVPA (min per day)"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Intervention",
+            "BASELINE",
+            "(n=524)"
+          ]
+        },
+        {
+          "value": "45.7 (15.50)",
+          "rowHeaders": [
+            "Females",
+            "MVPA (min per day)"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Intervention",
+            "MIDPOINT",
+            "(n=352)"
+          ]
+        },
+        {
+          "value": "0.55",
+          "rowHeaders": [
+            "Females",
+            "MVPA (min per day)"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "p",
+            "Value"
+          ]
+        },
+        {
+          "value": "48.9 (17.63)",
+          "rowHeaders": [
+            "Females",
+            "MVPA (min per day)"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "BASELINE",
+            "(n=435)"
+          ]
+        },
+        {
+          "value": "45.8 (17.71)",
+          "rowHeaders": [
+            "Females",
+            "MVPA (min per day)"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "MIDPOINT",
+            "(n=288)"
+          ]
+        },
+        {
+          "value": "0.09",
+          "rowHeaders": [
+            "Females",
+            "MVPA (min per day)"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "p",
+            "Value"
+          ]
+        },
+        {
+          "value": "−0.94 (−5.62 to",
+          "rowHeaders": [
+            "Females",
+            "MVPA (min per day)"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "Adjusted difference between",
+            "treatment group (95% CI)"
+          ]
+        },
+        {
+          "value": "3.74)",
+          "rowHeaders": [
+            "Females",
+            "MVPA (min per day)"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "Adjusted difference between",
+            "treatment group (95% CI)"
+          ]
+        },
+        {
+          "value": "0.35",
+          "rowHeaders": [
+            "Females",
+            "MVPA (min per day)"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "Group×",
+            "time p value"
+          ]
+        },
+        {
+          "value": "5.8 (2.06)",
+          "rowHeaders": [
+            "healthy weight",
+            "Percentage of wear"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Intervention",
+            "BASELINE",
+            "(n=524)"
+          ]
+        },
+        {
+          "value": "5.8 (1.98)",
+          "rowHeaders": [
+            "Overweight/obese",
+            "Percentage of wear"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Intervention",
+            "MIDPOINT",
+            "(n=352)"
+          ]
+        },
+        {
+          "value": "0.74",
+          "rowHeaders": [
+            "Overweight/obese",
+            "Percentage of wear"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "p",
+            "Value"
+          ]
+        },
+        {
+          "value": "6.1 (2.21)",
+          "rowHeaders": [
+            "Overweight/obese",
+            "Percentage of wear"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "BASELINE",
+            "(n=435)"
+          ]
+        },
+        {
+          "value": "5.7 (2.17)",
+          "rowHeaders": [
+            "Overweight/obese",
+            "Percentage of wear"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "MIDPOINT",
+            "(n=288)"
+          ]
+        },
+        {
+          "value": "0.14",
+          "rowHeaders": [
+            "Overweight/obese",
+            "Percentage of wear"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "p",
+            "Value"
+          ]
+        },
+        {
+          "value": "−0.06 (−0.55 to",
+          "rowHeaders": [
+            "Overweight/obese",
+            "Percentage of wear"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "Adjusted difference between",
+            "treatment group (95% CI)"
+          ]
+        },
+        {
+          "value": "0.42)",
+          "rowHeaders": [
+            "Overweight/obese",
+            "Percentage of wear"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "Adjusted difference between",
+            "treatment group (95% CI)"
+          ]
+        },
+        {
+          "value": "0.34",
+          "rowHeaders": [
+            "vention in the TAAG study,53",
+            "Percentage of wear"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "Group×",
+            "time p value"
+          ]
+        },
+        {
+          "value": "54.9 (21.83)",
+          "rowHeaders": [
+            "Underweight/",
+            "MVPA (min per day)"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Intervention",
+            "BASELINE",
+            "(n=524)"
+          ]
+        },
+        {
+          "value": "54.9 (21.98)",
+          "rowHeaders": [
+            "Underweight/",
+            "MVPA (min per day)"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Intervention",
+            "MIDPOINT",
+            "(n=352)"
+          ]
+        },
+        {
+          "value": "0.98",
+          "rowHeaders": [
+            "Underweight/",
+            "MVPA (min per day)"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "p",
+            "Value"
+          ]
+        },
+        {
+          "value": "55.4 (21.72)",
+          "rowHeaders": [
+            "Underweight/",
+            "MVPA (min per day)"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "BASELINE",
+            "(n=435)"
+          ]
+        },
+        {
+          "value": "53.1 (19.22)",
+          "rowHeaders": [
+            "Underweight/",
+            "MVPA (min per day)"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "MIDPOINT",
+            "(n=288)"
+          ]
+        },
+        {
+          "value": "0.25",
+          "rowHeaders": [
+            "Underweight/",
+            "MVPA (min per day)"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "p",
+            "Value"
+          ]
+        },
+        {
+          "value": "1.82 (−4.22 to",
+          "rowHeaders": [
+            "Underweight/",
+            "MVPA (min per day)"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "Adjusted difference between",
+            "treatment group (95% CI)"
+          ]
+        },
+        {
+          "value": "7.87)",
+          "rowHeaders": [
+            "Underweight/",
+            "MVPA (min per day)"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "Adjusted difference between",
+            "treatment group (95% CI)"
+          ]
+        },
+        {
+          "value": "0.10",
+          "rowHeaders": [
+            "Underweight/",
+            "MVPA (min per day)"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "Group×",
+            "time p value"
+          ]
+        },
+        {
+          "value": "6.9 (2.84)",
+          "rowHeaders": [
+            "healthy weight",
+            "Percentage of wear"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Intervention",
+            "BASELINE",
+            "(n=524)"
+          ]
+        },
+        {
+          "value": "6.9 (2.89)",
+          "rowHeaders": [
+            "healthy weight",
+            "Percentage of wear"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Intervention",
+            "MIDPOINT",
+            "(n=352)"
+          ]
+        },
+        {
+          "value": "0.95",
+          "rowHeaders": [
+            "healthy weight",
+            "Percentage of wear"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "p",
+            "Value"
+          ]
+        },
+        {
+          "value": "6.9 (2.71)",
+          "rowHeaders": [
+            "healthy weight",
+            "Percentage of wear"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "BASELINE",
+            "(n=435)"
+          ]
+        },
+        {
+          "value": "6.7 (2.48)",
+          "rowHeaders": [
+            "healthy weight",
+            "Percentage of wear"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "MIDPOINT",
+            "(n=288)"
+          ]
+        },
+        {
+          "value": "0.52",
+          "rowHeaders": [
+            "healthy weight",
+            "Percentage of wear"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "p",
+            "Value"
+          ]
+        },
+        {
+          "value": "0.28 (−0.39 to",
+          "rowHeaders": [
+            "healthy weight",
+            "Percentage of wear"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "Adjusted difference between",
+            "treatment group (95% CI)"
+          ]
+        },
+        {
+          "value": "0.95)",
+          "rowHeaders": [
+            "healthy weight",
+            "Percentage of wear"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "Adjusted difference between",
+            "treatment group (95% CI)"
+          ]
+        },
+        {
+          "value": "0.25",
+          "rowHeaders": [
+            "healthy weight",
+            "Percentage of wear"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "Group×",
+            "time p value"
+          ]
+        },
+        {
+          "value": "49.8 (17.82)",
+          "rowHeaders": [
+            "Overweight/obese",
+            "MVPA (min per day)"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Intervention",
+            "BASELINE",
+            "(n=524)"
+          ]
+        },
+        {
+          "value": "50.3 (21.23)",
+          "rowHeaders": [
+            "Overweight/obese",
+            "MVPA (min per day)"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Intervention",
+            "MIDPOINT",
+            "(n=352)"
+          ]
+        },
+        {
+          "value": "0.88",
+          "rowHeaders": [
+            "Overweight/obese",
+            "MVPA (min per day)"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "p",
+            "Value"
+          ]
+        },
+        {
+          "value": "49.3 (19.47)",
+          "rowHeaders": [
+            "Overweight/obese",
+            "MVPA (min per day)"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "BASELINE",
+            "(n=435)"
+          ]
+        },
+        {
+          "value": "44.7 (15.68)",
+          "rowHeaders": [
+            "Overweight/obese",
+            "MVPA (min per day)"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "MIDPOINT",
+            "(n=288)"
+          ]
+        },
+        {
+          "value": "0.12",
+          "rowHeaders": [
+            "Overweight/obese",
+            "MVPA (min per day)"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "p",
+            "Value"
+          ]
+        },
+        {
+          "value": "1.74 (−5.80 to",
+          "rowHeaders": [
+            "Overweight/obese",
+            "MVPA (min per day)"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "Adjusted difference between",
+            "treatment group (95% CI)"
+          ]
+        },
+        {
+          "value": "9.29)",
+          "rowHeaders": [
+            "Overweight/obese",
+            "MVPA (min per day)"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "Adjusted difference between",
+            "treatment group (95% CI)"
+          ]
+        },
+        {
+          "value": "0.29",
+          "rowHeaders": [
+            "Overweight/obese",
+            "MVPA (min per day)"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "Group×",
+            "time p value"
+          ]
+        },
+        {
+          "value": "6.2 (2.07)",
+          "rowHeaders": [
+            "Overweight/obese",
+            "Per centage of wear"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Intervention",
+            "BASELINE",
+            "(n=524)"
+          ]
+        },
+        {
+          "value": "6.4 (2.79)",
+          "rowHeaders": [
+            "Overweight/obese",
+            "Per centage of wear"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Intervention",
+            "MIDPOINT",
+            "(n=352)"
+          ]
+        },
+        {
+          "value": "0.63",
+          "rowHeaders": [
+            "Overweight/obese",
+            "Per centage of wear"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "p",
+            "Value"
+          ]
+        },
+        {
+          "value": "6.2 (2.49)",
+          "rowHeaders": [
+            "vention in the TAAG study,53",
+            "Per centage of wear"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "BASELINE",
+            "(n=435)"
+          ]
+        },
+        {
+          "value": "5.5 (1.88)",
+          "rowHeaders": [
+            "vention in the TAAG study,53",
+            "Per centage of wear"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "MIDPOINT",
+            "(n=288)"
+          ]
+        },
+        {
+          "value": "0.07",
+          "rowHeaders": [
+            "vention in the TAAG study,53",
+            "Per centage of wear"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "p",
+            "Value"
+          ]
+        },
+        {
+          "value": "0.28 (−0.57 to",
+          "rowHeaders": [
+            "vention in the TAAG study,53",
+            "Per centage of wear"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "Adjusted difference between",
+            "treatment group (95% CI)"
+          ]
+        },
+        {
+          "value": "1.12)",
+          "rowHeaders": [
+            "vention in the TAAG study,53",
+            "Per centage of wear"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "Adjusted difference between",
+            "treatment group (95% CI)"
+          ]
+        },
+        {
+          "value": "0.14",
+          "rowHeaders": [
+            "vention in the TAAG study,53",
+            "Per centage of wear"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "Group×",
+            "time p value"
+          ]
+        },
+        {
+          "value": "76.9 (16.70)",
+          "rowHeaders": [
+            "Active",
+            "MVPA (min per day)"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Intervention",
+            "BASELINE",
+            "(n=524)"
+          ]
+        },
+        {
+          "value": "78.7 (21.06)",
+          "rowHeaders": [
+            "Active",
+            "MVPA (min per day)"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Intervention",
+            "MIDPOINT",
+            "(n=352)"
+          ]
+        },
+        {
+          "value": "0.43",
+          "rowHeaders": [
+            "Active",
+            "MVPA (min per day)"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "p",
+            "Value"
+          ]
+        },
+        {
+          "value": "77.1 (15.49)",
+          "rowHeaders": [
+            "Active",
+            "MVPA (min per day)"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "BASELINE",
+            "(n=435)"
+          ]
+        },
+        {
+          "value": "75.4 (13.52)",
+          "rowHeaders": [
+            "Active",
+            "MVPA (min per day)"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "MIDPOINT",
+            "(n=288)"
+          ]
+        },
+        {
+          "value": "0.41",
+          "rowHeaders": [
+            "Active",
+            "MVPA (min per day)"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "p",
+            "Value"
+          ]
+        },
+        {
+          "value": "4.54 (−1.22 to",
+          "rowHeaders": [
+            "Active",
+            "MVPA (min per day)"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "Adjusted difference between",
+            "treatment group (95% CI)"
+          ]
+        },
+        {
+          "value": "10.30)",
+          "rowHeaders": [
+            "Active",
+            "MVPA (min per day)"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "Adjusted difference between",
+            "treatment group (95% CI)"
+          ]
+        },
+        {
+          "value": "0.12",
+          "rowHeaders": [
+            "Active",
+            "MVPA (min per day)"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "Group×",
+            "time p value"
+          ]
+        },
+        {
+          "value": "9.6 (2.31)",
+          "rowHeaders": [
+            "vention in the TAAG study,53",
+            "Percentage of wear"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Intervention",
+            "BASELINE",
+            "(n=524)"
+          ]
+        },
+        {
+          "value": "10.1 (2.97)",
+          "rowHeaders": [
+            "vention in the TAAG study,53",
+            "Percentage of wear"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Intervention",
+            "MIDPOINT",
+            "(n=352)"
+          ]
+        },
+        {
+          "value": "0.16",
+          "rowHeaders": [
+            "vention in the TAAG study,53",
+            "Percentage of wear"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "p",
+            "Value"
+          ]
+        },
+        {
+          "value": "9.5 (2.11)",
+          "rowHeaders": [
+            "vention in the TAAG study,53",
+            "Percentage of wear"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "BASELINE",
+            "(n=435)"
+          ]
+        },
+        {
+          "value": "9.3 (1.89)",
+          "rowHeaders": [
+            "vention in the TAAG study,53",
+            "Percentage of wear"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "MIDPOINT",
+            "(n=288)"
+          ]
+        },
+        {
+          "value": "0.65",
+          "rowHeaders": [
+            "vention in the TAAG study,53",
+            "Percentage of wear"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "p",
+            "Value"
+          ]
+        },
+        {
+          "value": "0.64 (−0.15 to",
+          "rowHeaders": [
+            "vention in the TAAG study,53",
+            "Percentage of wear"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "Adjusted difference between",
+            "treatment group (95% CI)"
+          ]
+        },
+        {
+          "value": "1.44)",
+          "rowHeaders": [
+            "vention in the TAAG study,53",
+            "Percentage of wear"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "Adjusted difference between",
+            "treatment group (95% CI)"
+          ]
+        },
+        {
+          "value": "0.11",
+          "rowHeaders": [
+            "vention in the TAAG study,53",
+            "Percentage of wear"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "Group×",
+            "time p value"
+          ]
+        },
+        {
+          "value": "41.9 (10.80)",
+          "rowHeaders": [
+            "Inactive",
+            "MVPA (min per day)"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Intervention",
+            "BASELINE",
+            "(n=524)"
+          ]
+        },
+        {
+          "value": "41.7 (11.50)",
+          "rowHeaders": [
+            "Inactive",
+            "MVPA (min per day)"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Intervention",
+            "MIDPOINT",
+            "(n=352)"
+          ]
+        },
+        {
+          "value": "0.77",
+          "rowHeaders": [
+            "Inactive",
+            "MVPA (min per day)"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "p",
+            "Value"
+          ]
+        },
+        {
+          "value": "41.5 (10.67)",
+          "rowHeaders": [
+            "Inactive",
+            "MVPA (min per day)"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "BASELINE",
+            "(n=435)"
+          ]
+        },
+        {
+          "value": "41.2 (11.55)",
+          "rowHeaders": [
+            "Inactive",
+            "MVPA (min per day)"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "MIDPOINT",
+            "(n=288)"
+          ]
+        },
+        {
+          "value": "0.77",
+          "rowHeaders": [
+            "Inactive",
+            "MVPA (min per day)"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "p",
+            "Value"
+          ]
+        },
+        {
+          "value": "−0.21 (−2.42 to",
+          "rowHeaders": [
+            "Inactive",
+            "MVPA (min per day)"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "Adjusted difference between",
+            "treatment group (95% CI)"
+          ]
+        },
+        {
+          "value": "1.99)",
+          "rowHeaders": [
+            "Inactive",
+            "MVPA (min per day)"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "Adjusted difference between",
+            "treatment group (95% CI)"
+          ]
+        },
+        {
+          "value": "0.85",
+          "rowHeaders": [
+            "Inactive",
+            "MVPA (min per day)"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "Group×",
+            "time p value"
+          ]
+        },
+        {
+          "value": "5.4 (1.44)",
+          "rowHeaders": [
+            "vention in the TAAG study,53",
+            "Per centage of wear"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Intervention",
+            "BASELINE",
+            "(n=524)"
+          ]
+        },
+        {
+          "value": "5.3 (1.54)",
+          "rowHeaders": [
+            "vention in the TAAG study,53",
+            "Per centage of wear"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Intervention",
+            "MIDPOINT",
+            "(n=352)"
+          ]
+        },
+        {
+          "value": "0.53",
+          "rowHeaders": [
+            "vention in the TAAG study,53",
+            "Per centage of wear"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "p",
+            "Value"
+          ]
+        },
+        {
+          "value": "5.3 (1.49)",
+          "rowHeaders": [
+            "vention in the TAAG study,53",
+            "Per centage of wear"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "BASELINE",
+            "(n=435)"
+          ]
+        },
+        {
+          "value": "5.2 (1.52)",
+          "rowHeaders": [
+            "vention in the TAAG study,53",
+            "Per centage of wear"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "MIDPOINT",
+            "(n=288)"
+          ]
+        },
+        {
+          "value": "0.71",
+          "rowHeaders": [
+            "vention in the TAAG study,53",
+            "Per centage of wear"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "p",
+            "Value"
+          ]
+        },
+        {
+          "value": "−0.04 (−0.34 to",
+          "rowHeaders": [
+            "vention in the TAAG study,53",
+            "Per centage of wear"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "Adjusted difference between",
+            "treatment group (95% CI)"
+          ]
+        },
+        {
+          "value": "0.26)",
+          "rowHeaders": [
+            "vention in the TAAG study,53",
+            "Per centage of wear"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "Adjusted difference between",
+            "treatment group (95% CI)"
+          ]
+        },
+        {
+          "value": "0.81",
+          "rowHeaders": [
+            "vention in the TAAG study,53",
+            "Per centage of wear"
+          ],
+          "columnHeaders": [
+            "Table 3 Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Changes in physical activity from baseline to follow-up (12 months) by subgroup (gender, weight status at baseline and activity level",
+            "Control",
+            "Group×",
+            "time p value"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "95.5*",
+          "rowHeaders": [
+            "Fidelity (teacher report n=33)"
+          ],
+          "columnHeaders": [
+            "Table 4 Intervention fidelity and reach at 12-months follow-up",
+            "Intervention fidelity and reach at 12-months follow-up",
+            "Active PE lessons (%)"
+          ]
+        },
+        {
+          "value": "70.3 †",
+          "rowHeaders": [
+            "Fidelity (teacher report n=33)"
+          ],
+          "columnHeaders": [
+            "Table 4 Intervention fidelity and reach at 12-months follow-up",
+            "Intervention fidelity and reach at 12-months follow-up",
+            "Personal physical activity plans (%)"
+          ]
+        },
+        {
+          "value": "75.0 ‡",
+          "rowHeaders": [
+            "Fidelity (teacher report n=33)"
+          ],
+          "columnHeaders": [
+            "Table 4 Intervention fidelity and reach at 12-months follow-up",
+            "Intervention fidelity and reach at 12-months follow-up",
+            "Recess and lunchtime activity (%)"
+          ]
+        },
+        {
+          "value": "92.7 §",
+          "rowHeaders": [
+            "All students"
+          ],
+          "columnHeaders": [
+            "Table 4 Intervention fidelity and reach at 12-months follow-up",
+            "Intervention fidelity and reach at 12-months follow-up",
+            "Active PE lessons (%)"
+          ]
+        },
+        {
+          "value": "51.6 ¶",
+          "rowHeaders": [
+            "All students"
+          ],
+          "columnHeaders": [
+            "Table 4 Intervention fidelity and reach at 12-months follow-up",
+            "Intervention fidelity and reach at 12-months follow-up",
+            "Personal physical activity plans (%)"
+          ]
+        },
+        {
+          "value": "93.2",
+          "rowHeaders": [
+            "Female students"
+          ],
+          "columnHeaders": [
+            "Table 4 Intervention fidelity and reach at 12-months follow-up",
+            "Intervention fidelity and reach at 12-months follow-up",
+            "Active PE lessons (%)"
+          ]
+        },
+        {
+          "value": "49.6",
+          "rowHeaders": [
+            "Female students"
+          ],
+          "columnHeaders": [
+            "Table 4 Intervention fidelity and reach at 12-months follow-up",
+            "Intervention fidelity and reach at 12-months follow-up",
+            "Personal physical activity plans (%)"
+          ]
+        },
+        {
+          "value": "50.9*",
+          "rowHeaders": [
+            "Female students"
+          ],
+          "columnHeaders": [
+            "Table 4 Intervention fidelity and reach at 12-months follow-up",
+            "Intervention fidelity and reach at 12-months follow-up",
+            "Recess and lunchtime activity (%)"
+          ]
+        },
+        {
+          "value": "95.0",
+          "rowHeaders": [
+            "Male students"
+          ],
+          "columnHeaders": [
+            "Table 4 Intervention fidelity and reach at 12-months follow-up",
+            "Intervention fidelity and reach at 12-months follow-up",
+            "Active PE lessons (%)"
+          ]
+        },
+        {
+          "value": "54.0",
+          "rowHeaders": [
+            "Male students"
+          ],
+          "columnHeaders": [
+            "Table 4 Intervention fidelity and reach at 12-months follow-up",
+            "Intervention fidelity and reach at 12-months follow-up",
+            "Personal physical activity plans (%)"
+          ]
+        },
+        {
+          "value": "61.5*",
+          "rowHeaders": [
+            "Male students"
+          ],
+          "columnHeaders": [
+            "Table 4 Intervention fidelity and reach at 12-months follow-up",
+            "Intervention fidelity and reach at 12-months follow-up",
+            "Recess and lunchtime activity (%)"
+          ]
+        },
+        {
+          "value": "96.3",
+          "rowHeaders": [
+            "Active students"
+          ],
+          "columnHeaders": [
+            "Table 4 Intervention fidelity and reach at 12-months follow-up",
+            "Intervention fidelity and reach at 12-months follow-up",
+            "Active PE lessons (%)"
+          ]
+        },
+        {
+          "value": "56.8",
+          "rowHeaders": [
+            "Active students"
+          ],
+          "columnHeaders": [
+            "Table 4 Intervention fidelity and reach at 12-months follow-up",
+            "Intervention fidelity and reach at 12-months follow-up",
+            "Personal physical activity plans (%)"
+          ]
+        },
+        {
+          "value": "59.9",
+          "rowHeaders": [
+            "Active students"
+          ],
+          "columnHeaders": [
+            "Table 4 Intervention fidelity and reach at 12-months follow-up",
+            "Intervention fidelity and reach at 12-months follow-up",
+            "Recess and lunchtime activity (%)"
+          ]
+        },
+        {
+          "value": "93.6",
+          "rowHeaders": [
+            "Inactive students"
+          ],
+          "columnHeaders": [
+            "Table 4 Intervention fidelity and reach at 12-months follow-up",
+            "Intervention fidelity and reach at 12-months follow-up",
+            "Active PE lessons (%)"
+          ]
+        },
+        {
+          "value": "47.8",
+          "rowHeaders": [
+            "Inactive students"
+          ],
+          "columnHeaders": [
+            "Table 4 Intervention fidelity and reach at 12-months follow-up",
+            "Intervention fidelity and reach at 12-months follow-up",
+            "Personal physical activity plans (%)"
+          ]
+        },
+        {
+          "value": "52.6",
+          "rowHeaders": [
+            "Inactive students"
+          ],
+          "columnHeaders": [
+            "Table 4 Intervention fidelity and reach at 12-months follow-up",
+            "Intervention fidelity and reach at 12-months follow-up",
+            "Recess and lunchtime activity (%)"
+          ]
+        },
+        {
+          "value": "95.3",
+          "rowHeaders": [
+            "Healthy weight students"
+          ],
+          "columnHeaders": [
+            "Table 4 Intervention fidelity and reach at 12-months follow-up",
+            "Intervention fidelity and reach at 12-months follow-up",
+            "Active PE lessons (%)"
+          ]
+        },
+        {
+          "value": "50.3",
+          "rowHeaders": [
+            "Healthy weight students"
+          ],
+          "columnHeaders": [
+            "Table 4 Intervention fidelity and reach at 12-months follow-up",
+            "Intervention fidelity and reach at 12-months follow-up",
+            "Personal physical activity plans (%)"
+          ]
+        },
+        {
+          "value": "55.5",
+          "rowHeaders": [
+            "Healthy weight students"
+          ],
+          "columnHeaders": [
+            "Table 4 Intervention fidelity and reach at 12-months follow-up",
+            "Intervention fidelity and reach at 12-months follow-up",
+            "Recess and lunchtime activity (%)"
+          ]
+        },
+        {
+          "value": "94.4",
+          "rowHeaders": [
+            "Overweight/obese students"
+          ],
+          "columnHeaders": [
+            "Table 4 Intervention fidelity and reach at 12-months follow-up",
+            "Intervention fidelity and reach at 12-months follow-up",
+            "Active PE lessons (%)"
+          ]
+        },
+        {
+          "value": "52.8",
+          "rowHeaders": [
+            "Overweight/obese students"
+          ],
+          "columnHeaders": [
+            "Table 4 Intervention fidelity and reach at 12-months follow-up",
+            "Intervention fidelity and reach at 12-months follow-up",
+            "Personal physical activity plans (%)"
+          ]
+        },
+        {
+          "value": "56.2",
+          "rowHeaders": [
+            "Overweight/obese students"
+          ],
+          "columnHeaders": [
+            "Table 4 Intervention fidelity and reach at 12-months follow-up",
+            "Intervention fidelity and reach at 12-months follow-up",
+            "Recess and lunchtime activity (%)"
+          ]
+        }
+      ],
+      "page": 1
+    }
+  ]
+}

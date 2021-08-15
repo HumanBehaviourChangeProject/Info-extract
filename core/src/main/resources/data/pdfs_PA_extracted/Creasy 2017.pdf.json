@@ -1,0 +1,2884 @@
+{
+  "blocks": [
+    {
+      "type": "LINES",
+      "value": "Effects of supervised and unsupervised physical activity programmes for weight loss",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Physical activity is important for weight management. However, it remains unclear what type of physical activity prescription/programme is optimal for increasing physical activity during a standard behavioural weight loss intervention. This study examined changes in physical activity after a 12-week supervised programme prescribed in minutes per week (SUP-PA), an unsupervised programme prescribed in minutes per week (UNSUP-PA) and an unsupervised programme prescribed in steps per day (STEP).\nFifty-two adults who were overweight or obese (age: 43.5 ± 10.1 years, BMI: 31.5 ± 3.5 kg•m\n) were randomized to STEP (n = 18), UNSUP-PA (n = 17) and SUP-PA (n = 17). Subjects attended weekly in-person group intervention sessions and were prescribed a calorie-restricted diet (1,200-1,800 kcals•day À1 ) combined with increased physical activity (150 min•week À1 or 10,000 steps•day À1 with 2,500 brisk steps•day\n).\nAll three groups significantly increased moderate-to-vigorous physical activity (STEP: 80.6 ± 218.5 min•week\n, UNSUP-PA: 112.9 ± 180.4 min•week À1 and SUP-PA:\n151.1 ± 174.0 min•week À1 , p < 0.001) with no differences between groups (p = 0.94) or group by time interaction (p = 0.81). In addition, there were no significant differences in weight loss between the groups (p = 0.81).\nIn this short-term study, all three physical activity programmes increased physical activity and elicited modest weight loss when combined with a standard behavioural weight loss intervention.",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Standard behavioural weight loss interventions typically recommend increasing physical activity and decreasing energy intake to promote weight loss. Previous weight loss interventions have prescribed physical activity to be performed in either supervised or unsupervised conditions. Supervised physical activity is typically completed in a health-fitness facility under the direct supervision of trained staff, such that adherence to the prescription (e.g. duration, frequency, intensity and type) can be monitored. However, generalizing the results of supervised trials may not reflect physical activity participation that would be observed in non-research settings where the majority of physical activity is unsupervised. In contrast, unsupervised research interventions may generalize and translate to non-research settings. In addition, unsupervised interventions maybe more convenient for participants, require less staff and be less expensive compared to supervised interventions.\nPrevious comparisons of supervised vs. unsupervised physical activity programmes in adults who are overweight or obese have produced inconsistent findings for changes in physical activity, cardiorespiratory fitness and weight. One limitation of these previous studies is that the unsupervised conditions relied on self-report measures to confirm adherence to the prescribed dose of physical activity. However, the availability of wearable technology facilitates objective measurement of prescribed aerobic moderate-tovigorous physical activity (MVPA) regardless of whether the activity is supervised or unsupervised. This wearable technology may not accurately assess activities such as resistance training; however, ambulatory free-living activities are detected by these monitors. Thus, it is possible to directly compare levels of aerobic physical activity participation in response to an unsupervised physical activity programme vs. a supervised programme (i.e. gold standard for research) using wearable technology. If both programmes invoke comparable results, this could have substantial impact on future physical activity interventions.\nThe primary aim of this study was to compare changes in objectively measured MVPA in adults who were overweight or obese and enrolled in a standard behavioural weight loss intervention with physical activity prescribed in either a supervised or unsupervised manner. Physical activity was prescribed as supervised with a targeted minute goal (SUP-PA), unsupervised with a targeted minute goal (UNSUP-PA) or unsupervised with a targeted step goal (STEP). Secondary outcomes included changes in weight, body composition, energy intake, cardiorespiratory fitness and other components of physical activity (e.g. sedentary behaviour [SED], light intensity physical activity [LPA] and steps).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Volunteers were recruited via mailings, research registries and through an email messaging system. Inclusion criteria were 18-55 years of age and BMI 25.0 to >40.0 kg•m À2 . Exclusion criteria were (i) engaging in >60 min•week À1 (accumulated in bouts of ≥10 min) of MVPA over the past month via self-report; (ii) previous participation in a weight management research project within the past 6 months; (iii) currently being treated for an eating disorder; (iv) currently pregnant or a pregnancy during the previous 6 months; (v) currently being treated for depression or anxiety; (vi) planned travel for ≥1 week during the intervention; (vii) currently using a physical activity device to monitor activity; (viii) history of metabolic, cardiac or pulmonary disease; (ix) weight loss ≥5% of current body weight or 15 pounds total in the previous 6 months; (x) previous bariatric surgery; or (xi) taking medications that affect heart rate, blood pressure, body weight or metabolism. Eligible participants provided written informed consent and physician's clearance prior to the baseline assessment. Procedures were approved by the University of Pittsburgh Institutional Review Board prior to the study beginning.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Eligible participants were randomized by computer software (IBM-SPSS) after completion of baseline assessments. Participants were enrolled in a 12-week standard behavioural weight loss intervention and randomized to either SUP-PA, UNSUP-PA or STEP. Participants attended weekly group intervention sessions for each of the 12 weeks of the study. The three groups had separate group meetings to avoid contamination. Group meetings lasted 30-45 min, were led by trained behavioural interventionists and focused on strategies to promote weight management including increasing physical activity and reducing caloric intake. These intervention sessions were modelled after prior standard behavioural weight loss interventions conducted in our research centre.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "SUP-PA, UNSUP-PA and STEP were provided the same dietary recommendations which included a reduced fat, calorie-restricted diet (1,200-1,800 kcals•day À1 ). These dietary recommendations were similar to previous literature. To promote adoption and adherence, participants were provided meal plans and sample recipes. Participants were provided paper diaries to self-monitor their eating behaviours; however, participants were allowed to self-monitor using other methods (e.g. online dietary tracking tools) if preferred.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Assessments conducted at baseline (week 0) and postintervention (week 12) included measurements of height, weight, BMI, body composition, cardiorespiratory fitness and dietary intake. Participants were asked to complete the physical assessment after fasting for >4 hand refraining from exercise for 24 h prior. Objectively measured physical activity was assessed at weeks 0, 4, 8 and 12. All assessments were completed by trained staff.\nHeight, weight, body composition: Height was measured in duplicate to the nearest 0.1 cm using a wall-mounted stadiometer. Body weight was measured in duplicate using a calibrated digital scale to the nearest 0.1 kg. Participants were weighed while wearing a lightweight hospital gown. Body composition was assessed via dual-energy x-ray absorptiometry (DXA) using a total body scan (GE Lunar iDXA; Madison, WI). Dual-energy x-ray absorptiometry provided data for fat mass, fat-free mass and percent body fat. Waist and hip circumferences were assessed in duplicate using a Gulick tape measure to the nearest 0.1 cm.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Cardiorespiratory fitness was measured using a submaximal graded exercise with the speed held constant at 80.4 m•s À1 and grade starting at 0% and increasing 1.0% each minute until the participant reached 85% of their age-predicted maximal heart rate. Fitness was defined as the oxygen consumption, measured via indirect calorimetry at the point of test termination. Dietary intake:\nEnergy intake (kilocalories per day; kcal day À1 ) and macronutrient composition were measured using the Block Food Frequency Questionnaire (FFQ) (Dietary Data Systems; Berkeley, CA).\nPhysical activity: Physical activity was assessed using the SenseWear device (BodyMedia Inc.; Pittsburgh, PA). SenseWear is a multi-sensor monitor that collects minute-by-minute physical activity data and has been previously validated. Participants were instructed to wear the device during all waking hours for seven consecutive days for each assessment. Physical activity data were considered valid if the device was worn ≥4 days and ≥10 h•day À1. Analyses were also conducted using all participants with ≥1 day and ≥10 h•day À1 . Mean measures of physical activity were similar, and, therefore, the data for ≥ 1 day and ≥10 h•day À1 are presented. Data were used to identify changes in steps, SED (<1.5 metabolic equivalents; METs), LPA (1.5 to >3.0 METs) and MVPA (≥3.0 METs). Total SED, LPA and MVPA were computed as the sum of all 1-min epocs that met the specific MET criteria. Moderate-tovigorous physical activity was also computed as the sum of periods that met the ≥3.0 MET criteria performed for >10 continuous minutes.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Statistical analyses were performed using SPSS software (IBM-SPSS, version 24). Statistical significance was set at p ≤ 0.05. Analyses were performed to examine if data were normally distributed. Normally distributed data are presented as mean ± standard deviation (SD). When data were not normally distributed, non-parametric tests were performed or data were transformed. Descriptive statistics summarized the study sample at baseline, and primary outcomes were analysed using repeated measures ANOVA. Significance for the effects of treatment group, time and group by time interaction were examined. Differences between SUP-PA, UNSUP-PA and STEP were examined overtime with the p-value adjusted for multiple comparisons using the Bonferroni procedure. Difference in the number of study participants achieving >5% weight loss between the intervention groups was determined using a chi-square test.\nAna priori power analysis was conducted to determine the sample size estimate for this study. This was based on the primary outcome of MVPA differences between the groups, with 80% statistical power and a type one error rate of 0.05, which was adjusted for two comparisons (SUP-PA vs. UNSUP-PA and SUP-PA vs. STEP) using the Bonferroni procedure. From a previous study comparing a supervised and unsupervised physical activity programme, we assumed the standard deviation for MVPA to be 26 min•week À1 (10). Based on this assumption and to be able to detect a 20 min•week À1 difference in MVPA between the planned comparisons, we required a sample size of 17 participants per group.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Fifty-two adults between the ages of 18 and 55 years with a BMI of 25.0 to <40.0 kg•m À2 were randomized. Mean age was 43.5 ± 10.1 years, and mean BMI was 31.5 ± 3.5 kg•m À2 , with 26.9% males and 32.7% nonwhite participants. Baseline characteristics are shown in Table. Figure illustrates recruitment, randomization and retention. Fifty-two individuals completed the baseline assessment and were randomized to STEP, SUP-PA or UNSUP-PA. Forty-nine participants (94.2%) completed the baseline and 12-week physical assessment. Data reported are based on those with complete data only. This was a pragmatic trial aimed at evaluating the effectiveness of supervised physical activity programmes vs. unsupervised programmes; thus, participants were not excluded from analyses based on non-compliance to the programme. Previous, supervised exercise trials have excluded participants who did not comply to exercise recommendations (~40% of participants enrolled); however, this approach limits generalizability.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "At baseline, there were no significant differences between groups for any measures of physical activity. Treatment groups reported similar amounts of activity monitor wear time (days/week and h/day) across the 12-week intervention. All three groups significantly increased MVPA (≥3.0 METs in bouts of ≥10 min) over the 12-week intervention (p < 0.001), with no differences between groups (p = 0.94) or group by time interaction (p = 0.81) (Table, Figure). Similar results were observed if all MVPA bouts >1 min were included. All groups increased total steps/day (p < 0.001) and MVPA steps/day completed in bouts ≥10 min (p < 0.001), with no significant group or group by time effects. STEP, UNSUP-PA and SUP-PA significantly decreased objectively measured SED (p < 0.001) and\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Change in weight and body composition is shown in Table. STEP, UNSUP-PA and SUP-PA had significant reductions weight (p < 0.001) with no differences between the groups. Percent weight loss was also not significantly different between the groups (STEP: À6.0 ± 4.0%, UNSUP-PA: À5.8 ± 3.6%, SUP-PA: À4.5 ± 3.5%; p < 0.43). Weight loss of 5% has been suggested as a minimal goal of standard behavioural weight loss interventions; (1) thus, STEP, UNSUP-PA and SUP-PA were further examined based upon achievement of 5% weight loss. Adjusted for multiple comparisons, Chi square analyses demonstrated that STEP (n = 12) and UNSUP-PA (n = 11) had more individuals attain 5% weight loss compared to SUP-PA (n = 5) (p < 0.05). Change in body composition and circumferences measures were also similar between treatment groups.\nSignificant reductions in fat mass (p < 0.001), % fat (p < 0.001), lean mass (p < 0.001), waist circumference (p < 0.0001) and hip circumference (p < 0.0001) were observed in all groups, with no significant group or group × time effects.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Cardiorespiratory fitness data are presented in Table. Cardiorespiratory fitness improved over the 12-week intervention (p < 0.001), and there was a significant group × time interaction effect (p = 0.01). Post-hoc analysis revealed a greater improvement in fitness in both SUP-PA (3.8 ± 1.6 mL kg•min À1 ) and UNSUP-PA (3.8 ± 3.2 mL kg•min À1 ) compared to STEP (1.3 ± 2.4 mL kg•min À1 ) (p < 0.05). There was no statistical difference between SUP-PA and UNSUP-PA for change in cardiorespiratory fitness. Because weight change could be a potential confounder in interpreting changes in relative VO 2 (mL kg•min À1 ), analyses were also performed using absolute VO 2 (L•min À1 ). There was a significant group × time interaction with UNSUP-PA (0.17 ± 0.24 L•min À1 ) and SUP-PA (0.22 ± 0.23 L•min À1 ) improving more than STEP (À0.04 ± 0.19 L•min À1 ) (p < 0.01). There was no significant difference between UNSUP-PA and SUP-PA.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "There was a significant reduction in caloric intake (p < 0.01), fat intake (p < 0.01), carbohydrate intake (p < 0.001) and protein intake (p < 0.01) for STEP, UNSUP-PA and SUP-PA over the 12-week intervention. There were no significant differences between groups, and there were no group × time interactions. There were no changes in percent of intake from fat (p = 0.34) or percent of intake from carbohydrates (p = 0.75); however, there was a significant increase in percent intake from protein (p < 0.01) for all treatment groups. Data are presented in Table.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The results of this study demonstrate that, when combined with a 12-week standard behavioural weight loss intervention, supervised and unsupervised physical activity result in increases in objective measures of physical activity. Moreover, STEP, UNSUP-PA and SUP-PA resulted in similar reductions in body weight and changes in body composition. These findings suggest that the three physical activity programmes examined in this study are feasible options for increasing physical activity and promoting weight loss within a standard behavioural weight loss intervention.  It is likely that weight loss outcomes were predominantly influenced by changes in energy intake. By design, STEP, UNSUP-PA and SUP-PA were given the same dietary recommendations and delivered via the same weekly behavioural lessons in an attempt to minimize variations in energy intake changes between groups. All three groups significantly reduced caloric intake by~400 to 500 kcals•day À1 across the intervention with no differences between groups. In addition, changes in macronutrient intake were also similar across treatment groups. Because there were no differences in energy intake, it is not surprising that there were no differences in weight change and body composition change between the groups.\nSTEP, UNSUP-PA and SUP-PA were successful at increasing levels of MVPA completed in bouts of ≥10 min with no differences between groups. Results of this study suggest that prescribing unsupervised physical activity can be just as effective as supervised physical activity for increasing MVPA completed in bouts of ≥10 min. This is important because MVPA, and more specifically MVPA completed in bouts of ≥ 10 min, are associated with improved long-term weight loss and weight maintenance. STEP, UNSUP-PA and SUP-PA demonstrated similar decreases in MVPA from weeks 8 to 12 despite physical activity recommendations remaining constant. It is unclear why all of the intervention conditions demonstrated this response, and further investigation of this pattern is warranted. However, while speculative, this may reflect the need for more effective behavioural strategies to sustain physical activity beyond the initial 8 weeks or for the final weeks leading up to study completion. In addition, all groups showed an increase in LPA and a decrease in SED across the 12-week intervention. Thus, all three physical activity programmes elicited similar physical activity responses including changes in SED, LPA and MVPA.\nThe observed weight losses are comparable to previous standard behavioural weight loss intervention that were 3-6 months in duration. Results of the current study closely parallel the findings of Craighead and Blum, which found that combining a standard behavioural weight loss intervention with supervised exercise induced a weight loss of 5.0 ± 1.2 kg, while Change in weight, body composition, anthropometrics and fitness P-values contracted (unsupervised) exercise induced a weight loss of 3.8 ± 1.4 kg. However, physical activity participation data were not reported by, whereas these data are reported in the current study. Moreover, the current study reported that both STEP and UNSUP-PA had significantly more individuals achieving 5% weight loss compared to SUP-PA. It is unclear why STEP and UNSUP-PA had higher rates of individuals achieving 5% weight loss because physical activity and energy intake were not different between groups. Nonetheless, this is an intriguing finding that warrants further investigation.\nBoth UNSUP-PA and SUP-PA improved relative and absolute fitness more than STEP in response to this intervention. When comparing SUP-PA and UNSUP-PA, the results of the current study closely parallel those of Perri et al., which found that supervised exercise and home-based exercise improved relative VO 2 peak and absolute oxygen consumption after 6 months of training. While it is unclear why STEP did not improve absolute fitness, it is possible that there were differences in intensity or volume of physical activity compared to SUP-PA and UNSUP-PA that were not detectable with the measures used in this study.\nA unique contribution of this study was to compare a steps/day physical activity prescription (STEP) to both SUP-PA and UNSUP-PA. Objective physical activity data confirmed that STEP closely matched the step recommendations throughout the intervention and had similar changes in physical activity behaviours (i.e. SED, LPA and MVPA) compared to SUP-PA and UNSUP-PA. Because walking is an easy, safe and highly accessible form of physical activity, this finding has multiple public health implications. Physical activity in the form of walking and brisk walking may facilitate engagement in physical activity within the context of a standard behavioural weight loss intervention, and this may contribute to weight loss. Physical activity prescriptions in the form of steps/day recommendations maybe well received in the general population, especially with the influx of consumer physical activity devices available. Moreover, for individuals who prefer walking vs. other forms of physical activity, this study provides evidence that this form of physical activity is sufficient to elicit significant weight loss when combined with dietary change.\nThe limitations of this study should be considered when interpreting the observed results. This study was 12 weeks in duration, which may not represent the effectiveness of these different intervention strategies if observed fora longer period of time. Moreover, this study focused on initial weight loss rather than maintenance, so it will be necessary to determine if these strategies to increase physical activity have similar effects on Table Change in dietary intake P-values weight loss maintenance. Despite the participants selfreporting <60 min•week À1 of structured physical activity upon entry into this study, these participants were relatively more active than population averages based on objective assessment at study entry, which may have influenced the findings. Furthermore, this study may have been underpowered to detect meaningful clinical difference between the intervention conditions. This maybe a result of the sample size being based on the ability to detect a 20 min per week difference between groups, which may have been too small of a difference, or due to the higher than anticipated variance observed in objectively measured physical activity in this study. However, these data maybe valuable to inform future samples sizes in similar studies of physical activity.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "This study demonstrates that unsupervised physical activity programmes can be as effective as a supervised programme for increasing MVPA during a standard behavioural weight loss intervention for adults who are overweight or obese. Within the context of a standard behavioural weight loss intervention, increased MVPA was also accompanied by significant reductions in body weight and favourable reductions in body fatness. Future studies that do not have the facilities or resources to conduct supervised physical activity sessions may benefit from prescribing physical activity in a similar unsupervised manner. Whether the results of this study will apply to interventions of longer duration or for other study populations warrants further investigation. However, this study provides compelling evidence that unsupervised physical activity, prescribed in minutes or steps, can elicit engagement in physical activity that is similar to supervised physical activity within the context of a comprehensive standard behavioural weight loss intervention in adults who are overweight or obese.\n",
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "43.5 ±",
+          "rowHeaders": [
+            "Age (years)",
+            "Black or African American n, %"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline characteristics",
+            "Table 1 Baseline characteristics",
+            "TOTAL",
+            "n = 52",
+            "Mean ± SD"
+          ]
+        },
+        {
+          "value": "10.1",
+          "rowHeaders": [
+            "Age (years)",
+            "Black or African American n, %"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline characteristics",
+            "Table 1 Baseline characteristics",
+            "TOTAL",
+            "n = 52",
+            "Mean ± SD"
+          ]
+        },
+        {
+          "value": "39.3 ±",
+          "rowHeaders": [
+            "Age (years)",
+            "Black or African American n, %"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline characteristics",
+            "Table 1 Baseline characteristics",
+            "STEP",
+            "n = 18",
+            "Mean ± SD"
+          ]
+        },
+        {
+          "value": "10.7",
+          "rowHeaders": [
+            "Age (years)",
+            "Black or African American n, %"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline characteristics",
+            "Table 1 Baseline characteristics",
+            "STEP",
+            "n = 18",
+            "Mean ± SD"
+          ]
+        },
+        {
+          "value": "46.2 ±",
+          "rowHeaders": [
+            "Age (years)",
+            "Black or African American n, %"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline characteristics",
+            "Table 1 Baseline characteristics",
+            "UNSUP-PA",
+            "n = 17",
+            "Mean ± SD"
+          ]
+        },
+        {
+          "value": "10.1",
+          "rowHeaders": [
+            "Age (years)",
+            "Black or African American n, %"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline characteristics",
+            "Table 1 Baseline characteristics",
+            "UNSUP-PA",
+            "n = 17",
+            "Mean ± SD"
+          ]
+        },
+        {
+          "value": "45.2 ±",
+          "rowHeaders": [
+            "Age (years)",
+            "Black or African American n, %"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline characteristics",
+            "Table 1 Baseline characteristics",
+            "SUP-PA",
+            "n = 17",
+            "Mean ± SD"
+          ]
+        },
+        {
+          "value": "8.5",
+          "rowHeaders": [
+            "Age (years)",
+            "Black or African American n, %"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline characteristics",
+            "Table 1 Baseline characteristics",
+            "SUP-PA",
+            "n = 17",
+            "Mean ± SD"
+          ]
+        },
+        {
+          "value": "165.5 ±",
+          "rowHeaders": [
+            "Height (cm)",
+            "Black or African American n, %"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline characteristics",
+            "Table 1 Baseline characteristics",
+            "TOTAL",
+            "n = 52",
+            "Mean ± SD"
+          ]
+        },
+        {
+          "value": "9.0",
+          "rowHeaders": [
+            "Height (cm)",
+            "Black or African American n, %"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline characteristics",
+            "Table 1 Baseline characteristics",
+            "TOTAL",
+            "n = 52",
+            "Mean ± SD"
+          ]
+        },
+        {
+          "value": "168.2 ±",
+          "rowHeaders": [
+            "Height (cm)",
+            "Black or African American n, %"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline characteristics",
+            "Table 1 Baseline characteristics",
+            "STEP",
+            "n = 18",
+            "Mean ± SD"
+          ]
+        },
+        {
+          "value": "8.9",
+          "rowHeaders": [
+            "Height (cm)",
+            "Black or African American n, %"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline characteristics",
+            "Table 1 Baseline characteristics",
+            "STEP",
+            "n = 18",
+            "Mean ± SD"
+          ]
+        },
+        {
+          "value": "165.9 ±",
+          "rowHeaders": [
+            "Height (cm)",
+            "Black or African American n, %"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline characteristics",
+            "Table 1 Baseline characteristics",
+            "UNSUP-PA",
+            "n = 17",
+            "Mean ± SD"
+          ]
+        },
+        {
+          "value": "6.8",
+          "rowHeaders": [
+            "Height (cm)",
+            "Black or African American n, %"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline characteristics",
+            "Table 1 Baseline characteristics",
+            "UNSUP-PA",
+            "n = 17",
+            "Mean ± SD"
+          ]
+        },
+        {
+          "value": "162.3 ±",
+          "rowHeaders": [
+            "Height (cm)",
+            "Black or African American n, %"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline characteristics",
+            "Table 1 Baseline characteristics",
+            "SUP-PA",
+            "n = 17",
+            "Mean ± SD"
+          ]
+        },
+        {
+          "value": "10.4",
+          "rowHeaders": [
+            "Height (cm)",
+            "Black or African American n, %"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline characteristics",
+            "Table 1 Baseline characteristics",
+            "SUP-PA",
+            "n = 17",
+            "Mean ± SD"
+          ]
+        },
+        {
+          "value": "86.4 ±",
+          "rowHeaders": [
+            "Weight (kg)",
+            "Black or African American n, %"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline characteristics",
+            "Table 1 Baseline characteristics",
+            "TOTAL",
+            "n = 52",
+            "Mean ± SD"
+          ]
+        },
+        {
+          "value": "13.5",
+          "rowHeaders": [
+            "Weight (kg)",
+            "Black or African American n, %"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline characteristics",
+            "Table 1 Baseline characteristics",
+            "TOTAL",
+            "n = 52",
+            "Mean ± SD"
+          ]
+        },
+        {
+          "value": "88.2 ±",
+          "rowHeaders": [
+            "Weight (kg)",
+            "Black or African American n, %"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline characteristics",
+            "Table 1 Baseline characteristics",
+            "STEP",
+            "n = 18",
+            "Mean ± SD"
+          ]
+        },
+        {
+          "value": "14.5",
+          "rowHeaders": [
+            "Weight (kg)",
+            "Black or African American n, %"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline characteristics",
+            "Table 1 Baseline characteristics",
+            "STEP",
+            "n = 18",
+            "Mean ± SD"
+          ]
+        },
+        {
+          "value": "86.5 ±",
+          "rowHeaders": [
+            "Weight (kg)",
+            "Black or African American n, %"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline characteristics",
+            "Table 1 Baseline characteristics",
+            "UNSUP-PA",
+            "n = 17",
+            "Mean ± SD"
+          ]
+        },
+        {
+          "value": "12.8",
+          "rowHeaders": [
+            "Weight (kg)",
+            "Black or African American n, %"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline characteristics",
+            "Table 1 Baseline characteristics",
+            "UNSUP-PA",
+            "n = 17",
+            "Mean ± SD"
+          ]
+        },
+        {
+          "value": "84.5 ±",
+          "rowHeaders": [
+            "Weight (kg)",
+            "Black or African American n, %"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline characteristics",
+            "Table 1 Baseline characteristics",
+            "SUP-PA",
+            "n = 17",
+            "Mean ± SD"
+          ]
+        },
+        {
+          "value": "13.6",
+          "rowHeaders": [
+            "Weight (kg)",
+            "Black or African American n, %"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline characteristics",
+            "Table 1 Baseline characteristics",
+            "SUP-PA",
+            "n = 17",
+            "Mean ± SD"
+          ]
+        },
+        {
+          "value": "31.5 ±",
+          "rowHeaders": [
+            "BMI (kg•mÀ2"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline characteristics",
+            "Table 1 Baseline characteristics",
+            "TOTAL",
+            "n = 52",
+            "Mean ± SD"
+          ]
+        },
+        {
+          "value": "3.5",
+          "rowHeaders": [
+            "BMI (kg•mÀ2"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline characteristics",
+            "Table 1 Baseline characteristics",
+            "TOTAL",
+            "n = 52",
+            "Mean ± SD"
+          ]
+        },
+        {
+          "value": "31.1 ±",
+          "rowHeaders": [
+            "BMI (kg•mÀ2"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline characteristics",
+            "Table 1 Baseline characteristics",
+            "STEP",
+            "n = 18",
+            "Mean ± SD"
+          ]
+        },
+        {
+          "value": "3.8",
+          "rowHeaders": [
+            "BMI (kg•mÀ2"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline characteristics",
+            "Table 1 Baseline characteristics",
+            "STEP",
+            "n = 18",
+            "Mean ± SD"
+          ]
+        },
+        {
+          "value": "31.3 ±",
+          "rowHeaders": [
+            "BMI (kg•mÀ2"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline characteristics",
+            "Table 1 Baseline characteristics",
+            "UNSUP-PA",
+            "n = 17",
+            "Mean ± SD"
+          ]
+        },
+        {
+          "value": "3.3",
+          "rowHeaders": [
+            "BMI (kg•mÀ2"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline characteristics",
+            "Table 1 Baseline characteristics",
+            "UNSUP-PA",
+            "n = 17",
+            "Mean ± SD"
+          ]
+        },
+        {
+          "value": "32.0 ±",
+          "rowHeaders": [
+            "BMI (kg•mÀ2"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline characteristics",
+            "Table 1 Baseline characteristics",
+            "SUP-PA",
+            "n = 17",
+            "Mean ± SD"
+          ]
+        },
+        {
+          "value": "3.5",
+          "rowHeaders": [
+            "BMI (kg•mÀ2"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline characteristics",
+            "Table 1 Baseline characteristics",
+            "SUP-PA",
+            "n = 17",
+            "Mean ± SD"
+          ]
+        },
+        {
+          "value": "26.9%",
+          "rowHeaders": [
+            "Black or African American n, %",
+            "Male n,%"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline characteristics",
+            "Table 1 Baseline characteristics",
+            "TOTAL",
+            "n = 52",
+            "Mean ± SD"
+          ]
+        },
+        {
+          "value": "27.8%",
+          "rowHeaders": [
+            "Black or African American n, %",
+            "Male n,%"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline characteristics",
+            "Table 1 Baseline characteristics",
+            "STEP",
+            "n = 18",
+            "Mean ± SD"
+          ]
+        },
+        {
+          "value": "29.4%",
+          "rowHeaders": [
+            "Black or African American n, %",
+            "Male n,%"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline characteristics",
+            "Table 1 Baseline characteristics",
+            "UNSUP-PA",
+            "n = 17",
+            "Mean ± SD"
+          ]
+        },
+        {
+          "value": "23.5%",
+          "rowHeaders": [
+            "Black or African American n, %",
+            "Male n,%"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline characteristics",
+            "Table 1 Baseline characteristics",
+            "SUP-PA",
+            "n = 17",
+            "Mean ± SD"
+          ]
+        },
+        {
+          "value": "73.1%",
+          "rowHeaders": [
+            "Female n,%"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline characteristics",
+            "Table 1 Baseline characteristics",
+            "TOTAL",
+            "n = 52",
+            "Mean ± SD"
+          ]
+        },
+        {
+          "value": "72.2%",
+          "rowHeaders": [
+            "Female n,%"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline characteristics",
+            "Table 1 Baseline characteristics",
+            "STEP",
+            "n = 18",
+            "Mean ± SD"
+          ]
+        },
+        {
+          "value": "70.6%",
+          "rowHeaders": [
+            "Female n,%"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline characteristics",
+            "Table 1 Baseline characteristics",
+            "UNSUP-PA",
+            "n = 17",
+            "Mean ± SD"
+          ]
+        },
+        {
+          "value": "76.5%",
+          "rowHeaders": [
+            "Female n,%"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline characteristics",
+            "Table 1 Baseline characteristics",
+            "SUP-PA",
+            "n = 17",
+            "Mean ± SD"
+          ]
+        },
+        {
+          "value": "67.3%",
+          "rowHeaders": [
+            "Black or African American n, %"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline characteristics",
+            "Table 1 Baseline characteristics",
+            "TOTAL",
+            "n = 52",
+            "Mean ± SD"
+          ]
+        },
+        {
+          "value": "66.7%",
+          "rowHeaders": [
+            "Black or African American n, %"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline characteristics",
+            "Table 1 Baseline characteristics",
+            "STEP",
+            "n = 18",
+            "Mean ± SD"
+          ]
+        },
+        {
+          "value": "64.7%",
+          "rowHeaders": [
+            "Black or African American n, %"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline characteristics",
+            "Table 1 Baseline characteristics",
+            "UNSUP-PA",
+            "n = 17",
+            "Mean ± SD"
+          ]
+        },
+        {
+          "value": "70.6%",
+          "rowHeaders": [
+            "Black or African American n, %"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline characteristics",
+            "Table 1 Baseline characteristics",
+            "SUP-PA",
+            "n = 17",
+            "Mean ± SD"
+          ]
+        },
+        {
+          "value": "32.7%",
+          "rowHeaders": [
+            "Non-white n,%",
+            "Female n,%"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline characteristics",
+            "Table 1 Baseline characteristics",
+            "TOTAL",
+            "n = 52",
+            "Mean ± SD"
+          ]
+        },
+        {
+          "value": "33.3%",
+          "rowHeaders": [
+            "Non-white n,%",
+            "Female n,%"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline characteristics",
+            "Table 1 Baseline characteristics",
+            "STEP",
+            "n = 18",
+            "Mean ± SD"
+          ]
+        },
+        {
+          "value": "35.3%",
+          "rowHeaders": [
+            "Non-white n,%",
+            "Female n,%"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline characteristics",
+            "Table 1 Baseline characteristics",
+            "UNSUP-PA",
+            "n = 17",
+            "Mean ± SD"
+          ]
+        },
+        {
+          "value": "29.4%",
+          "rowHeaders": [
+            "Non-white n,%",
+            "Female n,%"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline characteristics",
+            "Table 1 Baseline characteristics",
+            "SUP-PA",
+            "n = 17",
+            "Mean ± SD"
+          ]
+        },
+        {
+          "value": "23.1%",
+          "rowHeaders": [
+            "Black or African American n, %"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline characteristics",
+            "Table 1 Baseline characteristics",
+            "TOTAL",
+            "n = 52",
+            "Mean ± SD"
+          ]
+        },
+        {
+          "value": "16.7%",
+          "rowHeaders": [
+            "Black or African American n, %",
+            "Female n,%"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline characteristics",
+            "Table 1 Baseline characteristics",
+            "STEP",
+            "n = 18",
+            "Mean ± SD"
+          ]
+        },
+        {
+          "value": "29.4%",
+          "rowHeaders": [
+            "Black or African American n, %",
+            "Female n,%"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline characteristics",
+            "Table 1 Baseline characteristics",
+            "UNSUP-PA",
+            "n = 17",
+            "Mean ± SD"
+          ]
+        },
+        {
+          "value": "23.5%",
+          "rowHeaders": [
+            "Black or African American n, %",
+            "Female n,%"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline characteristics",
+            "Table 1 Baseline characteristics",
+            "SUP-PA",
+            "n = 17",
+            "Mean ± SD"
+          ]
+        },
+        {
+          "value": "9.6%",
+          "rowHeaders": [
+            "Black or African American n, %"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline characteristics",
+            "Table 1 Baseline characteristics",
+            "TOTAL",
+            "n = 52",
+            "Mean ± SD"
+          ]
+        },
+        {
+          "value": "16.7%",
+          "rowHeaders": [
+            "Black or African American n, %"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline characteristics",
+            "Table 1 Baseline characteristics",
+            "STEP",
+            "n = 18",
+            "Mean ± SD"
+          ]
+        },
+        {
+          "value": "5.9%",
+          "rowHeaders": [
+            "Black or African American n, %"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline characteristics",
+            "Table 1 Baseline characteristics",
+            "UNSUP-PA",
+            "n = 17",
+            "Mean ± SD"
+          ]
+        },
+        {
+          "value": "5.9%",
+          "rowHeaders": [
+            "Black or African American n, %"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline characteristics",
+            "Table 1 Baseline characteristics",
+            "SUP-PA",
+            "n = 17",
+            "Mean ± SD"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "0.40",
+          "rowHeaders": [
+            "Total steps",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "STEP (n = 17)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "P-values",
+            "Group"
+          ]
+        },
+        {
+          "value": "<0.001",
+          "rowHeaders": [
+            "Total steps",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "STEP (n = 17)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "P-values",
+            "Time"
+          ]
+        },
+        {
+          "value": "0.79",
+          "rowHeaders": [
+            "Total steps",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "STEP (n = 17)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "P-values",
+            "Group × time"
+          ]
+        },
+        {
+          "value": "585.6 ±",
+          "rowHeaders": [
+            "Bouted MVPA steps",
+            "SED (min•day",
+            "STEP (n = 17)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Groups",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "113.6",
+          "rowHeaders": [
+            "Bouted MVPA steps",
+            "SED (min•day",
+            "STEP (n = 17)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "579.2 ±",
+          "rowHeaders": [
+            "Bouted MVPA steps",
+            "SED (min•day",
+            "STEP (n = 17)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "4 weeks"
+          ]
+        },
+        {
+          "value": "105.4",
+          "rowHeaders": [
+            "MVPA (min•dayÀ1)",
+            "SED (min•day",
+            "STEP (n = 17)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "4 weeks"
+          ]
+        },
+        {
+          "value": "521.8 ±",
+          "rowHeaders": [
+            "MVPA (min•dayÀ1)",
+            "SED (min•day",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "STEP (n = 17)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "8 weeks"
+          ]
+        },
+        {
+          "value": "126.3",
+          "rowHeaders": [
+            "SED (min•day",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "STEP (n = 17)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "8 weeks"
+          ]
+        },
+        {
+          "value": "524.7 ±",
+          "rowHeaders": [
+            "SED (min•day",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "STEP (n = 17)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "12 weeks"
+          ]
+        },
+        {
+          "value": "110.0",
+          "rowHeaders": [
+            "SED (min•day",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "STEP (n = 17)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "P-values",
+            "12 weeks"
+          ]
+        },
+        {
+          "value": "0.20",
+          "rowHeaders": [
+            "SED (min•day",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "STEP (n = 17)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "P-values",
+            "Group"
+          ]
+        },
+        {
+          "value": "<0.001",
+          "rowHeaders": [
+            "SED (min•day",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "STEP (n = 17)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "P-values",
+            "Time"
+          ]
+        },
+        {
+          "value": "0.99",
+          "rowHeaders": [
+            "SED (min•day",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "STEP (n = 17)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "P-values",
+            "Group × time"
+          ]
+        },
+        {
+          "value": "638.3 ±",
+          "rowHeaders": [
+            "Bouted MVPA steps",
+            "SED (min•day",
+            "UNSUP-PA (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Groups",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "106.4",
+          "rowHeaders": [
+            "Bouted MVPA steps",
+            "SED (min•day",
+            "UNSUP-PA (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "621.3 ±",
+          "rowHeaders": [
+            "MVPA (min•dayÀ1)",
+            "SED (min•day",
+            "UNSUP-PA (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "4 weeks"
+          ]
+        },
+        {
+          "value": "88.2",
+          "rowHeaders": [
+            "MVPA (min•dayÀ1)",
+            "SED (min•day",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "UNSUP-PA (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "4 weeks"
+          ]
+        },
+        {
+          "value": "586.5 ±",
+          "rowHeaders": [
+            "MVPA (min•dayÀ1)",
+            "SED (min•day",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "UNSUP-PA (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "8 weeks"
+          ]
+        },
+        {
+          "value": "103.0",
+          "rowHeaders": [
+            "SED (min•day",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "UNSUP-PA (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "8 weeks"
+          ]
+        },
+        {
+          "value": "582.1 ±",
+          "rowHeaders": [
+            "SED (min•day",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "UNSUP-PA (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "12 weeks"
+          ]
+        },
+        {
+          "value": "112.7",
+          "rowHeaders": [
+            "SED (min•day",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "UNSUP-PA (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "P-values",
+            "12 weeks"
+          ]
+        },
+        {
+          "value": "583.7 ±",
+          "rowHeaders": [
+            "MVPA (min•dayÀ1)",
+            "LPA (min•day",
+            "SUP-PA (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Groups",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "109.1",
+          "rowHeaders": [
+            "MVPA (min•dayÀ1)",
+            "LPA (min•day",
+            "SUP-PA (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "571.8 ±",
+          "rowHeaders": [
+            "MVPA (min•dayÀ1)",
+            "SED (min•day",
+            "SUP-PA (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "4 weeks"
+          ]
+        },
+        {
+          "value": "114.8",
+          "rowHeaders": [
+            "MVPA (min•dayÀ1)",
+            "SED (min•day",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "SUP-PA (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "4 weeks"
+          ]
+        },
+        {
+          "value": "517.9 ±",
+          "rowHeaders": [
+            "SED (min•day",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "SUP-PA (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "8 weeks"
+          ]
+        },
+        {
+          "value": "110.6",
+          "rowHeaders": [
+            "SED (min•day",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "SUP-PA (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "8 weeks"
+          ]
+        },
+        {
+          "value": "520.9 ±",
+          "rowHeaders": [
+            "SED (min•day",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "SUP-PA (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "12 weeks"
+          ]
+        },
+        {
+          "value": "129.1",
+          "rowHeaders": [
+            "SED (min•day",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "SUP-PA (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "P-values",
+            "12 weeks"
+          ]
+        },
+        {
+          "value": "189.3 ±",
+          "rowHeaders": [
+            "MVPA (min•dayÀ1)",
+            "LPA (min•day",
+            "STEP (n = 17)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Groups",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "57.9",
+          "rowHeaders": [
+            "MVPA (min•dayÀ1)",
+            "LPA (min•day",
+            "STEP (n = 17)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "210.2 ±",
+          "rowHeaders": [
+            "MVPA (min•dayÀ1)",
+            "LPA (min•day",
+            "STEP (n = 17)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "4 weeks"
+          ]
+        },
+        {
+          "value": "62.2",
+          "rowHeaders": [
+            "MVPA (min•dayÀ1)",
+            "LPA (min•day",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "STEP (n = 17)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "4 weeks"
+          ]
+        },
+        {
+          "value": "252.7 ±",
+          "rowHeaders": [
+            "LPA (min•day",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "STEP (n = 17)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "8 weeks"
+          ]
+        },
+        {
+          "value": "82.0",
+          "rowHeaders": [
+            "LPA (min•day",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "STEP (n = 17)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "8 weeks"
+          ]
+        },
+        {
+          "value": "259.0 ±",
+          "rowHeaders": [
+            "LPA (min•day",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "STEP (n = 17)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "12 weeks"
+          ]
+        },
+        {
+          "value": "65.3",
+          "rowHeaders": [
+            "LPA (min•day",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "STEP (n = 17)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "P-values",
+            "12 weeks"
+          ]
+        },
+        {
+          "value": "0.27",
+          "rowHeaders": [
+            "LPA (min•day",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "STEP (n = 17)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "P-values",
+            "Group"
+          ]
+        },
+        {
+          "value": "<0.001",
+          "rowHeaders": [
+            "LPA (min•day",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "STEP (n = 17)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "P-values",
+            "Time"
+          ]
+        },
+        {
+          "value": "0.30",
+          "rowHeaders": [
+            "LPA (min•day",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "STEP (n = 17)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "P-values",
+            "Group × time"
+          ]
+        },
+        {
+          "value": "174.0 ±",
+          "rowHeaders": [
+            "MVPA (min•dayÀ1)",
+            "LPA (min•day",
+            "UNSUP-PA (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Groups",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "67.7",
+          "rowHeaders": [
+            "MVPA (min•dayÀ1)",
+            "LPA (min•day",
+            "UNSUP-PA (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "180.2 ±",
+          "rowHeaders": [
+            "MVPA (min•dayÀ1)",
+            "LPA (min•day",
+            "UNSUP-PA (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "4 weeks"
+          ]
+        },
+        {
+          "value": "66.7",
+          "rowHeaders": [
+            "LPA (min•day",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "UNSUP-PA (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "4 weeks"
+          ]
+        },
+        {
+          "value": "199.8 ±",
+          "rowHeaders": [
+            "LPA (min•day",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "UNSUP-PA (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "8 weeks"
+          ]
+        },
+        {
+          "value": "62.8",
+          "rowHeaders": [
+            "LPA (min•day",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "UNSUP-PA (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "8 weeks"
+          ]
+        },
+        {
+          "value": "231.1 ±",
+          "rowHeaders": [
+            "LPA (min•day",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "UNSUP-PA (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "12 weeks"
+          ]
+        },
+        {
+          "value": "81.2",
+          "rowHeaders": [
+            "LPA (min•day",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "UNSUP-PA (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "P-values",
+            "12 weeks"
+          ]
+        },
+        {
+          "value": "209.1 ±",
+          "rowHeaders": [
+            "MVPA (min•dayÀ1)",
+            "LPA (min•day",
+            "SUP-PA (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Groups",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "82.8",
+          "rowHeaders": [
+            "MVPA (min•dayÀ1)",
+            "LPA (min•day",
+            "SUP-PA (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "216.7 ±",
+          "rowHeaders": [
+            "MVPA (min•dayÀ1)",
+            "LPA (min•day",
+            "SUP-PA (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "4 weeks"
+          ]
+        },
+        {
+          "value": "73.9",
+          "rowHeaders": [
+            "LPA (min•day",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "SUP-PA (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "4 weeks"
+          ]
+        },
+        {
+          "value": "249.4 ±",
+          "rowHeaders": [
+            "LPA (min•day",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "SUP-PA (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "8 weeks"
+          ]
+        },
+        {
+          "value": "90.5",
+          "rowHeaders": [
+            "LPA (min•day",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "SUP-PA (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "8 weeks"
+          ]
+        },
+        {
+          "value": "237.4 ±",
+          "rowHeaders": [
+            "LPA (min•day",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "SUP-PA (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "12 weeks"
+          ]
+        },
+        {
+          "value": "76.6",
+          "rowHeaders": [
+            "LPA (min•day",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "SUP-PA (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "P-values",
+            "12 weeks"
+          ]
+        },
+        {
+          "value": "60.9 ±",
+          "rowHeaders": [
+            "MVPA (min•dayÀ1)",
+            "Bouted MVPA",
+            "STEP (n = 17)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Groups",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "45.2",
+          "rowHeaders": [
+            "MVPA (min•dayÀ1)",
+            "Bouted MVPA",
+            "STEP (n = 17)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "71.5 ±",
+          "rowHeaders": [
+            "MVPA (min•dayÀ1)",
+            "Bouted MVPA",
+            "STEP (n = 17)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "4 weeks"
+          ]
+        },
+        {
+          "value": "33.3",
+          "rowHeaders": [
+            "MVPA (min•dayÀ1)",
+            "Bouted MVPA",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "STEP (n = 17)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "4 weeks"
+          ]
+        },
+        {
+          "value": "76.9 ±",
+          "rowHeaders": [
+            "MVPA (min•dayÀ1)",
+            "Bouted MVPA",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "STEP (n = 17)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "8 weeks"
+          ]
+        },
+        {
+          "value": "41.0",
+          "rowHeaders": [
+            "MVPA (min•dayÀ1)",
+            "Bouted MVPA",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "STEP (n = 17)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "8 weeks"
+          ]
+        },
+        {
+          "value": "75.3 ±",
+          "rowHeaders": [
+            "MVPA (min•dayÀ1)",
+            "Bouted MVPA",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "STEP (n = 17)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "12 weeks"
+          ]
+        },
+        {
+          "value": "40.2",
+          "rowHeaders": [
+            "MVPA (min•dayÀ1)",
+            "Bouted MVPA",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "STEP (n = 17)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "P-values",
+            "12 weeks"
+          ]
+        },
+        {
+          "value": "0.74",
+          "rowHeaders": [
+            "MVPA (min•dayÀ1)",
+            "Bouted MVPA",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "STEP (n = 17)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "P-values",
+            "Group"
+          ]
+        },
+        {
+          "value": "<0.001",
+          "rowHeaders": [
+            "MVPA (min•dayÀ1)",
+            "Bouted MVPA",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "STEP (n = 17)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "P-values",
+            "Time"
+          ]
+        },
+        {
+          "value": "0.98",
+          "rowHeaders": [
+            "MVPA (min•dayÀ1)",
+            "Bouted MVPA",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "STEP (n = 17)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "P-values",
+            "Group × time"
+          ]
+        },
+        {
+          "value": "49.2 ±",
+          "rowHeaders": [
+            "MVPA (min•dayÀ1)",
+            "Bouted MVPA",
+            "UNSUP-PA (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Groups",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "44.3",
+          "rowHeaders": [
+            "MVPA (min•dayÀ1)",
+            "Bouted MVPA",
+            "UNSUP-PA (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "63.3 ±",
+          "rowHeaders": [
+            "MVPA (min•dayÀ1)",
+            "Bouted MVPA",
+            "UNSUP-PA (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "4 weeks"
+          ]
+        },
+        {
+          "value": "49.8",
+          "rowHeaders": [
+            "Bouted MVPA",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "UNSUP-PA (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "4 weeks"
+          ]
+        },
+        {
+          "value": "67.6 ±",
+          "rowHeaders": [
+            "Bouted MVPA",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "UNSUP-PA (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "8 weeks"
+          ]
+        },
+        {
+          "value": "53.4",
+          "rowHeaders": [
+            "Bouted MVPA",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "UNSUP-PA (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "8 weeks"
+          ]
+        },
+        {
+          "value": "64.8 ±",
+          "rowHeaders": [
+            "Bouted MVPA",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "UNSUP-PA (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "12 weeks"
+          ]
+        },
+        {
+          "value": "50.2",
+          "rowHeaders": [
+            "Bouted MVPA",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "UNSUP-PA (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "P-values",
+            "12 weeks"
+          ]
+        },
+        {
+          "value": "55.3 ±",
+          "rowHeaders": [
+            "MVPA (min•dayÀ1)",
+            "Bouted MVPA",
+            "SUP-PA (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Groups",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "46.9",
+          "rowHeaders": [
+            "Bouted MVPA steps",
+            "Bouted MVPA",
+            "SUP-PA (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "75.4 ±",
+          "rowHeaders": [
+            "Bouted MVPA steps",
+            "Bouted MVPA",
+            "SUP-PA (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "4 weeks"
+          ]
+        },
+        {
+          "value": "43.4",
+          "rowHeaders": [
+            "Bouted MVPA",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "SUP-PA (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "4 weeks"
+          ]
+        },
+        {
+          "value": "80.3 ±",
+          "rowHeaders": [
+            "Bouted MVPA",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "SUP-PA (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "8 weeks"
+          ]
+        },
+        {
+          "value": "53.8",
+          "rowHeaders": [
+            "Bouted MVPA",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "SUP-PA (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "8 weeks"
+          ]
+        },
+        {
+          "value": "75.3 ±",
+          "rowHeaders": [
+            "Bouted MVPA",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "SUP-PA (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "12 weeks"
+          ]
+        },
+        {
+          "value": "55.4",
+          "rowHeaders": [
+            "Bouted MVPA",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "SUP-PA (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "P-values",
+            "12 weeks"
+          ]
+        },
+        {
+          "value": "35.4 ±",
+          "rowHeaders": [
+            "Bouted MVPA steps",
+            "Bouted MVPA",
+            "STEP (n = 17)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Groups",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "33.5",
+          "rowHeaders": [
+            "Bouted MVPA steps",
+            "Bouted MVPA",
+            "STEP (n = 17)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "42.8 ±",
+          "rowHeaders": [
+            "Bouted MVPA steps",
+            "Bouted MVPA",
+            "STEP (n = 17)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "4 weeks"
+          ]
+        },
+        {
+          "value": "23.6",
+          "rowHeaders": [
+            "Bouted MVPA",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "STEP (n = 17)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "4 weeks"
+          ]
+        },
+        {
+          "value": "51.2 ±",
+          "rowHeaders": [
+            "Bouted MVPA",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "STEP (n = 17)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "8 weeks"
+          ]
+        },
+        {
+          "value": "33.5",
+          "rowHeaders": [
+            "Bouted MVPA",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "STEP (n = 17)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "8 weeks"
+          ]
+        },
+        {
+          "value": "47.0 ±",
+          "rowHeaders": [
+            "Bouted MVPA",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "STEP (n = 17)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "12 weeks"
+          ]
+        },
+        {
+          "value": "28.2",
+          "rowHeaders": [
+            "Bouted MVPA",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "STEP (n = 17)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "P-values",
+            "12 weeks"
+          ]
+        },
+        {
+          "value": "0.94",
+          "rowHeaders": [
+            "Bouted MVPA",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "STEP (n = 17)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "P-values",
+            "Group"
+          ]
+        },
+        {
+          "value": "<0.001",
+          "rowHeaders": [
+            "Bouted MVPA",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "STEP (n = 17)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "P-values",
+            "Time"
+          ]
+        },
+        {
+          "value": "0.81",
+          "rowHeaders": [
+            "Bouted MVPA",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "STEP (n = 17)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "P-values",
+            "Group × time"
+          ]
+        },
+        {
+          "value": "25.6 ±",
+          "rowHeaders": [
+            "Bouted MVPA steps",
+            "(min•day",
+            "UNSUP-PA (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Groups",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "36.0",
+          "rowHeaders": [
+            "Bouted MVPA steps",
+            "(min•day",
+            "UNSUP-PA (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "38.3 ±",
+          "rowHeaders": [
+            "Bouted MVPA steps",
+            "(min•day",
+            "UNSUP-PA (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "4 weeks"
+          ]
+        },
+        {
+          "value": "42.6",
+          "rowHeaders": [
+            "(min•day",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "UNSUP-PA (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "4 weeks"
+          ]
+        },
+        {
+          "value": "46.1 ±",
+          "rowHeaders": [
+            "(min•day",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "UNSUP-PA (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "8 weeks"
+          ]
+        },
+        {
+          "value": "45.5",
+          "rowHeaders": [
+            "(min•day",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "UNSUP-PA (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "8 weeks"
+          ]
+        },
+        {
+          "value": "41.7 ±",
+          "rowHeaders": [
+            "(min•day",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "UNSUP-PA (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "12 weeks"
+          ]
+        },
+        {
+          "value": "44.5",
+          "rowHeaders": [
+            "(min•day",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "UNSUP-PA (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "P-values",
+            "12 weeks"
+          ]
+        },
+        {
+          "value": "28.0 ±",
+          "rowHeaders": [
+            "Bouted MVPA steps",
+            "Bouted MVPA",
+            "SUP-PA (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Groups",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "23.5",
+          "rowHeaders": [
+            "Bouted MVPA steps",
+            "Bouted MVPA",
+            "SUP-PA (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "44.4 ±",
+          "rowHeaders": [
+            "Bouted MVPA steps",
+            "Bouted MVPA",
+            "SUP-PA (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "4 weeks"
+          ]
+        },
+        {
+          "value": "24.0",
+          "rowHeaders": [
+            "Bouted MVPA",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "SUP-PA (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "4 weeks"
+          ]
+        },
+        {
+          "value": "54.3 ±",
+          "rowHeaders": [
+            "Bouted MVPA",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "SUP-PA (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "8 weeks"
+          ]
+        },
+        {
+          "value": "37.2",
+          "rowHeaders": [
+            "Bouted MVPA",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "SUP-PA (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "8 weeks"
+          ]
+        },
+        {
+          "value": "49.6 ±",
+          "rowHeaders": [
+            "Bouted MVPA",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "SUP-PA (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "12 weeks"
+          ]
+        },
+        {
+          "value": "38.7",
+          "rowHeaders": [
+            "Bouted MVPA",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "SUP-PA (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "P-values",
+            "12 weeks"
+          ]
+        },
+        {
+          "value": "0.79",
+          "rowHeaders": [
+            "Bouted MVPA steps",
+            "Bouted MVPA",
+            "STEP (n = 17)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "P-values",
+            "Group"
+          ]
+        },
+        {
+          "value": "<0.001",
+          "rowHeaders": [
+            "Bouted MVPA steps",
+            "Bouted MVPA",
+            "STEP (n = 17)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "P-values",
+            "Time"
+          ]
+        },
+        {
+          "value": "0.94",
+          "rowHeaders": [
+            "Bouted MVPA steps",
+            "Bouted MVPA",
+            "STEP (n = 17)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "P-values",
+            "Group × time"
+          ]
+        },
+        {
+          "value": "4.4 ±",
+          "rowHeaders": [
+            "Intensity of MVPA",
+            "Bouted MVPA",
+            "STEP (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Groups",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "0.8",
+          "rowHeaders": [
+            "Intensity of MVPA",
+            "Bouted MVPA",
+            "STEP (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "4.8 ±",
+          "rowHeaders": [
+            "Intensity of MVPA",
+            "Bouted MVPA",
+            "STEP (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "4 weeks"
+          ]
+        },
+        {
+          "value": "0.9",
+          "rowHeaders": [
+            "Intensity of MVPA",
+            "Bouted MVPA",
+            "STEP (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "4 weeks"
+          ]
+        },
+        {
+          "value": "4.9 ±",
+          "rowHeaders": [
+            "Intensity of MVPA",
+            "Bouted MVPA",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "STEP (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "8 weeks"
+          ]
+        },
+        {
+          "value": "0.9",
+          "rowHeaders": [
+            "Intensity of MVPA",
+            "Bouted MVPA",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "STEP (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "8 weeks"
+          ]
+        },
+        {
+          "value": "5.0 ±",
+          "rowHeaders": [
+            "Intensity of MVPA",
+            "Bouted MVPA",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "STEP (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "12 weeks"
+          ]
+        },
+        {
+          "value": "1.1",
+          "rowHeaders": [
+            "Intensity of MVPA",
+            "Bouted MVPA",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "STEP (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "12 weeks"
+          ]
+        },
+        {
+          "value": "0.43",
+          "rowHeaders": [
+            "Intensity of MVPA",
+            "Bouted MVPA",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "STEP (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "P-values",
+            "Group"
+          ]
+        },
+        {
+          "value": "0.01",
+          "rowHeaders": [
+            "Intensity of MVPA",
+            "Bouted MVPA",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "STEP (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "P-values",
+            "Time"
+          ]
+        },
+        {
+          "value": "0.68",
+          "rowHeaders": [
+            "Intensity of MVPA",
+            "Bouted MVPA",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "STEP (n = 16)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "P-values",
+            "Group × time"
+          ]
+        },
+        {
+          "value": "4.2 ±",
+          "rowHeaders": [
+            "(METs)",
+            "Bouted MVPA steps: (steps/day at",
+            "UNSUP-PA (n = 11)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Groups",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "0.6",
+          "rowHeaders": [
+            "(METs)",
+            "Bouted MVPA steps: (steps/day at",
+            "UNSUP-PA (n = 11)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "4.7 ±",
+          "rowHeaders": [
+            "(METs)",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "UNSUP-PA (n = 11)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "4 weeks"
+          ]
+        },
+        {
+          "value": "0.6",
+          "rowHeaders": [
+            "(METs)",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "UNSUP-PA (n = 11)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "4 weeks"
+          ]
+        },
+        {
+          "value": "4.5 ±",
+          "rowHeaders": [
+            "(METs)",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "UNSUP-PA (n = 11)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "8 weeks"
+          ]
+        },
+        {
+          "value": "0.8",
+          "rowHeaders": [
+            "(METs)",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "UNSUP-PA (n = 11)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "8 weeks"
+          ]
+        },
+        {
+          "value": "4.5 ±",
+          "rowHeaders": [
+            "(METs)",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "UNSUP-PA (n = 11)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "12 weeks"
+          ]
+        },
+        {
+          "value": "0.6",
+          "rowHeaders": [
+            "(METs)",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "UNSUP-PA (n = 11)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "12 weeks"
+          ]
+        },
+        {
+          "value": "4.3 ±",
+          "rowHeaders": [
+            "(METs)",
+            "Bouted MVPA steps: (steps/day at",
+            "SUP-PA (n = 13)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Groups",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "0.4",
+          "rowHeaders": [
+            "Bouted MVPA",
+            "Bouted MVPA steps: (steps/day at",
+            "SUP-PA (n = 13)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "4.5 ±",
+          "rowHeaders": [
+            "Bouted MVPA",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "SUP-PA (n = 13)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "4 weeks"
+          ]
+        },
+        {
+          "value": "0.6",
+          "rowHeaders": [
+            "Bouted MVPA",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "SUP-PA (n = 13)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "4 weeks"
+          ]
+        },
+        {
+          "value": "4.6 ±",
+          "rowHeaders": [
+            "Bouted MVPA",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "SUP-PA (n = 13)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "8 weeks"
+          ]
+        },
+        {
+          "value": "0.7",
+          "rowHeaders": [
+            "Bouted MVPA",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "SUP-PA (n = 13)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "8 weeks"
+          ]
+        },
+        {
+          "value": "4.7 ±",
+          "rowHeaders": [
+            "Bouted MVPA",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "SUP-PA (n = 13)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "12 weeks"
+          ]
+        },
+        {
+          "value": "0.8",
+          "rowHeaders": [
+            "Bouted MVPA",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to",
+            "SUP-PA (n = 13)"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "12 weeks"
+          ]
+        },
+        {
+          "value": "<3.0 METs per minute).",
+          "rowHeaders": [
+            "(METs)",
+            "LPA: light-intensity physical activity (≥1.5 METs per minute to"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Assessment periods",
+            "4 weeks"
+          ]
+        },
+        {
+          "value": "≥3.0 METs per minute in bouts ≥10 min).",
+          "rowHeaders": [
+            "(METs)",
+            "Bouted MVPA steps: (steps/day at"
+          ],
+          "columnHeaders": [
+            "Table 2 Change in objectively measured physical activity",
+            "Table 2 Change in objectively measured physical activity",
+            "Groups",
+            "4 weeks"
+          ]
+        }
+      ],
+      "page": 1
+    }
+  ]
+}

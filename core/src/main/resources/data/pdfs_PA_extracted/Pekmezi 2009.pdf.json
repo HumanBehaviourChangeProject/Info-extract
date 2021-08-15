@@ -1,0 +1,1001 @@
+{
+  "blocks": [
+    {
+      "type": "LINES",
+      "value": "A Culturally Adapted Physical Activity Intervention for Latinas A Randomized Controlled Trial",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Background: In the U.S., Latinos report particularly high levels of inactivity and related chronic illnesses and are in need of intervention. Thus, the purpose of the current study was to culturally and linguistically adapt an empirically supported, individually tailored physical activity print intervention for Latinos and then conduct an RCT of the modified program.",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "P articipation in regular physical activity can help prevent weight gain and reduce risk for developing chronic illnesses such as type 2 diabetes. Despite these health benefits, most Americans do not engage in an adequate amount of physical activity. Rates of inactivity (53.4%) and related medical conditions (e.g., diabetes, obesity) are particularly high among Latinos relative to non-Hispanic whites (35.3%). These health disparities maybe due to cultural, socioeconomic, and language barriers that limit access to health promotion programs, and they call for intervention. Several studies have examined the efficacy of Spanishlanguage physical activity programs in Latino samples, but most focused on group-based approaches. For example, it has been found that a 6-month, Spanish-language aerobic group dance program produced significant increases in vigorous exercise and fitness at 12 months in a sample of 151 low-income Latinas, compared to the attention control condition. Another group-based program available in Spanish (Las Mujeres Saludables) was led by community health advisors and significantly increased physical activity from 65.15 minutes/week at baseline to 122.4 minutes/week post-intervention (3 months) in a sample of 366 Latinas.\nAlthough Spanish-language group-based programs have increased activity levels in several Latino samples, socioeconomic barriers, such as lack of transportation, can often interfere with participation. In addition, these programs typically have limited enrollment, thus reducing potential reach. Possible solutions may include using computerized technology to improve reach and/or accessibility of interventions for this underserved population. Several studies have successfully used computer expert system-driven interventions based on social cognitive theory and the transtheoretical model to increase physical activity among predominantly non-Hispanic white samples. And although computer-based programs have already shown potential in terms of improving nutrition in Latino samples, the application of behavioral informatics to physical activity has yet to be examined among Latinos.\nThus, the current study involved culturally and linguistically adapting an existing empirically supported, computer-tailored physical activity intervention. Then, an RCT was conducted, testing hypotheses that the modified program would produce significantly greater increases in physical activity and associated process variables (i.e., stages and processes of changes, self-efficacy) from baseline to postintervention (6 months) among a Latina sample than a Spanish-language wellness contact control condition.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The Seamos Activas study occurred in two phases. First, an existing empirically supported individually tailored physical activity print intervention was culturally and linguistically adapted for Latinas. This formative research was conducted by bilingual/bicultural staff with participants recruited through community advertisements and similar in demographics to the current sample. Intervention materials and research measures were translated into Spanish through an iterative process involving both translation and back-translation. Next, 25 cognitive interviews were conducted with Latinas to improve the clarity of intervention and assessment text and to ensure that key messages were not lost in translation. For example, participants noted differences between the terms exercise and physical activity, with exercise being more accurately associated with purposeful moderate-intensity activity. Like-wise, rewarding yourself for meeting exercise goals emphasized material goods more than doing something good for yourself and was perhaps inappropriate considering the low-income target group. These findings had implications for both the assessment and intervention, and revisions were made accordingly (e.g., exercise was consistently referenced in measures and materials).\nSix focus groups were conducted to identify culturespecific attitudes and barriers to physical activity for Latinas. Themes from participant feedback were incorporated into the intervention text and included balancing caregiver and household responsibilities, cultural norms about selfsacrifice, social support, partner negotiation, and dealing with inclement weather and neighborhood safety.\nThen, after a small demonstration trial (nϭ12), a randomized trial was conducted to compare the culturally and linguistically adapted physical activity intervention to wellness contact control materials. The main dependent variable was self-reported moderate-intensity or greater physical activity per week at baseline and 6 months as measured by the 7-Day Physical Activity Recall (7-Day PAR).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The study was approved by the Brown University IRB on, and conducted at a research center in Providence RI. The sample consisted of Spanish-speaking women aged 18 -65 years who self-identified as Latina/ Hispanic and underactive (participating in moderate or vigorous physical activity Յ2 days/week for Յ30 minutes each day). Participants were recruited through community-based organizations as well as advertisements in Spanish-language newspapers and radio stations. Exclusion criteria included any serious medical condition that would make physical activity unsafe (history of coronary heart disease, diabetes, stroke, osteoarthritis, osteoporosis, orthopedic problems); current or planned pregnancy; BMI Ͼ40; consuming three or more alcoholic drinks per day on Ն5 days per week; current suicidal ideation or psychosis; current clinical depression; hospitalization due to a psychiatric disorder in the past 3 years; and/or taking medication that may impair physical activity tolerance or performance (e.g., ␤ blockers).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "After a telephone screening interview to determine initial eligibility, participants attended an orientation session with a bilingual/bicultural PhD-level researcher and completed the informed-consent process. Next, research staff administered baseline research measures and randomly assigned participants to intervention or wellness contact control conditions. Randomization was stratified by stage of change to ensure equal distribution of different levels of motivational readiness for exercise across groups. All participants received regular mailings of group-appropriate health educational materials across 6 months (i.e., three mailings in Month 1, two mailings in Months 2-3, and one mailing in Months 4 -6) and then returned to the research center for postintervention assessments.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "At baseline, demographic information (age, education, income, race, ethnicity, language preference, history of resi-dence, marital status) was collected. At baseline and 6 months, the main outcome measure (7-Day PAR) was assessed, along with height; weight; social support ; environmental factors related to physical activity (Environmental Access Scale) ; and depression (Center for Epidemiological Studies Depression Scale [CES-D]). The 7-Day PAR is an interviewer-administered instrument that provides an estimate of weekly minutes of physical activity and uses multiple strategies for increasing accuracy of recall, such as breaking down the week into daily segments (i.e., morning, afternoon, evening) and asking about many types of activities, including time spent sleeping and in moderate, hard, and very hard activity. This measure has consistently demonstrated acceptable reliability, internal consistency, and congruent validity with other more objective measures of activity levels, as well as sensitivity to changes in moderate-intensity physical activity overtime. Stages and processes of change and self-efficacy measures were administered monthly through the mail and used to generate tailored expert-system feedback reports for intervention participants. At the 6-month follow-up, the feasibility and acceptability of the individually tailored physical activity program for Latinas was evaluated with an adapted version of the consumer satisfaction questionnaire that has been used across multiple trials.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The intervention-Seamos Activas-was based on the transtheoretical model and social cognitive theory and emphasized behavioral strategies for increasing activity levels, such as goal setting, self-monitoring, problem-solving barriers, increasing social support, and rewarding oneself for meeting physical activity goals. This 6-month program consisted of monthly mailings of physical activity manuals that were matched to the participants' current level of motivational readiness and individually tailored computer expert-system feedback reports. Based on participants' monthly questionnaire responses, the expert system drew particular messages from a library of approximately 296 messages regarding motivation, self-efficacy, and cognitive and behavioral strategies for exercise adoption to generate individually tailored reports. In addition, the expert system provided normative feedback on how a participant compares to profiles of individuals who have successfully adopted and maintained physical activity, as well as feedback regarding the individual's progress to date in terms of physical activity participation and associated process variables. To further encourage participants to use behavioral techniques, such asset physical activity goals, and monitor their progress, pedometers and physical activity logs were provided, along with tip-sheets on topics such as stretching.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Control participants received health information by mail on topics other than physical activity, including bilingual pamphlets on heart-healthy behaviors developed by the National Heart, Lung, and Blood Institute for Latinos, at the same intervals as the exercise group received material through the mail. The pamphlets provided information on nutrition (e.g., dietary fat, sodium) and other factors associated with cardiovascular disease risk (e.g., smoking, cholesterol, high blood pressure) and were specifically targeted to Latinos aged 18 -54 years with low levels of acculturation, education, and SES.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Data were collected in 2007-2008 and analyzed in 2009 using SPSS version 14.0 for Windows. Descriptive analyses were conducted to summarize demographic variables and feasibility and acceptability data. Changes in moderate-intensity or greater physical activity were compared across treatment arms using ANOVA. The percentages of participants in each arm that met national guidelines for physical activity (defined as at least 150 minutes/week of at least moderate-intensity physical activity) were compared using a chi-square test. An ANOVA was also used to compare changes in process variables from baseline to 6 months across treatment arms. In all cases, data analysis was conducted on the intent-to-treat sample. Eightyseven percent (nϭ81) of participants returned for postintervention evaluation and no differences in percentage returning were seen between groups (Figure). Baseline values were carried forward in the case of missing data.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The sample (Nϭ93 Latinas) reported low levels of income, acculturation, and education. For example, 59% (nϭ54) reported annual household incomes Ͻ$20,000. Also, most participants (84%, nϭ78) spoke either Spanish only or more Spanish than English at home and were born outside of the continental U.S. (95%, nϭ88). Based on self-report, the sample consisted of primarily Dominicans (nϭ 33), Columbians (nϭ29); Puerto Ricans (nϭ10); and Guatemalans (nϭ9). Almost half of the sample reported having Յ12 years of education. The majority (79%) were overweight (BMIϭ25-29.9) or obese (BMIՆ30). Mean age was 41.37 years (SDϭ11.18). See Table for sample characteristics.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Among those randomized to the intervention arm (nϭ45), mean minutes/week of at least moderateintensity physical activity increased from 16.56 (SDϭ 25.76) at baseline to 147.27 (SDϭ241.55) minutes/ week at 6 months. In the wellness contact control arm (nϭ48), mean minutes/week increased from 11.88 (SDϭ21.99) at baseline to 96.79 (SDϭ118.49) at 6 months. While intervention participants reported larger increases in moderate-intensity or greater physical activity from baseline to 6 months, there were no significant between-group differences (Fϭ1.37, pϭ0.25). Further, 37.8% (nϭ17) of intervention participants and 25.0% (nϭ12) of control participants reported meeting national physical activity guidelines at 6 months, 2 ϭ1.77, pϭ0.18.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Intervention participants reported significantly greater improvements in cognitive (Fϭ9.53, pϭ0.003) and behavioral processes of change (Fϭ8.37, pϭ0.005) and environmental variables impacting physical activity (i.e., more supplies and equipment available at home, Fϭ4.17, pϭ0.04) than control participants. Self-efficacy also increased from baseline to 6 months for intervention participants (Mϭ0.32, SDϭ1.01) but not control participants (MϭϪ0.03, SDϭ0.93), F(1, 91)ϭ3.04, pϭ0.085. There were no significant group differences in changes in social support, depression, and access to nearby physical activity facilities from baseline to 6 months (Table).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Of the 39 intervention participants who responded (100% of those available at 6 months), 97% (nϭ38) reported being satisfied/very satisfied with the program, and 92% (nϭ36) would recommend it to a friend. Participants endorsed reading most or all of the physical activity information (nϭ33, 85%); gaining  knowledge about exercise by reading the materials (nϭ34, 97% of the 35 responders to this item); and finding it enjoyable (nϭ37, 95%). Also, 90% (nϭ35) reported wearing pedometers and 72% (nϭ28) rated them helpful. Further, the women indicated that having materials in Spanish made them feel more engaged in the program (nϭ36, 92%) and that information regarding culture-specific barriers to physical activity was helpful, in terms of setting realistic goals and feeling understood by research staff (nϭ34, 87%).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Because effective, innovative interventions are needed to address inactivity and related health disparities among Latinas, the current study examined the use of individually tailored physical activity print interventions in a Latina sample. Overall, results were promising and indicated that the intervention condition produced larger increases in moderate-intensity or greater physical activity from baseline to 6 months than the wellness contact control condition. Contrary to the hypotheses, group differences in physical activity did not reach significance. Possible reasons include small sample size and the increases in physical activity reported by both groups. Improvements in the control group may have been due to the targeted, high-quality nature of the wellness contact control materials and/or response bias. Past studies have documented high levels of acquiescent and socially desirable responses in Latino samples. And the interviewer-administered format of physical activity assessment in the current study may have contributed to this problem. Other interesting findings included improvements in process variables, which are often followed by actual increases in physical activity behavior and serve as early indicators of change.\nFor example, intervention participants reported significantly greater increases in cognitive and behavioral processes of change, as well as access to physical activity supplies and equipment at home, from baseline to 6 months, relative to control participants. Although the intervention did not result in significantly increased access to nearby neighborhood physical activity facilities, a 6-month program may not belong enough to have a substantial impact on such environmental variables. And finally, the feasibility and acceptability of using this approach to promote physical activity in the target population was evidenced by high retention and participant satisfaction with the program at 6 months.\nLimitations to the current study include use of a convenience sample and lack of objective data. Strengths of the current study include the randomized controlled research design and diverse sample of Latinas. Because most research in this area has focused on Mexican Americans, and activity levels and health vary among Latino subgroups, studies with individuals from other countries of origin are needed to broaden the existing literature on physical activity promotion in Latinos to more accurately reflect the community as a whole.\nOther strengths include the use of proactive retention strategies. For example, the formative research phase provided an opportunity to learn about barriers the target population might experience in terms of participation in physical activity and clinical trials and to resolve these issues (e.g., childcare, transportation) before attrition occurred. Brand recognition strategies, such as having a study name (Seamos Activas) and logo included on all recruitment, assessment, and intervention materials, helped promote awareness and familiarity with the program and to build a sense of community among participants. The efforts to improve the cultural relevance of the program may have also had a positive impact on retention. The Latina participants responded favorably to receiving the intervention and assessments in Spanish and appreciated information addressing culture-specific barriers to physical activity for Latinos, as evidenced by questionnaire responses and letters to research staff.\nIn sum, findings from the current study support the application of behavioral informatics to promoting physical activity among Latinos. Such high-reach, lowcost approaches have great potential to positively affect public health and reduce health disparities, but more research with larger samples is needed to corroborate these findings.\n",
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "0.75",
+          "rowHeaders": [
+            "Behavioral processes",
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 2. Changes in process variables from baseline to 6",
+            "Table 2. Changes in process variables from baseline to 6",
+            "Mean",
+            "change"
+          ]
+        },
+        {
+          "value": "8.37",
+          "rowHeaders": [
+            "Behavioral processes",
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 2. Changes in process variables from baseline to 6",
+            "Table 2. Changes in process variables from baseline to 6",
+            "p-",
+            "F"
+          ]
+        },
+        {
+          "value": "0.005",
+          "rowHeaders": [
+            "Behavioral processes",
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 2. Changes in process variables from baseline to 6",
+            "Table 2. Changes in process variables from baseline to 6",
+            "p-",
+            "value"
+          ]
+        },
+        {
+          "value": "0.26",
+          "rowHeaders": [
+            "Behavioral processes",
+            "Control"
+          ],
+          "columnHeaders": [
+            "Table 2. Changes in process variables from baseline to 6",
+            "Table 2. Changes in process variables from baseline to 6",
+            "Mean",
+            "change"
+          ]
+        },
+        {
+          "value": "0.37",
+          "rowHeaders": [
+            "Cognitive processes",
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 2. Changes in process variables from baseline to 6",
+            "Table 2. Changes in process variables from baseline to 6",
+            "Mean",
+            "change"
+          ]
+        },
+        {
+          "value": "9.83",
+          "rowHeaders": [
+            "Cognitive processes",
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 2. Changes in process variables from baseline to 6",
+            "Table 2. Changes in process variables from baseline to 6",
+            "p-",
+            "F"
+          ]
+        },
+        {
+          "value": "0.003",
+          "rowHeaders": [
+            "Cognitive processes",
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 2. Changes in process variables from baseline to 6",
+            "Table 2. Changes in process variables from baseline to 6",
+            "p-",
+            "value"
+          ]
+        },
+        {
+          "value": "Ϫ0.09",
+          "rowHeaders": [
+            "Behavioral processes",
+            "Control"
+          ],
+          "columnHeaders": [
+            "Table 2. Changes in process variables from baseline to 6",
+            "Table 2. Changes in process variables from baseline to 6",
+            "Mean",
+            "change"
+          ]
+        },
+        {
+          "value": "0.32",
+          "rowHeaders": [
+            "Self-efficacy",
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 2. Changes in process variables from baseline to 6",
+            "Table 2. Changes in process variables from baseline to 6",
+            "Mean",
+            "change"
+          ]
+        },
+        {
+          "value": "3.04",
+          "rowHeaders": [
+            "Self-efficacy",
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 2. Changes in process variables from baseline to 6",
+            "Table 2. Changes in process variables from baseline to 6",
+            "p-",
+            "F"
+          ]
+        },
+        {
+          "value": "0.085",
+          "rowHeaders": [
+            "Self-efficacy",
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 2. Changes in process variables from baseline to 6",
+            "Table 2. Changes in process variables from baseline to 6",
+            "p-",
+            "value"
+          ]
+        },
+        {
+          "value": "Ϫ0.03",
+          "rowHeaders": [
+            "Cognitive processes",
+            "Control"
+          ],
+          "columnHeaders": [
+            "Table 2. Changes in process variables from baseline to 6",
+            "Table 2. Changes in process variables from baseline to 6",
+            "Mean",
+            "change"
+          ]
+        },
+        {
+          "value": "0.27",
+          "rowHeaders": [
+            "Depression",
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 2. Changes in process variables from baseline to 6",
+            "Table 2. Changes in process variables from baseline to 6",
+            "Mean",
+            "change"
+          ]
+        },
+        {
+          "value": "0.004",
+          "rowHeaders": [
+            "Depression",
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 2. Changes in process variables from baseline to 6",
+            "Table 2. Changes in process variables from baseline to 6",
+            "p-",
+            "F"
+          ]
+        },
+        {
+          "value": "0.947",
+          "rowHeaders": [
+            "Depression",
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 2. Changes in process variables from baseline to 6",
+            "Table 2. Changes in process variables from baseline to 6",
+            "p-",
+            "value"
+          ]
+        },
+        {
+          "value": "0.21",
+          "rowHeaders": [
+            "Cognitive processes",
+            "Control"
+          ],
+          "columnHeaders": [
+            "Table 2. Changes in process variables from baseline to 6",
+            "Table 2. Changes in process variables from baseline to 6",
+            "Mean",
+            "change"
+          ]
+        },
+        {
+          "value": "1.16",
+          "rowHeaders": [
+            "Home",
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 2. Changes in process variables from baseline to 6",
+            "Table 2. Changes in process variables from baseline to 6",
+            "Mean",
+            "change"
+          ]
+        },
+        {
+          "value": "4.17",
+          "rowHeaders": [
+            "Home",
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 2. Changes in process variables from baseline to 6",
+            "Table 2. Changes in process variables from baseline to 6",
+            "p-",
+            "F"
+          ]
+        },
+        {
+          "value": "0.044",
+          "rowHeaders": [
+            "Home",
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 2. Changes in process variables from baseline to 6",
+            "Table 2. Changes in process variables from baseline to 6",
+            "p-",
+            "value"
+          ]
+        },
+        {
+          "value": "0.48",
+          "rowHeaders": [
+            "Reward/punishment",
+            "Control"
+          ],
+          "columnHeaders": [
+            "Table 2. Changes in process variables from baseline to 6",
+            "Table 2. Changes in process variables from baseline to 6",
+            "Mean",
+            "change"
+          ]
+        },
+        {
+          "value": "1.04",
+          "rowHeaders": [
+            "Facilities",
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 2. Changes in process variables from baseline to 6",
+            "Table 2. Changes in process variables from baseline to 6",
+            "Mean",
+            "change"
+          ]
+        },
+        {
+          "value": "0.94",
+          "rowHeaders": [
+            "Facilities",
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 2. Changes in process variables from baseline to 6",
+            "Table 2. Changes in process variables from baseline to 6",
+            "p-",
+            "F"
+          ]
+        },
+        {
+          "value": "0.336",
+          "rowHeaders": [
+            "Facilities",
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 2. Changes in process variables from baseline to 6",
+            "Table 2. Changes in process variables from baseline to 6",
+            "p-",
+            "value"
+          ]
+        },
+        {
+          "value": "0.23",
+          "rowHeaders": [
+            "Reward/punishment",
+            "Control"
+          ],
+          "columnHeaders": [
+            "Table 2. Changes in process variables from baseline to 6",
+            "Table 2. Changes in process variables from baseline to 6",
+            "Mean",
+            "change"
+          ]
+        },
+        {
+          "value": "3.33",
+          "rowHeaders": [
+            "Family",
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 2. Changes in process variables from baseline to 6",
+            "Table 2. Changes in process variables from baseline to 6",
+            "Mean",
+            "change"
+          ]
+        },
+        {
+          "value": "0.02",
+          "rowHeaders": [
+            "Family",
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 2. Changes in process variables from baseline to 6",
+            "Table 2. Changes in process variables from baseline to 6",
+            "p-",
+            "F"
+          ]
+        },
+        {
+          "value": "0.885",
+          "rowHeaders": [
+            "Family",
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 2. Changes in process variables from baseline to 6",
+            "Table 2. Changes in process variables from baseline to 6",
+            "p-",
+            "value"
+          ]
+        },
+        {
+          "value": "3.71",
+          "rowHeaders": [
+            "Reward/punishment",
+            "Control"
+          ],
+          "columnHeaders": [
+            "Table 2. Changes in process variables from baseline to 6",
+            "Table 2. Changes in process variables from baseline to 6",
+            "Mean",
+            "change"
+          ]
+        },
+        {
+          "value": "3.02",
+          "rowHeaders": [
+            "Friends",
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 2. Changes in process variables from baseline to 6",
+            "Table 2. Changes in process variables from baseline to 6",
+            "Mean",
+            "change"
+          ]
+        },
+        {
+          "value": "0.40",
+          "rowHeaders": [
+            "Friends",
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 2. Changes in process variables from baseline to 6",
+            "Table 2. Changes in process variables from baseline to 6",
+            "p-",
+            "F"
+          ]
+        },
+        {
+          "value": "0.531",
+          "rowHeaders": [
+            "Friends",
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 2. Changes in process variables from baseline to 6",
+            "Table 2. Changes in process variables from baseline to 6",
+            "p-",
+            "value"
+          ]
+        },
+        {
+          "value": "5.19",
+          "rowHeaders": [
+            "Reward/punishment",
+            "Control"
+          ],
+          "columnHeaders": [
+            "Table 2. Changes in process variables from baseline to 6",
+            "Table 2. Changes in process variables from baseline to 6",
+            "Mean",
+            "change"
+          ]
+        },
+        {
+          "value": "Ϫ0.62",
+          "rowHeaders": [
+            "Reward/punishment",
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 2. Changes in process variables from baseline to 6",
+            "Table 2. Changes in process variables from baseline to 6",
+            "Mean",
+            "change"
+          ]
+        },
+        {
+          "value": "1.06",
+          "rowHeaders": [
+            "Reward/punishment",
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 2. Changes in process variables from baseline to 6",
+            "Table 2. Changes in process variables from baseline to 6",
+            "p-",
+            "F"
+          ]
+        },
+        {
+          "value": "0.307",
+          "rowHeaders": [
+            "Reward/punishment",
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 2. Changes in process variables from baseline to 6",
+            "Table 2. Changes in process variables from baseline to 6",
+            "p-",
+            "value"
+          ]
+        },
+        {
+          "value": "0.40",
+          "rowHeaders": [
+            "Reward/punishment",
+            "Control"
+          ],
+          "columnHeaders": [
+            "Table 2. Changes in process variables from baseline to 6",
+            "Table 2. Changes in process variables from baseline to 6",
+            "Mean",
+            "change"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "88",
+          "rowHeaders": [
+            "Speak either Spanish"
+          ],
+          "columnHeaders": [
+            "Table 1. Demographic characteristics (Nϭ93)"
+          ]
+        },
+        {
+          "value": "95",
+          "rowHeaders": [
+            "Speak either Spanish"
+          ],
+          "columnHeaders": [
+            "Table 1. Demographic characteristics (Nϭ93)"
+          ]
+        },
+        {
+          "value": "84",
+          "rowHeaders": [
+            "Speak either Spanish"
+          ],
+          "columnHeaders": [
+            "Table 1. Demographic characteristics (Nϭ93)"
+          ]
+        },
+        {
+          "value": "44",
+          "rowHeaders": [
+            "Obese (BMIՆ30)"
+          ],
+          "columnHeaders": [
+            "Table 1. Demographic characteristics (Nϭ93)",
+            "only or more Spanish"
+          ]
+        },
+        {
+          "value": "47",
+          "rowHeaders": [
+            "Obese (BMIՆ30)"
+          ],
+          "columnHeaders": [
+            "Table 1. Demographic characteristics (Nϭ93)",
+            "only or more Spanish"
+          ]
+        },
+        {
+          "value": "32",
+          "rowHeaders": [
+            "Obese (BMIՆ30)"
+          ],
+          "columnHeaders": [
+            "Table 1. Demographic characteristics (Nϭ93)",
+            "only or more Spanish"
+          ]
+        },
+        {
+          "value": "29.9)",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 1. Demographic characteristics (Nϭ93)",
+            "only or more Spanish"
+          ]
+        },
+        {
+          "value": "30",
+          "rowHeaders": [
+            "Overweight (BMIϭ25-"
+          ],
+          "columnHeaders": [
+            "Table 1. Demographic characteristics (Nϭ93)",
+            "only or more Spanish"
+          ]
+        },
+        {
+          "value": "20",
+          "rowHeaders": [
+            "Overweight (BMIϭ25-"
+          ],
+          "columnHeaders": [
+            "Table 1. Demographic characteristics (Nϭ93)",
+            "only or more Spanish"
+          ]
+        },
+        {
+          "value": "19",
+          "rowHeaders": [
+            "Normal"
+          ],
+          "columnHeaders": [
+            "Table 1. Demographic characteristics (Nϭ93)",
+            "only or more Spanish"
+          ]
+        },
+        {
+          "value": "45",
+          "rowHeaders": [
+            "High school graduate or"
+          ],
+          "columnHeaders": [
+            "Table 1. Demographic characteristics (Nϭ93)",
+            "only or more Spanish"
+          ]
+        },
+        {
+          "value": "48",
+          "rowHeaders": [
+            "High school graduate or"
+          ],
+          "columnHeaders": [
+            "Table 1. Demographic characteristics (Nϭ93)",
+            "only or more Spanish"
+          ]
+        },
+        {
+          "value": "28",
+          "rowHeaders": [
+            "High school graduate or"
+          ],
+          "columnHeaders": [
+            "Table 1. Demographic characteristics (Nϭ93)",
+            "only or more Spanish"
+          ]
+        },
+        {
+          "value": "26",
+          "rowHeaders": [
+            "Some college/technical"
+          ],
+          "columnHeaders": [
+            "Table 1. Demographic characteristics (Nϭ93)",
+            "only or more Spanish"
+          ]
+        },
+        {
+          "value": "24",
+          "rowHeaders": [
+            "Some college/technical"
+          ],
+          "columnHeaders": [
+            "Table 1. Demographic characteristics (Nϭ93)",
+            "only or more Spanish"
+          ]
+        },
+        {
+          "value": "22",
+          "rowHeaders": [
+            "College graduate or"
+          ],
+          "columnHeaders": [
+            "Table 1. Demographic characteristics (Nϭ93)",
+            "only or more Spanish"
+          ]
+        },
+        {
+          "value": "38",
+          "rowHeaders": [
+            "Unemployed"
+          ],
+          "columnHeaders": [
+            "Table 1. Demographic characteristics (Nϭ93)",
+            "only or more Spanish"
+          ]
+        },
+        {
+          "value": "41",
+          "rowHeaders": [
+            "Unemployed"
+          ],
+          "columnHeaders": [
+            "Table 1. Demographic characteristics (Nϭ93)",
+            "only or more Spanish"
+          ]
+        },
+        {
+          "value": "38",
+          "rowHeaders": [
+            "Unemployed"
+          ],
+          "columnHeaders": [
+            "Table 1. Demographic characteristics (Nϭ93)",
+            "only or more Spanish"
+          ]
+        },
+        {
+          "value": "35",
+          "rowHeaders": [
+            "Full-time"
+          ],
+          "columnHeaders": [
+            "Table 1. Demographic characteristics (Nϭ93)",
+            "only or more Spanish"
+          ]
+        },
+        {
+          "value": "19",
+          "rowHeaders": [
+            "Full-time"
+          ],
+          "columnHeaders": [
+            "Table 1. Demographic characteristics (Nϭ93)",
+            "only or more Spanish"
+          ]
+        },
+        {
+          "value": "18",
+          "rowHeaders": [
+            "Part-time"
+          ],
+          "columnHeaders": [
+            "Table 1. Demographic characteristics (Nϭ93)",
+            "only or more Spanish"
+          ]
+        },
+        {
+          "value": "22",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 1. Demographic characteristics (Nϭ93)",
+            "only or more Spanish"
+          ]
+        },
+        {
+          "value": "24",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 1. Demographic characteristics (Nϭ93)",
+            "only or more Spanish"
+          ]
+        },
+        {
+          "value": "35",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 1. Demographic characteristics (Nϭ93)",
+            "only or more Spanish"
+          ]
+        },
+        {
+          "value": "32",
+          "rowHeaders": [
+            "Ն10,000 but Ͻ20,000"
+          ],
+          "columnHeaders": [
+            "Table 1. Demographic characteristics (Nϭ93)",
+            "only or more Spanish"
+          ]
+        },
+        {
+          "value": "23",
+          "rowHeaders": [
+            "Ն10,000 but Ͻ20,000"
+          ],
+          "columnHeaders": [
+            "Table 1. Demographic characteristics (Nϭ93)",
+            "only or more Spanish"
+          ]
+        },
+        {
+          "value": "21",
+          "rowHeaders": [
+            "Ն20,000 but Ͻ30,000"
+          ],
+          "columnHeaders": [
+            "Table 1. Demographic characteristics (Nϭ93)",
+            "only or more Spanish"
+          ]
+        },
+        {
+          "value": "11",
+          "rowHeaders": [
+            "Ն20,000 but Ͻ30,000"
+          ],
+          "columnHeaders": [
+            "Table 1. Demographic characteristics (Nϭ93)",
+            "only or more Spanish"
+          ]
+        },
+        {
+          "value": "10",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 1. Demographic characteristics (Nϭ93)",
+            "only or more Spanish"
+          ]
+        },
+        {
+          "value": "47",
+          "rowHeaders": [
+            "Married/living with"
+          ],
+          "columnHeaders": [
+            "Table 1. Demographic characteristics (Nϭ93)",
+            "only or more Spanish"
+          ]
+        },
+        {
+          "value": "51",
+          "rowHeaders": [
+            "Married/living with"
+          ],
+          "columnHeaders": [
+            "Table 1. Demographic characteristics (Nϭ93)",
+            "only or more Spanish"
+          ]
+        },
+        {
+          "value": "29",
+          "rowHeaders": [
+            "Married/living with"
+          ],
+          "columnHeaders": [
+            "Table 1. Demographic characteristics (Nϭ93)",
+            "only or more Spanish"
+          ]
+        },
+        {
+          "value": "27",
+          "rowHeaders": [
+            "Single"
+          ],
+          "columnHeaders": [
+            "Table 1. Demographic characteristics (Nϭ93)",
+            "only or more Spanish"
+          ]
+        },
+        {
+          "value": "14",
+          "rowHeaders": [
+            "Single"
+          ],
+          "columnHeaders": [
+            "Table 1. Demographic characteristics (Nϭ93)",
+            "only or more Spanish"
+          ]
+        },
+        {
+          "value": "13",
+          "rowHeaders": [
+            "Divorced"
+          ],
+          "columnHeaders": [
+            "Table 1. Demographic characteristics (Nϭ93)",
+            "only or more Spanish"
+          ]
+        },
+        {
+          "value": "64 (Mϭ2",
+          "rowHeaders": [
+            "Yes"
+          ],
+          "columnHeaders": [
+            "Table 1. Demographic characteristics (Nϭ93)",
+            "only or more Spanish"
+          ]
+        },
+        {
+          "value": "69",
+          "rowHeaders": [
+            "Yes"
+          ],
+          "columnHeaders": [
+            "Table 1. Demographic characteristics (Nϭ93)",
+            "only or more Spanish"
+          ]
+        },
+        {
+          "value": "31",
+          "rowHeaders": [
+            "Yes"
+          ],
+          "columnHeaders": [
+            "Table 1. Demographic characteristics (Nϭ93)",
+            "only or more Spanish"
+          ]
+        },
+        {
+          "value": "29",
+          "rowHeaders": [
+            "No"
+          ],
+          "columnHeaders": [
+            "Table 1. Demographic characteristics (Nϭ93)",
+            "only or more Spanish"
+          ]
+        },
+        {
+          "value": "35",
+          "rowHeaders": [
+            "Children aged <5 years"
+          ],
+          "columnHeaders": [
+            "Table 1. Demographic characteristics (Nϭ93)",
+            "only or more Spanish"
+          ]
+        },
+        {
+          "value": "65",
+          "rowHeaders": [
+            "Children aged <5 years"
+          ],
+          "columnHeaders": [
+            "Table 1. Demographic characteristics (Nϭ93)",
+            "only or more Spanish"
+          ]
+        },
+        {
+          "value": "33 (Mϭ1.45",
+          "rowHeaders": [
+            "Yes"
+          ],
+          "columnHeaders": [
+            "Table 1. Demographic characteristics (Nϭ93)",
+            "only or more Spanish"
+          ]
+        },
+        {
+          "value": "60",
+          "rowHeaders": [
+            "No"
+          ],
+          "columnHeaders": [
+            "Table 1. Demographic characteristics (Nϭ93)",
+            "only or more Spanish"
+          ]
+        }
+      ],
+      "page": 1
+    }
+  ]
+}

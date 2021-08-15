@@ -1,0 +1,219 @@
+{
+  "blocks": [
+    {
+      "type": "LINES",
+      "value": "Evaluation of a Computer-Tailored Physical Activity Intervention in Adolescents in Six European Countries: The Activ-O-Meter in the HELENA Intervention Study",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The present study investigates the effect of the Activ-O-Meter, an internet-based computertailored physical activity intervention in adolescents in six European centers involved in the HELENA study. Methods: Adolescents (12-17 years old) from Vienna, Ghent, Heraklion, Dortmund, Athens, and Stockholm were randomized into intervention and control schools. Participants in the intervention condition received the computer-tailored advice at baseline and after 1 month. Participants in the control condition received a generic standard advice. Effects were evaluated after 1 (n ¼ 675) and 3 months (n ¼ 494) using multi-level modeling. Physical activity levels were measured using the International Physical Activity Questionnaire for adolescents (IPAQ-A). Results: After 1 month, the intervention group reported higher levels of moderate (b ¼ À32.8, 95% CI (confidence interval): À64.2 to À1.4) and vigorous (b ¼ À28.0, 95% CI: À50.7 to À5.3) physical activity in leisure time, as well as higher levels of cycling for transport (b ¼ À19.1, 95% CI: À34.4 to À7.6) compared to the control group. After 3 months, when the intervention group had received the tailored feedback twice, intervention effects were even stronger. Favorable changes in physical activity levels of all intensities and in different contexts were found in the tailored group compared to the control group. Among adolescents not reaching the physical activity recommendations at baseline similar effects as in the total sample were found. Conclusions: The data indicated that the computer-tailored physical activity intervention had positive effects on physical activity levels among the adolescents. However, the implementation of the computer-tailored intervention in the schools was not feasible in all countries.",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The development of interventions to increase physical activity levels in young people is a public health priority. Previous studies showed that whole-of-school approaches including an educational component, encouragement of social support, and providing environmental conditions that enable physical activity seemed to be most effective. The educational component within these multi-component intervention programs often consists of a classroom health education curriculum that needs to be implemented within regular class hours. This is a major burden for school teachers. Teachers did not feel very competent to teach these alternative lessons; they were not very compliant with the content and the expected amount of teaching, and, most important, these general classroom health education curricula per se were in general not effective for increasing physical activity. One possible reason for their lack of effectiveness could be the generic character of these classroom lessons. It is highly unlikely that students in the same classroom who are in different stages of behavior change need the same information at the same time. Participants tend to give more attention and process information better if it is made specific for them. Therefore, the question is whether a better way can be found within the classroom curriculum to change knowledge, attitudes, beliefs, and motivation toward physical activity and to encourage adolescents to be more active.\nComputer-tailored interventions, in which individuals receive personalized feedback advice after completing a diagnostic questionnaire, might be such away forward. Interventions that are tailored to personal characteristics are more effective compared to interventions that do not take into account individual factors. In tailored health messages, redundant non-personally relevant information is reduced, and each person ideally receives only information that is personally relevant. Positive effects of computer-tailored physical activity interventions in (mostly motivated) adults compared to no or generic information have been shown.\nFew studies have explored the effects of internet based computer-tailored interventions for promoting physical activity in adolescents. This method is promising as adolescents are very familiar with internet and computer use. In an earlier study, we explored the feasibility and effects of an online computer-tailored physical activity intervention delivered in the classroom in Belgian adolescents. About half of the students evaluated the advice as interesting, easy to understand, personally relevant, easy to use, and credible. The computer-tailored intervention was effective for increasing school related physical activity levels by on average 25 min/wk in Belgium. Further research is needed to evaluate its effect in a sample of European adolescents. Across Europe, the educational systems for adolescents are diverse. European countries also have different rules and regulations, and culturally determined habits and practices related to health promotion in schools. Studying whether a computerized tailored physical activity intervention is a valid, feasible and effective tool to increase European adolescent's physical activity levels is of public health interest.\nTherefore, the primary aim of this study was to investigate the short-term (1 month) and medium-term (3 months) effect of a computerized tailored physical activity intervention compared to generic standard advice in an adolescent sample from six European countries. In addition, a second aim of this study was to analyze the effects of the computer-tailored intervention in the subsample of adolescents that were inactive at baseline (those not complying with the recommend activity levels of at least 60 minutes of moderate to vigorous physical activity (MVPA) per day). It was hypothesized that physical activity levels would change in a more favorable direction in the computer-tailored group, when compared to the generic information group.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Data gathered for the present study are part of the larger HELENA (Healthy Lifestyle in Europe by Nutrition in Adolescence) Study. The HELENA Study is a European-Union-funded research project with the main objective to obtain reliable and comparable data of a representative sample of European adolescents, concerning food habits, levels and patterns of physical activity and fitness, and obesity in a cross-sectional study (HELENA-CSS). The second objective of the HELENA Study is the development and evaluation of a computer-tailored lifestyle education intervention to promote physical activity and healthy eating (HELENA-LSEI). The evaluation of the study consisted of a short term (1 month) and a medium term (3 months) effect evaluation. This manuscript focuses on the computer tailored physical activity intervention. Ethical approval was received by all HELENA centers and adolescents and parents signed informed consent forms.\nThe schools participating in the CSS of the HELENA project were randomized in ''intervention schools'' and ''control schools.'' The random assignment to one of the conditions has been done by the researchers using simple randomization at the school level. The six centers of the HELENA-LSEI in the six countries, Vienna (Austria), Ghent (Belgium), Heraklion (Crete), Dortmund (Germany), Athens (Greece), and Stockholm (Sweden), were asked to randomize schools to both conditions to recruit at least 100 adolescents in the control condition and 100 in the intervention condition. This resulted in a quasi-experimental design as schools and classes, and not participants were randomized within conditions. Forty-nine schools with 82 different classes participated in the present study. The number of schools per country ranged from five (Germany), over seven (Ghent, Athens), nine (Heraklion), 10 (Stockholm), to 11 (Austria). The number of participating classes per school ranged from one to three.\nParticipants for the present study were on an average 14.5 (61.4) years old; 51% were boys and 47.6% were inactive at baseline. Participants in the intervention condition received the computer-tailored advice at baseline (T1, Feb-March 2007) and at 1 month (T2, March-April 2007). The medium term post-measurements were performed 3 months post baseline (T3, May-June 2007). Participants in the control condition received one and a half pages of generic advice including all elements of the tailored advice; however, it was not tailored to every single student. They received their advice at baseline and at 1 month. Every student in the classroom completed the online computer-tailored program during school hours.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The Activ-O-meter is the translation of a computer-tailored intervention for adolescents developed in Flanders, based on a previously developed computer-tailored intervention for adults. The teachers guided the students through the computer-tailored program that was available online on the Web (www.helenastudy.com). The computer-tailored program consisted of three major parts: (a) an introduction page, (b) a diagnostic tool, and (c) an advice. The diagnostic tool included demographic questions, a physical activity questionnaire (see below), and psychosocial determinants (attitudes, self-efficacy, social support, perceived benefits, perceived barriers, and environment) related to physical activity.\nAfter questionnaires were completed by the students (about 20 min), feedback was selected out of a database with messages for each possible combination of answers. The physical activity advice started with a general introduction, followed by normative feedback, which related students' physical activity levels to the physical activity guidelines. Readiness to change was used to define the content and approach of the feedback in the physical activity advice. On the basis of theory of planned behavior, the social cognitive theory and the attitude, social influence, and self-efficacy model, students received tailored feedback about their attitudes, self-efficacy, social support, knowledge, perceived benefits, and barriers related to their physical activity in the final part of the advice.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The screening questionnaires that the students filled in on the computer to get their tailored advice were also used to measure the effects on physical activity habits. Data were immediately sent to a central server and stored.\nPhysical activity levels were determined using an adolescent adaptation of the International Physical Activity Questionnaire (IPAQ-A). The questionnaire was also used in the HELENA-CSS. Several indices were computed by multiplying the number of days per week and minutes per day resulting in minutes per week of each activity (see Tables) Total activity of at least moderate intensity was computed by summing all minutes of moderate and vigorous activity.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Linear mixed models on post-intervention measures of physical activity (T2), with condition (intervention versus control) as between subject factor, were used to explore short-term intervention effects. Since intention-to-treat analyses preserve baseline comparability between groups achieved by randomization and retention rates were low in some of the participating countries, intention-to-treat analyses were conducted by carrying the baseline observation forward to T2. Gender and gender by condition interaction effects were entered as factors in the first model. If gender by condition interaction effects were not significant, these were removed from the final model. Analyses were adjusted for baseline values of physical activity (T1) and age. A threelevel structure (student-school-country) with random intercepts at the country and school level was modeled.\nThe same analyses were repeated to assess long-term intervention effects by entering T3 measures of physical activity as a dependent variable in the model. Again, intention-to-treat analyses were conducted by carrying the baseline observation forward to T3. Finally, all analyses were repeated including only the subsample of adolescents not complying with the recommended activity levels of at least minutes of MVPA. p .05 was considered as significant. All analyses were performed using SPSS 15.0.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Table shows an overview of participating adolescents in the different centers and the retention rates at T2 and T3. One thousand fifty-three adolescents were enrolled in the study at baseline spread over the six centers. Only in two of the six centers (Vienna and Athens), the foreseen 200 students could be included in the study (see Table). Most students were included in Vienna (251) and least in Stockholm (120). The general retention rate at T2 was 64% (n ¼ 675), with highest retention rates in Athens (92%) and lowest rates in Heraklion (16%). At T3 the overall retention rate was somewhat less than 50%, again with large differences between centers. Highest rates were again found in Athens (85%) and lowest rates in Heraklion (5%). Low rates were also found in Stockholm (17%). Retention rates in Vienna, Ghent, and Dortmund were around 50%.\nIn Dortmund and Ghent, it was foreseen to have 200 cases; however, a considerable number of students' data were lost due to technical (server) problems, and it was not possible to ask the students to enter the web application again. In Stockholm, the teachers refused to give more school hours for the evaluation of the intervention, as the HELENA-CSS study already had a large effect upon their teaching time.\nStudents were asked to go through the application during free time at school or at home. A major consequence of this strategy was particularly a steep decrease in participation levels at T2 and T3. In Heraklion, feasibility was problematic because of limited computer facilities in the schools. For T1, students were brought to the Medical School to complete baseline measures and obtain the first tailored or generic feedback. However, it was neither financially feasible nor reasonably practicable to repeat this procedure for T2 and T3, so it was decided to do these two post measures in the schools. Many problems were experienced including too few computers to accommodate complete classes, lack of fast broadband connections, and very long intervention sessions. This also resulted in large dropout numbers at both post-tests.\nDropout analyses showed no differences between participants and dropouts for gender, or for any of the activity indices. A significant difference between dropouts and participants was only found for sitting time (t ¼ 2.16, p ¼ .03) and age (t ¼ 3.10, p ¼ .003). Dropouts were somewhat older and reported less sitting time compared to participants.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Table shows the analyses including T1 and T2, investigating the effects of the computer-tailored intervention compared to standard feedback after 1 month. Analyses were first executed for sample of 1050 adolescents. There were no significant gender by condition interaction effects. Main effects of condition were significant for time spent in cycling for transportation (b ¼ À19.1, 95% CI: À34.4 to À3.8), moderate activity in leisure time (b ¼ À32.8, 95% CI: À64.2 to À1.4), vigorous activity in leisure time (b ¼ À28.0, 95% CI: À50.7 to À5.3), and total MVPA (b ¼ À44.8, 95% CI: À81.6 to À8.0). The computer-tailored group changed more favorably overtime compared with the generic feedback group. Time spent in cycling for transportation increased by more than 21 (6135) min/wk in the intervention group, whereas in the control group no changes were found. Time spent in moderate activity in leisure time remained stable in the intervention group, whereas in the control group an average decrease of 30 (6226) min/wk was observed. Total MVPA decreased with on average 23 (6272) min/wk in the control group, whereas it increased by on average 20 (6301) minutes in the intervention group.\nAnalyses were repeated fora subsample of adolescents (n ¼ 489) not meeting the recommendation of 1 hour of MVPA per day. As shown in Table, similar effects were found in this ''at risk group.'' Main effects of condition were significant for cycling for transportation (b ¼ À15.4, 95% CI: À28.1 to À2.7), vigorous activity in leisure time (b ¼ À23.0, 95% CI: À44.6 to À1.4), and total MVPA (b ¼ À52.8, 95% CI: À97.1 to À8.5). For all of these variables, increases were significantly higher in the intervention group when compared to the control group. For example, for total MVPA an increase of on average 115 (6285) min/wk was observed in the intervention groups, whereas increases were significantly lower in the control group with an average increase of 54 (6193) min/ wk. A significant gender by condition interaction effect was found for walking in leisure time. Gender specific analyses showed that among girls no significant differences between groups were found (b ¼ À15.7, 95% CI: À44.1-12.7), whereas among boys differences between groups were borderline significant (b ¼ À29.2, 95% CI: À60.6-2.23). Time spent in walking in leisure time decreased by on average (675) min/wk among boys in the control group, whereas among boys in the intervention group an average increase of 21 (6143) minutes was found.\nTable shows the analyses including T1 and T3, investigating the effects of the computer-tailored intervention compared to the standard feedback after 3 months. Analyses were first executed for the total sample of 1050 adolescents. Significant main effects of condition were found for cycling for transportation (b ¼ À23.0, 95% CI: À39.0 to À7.0), walking in leisure time (b ¼ À19.7, 95% CI: À39.3 to À0.0), moderate activity in leisure time (b ¼ À46.8, 95% CI: À76.8 to À17.3), vigorous activity in leisure time (b ¼ À32.6, 95% CI: À46.8 to À15.5), and total MVPA (b ¼ À59.1, 95% CI: À99.8 to À18.5). In the intervention group, significant increases were found for cycling for transportation, walking and vigorous activity in leisure time, and vigorous activity at school of 9-37 min/wk, while in the control group no or smaller increases were found. Moderate activity in leisure time significantly increased (þ21 min/wk) in the intervention group, while in the control group a decrease (À19 min/wk) was found. Total MVPA significantly increased in the intervention group (þ33 min/wk), while in the control group a decrease was found (À18 min/ wk). For vigorous activity in leisure time a significant gender by condition interaction effect was found. Gender specific analyses showed that among girls no significant differences between groups were found (b ¼ À3.6, 95% CI: À30.5-23.3), whereas among boys differences between groups were significant (b ¼ À61.2, 95% CI: À105.5 to À16.8). Time spent in vigorous activity in leisure time remained stable among boys in the control group, while among boys in the intervention group an average increase of 56 (6273) minutes was found.\nAnalyses of the subsample of adolescents not reaching the physical activity recommendations showed even stronger results. The main effects of condition were significant for walking for transportation (b ¼ À36.3, 95% CI: À67.7 to À5.0), walking in leisure time (b ¼ À29.9, 95% CI: À59.1  to À0.7), moderate activity in leisure time (b ¼ À49.2, 95% CI: À93.5 to À5.0), vigorous activity in leisure time (b ¼ À64.1, 95% CI: À110.8 to À17.4), moderate activity at school (b ¼ À11.3, 95% CI: À22.7 to À0.0), and total MVPA (b ¼ À83.8, 95% CI: À147.1 to À20.5). In the intervention group, significant increases ranged from 17 to 128 min/wk, whereas in the control group significantly smaller increases were found. For time spent in vigorous activities at school, a significant gender by condition interaction effect was found. Gender specific analyses showed that among girls no significant differences between groups were found (b ¼ À6.0, 95% CI: À16.3-4.3), whereas among boys differences between groups were significant (b ¼ À27.7, 95% CI: À47.4 to À7.9). Time spent in vigorous activities at school remained increased significantly more among boys in the intervention group (þ35 6 70), when compared to boys in the control group (þ3 6 41).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The aim of the present study was to investigate the effect of the Activ-O-Meter; an internet-based computer-tailored physical activity intervention in adolescents in the six European countries involved in the HELENA-LSEI study. It was hypothesized that the personalized feedback messages that adolescents received on their computer screen in the tailored condition result in more favorable changes in physical activity after 1 month and after 3 months compared to more general non-personally-tailored information. Results confirmed this hypothesis. After 1 month, the intervention group reported higher levels of MVPA in leisure time, as well as higher levels of cycling for transport compared to adolescents receiving the general advice (control group). A decrease of about 20 minutes in total MVPA per week was found in the control group, while the intervention group increased their levels of MVPA by about 20 min/wk. After 3 months, when the intervention group had received the tailored feedback twice, intervention effects were even stronger. Favorable changes in physical activity levels of all intensities and in different contexts were found in the tailored group compared to the generic feedback group. Total MVPA increased with on average 30 min/wk in the intervention group, while it decreased with on average 20 min/wk in the control group. This positive intervention effect is very promising, especially given the high (nearly 10 hr/wk), baseline levels of MVPA. The decrease of about 20 minutes in total MVPA per week found in the control group is surprising. The data showed that this decrease was only found in those adolescents that already met the guidelines at baseline. This could mean that the generic advice gave adolescents the feeling that they were more than active enough that resulted in a decrease in their activity levels.\nAs few studies previously evaluated the effects of schoolbased computer-tailored physical activity advice in adolescents, it is hard to compare these results with other studies. The study of Haerens et al. was the basis of the present study using the same computer-tailored intervention. However, the design was somewhat different. Haerens et al. compared a computer-tailored intervention condition (during one class hour) with a no-intervention control group that generally shows larger differences between both groups. Compared with the study of Haerens et al., the results of the present study are much stronger. Haerens et al. showed effects of the computer-tailored intervention for increasing school related physical activity levels by on an average 25 min/wk, but not for increasing total physical activity or leisure time physical activity in Belgian adolescents. It is possible that the higher intervention intensity in the present study is responsible for this difference. Adolescents received the tailored advice twice, the first time at baseline and the second time after 1 month. This procedure gave them the opportunity to change some habits after the first feedback letter and to act upon the evaluation of their changes 1 month later. To our knowledge, there is only one study that evaluated the effects of consecutive tailored feedback sessions in adolescents. Frenn et al. studied the effect of three 45-minute lessons of tailoring in low-income students. After 1 month self-reported MVPA increased about 7 min/d in the intervention group, whereas in students in the control group a daily decrease of 15 minutes was found.\nAdditional analyses in the present study also showed positive effects in the ''at-risk group'' of adolescents that did not meet the 60 min/d MVPA guidelines. For this less active group, both the tailored and the generic advices resulted in increases 1 hour or more of MVPA per week. This increase in both groups can partly be explained by social desirability. In addition, the tailored advice was found to be superior to the generic advice. Taken together, these results indicate that tailored and generic physical activity advice led to an increase in physical activity habits in less active adolescents, with superior effects for the computer-tailored advice at least at the short term.\nFor some of the physical activity outcomes, intervention effects were only present among boys. These findings are inline with findings from other intervention studies, showing that physical activity interventions are generally more effective among boys [e.g., 4].\nDespite the positive effects of this intervention across different European countries, it is clear that the implementation of the computer-tailored intervention in the schools was not uniform in all countries. Results showed that a good implementation of the computer-tailored intervention was only possible if the school had enough computers to accommodate complete classes at a time, that a fast internet connection and adequate hardware is necessary to make sure that 20-30 pupils can go through the intervention at the same moment, and that a teacher or educator is required to be present in the classroom to guide the students through the intervention.\nResults also showed that it cannot be expected from adolescents to go through the intervention on their own in their free time. The completion of the online questionnaires is not experienced by the adolescents as rewarding in itself, which results in quitting the program before the advice is presented (after 20-25 minutes). This suggests that it is strongly recommended to incorporate the computer-tailored physical activity intervention within the regular curriculum especially to reach the least active adolescent who maybe less motivated to complete the intervention on their own. In addition, a computer-tailored intervention is preferably embedded in a whole school program rather than a standalone intervention. Earlier studies already showed that the multi-component interventions in which a classroom education component is combined with an environmental and policy component at the school level, is most promising in changing activity and nutrition habits and also body weight.\nThere are several important limitations to consider in interpreting the results of this study. First, only self-reports were used to assess tailoring effects. Hagströmer et al. executed a validation study and showed significant but modest correlations (around 0.20) between indices derived from the IPAQ-A and accelerometer data for the total sample. Results also showed that the IPAQ-A was more valid in the older adolescents than in the younger ones, suggesting that self-reports of physical activity are harder to complete by younger children and as a consequence less valid. Additionally, self-reported behavioral data are more often biased by social desirability and inaccurate responses, which may have resulted in an overestimation of physical activity levels. The rather high baseline levels of MVPA suggest this is indeed the case. Hence, a more objective measure of physical activity such as accelerometers should be used in the future to confirm these intervention effects. Second, the tailoring questionnaire was also used to assess the tailoring effects, which could provide social desirability at post-test. However, as students in the control group also received a generic advice, the systematic bias should be lower than in other intervention studies using no-intervention control groups. Third, nesting this intervention study within the cross-sectional study within the HELENA study resulted in an overload of measurements in schools sometimes leading to alack of motivation to fulfill all the requirements for the intervention study. Further, the sample for the present study was very selective, with large differences in inclusion and retention numbers of participants between the six participating countries. Countries with a large sample of adolescents in the study had a greater effect upon the results compared to smaller country samples. Numbers within countries were too small to execute separate country specific analyses. Future research should confirm the intervention effects in larger country samples.\n",
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "251 (100%)",
+          "rowHeaders": [
+            "Data at T1, T2 and T3",
+            "Data at baseline ¼ T1"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Vienna"
+          ]
+        },
+        {
+          "value": "153 (100%)",
+          "rowHeaders": [
+            "Data at T1, T2 and T3",
+            "Data at baseline ¼ T1"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Ghent"
+          ]
+        },
+        {
+          "value": "181 (100%)",
+          "rowHeaders": [
+            "Data at T1, T2 and T3",
+            "Data at baseline ¼ T1"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Heraklion"
+          ]
+        },
+        {
+          "value": "128 (100%)",
+          "rowHeaders": [
+            "Data at T1, T2 and T3",
+            "Data at baseline ¼ T1"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Dortmund"
+          ]
+        },
+        {
+          "value": "221 (100%)",
+          "rowHeaders": [
+            "Data at T1, T2 and T3",
+            "Data at baseline ¼ T1"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Athens"
+          ]
+        },
+        {
+          "value": "120 (100%)",
+          "rowHeaders": [
+            "Data at T1, T2 and T3",
+            "Data at baseline ¼ T1"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Stockholm"
+          ]
+        },
+        {
+          "value": "189 (75%)",
+          "rowHeaders": [
+            "Data at T1, T2 and T3"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Vienna"
+          ]
+        },
+        {
+          "value": "115 (75%)",
+          "rowHeaders": [
+            "Data at T1, T2 and T3"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Ghent"
+          ]
+        },
+        {
+          "value": "204 (92%)",
+          "rowHeaders": [
+            "Data at T1, T2 and T3"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Athens"
+          ]
+        },
+        {
+          "value": "675 (64%)",
+          "rowHeaders": [
+            "Data at T1, T2 and T3"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Total"
+          ]
+        },
+        {
+          "value": "137 (55%)",
+          "rowHeaders": [
+            "Data at T1, T2 and T3"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Vienna"
+          ]
+        },
+        {
+          "value": "187 (85%)",
+          "rowHeaders": [
+            "Data at T1, T2 and T3"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Athens"
+          ]
+        },
+        {
+          "value": "494 (47%)",
+          "rowHeaders": [
+            "Data at T1, T2 and T3"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Total"
+          ]
+        }
+      ],
+      "page": 1
+    }
+  ]
+}

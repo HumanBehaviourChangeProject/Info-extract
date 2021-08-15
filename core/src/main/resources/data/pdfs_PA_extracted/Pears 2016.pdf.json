@@ -1,0 +1,3218 @@
+{
+  "blocks": [
+    {
+      "type": "LINES",
+      "value": "A randomised controlled trial of three very brief interventions for physical activity in primary care",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Background: Very brief interventions (VBIs) for physical activity are promising, but there is uncertainty about their potential effectiveness and cost. We assessed potential efficacy, feasibility, acceptability, and cost of three VBIs in primary care, in order to select the most promising intervention for evaluation in a subsequent large-scale RCT.\nMethods: Three hundred and ninety four adults aged 40-74 years were randomised to a Motivational (n = 83), Pedometer (n = 74), or Combined (n = 80) intervention, delivered immediately after a preventative health check in primary care, or control (Health Check only; n = 157). Potential efficacy was measured as the probability of a positive difference between an intervention arm and the control arm in mean physical activity, measured by accelerometry at 4 weeks. Results: For the primary outcome the estimated effect sizes (95 % CI) relative to the Control arm for the Motivational, Pedometer and Combined arms were respectively: +20.3 (−45.0, +85.7), +23.5 (−51.3, +98.3), and −3.1 (−69.3, +63.1) counts per minute. There was a73% probability of a positive effect on physical activity for each of the Motivational and Pedometer VBIs relative to control, but only 46 % for the Combined VBI. Only the Pedometer VBI was deliverable within 5 min. All VBIs were acceptable and low cost. Conclusions: Based on the four criteria, the Pedometer VBI was selected for evaluation in a large-scale trial. Trial registration: Current Controlled Trials ISRCTN02863077. Retrospectively registered 05/10/2012.",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Physical inactivity is the fourth leading cause of death worldwide and is a key risk factor for noncommunicable diseases (NCDs) such as cardiovascular disease, some cancers and type 2 diabetes. The UK government recommendations are for 30 min of at least moderate-intensity physical activity (such as brisk walking or cycling) on at least 5 days per week. However, the majority of adults in the UK do not meet these recommendations, and globally physical inactivity is on the rise. In the UK, physical inactivity has been estimated to be directly responsible for 3 % of disability adjusted life years, resulting in an estimated direct cost to the National Health Service of £1.06 billion annually. Worldwide, inactivity is estimated to cause 9 % of premature mortality, comparable to smoking, and if inactivity were decreased by 10 %, more than 533,000 deaths could be averted every year.\nGiven the public health burden associated with sedentary lifestyles, there is a need for scalable, cost-effective interventions to enhance the adoption and maintenance of regular physical activity along the continuum of individual and population-based interventions. One promising avenue is brief and very brief behaviour change interventions in healthcare settings. These have the potential to reach a large proportion of the adult population if delivered in routine primary care consultations or preventive health checks. Review evidence shows that brief interventions in primary care can increase physical activity in the short term when compared with usual care or more intensive interventions. An economic review concluded that brief interventions for physical activity in primary care and the community are cost-effective when longer-term costs and health benefits are considered. However, many so-called brief interventions last up to 30 min, which is too long for most primary care consultations. Very brief interventions (VBIs), defined as interventions delivered in a single session of no more than 5 min, could be delivered in health checks or similar consultations. However, very few VBIs have been reported in the literature, they are poorly described, and evidence that they increase physical activity is weak and inconclusive. A systematic review published in 2011 of brief interventions for physical activity in primary care identified only four very brief interventions, and reported that interventions over 5 min (brief interventions; BIs) increased physical activity more than those under 5 min (very brief interventions). However, no study has directly compared brief with very brief interventions, and overall there is alack of evidence about whether differential effectiveness is explained by intervention content, mode of delivery or other factors. The descriptions of the BIs and the four VBIs reported in this review were very similar, with both consisting of verbal advice with or without materials (e.g., pamphlets, exercise prescriptions, leisure centre passes) and one or more follow-up components (e.g. visits, phone calls and newsletters); the main difference was the duration. The content of the verbal and written advice given in brief and very brief interventions was also very similar. For example, descriptions of both brief and very brief advice reported by Campbell et al. included such things as: individualized counselling/advice; applying three or more of the 5A's Behaviour Change Model (ASK, ASSESS, ADVISE, ASSIST, AR-RANGE); asking open questions about the benefits of physical activity and barriers to exercise; providing information about the risks of physical inactivity and recommendations for how to increase activity; and providing tailored advice based onstage of motivational readiness to change.\nMuch of the existing evidence is limited by reliance on imprecise self-report measures of physical activity. Very few studies to date have examined the effect of brief or very brief interventions on objectively measured physical activity. In sum, little is currently known about the effectiveness and cost-effectiveness of VBIs for physical activity.\nWe developed VBIs to promote physical activity in the context of National Health Service (NHS) Health Checks in England, and tested their feasibility prior to the trial reported in this paper. Health Checks target adults between 40 and 74 years and include an assessment of their risk of vascular disease (e.g., type 2 diabetes, heart disease, kidney disease, and stroke) and the offer of appropriate management of risk (e.g. behaviour change support). They are delivered in primary care predominantly by practice nurses and healthcare assistants, and offer an opportunity to promote physical activity among a large proportion of the adult population.\nThe VBIs evaluated in the current trial were identified and developed systematically using a two-stage approach. In brief, a short-list of four promising VBIs (a Motivational VBI, an Action Planning VBI, a Pedometer VBI, and a Physical Activity Diary VBI) was identified by the research team, using an iterative approach that combined evidence and expertise from multiple sources (systematic reviews, a scoping review of BCTs, team discussion, stakeholder consultation, a qualitative study, and estimation of resource cost). We then tested the feasibility and acceptability of these promising VBIs among 68 adults attending Health Checks. Further details are reported elsewhere. Using a priori criteria of potential efficacy, acceptability, feasibility and cost, we selected three VBIs: a Motivational VBI, a Pedometer VBI, and a Combined (Motivational and Pedometer) VBI for evaluation in the current trial. A detailed description of the content of each VBI is given in the Methods section.\nThe aims of this trial were to: 1) assess the potential efficacy, feasibility, acceptability, and cost of these three VBIs against the Health Check alone; and 2) select the most promising VBI for evaluation in a subsequent large-scale randomised controlled trial (referred to in this paper as the 'main trial'), designed to provide robust estimates of effectiveness and cost-effectiveness.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "We conducted a randomised controlled trial in which interventions were delivered on a randomised weekly basis and participants received one of three VBIs as part of the usual Health Check consultation: Motivational VBI; Pedometer VBI; Combined VBI; or the Health Check consultation only (Control arm). Physical activity was not measured at baseline as the effects of baseline measurement might have obscured any effects of the VBIs. Furthermore, evidence from pilot work (not reported in this paper) showed that measurement before booking a Health Check appointment reduced Health Check uptake by approximately 50 % and this was not acceptable to the practices and practitioners as Health Checks constitute routine care. Finally, as this is a randomised trial, the groups are expected to be balanced on average for baseline values. Ethical approval was obtained from the UK National Health Service (NHS) National Research Ethics Service (Ref: 12/EE/0200). The trial is registered with Current Controlled Trials (ISRCTN 02863077). The full trial protocol can be accessed at: http://www.phpc.cam.ac.uk/pcu/files/2011/ 04/VBIWS3-Protocol-V4-0-FINAL.pdf.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Participants were recruited between May 2013 and February 2014 from eight NHS primary care practices in urban and rural areas in the East of England. Participants were eligible for the trial if they were eligible for the Health Check: i.e. aged 40-74 years and not previously diagnosed with heart disease, stroke, diabetes, or kidney disease. Participants were excluded if they had no working knowledge of English.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Primary care practitioners (practice nurses and healthcare assistants) responsible for delivering Health Checks were trained to deliver the VBIs to participants.\nEach practice generated a list of 250 eligible patients aged 40-74 years and balanced for gender. Most participants were invited by a letter from the practice to attend the Health Check and take part in the trial, enclosing a Patient Information Sheet. The remainder were recruited by primary care staff who handed out study details to eligible patients in the waiting room. Patients who wanted to take part contacted the practice to book an appointment fora Health Check at a convenient time. Written informed consent for the trial was obtained from each participant by the health practitioner at the start of the Health Check consultation.\nAn opportunistic sub-sample of participants (two per arm in each practice) was asked for their consent to have their consultation audio-recorded. If the participant gave consent, the Health Check and the VBI (if applicable) were audio-recorded. Following the consultation, participants from this sub-sample who received a VBI were asked to take part in a short face-to-face interview with a researcher. A member of the research team [SP] also conducted face-to-face interviews with each practitioner towards the end of the study.\nFour weeks after the Health Check, all participants who attended were sent an accelerometer and a questionnaire which assessed demographic variables, physical activity and beliefs about increasing physical activity.\nParticipants were asked to wear the accelerometer (on the elasticated belt provided) on their right hip for 7 days during all waking hours (except during water-based activities), to complete the questionnaire at the end of the wear-period, and then return both to the research team. Non-responders were telephoned by a researcher after 2 weeks, and recorded as lost to followup after six failed attempts. Four weeks was selected as the follow-up period as there is evidence that brief interventions maybe effective in the short-term, but there is insufficient evidence for their long-term effects; so we would be most likely to observe an effect then.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The NHS health check consultation All participants received the usual NHS Health Check, which aims to help prevent heart disease, stroke, type 2 diabetes, kidney disease and certain types of dementia by assessing risk through a combination of personal details, family history of illness, smoking, alcohol consumption, physical activity, BMI, blood pressure and cholesterol. As part of the usual Health Check, all participants should be given support and advice to help them reduce or manage their risk. Participants who were allocated to a VBI condition received the VBI at the end of the usual Health Check procedures. Participants allocated to the Control condition received the usual Health Check only.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Health practitioners who delivered Health Checks underwent a 3-h training session, accompanied by a training manual, to deliver each of the three VBIs. The training session and manual covered: (i) information about study aims and procedures; (ii) information about the importance of promoting physical activity among adults attending Health Checks; (iii) a detailed procedure which described how each component of the VBI should be delivered; (iv) a shortened version of the procedure that practitioners could use as a prompt during the Health Check, to promote fidelity of VBI delivery; (v) a script which gave an example of VBI delivery; (vi) written materials for the participant; and (vii) demonstration and practice of good communication skills to facilitate behaviour change. Two researchers who developed the VBIs introduced the training manual and demonstrated each VBI in role-play. Each practitioner then practised delivering each VBI (role play) and was given feedback on their performance.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "All VBIs involved a very brief face-to-face consultation and written materials for participants (see Additional file 1 for details of the content and component behaviour change techniques (BCTs) of each VBI). The Motivational VBI was composed of 12 BCTs, the Pedometer VBI of seven BCTs, and the Combined VBI of 15 BCTs. All VBIs included goal setting (behaviour), action planning, feedback on behaviour and self-monitoring of behaviour. At the start of each VBI the practitioner gave the participant feedback on their current activity level based on a self-report physical activity assessment as part of the Health Check, and informed the participant about the current UK physical activity recommendations of 30 min of moderate-intensity activity on five or more days of the week.\nThe three VBIs then followed a different procedure, as outlined below:\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The practitioner: (i) discussed benefits of increasing physical activity; (ii) asked the participant's view about the importance of increasing physical activity, and their confidence in their ability to do so; and (iii) explained how to use a diary (within the booklet) to set goals, make action plans and self-monitor physical activity. The participant was given a booklet which contained: (i) information on physical activity recommendations; (ii) information about the health, social, environmental and emotional benefits of physical activity; (iii) questions about importance and confidence; (iv) a 4-week physical activity diary encouraging goal setting, action planning, daily self-monitoring of physical activity, goal review, problem solving, and monitoring of emotional consequences; (vi) tips for increasing physical activity and staying motivated (e.g. positive self-talk and mobilising social support); and (vii) information about local physical activity resources.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The practitioner explained: (i) the 10,000 steps per day recommendation; (ii) how to wear and use a pedometer to monitor the number of steps walked each day; and (iii) how to use a Step Chart to set a daily step goal (starting with a realistic goal) and record daily steps. The participant was given a pedometer (Yamax SW200 Digi-Walker), a Step Chart and a booklet which contained: (i) information on physical activity and step recommendations; (ii) instructions on how to use the pedometer to monitor daily steps; and (iii) tips for increasing the number of steps.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The practitioner delivered all the components of the Motivational VBI and the Pedometer VBI and gave the participant a Step Chart, pedometer and a booklet that combined information from the Motivational VBI and Pedometer VBI booklets.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Age, gender, ethnicity and employment status were collected at baseline (during the Health Check consultation). To reduce the time spent on study procedures during the Health Check, marital status, educational qualifications, occupation group, home ownership and car ownership were assessed through a follow-up questionnaire.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "All physical activity outcomes were assessed 4 weeks after the Health Check consultation. The primary outcome was physical activity (total body movement) measured by tri-axial accelerometry (ActiGraph GT3X+, ActiGraph, Pensacola, Florida, USA) expressed as average vector magnitude acceleration (counts per minute). Data collected at 60Hz were integrated into 10-s epochs. Non-wear time, defined as strings of 90 min of consecutive zeros (on the vertical axis), was excluded, and remaining vector magnitude data were summarized into average acceleration (counts per minute (cpm)) and time spent in activity intensity categories. To be included in the analysis, participants needed to contribute at least three valid days of data, defined as wear time of at least 10 h fora valid day.\nSecondary outcomes derived from the accelerometer data were: step counts (average step counts per day); and average number of minutes per day spent in sedentary/light activity (<2690 cpm); moderate activity (2690-6166 cpm); vigorous activity (≥6167 cpm); and moderate or vigorous activity (≥2690 cpm).\nSelf-reported physical activity outcome measures were obtained using the validated Recent Physical Activity Questionnaire (RPAQ). Total PAEE (Physical Activity Energy Expenditure), domain-specific PAEE (Home, Work, Leisure-time and Commuting), and Screen/TV viewing time over the past 4 weeks were calculated using reported frequency and duration for each activity, together with estimated activity-specific metabolic cost.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "All intervention groups reported a stronger intention to be more physically active than control participants (Table). The other constructs also generally showed an advantage over the control arm but had low internal consistency. Practitioner views: Interviews with 12 practitioners (six were unavailable for interview) lasted between 25 and 45 min. Four practitioners reported that ease and duration of VBI delivery depended more on the responsiveness of participants than on VBI content. All practitioners felt that the Pedometer VBI was the easiest and quickest to deliver, and that delivery of the Combined VBI was most difficult and timeconsuming (interview themes are available from the first author). Six out of 12 practitioners favoured the Pedometer VBI, five favoured the Combined VBI, and one favoured the Motivational VBI.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "(ii) assessing fidelity of VBI delivery (practitioner adherence to each VBI protocol, and contamination); and (iii) interviews with practitioners. A coding framework was developed for the VBI audio-recordings to assess VBI duration, practitioner adherence and contamination. Two researchers (SP, MB) who were blind to physical activity outcomes coded duration and fidelity independently, compared their ratings and resolved any differences. VBI duration was defined as the length of time to deliver the VBI, excluding the rest of the Health Check consultation. VBI fidelity was defined as the presence (coded as 1) or absence (coded as 0) of each VBI component as specified in the VBI protocol (see Additional file 2 for fidelity items). An overall fidelity percentage was calculated for each VBI: the mean percentage of VBI components delivered out of those that should have been delivered.\nA member of the research team (SP) who was blind to physical activity outcomes read transcripts of the practitioner interviews and conducted a simple content analysis to determine whether VBIs differed in terms of: (i) ease of delivery and (ii) duration of delivery; and (iii) which VBI practitioners thought should be selected for the main trial.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The 12 practitioners interviewed reported that they felt most confident delivering the Pedometer and Combined VBIs and that these two VBIs were the most acceptable to participants and were most likely to be effective. Interviews with 37 participants (lasting 5-15 min) confirmed that the Health Check was a good time to discuss physical activity and that the VBI was a good reminder of the importance of physical activity [interview themes available from the first author]. Participants who received the Motivational or Pedometer VBIs were more likely than participants who received the Combined VBI to rate the physical activity advice given as 'generic'.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The total cost was £6.83 (US$10.06) per participant for the Motivational VBI (£4.99/US$7.35 delivery, £1.84/\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "This trial aimed to provide information on potential efficacy, acceptability and feasibility, to inform selection of one VBI for the main trial. Given that large numbers would be needed to detect a small effect with adequate power in the main trial, and that four arms were tested in this trial, we planned to randomise 64 per intervention arm, and a greater number, 128, to the control group in order to improve precision as this group was involved in all controlled comparisons. This resulted in a total sample size of 320, with 16 control participants and 8 participants per intervention group per practice. With 25 % dropout, there would be 240 followed up (48 per intervention arm and 96 in the control arm). As the SD of the accelerometer counts per minute primary outcome was unknown, we expressed the outcome in terms of standard deviation units (\"units\"). With sample sizes of 48 and 96, a 95 % confidence interval fora difference in sample means has a width of 0.7 units, based on a standard error of 0.18 units. The calculation was based on a confidence interval approach rather than a power based approach which would be applicable in our subsequent trial. An observed effect of 0.2SD is commonly regarded as a 'small' standardised effect size. Very brief interventions maybe expected to yield 'small' or even smaller effects. With these sample sizes, and the consequent 95 % confidence interval width of 0.7SD, for each VBI, if an observed intervention effect (standardised difference in means) of 0.2SD higher than control were to be observed then this would also provide information that there was 87 % probability of a positive intervention effect size. This is calculated by establishing that 87 % of the normal distribution is positive when the mean is 0.2 and 95 % range, based on observing a 95 % confidence interval (−0.15SD to 0.55SD). If alternatively an observed intervention effect size of 0.1SD were to be observed, this would also provide information that there was 71 % probability of a positive intervention effect, based on observing a 95 % CI centred on 0.1SD with width 0.7SD (−0.25SD to 0.45SD). A positive effect size is defined to be one where the intervention mean exceeds the control mean. The probability of a positive effect size was specified as the summary measure of potential efficacy when informing selection of one VBI for our subsequent trial. The sample size was sufficient to provide a precise estimate of the SD (with the 95 % confidence interval covering +/− 10 % from the estimate) to reliably estimate the necessary sample size for the main trial.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Within each general practice, each calendar week of Health Checks was randomised to one of the four trial arms, such that all participants scheduled to receive a Health Check consultation in the same week were allocated to the same trial arm. Each practice had a different randomisation order, such that the same intervention did not necessarily take place across all practices in the same week. This was practically easier to implement than individual randomisation. It also helped to reduce contamination across VBIs since practitioners could focus on one intervention each week without having to switch between interventions in short periods. Randomisation of weeks was performed according to an unequal 1:1:1:2 allocation ratio to the Motivational arm, the Pedometer arm, the Combined arm, or the control arm respectively. Invitation letters were sent out in stages rather than all at once. This reduced the likelihood of potential bias arising if more motivated participants were to contact the practice for their Health Check appointment earlier and hence be more likely to be randomised to a particular VBI. Participants were blind to allocation at the time of booking their appointment, as were the practice staff who arranged the appointment. Neither the practitioners nor participants were blind to the arm (control or one of three VBIs) at the time of the appointment. The randomisation list was constructed by programming a simple block randomization routine in R software, and was prepared in advance by atrial statistician (RAP) who was independent of trial coordination and intervention delivery.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The data were analysed using IBM SPSS Statistics Version 22. Cronbach's alpha was used to calculate the internal consistency of each belief measure. Following an intention to treat approach, all participants were analysed in the arm to which they were randomised. Each continuous outcome was analysed using a linear regression model. This provided an estimate and 95 % confidence interval for each pairwise difference between the mean in each intervention group and the mean in the control group. Skewed outcomes were first logtransformed before regression analysis and interpreted as percentage changes relative to the control group. Participants with valid primary outcome data were compared with non-responders to identify if there were any differences in baseline characteristics which could then act as potential confounders. These were then adjusted for as covariates in a secondary sensitivity analysis as an alternative to the assumption of the primary analysis that data are missing completely at random. Adjustment for these covariates instead makes a more plausible assumption that data are missing at random after accounting for these covariates, but is considered a secondary analysis approach because it is driven by the data and is posthoc.\nAll statistical tests were two-sided and assessed at the 5 % level of significance. The regression results were interpreted using a simple Bayesian framework that is based on 95 % confidence intervals and is appropriate when a decision must be based on a study that has unavoidably low power. The posterior probability of a positive effect for each VBI intervention relative to the control arm was estimated using the 95 % confidence interval for the difference in mean counts per minute between the intervention arm and the control arm. Prior to the trial, an intervention has 50 % potential efficacy, representing equipoise between an intervention and control. Posterior to the trial, a probability above 50 % indicates a greater potential, than not, for an intervention to be efficacious relative to the control arm. Further details about the analysis plan and statistical analyses can be found in the trial protocol: http://www.phpc.cam.ac.uk/ pcu/files/2011/04/VBIWS3-Protocol-V4-0-FINAL.pdf.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "In order to start the main trial in time to complete it during the grant period, the team had to select the best performing VBI after completion of all participant and practitioner interviews and availability of follow-up data from accelerometers and questionnaires for 62 % of the total sample. The patterns observed for the accelerometer and questionnaire data at the time of the meeting did not differ from those observed in the full dataset.\nThe team reached a consensus that the Pedometer intervention should be evaluated in the main trial as it had the highest combined rating of potential effectiveness, feasibility, acceptability and cost (see Additional file 4) and it was the only VBI deliverable within 5 min. Although the response rate was lower in the Pedometer VBI arm at 1-month follow-up, we found no evidence of a systematic effect of season, practice, age or gender that could explain the differential response rate. Furthermore, we were confident that that the lower response rate was not attributable to some aspect of the Pedometer VBI itself as we would have expected a similarly low retention rate in the Combined VBI arm as the Combined VBI included all the components of the Pedometer VBI.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "We recruited eight primary care practices (out of 12 practices that were invited to participate) and trained 18 practitioners (nine practice nurses and nine healthcare assistants) in VBI delivery. All practitioners were female, and none received a personal financial incentive for taking part in the study. Two of the eight practices we recruited were in urban areas and six were in rural areas. The Index of Multiple Deprivation 2015 is the official measure of relative deprivation for small areas (or neighbourhoods) in England based on postcode. A deprivation decile of 1 is the least deprived 10 % of small areas nationally, and 10 is the most deprived 10 % of small areas nationally. Two practices were in decile 3, one was in decile 4, one was in decile 6, two were in decile 8; one was in decile 9; and one was in decile 10. One practice with one trained practice nurse withdrew after recruiting 11 participants (six Combined VBI and five Control).\nFigure shows the CONSORT diagram. In total, 394 participants were recruited and randomised, and followed up between April 2013 and February 2014. Baseline mean age was 53 years (SD 9.1), 59 % were female, 94 % were white British, and 72 % were employed (see Table). At follow-up 84 % were married, 50 % were educated to A-level/Degree, 31 % had a manual occupation, 92 % were home owners and 97 % were car owners. Groups were comparable in terms of age, gender, ethnicity and employment status (Table), marital status, qualifications, occupational group, and home and car ownership. One hundred and forty participants (36 %) did not provide a valid primary outcome. The non-response rate varied significantly by arm (p = 0.026), being higher in the Pedometer arm\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Sixty-four percent of participants (254/394) provided usable physical activity data. The mean of the primary outcome in this population was estimated from the observed control group mean: 636 (95 % CI: 597-674) counts per minute (Table). The standard deviation needed to be able to make sample size calculations for the main trial was 200 cpm, based on the pooled withingroup estimate. For the primary outcome the estimated Based on these 95 % confidence intervals, we estimated the posterior probability of a positive effect to be 73 % for both the Motivational and the Pedometer VBIs. The probability of a positive effect was estimated to be only 46 % for the Combined VBI, which means that, based on the results from these study participants, there is more likely to be a negative intervention effect than a positive one, indicating a case not to proceed with this intervention. However, for each of the other two interventions, there was increased support fora positive effect (73 % probability) than there was prior to undertaking the study (50 % probability).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The other accelerometer-derived measures of physical activity were similar for all VBI arms relative to control (Table).\nThe self-reported measures (Table) were also similar for all VBI arms relative to Control (Table), except for reported leisure-based PAEE which was 50.3 % (95%CI: +2.1 %, +121.2 %) higher for Motivational VBI participants (16.5 kJ/kg/day) than Control participants (11.0 kJ/kg/day).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Non-responders were significantly younger than responders (p = 0.005) by a mean of 2.7 years, but were no more likely to be male (p = 0.67), in paid employment (p = 0.16), or of non-white ethnicity (p = 0.65). Among responders, there were no significant between-arm differences in gender, ethnicity, or employment. However, responders in the Combined arm were younger than Control arm responders (p = 0.032). The sensitivity analysis to adjust between-arm comparisons forage did not appreciably alter confidence interval widths.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "We aimed to assess the potential efficacy, feasibility, acceptability and cost of three VBIs for physical activity and to select the most promising intervention for evaluation in a subsequent large-scale randomised controlled trial, designed to provide robust estimates of effectiveness and cost-effectiveness. The Motivational and Pedometer VBIs had the greatest potential to increase physical activity compared to the Health Check only (Control), but only the Pedometer VBI could be delivered within 5 min. Participants and practitioners found all VBIs acceptable, and their cost was low. Based on these findings, the Pedometer VBI was selected for further evaluation. Our decision is supported by systematic reviews and meta-analyses of pedometer-based interventions, which showed that they increase physical activity. The Combined VBI had the lowest potential efficacy, perhaps because it contained too many behaviour change techniques (BCTs). This might have reduced its effectiveness by either compromising intervention quality or fidelity of delivery, or by overwhelming participants.\nWe observed similar levels of objectively measured or self-reported physical activity when comparing each VBI with the control group. This result is not surprising. First, we did not expect a very brief (5 min) intervention to have medium or large effects on physical activity. Previous trials of very brief interventions for physical activity had inconclusive findings, and any effects on physical activity were relatively small. For example, found that patients who received 3-5 min of physical activity counselling increased their self-reported walking by approximately five minutes per day. Second, our trial was not powered to detect significant differences between groups but aimed to determine the potential efficacy of the VBIs and inform sample size for the main trial. Although the effects of the Motivational and Pedometer VBIs observed in this study are small, the VBIs are scalable, cheap and could be delivered to a large proportion of the adult population, where small effects at the individual level could translate to a substantial public health impact.\nAlthough participants found all VBIs acceptable, practitioners felt most confident delivering the Pedometer and Combined VBIs, and only the Pedometer VBI could be delivered in 5 min. All VBIs commenced with practitioner feedback on current physical activity levels and information about recommendations and how to selfmonitor behaviour. However, the Motivational and Combined VBIs also required practitioners to ask participants how they might benefit from increasing their physical activity, how important increasing their physical activity was to them, and how confident they were about increasing their activity, which is likely to have increased the duration of delivery.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Our findings suggest that the motivational component of the Motivational and Combined VBIs may have increased participants' intention to become more active. Although intentions were highest in the Combined VBI group, daily accelerometer counts per minute were lowest in this group. As observed previously, increases in intentions do not automatically translate into behaviour change, and inclusion of self-regulation BCTs (such as those included in the Pedometer VBI) maybe needed to bridge the intention-behaviour gap.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "A potential limitation might be that we chose not to measure physical activity (objective or self-report) at baseline. This decision was justified given the evidence for baseline measurement effects and reduced uptake of the Health Checks. Furthermore, our primary purpose in conducting the trial was to compare randomised groups, and statistical inference is still valid in this context, even in the absence of baseline measures. A further potential limitation was the representativeness of our sample. Our participants, being predominantly white and relatively affluent, are representative of the region but not of the UK population as a whole. Finally, non-response rate was unexplainably higher in the Pedometer arm. To improve response rate in the subsequent large-scale trial, we implemented a number of strategies, including sending a text or email reminder of study participation 1 week before sending out accelerometers and follow-up questionnaires.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "First, our findings are likely to have high ecological and external validity: our study was conducted in a primary care setting; our participants were representative of adults attending NHS Health Checks in the East of England; we recruited practices from rural and urban and from affluent and deprived areas; and we trained health practitioners who routinely delivered NHS Health Checks rather than specialist staff. Second, our randomisation procedure resulted in comparable demographic groups. Third, using a confidence interval approach (Bayesian inference) to determine potential intervention efficacy ahead of the main trial enabled us to evaluate the effect of several interventions relative to control on objectively measured physical activity at the same time, and use the estimates to select the most promising intervention and calculate the sample size for the main trial. Fourth, the use of quantitative and qualitative methods to inform VBI selection, and the use of four a priori defined criteria allowed us to select the best-bet intervention for the main trial based on practicality as well as potential efficacy, and to optimise the intervention ahead of the trial. A key challenge was how to combine the findings for these four criteria. We used a Likert-type rating system in which each research team member rated each VBI on the four criteria and produced an average total rating for each VBI. This method enabled an independent assessment by each research team member, with equal weight given to each criterion.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "We would recommend researchers use a confidence interval approach to estimate the potential efficacy of multiple interventions when time and/or resources are limited, as this informs the decision of which intervention(s) warrant further investigation without the need fora much larger study. We demonstrated that all three VBIs are promising in terms of low costs, but it is unlikely that practitioners can deliver the Motivational VBI as part of routine consultations with limited time. Our findings are consistent with systematic review evidence that pedometer-based interventions can increase physical activity and also demonstrate that practitioners can integrate a very brief pedometer intervention into a routine consultation. Hence, it is feasible for practitioners to provide feedback on participants' current activity levels and encourage goal setting and self-monitoring using pedometers. However, commissioners and policy makers need evidence about cost-effectiveness, therefore large-scale trials are needed to evaluate the effects of VBIs on objectively measured physical activity, supplemented with decision modelling to estimate longer-term costs and outcomes and potential public health impact. We are currently assessing effectiveness and cost-effectiveness of a very brief pedometer intervention based on the Pedometer VBI in a full-scale randomised controlled trial (Current Controlled Trials ISRCTN 72691150).\n",
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "83",
+          "rowHeaders": [
+            "N"
+          ],
+          "columnHeaders": [
+            "Table 1 Characteristics of participants (total sample and by trial arm)",
+            "Table 1 Characteristics of participants (total sample and by trial arm)",
+            "Motivational VBI"
+          ]
+        },
+        {
+          "value": "74",
+          "rowHeaders": [
+            "N"
+          ],
+          "columnHeaders": [
+            "Table 1 Characteristics of participants (total sample and by trial arm)",
+            "Table 1 Characteristics of participants (total sample and by trial arm)",
+            "Pedometer VBI"
+          ]
+        },
+        {
+          "value": "80",
+          "rowHeaders": [
+            "N"
+          ],
+          "columnHeaders": [
+            "Table 1 Characteristics of participants (total sample and by trial arm)",
+            "Table 1 Characteristics of participants (total sample and by trial arm)",
+            "Combined VBI"
+          ]
+        },
+        {
+          "value": "52.9 (9.1)",
+          "rowHeaders": [
+            "Mean Age (SD), years"
+          ],
+          "columnHeaders": [
+            "Table 1 Characteristics of participants (total sample and by trial arm)",
+            "Table 1 Characteristics of participants (total sample and by trial arm)",
+            "Total Sample"
+          ]
+        },
+        {
+          "value": "52.1 (8.1)",
+          "rowHeaders": [
+            "Mean Age (SD), years"
+          ],
+          "columnHeaders": [
+            "Table 1 Characteristics of participants (total sample and by trial arm)",
+            "Table 1 Characteristics of participants (total sample and by trial arm)",
+            "Motivational VBI"
+          ]
+        },
+        {
+          "value": "53.3 (8.4)",
+          "rowHeaders": [
+            "Mean Age (SD), years"
+          ],
+          "columnHeaders": [
+            "Table 1 Characteristics of participants (total sample and by trial arm)",
+            "Table 1 Characteristics of participants (total sample and by trial arm)",
+            "Pedometer VBI"
+          ]
+        },
+        {
+          "value": "51.3 (8.4)",
+          "rowHeaders": [
+            "Values are % (n) unless otherwise specified. a Missing values for occupation reduced the denominator to"
+          ],
+          "columnHeaders": [
+            "Table 1 Characteristics of participants (total sample and by trial arm)",
+            "Table 1 Characteristics of participants (total sample and by trial arm)",
+            "Combined VBI"
+          ]
+        },
+        {
+          "value": "53.9 (10.1)",
+          "rowHeaders": [
+            "Values are % (n) unless otherwise specified. a Missing values for occupation reduced the denominator to"
+          ],
+          "columnHeaders": [
+            "Table 1 Characteristics of participants (total sample and by trial arm)",
+            "Table 1 Characteristics of participants (total sample and by trial arm)",
+            "Control (Health"
+          ]
+        },
+        {
+          "value": "59 (232)",
+          "rowHeaders": [
+            "Gender % female"
+          ],
+          "columnHeaders": [
+            "Table 1 Characteristics of participants (total sample and by trial arm)",
+            "Table 1 Characteristics of participants (total sample and by trial arm)",
+            "Total Sample"
+          ]
+        },
+        {
+          "value": "54 (45)",
+          "rowHeaders": [
+            "Gender % female"
+          ],
+          "columnHeaders": [
+            "Table 1 Characteristics of participants (total sample and by trial arm)",
+            "Table 1 Characteristics of participants (total sample and by trial arm)",
+            "Motivational VBI"
+          ]
+        },
+        {
+          "value": "61 (45)",
+          "rowHeaders": [
+            "Gender % female"
+          ],
+          "columnHeaders": [
+            "Table 1 Characteristics of participants (total sample and by trial arm)",
+            "Table 1 Characteristics of participants (total sample and by trial arm)",
+            "Pedometer VBI"
+          ]
+        },
+        {
+          "value": "62 (50)",
+          "rowHeaders": [
+            "Values are % (n) unless otherwise specified. a Missing values for occupation reduced the denominator to"
+          ],
+          "columnHeaders": [
+            "Table 1 Characteristics of participants (total sample and by trial arm)",
+            "Table 1 Characteristics of participants (total sample and by trial arm)",
+            "Combined VBI"
+          ]
+        },
+        {
+          "value": "59 (92)",
+          "rowHeaders": [
+            "Values are % (n) unless otherwise specified. a Missing values for occupation reduced the denominator to"
+          ],
+          "columnHeaders": [
+            "Table 1 Characteristics of participants (total sample and by trial arm)",
+            "Table 1 Characteristics of participants (total sample and by trial arm)",
+            "Control (Health"
+          ]
+        },
+        {
+          "value": "94 (372)",
+          "rowHeaders": [
+            "Ethnicity % white"
+          ],
+          "columnHeaders": [
+            "Table 1 Characteristics of participants (total sample and by trial arm)",
+            "Table 1 Characteristics of participants (total sample and by trial arm)",
+            "Total Sample"
+          ]
+        },
+        {
+          "value": "92 (76)",
+          "rowHeaders": [
+            "Ethnicity % white"
+          ],
+          "columnHeaders": [
+            "Table 1 Characteristics of participants (total sample and by trial arm)",
+            "Table 1 Characteristics of participants (total sample and by trial arm)",
+            "Motivational VBI"
+          ]
+        },
+        {
+          "value": "97 (72)",
+          "rowHeaders": [
+            "Ethnicity % white"
+          ],
+          "columnHeaders": [
+            "Table 1 Characteristics of participants (total sample and by trial arm)",
+            "Table 1 Characteristics of participants (total sample and by trial arm)",
+            "Pedometer VBI"
+          ]
+        },
+        {
+          "value": "96 (77)",
+          "rowHeaders": [
+            "Values are % (n) unless otherwise specified. a Missing values for occupation reduced the denominator to"
+          ],
+          "columnHeaders": [
+            "Table 1 Characteristics of participants (total sample and by trial arm)",
+            "Table 1 Characteristics of participants (total sample and by trial arm)",
+            "Combined VBI"
+          ]
+        },
+        {
+          "value": "94 (147)",
+          "rowHeaders": [
+            "Values are % (n) unless otherwise specified. a Missing values for occupation reduced the denominator to"
+          ],
+          "columnHeaders": [
+            "Table 1 Characteristics of participants (total sample and by trial arm)",
+            "Table 1 Characteristics of participants (total sample and by trial arm)",
+            "Control (Health"
+          ]
+        },
+        {
+          "value": "72 (281)",
+          "rowHeaders": [
+            "Employment status % employed"
+          ],
+          "columnHeaders": [
+            "Table 1 Characteristics of participants (total sample and by trial arm)",
+            "Table 1 Characteristics of participants (total sample and by trial arm)",
+            "Total Sample"
+          ]
+        },
+        {
+          "value": "70 (58)",
+          "rowHeaders": [
+            "Employment status % employed"
+          ],
+          "columnHeaders": [
+            "Table 1 Characteristics of participants (total sample and by trial arm)",
+            "Table 1 Characteristics of participants (total sample and by trial arm)",
+            "Motivational VBI"
+          ]
+        },
+        {
+          "value": "79 (56) a",
+          "rowHeaders": [
+            "Employment status % employed"
+          ],
+          "columnHeaders": [
+            "Table 1 Characteristics of participants (total sample and by trial arm)",
+            "Table 1 Characteristics of participants (total sample and by trial arm)",
+            "Pedometer VBI"
+          ]
+        },
+        {
+          "value": "76 (61)",
+          "rowHeaders": [
+            "Values are % (n) unless otherwise specified. a Missing values for occupation reduced the denominator to"
+          ],
+          "columnHeaders": [
+            "Table 1 Characteristics of participants (total sample and by trial arm)",
+            "Table 1 Characteristics of participants (total sample and by trial arm)",
+            "Combined VBI"
+          ]
+        },
+        {
+          "value": "68 (106) a",
+          "rowHeaders": [
+            "Values are % (n) unless otherwise specified. a Missing values for occupation reduced the denominator to"
+          ],
+          "columnHeaders": [
+            "Table 1 Characteristics of participants (total sample and by trial arm)",
+            "Table 1 Characteristics of participants (total sample and by trial arm)",
+            "Control (Health"
+          ]
+        },
+        {
+          "value": "71 in the Pedometer arm and 156 in the Control arm",
+          "rowHeaders": [
+            "Values are % (n) unless otherwise specified. a Missing values for occupation reduced the denominator to"
+          ],
+          "columnHeaders": [
+            "Table 1 Characteristics of participants (total sample and by trial arm)",
+            "Table 1 Characteristics of participants (total sample and by trial arm)",
+            "Combined VBI"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "+20.3",
+          "rowHeaders": [
+            "Counts per minute b",
+            "Home-based PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Motivational VBI Relative",
+            "to Control: Comparison",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "+23.5",
+          "rowHeaders": [
+            "Counts per minute b",
+            "Home-based PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Pedometer VBI Relative",
+            "to Control: Comparison",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "−3.1",
+          "rowHeaders": [
+            "Counts per minute b",
+            "Home-based PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Combined VBI Relative",
+            "to Control: Comparison",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "809.9",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Motivational VBI",
+            "Mean (95 % CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "821.5)",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Motivational VBI",
+            "Mean (95 % CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "800.6",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Pedometer VBI",
+            "Mean (95 % CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "821.7)",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Pedometer VBI",
+            "Mean (95 % CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "804.2",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Combined VBI",
+            "Mean 95 % (CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "833.6)",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Combined VBI",
+            "Mean 95 % (CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "809.5",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Control Mean",
+            "(95 % CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "828.7)",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Control Mean",
+            "(95 % CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "−1.1 %",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Motivational VBI Relative",
+            "to Control: Comparison",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "+1.7 %)",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Motivational VBI Relative",
+            "to Control: Comparison",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "−0.7 %",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Pedometer VBI Relative",
+            "to Control: Comparison",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "+2.6 %)",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Pedometer VBI Relative",
+            "to Control: Comparison",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "−0.1 %",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Combined VBI Relative",
+            "to Control: Comparison",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "+2.9 %)",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Combined VBI Relative",
+            "to Control: Comparison",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "68.4",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)",
+            "Time (min/day) in moderate"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Motivational VBI",
+            "Mean (95 % CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "75.8)",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)",
+            "activity"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Motivational VBI",
+            "Mean (95 % CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "69.7",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)",
+            "Time (min/day) in moderate"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Pedometer VBI",
+            "Mean (95 % CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "81.6)",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)",
+            "activity"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Pedometer VBI",
+            "Mean (95 % CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "72.1",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)",
+            "Time (min/day) in moderate"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Combined VBI",
+            "Mean 95 % (CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "79.3)",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)",
+            "activity"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Combined VBI",
+            "Mean 95 % (CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "68.7",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)",
+            "Time (min/day) in moderate"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Control Mean",
+            "(95 % CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "75.2)",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)",
+            "activity"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Control Mean",
+            "(95 % CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "−0.4 %",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)",
+            "Time (min/day) in moderate"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Motivational VBI Relative",
+            "to Control: Comparison",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "+14.8 %)",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)",
+            "activity"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Motivational VBI Relative",
+            "to Control: Comparison",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "+1.5 %",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)",
+            "Time (min/day) in moderate"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Pedometer VBI Relative",
+            "to Control: Comparison",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "+19.5 %)",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)",
+            "activity"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Pedometer VBI Relative",
+            "to Control: Comparison",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "+5.0 %",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)",
+            "Time (min/day) in moderate"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Combined VBI Relative",
+            "to Control: Comparison",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "+21.2 %)",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)",
+            "activity"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Combined VBI Relative",
+            "to Control: Comparison",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "3.4",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)",
+            "Time (min/day) in vigorous"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Motivational VBI",
+            "Mean (95 % CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "4.7)",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)",
+            "activity"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Motivational VBI",
+            "Mean (95 % CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "2.5",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)",
+            "Time (min/day) in vigorous"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Pedometer VBI",
+            "Mean (95 % CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "3.6)",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)",
+            "activity"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Pedometer VBI",
+            "Mean (95 % CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "2.6",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)",
+            "Time (min/day) in vigorous"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Combined VBI",
+            "Mean 95 % (CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "3.4)",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)",
+            "activity"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Combined VBI",
+            "Mean 95 % (CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "2.5",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)",
+            "Time (min/day) in vigorous"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Control Mean",
+            "(95 % CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "3.0)",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)",
+            "activity"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Control Mean",
+            "(95 % CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "+40.1 %",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)",
+            "Time (min/day) in vigorous"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Motivational VBI Relative",
+            "to Control: Comparison",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "+51.6 %)",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)",
+            "activity"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Motivational VBI Relative",
+            "to Control: Comparison",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "+1.9 %",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)",
+            "Time (min/day) in vigorous"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Pedometer VBI Relative",
+            "to Control: Comparison",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "+51.6 %)",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)",
+            "activity"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Pedometer VBI Relative",
+            "to Control: Comparison",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "+5.3 %",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)",
+            "Time (min/day) in vigorous"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Combined VBI Relative",
+            "to Control: Comparison",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "+49.6 %)",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)",
+            "activity"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Combined VBI Relative",
+            "to Control: Comparison",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "75.0",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)",
+            "Time (min/day) in moderate"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Motivational VBI",
+            "Mean (95 % CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "83.0)",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)",
+            "or vigorous activity"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Motivational VBI",
+            "Mean (95 % CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "74.7",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)",
+            "Time (min/day) in moderate"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Pedometer VBI",
+            "Mean (95 % CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "86.8)",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)",
+            "or vigorous activity"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Pedometer VBI",
+            "Mean (95 % CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "75.8",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)",
+            "Time (min/day) in moderate"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Combined VBI",
+            "Mean 95 % (CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "83.8)",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)",
+            "or vigorous activity"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Combined VBI",
+            "Mean 95 % (CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "73.1",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)",
+            "Time (min/day) in moderate"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Control Mean",
+            "(95 % CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "79.8)",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)",
+            "or vigorous activity"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Control Mean",
+            "(95 % CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "+2.6 %",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)",
+            "Time (min/day) in moderate"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Motivational VBI Relative",
+            "to Control: Comparison",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "17.9 %)",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)",
+            "or vigorous activity"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Motivational VBI Relative",
+            "to Control: Comparison",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "+2.2 %",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)",
+            "Time (min/day) in moderate"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Pedometer VBI Relative",
+            "to Control: Comparison",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "+19.8 %)",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)",
+            "or vigorous activity"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Pedometer VBI Relative",
+            "to Control: Comparison",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "+3.8 %",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)",
+            "Time (min/day) in moderate"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Combined VBI Relative",
+            "to Control: Comparison",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "+19.5 %)",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)",
+            "or vigorous activity"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Combined VBI Relative",
+            "to Control: Comparison",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "39.2",
+          "rowHeaders": [
+            "Total PAEE physical activity",
+            "Home-based PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Motivational VBI",
+            "Mean (95 % CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "48.9)",
+          "rowHeaders": [
+            "energy expenditure",
+            "Home-based PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Motivational VBI",
+            "Mean (95 % CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "32.2",
+          "rowHeaders": [
+            "Total PAEE physical activity",
+            "Home-based PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Pedometer VBI",
+            "Mean (95 % CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "38.8)",
+          "rowHeaders": [
+            "energy expenditure",
+            "Home-based PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Pedometer VBI",
+            "Mean (95 % CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "33.0",
+          "rowHeaders": [
+            "Total PAEE physical activity",
+            "Home-based PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Combined VBI",
+            "Mean 95 % (CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "38.5)",
+          "rowHeaders": [
+            "energy expenditure",
+            "Home-based PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Combined VBI",
+            "Mean 95 % (CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "32.2",
+          "rowHeaders": [
+            "Total PAEE physical activity",
+            "Home-based PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Control Mean",
+            "(95 % CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "36.9)",
+          "rowHeaders": [
+            "energy expenditure",
+            "Home-based PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Control Mean",
+            "(95 % CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "+21.7 %",
+          "rowHeaders": [
+            "Total PAEE physical activity",
+            "Home-based PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Motivational VBI Relative",
+            "to Control: Comparison",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "+52.5 %)",
+          "rowHeaders": [
+            "energy expenditure",
+            "Home-based PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Motivational VBI Relative",
+            "to Control: Comparison",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "−0.2 %",
+          "rowHeaders": [
+            "Total PAEE physical activity",
+            "Home-based PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Pedometer VBI Relative",
+            "to Control: Comparison",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "+28.4 %)",
+          "rowHeaders": [
+            "energy expenditure",
+            "Home-based PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Pedometer VBI Relative",
+            "to Control: Comparison",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "+2.4 %",
+          "rowHeaders": [
+            "Total PAEE physical activity",
+            "Home-based PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Combined VBI Relative",
+            "to Control: Comparison",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "+28.3 %)",
+          "rowHeaders": [
+            "energy expenditure",
+            "Home-based PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Combined VBI Relative",
+            "to Control: Comparison",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "2.1",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)",
+            "Work-based PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Motivational VBI",
+            "Mean (95 % CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "2.8)",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)",
+            "Work-based PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Motivational VBI",
+            "Mean (95 % CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "2.1",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)",
+            "Work-based PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Pedometer VBI",
+            "Mean (95 % CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "2.8)",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)",
+            "Work-based PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Pedometer VBI",
+            "Mean (95 % CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "2.8",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)",
+            "Work-based PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Combined VBI",
+            "Mean 95 % (CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "3.5)",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)",
+            "Work-based PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Combined VBI",
+            "Mean 95 % (CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "2.3",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)",
+            "Work-based PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Control Mean",
+            "(95 % CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "2.8)",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)",
+            "Work-based PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Control Mean",
+            "(95 % CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "−9.5 %",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)",
+            "Work-based PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Motivational VBI Relative",
+            "to Control: Comparison",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "+23.3 %)",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)",
+            "Work-based PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Motivational VBI Relative",
+            "to Control: Comparison",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "−7.2 %",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)",
+            "Work-based PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Pedometer VBI Relative",
+            "to Control: Comparison",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "+31.1 %)",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)",
+            "Work-based PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Pedometer VBI Relative",
+            "to Control: Comparison",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "+19.7 %",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)",
+            "Work-based PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Combined VBI Relative",
+            "to Control: Comparison",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "+63.2 %)",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)",
+            "Work-based PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Combined VBI Relative",
+            "to Control: Comparison",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "21.2",
+          "rowHeaders": [
+            "Work-based PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Motivational VBI",
+            "Mean (95 % CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "26.4)",
+          "rowHeaders": [
+            "Work-based PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Motivational VBI",
+            "Mean (95 % CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "18.4",
+          "rowHeaders": [
+            "Work-based PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Pedometer VBI",
+            "Mean (95 % CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "23.1)",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)",
+            "Leisure-based PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Pedometer VBI",
+            "Mean (95 % CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "17.9",
+          "rowHeaders": [
+            "Work-based PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Combined VBI",
+            "Mean 95 % (CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "21.5)",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)",
+            "Leisure-based PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Combined VBI",
+            "Mean 95 % (CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "18.2",
+          "rowHeaders": [
+            "Work-based PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Control Mean",
+            "(95 % CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "21.1)",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)",
+            "Leisure-based PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Control Mean",
+            "(95 % CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "+16.6 %",
+          "rowHeaders": [
+            "Work-based PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Motivational VBI Relative",
+            "to Control: Comparison",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "+49.4 %)",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)",
+            "Leisure-based PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Motivational VBI Relative",
+            "to Control: Comparison",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "+1.1 %",
+          "rowHeaders": [
+            "Work-based PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Pedometer VBI Relative",
+            "to Control: Comparison",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "+32.2 %)",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)",
+            "Leisure-based PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Pedometer VBI Relative",
+            "to Control: Comparison",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "−1.3 %",
+          "rowHeaders": [
+            "Work-based PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Combined VBI Relative",
+            "to Control: Comparison",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "+26.5 %)",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)",
+            "Leisure-based PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Combined VBI Relative",
+            "to Control: Comparison",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "16.5",
+          "rowHeaders": [
+            "Leisure-based PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Motivational VBI",
+            "Mean (95 % CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "21.8)",
+          "rowHeaders": [
+            "Leisure-based PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Motivational VBI",
+            "Mean (95 % CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "8.7",
+          "rowHeaders": [
+            "Leisure-based PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Pedometer VBI",
+            "Mean (95 % CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "13.2)",
+          "rowHeaders": [
+            "Commuting PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Pedometer VBI",
+            "Mean (95 % CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "11.0",
+          "rowHeaders": [
+            "Leisure-based PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Combined VBI",
+            "Mean 95 % (CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "14.4)",
+          "rowHeaders": [
+            "Commuting PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Combined VBI",
+            "Mean 95 % (CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "11.0",
+          "rowHeaders": [
+            "Leisure-based PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Control Mean",
+            "(95 % CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "14.0)",
+          "rowHeaders": [
+            "Commuting PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Control Mean",
+            "(95 % CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "+50.3 %",
+          "rowHeaders": [
+            "Leisure-based PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Motivational VBI Relative",
+            "to Control: Comparison",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "+121.2 %)",
+          "rowHeaders": [
+            "Commuting PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Motivational VBI Relative",
+            "to Control: Comparison",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "−20.3 %",
+          "rowHeaders": [
+            "Leisure-based PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Pedometer VBI Relative",
+            "to Control: Comparison",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "+22.8 %)",
+          "rowHeaders": [
+            "Commuting PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Pedometer VBI Relative",
+            "to Control: Comparison",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "+0.7 %",
+          "rowHeaders": [
+            "Leisure-based PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Combined VBI Relative",
+            "to Control: Comparison",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "48.2 %)",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/day)",
+            "Commuting PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Combined VBI Relative",
+            "to Control: Comparison",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "0.4",
+          "rowHeaders": [
+            "Commuting PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Motivational VBI",
+            "Mean (95 % CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "0.9)",
+          "rowHeaders": [
+            "Commuting PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Motivational VBI",
+            "Mean (95 % CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "0.3",
+          "rowHeaders": [
+            "Commuting PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Pedometer VBI",
+            "Mean (95 % CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "0.7)",
+          "rowHeaders": [
+            "Commuting PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Pedometer VBI",
+            "Mean (95 % CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "0.6",
+          "rowHeaders": [
+            "Commuting PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Combined VBI",
+            "Mean 95 % (CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "1.2)",
+          "rowHeaders": [
+            "Commuting PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Combined VBI",
+            "Mean 95 % (CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "0.3",
+          "rowHeaders": [
+            "Commuting PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Control Mean",
+            "(95 % CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "0.6)",
+          "rowHeaders": [
+            "Commuting PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Control Mean",
+            "(95 % CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "+29.8 %",
+          "rowHeaders": [
+            "Commuting PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Motivational VBI Relative",
+            "to Control: Comparison",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "+196.8 %)",
+          "rowHeaders": [
+            "Commuting PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Motivational VBI Relative",
+            "to Control: Comparison",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "−8.5 %",
+          "rowHeaders": [
+            "Commuting PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Pedometer VBI Relative",
+            "to Control: Comparison",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "+125.2 %)",
+          "rowHeaders": [
+            "Commuting PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Pedometer VBI Relative",
+            "to Control: Comparison",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "78.4 %",
+          "rowHeaders": [
+            "Commuting PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Combined VBI Relative",
+            "to Control: Comparison",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "+305.5 %)",
+          "rowHeaders": [
+            "Commuting PAEE (kJ/kg/day)"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Combined VBI Relative",
+            "to Control: Comparison",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "2.71",
+          "rowHeaders": [
+            "Screen/TV time (hours/day) b"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Motivational VBI",
+            "Mean (95 % CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "3.08)",
+          "rowHeaders": [
+            "Screen/TV time (hours/day) b"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Motivational VBI",
+            "Mean (95 % CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "2.72",
+          "rowHeaders": [
+            "Screen/TV time (hours/day) b"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Pedometer VBI",
+            "Mean (95 % CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "3.13)",
+          "rowHeaders": [
+            "Screen/TV time (hours/day) b"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Pedometer VBI",
+            "Mean (95 % CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "3.11",
+          "rowHeaders": [
+            "Screen/TV time (hours/day) b"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Combined VBI",
+            "Mean 95 % (CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "3.47)",
+          "rowHeaders": [
+            "Screen/TV time (hours/day) b"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Combined VBI",
+            "Mean 95 % (CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "3.04",
+          "rowHeaders": [
+            "Screen/TV time (hours/day) b"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Control Mean",
+            "(95 % CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "3.31)",
+          "rowHeaders": [
+            "Screen/TV time (hours/day) b"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Control Mean",
+            "(95 % CI)",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "−0.32",
+          "rowHeaders": [
+            "Screen/TV time (hours/day) b"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Motivational VBI Relative",
+            "to Control: Comparison",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "−0.31",
+          "rowHeaders": [
+            "Screen/TV time (hours/day) b"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Pedometer VBI Relative",
+            "to Control: Comparison",
+            "of means (95 % CI) a"
+          ]
+        },
+        {
+          "value": "+0.07",
+          "rowHeaders": [
+            "Screen/TV time (hours/day) b"
+          ],
+          "columnHeaders": [
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Table 2 Physical activity at follow-up by arm and comparisons between each VBI and control",
+            "Combined VBI Relative",
+            "to Control: Comparison",
+            "of means (95 % CI) a"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "0.49) b",
+          "rowHeaders": [
+            "(Alpha ="
+          ],
+          "columnHeaders": [
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Motivational",
+            "VBI Mean (SD)",
+            "Difference in means",
+            "(95 % CI) a",
+            "N"
+          ]
+        },
+        {
+          "value": "4.32",
+          "rowHeaders": [
+            "Instrumental Attitude"
+          ],
+          "columnHeaders": [
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Motivational",
+            "VBI Mean (SD)",
+            "Difference in means",
+            "(95 % CI) a"
+          ]
+        },
+        {
+          "value": "4.23",
+          "rowHeaders": [
+            "Instrumental Attitude"
+          ],
+          "columnHeaders": [
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Pedometer",
+            "VBI Mean (SD)",
+            "Difference in means",
+            "(95 % CI) a"
+          ]
+        },
+        {
+          "value": "4.51",
+          "rowHeaders": [
+            "Instrumental Attitude"
+          ],
+          "columnHeaders": [
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Combined VBI",
+            "Mean (SD)",
+            "Difference in means",
+            "(95 % CI) a"
+          ]
+        },
+        {
+          "value": "4.15",
+          "rowHeaders": [
+            "Instrumental Attitude"
+          ],
+          "columnHeaders": [
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Control",
+            "Mean (SD)",
+            "Difference in means",
+            "(95 % CI) a"
+          ]
+        },
+        {
+          "value": "+0.17",
+          "rowHeaders": [
+            "Instrumental Attitude",
+            "(0.54) c"
+          ],
+          "columnHeaders": [
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Motivational VBI",
+            "relative to Control -",
+            "Difference in means",
+            "(95 % CI) a"
+          ]
+        },
+        {
+          "value": "0.41)",
+          "rowHeaders": [
+            "(Alpha ="
+          ],
+          "columnHeaders": [
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Motivational VBI",
+            "relative to Control -",
+            "Difference in means",
+            "(95 % CI) a"
+          ]
+        },
+        {
+          "value": "+0.07",
+          "rowHeaders": [
+            "Instrumental Attitude",
+            "Comparisons are presented unadjusted. Conclusions were unchanged on adjustment for age. b",
+            "(0.87) c"
+          ],
+          "columnHeaders": [
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Pedometer VBI",
+            "relative to Control -",
+            "Difference in means",
+            "(95 % CI) a"
+          ]
+        },
+        {
+          "value": "0.34)",
+          "rowHeaders": [
+            "(Alpha ="
+          ],
+          "columnHeaders": [
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Pedometer VBI",
+            "relative to Control -",
+            "Difference in means",
+            "(95 % CI) a"
+          ]
+        },
+        {
+          "value": "+0.36",
+          "rowHeaders": [
+            "Instrumental Attitude",
+            "Comparisons are presented unadjusted. Conclusions were unchanged on adjustment for age. b",
+            "(0.87) c"
+          ],
+          "columnHeaders": [
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Combined VBI",
+            "relative to Control -",
+            "Difference in means",
+            "(95 % CI) a"
+          ]
+        },
+        {
+          "value": "0.59)",
+          "rowHeaders": [
+            "(Alpha ="
+          ],
+          "columnHeaders": [
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Combined VBI",
+            "relative to Control -",
+            "Difference in means",
+            "(95 % CI) a"
+          ]
+        },
+        {
+          "value": "0.62) b",
+          "rowHeaders": [
+            "(Alpha ="
+          ],
+          "columnHeaders": [
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Motivational",
+            "VBI Mean (SD)",
+            "Difference in means",
+            "(95 % CI) a",
+            "N"
+          ]
+        },
+        {
+          "value": "4.01",
+          "rowHeaders": [
+            "Affective Attitude"
+          ],
+          "columnHeaders": [
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Motivational",
+            "VBI Mean (SD)",
+            "Difference in means",
+            "(95 % CI) a"
+          ]
+        },
+        {
+          "value": "3.89",
+          "rowHeaders": [
+            "Affective Attitude"
+          ],
+          "columnHeaders": [
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Pedometer",
+            "VBI Mean (SD)",
+            "Difference in means",
+            "(95 % CI) a"
+          ]
+        },
+        {
+          "value": "4.10",
+          "rowHeaders": [
+            "Affective Attitude",
+            "(1.05) d"
+          ],
+          "columnHeaders": [
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Combined VBI",
+            "Mean (SD)",
+            "Difference in means",
+            "(95 % CI) a"
+          ]
+        },
+        {
+          "value": "3.73",
+          "rowHeaders": [
+            "Affective Attitude",
+            "(1.05) d",
+            "(0.54) c"
+          ],
+          "columnHeaders": [
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Control",
+            "Mean (SD)",
+            "Difference in means",
+            "(95 % CI) a"
+          ]
+        },
+        {
+          "value": "+0.28",
+          "rowHeaders": [
+            "Affective Attitude",
+            "(1.05) d",
+            "(0.54) c",
+            "(0.87) c"
+          ],
+          "columnHeaders": [
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Motivational VBI",
+            "relative to Control -",
+            "Difference in means",
+            "(95 % CI) a"
+          ]
+        },
+        {
+          "value": "0.53)",
+          "rowHeaders": [
+            "(Alpha =",
+            "(0.54) c",
+            "(0.87) c"
+          ],
+          "columnHeaders": [
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Motivational VBI",
+            "relative to Control -",
+            "Difference in means",
+            "(95 % CI) a"
+          ]
+        },
+        {
+          "value": "+0.16",
+          "rowHeaders": [
+            "Affective Attitude",
+            "Comparisons are presented unadjusted. Conclusions were unchanged on adjustment for age. b",
+            "(0.87) c"
+          ],
+          "columnHeaders": [
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Pedometer VBI",
+            "relative to Control -",
+            "Difference in means",
+            "(95 % CI) a"
+          ]
+        },
+        {
+          "value": "0.44)",
+          "rowHeaders": [
+            "(Alpha =",
+            "(0.54) c",
+            "(0.87) c"
+          ],
+          "columnHeaders": [
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Pedometer VBI",
+            "relative to Control -",
+            "Difference in means",
+            "(95 % CI) a"
+          ]
+        },
+        {
+          "value": "+0.37",
+          "rowHeaders": [
+            "Affective Attitude",
+            "Comparisons are presented unadjusted. Conclusions were unchanged on adjustment for age. b"
+          ],
+          "columnHeaders": [
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Combined VBI",
+            "relative to Control -",
+            "Difference in means",
+            "(95 % CI) a"
+          ]
+        },
+        {
+          "value": "0.62)",
+          "rowHeaders": [
+            "(Alpha =",
+            "(0.54) c",
+            "(0.87) c"
+          ],
+          "columnHeaders": [
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Combined VBI",
+            "relative to Control -",
+            "Difference in means",
+            "(95 % CI) a"
+          ]
+        },
+        {
+          "value": "0.49) b",
+          "rowHeaders": [
+            "(Alpha ="
+          ],
+          "columnHeaders": [
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Motivational",
+            "VBI Mean (SD)",
+            "Difference in means",
+            "(95 % CI) a",
+            "N"
+          ]
+        },
+        {
+          "value": "3.31",
+          "rowHeaders": [
+            "Subjective norm"
+          ],
+          "columnHeaders": [
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Motivational",
+            "VBI Mean (SD)",
+            "Difference in means",
+            "(95 % CI) a"
+          ]
+        },
+        {
+          "value": "3.21",
+          "rowHeaders": [
+            "Subjective norm",
+            "(1.05) d"
+          ],
+          "columnHeaders": [
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Pedometer",
+            "VBI Mean (SD)",
+            "Difference in means",
+            "(95 % CI) a"
+          ]
+        },
+        {
+          "value": "3.26",
+          "rowHeaders": [
+            "Subjective norm",
+            "(1.05) d"
+          ],
+          "columnHeaders": [
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Combined VBI",
+            "Mean (SD)",
+            "Difference in means",
+            "(95 % CI) a"
+          ]
+        },
+        {
+          "value": "3.07",
+          "rowHeaders": [
+            "Subjective norm",
+            "(1.05) d",
+            "(0.54) c"
+          ],
+          "columnHeaders": [
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Control",
+            "Mean (SD)",
+            "Difference in means",
+            "(95 % CI) a"
+          ]
+        },
+        {
+          "value": "+0.24",
+          "rowHeaders": [
+            "Subjective norm",
+            "(1.05) d",
+            "(0.54) c",
+            "(0.87) c"
+          ],
+          "columnHeaders": [
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Motivational VBI",
+            "relative to Control -",
+            "Difference in means",
+            "(95 % CI) a"
+          ]
+        },
+        {
+          "value": "0.52)",
+          "rowHeaders": [
+            "(Alpha =",
+            "(1.05) d"
+          ],
+          "columnHeaders": [
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Motivational VBI",
+            "relative to Control -",
+            "Difference in means",
+            "(95 % CI) a"
+          ]
+        },
+        {
+          "value": "+0.14",
+          "rowHeaders": [
+            "Subjective norm",
+            "Comparisons are presented unadjusted. Conclusions were unchanged on adjustment for age. b"
+          ],
+          "columnHeaders": [
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Pedometer VBI",
+            "relative to Control -",
+            "Difference in means",
+            "(95 % CI) a"
+          ]
+        },
+        {
+          "value": "0.45)",
+          "rowHeaders": [
+            "(Alpha =",
+            "(1.05) d"
+          ],
+          "columnHeaders": [
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Pedometer VBI",
+            "relative to Control -",
+            "Difference in means",
+            "(95 % CI) a"
+          ]
+        },
+        {
+          "value": "+0.19",
+          "rowHeaders": [
+            "Subjective norm",
+            "Comparisons are presented unadjusted. Conclusions were unchanged on adjustment for age. b"
+          ],
+          "columnHeaders": [
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Combined VBI",
+            "relative to Control -",
+            "Difference in means",
+            "(95 % CI) a"
+          ]
+        },
+        {
+          "value": "0.47)",
+          "rowHeaders": [
+            "(Alpha =",
+            "(1.05) d"
+          ],
+          "columnHeaders": [
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Combined VBI",
+            "relative to Control -",
+            "Difference in means",
+            "(95 % CI) a"
+          ]
+        },
+        {
+          "value": "0.54) b",
+          "rowHeaders": [
+            "control (Alpha ="
+          ],
+          "columnHeaders": [
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Motivational",
+            "VBI Mean (SD)",
+            "Difference in means",
+            "(95 % CI) a"
+          ]
+        },
+        {
+          "value": "3.71",
+          "rowHeaders": [
+            "Perceived behavioural"
+          ],
+          "columnHeaders": [
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Motivational",
+            "VBI Mean (SD)",
+            "Difference in means",
+            "(95 % CI) a"
+          ]
+        },
+        {
+          "value": "3.36",
+          "rowHeaders": [
+            "Perceived behavioural",
+            "(1.05) d"
+          ],
+          "columnHeaders": [
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Pedometer",
+            "VBI Mean (SD)",
+            "Difference in means",
+            "(95 % CI) a"
+          ]
+        },
+        {
+          "value": "3.81",
+          "rowHeaders": [
+            "Perceived behavioural",
+            "(1.05) d"
+          ],
+          "columnHeaders": [
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Combined VBI",
+            "Mean (SD)",
+            "Difference in means",
+            "(95 % CI) a"
+          ]
+        },
+        {
+          "value": "3.42",
+          "rowHeaders": [
+            "Perceived behavioural",
+            "(1.05) d",
+            "(0.86) c",
+            "(0.91) c"
+          ],
+          "columnHeaders": [
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Control",
+            "Mean (SD)",
+            "Difference in means",
+            "(95 % CI) a"
+          ]
+        },
+        {
+          "value": "+0.29",
+          "rowHeaders": [
+            "Perceived behavioural",
+            "(1.05) d",
+            "(0.86) c",
+            "(0.91) c"
+          ],
+          "columnHeaders": [
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Motivational VBI",
+            "relative to Control -",
+            "Difference in means",
+            "(95 % CI) a"
+          ]
+        },
+        {
+          "value": "0.58)",
+          "rowHeaders": [
+            "control (Alpha =",
+            "(0.91) c"
+          ],
+          "columnHeaders": [
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Motivational VBI",
+            "relative to Control -",
+            "Difference in means",
+            "(95 % CI) a"
+          ]
+        },
+        {
+          "value": "−0.06",
+          "rowHeaders": [
+            "Perceived behavioural",
+            "Comparisons are presented unadjusted. Conclusions were unchanged on adjustment for age. b"
+          ],
+          "columnHeaders": [
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Pedometer VBI",
+            "relative to Control -",
+            "Difference in means",
+            "(95 % CI) a"
+          ]
+        },
+        {
+          "value": "0.27)",
+          "rowHeaders": [
+            "control (Alpha =",
+            "(0.91) c"
+          ],
+          "columnHeaders": [
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Pedometer VBI",
+            "relative to Control -",
+            "Difference in means",
+            "(95 % CI) a"
+          ]
+        },
+        {
+          "value": "+0.40",
+          "rowHeaders": [
+            "Perceived behavioural",
+            "Comparisons are presented unadjusted. Conclusions were unchanged on adjustment for age. b",
+            "A Cronbach's alpha coefficient below"
+          ],
+          "columnHeaders": [
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Combined VBI",
+            "relative to Control -",
+            "Difference in means",
+            "(95 % CI) a"
+          ]
+        },
+        {
+          "value": "0.69)",
+          "rowHeaders": [
+            "control (Alpha =",
+            "(0.91) c"
+          ],
+          "columnHeaders": [
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Combined VBI",
+            "relative to Control -",
+            "Difference in means",
+            "(95 % CI) a"
+          ]
+        },
+        {
+          "value": "0.88) b",
+          "rowHeaders": [
+            "(Alpha ="
+          ],
+          "columnHeaders": [
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Motivational",
+            "VBI Mean (SD)",
+            "Difference in means",
+            "(95 % CI) a",
+            "N"
+          ]
+        },
+        {
+          "value": "3.82",
+          "rowHeaders": [
+            "Behavioural Intention"
+          ],
+          "columnHeaders": [
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Motivational",
+            "VBI Mean (SD)",
+            "Difference in means",
+            "(95 % CI) a"
+          ]
+        },
+        {
+          "value": "3.68",
+          "rowHeaders": [
+            "Behavioural Intention"
+          ],
+          "columnHeaders": [
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Pedometer",
+            "VBI Mean (SD)",
+            "Difference in means",
+            "(95 % CI) a"
+          ]
+        },
+        {
+          "value": "3.86",
+          "rowHeaders": [
+            "Behavioural Intention",
+            "(1.05) d",
+            "(0.86) c"
+          ],
+          "columnHeaders": [
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Combined VBI",
+            "Mean (SD)",
+            "Difference in means",
+            "(95 % CI) a"
+          ]
+        },
+        {
+          "value": "3.46",
+          "rowHeaders": [
+            "Behavioural Intention",
+            "(1.05) d",
+            "(0.86) c",
+            "(0.82) c"
+          ],
+          "columnHeaders": [
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Control",
+            "Mean (SD)",
+            "Difference in means",
+            "(95 % CI) a"
+          ]
+        },
+        {
+          "value": "+0.36",
+          "rowHeaders": [
+            "Behavioural Intention",
+            "(1.05) d",
+            "(0.86) c",
+            "(0.82) c",
+            "(0.89) c"
+          ],
+          "columnHeaders": [
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Motivational VBI",
+            "relative to Control -",
+            "Difference in means",
+            "(95 % CI) a"
+          ]
+        },
+        {
+          "value": "0.64)",
+          "rowHeaders": [
+            "(Alpha =",
+            "(0.86) c",
+            "(0.82) c",
+            "(0.89) c"
+          ],
+          "columnHeaders": [
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Motivational VBI",
+            "relative to Control -",
+            "Difference in means",
+            "(95 % CI) a"
+          ]
+        },
+        {
+          "value": "+0.22",
+          "rowHeaders": [
+            "Behavioural Intention",
+            "Comparisons are presented unadjusted. Conclusions were unchanged on adjustment for age. b"
+          ],
+          "columnHeaders": [
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Pedometer VBI",
+            "relative to Control -",
+            "Difference in means",
+            "(95 % CI) a"
+          ]
+        },
+        {
+          "value": "0.54)",
+          "rowHeaders": [
+            "(Alpha =",
+            "(0.86) c",
+            "(0.82) c",
+            "(0.89) c"
+          ],
+          "columnHeaders": [
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Pedometer VBI",
+            "relative to Control -",
+            "Difference in means",
+            "(95 % CI) a"
+          ]
+        },
+        {
+          "value": "+0.40",
+          "rowHeaders": [
+            "Behavioural Intention",
+            "Comparisons are presented unadjusted. Conclusions were unchanged on adjustment for age. b",
+            "A Cronbach's alpha coefficient below"
+          ],
+          "columnHeaders": [
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Combined VBI",
+            "relative to Control -",
+            "Difference in means",
+            "(95 % CI) a"
+          ]
+        },
+        {
+          "value": "0.68)",
+          "rowHeaders": [
+            "(Alpha =",
+            "(0.86) c",
+            "(0.82) c",
+            "(0.89) c"
+          ],
+          "columnHeaders": [
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Combined VBI",
+            "relative to Control -",
+            "Difference in means",
+            "(95 % CI) a"
+          ]
+        },
+        {
+          "value": "0.7 indicates low internal",
+          "rowHeaders": [
+            "Perceived behavioural",
+            "Comparisons are presented unadjusted. Conclusions were unchanged on adjustment for age. b",
+            "A Cronbach's alpha coefficient below"
+          ],
+          "columnHeaders": [
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Table 3 Beliefs about increasing physical activity by arm and comparisons between each VBI and control",
+            "Combined VBI",
+            "relative to Control -",
+            "Difference in means",
+            "(95 % CI) a"
+          ]
+        }
+      ],
+      "page": 1
+    }
+  ]
+}

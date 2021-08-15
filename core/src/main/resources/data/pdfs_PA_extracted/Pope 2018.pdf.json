@@ -1,0 +1,4576 @@
+{
+  "blocks": [
+    {
+      "type": "LINES",
+      "value": "Effectiveness of Combined Smartwatch and Social Media Intervention on Breast Cancer Survivor Health Outcomes: A 10-Week Pilot Randomized Trial",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Physical activity (PA) among breast cancer survivors (BCS) can improve this population's health and quality of life (QoL). This study evaluated the effectiveness of a combined smartwatchand social media-based health education intervention on BCS's health outcomes. Thirty BCS (X age = 52.6 ± 9.3 years; X Wt = 80.2 ± 19.6 kg) participated in this 10-week, 2-arm randomized trial, with BCS randomized into: (1) experimental group (n = 16): received Polar M400 smartwatches for daily PA tracking and joined a Facebook group wherein Social Cognitive Theory-related PA tips were provided twice weekly; and (2) comparison group (n = 14): only joined separate, but content-identical Facebook group. Outcomes included PA, physiological, psychosocial, and QoL variables. Specifically, PA and energy expenditure (EE) was assessed by ActiGraph GT3X+ accelerometers while physiological, psychosocial, and QoL were examined via validated instruments at baseline and post-intervention. No baseline group differences were observed for any variable. Ten BCS dropped out of the study (experimental: 4; comparison: 6). Compared to completers, dropouts differed significantly on several outcomes. Thus, a per-protocol analysis was performed, revealing significant group differences for changes in social support (t = −2.1, p = 0.05) and barriers (t = −2.2, p = 0.04). Interestingly, the comparison group demonstrated improvements for both variables while the intervention group demonstrated slightly decreased social support and no change in barriers. Notably, both groups demonstrated similarly increased daily light PA, moderate-to-vigorous PA, EE, and steps of 7.7 min, 5.1 min, 25.1 kcals, and 339 steps, respectively, overtime. Despite extensive user training, several experimental BCS found the Polar M400 use difficult-possibly decreasing intervention adherence. Future interventions should utilize simpler smartwatches to promote PA among middle-aged clinical/non-clinical populations.",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Invasive or in situ forms of breast cancer were diagnosed among approximately 330,000 women in 2017. Improved treatment options have led to increased breast cancer survival rates, with 3.1 million breast cancer survivors residing in the U.S.. It is noteworthy, however, that studies comparing women never previously diagnosed with breast cancer to breast cancer survivors have observed lower quality of life (e.g., poorer physical functioning; increased depression/anxiety rates; greater fatigue) and poorer physical health among breast cancer survivors. While medicinal treatments (e.g., Tamoxifen use) maybe prescribed following breast cancer treatment and the beginning of remission, health behavior changes are now more commonly being recommended to breast cancer survivors-the most frequent being increased physical activity participation. Given the ubiquitous nature of modern-day technology, researchers are seeking to leverage several technologies (e.g., smartphone applications, wearable technology, social media) to improve health among various populations through increased physical activity and reduced sedentary behavior. Currently, smartwatches are among the most popular technologies being used to assist individuals in living more active and healthier lifestyles.\nAs a popular form of wearable technology, smartwatches are projected to comprise an approximately $10 billion USD market by 2019. Smartwatches from companies like Polar, Apple, and Fitbit are most popular within this market due to: (1) attractive price points ($100-250 USD); and\n(2) the ability to track health metrics like step counts, heart rate, energy expenditure, stairs climbed, and sleep, among other metrics-data which can be sent via Bluetooth to an associated smartphone application for easy interpretation and facilitation of the self-regulation (i.e., tracking and modification) of health behaviors. Yet, while some studies have observed smartphone application-based physical activity interventions to be effective in promoting improved physical activity and quality of life among breast cancer survivors, little to no research has been conducted on the effectiveness of smartwatches in the promotion of this population's health. This is noteworthy as qualitative research has found breast cancer survivors to be interested and open to the use of smartwatches in the self-regulation of physical activity and sedentary behaviors.\nOf the paucity of high-quality randomized trials which evaluated the effectiveness of smartwatches in the promotion of physical activity, populations investigated have included: overweight and obese individuals, older adults, adults, and college students. Findings from these studies have been mixed. For example, Cadmus-Bertram et al. observed significantly increased moderate-to-vigorous physical activity and steps/day over 16 weeks among overweight and obese postmenopausal women using the Fitbit to track health behaviors when compared to a control group receiving standard care (e.g., exercise counseling), with marginally positive findings also observed in another study by among medical residents and Rote among college students. Yet, other literature among overweight and obese men and women, older adults, and college students has not observed provision of a smartwatch to result in greater improvements in physical activity versus control.\nThe mixed findings of the preceding studies maybe attributable to: (1) little provision of health education despite the need for health literacy in long-term health behavior engagement; and (2) lack of an established theoretical framework to guide study design/implementation notwithstanding the importance of health behavior theory in promoting increased intervention effectiveness. This suggests that future randomized trials might be more effective if a theoretically-based health education piece is included. A theory which might be particularly effective in future randomized trials given its concentration on personal-level factors (i.e., self-efficacy, enjoyment, barriers, and outcome expectancy) and micro-environmental factors (i.e., social support) is the Social Cognitive Theory. Briefly, this theory posits reciprocal determinism between an individual's characteristics, environmental factors, and behavior. For example, if an intervention can increase an individual's self-efficacy for physical activity (i.e., an individual characteristic) and promote greater social support for physical activity (i.e., an environmental factor), this individual is more likely to participate in physically active behavior(s). One manner by which a Social Cognitive Theory-based health education intervention might be delivered is through social media as this technological medium could be used to promote: (1) improvements in individual characteristics via health education; and\n(2) social support given the inclusion of all intervention participants on intervention-related social media pages upon which the participants can interact and support one another's health-related endeavors. Data has indicated females to comprise the majority of U.S. Facebook users, with women ≥25 years old representing 40% of all U.S. Facebook users. As the use of theory to frame an intervention's development/implementation may increase intervention effectiveness, providing breast cancer survivors with Social Cognitive Theory-based health education tips via Facebook might assist this population in living healthier, more active lifestyles in addition to improving quality of life-a strategy which has, in fact, been suggested by breast cancer survivors in recent research.\nTherefore, the purpose of this 10-week pilot randomized trial was to evaluate the effectiveness of a combined smartwatch and theoretically-based, social media-delivered health education intervention in promoting improved physical activity participation, physiological/psychosocial health, and quality of life as well as reduced sedentary behavior among breast cancer survivors. By providing experimental group participants a Polar M400 smartwatch and a Social Cognitive Theory-based, Facebook-delivered health education intervention, it was hypothesized that: (1) experimental group participants would have larger increases in physical activity, energy expenditure, and steps/day in addition to greater decreases in sedentary behavior than comparison group participants receiving only the Facebook-delivered health education intervention given the experimental group's additional ability to monitor Polar M400 health metrics like steps per day and daily activity duration; (2) experimental group participants would experience greater improvements in weight, body composition, and cardiorespiratory fitness versus comparison. This was hypothesized as it was believed the experimental group might modify caloric consumption and increase physical activity participation based upon the Polar M400's energy expenditure and steps per day/daily activity time readings, respectively-behaviors which would be supplemented by the health education being delivered via this group's respective Facebook group; and (3) more favorable changes in Social Cognitive Theory-related psychosocial constructs and quality of life would be observed in the experimental group versus comparison partially resulting from the greater hypothesized changes for physical activity and physiological outcomes among the experimental group. Observations may assist health professionals in developing large-scale, low-burden, and well-integrated physical activity interventions among breast cancer survivors and other clinical populations which can effectively improve health outcomes during or following treatment.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "This manuscript's construction was guided by the CONSORT guidelines for the reporting of randomized trials.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "A 10-week two-arm parallel randomized pilot trial study design was implemented, with data collected from November 2016 to April 2017. Baseline and 10-week assessments of 7-day habitual physical activity and sedentary behavior as well as evaluations of physiological, psychosocial, and quality of life outcomes were performed. Given the pilot nature of the trial, use/acceptability of the intervention was also assessed. Notably, the current investigation built upon the researchers' previous smartphone-and social media-based health education intervention study, with three distinct differences. First, the current study used the Polar M400 smartwatch as opposed to a smartphone application because most breast cancer survivors in the previous study stated the need to open their smartphone to track/document physical activity was burdensome and that the \"always on\" physical activity tracking capabilities of smartwatches would be preferable during future interventions. Second, the Facebook-delivered health education intervention used in the current study, while similar to the previous study, included the addition of a workout program (see Procedures) designed around the unique limitations of breast cancer survivors (e.g., functional limitations imposed by mastectomies and/or comorbidities). Finally, the previous study was a single group pre-post intervention design, not a randomized trial as implemented in the present investigation. All procedures performed with participants were in accordance with the standards of the Institution and/or national research committee and with the 1964 Helsinki declaration and its later amendments or comparable ethical standards. Testing was not performed until University institutional review board approval and participant informed consent were obtained.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Posted flyers in the University's Masonic Cancer Center and surrounding medical buildings, University-wide emails, online postings, and word-of-mouth were all used to recruit eligible breast cancer survivors. Breast cancer survivors interested in study participation contacted one of the researchers (ZCP) and were screened against the following criteria: (1) females of any race/ethnicity;\n(2) ≥21-years-old; (3) prior stage 0-III breast cancer diagnosis; (4) breast cancer treatment finished 3 months to 10 years earlier with no recurrence; (5) possessed an active Facebook account; and (6) willingness to complete the Physical Activity Readiness Questionnaire and be randomized into an experimental or comparison group. Exclusion criteria were: (1) any ongoing breast cancer treatment; and (2) contraindication(s) to physical activity participation (e.g., pacemaker implant, medical condition) as indicated by the Physical Activity Readiness Questionnaire which could potentially limit study participation.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Demographic/clinical variables. Breast cancer survivors self-reported age, race/ethnicity, birthplace, education/annual income level, marital/employment status, breast cancer diagnosis stage, treatment type, months since diagnosis, remission duration, and Tamoxifen use.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Physical activity levels/energy expenditure. ActiGraph GT3X+ accelerometers were employed at baseline and 10 weeks to evaluate: mean daily duration of sedentary behavior, light physical activity, and moderate-to-vigorous physical activity as well as energy expenditure in kcalories and steps/day. Previous research has observed the ActiGraph GT3X+ to be valid in physical activity measurement among adults in free-living conditions. Per recommendations made in previous literature, breast cancer survivors wore the accelerometer for 7 days to ensure collection of physical activity data on at least 2 weekdays and 1 weekend day. Data was analyzed using the following empirically-based cut points in counts/minute: sedentary behavior: 0-99; light physical activity: 100-2019; moderate-to-vigorous physical activity: ≥2020. Any day with less than 10 h of valid wear time for any participant was excluded from the analysis.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Table provides descriptive statistics for all physiological and psychosocial outcomes at baseline and 10 weeks while Table provides descriptive statistics for all quality of life outcomes at the same time points.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Breast cancer survivors interested in participating contacted a study researcher (ZCP), with potential participants screened against inclusion criteria. Baseline testing was then scheduled for eligible breast cancer survivors. Baseline testing began with a battery of questionnaires evaluating demographic/clinical characteristics, psychosocial constructs, and quality of life indices. Next, breast cancers survivors' height, weight, body composition, and cardiorespiratory fitness were measured. Participants were then given an ActiGraph GT3X with instructions on how and when the accelerometer needed to be worn over the following 7 days. During the 7 days the breast cancer survivors wore the accelerometer during baseline testing, a random numbers table was used to randomize participants into the experimental or comparison group, with a 1:1 allocation ratio. Upon returning the accelerometer, each participant met with the researcher (ZCP) to learn their group allocation and discuss use of the Polar M400 and/or the Facebook group components of their respective intervention.\nExperimental group participants were instructed first on the use of the Polar M400-a powerful no-frills smartwatch capable of tracking health metrics such as energy expenditure, steps/days, and daily physical activity duration, among other metrics. Notably, while the Polar M400 is equipped with a triaxial accelerometer, the smartwatch also possesses global positioning system capabilities and Bluetooth compatibility-the latter allowing the smartwatch to sync to an associated smartphone application and/or internet-based portal. Given the Polar M400's numerous functions, the researcher spent approximately 15 min with each experimental participant providing a tutorial of the smartwatch's functions, subsequently providing the Polar M400 manual to experimental group participants as well. Next, experimental group participants were given a tutorial of the Facebook page used throughout the intervention to provide twice-weekly Social Cognitive Theory-related health education tips (see Supplementary Materials). These tips were developed to assist participants' integration of physical activity into their daily routine by improving participants' physical activity-related self-efficacy, outcome expectancy, social support, and enjoyment while reducing barriers. These tips have been used with success in a previous intervention among breast cancer survivors. For example, health education tips written to increase participants' outcome expectancy, enjoyment, and social support used empirically-based facts to remind participants of the improved mood/quality of life and physiological outcomes which may occur due to increased physical activity participation while also providing some ideas by which to make physical activity more fun and social. Experimental group participants were also told that they could post physical activity-related statistics to the Facebook group from their Polar M400 and/or comment within the Facebook group at their discretion to support one another toward physical activity goals.\nComparison group participants received identical instructions to those listed above regarding accessing and using a separate, content-identical Facebook group, with each participant asked to discontinue smartwatch use throughout the duration of the study. Finally, both groups also received a periodized strength and aerobic training program (see Supplementary Materials) via the Facebook group developed by the first author (an ACSM Certified Exercise Physiologist) with the physical limitations of breast cancer survivors-particularly those of the upper body-accounted for. This workout program was not mandatory to implement, however. Notably, both Facebook groups were completely private (i.e., closed) and unsearchable via Facebook. To ensure intervention fidelity, both groups were contacted every other week throughout the study and encouraged to continue using the Polar M400 (experimental group) and/or reading and attempting to implement the Facebook-delivered health education tips (both groups). Successful study completion resulted in receipt of a $100 gift card compensation. Experimental group participants were not allowed to keep the Polar M400 following study completion.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "First, intervention use/acceptability was evaluated descriptively-providing context for subsequent results. Second, descriptive statistics for all other outcomes at each time point were calculated, with an outlier analysis and Shapiro-Wilks tests of normality also performed. To evaluate baseline group differences in each categorical and continuous variable, chi-square and independent t-tests were then conducted, respectively. Third, mean change for each outcome variable was calculated by subtracting the value measured at baseline from the measurements taken at 10 weeks. Finally, Mann-Whitney U tests and independent t-tests were used to investigate group differences overtime in the mean change of primary (i.e., moderate-to-vigorous physical activity, light physical activity, steps/day, and energy expenditure) and secondary (i.e., weight, body fat percentage, cardiorespiratory fitness, psychosocial constructs, and quality of life) outcomes. Notably, non-normal data distributions were observed for all physical activity outcomes and quality of life outcomes and, therefore, Mann-Whitney U tests were employed to evaluate differences in mean change between groups overtime. Normally distributed data distributions were observed for physiological and psychosocial variables; thus, independent t-tests assessed differences in mean changeover time in these outcomes, with Levene's Test for Equality of Variance used to examine homogeneity and determine the correct p-value(s) to report. Given the exploratory nature of the pilot trial, alpha was not adjusted, remaining at a p-value of 0.05 for all analyses.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Participant flow through the study is outlined within the CONSORT Diagram (see Figure). Forty-two breast cancer survivors expressed interest in the study, with 30 breast cancer survivors subsequently found eligible for baseline testing and randomization. Baseline values for these breast cancer survivors' demographic and clinical outcomes are presented in Table, with baseline comparisons of physical activity, physiological, psychosocial, and quality of life outcomes included in Table. No baseline group differences were observed for any variable suggesting efficacy of the randomization procedures. Ten breast cancer survivors dropped out of the study (66.6% retention rate; experimental group: 4; comparison group: 6). Eight breast cancer survivors dropped out due to reasons unrelated to the study. Regarding the other two dropouts, one participant dropped out due to the perception that the Polar M400 was \"too large\" and inhibiting her daily work, with the other dropping out due to concerns about Facebook privacy (despite the Facebook groups being entirely private and unsearchable). Compared to completers, dropouts had less private insurance coverage, longer duration since diagnosis, and lower annual income, daily light physical activity, moderate-to-vigorous physical activity, EE, and steps. Given these differences, a per-protocol analysis was completed when evaluating changes in health outcomes from baseline to 10 weeks.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "All experimental group participants reported wearing the Polar M400 6-7 days/week. The weekly mean frequency and duration per session for the use of this device during exercise was 4.55 ± 1.74 sessions/week and 53.9 ± 16.7 min/session, respectively. Only 7 of the 12 experimental participants reported enjoying Polar M400 use, however, with these participants stating the following as negative device features: was difficult to sync to phone/computer; had trouble tracking activities like biking and swimming; the size of the smartwatch was \"too big\", with most breast cancer survivors stating the device's buttons would get inadvertently pressed when dressing and undressing given the thickness of the smartwatch; and the smartwatch use was not as \"straightforward\" to use as other smartwatches as the device used buttons on the side of the device to toggle through black-and-white screens and did not possess a color touchscreen with easily accessible tabs akin to other smartwatches like the Fitbit. Regarding the Facebook health education intervention, participants across both groups reported implementing the tips provided 1.2 ± 1.0 times/weekly, with 16 out of 20 participants enjoying these health education tips.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Table contains descriptive statistics for breast cancer survivors' mean daily moderate-to-vigorous physical activity, light physical activity, sedentary behavior, energy expenditure, and steps/day at baseline and 10 weeks. No statistically significant group differences were observed for changeover time for any variable. However, both the experimental and comparison groups demonstrated increased mean daily moderate-to-vigorous physical activity (+3.5 and +7.5 min, respectively), light physical activity (+7.5 and +8.1 min, respectively), energy expenditure (+26.7 and +22.6 calories, respectively), and steps/day (+342.7 and +334.4 steps/day, respectively) from baseline to 10 weeks. Notably, mean daily sedentary behavior remained stable overtime, but slight increases were observed within the experimental (+2.4 min) and comparison (+0.4 min) groups.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Breast cancer survivors' weight was observed to be largely unchanged within both groups from baseline to 10 weeks, but the comparison group did demonstrate a larger, albeit non-significant (p > 0.05), decrease in body fat percentage (−1.0%) compared to the experimental group (+0.5%) during the intervention. Additionally, while improvements in cardiorespiratory fitness overtime were not significantly different between groups, both groups demonstrated reduced heart rate following the YMCA 3-min Step Test at 10 weeks (experimental: −4.8 beats/minute; comparison: −4.5 beats/minute).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Significant group differences for changes in social support (t = −2.1, p = 0.05) and barriers (t = −2.2, p = 0.04) were observed. Interestingly, from baseline to 10 weeks, the comparison group demonstrated improved physical activity-related social support and decreased barriers while the experimental group demonstrated slightly decreased social support and no change in barriers.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "No significant group differences overtime were observed for any quality of life outcome. It is noteworthy, however, that the experimental group demonstrated decreased social role limitations and reductions in sleep disturbances, with a subsequent increase in sleep quality, from baseline to 10 weeks.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Breast cancer survivors are at risk of greater physical inactivity, poorer physiological/ psychological health, and reduced quality of life due to past breast cancer treatment. Given physical activity's demonstrated effects on breast cancers survivors' health outcomes, health behavior change interventions have become common recommendations among this population. As breast cancer survivors have found acceptable and expressed interest in the use of smartwatches to self-regulate physical activity and sedentary behavior, this pilot randomized trial examined the effectiveness of a combined smartwatch-and social media-based health education intervention in the promotion of improved physical activity and health indices among breast cancer survivors. Observations suggested this type of intervention might promote improvements in physical activity and certain health outcomes, but that smartwatch complexity needs to be considered as the experimental group did not demonstrate significantly different improvements overtime versus the comparison group.\nThe current investigation's first hypothesis was that greater increased physical activity, energy expenditure, and steps/day in addition to reduced sedentary behavior would be observed among the experimental group versus the comparison group. Observations were not congruent with this hypothesis as both groups demonstrated similarly increased moderate-to-vigorous physical activity, light physical activity, energy expenditure, and steps/day during the intervention period with mean increases of approximately 5 min, 8 min, 25 kcalories, and 340 steps/day, respectively. Despite no statistically significant group differences, these findings may have some clinical/practical significance. Specifically, research has indicated sedentary behavior to increase breast cancer recurrence risk by up to 34% among breast cancer survivors. Reasons for the increased recurrence risk are many, not the least of which has to do with adiposity and its effects on cancer-related hormones. Briefly, increased adiposity among breast cancer survivors has been positively correlated with insulin resistance as well as poorer regulation of insulin growth factor-1 (IGF-1) and estrogen-two hormones frequently implicated in breast cancer development and recurrence. Fortunately, physical activity has been shown to promote appropriate regulation of insulin, IGF-1, and estrogen. Thus, the combined~13 min/day increase in moderate-to-vigorous physical activity and light physical activity from baseline to 10 weeks is noteworthy as this increase contributed to~1.5 h/week more of physical activity among the current sample. Nonetheless, it is necessary to question why the experimental group did not experience greater increases in the preceding primary outcomes than the comparison group.\nExamination of the experimental groups' opinion of the Polar M400 smartwatch may provide some answers. Explicitly, five out of the 12 breast cancer survivors in the experimental group expressed frustration with the smartwatch, with participants finding the smartwatch too complex, hard to connect to the associated smartphone application, and too big. These remarks are congruent with recent literature among breast cancer survivors during which it was found breast cancer survivors prefer simple, easy-to-use smartwatches with larger screens when using these devices to self-regulate physical activity and sedentary behavior. Indeed, while powerful, the Polar M400 is not as intuitive as other smartwatches available on the market (e.g., Apple Watch 3, Fitbit Ionic) given the fact that Polar has long marketed their products to the sport performance industry and has only recently begun to develop and market smartwatches. Therefore, future studies among breast cancer survivors may utilize smartwatches which are more mainstream and easier-to-use-keeping in mind that breast cancer survivors are often middle-aged females and that research does suggest a negative relationship between age and technological literacy, adoption, and use.\nThe preceding observations regarding the usability of the Polar M400 might have also influenced the conclusions made regarding the study's second hypothesis wherein it was stated that the experimental participants would have greater improvements in physiological outcomes versus comparison participants. Indeed, no difference in mean body weight changes were observed between groups, with the lower heart rate observed following the step test nearly identical for both groups (approximately 5 beats/minute; indicative of improved cardiorespiratory fitness). Interestingly, decreased body fat percentage was observed among comparison participants while slightly increased body fat percentage was seen among experimental participants during the intervention. Yet, it is difficult to know whether these changes represent actual changes in body fat percentage due to the intervention as the magnitude of these changes is within the margin of error commonly reported for bioelectrical impedance testing on individuals of higher body fat percentage akin to that observed in the current investigation. While the lower heart rate following step testing is promising given the fact improved cardiorespiratory fitness has been observed to negatively correlate with breast cancer survivors' risk of breast cancer recurrence, decreased body weight and body fat percentage is still highly desired given the aforementioned influence of adiposity on key cancer hormones.\nThe final hypothesis of this study was that the experimental participants would experience greater beneficial changes in social cognitive theory-related psychosocial constructs and quality of life indices versus the comparison group. Observations, again, were not congruent with this hypothesis. Interestingly, significantly greater increases in social support were observed among comparison participants versus experimental participants who demonstrated slightly decreased social support overtime. It is noteworthy, however, that experimental participants had marginally significantly higher social support at baseline versus comparison participants (p = 0.06), with both groups completing the intervention with approximately the same social support scores. Therefore, these paradoxical findings might be attributed more to regression towards the mean than the effects of the intervention. Notably, experimental participants did demonstrate greater reductions in social role limitations and sleep disturbances in addition to a slight increase in sleep quality versus comparison participants during the intervention. These observations are positive as social role limitations and fatigue (among other factors) have been observed to be a major determinants of quality of life among breast cancer survivors. Moreover, sleep disturbances have been shown to moderate the effect of vasomotor symptoms associated with the onset of breast cancer treatment-induced menopause (e.g., hot flashes) on depressive symptoms among breast cancer survivors approximately the same age as women in the current study. This suggests the less frequent sleep disturbances (and improved sleep quality) indicated among experimental participants might confer health benefits in the long term. Nonetheless, more research with larger and more diverse samples is needed to investigate how to effectively promote improved psychosocial and quality of life health outcomes among breast cancer survivors.\nStrengths of the current study include: (1) investigation of breast cancer survivors-a population not often targeted for physical activity interventions; (2) use of a combined smartwatch and social media-delivered health education intervention; (3) utilization of Social Cognitive Theory to develop and implement the intervention; and (4) evaluations of physiological, psychosocial, and quality of life indices in addition to a full spectrum of objectively-assessed physical activity analyses (i.e., durations of sedentary behavior, light physical activity, and moderate-to-vigorous physical activity). Despite these strengths, limitations are present and should be accounted for when interpreting the study's findings. To begin, the study was not blinded. Although group allocation was concealed as best as possible from participants, several breast cancer survivors in the present study knew one another from various breast cancer survivors support groups raising the concern of contamination between groups. Second, while the request was made to comparison participants to discontinue smartwatch use throughout the duration of the intervention, it might be possible that some participants did not follow these directives or utilized other means of health behavior tracking in place of a smartwatch (e.g., a smartphone-based health application). Third, the study concentrated exclusively on promoting physical activity and reducing sedentary behavior, with no dietary component included. Diet has been cited as an important consideration when seeking to promote improved health among breast cancer survivors given the dietary effects which can be present on hormones related to breast cancer development/metastasis such as estrogen, insulin, and IGF-1. As interventions targeting both dietary and physical activity behaviors have been shown to be more effective than interventions targeting dietary or physical activity behaviors exclusively, including both emphases in future interventions is advised. Further, measurements of biomarkers in future studies might also be advised to increase the generalizability of the effects an intervention of this type might have in a clinical setting. Indeed, not only have biomarkers like estrogen, insulin, and IGF-1 been implicated in breast cancer development/recurrence but, more recently, myokines have been observed important to breast cancer development. Specifically, this latter research has indicated that muscular contraction can increase myokine secretion which may have a therapeutic effect on organ metabolism and potentially reduce the likelihood of breast cancer recurrence among breast cancer survivors. Myokine measurements might also be correlated with lean mass measurements made by body composition assessment techniques with demonstrated high accuracy like hydrodensiometry and dual x-ray absorptiometry. Nonetheless, the current study's methodology was sufficient to investigate whether a combined smartwatch-and theoretically-based, social media-delivered health education intervention was feasible among breast cancer survivors. Although ActiGraph GT3X+ accelerometer has demonstrated acceptable validity and reliability in assessing sedentary and physical activity behavior among adults, more accurate motion sensor in measuring sedentary and light physical activity (e.g., activPAL) maybe used in future studies with this population. Additionally, the small sample size limited statistical power, with the fact the sample was well-educated and of high socioeconomic status limiting study generalizability. Larger and more diverse samples are suggested for future investigations. Finally, given the increasing popularity of the Social Ecological Model and the important role the neighborhood environment plays in enhancing physical activity and quality of life, researchers might include neighborhood environment in the research design in the future.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The current study suggests that a theoretically based health education intervention delivered using social media maybe able to promote increased physical activity and select improved health indices among breast cancer survivors. However, observations do not suggest smartwatch use confers any additional benefit to an intervention of this type. Indeed, despite extensive user training, most experimental participants found the Polar M400 difficult to use-possibly decreasing intervention adherence. Future interventions should utilize simpler smartwatches to promote PA among middle-aged clinical/non-clinical populations as technology-based interventions of this type still show promise in providing low-burden, well-integrated health promotion options for these populations.\n",
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "0.98",
+          "rowHeaders": [
+            "Some college/technical school"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Comparison (n = 14)",
+            "p-Value"
+          ]
+        },
+        {
+          "value": "2",
+          "rowHeaders": [
+            "Some college/technical school"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Experimental (n = 16)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "2",
+          "rowHeaders": [
+            "Some college/technical school"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Comparison (n = 14)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "5",
+          "rowHeaders": [
+            "College graduate"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Experimental (n = 16)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "4",
+          "rowHeaders": [
+            "College graduate"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Comparison (n = 14)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "9",
+          "rowHeaders": [
+            "Graduate school"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Experimental (n = 16)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "8",
+          "rowHeaders": [
+            "Graduate school"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Comparison (n = 14)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "0.12",
+          "rowHeaders": [
+            "Private"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Comparison (n = 14)",
+            "p-Value"
+          ]
+        },
+        {
+          "value": "0",
+          "rowHeaders": [
+            "Medicaid"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Experimental (n = 16)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "2",
+          "rowHeaders": [
+            "Medicaid"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Comparison (n = 14)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "0.46",
+          "rowHeaders": [
+            "Part time"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Comparison (n = 14)",
+            "p-Value"
+          ]
+        },
+        {
+          "value": "9",
+          "rowHeaders": [
+            "Full time"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Experimental (n = 16)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "7",
+          "rowHeaders": [
+            "Full time"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Comparison (n = 14)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "5",
+          "rowHeaders": [
+            "Part time"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Experimental (n = 16)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "4",
+          "rowHeaders": [
+            "Part time"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Comparison (n = 14)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "0",
+          "rowHeaders": [
+            "Retired"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Experimental (n = 16)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "2",
+          "rowHeaders": [
+            "Retired"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Comparison (n = 14)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "2",
+          "rowHeaders": [
+            "Housewife"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Experimental (n = 16)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "1",
+          "rowHeaders": [
+            "Housewife"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Comparison (n = 14)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "0.60",
+          "rowHeaders": [
+            "Separated/divorced"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Comparison (n = 14)",
+            "p-Value"
+          ]
+        },
+        {
+          "value": "1",
+          "rowHeaders": [
+            "Separated/divorced"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Experimental (n = 16)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "2",
+          "rowHeaders": [
+            "Separated/divorced"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Comparison (n = 14)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "0",
+          "rowHeaders": [
+            "Widowed"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Experimental (n = 16)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "1",
+          "rowHeaders": [
+            "Widowed"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Comparison (n = 14)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "1",
+          "rowHeaders": [
+            "Living with unmarried partner"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Experimental (n = 16)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "1",
+          "rowHeaders": [
+            "Living with unmarried partner"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Comparison (n = 14)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "0.65",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Comparison (n = 14)",
+            "p-Value"
+          ]
+        },
+        {
+          "value": "1",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Experimental (n = 16)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "1",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Comparison (n = 14)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "1",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Experimental (n = 16)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "2",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Comparison (n = 14)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "0",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Experimental (n = 16)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "1",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Comparison (n = 14)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "0",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Experimental (n = 16)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "1",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Comparison (n = 14)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "4",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Experimental (n = 16)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "3",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Comparison (n = 14)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "6",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Comparison (n = 14)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "60.7 ±",
+          "rowHeaders": [
+            "Time in remission"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Experimental (n = 16)",
+            "Avg. (M ± SD)"
+          ]
+        },
+        {
+          "value": "39.7",
+          "rowHeaders": [
+            "Time in remission"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Experimental (n = 16)",
+            "Avg. (M ± SD)"
+          ]
+        },
+        {
+          "value": "48.7 ±",
+          "rowHeaders": [
+            "Time in remission"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Comparison (n = 14)",
+            "Avg. (M ± SD)"
+          ]
+        },
+        {
+          "value": "31.7",
+          "rowHeaders": [
+            "Time in remission"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Comparison (n = 14)",
+            "Avg. (M ± SD)"
+          ]
+        },
+        {
+          "value": "0.37",
+          "rowHeaders": [
+            "Time in remission"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Comparison (n = 14)",
+            "p-Value"
+          ]
+        },
+        {
+          "value": "0.12",
+          "rowHeaders": [
+            "Living with unmarried partner"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Comparison (n = 14)",
+            "p-Value"
+          ]
+        },
+        {
+          "value": "0",
+          "rowHeaders": [
+            "≤12 months"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Experimental (n = 16)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "1",
+          "rowHeaders": [
+            "≤12 months"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Comparison (n = 14)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "5",
+          "rowHeaders": [
+            "13 to 24 months"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Experimental (n = 16)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "1",
+          "rowHeaders": [
+            "13 to 24 months"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Comparison (n = 14)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "2",
+          "rowHeaders": [
+            "to 36 months"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Experimental (n = 16)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "3",
+          "rowHeaders": [
+            "to 36 months"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Comparison (n = 14)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "0",
+          "rowHeaders": [
+            "to 60 months"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Experimental (n = 16)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "3",
+          "rowHeaders": [
+            "to 60 months"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Comparison (n = 14)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "9",
+          "rowHeaders": [
+            "≥61 months"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Experimental (n = 16)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "6",
+          "rowHeaders": [
+            "≥61 months"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Comparison (n = 14)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "0.68",
+          "rowHeaders": [
+            "Stage"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Comparison (n = 14)",
+            "p-Value"
+          ]
+        },
+        {
+          "value": "0",
+          "rowHeaders": [
+            "Stage"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Experimental (n = 16)",
+            "Avg. (M ± SD)",
+            "Married"
+          ]
+        },
+        {
+          "value": "3",
+          "rowHeaders": [
+            "Stage"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Experimental (n = 16)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "1",
+          "rowHeaders": [
+            "Stage"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Comparison (n = 14)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "1",
+          "rowHeaders": [
+            "Stage"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Experimental (n = 16)",
+            "Avg. (M ± SD)",
+            "Married"
+          ]
+        },
+        {
+          "value": "4",
+          "rowHeaders": [
+            "Stage"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Experimental (n = 16)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "5",
+          "rowHeaders": [
+            "Stage"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Comparison (n = 14)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "2",
+          "rowHeaders": [
+            "Stage"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Experimental (n = 16)",
+            "Avg. (M ± SD)",
+            "Married"
+          ]
+        },
+        {
+          "value": "7",
+          "rowHeaders": [
+            "Stage"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Experimental (n = 16)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "5",
+          "rowHeaders": [
+            "Stage"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Comparison (n = 14)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "3",
+          "rowHeaders": [
+            "Stage"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Experimental (n = 16)",
+            "Avg. (M ± SD)",
+            "Married"
+          ]
+        },
+        {
+          "value": "2",
+          "rowHeaders": [
+            "Stage"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Experimental (n = 16)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "3",
+          "rowHeaders": [
+            "Stage"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Comparison (n = 14)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "0.64",
+          "rowHeaders": [
+            "Surgery + radiation"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Comparison (n = 14)",
+            "p-Value"
+          ]
+        },
+        {
+          "value": "2",
+          "rowHeaders": [
+            "Surgery only"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Experimental (n = 16)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "4",
+          "rowHeaders": [
+            "Surgery only"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Comparison (n = 14)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "2",
+          "rowHeaders": [
+            "Surgery + radiation"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Experimental (n = 16)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "1",
+          "rowHeaders": [
+            "Surgery + radiation"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Comparison (n = 14)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "5",
+          "rowHeaders": [
+            "Surgery + chemo"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Experimental (n = 16)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "5",
+          "rowHeaders": [
+            "Surgery + chemo"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Comparison (n = 14)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "7",
+          "rowHeaders": [
+            "Surgery + radiation + chemo"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Experimental (n = 16)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "4",
+          "rowHeaders": [
+            "Surgery + radiation + chemo"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Comparison (n = 14)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "0.92",
+          "rowHeaders": [
+            "Yes"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Comparison (n = 14)",
+            "p-Value"
+          ]
+        },
+        {
+          "value": "9",
+          "rowHeaders": [
+            "Yes"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Comparison (n = 14)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "6",
+          "rowHeaders": [
+            "No"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Experimental (n = 16)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "5",
+          "rowHeaders": [
+            "No"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Comparison (n = 14)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "1.00",
+          "rowHeaders": [
+            "Yes"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Comparison (n = 14)",
+            "p-Value"
+          ]
+        },
+        {
+          "value": "0",
+          "rowHeaders": [
+            "No"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Experimental (n = 16)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "0",
+          "rowHeaders": [
+            "No"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Comparison (n = 14)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "0.57",
+          "rowHeaders": [
+            "Surgery + radiation + chemo"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Comparison (n = 14)",
+            "p-Value"
+          ]
+        },
+        {
+          "value": "1",
+          "rowHeaders": [
+            "Never"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Experimental (n = 16)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "0",
+          "rowHeaders": [
+            "Never"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Comparison (n = 14)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "2",
+          "rowHeaders": [
+            "Every 3-6 months"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Experimental (n = 16)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "2",
+          "rowHeaders": [
+            "Every 3-6 months"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Comparison (n = 14)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "5",
+          "rowHeaders": [
+            "Every 6-12 months"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Experimental (n = 16)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "5",
+          "rowHeaders": [
+            "Every 6-12 months"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Comparison (n = 14)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "6",
+          "rowHeaders": [
+            "Once yearly"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Experimental (n = 16)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "7",
+          "rowHeaders": [
+            "Once yearly"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Comparison (n = 14)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "2",
+          "rowHeaders": [
+            "Other"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Experimental (n = 16)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "0",
+          "rowHeaders": [
+            "Other"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Comparison (n = 14)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "0.23",
+          "rowHeaders": [
+            "Every 6-12 months"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Comparison (n = 14)",
+            "p-Value"
+          ]
+        },
+        {
+          "value": "1",
+          "rowHeaders": [
+            "Every 6-12 months"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Experimental (n = 16)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "0",
+          "rowHeaders": [
+            "Every 6-12 months"
+          ],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Comparison (n = 14)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "2",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Experimental (n = 16)",
+            "Freq. (Counts)"
+          ]
+        },
+        {
+          "value": "0",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 1. Cont. Demographic Characteristics (n = 30)",
+            "Table 1. Cont.",
+            "Comparison (n = 14)",
+            "Freq. (Counts)"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "26.7 ±",
+          "rowHeaders": [
+            "Daily MVPA"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Experimental (n = 16)"
+          ]
+        },
+        {
+          "value": "18.4",
+          "rowHeaders": [
+            "Daily MVPA"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Experimental (n = 16)"
+          ]
+        },
+        {
+          "value": "20.9 ±",
+          "rowHeaders": [
+            "Daily MVPA"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Comparison (n = 14)"
+          ]
+        },
+        {
+          "value": "17.6",
+          "rowHeaders": [
+            "Daily MVPA"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Comparison (n = 14)"
+          ]
+        },
+        {
+          "value": "0.40",
+          "rowHeaders": [
+            "Daily MVPA"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "p-Value"
+          ]
+        },
+        {
+          "value": "72.9 ±",
+          "rowHeaders": [
+            "Daily LPA"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Experimental (n = 16)"
+          ]
+        },
+        {
+          "value": "44.1",
+          "rowHeaders": [
+            "Daily LPA"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Experimental (n = 16)"
+          ]
+        },
+        {
+          "value": "77.3 ±",
+          "rowHeaders": [
+            "Daily LPA"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Comparison (n = 14)"
+          ]
+        },
+        {
+          "value": "48.2",
+          "rowHeaders": [
+            "Daily LPA"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Comparison (n = 14)"
+          ]
+        },
+        {
+          "value": "0.80",
+          "rowHeaders": [
+            "Daily LPA"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "p-Value"
+          ]
+        },
+        {
+          "value": "378.0 ±",
+          "rowHeaders": [
+            "Daily SB"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Experimental (n = 16)"
+          ]
+        },
+        {
+          "value": "192.5",
+          "rowHeaders": [
+            "Daily SB"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Experimental (n = 16)"
+          ]
+        },
+        {
+          "value": "361.7 ±",
+          "rowHeaders": [
+            "Daily SB"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Comparison (n = 14)"
+          ]
+        },
+        {
+          "value": "201.0",
+          "rowHeaders": [
+            "Daily SB"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Comparison (n = 14)"
+          ]
+        },
+        {
+          "value": "0.82",
+          "rowHeaders": [
+            "Daily SB"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "p-Value"
+          ]
+        },
+        {
+          "value": "272.5 ±",
+          "rowHeaders": [
+            "Daily EE"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Experimental (n = 16)"
+          ]
+        },
+        {
+          "value": "166.6",
+          "rowHeaders": [
+            "Daily EE"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Experimental (n = 16)"
+          ]
+        },
+        {
+          "value": "303.1 ±",
+          "rowHeaders": [
+            "Daily EE"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Comparison (n = 14)"
+          ]
+        },
+        {
+          "value": "240.9",
+          "rowHeaders": [
+            "Daily EE"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Comparison (n = 14)"
+          ]
+        },
+        {
+          "value": "0.69",
+          "rowHeaders": [
+            "Daily EE"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "p-Value"
+          ]
+        },
+        {
+          "value": "4099.8 ±",
+          "rowHeaders": [
+            "Daily steps"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Experimental (n = 16)"
+          ]
+        },
+        {
+          "value": "2651.6",
+          "rowHeaders": [
+            "Daily steps"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Experimental (n = 16)"
+          ]
+        },
+        {
+          "value": "3092.7 ±",
+          "rowHeaders": [
+            "Daily steps"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Comparison (n = 14)"
+          ]
+        },
+        {
+          "value": "2214.0",
+          "rowHeaders": [
+            "Daily steps"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Comparison (n = 14)"
+          ]
+        },
+        {
+          "value": "0.27",
+          "rowHeaders": [
+            "Daily steps"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "p-Value"
+          ]
+        },
+        {
+          "value": "76.0 ±",
+          "rowHeaders": [
+            "Weight (kg)"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Experimental (n = 16)"
+          ]
+        },
+        {
+          "value": "13.0",
+          "rowHeaders": [
+            "Weight (kg)"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Experimental (n = 16)"
+          ]
+        },
+        {
+          "value": "85.0 ±",
+          "rowHeaders": [
+            "Weight (kg)"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Comparison (n = 14)"
+          ]
+        },
+        {
+          "value": "24.9",
+          "rowHeaders": [
+            "Weight (kg)"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Comparison (n = 14)"
+          ]
+        },
+        {
+          "value": "0.24",
+          "rowHeaders": [
+            "Weight (kg)"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "p-Value"
+          ]
+        },
+        {
+          "value": "39.4 ±",
+          "rowHeaders": [
+            "Body fat (%)"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Experimental (n = 16)"
+          ]
+        },
+        {
+          "value": "5.5",
+          "rowHeaders": [
+            "Body fat (%)"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Experimental (n = 16)"
+          ]
+        },
+        {
+          "value": "38.6 ±",
+          "rowHeaders": [
+            "Body fat (%)"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Comparison (n = 14)"
+          ]
+        },
+        {
+          "value": "9.8",
+          "rowHeaders": [
+            "Body fat (%)"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Comparison (n = 14)"
+          ]
+        },
+        {
+          "value": "0.81",
+          "rowHeaders": [
+            "Body fat (%)"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "p-Value"
+          ]
+        },
+        {
+          "value": "113.2 ±",
+          "rowHeaders": [
+            "Cardiorespiratory fitness"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Experimental (n = 16)"
+          ]
+        },
+        {
+          "value": "20.7",
+          "rowHeaders": [
+            "Cardiorespiratory fitness"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Experimental (n = 16)"
+          ]
+        },
+        {
+          "value": "106.1 ±",
+          "rowHeaders": [
+            "Cardiorespiratory fitness"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Comparison (n = 14)"
+          ]
+        },
+        {
+          "value": "23.4",
+          "rowHeaders": [
+            "Cardiorespiratory fitness"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Comparison (n = 14)"
+          ]
+        },
+        {
+          "value": "0.39",
+          "rowHeaders": [
+            "Cardiorespiratory fitness"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "p-Value"
+          ]
+        },
+        {
+          "value": "73.3 ±",
+          "rowHeaders": [
+            "Self-efficacy #"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Experimental (n = 16)"
+          ]
+        },
+        {
+          "value": "22.1",
+          "rowHeaders": [
+            "Self-efficacy #"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Experimental (n = 16)"
+          ]
+        },
+        {
+          "value": "80.3 ±",
+          "rowHeaders": [
+            "Self-efficacy #"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Comparison (n = 14)"
+          ]
+        },
+        {
+          "value": "14.5",
+          "rowHeaders": [
+            "Self-efficacy #"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Comparison (n = 14)"
+          ]
+        },
+        {
+          "value": "0.33",
+          "rowHeaders": [
+            "Self-efficacy #"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "p-Value"
+          ]
+        },
+        {
+          "value": "2.8 ±",
+          "rowHeaders": [
+            "Social support $"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Experimental (n = 16)"
+          ]
+        },
+        {
+          "value": "1.1",
+          "rowHeaders": [
+            "Social support $"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Experimental (n = 16)"
+          ]
+        },
+        {
+          "value": "2.1 ±",
+          "rowHeaders": [
+            "Social support $"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Comparison (n = 14)"
+          ]
+        },
+        {
+          "value": "1.0",
+          "rowHeaders": [
+            "Social support $"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Comparison (n = 14)"
+          ]
+        },
+        {
+          "value": "0.06",
+          "rowHeaders": [
+            "Social support $"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "p-Value"
+          ]
+        },
+        {
+          "value": "3.2 ±",
+          "rowHeaders": [
+            "Enjoyment $"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Experimental (n = 16)"
+          ]
+        },
+        {
+          "value": "0.5",
+          "rowHeaders": [
+            "Enjoyment $"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Experimental (n = 16)"
+          ]
+        },
+        {
+          "value": "3.3 ±",
+          "rowHeaders": [
+            "Enjoyment $"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Comparison (n = 14)"
+          ]
+        },
+        {
+          "value": "0.5",
+          "rowHeaders": [
+            "Enjoyment $"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Comparison (n = 14)"
+          ]
+        },
+        {
+          "value": "0.55",
+          "rowHeaders": [
+            "Enjoyment $"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "p-Value"
+          ]
+        },
+        {
+          "value": "2.0 ±",
+          "rowHeaders": [
+            "Barriers @"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Experimental (n = 16)"
+          ]
+        },
+        {
+          "value": "0.5",
+          "rowHeaders": [
+            "Barriers @"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Experimental (n = 16)"
+          ]
+        },
+        {
+          "value": "1.9 ±",
+          "rowHeaders": [
+            "Barriers @"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Comparison (n = 14)"
+          ]
+        },
+        {
+          "value": "0.4",
+          "rowHeaders": [
+            "Barriers @"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Comparison (n = 14)"
+          ]
+        },
+        {
+          "value": "0.57",
+          "rowHeaders": [
+            "Barriers @"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "p-Value"
+          ]
+        },
+        {
+          "value": "3.9 ±",
+          "rowHeaders": [
+            "Outcome expectancy $"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Experimental (n = 16)"
+          ]
+        },
+        {
+          "value": "0.5",
+          "rowHeaders": [
+            "Outcome expectancy $"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Experimental (n = 16)"
+          ]
+        },
+        {
+          "value": "4.1 ±",
+          "rowHeaders": [
+            "Outcome expectancy $"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Comparison (n = 14)"
+          ]
+        },
+        {
+          "value": "0.5",
+          "rowHeaders": [
+            "Outcome expectancy $"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Comparison (n = 14)"
+          ]
+        },
+        {
+          "value": "0.55",
+          "rowHeaders": [
+            "Outcome expectancy $"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "p-Value"
+          ]
+        },
+        {
+          "value": "1.2 ±",
+          "rowHeaders": [
+            "Physical functioning **"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Experimental (n = 16)"
+          ]
+        },
+        {
+          "value": "0.4",
+          "rowHeaders": [
+            "Physical functioning **"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Experimental (n = 16)"
+          ]
+        },
+        {
+          "value": "1.3 ±",
+          "rowHeaders": [
+            "Physical functioning **"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Comparison (n = 14)"
+          ]
+        },
+        {
+          "value": "0.3",
+          "rowHeaders": [
+            "Physical functioning **"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Comparison (n = 14)"
+          ]
+        },
+        {
+          "value": "0.64",
+          "rowHeaders": [
+            "Physical functioning **"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "p-Value"
+          ]
+        },
+        {
+          "value": "1.8 ±",
+          "rowHeaders": [
+            "Anxiety **"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Experimental (n = 16)"
+          ]
+        },
+        {
+          "value": "0.8",
+          "rowHeaders": [
+            "Anxiety **"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Experimental (n = 16)"
+          ]
+        },
+        {
+          "value": "1.5 ±",
+          "rowHeaders": [
+            "Anxiety **"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Comparison (n = 14)"
+          ]
+        },
+        {
+          "value": "0.7",
+          "rowHeaders": [
+            "Anxiety **"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Comparison (n = 14)"
+          ]
+        },
+        {
+          "value": "0.34",
+          "rowHeaders": [
+            "Anxiety **"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "p-Value"
+          ]
+        },
+        {
+          "value": "1.3 ±",
+          "rowHeaders": [
+            "Depression **"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Experimental (n = 16)"
+          ]
+        },
+        {
+          "value": "0.3",
+          "rowHeaders": [
+            "Depression **"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Experimental (n = 16)"
+          ]
+        },
+        {
+          "value": "1.1 ±",
+          "rowHeaders": [
+            "Depression **"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Comparison (n = 14)"
+          ]
+        },
+        {
+          "value": "0.3",
+          "rowHeaders": [
+            "Depression **"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Comparison (n = 14)"
+          ]
+        },
+        {
+          "value": "0.21",
+          "rowHeaders": [
+            "Depression **"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "p-Value"
+          ]
+        },
+        {
+          "value": "2.5 ±",
+          "rowHeaders": [
+            "Fatigue **"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Experimental (n = 16)"
+          ]
+        },
+        {
+          "value": "1.1",
+          "rowHeaders": [
+            "Fatigue **"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Experimental (n = 16)"
+          ]
+        },
+        {
+          "value": "2.3 ±",
+          "rowHeaders": [
+            "Fatigue **"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Comparison (n = 14)"
+          ]
+        },
+        {
+          "value": "0.6",
+          "rowHeaders": [
+            "Fatigue **"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Comparison (n = 14)"
+          ]
+        },
+        {
+          "value": "0.51",
+          "rowHeaders": [
+            "Fatigue **"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "p-Value"
+          ]
+        },
+        {
+          "value": "3.1 ±",
+          "rowHeaders": [
+            "Sleep quality **"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Experimental (n = 16)"
+          ]
+        },
+        {
+          "value": "1.0",
+          "rowHeaders": [
+            "Sleep quality **"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Experimental (n = 16)"
+          ]
+        },
+        {
+          "value": "3.4 ±",
+          "rowHeaders": [
+            "Sleep quality **"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Comparison (n = 14)"
+          ]
+        },
+        {
+          "value": "0.9",
+          "rowHeaders": [
+            "Sleep quality **"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Comparison (n = 14)"
+          ]
+        },
+        {
+          "value": "0.39",
+          "rowHeaders": [
+            "Sleep quality **"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "p-Value"
+          ]
+        },
+        {
+          "value": "2.9 ±",
+          "rowHeaders": [
+            "Sleep disturbances **"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Experimental (n = 16)"
+          ]
+        },
+        {
+          "value": "0.6",
+          "rowHeaders": [
+            "Sleep disturbances **"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Experimental (n = 16)"
+          ]
+        },
+        {
+          "value": "2.6 ±",
+          "rowHeaders": [
+            "Sleep disturbances **"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Comparison (n = 14)"
+          ]
+        },
+        {
+          "value": "0.5",
+          "rowHeaders": [
+            "Sleep disturbances **"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Comparison (n = 14)"
+          ]
+        },
+        {
+          "value": "0.17",
+          "rowHeaders": [
+            "Sleep disturbances **"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "p-Value"
+          ]
+        },
+        {
+          "value": "2.2 ±",
+          "rowHeaders": [
+            "Social roles/activities limitations **"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Experimental (n = 16)"
+          ]
+        },
+        {
+          "value": "1.1",
+          "rowHeaders": [
+            "Social roles/activities limitations **"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Experimental (n = 16)"
+          ]
+        },
+        {
+          "value": "2.1 ±",
+          "rowHeaders": [
+            "Social roles/activities limitations **"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Comparison (n = 14)"
+          ]
+        },
+        {
+          "value": "0.8",
+          "rowHeaders": [
+            "Social roles/activities limitations **"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Comparison (n = 14)"
+          ]
+        },
+        {
+          "value": "0.76",
+          "rowHeaders": [
+            "Social roles/activities limitations **"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "p-Value"
+          ]
+        },
+        {
+          "value": "1.7 ±",
+          "rowHeaders": [
+            "Pain limitations **"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Experimental (n = 16)"
+          ]
+        },
+        {
+          "value": "0.8",
+          "rowHeaders": [
+            "Pain limitations **"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Experimental (n = 16)"
+          ]
+        },
+        {
+          "value": "1.5 ±",
+          "rowHeaders": [
+            "Pain limitations **"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Comparison (n = 14)"
+          ]
+        },
+        {
+          "value": "0.6",
+          "rowHeaders": [
+            "Pain limitations **"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Comparison (n = 14)"
+          ]
+        },
+        {
+          "value": "0.51",
+          "rowHeaders": [
+            "Pain limitations **"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "p-Value"
+          ]
+        },
+        {
+          "value": "2.0 ±",
+          "rowHeaders": [
+            "Pain intensity &"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Experimental (n = 16)"
+          ]
+        },
+        {
+          "value": "1.3",
+          "rowHeaders": [
+            "Pain intensity &"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Experimental (n = 16)"
+          ]
+        },
+        {
+          "value": "2.2 ±",
+          "rowHeaders": [
+            "Pain intensity &"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Comparison (n = 14)"
+          ]
+        },
+        {
+          "value": "1.9",
+          "rowHeaders": [
+            "Pain intensity &"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "Comparison (n = 14)"
+          ]
+        },
+        {
+          "value": "0.72",
+          "rowHeaders": [
+            "Pain intensity &"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline comparisons for participants' primary and secondary outcomes * ,a .",
+            "p-Value"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "30.7 ±",
+          "rowHeaders": [
+            "Daily MVPA"
+          ],
+          "columnHeaders": [
+            "Table 3. Descriptive statistics for physical activity-related outcomes by group at baseline and",
+            "Experimental (n = 12)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "13.2",
+          "rowHeaders": [
+            "Daily MVPA"
+          ],
+          "columnHeaders": [
+            "Table 3. Descriptive statistics for physical activity-related outcomes by group at baseline and",
+            "Experimental (n = 12)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "34.2 ±",
+          "rowHeaders": [
+            "Daily MVPA"
+          ],
+          "columnHeaders": [
+            "Table 3. Descriptive statistics for physical activity-related outcomes by group at baseline and",
+            "Experimental (n = 12)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "18.7",
+          "rowHeaders": [
+            "Daily MVPA"
+          ],
+          "columnHeaders": [
+            "Table 3. Descriptive statistics for physical activity-related outcomes by group at baseline and",
+            "Experimental (n = 12)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "30.2 ±",
+          "rowHeaders": [
+            "Daily MVPA"
+          ],
+          "columnHeaders": [
+            "Table 3. Descriptive statistics for physical activity-related outcomes by group at baseline and",
+            "Experimental (n = 12)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "16.2",
+          "rowHeaders": [
+            "Daily MVPA"
+          ],
+          "columnHeaders": [
+            "Table 3. Descriptive statistics for physical activity-related outcomes by group at baseline and",
+            "Comparison (n = 8)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "37.8 ±",
+          "rowHeaders": [
+            "Daily MVPA"
+          ],
+          "columnHeaders": [
+            "Table 3. Descriptive statistics for physical activity-related outcomes by group at baseline and",
+            "Comparison (n = 8)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "20.4",
+          "rowHeaders": [
+            "Daily MVPA"
+          ],
+          "columnHeaders": [
+            "Table 3. Descriptive statistics for physical activity-related outcomes by group at baseline and",
+            "Comparison (n = 8)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "0.49",
+          "rowHeaders": [
+            "Daily MVPA"
+          ],
+          "columnHeaders": [
+            "Table 3. Descriptive statistics for physical activity-related outcomes by group at baseline and",
+            "Comparison (n = 8)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "91.4 ±",
+          "rowHeaders": [
+            "Daily LPA"
+          ],
+          "columnHeaders": [
+            "Table 3. Descriptive statistics for physical activity-related outcomes by group at baseline and",
+            "Experimental (n = 12)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "28.8",
+          "rowHeaders": [
+            "Daily LPA"
+          ],
+          "columnHeaders": [
+            "Table 3. Descriptive statistics for physical activity-related outcomes by group at baseline and",
+            "Experimental (n = 12)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "98.9 ±",
+          "rowHeaders": [
+            "Daily LPA"
+          ],
+          "columnHeaders": [
+            "Table 3. Descriptive statistics for physical activity-related outcomes by group at baseline and",
+            "Experimental (n = 12)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "29.5",
+          "rowHeaders": [
+            "Daily LPA"
+          ],
+          "columnHeaders": [
+            "Table 3. Descriptive statistics for physical activity-related outcomes by group at baseline and",
+            "Experimental (n = 12)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "100.4 ±",
+          "rowHeaders": [
+            "Daily LPA"
+          ],
+          "columnHeaders": [
+            "Table 3. Descriptive statistics for physical activity-related outcomes by group at baseline and",
+            "Experimental (n = 12)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "31.6",
+          "rowHeaders": [
+            "Daily LPA"
+          ],
+          "columnHeaders": [
+            "Table 3. Descriptive statistics for physical activity-related outcomes by group at baseline and",
+            "Comparison (n = 8)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "108.5 ±",
+          "rowHeaders": [
+            "Daily LPA"
+          ],
+          "columnHeaders": [
+            "Table 3. Descriptive statistics for physical activity-related outcomes by group at baseline and",
+            "Comparison (n = 8)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "47.9",
+          "rowHeaders": [
+            "Daily LPA"
+          ],
+          "columnHeaders": [
+            "Table 3. Descriptive statistics for physical activity-related outcomes by group at baseline and",
+            "Comparison (n = 8)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "0.76",
+          "rowHeaders": [
+            "Daily LPA"
+          ],
+          "columnHeaders": [
+            "Table 3. Descriptive statistics for physical activity-related outcomes by group at baseline and",
+            "Comparison (n = 8)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "464.4 ±",
+          "rowHeaders": [
+            "Daily SB"
+          ],
+          "columnHeaders": [
+            "Table 3. Descriptive statistics for physical activity-related outcomes by group at baseline and",
+            "Experimental (n = 12)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "50.7",
+          "rowHeaders": [
+            "Daily SB"
+          ],
+          "columnHeaders": [
+            "Table 3. Descriptive statistics for physical activity-related outcomes by group at baseline and",
+            "Experimental (n = 12)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "466.8 ±",
+          "rowHeaders": [
+            "Daily SB"
+          ],
+          "columnHeaders": [
+            "Table 3. Descriptive statistics for physical activity-related outcomes by group at baseline and",
+            "Experimental (n = 12)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "34.7",
+          "rowHeaders": [
+            "Daily SB"
+          ],
+          "columnHeaders": [
+            "Table 3. Descriptive statistics for physical activity-related outcomes by group at baseline and",
+            "Experimental (n = 12)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "449.2 ±",
+          "rowHeaders": [
+            "Daily SB"
+          ],
+          "columnHeaders": [
+            "Table 3. Descriptive statistics for physical activity-related outcomes by group at baseline and",
+            "Experimental (n = 12)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "54.9",
+          "rowHeaders": [
+            "Daily SB"
+          ],
+          "columnHeaders": [
+            "Table 3. Descriptive statistics for physical activity-related outcomes by group at baseline and",
+            "Comparison (n = 8)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "449.6 ±",
+          "rowHeaders": [
+            "Daily SB"
+          ],
+          "columnHeaders": [
+            "Table 3. Descriptive statistics for physical activity-related outcomes by group at baseline and",
+            "Comparison (n = 8)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "53.2",
+          "rowHeaders": [
+            "Daily SB"
+          ],
+          "columnHeaders": [
+            "Table 3. Descriptive statistics for physical activity-related outcomes by group at baseline and",
+            "Comparison (n = 8)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "0.82",
+          "rowHeaders": [
+            "Daily SB"
+          ],
+          "columnHeaders": [
+            "Table 3. Descriptive statistics for physical activity-related outcomes by group at baseline and",
+            "Comparison (n = 8)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "333.1 ±",
+          "rowHeaders": [
+            "Daily EE"
+          ],
+          "columnHeaders": [
+            "Table 3. Descriptive statistics for physical activity-related outcomes by group at baseline and",
+            "Experimental (n = 12)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "113.3",
+          "rowHeaders": [
+            "Daily EE"
+          ],
+          "columnHeaders": [
+            "Table 3. Descriptive statistics for physical activity-related outcomes by group at baseline and",
+            "Experimental (n = 12)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "359.9 ±",
+          "rowHeaders": [
+            "Daily EE"
+          ],
+          "columnHeaders": [
+            "Table 3. Descriptive statistics for physical activity-related outcomes by group at baseline and",
+            "Experimental (n = 12)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "147.4",
+          "rowHeaders": [
+            "Daily EE"
+          ],
+          "columnHeaders": [
+            "Table 3. Descriptive statistics for physical activity-related outcomes by group at baseline and",
+            "Experimental (n = 12)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "395.5 ±",
+          "rowHeaders": [
+            "Daily EE"
+          ],
+          "columnHeaders": [
+            "Table 3. Descriptive statistics for physical activity-related outcomes by group at baseline and",
+            "Experimental (n = 12)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "229.9",
+          "rowHeaders": [
+            "Daily EE"
+          ],
+          "columnHeaders": [
+            "Table 3. Descriptive statistics for physical activity-related outcomes by group at baseline and",
+            "Comparison (n = 8)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "418.0 ±",
+          "rowHeaders": [
+            "Daily EE"
+          ],
+          "columnHeaders": [
+            "Table 3. Descriptive statistics for physical activity-related outcomes by group at baseline and",
+            "Comparison (n = 8)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "188.9",
+          "rowHeaders": [
+            "Daily EE"
+          ],
+          "columnHeaders": [
+            "Table 3. Descriptive statistics for physical activity-related outcomes by group at baseline and",
+            "Comparison (n = 8)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "0.44",
+          "rowHeaders": [
+            "Daily EE"
+          ],
+          "columnHeaders": [
+            "Table 3. Descriptive statistics for physical activity-related outcomes by group at baseline and",
+            "Comparison (n = 8)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "4832.4 ±",
+          "rowHeaders": [
+            "Daily steps"
+          ],
+          "columnHeaders": [
+            "Table 3. Descriptive statistics for physical activity-related outcomes by group at baseline and",
+            "Experimental (n = 12)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "1816.4",
+          "rowHeaders": [
+            "Daily steps"
+          ],
+          "columnHeaders": [
+            "Table 3. Descriptive statistics for physical activity-related outcomes by group at baseline and",
+            "Experimental (n = 12)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "5175.1 ±",
+          "rowHeaders": [
+            "Daily steps"
+          ],
+          "columnHeaders": [
+            "Table 3. Descriptive statistics for physical activity-related outcomes by group at baseline and",
+            "Experimental (n = 12)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "2308.2",
+          "rowHeaders": [
+            "Daily steps"
+          ],
+          "columnHeaders": [
+            "Table 3. Descriptive statistics for physical activity-related outcomes by group at baseline and",
+            "Experimental (n = 12)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "4411.6 ±",
+          "rowHeaders": [
+            "Daily steps"
+          ],
+          "columnHeaders": [
+            "Table 3. Descriptive statistics for physical activity-related outcomes by group at baseline and",
+            "Experimental (n = 12)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "1624.7",
+          "rowHeaders": [
+            "Daily steps"
+          ],
+          "columnHeaders": [
+            "Table 3. Descriptive statistics for physical activity-related outcomes by group at baseline and",
+            "Comparison (n = 8)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "4746.0 ±",
+          "rowHeaders": [
+            "Daily steps"
+          ],
+          "columnHeaders": [
+            "Table 3. Descriptive statistics for physical activity-related outcomes by group at baseline and",
+            "Comparison (n = 8)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "2044.9",
+          "rowHeaders": [
+            "Daily steps"
+          ],
+          "columnHeaders": [
+            "Table 3. Descriptive statistics for physical activity-related outcomes by group at baseline and",
+            "Comparison (n = 8)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "0.76",
+          "rowHeaders": [
+            "Daily steps"
+          ],
+          "columnHeaders": [
+            "Table 3. Descriptive statistics for physical activity-related outcomes by group at baseline and",
+            "Comparison (n = 8)",
+            "10 Weeks"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "76.6 ±",
+          "rowHeaders": [
+            "Weight (kg)"
+          ],
+          "columnHeaders": [
+            "Table 4. Descriptive statistics for physiological and psychosocial variables by group at baseline and",
+            "Experimental (n = 12)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "13.3",
+          "rowHeaders": [
+            "Weight (kg)"
+          ],
+          "columnHeaders": [
+            "Table 4. Descriptive statistics for physiological and psychosocial variables by group at baseline and",
+            "Experimental (n = 12)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "76.9 ±",
+          "rowHeaders": [
+            "Weight (kg)"
+          ],
+          "columnHeaders": [
+            "Table 4. Descriptive statistics for physiological and psychosocial variables by group at baseline and",
+            "Experimental (n = 12)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "12.2",
+          "rowHeaders": [
+            "Weight (kg)"
+          ],
+          "columnHeaders": [
+            "Table 4. Descriptive statistics for physiological and psychosocial variables by group at baseline and",
+            "Experimental (n = 12)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "78.0 ±",
+          "rowHeaders": [
+            "Weight (kg)"
+          ],
+          "columnHeaders": [
+            "Table 4. Descriptive statistics for physiological and psychosocial variables by group at baseline and",
+            "Comparison (n = 8)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "22.6",
+          "rowHeaders": [
+            "Weight (kg)"
+          ],
+          "columnHeaders": [
+            "Table 4. Descriptive statistics for physiological and psychosocial variables by group at baseline and",
+            "Comparison (n = 8)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "78.0 ±",
+          "rowHeaders": [
+            "Weight (kg)"
+          ],
+          "columnHeaders": [
+            "Table 4. Descriptive statistics for physiological and psychosocial variables by group at baseline and",
+            "Comparison (n = 8)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "23.0",
+          "rowHeaders": [
+            "Weight (kg)"
+          ],
+          "columnHeaders": [
+            "Table 4. Descriptive statistics for physiological and psychosocial variables by group at baseline and",
+            "Comparison (n = 8)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "0.62",
+          "rowHeaders": [
+            "Weight (kg)"
+          ],
+          "columnHeaders": [
+            "Table 4. Descriptive statistics for physiological and psychosocial variables by group at baseline and",
+            "Comparison (n = 8)",
+            "p-Value b"
+          ]
+        },
+        {
+          "value": "39.8 ±",
+          "rowHeaders": [
+            "Body fat (%)"
+          ],
+          "columnHeaders": [
+            "Table 4. Descriptive statistics for physiological and psychosocial variables by group at baseline and",
+            "Experimental (n = 12)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "6.0",
+          "rowHeaders": [
+            "Body fat (%)"
+          ],
+          "columnHeaders": [
+            "Table 4. Descriptive statistics for physiological and psychosocial variables by group at baseline and",
+            "Experimental (n = 12)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "40.2 ±",
+          "rowHeaders": [
+            "Body fat (%)"
+          ],
+          "columnHeaders": [
+            "Table 4. Descriptive statistics for physiological and psychosocial variables by group at baseline and",
+            "Experimental (n = 12)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "5.4",
+          "rowHeaders": [
+            "Body fat (%)"
+          ],
+          "columnHeaders": [
+            "Table 4. Descriptive statistics for physiological and psychosocial variables by group at baseline and",
+            "Experimental (n = 12)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "36.0 ±",
+          "rowHeaders": [
+            "Body fat (%)"
+          ],
+          "columnHeaders": [
+            "Table 4. Descriptive statistics for physiological and psychosocial variables by group at baseline and",
+            "Comparison (n = 8)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "10.6",
+          "rowHeaders": [
+            "Body fat (%)"
+          ],
+          "columnHeaders": [
+            "Table 4. Descriptive statistics for physiological and psychosocial variables by group at baseline and",
+            "Comparison (n = 8)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "35.0 ±",
+          "rowHeaders": [
+            "Body fat (%)"
+          ],
+          "columnHeaders": [
+            "Table 4. Descriptive statistics for physiological and psychosocial variables by group at baseline and",
+            "Comparison (n = 8)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "10.8",
+          "rowHeaders": [
+            "Body fat (%)"
+          ],
+          "columnHeaders": [
+            "Table 4. Descriptive statistics for physiological and psychosocial variables by group at baseline and",
+            "Comparison (n = 8)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "0.12",
+          "rowHeaders": [
+            "Body fat (%)"
+          ],
+          "columnHeaders": [
+            "Table 4. Descriptive statistics for physiological and psychosocial variables by group at baseline and",
+            "Comparison (n = 8)",
+            "p-Value b"
+          ]
+        },
+        {
+          "value": "110.4 ±",
+          "rowHeaders": [
+            "Cardiorespiratory fitness"
+          ],
+          "columnHeaders": [
+            "Table 4. Descriptive statistics for physiological and psychosocial variables by group at baseline and",
+            "Experimental (n = 12)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "18.5",
+          "rowHeaders": [
+            "Cardiorespiratory fitness"
+          ],
+          "columnHeaders": [
+            "Table 4. Descriptive statistics for physiological and psychosocial variables by group at baseline and",
+            "Experimental (n = 12)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "105.7 ±",
+          "rowHeaders": [
+            "Cardiorespiratory fitness"
+          ],
+          "columnHeaders": [
+            "Table 4. Descriptive statistics for physiological and psychosocial variables by group at baseline and",
+            "Experimental (n = 12)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "21.7",
+          "rowHeaders": [
+            "Cardiorespiratory fitness"
+          ],
+          "columnHeaders": [
+            "Table 4. Descriptive statistics for physiological and psychosocial variables by group at baseline and",
+            "Experimental (n = 12)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "104.8 ±",
+          "rowHeaders": [
+            "Cardiorespiratory fitness"
+          ],
+          "columnHeaders": [
+            "Table 4. Descriptive statistics for physiological and psychosocial variables by group at baseline and",
+            "Comparison (n = 8)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "29.3",
+          "rowHeaders": [
+            "Cardiorespiratory fitness"
+          ],
+          "columnHeaders": [
+            "Table 4. Descriptive statistics for physiological and psychosocial variables by group at baseline and",
+            "Comparison (n = 8)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "100.3 ±",
+          "rowHeaders": [
+            "Cardiorespiratory fitness"
+          ],
+          "columnHeaders": [
+            "Table 4. Descriptive statistics for physiological and psychosocial variables by group at baseline and",
+            "Comparison (n = 8)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "21.6",
+          "rowHeaders": [
+            "Cardiorespiratory fitness"
+          ],
+          "columnHeaders": [
+            "Table 4. Descriptive statistics for physiological and psychosocial variables by group at baseline and",
+            "Comparison (n = 8)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "0.97",
+          "rowHeaders": [
+            "Cardiorespiratory fitness"
+          ],
+          "columnHeaders": [
+            "Table 4. Descriptive statistics for physiological and psychosocial variables by group at baseline and",
+            "Comparison (n = 8)",
+            "p-Value b"
+          ]
+        },
+        {
+          "value": "75.6 ±",
+          "rowHeaders": [
+            "Self-efficacy #"
+          ],
+          "columnHeaders": [
+            "Table 4. Descriptive statistics for physiological and psychosocial variables by group at baseline and",
+            "Experimental (n = 12)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "25.1",
+          "rowHeaders": [
+            "Self-efficacy #"
+          ],
+          "columnHeaders": [
+            "Table 4. Descriptive statistics for physiological and psychosocial variables by group at baseline and",
+            "Experimental (n = 12)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "67.9 ±",
+          "rowHeaders": [
+            "Self-efficacy #"
+          ],
+          "columnHeaders": [
+            "Table 4. Descriptive statistics for physiological and psychosocial variables by group at baseline and",
+            "Experimental (n = 12)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "26.5",
+          "rowHeaders": [
+            "Self-efficacy #"
+          ],
+          "columnHeaders": [
+            "Table 4. Descriptive statistics for physiological and psychosocial variables by group at baseline and",
+            "Experimental (n = 12)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "78.2 ±",
+          "rowHeaders": [
+            "Self-efficacy #"
+          ],
+          "columnHeaders": [
+            "Table 4. Descriptive statistics for physiological and psychosocial variables by group at baseline and",
+            "Comparison (n = 8)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "12.1",
+          "rowHeaders": [
+            "Self-efficacy #"
+          ],
+          "columnHeaders": [
+            "Table 4. Descriptive statistics for physiological and psychosocial variables by group at baseline and",
+            "Comparison (n = 8)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "71.8 ±",
+          "rowHeaders": [
+            "Self-efficacy #"
+          ],
+          "columnHeaders": [
+            "Table 4. Descriptive statistics for physiological and psychosocial variables by group at baseline and",
+            "Comparison (n = 8)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "14.8",
+          "rowHeaders": [
+            "Self-efficacy #"
+          ],
+          "columnHeaders": [
+            "Table 4. Descriptive statistics for physiological and psychosocial variables by group at baseline and",
+            "Comparison (n = 8)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "0.98",
+          "rowHeaders": [
+            "Self-efficacy #"
+          ],
+          "columnHeaders": [
+            "Table 4. Descriptive statistics for physiological and psychosocial variables by group at baseline and",
+            "Comparison (n = 8)",
+            "p-Value b"
+          ]
+        },
+        {
+          "value": "3.0 ±",
+          "rowHeaders": [
+            "Social support $"
+          ],
+          "columnHeaders": [
+            "Table 4. Descriptive statistics for physiological and psychosocial variables by group at baseline and",
+            "Experimental (n = 12)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "1.1",
+          "rowHeaders": [
+            "Social support $"
+          ],
+          "columnHeaders": [
+            "Table 4. Descriptive statistics for physiological and psychosocial variables by group at baseline and",
+            "Experimental (n = 12)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "2.7 ±",
+          "rowHeaders": [
+            "Social support $"
+          ],
+          "columnHeaders": [
+            "Table 4. Descriptive statistics for physiological and psychosocial variables by group at baseline and",
+            "Experimental (n = 12)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "1.3",
+          "rowHeaders": [
+            "Social support $"
+          ],
+          "columnHeaders": [
+            "Table 4. Descriptive statistics for physiological and psychosocial variables by group at baseline and",
+            "Experimental (n = 12)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "2.4 ±",
+          "rowHeaders": [
+            "Social support $"
+          ],
+          "columnHeaders": [
+            "Table 4. Descriptive statistics for physiological and psychosocial variables by group at baseline and",
+            "Comparison (n = 8)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "1.1",
+          "rowHeaders": [
+            "Social support $"
+          ],
+          "columnHeaders": [
+            "Table 4. Descriptive statistics for physiological and psychosocial variables by group at baseline and",
+            "Comparison (n = 8)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "3.0 ±",
+          "rowHeaders": [
+            "Social support $"
+          ],
+          "columnHeaders": [
+            "Table 4. Descriptive statistics for physiological and psychosocial variables by group at baseline and",
+            "Comparison (n = 8)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "1.1",
+          "rowHeaders": [
+            "Social support $"
+          ],
+          "columnHeaders": [
+            "Table 4. Descriptive statistics for physiological and psychosocial variables by group at baseline and",
+            "Comparison (n = 8)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "0.05",
+          "rowHeaders": [
+            "Social support $"
+          ],
+          "columnHeaders": [
+            "Table 4. Descriptive statistics for physiological and psychosocial variables by group at baseline and",
+            "Comparison (n = 8)",
+            "p-Value b"
+          ]
+        },
+        {
+          "value": "3.3 ±",
+          "rowHeaders": [
+            "Enjoyment $"
+          ],
+          "columnHeaders": [
+            "Table 4. Descriptive statistics for physiological and psychosocial variables by group at baseline and",
+            "Experimental (n = 12)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "0.5",
+          "rowHeaders": [
+            "Enjoyment $"
+          ],
+          "columnHeaders": [
+            "Table 4. Descriptive statistics for physiological and psychosocial variables by group at baseline and",
+            "Experimental (n = 12)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "3.2 ±",
+          "rowHeaders": [
+            "Enjoyment $"
+          ],
+          "columnHeaders": [
+            "Table 4. Descriptive statistics for physiological and psychosocial variables by group at baseline and",
+            "Experimental (n = 12)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "0.5",
+          "rowHeaders": [
+            "Enjoyment $"
+          ],
+          "columnHeaders": [
+            "Table 4. Descriptive statistics for physiological and psychosocial variables by group at baseline and",
+            "Experimental (n = 12)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "3.2 ±",
+          "rowHeaders": [
+            "Enjoyment $"
+          ],
+          "columnHeaders": [
+            "Table 4. Descriptive statistics for physiological and psychosocial variables by group at baseline and",
+            "Comparison (n = 8)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "0.6",
+          "rowHeaders": [
+            "Enjoyment $"
+          ],
+          "columnHeaders": [
+            "Table 4. Descriptive statistics for physiological and psychosocial variables by group at baseline and",
+            "Comparison (n = 8)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "3.3 ±",
+          "rowHeaders": [
+            "Enjoyment $"
+          ],
+          "columnHeaders": [
+            "Table 4. Descriptive statistics for physiological and psychosocial variables by group at baseline and",
+            "Comparison (n = 8)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "0.6",
+          "rowHeaders": [
+            "Enjoyment $"
+          ],
+          "columnHeaders": [
+            "Table 4. Descriptive statistics for physiological and psychosocial variables by group at baseline and",
+            "Comparison (n = 8)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "0.53",
+          "rowHeaders": [
+            "Enjoyment $"
+          ],
+          "columnHeaders": [
+            "Table 4. Descriptive statistics for physiological and psychosocial variables by group at baseline and",
+            "Comparison (n = 8)",
+            "p-Value b"
+          ]
+        },
+        {
+          "value": "2.0 ±",
+          "rowHeaders": [
+            "Barriers @"
+          ],
+          "columnHeaders": [
+            "Table 4. Descriptive statistics for physiological and psychosocial variables by group at baseline and",
+            "Experimental (n = 12)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "0.5",
+          "rowHeaders": [
+            "Barriers @"
+          ],
+          "columnHeaders": [
+            "Table 4. Descriptive statistics for physiological and psychosocial variables by group at baseline and",
+            "Experimental (n = 12)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "2.0 ±",
+          "rowHeaders": [
+            "Barriers @"
+          ],
+          "columnHeaders": [
+            "Table 4. Descriptive statistics for physiological and psychosocial variables by group at baseline and",
+            "Experimental (n = 12)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "0.5",
+          "rowHeaders": [
+            "Barriers @"
+          ],
+          "columnHeaders": [
+            "Table 4. Descriptive statistics for physiological and psychosocial variables by group at baseline and",
+            "Experimental (n = 12)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "2.1 ±",
+          "rowHeaders": [
+            "Barriers @"
+          ],
+          "columnHeaders": [
+            "Table 4. Descriptive statistics for physiological and psychosocial variables by group at baseline and",
+            "Comparison (n = 8)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "0.2",
+          "rowHeaders": [
+            "Barriers @"
+          ],
+          "columnHeaders": [
+            "Table 4. Descriptive statistics for physiological and psychosocial variables by group at baseline and",
+            "Comparison (n = 8)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "1.8 ±",
+          "rowHeaders": [
+            "Barriers @"
+          ],
+          "columnHeaders": [
+            "Table 4. Descriptive statistics for physiological and psychosocial variables by group at baseline and",
+            "Comparison (n = 8)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "0.4",
+          "rowHeaders": [
+            "Barriers @"
+          ],
+          "columnHeaders": [
+            "Table 4. Descriptive statistics for physiological and psychosocial variables by group at baseline and",
+            "Comparison (n = 8)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "0.04",
+          "rowHeaders": [
+            "Barriers @"
+          ],
+          "columnHeaders": [
+            "Table 4. Descriptive statistics for physiological and psychosocial variables by group at baseline and",
+            "Comparison (n = 8)",
+            "p-Value b"
+          ]
+        },
+        {
+          "value": "4.1 ±",
+          "rowHeaders": [
+            "Outcome expectancy $"
+          ],
+          "columnHeaders": [
+            "Table 4. Descriptive statistics for physiological and psychosocial variables by group at baseline and",
+            "Experimental (n = 12)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "0.5",
+          "rowHeaders": [
+            "Outcome expectancy $"
+          ],
+          "columnHeaders": [
+            "Table 4. Descriptive statistics for physiological and psychosocial variables by group at baseline and",
+            "Experimental (n = 12)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "3.9 ±",
+          "rowHeaders": [
+            "Outcome expectancy $"
+          ],
+          "columnHeaders": [
+            "Table 4. Descriptive statistics for physiological and psychosocial variables by group at baseline and",
+            "Experimental (n = 12)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "0.5",
+          "rowHeaders": [
+            "Outcome expectancy $"
+          ],
+          "columnHeaders": [
+            "Table 4. Descriptive statistics for physiological and psychosocial variables by group at baseline and",
+            "Experimental (n = 12)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "4.0 ±",
+          "rowHeaders": [
+            "Outcome expectancy $"
+          ],
+          "columnHeaders": [
+            "Table 4. Descriptive statistics for physiological and psychosocial variables by group at baseline and",
+            "Comparison (n = 8)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "0.6",
+          "rowHeaders": [
+            "Outcome expectancy $"
+          ],
+          "columnHeaders": [
+            "Table 4. Descriptive statistics for physiological and psychosocial variables by group at baseline and",
+            "Comparison (n = 8)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "4.0 ±",
+          "rowHeaders": [
+            "Outcome expectancy $"
+          ],
+          "columnHeaders": [
+            "Table 4. Descriptive statistics for physiological and psychosocial variables by group at baseline and",
+            "Comparison (n = 8)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "0.6",
+          "rowHeaders": [
+            "Outcome expectancy $"
+          ],
+          "columnHeaders": [
+            "Table 4. Descriptive statistics for physiological and psychosocial variables by group at baseline and",
+            "Comparison (n = 8)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "0.34",
+          "rowHeaders": [
+            "Outcome expectancy $"
+          ],
+          "columnHeaders": [
+            "Table 4. Descriptive statistics for physiological and psychosocial variables by group at baseline and",
+            "Comparison (n = 8)",
+            "p-Value b"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "1.1 ±",
+          "rowHeaders": [
+            "Physical functioning **"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Experimental (n = 12)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "0.2",
+          "rowHeaders": [
+            "Physical functioning **"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Experimental (n = 12)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "1.1 ±",
+          "rowHeaders": [
+            "Physical functioning **"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Experimental (n = 12)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "0.2",
+          "rowHeaders": [
+            "Physical functioning **"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Experimental (n = 12)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "1.2 ±",
+          "rowHeaders": [
+            "Physical functioning **"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Comparison (n = 8)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "0.2",
+          "rowHeaders": [
+            "Physical functioning **"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Comparison (n = 8)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "1.1 ±",
+          "rowHeaders": [
+            "Physical functioning **"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Comparison (n = 8)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "0.2",
+          "rowHeaders": [
+            "Physical functioning **"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Comparison (n = 8)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "0.78",
+          "rowHeaders": [
+            "Physical functioning **"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Comparison (n = 8)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "1.8 ±",
+          "rowHeaders": [
+            "Anxiety **"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Experimental (n = 12)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "0.8",
+          "rowHeaders": [
+            "Anxiety **"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Experimental (n = 12)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "2.0 ±",
+          "rowHeaders": [
+            "Anxiety **"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Experimental (n = 12)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "0.8",
+          "rowHeaders": [
+            "Anxiety **"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Experimental (n = 12)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "1.7 ±",
+          "rowHeaders": [
+            "Anxiety **"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Comparison (n = 8)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "0.7",
+          "rowHeaders": [
+            "Anxiety **"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Comparison (n = 8)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "1.5 ±",
+          "rowHeaders": [
+            "Anxiety **"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Comparison (n = 8)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "0.7",
+          "rowHeaders": [
+            "Anxiety **"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Comparison (n = 8)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "0.19",
+          "rowHeaders": [
+            "Anxiety **"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Comparison (n = 8)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "1.2 ±",
+          "rowHeaders": [
+            "Depression **"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Experimental (n = 12)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "0.3",
+          "rowHeaders": [
+            "Depression **"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Experimental (n = 12)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "1.4 ±",
+          "rowHeaders": [
+            "Depression **"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Experimental (n = 12)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "0.4",
+          "rowHeaders": [
+            "Depression **"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Experimental (n = 12)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "1.1 ±",
+          "rowHeaders": [
+            "Depression **"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Comparison (n = 8)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "0.3",
+          "rowHeaders": [
+            "Depression **"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Comparison (n = 8)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "1.1 ±",
+          "rowHeaders": [
+            "Depression **"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Comparison (n = 8)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "0.1",
+          "rowHeaders": [
+            "Depression **"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Comparison (n = 8)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "0.41",
+          "rowHeaders": [
+            "Depression **"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Comparison (n = 8)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "2.3 ±",
+          "rowHeaders": [
+            "Fatigue **"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Experimental (n = 12)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "1.0",
+          "rowHeaders": [
+            "Fatigue **"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Experimental (n = 12)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "2.3 ±",
+          "rowHeaders": [
+            "Fatigue **"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Experimental (n = 12)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "0.8",
+          "rowHeaders": [
+            "Fatigue **"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Experimental (n = 12)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "2.4 ±",
+          "rowHeaders": [
+            "Fatigue **"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Comparison (n = 8)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "0.6",
+          "rowHeaders": [
+            "Fatigue **"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Comparison (n = 8)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "2.2 ±",
+          "rowHeaders": [
+            "Fatigue **"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Comparison (n = 8)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "0.9",
+          "rowHeaders": [
+            "Fatigue **"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Comparison (n = 8)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "0.31",
+          "rowHeaders": [
+            "Fatigue **"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Comparison (n = 8)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "3.1 ±",
+          "rowHeaders": [
+            "Sleep quality **"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Experimental (n = 12)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "0.9",
+          "rowHeaders": [
+            "Sleep quality **"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Experimental (n = 12)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "3.3 ±",
+          "rowHeaders": [
+            "Sleep quality **"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Experimental (n = 12)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "0.6",
+          "rowHeaders": [
+            "Sleep quality **"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Experimental (n = 12)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "3.6 ±",
+          "rowHeaders": [
+            "Sleep quality **"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Comparison (n = 8)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "0.9",
+          "rowHeaders": [
+            "Sleep quality **"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Comparison (n = 8)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "3.5 ±",
+          "rowHeaders": [
+            "Sleep quality **"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Comparison (n = 8)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "0.9",
+          "rowHeaders": [
+            "Sleep quality **"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Comparison (n = 8)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "0.62",
+          "rowHeaders": [
+            "Sleep quality **"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Comparison (n = 8)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "2.8 ±",
+          "rowHeaders": [
+            "Sleep disturbances **"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Experimental (n = 12)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "0.6",
+          "rowHeaders": [
+            "Sleep disturbances **"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Experimental (n = 12)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "2.5 ±",
+          "rowHeaders": [
+            "Sleep disturbances **"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Experimental (n = 12)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "0.4",
+          "rowHeaders": [
+            "Sleep disturbances **"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Experimental (n = 12)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "2.5 ±",
+          "rowHeaders": [
+            "Sleep disturbances **"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Comparison (n = 8)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "0.5",
+          "rowHeaders": [
+            "Sleep disturbances **"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Comparison (n = 8)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "2.5 ±",
+          "rowHeaders": [
+            "Sleep disturbances **"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Comparison (n = 8)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "0.4",
+          "rowHeaders": [
+            "Sleep disturbances **"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Comparison (n = 8)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "0.64",
+          "rowHeaders": [
+            "Sleep disturbances **"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Comparison (n = 8)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "2.0 ±",
+          "rowHeaders": [
+            "Social roles/activities limitations **"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Experimental (n = 12)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "0.9",
+          "rowHeaders": [
+            "Social roles/activities limitations **"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Experimental (n = 12)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "1.8 ±",
+          "rowHeaders": [
+            "Social roles/activities limitations **"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Experimental (n = 12)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "0.7",
+          "rowHeaders": [
+            "Social roles/activities limitations **"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Experimental (n = 12)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "1.9 ±",
+          "rowHeaders": [
+            "Social roles/activities limitations **"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Comparison (n = 8)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "0.7",
+          "rowHeaders": [
+            "Social roles/activities limitations **"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Comparison (n = 8)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "1.9 ±",
+          "rowHeaders": [
+            "Social roles/activities limitations **"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Comparison (n = 8)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "0.5",
+          "rowHeaders": [
+            "Social roles/activities limitations **"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Comparison (n = 8)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "0.64",
+          "rowHeaders": [
+            "Social roles/activities limitations **"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Comparison (n = 8)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "1.5 ±",
+          "rowHeaders": [
+            "Pain limitations **"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Experimental (n = 12)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "0.5",
+          "rowHeaders": [
+            "Pain limitations **"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Experimental (n = 12)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "1.5 ±",
+          "rowHeaders": [
+            "Pain limitations **"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Experimental (n = 12)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "0.6",
+          "rowHeaders": [
+            "Pain limitations **"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Experimental (n = 12)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "1.4 ±",
+          "rowHeaders": [
+            "Pain limitations **"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Comparison (n = 8)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "0.5",
+          "rowHeaders": [
+            "Pain limitations **"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Comparison (n = 8)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "1.4 ±",
+          "rowHeaders": [
+            "Pain limitations **"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Comparison (n = 8)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "0.4",
+          "rowHeaders": [
+            "Pain limitations **"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Comparison (n = 8)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "1.0",
+          "rowHeaders": [
+            "Pain limitations **"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Comparison (n = 8)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "1.8 ±",
+          "rowHeaders": [
+            "Pain intensity &"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Experimental (n = 12)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "1.0",
+          "rowHeaders": [
+            "Pain intensity &"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Experimental (n = 12)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "1.8 ±",
+          "rowHeaders": [
+            "Pain intensity &"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Experimental (n = 12)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "1.8",
+          "rowHeaders": [
+            "Pain intensity &"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Experimental (n = 12)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "2.0 ±",
+          "rowHeaders": [
+            "Pain intensity &"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Comparison (n = 8)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "1.9",
+          "rowHeaders": [
+            "Pain intensity &"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Comparison (n = 8)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "1.8 ±",
+          "rowHeaders": [
+            "Pain intensity &"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Comparison (n = 8)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "1.4",
+          "rowHeaders": [
+            "Pain intensity &"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Comparison (n = 8)",
+            "10 Weeks"
+          ]
+        },
+        {
+          "value": "0.97",
+          "rowHeaders": [
+            "Pain intensity &"
+          ],
+          "columnHeaders": [
+            "Table 5. Descriptive statistics for quality of life outcomes by group at baseline and 10 weeks * ,a .",
+            "Comparison (n = 8)",
+            "10 Weeks"
+          ]
+        }
+      ],
+      "page": 1
+    }
+  ]
+}

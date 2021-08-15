@@ -31,17 +31,17 @@ public class ParametricGraphKerasDataPreparation extends PredictionWorkflow {
     private static final Logger log = LoggerFactory.getLogger(ParametricGraphKerasDataPreparation.class);
 
     public ParametricGraphKerasDataPreparation(AttributeValueCollection<? extends ArmifiedAttributeValuePair> values,
-                        AttributeValueCollection<? extends ArmifiedAttributeValuePair> annotations,
-                        TrainTestSplitter splitter,
-                        Properties props,
-                        String pubmedPath,
-                        String concatenatedNodeWordPath,
-                        boolean withWords, String contextVecFile) throws IOException {
+                                               AttributeValueCollection<? extends ArmifiedAttributeValuePair> annotations,
+                                               TrainTestSplitter splitter,
+                                               Properties props,
+                                               String pubmedPath,
+                                               String concatenatedNodeWordPath,
+                                               boolean withWords, String contextVecFile) throws IOException {
         super(values, annotations, splitter, props);
         getInstancesManager().initWithPreTrainedWordVecs(pubmedPath, concatenatedNodeWordPath);
         this.withWords = withWords;
         if (contextVecFile != null)
-            contextVecs = loadContextVecs(contextVecFile);                
+            contextVecs = loadContextVecs(contextVecFile);
     }
 
     final private WordVecs loadContextVecs(String contextVecFile) throws FileNotFoundException {
@@ -52,11 +52,11 @@ public class ParametricGraphKerasDataPreparation extends PredictionWorkflow {
     public void prepareData(String outNodeVecFileName, String trainFile, String testFile) throws IOException {
         prepareData(outNodeVecFileName, trainFile, testFile, false);
     }
-    
+
     public void prepareData(String outNodeVecFileName, String trainFile, String testFile, boolean extracted) throws IOException {
         boolean includeTextAttribs = false;
         NodeVecs ndvecs = null;
-        
+
         if (outNodeVecFileName != null) {
             final RelationGraphBuilder rgb = new RelationGraphBuilder(props, getTrainAVPs());
             final AttribNodeRelations graph = rgb.getGraph(true);
@@ -67,12 +67,12 @@ public class ParametricGraphKerasDataPreparation extends PredictionWorkflow {
         }
 
         //System.out.println("ndvecs = " + ndvecs.getDimension());
-        
+
         int startArmId = !extracted? 0: 1000; // a big enough number
         getInstancesManager().writeTrainTestFiles(
                 trainFile, getTrainingDocs(), testFile, getTestDocs(),
                 includeTextAttribs, ndvecs, withWords, contextVecs, startArmId);
-        
+
         System.out.println("oov% = " + getInstancesManager().oov());
 
         // will need to evaluate after keras has run... so no evaluation here
@@ -82,13 +82,13 @@ public class ParametricGraphKerasDataPreparation extends PredictionWorkflow {
     private List<String> getTestDocs() { return docnamesTrainTest.getRight(); }
 
     public static ParametricGraphKerasDataPreparation prepareData(Properties props,
-            AttributeValueCollection<ArmifiedAttributeValuePair> annotations,
-            String nodeTextConactDictFile) throws IOException {
+                                                                  AttributeValueCollection<ArmifiedAttributeValuePair> annotations,
+                                                                  String nodeTextConactDictFile) throws IOException {
         boolean withWords = Boolean.parseBoolean(props.getProperty("seqmodel.use_text", "true"));
-        
+
         // A string parameter to indicate the context vector file (for the time being Bio-BERT).
         String contextVecsPath = props.getProperty("context.vecs");
-        
+
         float trainRatio = Float.parseFloat(props.getProperty("prediction.train.ratio", "1.0"));
 
         log.info("Preparing graph embeddings for prediction model...");
@@ -103,21 +103,23 @@ public class ParametricGraphKerasDataPreparation extends PredictionWorkflow {
                 withWords,
                 contextVecsPath
         );
-        return flow;        
+        return flow;
     }
-    
+
     public static void main(String[] args) throws IOException {
-        
+
         String additionalProps = args.length>0? args[0]: null;
         Properties extraProps = new Properties();
         if (additionalProps != null) {
             extraProps.load(new FileReader(additionalProps)); // overriding arguments
         }
         Properties props = Props.overrideProps(Props.loadProperties(), extraProps);
-        
-        AttributeValueCollection<AnnotatedAttributeValuePair> annotations = new JSONRefParser(props).getAttributeValuePairs();
+
+        // the prop file defined above shouldn't override "ref.json", so the method called next is right to ignore these props
+        AttributeValueCollection<AnnotatedAttributeValuePair> annotations = JSONRefParser.loadAnnotationsForPredictionTraining();
+        log.info("Annotation stats for prediction training: {} entities in {} documents", annotations.size(), annotations.getDocNames().size());
         String nodeTextConactDictFile = props.getProperty("seqmodel.modified_dict", "prediction/graphs/nodevecs/nodes_and_words.vec");
-        
+
         ParametricGraphKerasDataPreparation flow = prepareData(props, AttributeValueCollection.cast(annotations), nodeTextConactDictFile);
 
         final String defaultDir = props.getProperty("out.seqfiles.dir", "prediction/sentences/");
@@ -127,7 +129,7 @@ public class ParametricGraphKerasDataPreparation extends PredictionWorkflow {
         boolean useGraph = Boolean.parseBoolean(props.getProperty("seqmodel.use_graph", "true"));
         if (!useGraph)
             outNodeVecFileName = null;
-        
+
         flow.prepareData(outNodeVecFileName, trainFile, testFile);
     }
 }

@@ -1,0 +1,2730 @@
+{
+  "blocks": [
+    {
+      "type": "LINES",
+      "value": "Short-term efficacy of a computer-tailored physical activity intervention for prostate and colorectal cancer patients and survivors: a randomized controlled trial",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Background: Physical activity (PA) is beneficial in improving negative physical and psychological effects of cancer and cancer treatment, but adherence to PA guidelines is low. Computer-tailored PA interventions can reach large populations with little resources. They match with patients' preference for home-based, unsupervised PA programs and are thus promising for the growing population of cancer survivors. The current study assessed the efficacy of a computer-tailored PA intervention in (four subgroups of) prostate and colorectal cancer survivors.",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Methods: Prostate and colorectal cancer patients and survivors were randomized to the OncoActive intervention group (N = 249), or a usual-care waiting-list control group (N = 229). OncoActive participants received a pedometer and computer-tailored PA advice, both Web-based via an interactive website and with printed materials. Minutes moderate-to-vigorous PA (MVPA) and days ≥30 min PA were assessed with an accelerometer (ActiGraph) at baseline and 6 months. Further, questionnaires were used to assess self-reported PA, fatigue, distress, and quality of life at baseline, 3 and 6 months. Differences between both groups were assessed using linear regression analyses (complete cases and intention-to-treat). In addition, efficacy in relation to age, gender, education, type of cancer, and time since treatment was examined. Results: Three months after baseline OncoActive participants significantly increased their self-reported PA (PA days: d = 0.46; MVPA: d = 0.23). Physical functioning (d = 0.23) and fatigue (d = − 0.21) also improved significantly after three months. Six months after baseline, self-reported PA (PA days: d = 0.51; MVPA: d = 0.37) and ActiGraph MVPA (d = 0.27) increased significantly, and ActiGraph days (d = 0.16) increased borderline significantly (p = .05; d = 0.16). Furthermore, OncoActive participants reported significantly improvements in physical functioning (d = 0.14), fatigue (d = − 0.23) and depression (d = − 0.32). Similar results were found for intention-to-treat analyses. Higher increases in PA were found for colorectal cancer participants at 3 months, and for medium and highly educated participants' PA at 6 months. Health outcomes at 6 months were more prominent in colorectal cancer participants and in women.\n(Continued on next page)\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Physical activity (PA) has numerous benefits for cancer patients and survivors. Positive effects have been reported for physical and psychological variables, such as cardiorespiratory fitness, muscle strength, fatigue, anxiety, depression, pain, physical functioning and thereby health-related quality of life (HRQoL). PA is also a preventive factor for other chronic diseases (e.g., cardiovascular disease, diabetes, osteoporosis) for which cancer survivors have an increased risk. Research has provided indications that PA is inversely associated with cancer-recurrence, development of secondary cancer and cancer mortality as well as overall mortality.\nDespite all these benefits, the majority of cancer survivors do not meet PA guidelines, with self-reported rates ranging from 30 to 47%, and accelerometer-measured rates being even lower (Golsteijn RHJ, Berendsen BAJ, Bolman C, Volders E, Lechner L: Cross-sectional and longitudinal measurement of physical activity in prostate and colorectal cancer patients and survivors: a validation and responsiveness study, submitted). Moreover, PA behavior declines during treatment, does not reach pre-treatment levels after completing treatment and is lower for cancer survivors in comparison to the general population. In combination with cancer survivors' need for healthy lifestyle information, this emphasizes the importance of developing effective programs to increase PA in cancer survivorship.\nIn 2012, over 14 million people were newly diagnosed with cancer worldwide and this is expected to rise in the upcoming decades as a result of aging and advances in early detection. With advances in cancer treatment and early diagnosis, survival rates are improving and will result in an increasing population living after, and thus with the negative sequelae of cancer. Thus, broad-reaching (i.e., non-face-to-face) PA programs, aimed at self-management, which can be provided in a cost-effective way, are especially important.\nEvidence for the efficacy of PA interventions in improving cancer outcomes and treatment related side effects (e.g., fatigue, depression) and HRQoL is extensive, but mostly originates from interventions delivered face-to-face in a clinical or exercise setting. Such programs often report larger effect sizes compared to non-face-to-face interventions, but also come with considerable costs and it maybe more difficult to implement them on a large scale. Few of such programs, however, examined effects with regard to PA behavior. Possibly, because they are not aimed at integrating PA into daily life and may lack real world application after ending the program. In addition, cancer survivors have a preference for home-based programs. Hence, it is promising that reviews regarding interventions using non-face-to-face modalities (e.g., telephone, (tailored) print materials or internet) in general and digital interventions explicitly reported increases in PA and decreases in fatigue. Such interventions are much easier scalable to large settings and thus have the potential to reach large populations at relatively low costs.\nConsidering the advantages in terms of resources required, both for patients (time and travel) and care providers and the scalability, eHealth in particular, can provide important efforts in providing easily accessible PA interventions. Especially, since internet access and use are increasing in developed countries. In addition, perceived relevance can be increased by personalizing PA information through computer-tailoring, resulting in increased efficacy of such interventions. Nevertheless, we found that providing interventions only through the internet may exclude vulnerable sub-groups in a cancer population, such as those who are older, less educated, more fatigued or undergoing treatments. Providing print-based tailored materials in addition to the online materials can be considered a solution to include these subgroups. Accordingly, the OncoActive (OncoActief in Dutch) intervention was developed: a computer-tailored PA program providing PA advice online and with printed materials. Participants received automatically generated personalised feedback regarding PA and psychosocial determinants of PA at three time points. The content is aimed at the stimulating PA in daily life. To increase the probability of behavior change, the intervention is based on behavioral change theories and on a demonstrated effective intervention for adults aged over fifty years. The aim of this study is to gain insight into the efficacy of the OncoActive intervention to increase PA.\nSince the majority of evidence of PA interventions is currently based on trials conducted in breast cancer populations, there is need for interventions targeting other common cancer types in order to improve cancer care in all cancer types. Therefore, the intervention was targeted at prostate and colorectal cancer, as these have a high incidence and good survival rates. By selecting only these two cancer types, we could better fine-tune the intervention to the specific PA needs and capabilities of the target group.\nThe purpose of the current study was to evaluate the efficacy of the OncoActive intervention at 3 months (during the intervention) and at 6 months (2 months after the intervention ended). As the intervention was aimed at increasing PA, the primary outcome is change in PA, assessed both for self-reported and accelerometer-measured PA. It was hypothesized that the intervention group would increase their PA more compared to the usual care group. As PA is also related to health-related outcomes of cancer patients and survivors it was also hypothesized that the intervention group would decrease their fatigue, anxiety and depression and increase their physical functioning and overall HRQoL. Although the intervention was individually tailored, it might be that not all subgroups of participants respond similarly to the intervention. Therefore, we exploratively examined whether the efficacy differed forage, gender, education level, cancer type (i.e., prostate and colorectal) and time since treatment.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "A parallel-group, randomized controlled trial (RCT), in which participants were allocated to either the OncoActive intervention group or a usual care waiting list control group (ratio 1:1) was conducted. Randomization was automatically performed by means of a digital randomizer after centralized registration of participants. Due to the nature of the study, it was not possible or necessary to blind participants or the researchers. The RCT was approved by the Medical Ethics Committee of the Zuyderland hospital (NL47678.096.14) and is registered in the Dutch Trial Register (NTR4296). All participants provided written informed consent.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Cancer patients and survivors (≥18 years) diagnosed with colorectal or prostate cancer could participate in the trial if they were undergoing treatment with a curative intent, or if they successfully completed primary treatment (surgery, chemotherapy or radiation) up to one year ago. They had to beat least 6 weeks post-surgery and there were no restrictions regarding patients undergoing hormonal therapy. Participants with severe medical, psychiatric or cognitive illness (e.g., Alzheimer's disease, severe mobility limitations) were excluded from participation. Proficient Dutch reading and speaking skills were required for the questionnaires and for reading the tailored PA advice.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Over 12 months (in 2015 and 2016) prostate and colorectal cancer patients and survivors were recruited from the urology and/or oncology departments of seventeen hospitals throughout the Netherlands. Eligible participants were identified by hospital staff, verbally informed (either in person or by telephone) about the study, and invited to receive an information package. This written information was handed over or sent by mail. Additionally, cancer patients and survivors were invited via other channels (e.g., calls in local newspapers, on relevant websites, discussion groups, and flyers in hospitals). The researchers informed the interested participants, checked their eligibility, and provided them with an information package by mail.\nThe information package contained an information letter with a timeline of the study, an informed-consent form and a pre-paid return envelope. One postal reminder was sent after three weeks if there was no response to the information package. Cancer patients and survivors who agreed to participate were randomized into either the intervention group or the control group (usual care). Subsequently, baseline PA was assessed with an accelerometer (Actigraph GT3X-BT). Afterwards, participants received an online and paper-based questionnaire with the choice to fill out their preferred format. The intervention group received the OncoActive intervention after completing this baseline questionnaire (T0). Both groups filled-out follow-up questionnaires at three time points: 3 (T1), 6 (T2) and 12 (T3) months after baseline. Accelerometer PA measurements were conducted in the week prior to the T2 and T3 questionnaires. The usual care control group received the OncoActive intervention after completing the last measurement (T3).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The OncoActive intervention is a computer-tailored intervention aimed at increasing awareness, initiation and maintenance of PA in prostate and colorectal cancer patients and survivors. The intervention was based on a demonstrated effective intervention to stimulate PA in adults overage fifty and adapted for prostate and colorectal cancer patients and survivors of all ages using the Intervention Mapping protocol. The content was structured inline with behavioral change theories such as the I-Change Model, Social Cognitive Theory, Transtheoretical Model, Health Belief model, goal setting theories, Health Action Process Approach, theories of self-regulation and the Precaution Adoption Process Model.\nParticipants in the intervention group received computer-tailored PA advice at three time points (at baseline, after 2 months and after 3 months) both online on a secured website and on paper (by mail). The advice was generated automatically using a message library, questonnaire data and computer-based data-driven decision rules. The content of the first and second tailored advice was based on information gathered with the baseline questionnaire. Both the baseline (T0) and the second questionnaire (T1) provided input for the third tailored advice and allowed for the provision of ipsative feedback. The content of the advice was based on behavior change theories and targets pre-motivational constructs (e.g., awareness, knowledge), motivational constructs (e.g., self-efficacy, attitude, intrinsic motivation), and post-motivational constructs (e.g., goal setting, action and coping planning, self-regulation). In addition to the tailored advice, every participant received a pedometer and access to interactive content on the website (e.g., role model videos, home exercise instruction videos, a module for goal setting using a pedometer, the option to consult a physical therapist and additional information). A more detailed description of the intervention content can be found elsewhere. Use of the advice was examined through self-report. Percentages of participants reporting not having read any advice ranged from 0.6 to 6.1% time point.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "As it was the main goal of the OncoActive intervention to improve PA, the primary outcome is PA behavior. Health-outcomes including fatigue, distress and HRQoL are examined as secondary outcomes.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The hypothesis that the intervention group would increase their PA, was confirmed by the finding that OncoActive participants increased both in MVPA and in the number of days on which they were physically active for at least 30 min. As mentioned, PA was measured both with an accelerometer and with a self-report questionnaire as both measures have strengths and weaknesses (Golsteijn RHJ, Berendsen BAJ, Bolman C, Volders E, Lechner L: Cross-sectional and longitudinal measurement of physical activity in prostate and colorectal cancer patients and survivors: a validation and responsiveness study, submitted). With regard to MVPA, it was noted that although the absolute increase was substantially higher for self-reported PA compared to PA assessed by the ActiGraph, findings were clearly in the same direction (Additional file 1)., the OncoActive intervention thus seems to be highly effective in increasing PA. Intervention studies using accelerometer-measured PA as outcome variables are lacking, therefore it is recommended to include them in future studies. Several explanations can be provided for the substantial differences between both PA measures. Self-report questionnaires are known for their probability of over-reporting, whereas accelerometers are notable to measure certain activities properly (e.g., swimming, cycling, upper body movement), and they cannot assess the type of PA (e.g., leisure time PA, PA for transportation, occupational PA). In addition, ActiGraph outcomes regarding light, moderate and vigorous PA are based on cut-points developed for healthy adults. However, as cancer patients and survivors may have decreased physical fitness they possibly perceive certain activities as moderately intensive, whereas the Actigraph classifies them as light activities (Golsteijn RHJ, Berendsen BAJ, Bolman C, Volders E, Lechner L: Cross-sectional and longitudinal measurement of physical activity in prostate and colorectal cancer patients and survivors: a validation and responsiveness study, submitted).\nEffect sizes for MVPA were small (0.23-0.37), yet comparable to other studies. Effect sizes for the Active Plus intervention (healthy adults aged over fifty), from which the OncoActive intervention was developed, also ranged from 0.23 to 0.35. Meta-analyses regarding computer-tailored and web-based PA interventions for healthy and diseased adult populations found average Cohen's d of 0.14 and Hedge's g of 0.16. Kanera et al. also found a comparable Cohen's d of 0.25 for moderate PA in a multiple lifestyle eHealth intervention for cancer survivors. A review regarding broad-reach modality PA interventions for cancer survivors found effect sizes for MVPA outcomes in the same range as the current study. Besides MVPA, days on which participants were physically active for at least 30 min were also examined. Significant increases were found for self-report at 3 and 6 months, but the ActiGraph measured outcome at 6 months was only borderline significant (p = .05). Again, this can possibly be explained by the nature of the two measurements. Besides the earlier mentioned discrepancies in classifying light and moderate intensity PA, it might also be difficult to exactly estimate time in self-report. If someone is physically active for 25 min, one might experience this as being physically active for at least 30 min and thus report it accordingly. Since the ActiGraph measures and classifies every single minute, such a day would not be included in the ActiGraph measure for days with ≥30 min PA, resulting in a discrepancy between both measures.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Besides being effective in increasing PA, it was also hypothesized that the OncoActive intervention would improve health-related outcomes such as fatigue, HRQoL and distress. This hypothesis was partially confirmed by the findings of the current study as significant improvements were found for fatigue, depression and physical functioning, but not for anxiety and general HRQoL.\nFatigue levels of OncoActive participants decreased significantly during the intervention period and decreased even further during the second part of the intervention period, resulting in significantly less fatigue two months after the last tailored advice. This is in accordance with findings in several systematic reviews on health outcomes such as fatigue among cancer patients. However, most of the studies in these reviews are supervised exercise trials with a health outcome like fatigue as the primary outcome measure. Such trials are often aimed at improving health outcomes instead of improving PA. The main aim of the current study, which would be classified as a behavior change trial by Courneya, was to improve PA, with fatigue and other health outcomes being secondary outcomes. As a meta-analysis regarding digital behavior change interventions in cancer survivors only found a non-significant trend towards decreased fatigue, it is very promising that the OncoActive intervention was able to improve fatigue.\nReviews from Mishra et al. and Sweegers et al. found that exercise interventions are able to establish significant benefits with regard to general HRQoL. However, for the OncoActive intervention no improvement in overall HRQoL was observed. Similarly, Roberts et al. also did not find improvements in HRQoL for digital behavior change interventions. A possible explanation for not finding any effects regarding HRQoL could be the high baseline scores of our study population. Both the intervention group and the control group had general HRQoL baseline scores above 80 (on a 0-100 scale). With such high baseline scores, it maybe difficult to improve further. Also, baseline scores in our study were higher than in other studies that did find significant improvements in HRQoL.\nNevertheless, physical functioning did improve significantly in OncoActive participants both during and after the intervention period, indicating that OncoActive may accelerate cancer recovery, especially since the effects were more apparent during the first 3 months of the intervention. The absence of a similar improvement for 3 to 6 months after baseline, maybe due to ceiling effects, as the levels of physical functioning were already high at the 3 month measurement (i.e., 89.6 on a scale from 0 to 100 in the intervention group). A systematic review also reported improvements in physical functioning through homeand community-based PA programs with effect sizes ranging from .17 to .45, with larger effect sizes for community-based programs with group meetings. Thus, it can be concluded that effect sizes found for the OncoActive intervention (0.23 at 3 months and 0.14 at 6 months) are in the same range of home-based PA programs without group meetings.\nFindings in the literature regarding anxiety and depression are mixed. Some reviews and studies reported improvements in anxiety, whereas others reported improvements in depression. For the OncoActive intervention, no significant improvements were found regarding anxiety. For depression we found a significant improvement in the intervention group. However, even though we corrected for baseline differences in depression symptoms, this finding should be interpreted with caution as the intervention group had a significant higher depression score at baseline. As a result, regression to the mean might have influenced our results.\nIn general, it is promising that a computer-tailored intervention, which can be provided to a relatively large population at relatively low costs, is able to improve treatment-related side effects and thereby cancer recovery. Future research should focus on reaching and assessing long term maintenance of intervention effects.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Demographic and cancer-related characteristics including age, gender, body mass index (BMI), educational level, type of cancer, type of treatment (e.g., surgery, chemotherapy, radiotherapy and hormonal treatment), treatment phase (during or after) and elapsed time since final treatment were assessed in the baseline questionnaire. Educational level was categorized into low (i.e., primary, basic vocational, or lower general school), moderate (i.e., medium vocational school, higher general secondary education, and preparatory academic education), or high (i.e., higher vocational school or university level) according to the Dutch educational system. Participants were classified as being overweight (BMI > 24.9 kg/m ) or not. Cancer-related characteristics included type of cancer, which was either prostate or colorectal in the current study, and date of their last treatment. In addition, the presence of a chronic disease (yes or no) and the intention to be physically active (3 items on a scale from 1 to 10 (alpha =0.91),) were assessed at baseline.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "PA assessments with the ActiGraph were carried out at baseline and 6 months thereafter. Both self-reported PA and health-related outcomes were assessed using questionnaires at baseline (T0), 3 months (T1) and 6 months (T2; 2 months after the end of the intervention). At baseline all outcome measures were assessed. In the T1 questionnaire, which was conducted during the intervention period, we tried to limit the burden for participants by including only questions which were necessary to generate computer tailored advice for the intervention group (although the control group completed the same questionnaire). These included the SQUASH (self-reported MVPA & days ≥30 min PA), CIS (fatigue), and the physical functioning and general HRQoL subscales of the EORTC QLQ-C30. At T2 in addition, accelerometer-measured PA (ActiGraph) and the HADS (anxiety and depression) were assessed.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Sample size calculations were based on the PA outcomes of predecessors of the intervention in adults aged fifty years or older. These studies found an effect size of 0.3 with regard to PA (primary outcome) and effects were assumed to be comparable in cancer patients and survivors. Power calculations showed that approximately 300 participants were needed in total for the current study based on this effect size, a power of .80 with an alpha of .05 and a correction for multilevel analyses (intracluster correlation coefficient (ICC) = .005, design effect = 1.15). Drop-out was expected to be around 30% during the study, thus in total 428 participants were needed for enrollment at baseline.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Baseline differences regarding demographics, cancer-related, health-related, and PA-related characteristics between both conditions were assessed with independent t-tests and chi-square test. Group assignment, demographics, cancer and health-related characteristics and baseline values of the outcome measures were assessed as predictors of dropout at 3 and 6 months using logistic regression.\nMultilevel linear regressions (linear mixed models) were conducted to analyze the results. With patients originating from different hospitals, it was expected that their data was clustered. In order to adjust for this clustering, we applied multilevel linear regression with participants nested in hospitals. However, these analyses revealed that the ICC was almost zero (i.e., 1.09e − 13 ) and correction for clustering was not necessary. In addition, with multiple timepoints there is also a possibility of interdependence between the measurements within a person. Therefore, time, group and the interaction between time and group (to study differences between both groups over time) were added to the mixed models providing the opportunity to assess intervention efficacy overtime. The models were fitted using the maximum likelihood procedure and an independent covariance structure. For all analyses age, gender, educational level, type of cancer, treatment phase, time since last treatment, BMI, comorbidity, PA intention and the baseline values of the outcome measure were added as covariates. Raw means of primary and secondary outcomes at all time points were presented. In addition Cohen's d effect sizes were calculated for all outcomes, with effect sizes of 0.20, 0.50, and 0.80 indicating small, medium, and large effects respectively.\nAlthough dropout was limited, we applied intention -to-treat (ITT) analyses in addition to the complete case analysis. With multiple imputations (20 times) missing data at 3 and 6 months was imputed including all covariates, the independent variable, and the outcome measure as predictors.\nIntervention effectiveness was also assessed in different subgroups of participants. Therefore, interaction terms forage, gender, educational level, type of cancer and time since treatment were added to the regression. To test the moderation effects, 3 and 6 month measurements were analyzed separately. When an interaction term was significant, subgroup effects were examined. Since interaction terms have less power, the significance levels were set top < .10. Significance levels for other analyses were set top < .05. All analyses were conducted using STATA version 13.1.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "An overview of the number of participants who are enrolled in the intervention and participated in the 3 and 6 months follow-up measurements is provided in Fig..\nDrop-out rates were very low with 4.4% (21/478) of the participants dropping out at the 3 months follow-up and 7.3% (35/478) dropping out at the 6 months follow-up. Attrition analyses showed that at 3 months participants in the intervention group (B = 1.43, 95%CI = 0.02-2.84, p = .047) and participants with a lower intention to be physically active (B = 0.53, 95%CI = 0.01-1.05, p = .047) were more likely to dropout of the study. At 6 months, colorectal cancer patients were more likely to dropout (B = 1.05, 95%CI = 0.06-2.04, p = .034).\nParticipant characteristics of both groups are shown in Table. The mean age was 66.5, the majority of the participants were male (87%) and the proportion of prostate cancer was 61% compared to 39% colorectal cancer. The control group and intervention group differed on the depression score, with a significantly higher baseline score for the intervention group (p = .01).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Raw means at baseline and at 3 month follow-up (still during the intervention period) for both conditions are shown in Table. These raw scores indicated improvements in PA, fatigue and physical functioning, but not in general HRQoL. To test for significance additional statistical analyses were performed. The results are shown in Table. Participants in the OncoActive group improved their PA significantly in terms of both MVPA (B = 133.55, p = .04) and days with at least 30 min of PA (B = 0.86, p < .001). With regard to the secondary outcomes, we found decreased fatigue (B = − 3.57, p = .02) and improved physical functioning (B = 2.61, p = .003) for participants of the OncoActive intervention. No significant differences were found with regard to overall HRQoL (B = 0.18, p = .82). ITT analyses showed similar results for all outcomes.  There were also significant improvements in health-related outcomes. In comparison to the control group, a decrease in fatigue (B = − 4.16, p = .009) and depression (B = − 0.64, p = .005), and an improvement in physical functioning (B = 1.86, p = .04) were observed for the OncoActive group. No significant differences were found for anxiety (B = 0.14, p = .54) and overall HRQoL (B = 1.09, p = .37). Similar results were found in the ITT analyses, except for physical functioning which did not improve significantly in the ITT analysis.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "To further explore the efficacy of the intervention, analyses for subgroups were performed. These exploratory analyses showed that the intervention effect on PA was moderated by education level and type of cancer. The 3 month effect on MVPA as reported by the SQUASH questionnaire was moderated by cancer type (p = .02):\nThe intervention was effective at increasing PA in colorectal cancer participants (B = 355.23, p = .001, ES = 0.53), but not in prostate cancer participants (B = 20.33, p = .81, ES = 0.07). MVPA assessed with the ActiGraph at 6 months was moderated by education level (p = .06).\nOncoActive resulted in a significant increase in MVPA in participants with a medium education level (B = 106.85, p = .001, ES = 0.59), in a borderline significant increase for highly educated participants (B = 56.33, p = .06, ES = 0.42) and no increase for those with a low education (B = − 0.11, p = .99, ES = .03). Health outcomes were moderated by gender and type of cancer. At the 3 month follow-up fatigue was moderated by type of cancer (p = .04). Fatigue levels of colorectal cancer participants significantly decreased (B = − 6.88, p = .02, ES = − 0.31), whereas no significant decrease was found for prostate cancer participants (B = − 1.69, p = .34, ES = − 0.14). Physical functioning at 3 months was also moderated by type of cancer (p = .003). Again, significant improvements were found for colorectal cancer participants (B = 6.32, p < .001, ES = 0.45), but not for prostate cancer participants (B = 0.77, p = .45, ES = 0.06).\nAt 6 month follow-up, fatigue was moderated by gender (p = .02). OncoActive resulted in a significant decrease in fatigue in women (B = − 12.70, p = .007, ES = − 0.76), but not in men (B = − 2.14, p = .21, ES = − 0.15). Type of cancer moderated the effects on depression (p = .07) and physical functioning (p = .03). Depression decreased significantly in colorectal cancer participants (B = − 1.17, p = .004, ES = − 0.37), but not in prostate\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The current study assessed the efficacy of the computer -tailored OncoActive intervention at increasing PA and in improving fatigue, HRQoL and distress (i.e., anxiety and depression) in prostate and colorectal. In addition, efficacy in specific subgroups of cancer patients was explored.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "In the current study effects in specific subgroups of cancer patients and survivors were studied exploratory. Results showed that during the first part of the intervention, PA only increased in colorectal cancer participants. However, two months after completing the intervention, OncoActive was equally effective in increasing PA for both cancer types. As the intervention is tailored to cancer type, future research could extend the intervention to other types of cancer.\nThe explorative moderation analyses also showed that the intervention was effective in increasing PA in those with a medium and high education level, but not in those with a low education level. Possibly, receiving information about behavior change may have decreased lower educated participants' self-efficacy to be able to change their PA and may have resulted in perceiving the recommendations as less feasible. Another explanation can be found in the structure of the OncoActive intervention. Intervention materials were provided both print-and web-based alongside each other. Ina previous study regarding the OncoActive intervention, a lower educational level was associated with a lower probability of using Web-based materials. Although this previous study also showed that tailored advice was read by most of them, those with a lower education may have had a less comprehensive experience with the intervention as they may not have viewed video incorporated in the web-based tailored PA advice or used other interactive (web-based) components of the intervention. For future studies implementation adaptations, like less written texts, should be made to improve efficacy in cancer patients and survivors with a lower educational level.\nWith regard to health-related outcomes, it was noted that the intervention in general was more effective for colorectal cancer participants than for prostate cancer participants. At 3 months effects on fatigue and physical functioning, and at 6 months effects on depression and physical functioning were stronger among colorectal cancer participants. In addition, at 6 months we found a larger effect on fatigue for women compared to men. Since, women can only be diagnosed with colorectal cancer this might also be linked to cancer type. As health effects do take sometime to occur, a possible explanation for better health effects in colorectal cancer participants might be that PA did not increase in the first months of the intervention in prostate cancer participants. Another explanation maybe the fact additional in depth analyses showed that raw baseline scores for prostate cancer participants were higher in comparison to colorectal cancer participants, resulting in less room for improvement. Nevertheless, since PA did improve significantly after the intervention, evaluation at 12 month follow-up should prove whether there will be further improvements in health-related outcomes in prostate cancer participants on the longer term. Furthermore, if the increase in PA can be maintained, eventually cancer survivors may develop a healthier lifestyle and possibly benefit from improved survival.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The current study has a strong research design (RCT) in which both self-reported and accelerometer-measured PA were assessed. In addition, a very low dropout rate of only 7% was observed in the current study. Such a low dropout rate is exceptional in digital interventions and in the same range of supervised exercise programs. Although promising results were found regarding the efficacy of the OncoActive intervention, there are also some limitations that should be acknowledged.\nIn the current study, the proportion of participants who had adjuvant treatment is relatively small. This can partly be attributed to the current treatment preferences for the types of cancer in the target group. Currently prostate cancer is most often treated with surgery or brachy therapy, which might be less invasive than external radiotherapy. Furthermore, in 2014 a screening program for colorectal cancer was introduced in the Netherlands. Due to this increased early detection, patients maybe diagnosed in the early stage of the disease. Consequently, there are fewer patients that need to undergo adjuvant chemotherapy and thus experience fewer treatment-related side effects. As a result, the effect found in the current study may not be representative for patients undergoing more burdensome (adjuvant) treatments.\nAlthough participant dropout was very low, it was related to cancer type, intention to be physically active and group assignment. Although this may affect findings, it is expected that the influence of selective dropout is negligible due to the very low dropout numbers.\nWith regard to the health-related outcomes, it should be noted that these analyses may have been less optimal powered, since the power calculation was based on the primary outcome PA. However, since we were able to include (and retain) a large number of patients, we expect that underpowering is limited. A post-hoc power calculation for example for fatigue at 3 months (ES = − 0.21), with an alpha of .05, showed to have a power of 0.74.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The OncoActive intervention was effective at increasing PA in prostate and colorectal cancer patients and survivors both during and after primary cancer treatment. Health-related effects, such as improved fatigue, depression and physical functioning were mainly found in colorectal cancer participants, which also had lower baseline levels. Although long-term maintenance of these effects should be studied, it can be concluded that the intervention provides opportunities to accelerate cancer recovery. In addition, as PA increased in both populations this might have preventive effects for future health status.\nAlthough previous research has suggested that supervised programs result in larger effect sizes, it should also be noted that in view of costs, resources and access, those programs may not be available to everyone. eHealth interventions can be provided at relatively low costs, are more inline with cancer survivors' preference of home-based PA programs and may also be able to reach those who are not motivated enough to participate in intensive, facility-based programs. Therefore, the results of the current study provide valuable support for the use of the OncoActive intervention to increase PA and improve cancer recovery.\n",
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "66.55 (7.07)",
+          "rowHeaders": [
+            "Age in years, mean (SD)",
+            "Time since last treatment in months, mean (SD)"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline participant characteristics of the intervention group and the control group",
+            "Golsteijn et al. International Journal of Behavioral Nutrition and Physical Activity",
+            "Intervention group (OncoActive, n = 249)"
+          ]
+        },
+        {
+          "value": "66.38 (8.21)",
+          "rowHeaders": [
+            "Age in years, mean (SD)",
+            "Time since last treatment in months, mean (SD)"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline participant characteristics of the intervention group and the control group",
+            "Control group (Usual care, n = 229)"
+          ]
+        },
+        {
+          "value": ".81",
+          "rowHeaders": [
+            "Age in years, mean (SD)",
+            "Time since last treatment in months, mean (SD)"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline participant characteristics of the intervention group and the control group",
+            "P value"
+          ]
+        },
+        {
+          "value": ".20",
+          "rowHeaders": [
+            "Gender, n (%)",
+            "Time since last treatment in months, mean (SD)"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline participant characteristics of the intervention group and the control group",
+            "P value"
+          ]
+        },
+        {
+          "value": ".15",
+          "rowHeaders": [
+            "Education, n (%)",
+            "Time since last treatment in months, mean (SD)"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline participant characteristics of the intervention group and the control group",
+            "P value"
+          ]
+        },
+        {
+          "value": ".34",
+          "rowHeaders": [
+            "Type of cancer, n (%)",
+            "Time since last treatment in months, mean (SD)"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline participant characteristics of the intervention group and the control group",
+            "P value"
+          ]
+        },
+        {
+          "value": ".42",
+          "rowHeaders": [
+            "Treatment phase, n (%)",
+            "Time since last treatment in months, mean (SD)"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline participant characteristics of the intervention group and the control group",
+            "P value"
+          ]
+        },
+        {
+          "value": "5.64 (3.84)",
+          "rowHeaders": [
+            "Treatment phase, n (%)",
+            "Time since last treatment in months, mean (SD)"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline participant characteristics of the intervention group and the control group",
+            "Golsteijn et al. International Journal of Behavioral Nutrition and Physical Activity",
+            "Intervention group (OncoActive, n = 249)"
+          ]
+        },
+        {
+          "value": "5.17",
+          "rowHeaders": [
+            "Treatment phase, n (%)",
+            "Time since last treatment in months, mean (SD)"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline participant characteristics of the intervention group and the control group",
+            "Control group (Usual care, n = 229)"
+          ]
+        },
+        {
+          "value": "(3.49",
+          "rowHeaders": [
+            "Treatment phase, n (%)",
+            "Time since last treatment in months, mean (SD)"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline participant characteristics of the intervention group and the control group",
+            "Control group (Usual care, n = 229)"
+          ]
+        },
+        {
+          "value": ".16",
+          "rowHeaders": [
+            "Treatment phase, n (%)",
+            "Time since last treatment in months, mean (SD)"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline participant characteristics of the intervention group and the control group",
+            "P value"
+          ]
+        },
+        {
+          "value": ".27",
+          "rowHeaders": [
+            "Surgery"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline participant characteristics of the intervention group and the control group",
+            "P value"
+          ]
+        },
+        {
+          "value": ".95",
+          "rowHeaders": [
+            "Chemo"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline participant characteristics of the intervention group and the control group",
+            "P value"
+          ]
+        },
+        {
+          "value": ".27",
+          "rowHeaders": [
+            "Radiotherapy"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline participant characteristics of the intervention group and the control group",
+            "P value"
+          ]
+        },
+        {
+          "value": ".76",
+          "rowHeaders": [
+            "Hormonal treatment"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline participant characteristics of the intervention group and the control group",
+            "P value"
+          ]
+        },
+        {
+          "value": "26.39 (3.38)",
+          "rowHeaders": [
+            "BMI, mean (SD)"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline participant characteristics of the intervention group and the control group",
+            "Golsteijn et al. International Journal of Behavioral Nutrition and Physical Activity",
+            "Intervention group (OncoActive, n = 249)"
+          ]
+        },
+        {
+          "value": "26.74 (4.41)",
+          "rowHeaders": [
+            "BMI, mean (SD)"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline participant characteristics of the intervention group and the control group",
+            "Control group (Usual care, n = 229)"
+          ]
+        },
+        {
+          "value": ".32",
+          "rowHeaders": [
+            "BMI, mean (SD)"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline participant characteristics of the intervention group and the control group",
+            "P value"
+          ]
+        },
+        {
+          "value": ".46",
+          "rowHeaders": [
+            "Comorbidities yes, n (%)"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline participant characteristics of the intervention group and the control group",
+            "P value"
+          ]
+        },
+        {
+          "value": "58.95 (23.31)",
+          "rowHeaders": [
+            "Fatigue, mean (SD)"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline participant characteristics of the intervention group and the control group",
+            "Golsteijn et al. International Journal of Behavioral Nutrition and Physical Activity",
+            "Intervention group (OncoActive, n = 249)"
+          ]
+        },
+        {
+          "value": "57.54 (24.25)",
+          "rowHeaders": [
+            "Fatigue, mean (SD)"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline participant characteristics of the intervention group and the control group",
+            "Control group (Usual care, n = 229)"
+          ]
+        },
+        {
+          "value": ".52",
+          "rowHeaders": [
+            "Fatigue, mean (SD)"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline participant characteristics of the intervention group and the control group",
+            "P value"
+          ]
+        },
+        {
+          "value": "3.75 (3.22)",
+          "rowHeaders": [
+            "Anxiety, mean (SD)"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline participant characteristics of the intervention group and the control group",
+            "Golsteijn et al. International Journal of Behavioral Nutrition and Physical Activity",
+            "Intervention group (OncoActive, n = 249)"
+          ]
+        },
+        {
+          "value": "3.37 (2.95)",
+          "rowHeaders": [
+            "Anxiety, mean (SD)"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline participant characteristics of the intervention group and the control group",
+            "Control group (Usual care, n = 229)"
+          ]
+        },
+        {
+          "value": ".18",
+          "rowHeaders": [
+            "Anxiety, mean (SD)"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline participant characteristics of the intervention group and the control group",
+            "P value"
+          ]
+        },
+        {
+          "value": "3.54 (3.54)",
+          "rowHeaders": [
+            "Depression, mean (SD)"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline participant characteristics of the intervention group and the control group",
+            "Golsteijn et al. International Journal of Behavioral Nutrition and Physical Activity",
+            "Intervention group (OncoActive, n = 249)"
+          ]
+        },
+        {
+          "value": "2.80 (2.91)",
+          "rowHeaders": [
+            "Depression, mean (SD)"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline participant characteristics of the intervention group and the control group",
+            "Control group (Usual care, n = 229)"
+          ]
+        },
+        {
+          "value": ".01",
+          "rowHeaders": [
+            "Depression, mean (SD)"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline participant characteristics of the intervention group and the control group",
+            "P value"
+          ]
+        },
+        {
+          "value": "80.01 (16.81)",
+          "rowHeaders": [
+            "General HRQoL, mean (SD)"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline participant characteristics of the intervention group and the control group",
+            "Golsteijn et al. International Journal of Behavioral Nutrition and Physical Activity",
+            "Intervention group (OncoActive, n = 249)"
+          ]
+        },
+        {
+          "value": "82.06 (14.15)",
+          "rowHeaders": [
+            "General HRQoL, mean (SD)"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline participant characteristics of the intervention group and the control group",
+            "Control group (Usual care, n = 229)"
+          ]
+        },
+        {
+          "value": ".15",
+          "rowHeaders": [
+            "General HRQoL, mean (SD)"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline participant characteristics of the intervention group and the control group",
+            "P value"
+          ]
+        },
+        {
+          "value": "86.57 (14.39)",
+          "rowHeaders": [
+            "Physical Functioning, mean (SD)"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline participant characteristics of the intervention group and the control group",
+            "Golsteijn et al. International Journal of Behavioral Nutrition and Physical Activity",
+            "Intervention group (OncoActive, n = 249)"
+          ]
+        },
+        {
+          "value": "86.58 (14.80)",
+          "rowHeaders": [
+            "Physical Functioning, mean (SD)"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline participant characteristics of the intervention group and the control group",
+            "Control group (Usual care, n = 229)"
+          ]
+        },
+        {
+          "value": ".99",
+          "rowHeaders": [
+            "Physical Functioning, mean (SD)"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline participant characteristics of the intervention group and the control group",
+            "P value"
+          ]
+        },
+        {
+          "value": ".27",
+          "rowHeaders": [
+            "MVPA SQUASH, mean (SD)"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline participant characteristics of the intervention group and the control group",
+            "P value"
+          ]
+        },
+        {
+          "value": ".30",
+          "rowHeaders": [
+            "MVPA ActiGraph, mean (SD)"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline participant characteristics of the intervention group and the control group",
+            "P value"
+          ]
+        },
+        {
+          "value": "3.67 (2.05)",
+          "rowHeaders": [
+            "Days ≥30 min PA SQUASH, mean (SD)"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline participant characteristics of the intervention group and the control group",
+            "Golsteijn et al. International Journal of Behavioral Nutrition and Physical Activity",
+            "Intervention group (OncoActive, n = 249)"
+          ]
+        },
+        {
+          "value": "3.86 (2.07)",
+          "rowHeaders": [
+            "Days ≥30 min PA SQUASH, mean (SD)"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline participant characteristics of the intervention group and the control group",
+            "Control group (Usual care, n = 229)"
+          ]
+        },
+        {
+          "value": ".34",
+          "rowHeaders": [
+            "Days ≥30 min PA SQUASH, mean (SD)"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline participant characteristics of the intervention group and the control group",
+            "P value"
+          ]
+        },
+        {
+          "value": "3.23 (2.46)",
+          "rowHeaders": [
+            "Days ≥30 min PA ActiGraph, mean (SD)"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline participant characteristics of the intervention group and the control group",
+            "Golsteijn et al. International Journal of Behavioral Nutrition and Physical Activity",
+            "Intervention group (OncoActive, n = 249)"
+          ]
+        },
+        {
+          "value": "3.38 (2.38)",
+          "rowHeaders": [
+            "Days ≥30 min PA ActiGraph, mean (SD)"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline participant characteristics of the intervention group and the control group",
+            "Control group (Usual care, n = 229)"
+          ]
+        },
+        {
+          "value": ".52",
+          "rowHeaders": [
+            "Days ≥30 min PA ActiGraph, mean (SD)"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline participant characteristics of the intervention group and the control group",
+            "P value"
+          ]
+        },
+        {
+          "value": "7.61 (1.35)",
+          "rowHeaders": [
+            "PA intention, mean (SD)"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline participant characteristics of the intervention group and the control group",
+            "Golsteijn et al. International Journal of Behavioral Nutrition and Physical Activity",
+            "Intervention group (OncoActive, n = 249)"
+          ]
+        },
+        {
+          "value": "7.74 (1.48)",
+          "rowHeaders": [
+            "PA intention, mean (SD)"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline participant characteristics of the intervention group and the control group",
+            "Control group (Usual care, n = 229)"
+          ]
+        },
+        {
+          "value": ".32",
+          "rowHeaders": [
+            "PA intention, mean (SD)"
+          ],
+          "columnHeaders": [
+            "Table 1 Baseline participant characteristics of the intervention group and the control group",
+            "P value"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "780 (721)",
+          "rowHeaders": [
+            "SQUASH MVPA",
+            "ActiGraph Days ≥30 min PA"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Intervention group (OncoActive)",
+            "T1",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "230",
+          "rowHeaders": [
+            "SQUASH MVPA",
+            "ActiGraph Days ≥30 min PA"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Intervention group (OncoActive)",
+            "T1",
+            "N"
+          ]
+        },
+        {
+          "value": "222",
+          "rowHeaders": [
+            "SQUASH MVPA",
+            "ActiGraph Days ≥30 min PA"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Intervention group (OncoActive)",
+            "T2",
+            "N"
+          ]
+        },
+        {
+          "value": "229",
+          "rowHeaders": [
+            "SQUASH MVPA",
+            "ActiGraph Days ≥30 min PA"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Control group (Usual Care)",
+            "T0",
+            "N"
+          ]
+        },
+        {
+          "value": "873 (764)",
+          "rowHeaders": [
+            "SQUASH MVPA",
+            "ActiGraph Days ≥30 min PA"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Control group (Usual Care)",
+            "T1",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "221",
+          "rowHeaders": [
+            "SQUASH MVPA",
+            "ActiGraph Days ≥30 min PA"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Control group (Usual Care)",
+            "T1",
+            "N"
+          ]
+        },
+        {
+          "value": "962 (833)",
+          "rowHeaders": [
+            "SQUASH MVPA",
+            "ActiGraph Days ≥30 min PA"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Control group (Usual Care)",
+            "T2",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "213",
+          "rowHeaders": [
+            "SQUASH MVPA",
+            "ActiGraph Days ≥30 min PA"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Control group (Usual Care)",
+            "T2",
+            "N"
+          ]
+        },
+        {
+          "value": "943 (769)",
+          "rowHeaders": [
+            "SQUASH MVPA",
+            "ActiGraph Days ≥30 min PA"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Control group (Usual Care)",
+            "T2",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "246",
+          "rowHeaders": [
+            "SQUASH Days ≥30 min PA",
+            "ActiGraph Days ≥30 min PA"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Intervention group (OncoActive)",
+            "T0",
+            "N"
+          ]
+        },
+        {
+          "value": "3.70 (2.06)",
+          "rowHeaders": [
+            "SQUASH Days ≥30 min PA",
+            "ActiGraph Days ≥30 min PA"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Intervention group (OncoActive)",
+            "T1",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "226",
+          "rowHeaders": [
+            "SQUASH Days ≥30 min PA",
+            "ActiGraph Days ≥30 min PA"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Intervention group (OncoActive)",
+            "T1",
+            "N"
+          ]
+        },
+        {
+          "value": "4.81 (1.89)",
+          "rowHeaders": [
+            "SQUASH Days ≥30 min PA",
+            "ActiGraph Days ≥30 min PA"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Intervention group (OncoActive)",
+            "T2",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "218",
+          "rowHeaders": [
+            "SQUASH Days ≥30 min PA",
+            "ActiGraph Days ≥30 min PA"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Intervention group (OncoActive)",
+            "T2",
+            "N"
+          ]
+        },
+        {
+          "value": "5.18 (1.65)",
+          "rowHeaders": [
+            "SQUASH Days ≥30 min PA",
+            "ActiGraph Days ≥30 min PA"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Control group (Usual Care)",
+            "T0",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "226",
+          "rowHeaders": [
+            "SQUASH Days ≥30 min PA",
+            "ActiGraph Days ≥30 min PA"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Control group (Usual Care)",
+            "T0",
+            "N"
+          ]
+        },
+        {
+          "value": "3.86 (2.07)",
+          "rowHeaders": [
+            "SQUASH Days ≥30 min PA",
+            "ActiGraph Days ≥30 min PA"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Control group (Usual Care)",
+            "T1",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "222",
+          "rowHeaders": [
+            "SQUASH Days ≥30 min PA",
+            "ActiGraph Days ≥30 min PA"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Control group (Usual Care)",
+            "T1",
+            "N"
+          ]
+        },
+        {
+          "value": "4.02 (2.06)",
+          "rowHeaders": [
+            "SQUASH Days ≥30 min PA",
+            "ActiGraph Days ≥30 min PA"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Control group (Usual Care)",
+            "T2",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "210",
+          "rowHeaders": [
+            "SQUASH Days ≥30 min PA",
+            "ActiGraph Days ≥30 min PA"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Control group (Usual Care)",
+            "T2",
+            "N"
+          ]
+        },
+        {
+          "value": "4.31 (1.93)",
+          "rowHeaders": [
+            "SQUASH Days ≥30 min PA",
+            "ActiGraph Days ≥30 min PA"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Control group (Usual Care)",
+            "T2",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "226",
+          "rowHeaders": [
+            "ActiGraph MVPA",
+            "ActiGraph Days ≥30 min PA"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Intervention group (OncoActive)",
+            "T0",
+            "N"
+          ]
+        },
+        {
+          "value": "271 (211)",
+          "rowHeaders": [
+            "ActiGraph MVPA",
+            "ActiGraph Days ≥30 min PA"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Intervention group (OncoActive)",
+            "T1",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "208",
+          "rowHeaders": [
+            "ActiGraph MVPA",
+            "ActiGraph Days ≥30 min PA"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Intervention group (OncoActive)",
+            "T2",
+            "N"
+          ]
+        },
+        {
+          "value": "204",
+          "rowHeaders": [
+            "ActiGraph MVPA",
+            "ActiGraph Days ≥30 min PA"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Control group (Usual Care)",
+            "T0",
+            "N"
+          ]
+        },
+        {
+          "value": "293 (229)",
+          "rowHeaders": [
+            "ActiGraph MVPA",
+            "ActiGraph Days ≥30 min PA"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Control group (Usual Care)",
+            "T1",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "211",
+          "rowHeaders": [
+            "ActiGraph MVPA",
+            "ActiGraph Days ≥30 min PA"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Control group (Usual Care)",
+            "T2",
+            "N"
+          ]
+        },
+        {
+          "value": "301 (219)",
+          "rowHeaders": [
+            "ActiGraph MVPA",
+            "ActiGraph Days ≥30 min PA"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Control group (Usual Care)",
+            "T2",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "226",
+          "rowHeaders": [
+            "SQUASH Days ≥30 min PA",
+            "ActiGraph Days ≥30 min PA"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Intervention group (OncoActive)",
+            "T0",
+            "N"
+          ]
+        },
+        {
+          "value": "3.35 (2.54)",
+          "rowHeaders": [
+            "SQUASH Days ≥30 min PA",
+            "ActiGraph Days ≥30 min PA"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Intervention group (OncoActive)",
+            "T1",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "208",
+          "rowHeaders": [
+            "SQUASH Days ≥30 min PA",
+            "ActiGraph Days ≥30 min PA"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Intervention group (OncoActive)",
+            "T2",
+            "N"
+          ]
+        },
+        {
+          "value": "3.96 (2.38)",
+          "rowHeaders": [
+            "SQUASH Days ≥30 min PA",
+            "ActiGraph Days ≥30 min PA"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Control group (Usual Care)",
+            "T0",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "204",
+          "rowHeaders": [
+            "SQUASH Days ≥30 min PA",
+            "ActiGraph Days ≥30 min PA"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Control group (Usual Care)",
+            "T0",
+            "N"
+          ]
+        },
+        {
+          "value": "3.46 (2.40)",
+          "rowHeaders": [
+            "SQUASH Days ≥30 min PA",
+            "ActiGraph Days ≥30 min PA"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Control group (Usual Care)",
+            "T1",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "211",
+          "rowHeaders": [
+            "SQUASH Days ≥30 min PA",
+            "ActiGraph Days ≥30 min PA"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Control group (Usual Care)",
+            "T2",
+            "N"
+          ]
+        },
+        {
+          "value": "3.71 (2.38)",
+          "rowHeaders": [
+            "SQUASH Days ≥30 min PA",
+            "ActiGraph Days ≥30 min PA"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Control group (Usual Care)",
+            "T2",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "241",
+          "rowHeaders": [
+            "Fatigue"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Intervention group (OncoActive)",
+            "T0",
+            "N"
+          ]
+        },
+        {
+          "value": "58.9 (23.3)",
+          "rowHeaders": [
+            "Fatigue"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Intervention group (OncoActive)",
+            "T1",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "227",
+          "rowHeaders": [
+            "Fatigue"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Intervention group (OncoActive)",
+            "T1",
+            "N"
+          ]
+        },
+        {
+          "value": "54.5 (22.5)",
+          "rowHeaders": [
+            "Fatigue"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Intervention group (OncoActive)",
+            "T2",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "221",
+          "rowHeaders": [
+            "Fatigue"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Intervention group (OncoActive)",
+            "T2",
+            "N"
+          ]
+        },
+        {
+          "value": "51.6 (23.9)",
+          "rowHeaders": [
+            "Fatigue"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Control group (Usual Care)",
+            "T0",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "223",
+          "rowHeaders": [
+            "Fatigue"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Control group (Usual Care)",
+            "T0",
+            "N"
+          ]
+        },
+        {
+          "value": "57.5 (24.3)",
+          "rowHeaders": [
+            "Fatigue"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Control group (Usual Care)",
+            "T1",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "217",
+          "rowHeaders": [
+            "Fatigue"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Control group (Usual Care)",
+            "T1",
+            "N"
+          ]
+        },
+        {
+          "value": "56.7 (23.4)",
+          "rowHeaders": [
+            "Fatigue"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Control group (Usual Care)",
+            "T2",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "214",
+          "rowHeaders": [
+            "Fatigue"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Control group (Usual Care)",
+            "T2",
+            "N"
+          ]
+        },
+        {
+          "value": "55.1 (23.7)",
+          "rowHeaders": [
+            "Fatigue"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Control group (Usual Care)",
+            "T2",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "246",
+          "rowHeaders": [
+            "Physical functioning"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Intervention group (OncoActive)",
+            "T0",
+            "N"
+          ]
+        },
+        {
+          "value": "86.6 (14.0)",
+          "rowHeaders": [
+            "Physical functioning"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Intervention group (OncoActive)",
+            "T1",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "230",
+          "rowHeaders": [
+            "Physical functioning"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Intervention group (OncoActive)",
+            "T1",
+            "N"
+          ]
+        },
+        {
+          "value": "89.6 (13.0)",
+          "rowHeaders": [
+            "Physical functioning"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Intervention group (OncoActive)",
+            "T2",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "223",
+          "rowHeaders": [
+            "Physical functioning"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Intervention group (OncoActive)",
+            "T2",
+            "N"
+          ]
+        },
+        {
+          "value": "89.7 (13.6)",
+          "rowHeaders": [
+            "Physical functioning"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Control group (Usual Care)",
+            "T0",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "229",
+          "rowHeaders": [
+            "Physical functioning"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Control group (Usual Care)",
+            "T0",
+            "N"
+          ]
+        },
+        {
+          "value": "86.6 (14.8)",
+          "rowHeaders": [
+            "Physical functioning"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Control group (Usual Care)",
+            "T1",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "222",
+          "rowHeaders": [
+            "Physical functioning"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Control group (Usual Care)",
+            "T1",
+            "N"
+          ]
+        },
+        {
+          "value": "87.4 (14.1)",
+          "rowHeaders": [
+            "Physical functioning"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Control group (Usual Care)",
+            "T2",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "216",
+          "rowHeaders": [
+            "Physical functioning"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Control group (Usual Care)",
+            "T2",
+            "N"
+          ]
+        },
+        {
+          "value": "88.4 (13.0)",
+          "rowHeaders": [
+            "Physical functioning"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Control group (Usual Care)",
+            "T2",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "246",
+          "rowHeaders": [
+            "General HRQoL"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Intervention group (OncoActive)",
+            "T0",
+            "N"
+          ]
+        },
+        {
+          "value": "80.0 (16.8)",
+          "rowHeaders": [
+            "General HRQoL"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Intervention group (OncoActive)",
+            "T1",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "229",
+          "rowHeaders": [
+            "General HRQoL"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Intervention group (OncoActive)",
+            "T1",
+            "N"
+          ]
+        },
+        {
+          "value": "79.8 (16.3)",
+          "rowHeaders": [
+            "General HRQoL"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Intervention group (OncoActive)",
+            "T2",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "223",
+          "rowHeaders": [
+            "General HRQoL"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Intervention group (OncoActive)",
+            "T2",
+            "N"
+          ]
+        },
+        {
+          "value": "83.8 (15.6)",
+          "rowHeaders": [
+            "General HRQoL"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Control group (Usual Care)",
+            "T0",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "229",
+          "rowHeaders": [
+            "General HRQoL"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Control group (Usual Care)",
+            "T0",
+            "N"
+          ]
+        },
+        {
+          "value": "82.1 (14.2)",
+          "rowHeaders": [
+            "General HRQoL"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Control group (Usual Care)",
+            "T1",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "222",
+          "rowHeaders": [
+            "General HRQoL"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Control group (Usual Care)",
+            "T1",
+            "N"
+          ]
+        },
+        {
+          "value": "80.7 (14.8)",
+          "rowHeaders": [
+            "General HRQoL"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Control group (Usual Care)",
+            "T2",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "216",
+          "rowHeaders": [
+            "General HRQoL"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Control group (Usual Care)",
+            "T2",
+            "N"
+          ]
+        },
+        {
+          "value": "83.7 (13.7)",
+          "rowHeaders": [
+            "General HRQoL"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Control group (Usual Care)",
+            "T2",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "248",
+          "rowHeaders": [
+            "Anxiety"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Intervention group (OncoActive)",
+            "T0",
+            "N"
+          ]
+        },
+        {
+          "value": "3.75 (3.21)",
+          "rowHeaders": [
+            "Anxiety"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Intervention group (OncoActive)",
+            "T1",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "223",
+          "rowHeaders": [
+            "Anxiety"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Intervention group (OncoActive)",
+            "T2",
+            "N"
+          ]
+        },
+        {
+          "value": "3.52 (3.39)",
+          "rowHeaders": [
+            "Anxiety"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Control group (Usual Care)",
+            "T0",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "227",
+          "rowHeaders": [
+            "Anxiety"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Control group (Usual Care)",
+            "T0",
+            "N"
+          ]
+        },
+        {
+          "value": "3.37 (2.95)",
+          "rowHeaders": [
+            "Anxiety"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Control group (Usual Care)",
+            "T1",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "216",
+          "rowHeaders": [
+            "Anxiety"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Control group (Usual Care)",
+            "T2",
+            "N"
+          ]
+        },
+        {
+          "value": "3.49 (3.17)",
+          "rowHeaders": [
+            "Anxiety"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Control group (Usual Care)",
+            "T2",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "248",
+          "rowHeaders": [
+            "Depressiona"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Intervention group (OncoActive)",
+            "T0",
+            "N"
+          ]
+        },
+        {
+          "value": "3.54 (3.54)",
+          "rowHeaders": [
+            "Depressiona"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Intervention group (OncoActive)",
+            "T1",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "223",
+          "rowHeaders": [
+            "Depressiona"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Intervention group (OncoActive)",
+            "T2",
+            "N"
+          ]
+        },
+        {
+          "value": "3.09 (3.34)",
+          "rowHeaders": [
+            "Depressiona"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Control group (Usual Care)",
+            "T0",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "2.80 (2.91)",
+          "rowHeaders": [
+            "Depressiona"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Control group (Usual Care)",
+            "T1",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "216",
+          "rowHeaders": [
+            "Depressiona"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Control group (Usual Care)",
+            "T2",
+            "N"
+          ]
+        },
+        {
+          "value": "3.31 (3.08)",
+          "rowHeaders": [
+            "Depressiona"
+          ],
+          "columnHeaders": [
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Table 2 Raw means of primary and secondary outcomes at all time points",
+            "Control group (Usual Care)",
+            "T2",
+            "Mean (SD)"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "133.55 (3.70-263.40)",
+          "rowHeaders": [
+            "MVPA SQUASH"
+          ],
+          "columnHeaders": [
+            "Table 3 Outcomes at 3 months follow-up",
+            "Table 3 Outcomes at 3 months follow-up",
+            "Complete case analyses",
+            "B (95% CI)"
+          ]
+        },
+        {
+          "value": ".04",
+          "rowHeaders": [
+            "MVPA SQUASH"
+          ],
+          "columnHeaders": [
+            "Table 3 Outcomes at 3 months follow-up",
+            "Table 3 Outcomes at 3 months follow-up",
+            "Complete case analyses",
+            "p"
+          ]
+        },
+        {
+          "value": "0.23",
+          "rowHeaders": [
+            "MVPA SQUASH"
+          ],
+          "columnHeaders": [
+            "Table 3 Outcomes at 3 months follow-up",
+            "Table 3 Outcomes at 3 months follow-up",
+            "Intention to treat analyses",
+            "a",
+            "ES"
+          ]
+        },
+        {
+          "value": ".04",
+          "rowHeaders": [
+            "MVPA SQUASH"
+          ],
+          "columnHeaders": [
+            "Table 3 Outcomes at 3 months follow-up",
+            "Table 3 Outcomes at 3 months follow-up",
+            "Intention to treat analyses",
+            "p"
+          ]
+        },
+        {
+          "value": "0.86 (0.55-1.18)",
+          "rowHeaders": [
+            "Days ≥30 min PA SQUASH"
+          ],
+          "columnHeaders": [
+            "Table 3 Outcomes at 3 months follow-up",
+            "Table 3 Outcomes at 3 months follow-up",
+            "Complete case analyses",
+            "B (95% CI)"
+          ]
+        },
+        {
+          "value": "<.001",
+          "rowHeaders": [
+            "Days ≥30 min PA SQUASH"
+          ],
+          "columnHeaders": [
+            "Table 3 Outcomes at 3 months follow-up",
+            "Table 3 Outcomes at 3 months follow-up",
+            "Complete case analyses",
+            "p"
+          ]
+        },
+        {
+          "value": "0.46",
+          "rowHeaders": [
+            "Days ≥30 min PA SQUASH"
+          ],
+          "columnHeaders": [
+            "Table 3 Outcomes at 3 months follow-up",
+            "Table 3 Outcomes at 3 months follow-up",
+            "Intention to treat analyses",
+            "a",
+            "ES"
+          ]
+        },
+        {
+          "value": "0.82 (0.52-1.13)",
+          "rowHeaders": [
+            "Days ≥30 min PA SQUASH"
+          ],
+          "columnHeaders": [
+            "Table 3 Outcomes at 3 months follow-up",
+            "Table 3 Outcomes at 3 months follow-up",
+            "Intention to treat analyses",
+            "B (95% CI)"
+          ]
+        },
+        {
+          "value": "<.001",
+          "rowHeaders": [
+            "Days ≥30 min PA SQUASH"
+          ],
+          "columnHeaders": [
+            "Table 3 Outcomes at 3 months follow-up",
+            "Table 3 Outcomes at 3 months follow-up",
+            "Intention to treat analyses",
+            "p"
+          ]
+        },
+        {
+          "value": "−3.57 (−6.68 - −",
+          "rowHeaders": [
+            "Fatigue"
+          ],
+          "columnHeaders": [
+            "Table 3 Outcomes at 3 months follow-up",
+            "Table 3 Outcomes at 3 months follow-up",
+            "Complete case analyses",
+            "B (95% CI)"
+          ]
+        },
+        {
+          "value": "0.46)",
+          "rowHeaders": [
+            "Fatigue"
+          ],
+          "columnHeaders": [
+            "Table 3 Outcomes at 3 months follow-up",
+            "Table 3 Outcomes at 3 months follow-up",
+            "Complete case analyses",
+            "B (95% CI)"
+          ]
+        },
+        {
+          "value": ".02",
+          "rowHeaders": [
+            "Fatigue"
+          ],
+          "columnHeaders": [
+            "Table 3 Outcomes at 3 months follow-up",
+            "Table 3 Outcomes at 3 months follow-up",
+            "Complete case analyses",
+            "p"
+          ]
+        },
+        {
+          "value": "0.21",
+          "rowHeaders": [
+            "Fatigue"
+          ],
+          "columnHeaders": [
+            "Table 3 Outcomes at 3 months follow-up",
+            "Table 3 Outcomes at 3 months follow-up",
+            "Intention to treat analyses",
+            "a"
+          ]
+        },
+        {
+          "value": "−3.66 (−",
+          "rowHeaders": [
+            "Fatigue"
+          ],
+          "columnHeaders": [
+            "Table 3 Outcomes at 3 months follow-up",
+            "Table 3 Outcomes at 3 months follow-up",
+            "Intention to treat analyses",
+            "B (95% CI)"
+          ]
+        },
+        {
+          "value": "6.78 - −",
+          "rowHeaders": [
+            "Fatigue"
+          ],
+          "columnHeaders": [
+            "Table 3 Outcomes at 3 months follow-up",
+            "Table 3 Outcomes at 3 months follow-up",
+            "Intention to treat analyses",
+            "B (95% CI)"
+          ]
+        },
+        {
+          "value": "0.54)",
+          "rowHeaders": [
+            "Fatigue"
+          ],
+          "columnHeaders": [
+            "Table 3 Outcomes at 3 months follow-up",
+            "Table 3 Outcomes at 3 months follow-up",
+            "Intention to treat analyses",
+            "B (95% CI)"
+          ]
+        },
+        {
+          "value": ".02",
+          "rowHeaders": [
+            "Fatigue"
+          ],
+          "columnHeaders": [
+            "Table 3 Outcomes at 3 months follow-up",
+            "Table 3 Outcomes at 3 months follow-up",
+            "Intention to treat analyses",
+            "p"
+          ]
+        },
+        {
+          "value": "2.61 (0.86-4.36)",
+          "rowHeaders": [
+            "Physical functioning"
+          ],
+          "columnHeaders": [
+            "Table 3 Outcomes at 3 months follow-up",
+            "Table 3 Outcomes at 3 months follow-up",
+            "Complete case analyses",
+            "B (95% CI)"
+          ]
+        },
+        {
+          "value": ".003",
+          "rowHeaders": [
+            "Physical functioning"
+          ],
+          "columnHeaders": [
+            "Table 3 Outcomes at 3 months follow-up",
+            "Table 3 Outcomes at 3 months follow-up",
+            "Complete case analyses",
+            "p"
+          ]
+        },
+        {
+          "value": "0.23",
+          "rowHeaders": [
+            "Physical functioning"
+          ],
+          "columnHeaders": [
+            "Table 3 Outcomes at 3 months follow-up",
+            "Table 3 Outcomes at 3 months follow-up",
+            "Intention to treat analyses",
+            "a",
+            "ES"
+          ]
+        },
+        {
+          "value": "2.33 (0.54-4.12)",
+          "rowHeaders": [
+            "Physical functioning"
+          ],
+          "columnHeaders": [
+            "Table 3 Outcomes at 3 months follow-up",
+            "Table 3 Outcomes at 3 months follow-up",
+            "Intention to treat analyses",
+            "B (95% CI)"
+          ]
+        },
+        {
+          "value": ".01",
+          "rowHeaders": [
+            "Physical functioning"
+          ],
+          "columnHeaders": [
+            "Table 3 Outcomes at 3 months follow-up",
+            "Table 3 Outcomes at 3 months follow-up",
+            "Intention to treat analyses",
+            "p"
+          ]
+        },
+        {
+          "value": "0.18 (−2.19-2.55)",
+          "rowHeaders": [
+            "General HRQoL"
+          ],
+          "columnHeaders": [
+            "Table 3 Outcomes at 3 months follow-up",
+            "Table 3 Outcomes at 3 months follow-up",
+            "Complete case analyses",
+            "B (95% CI)"
+          ]
+        },
+        {
+          "value": ".88",
+          "rowHeaders": [
+            "General HRQoL"
+          ],
+          "columnHeaders": [
+            "Table 3 Outcomes at 3 months follow-up",
+            "Table 3 Outcomes at 3 months follow-up",
+            "Complete case analyses",
+            "p"
+          ]
+        },
+        {
+          "value": "0.09",
+          "rowHeaders": [
+            "General HRQoL"
+          ],
+          "columnHeaders": [
+            "Table 3 Outcomes at 3 months follow-up",
+            "Table 3 Outcomes at 3 months follow-up",
+            "Intention to treat analyses",
+            "a",
+            "ES"
+          ]
+        },
+        {
+          "value": "−0.02 (− 2.39-2.35)",
+          "rowHeaders": [
+            "General HRQoL"
+          ],
+          "columnHeaders": [
+            "Table 3 Outcomes at 3 months follow-up",
+            "Table 3 Outcomes at 3 months follow-up",
+            "Intention to treat analyses",
+            "B (95% CI)"
+          ]
+        },
+        {
+          "value": ".99",
+          "rowHeaders": [
+            "General HRQoL"
+          ],
+          "columnHeaders": [
+            "Table 3 Outcomes at 3 months follow-up",
+            "Table 3 Outcomes at 3 months follow-up",
+            "Intention to treat analyses",
+            "p"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "267.17 (135.12-399.22)",
+          "rowHeaders": [
+            "Physical functioning",
+            "SQUASH"
+          ],
+          "columnHeaders": [
+            "Table 4 Outcomes at 6 months follow-up",
+            "Golsteijn et al. International Journal of Behavioral Nutrition and Physical Activity",
+            "Complete case analyses",
+            "B (95% CI)"
+          ]
+        },
+        {
+          "value": "<.001",
+          "rowHeaders": [
+            "Physical functioning",
+            "SQUASH"
+          ],
+          "columnHeaders": [
+            "Table 4 Outcomes at 6 months follow-up",
+            "Golsteijn et al. International Journal of Behavioral Nutrition and Physical Activity",
+            "Complete case analyses",
+            "p"
+          ]
+        },
+        {
+          "value": "0.37",
+          "rowHeaders": [
+            "Physical functioning",
+            "SQUASH"
+          ],
+          "columnHeaders": [
+            "Table 4 Outcomes at 6 months follow-up",
+            "Intention to treat analyses",
+            "a",
+            "ES"
+          ]
+        },
+        {
+          "value": "<.001",
+          "rowHeaders": [
+            "Physical functioning",
+            "SQUASH"
+          ],
+          "columnHeaders": [
+            "Table 4 Outcomes at 6 months follow-up",
+            "Intention to treat analyses",
+            "p"
+          ]
+        },
+        {
+          "value": "44.60 (12.57-76.63)",
+          "rowHeaders": [
+            "Physical functioning",
+            "ActiGraph"
+          ],
+          "columnHeaders": [
+            "Table 4 Outcomes at 6 months follow-up",
+            "Golsteijn et al. International Journal of Behavioral Nutrition and Physical Activity",
+            "Complete case analyses",
+            "B (95% CI)"
+          ]
+        },
+        {
+          "value": ".006",
+          "rowHeaders": [
+            "Physical functioning",
+            "ActiGraph"
+          ],
+          "columnHeaders": [
+            "Table 4 Outcomes at 6 months follow-up",
+            "Golsteijn et al. International Journal of Behavioral Nutrition and Physical Activity",
+            "Complete case analyses",
+            "p"
+          ]
+        },
+        {
+          "value": "0.27",
+          "rowHeaders": [
+            "Physical functioning",
+            "ActiGraph"
+          ],
+          "columnHeaders": [
+            "Table 4 Outcomes at 6 months follow-up",
+            "Intention to treat analyses",
+            "a",
+            "ES"
+          ]
+        },
+        {
+          "value": "45.9 (13.51-78.30)",
+          "rowHeaders": [
+            "Physical functioning",
+            "ActiGraph"
+          ],
+          "columnHeaders": [
+            "Table 4 Outcomes at 6 months follow-up",
+            "Intention to treat analyses",
+            "B (95% CI)"
+          ]
+        },
+        {
+          "value": ".006",
+          "rowHeaders": [
+            "Physical functioning",
+            "ActiGraph"
+          ],
+          "columnHeaders": [
+            "Table 4 Outcomes at 6 months follow-up",
+            "Intention to treat analyses",
+            "p"
+          ]
+        },
+        {
+          "value": "0.98 (0.66-1.30)",
+          "rowHeaders": [
+            "Physical functioning",
+            "SQUASH"
+          ],
+          "columnHeaders": [
+            "Table 4 Outcomes at 6 months follow-up",
+            "Golsteijn et al. International Journal of Behavioral Nutrition and Physical Activity",
+            "Complete case analyses",
+            "B (95% CI)"
+          ]
+        },
+        {
+          "value": "<.001",
+          "rowHeaders": [
+            "Physical functioning",
+            "SQUASH"
+          ],
+          "columnHeaders": [
+            "Table 4 Outcomes at 6 months follow-up",
+            "Golsteijn et al. International Journal of Behavioral Nutrition and Physical Activity",
+            "Complete case analyses",
+            "p"
+          ]
+        },
+        {
+          "value": "0.51",
+          "rowHeaders": [
+            "Physical functioning",
+            "SQUASH"
+          ],
+          "columnHeaders": [
+            "Table 4 Outcomes at 6 months follow-up",
+            "Intention to treat analyses",
+            "a",
+            "ES"
+          ]
+        },
+        {
+          "value": "0.93 (0.62-1.24)",
+          "rowHeaders": [
+            "Physical functioning",
+            "SQUASH"
+          ],
+          "columnHeaders": [
+            "Table 4 Outcomes at 6 months follow-up",
+            "Intention to treat analyses",
+            "B (95% CI)"
+          ]
+        },
+        {
+          "value": "<.001",
+          "rowHeaders": [
+            "Physical functioning",
+            "SQUASH"
+          ],
+          "columnHeaders": [
+            "Table 4 Outcomes at 6 months follow-up",
+            "Intention to treat analyses",
+            "p"
+          ]
+        },
+        {
+          "value": "0.38 (− 0.01-0.77)",
+          "rowHeaders": [
+            "Physical functioning",
+            "ActiGraph"
+          ],
+          "columnHeaders": [
+            "Table 4 Outcomes at 6 months follow-up",
+            "Golsteijn et al. International Journal of Behavioral Nutrition and Physical Activity",
+            "Complete case analyses",
+            "B (95% CI)"
+          ]
+        },
+        {
+          "value": ".05",
+          "rowHeaders": [
+            "Physical functioning",
+            "ActiGraph"
+          ],
+          "columnHeaders": [
+            "Table 4 Outcomes at 6 months follow-up",
+            "Golsteijn et al. International Journal of Behavioral Nutrition and Physical Activity",
+            "Complete case analyses",
+            "p"
+          ]
+        },
+        {
+          "value": "0.16",
+          "rowHeaders": [
+            "Physical functioning",
+            "ActiGraph"
+          ],
+          "columnHeaders": [
+            "Table 4 Outcomes at 6 months follow-up",
+            "Intention to treat analyses",
+            "a",
+            "ES"
+          ]
+        },
+        {
+          "value": "0.37 (− 0.01-0.75)",
+          "rowHeaders": [
+            "Physical functioning",
+            "ActiGraph"
+          ],
+          "columnHeaders": [
+            "Table 4 Outcomes at 6 months follow-up",
+            "Intention to treat analyses",
+            "B (95% CI)"
+          ]
+        },
+        {
+          "value": ".06",
+          "rowHeaders": [
+            "Physical functioning",
+            "ActiGraph"
+          ],
+          "columnHeaders": [
+            "Table 4 Outcomes at 6 months follow-up",
+            "Intention to treat analyses",
+            "p"
+          ]
+        },
+        {
+          "value": "−4.16 (−7.30 - −",
+          "rowHeaders": [
+            "Physical functioning"
+          ],
+          "columnHeaders": [
+            "Table 4 Outcomes at 6 months follow-up",
+            "Golsteijn et al. International Journal of Behavioral Nutrition and Physical Activity",
+            "Complete case analyses",
+            "B (95% CI)"
+          ]
+        },
+        {
+          "value": "1.02)",
+          "rowHeaders": [
+            "Physical functioning"
+          ],
+          "columnHeaders": [
+            "Table 4 Outcomes at 6 months follow-up",
+            "Golsteijn et al. International Journal of Behavioral Nutrition and Physical Activity",
+            "Complete case analyses",
+            "B (95% CI)"
+          ]
+        },
+        {
+          "value": ".009",
+          "rowHeaders": [
+            "Physical functioning"
+          ],
+          "columnHeaders": [
+            "Table 4 Outcomes at 6 months follow-up",
+            "Golsteijn et al. International Journal of Behavioral Nutrition and Physical Activity",
+            "Complete case analyses",
+            "p"
+          ]
+        },
+        {
+          "value": "0.23",
+          "rowHeaders": [
+            "Physical functioning"
+          ],
+          "columnHeaders": [
+            "Table 4 Outcomes at 6 months follow-up",
+            "Intention to treat analyses",
+            "a"
+          ]
+        },
+        {
+          "value": "3.88 (−",
+          "rowHeaders": [
+            "Physical functioning"
+          ],
+          "columnHeaders": [
+            "Table 4 Outcomes at 6 months follow-up",
+            "Intention to treat analyses",
+            "B (95% CI)"
+          ]
+        },
+        {
+          "value": "7.02 - −",
+          "rowHeaders": [
+            "Physical functioning"
+          ],
+          "columnHeaders": [
+            "Table 4 Outcomes at 6 months follow-up",
+            "Intention to treat analyses",
+            "B (95% CI)"
+          ]
+        },
+        {
+          "value": "0.74)",
+          "rowHeaders": [
+            "Physical functioning"
+          ],
+          "columnHeaders": [
+            "Table 4 Outcomes at 6 months follow-up",
+            "Intention to treat analyses",
+            "B (95% CI)"
+          ]
+        },
+        {
+          "value": ".015",
+          "rowHeaders": [
+            "Physical functioning"
+          ],
+          "columnHeaders": [
+            "Table 4 Outcomes at 6 months follow-up",
+            "Intention to treat analyses",
+            "p"
+          ]
+        },
+        {
+          "value": "1.86 (0.09-3.63)",
+          "rowHeaders": [
+            "Physical functioning"
+          ],
+          "columnHeaders": [
+            "Table 4 Outcomes at 6 months follow-up",
+            "Golsteijn et al. International Journal of Behavioral Nutrition and Physical Activity",
+            "Complete case analyses",
+            "B (95% CI)"
+          ]
+        },
+        {
+          "value": ".04",
+          "rowHeaders": [
+            "Physical functioning"
+          ],
+          "columnHeaders": [
+            "Table 4 Outcomes at 6 months follow-up",
+            "Golsteijn et al. International Journal of Behavioral Nutrition and Physical Activity",
+            "Complete case analyses",
+            "p"
+          ]
+        },
+        {
+          "value": "0.14",
+          "rowHeaders": [
+            "Physical functioning"
+          ],
+          "columnHeaders": [
+            "Table 4 Outcomes at 6 months follow-up",
+            "Intention to treat analyses",
+            "a",
+            "ES"
+          ]
+        },
+        {
+          "value": "1.31 (− 0.48-3.10)",
+          "rowHeaders": [
+            "Physical functioning"
+          ],
+          "columnHeaders": [
+            "Table 4 Outcomes at 6 months follow-up",
+            "Intention to treat analyses",
+            "B (95% CI)"
+          ]
+        },
+        {
+          "value": ".15",
+          "rowHeaders": [
+            "Physical functioning"
+          ],
+          "columnHeaders": [
+            "Table 4 Outcomes at 6 months follow-up",
+            "Intention to treat analyses",
+            "p"
+          ]
+        },
+        {
+          "value": "1.09 (−1.30-3.49)",
+          "rowHeaders": [
+            "Physical functioning",
+            "General HRQoL"
+          ],
+          "columnHeaders": [
+            "Table 4 Outcomes at 6 months follow-up",
+            "Golsteijn et al. International Journal of Behavioral Nutrition and Physical Activity",
+            "Complete case analyses",
+            "B (95% CI)"
+          ]
+        },
+        {
+          "value": ".37",
+          "rowHeaders": [
+            "Physical functioning",
+            "General HRQoL"
+          ],
+          "columnHeaders": [
+            "Table 4 Outcomes at 6 months follow-up",
+            "Golsteijn et al. International Journal of Behavioral Nutrition and Physical Activity",
+            "Complete case analyses",
+            "p"
+          ]
+        },
+        {
+          "value": "0.13",
+          "rowHeaders": [
+            "Physical functioning",
+            "General HRQoL"
+          ],
+          "columnHeaders": [
+            "Table 4 Outcomes at 6 months follow-up",
+            "Intention to treat analyses",
+            "a",
+            "ES"
+          ]
+        },
+        {
+          "value": "0.69 (−1.71-3.06)",
+          "rowHeaders": [
+            "Physical functioning",
+            "General HRQoL"
+          ],
+          "columnHeaders": [
+            "Table 4 Outcomes at 6 months follow-up",
+            "Intention to treat analyses",
+            "B (95% CI)"
+          ]
+        },
+        {
+          "value": ".58",
+          "rowHeaders": [
+            "Physical functioning",
+            "General HRQoL"
+          ],
+          "columnHeaders": [
+            "Table 4 Outcomes at 6 months follow-up",
+            "Intention to treat analyses",
+            "p"
+          ]
+        },
+        {
+          "value": "−0.14 (− 0.59-0.30)",
+          "rowHeaders": [
+            "Anxiety",
+            "Physical functioning"
+          ],
+          "columnHeaders": [
+            "Table 4 Outcomes at 6 months follow-up",
+            "Golsteijn et al. International Journal of Behavioral Nutrition and Physical Activity",
+            "Complete case analyses",
+            "B (95% CI)"
+          ]
+        },
+        {
+          "value": ".54",
+          "rowHeaders": [
+            "Anxiety",
+            "Physical functioning"
+          ],
+          "columnHeaders": [
+            "Table 4 Outcomes at 6 months follow-up",
+            "Golsteijn et al. International Journal of Behavioral Nutrition and Physical Activity",
+            "Complete case analyses",
+            "p"
+          ]
+        },
+        {
+          "value": "−0.11",
+          "rowHeaders": [
+            "Anxiety",
+            "Physical functioning"
+          ],
+          "columnHeaders": [
+            "Table 4 Outcomes at 6 months follow-up",
+            "Intention to treat analyses",
+            "a",
+            "ES"
+          ]
+        },
+        {
+          "value": "−0.15 (− 0.60-0.29)",
+          "rowHeaders": [
+            "Anxiety",
+            "Physical functioning"
+          ],
+          "columnHeaders": [
+            "Table 4 Outcomes at 6 months follow-up",
+            "Intention to treat analyses",
+            "B (95% CI)"
+          ]
+        },
+        {
+          "value": ".51",
+          "rowHeaders": [
+            "Anxiety",
+            "Physical functioning"
+          ],
+          "columnHeaders": [
+            "Table 4 Outcomes at 6 months follow-up",
+            "Intention to treat analyses",
+            "p"
+          ]
+        },
+        {
+          "value": "−0.64 (−",
+          "rowHeaders": [
+            "Physical functioning",
+            "Depression"
+          ],
+          "columnHeaders": [
+            "Table 4 Outcomes at 6 months follow-up",
+            "Golsteijn et al. International Journal of Behavioral Nutrition and Physical Activity",
+            "Complete case analyses",
+            "B (95% CI)"
+          ]
+        },
+        {
+          "value": "1.09 - - 0.19)",
+          "rowHeaders": [
+            "Physical functioning",
+            "Depression"
+          ],
+          "columnHeaders": [
+            "Table 4 Outcomes at 6 months follow-up",
+            "Golsteijn et al. International Journal of Behavioral Nutrition and Physical Activity",
+            "Complete case analyses",
+            "B (95% CI)"
+          ]
+        },
+        {
+          "value": ".005",
+          "rowHeaders": [
+            "Physical functioning",
+            "Depression"
+          ],
+          "columnHeaders": [
+            "Table 4 Outcomes at 6 months follow-up",
+            "Golsteijn et al. International Journal of Behavioral Nutrition and Physical Activity",
+            "Complete case analyses",
+            "p"
+          ]
+        },
+        {
+          "value": "−0.32",
+          "rowHeaders": [
+            "Physical functioning",
+            "Depression"
+          ],
+          "columnHeaders": [
+            "Table 4 Outcomes at 6 months follow-up",
+            "Intention to treat analyses",
+            "a",
+            "ES"
+          ]
+        },
+        {
+          "value": "−0.61 (−",
+          "rowHeaders": [
+            "Physical functioning",
+            "Depression"
+          ],
+          "columnHeaders": [
+            "Table 4 Outcomes at 6 months follow-up",
+            "Intention to treat analyses",
+            "B (95% CI)"
+          ]
+        },
+        {
+          "value": "1.06 - −",
+          "rowHeaders": [
+            "Physical functioning",
+            "Depression"
+          ],
+          "columnHeaders": [
+            "Table 4 Outcomes at 6 months follow-up",
+            "Intention to treat analyses",
+            "B (95% CI)"
+          ]
+        },
+        {
+          "value": "0.16)",
+          "rowHeaders": [
+            "Physical functioning",
+            "Depression"
+          ],
+          "columnHeaders": [
+            "Table 4 Outcomes at 6 months follow-up",
+            "Intention to treat analyses",
+            "B (95% CI)"
+          ]
+        },
+        {
+          "value": ".008",
+          "rowHeaders": [
+            "Physical functioning",
+            "Depression"
+          ],
+          "columnHeaders": [
+            "Table 4 Outcomes at 6 months follow-up",
+            "Intention to treat analyses",
+            "p"
+          ]
+        }
+      ],
+      "page": 1
+    }
+  ]
+}

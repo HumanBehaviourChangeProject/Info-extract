@@ -1,0 +1,752 @@
+{
+  "blocks": [
+    {
+      "type": "LINES",
+      "value": "Feasibility and pilot study of an intervention to support active lifestyles in youth with type 1 diabetes: The ActivPals study",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Background: Evidence suggests youth with type 1 diabetes (T1D) have lower levels of physical activity (PA) than the general population. The ActivPals intervention aimed to support youth with T1D to lead an active lifestyle.\nMethods: Twenty youth aged 7 to 16 years with T1D were recruited to a pilot randomized controlled trial. PA and quality of life (QoL) were measured using Actigraph GT3X+ monitor and Pediatric QoL scales at baseline and 1-month follow-up. A two-way, mixed ANOVA showed indicative effects of the intervention. Qualitative interviews were carried outwith 16 participants to explore perceptions of the intervention.\nResults: An increase in moderate to vigorous PA was reported in intervention and control groups from baseline to follow-up (F(1, 14) = 5.83; P = .03), with no significance between group differences. Participants in both groups reported significantly less overall diabetes \"problems\" (F(1, 16) = 7.93; P = .012) and significantly less lifestyle \"problems\" (F(1, 16) = 7.39; P = .015) at follow-up. However, both groups also reported significant increases in \"problems\" with the day-to-day diabetes routine (F(1,16) = 6.48; P = .022) at follow-up. Parents reported significant increased worry about their child's diabetes at follow-up, in both groups (F (1, 14) = 5.83; P = .046). There was no significant increase in reported hypoglycemic occurrences despite increased PA. The qualitative data highlight that goal setting, self-monitoring, and social support were effective motivators for increasing PA.",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Regular physical activity (PA) has many physical and psychological health benefits for individuals with Type 1 Diabetes (T1D) and is recommended in current clinical guidelines. Regular PA may reduce the risk of developing diabetes-related health risks and complications (eg, retinopathy, nephropathy, cardiovascular disease, and cerebrovascular disease and is associated with a better quality of life (QoL). Increasing QoL is of particular importance as youth with T1D have reported poorer QoL than youth without T1D. Despite the clear benefits of regular PA, youth with T1D lead less active lives and have poorer health outcomes than youth without T1D. PA levels in this population are also well below the recommendations for health, with around two thirds of youth with T1D failing to meet the target of 60 minutes/day of moderate to vigorous physical activity (MVPA) and spending prolonged periods of time sedentary. Designing effective interventions to support PA in youth with T1D are an important area of research. While PA intervention development in this population is growing, methodological limitations of previous work make it difficult to assess intervention effectiveness.\nFor example, typically studies are not based on behavioral change theories, have uncontrolled designs, or consist of a very structured supervised intervention design (eg, using supervised structured exercise classes in the intervention). While supervised settings may result in short-term changes in PA, these changes are often not maintained postintervention. The Medical Research council (MRC) framework for developing and evaluating complex interventions strongly advises carrying out feasibility and pilot work prior to running a full-scale trial; therefore, in keeping with phases 1 and 2 of the MRC framework, the aim of this study was to use a mixed-method study design to determine:\n1. The recruitment, initial retention, and adherence levels that can be achieved fora 4-week intervention program in both the intervention and control groups.\n2. Preliminary evidence of effect of the intervention on PA, sedentary behavior, and QoL.\n3. Participants' perceptions of the intervention, for supporting an active lifestyle.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The ActivPals intervention aimed to: support youths with T1D to initiate and maintain an active lifestyle, including increased MVPA and reduced sedentary behavior. The intervention includes a PA consultation, based on social cognitive theory. This consultation model has been successfully used with other diabetes groups. The intervention was designed by the research team based on existing evidence and consultations with young people with T1D, parents and health professionals working with youth with T1D. Strategies and techniques identified as important for supporting behavior change were incorporated in the consultation to support initiation and maintenance of an active lifestyle. This was focused on increasing motivation and reducing barriers to PA, with additional discussion of self-efficacy, decisional balance, and techniques to support behavior change. Goal setting was used to agree a 4-week individualized graduated PA program, in the form of a specially designed diary booklet. Participants were encouraged to record daily steps in this diary. A motivational video message from an athlete with T1D was also provided to participants. In addition, a self-monitoring pedometer wrist device which records daily steps and syncs to a mobile app and website was given to all participants in the intervention group. The researcher prompted the participants to adhere to their individualized PA plan via text message, throughout the 4-week intervention period. A nominated parent supported each young person throughout the full intervention period. The ActivPals intervention was tailored to the individual's baseline activity, activity preferences, and local opportunities. The intervention was delivered by the researcher (first author) who is collecting the data for the study. More information on the ActivPals intervention can be found in the protocol paper. The PA consultation booklets that were used with young people and parents during the consultation are provided as an appendix (Supporting information).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "A full recruitment strategy is provided as an appendix in the protocol paper. Recruitment of participants took place between January and March 2016 and finished when the target sample size was reached (n = 20). The sample size was based on recommendations from authors specializing in feasibility and pilot studies. The sample will introduce sufficient variance to examine the feasibility of a larger study. Participants were recruited to the study from 2 points (1) pediatric diabetes clinics (main recruitment site) and (2) through new start groups for young people with T1D. Participants who were eligible and interested in participating in the study were given an information pack with details about participation. The researcher then contacted participants and arranged a visit to discuss the study. Participants were eligible if they were aged 7 to 16 with a medical diagnosis of T1D, and they were registered in Greater Glasgow and Clyde (GG & C) Children's Diabetes Service and were independently ambulatory.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "To examine preliminary effectiveness of the 4-week PA intervention, ActivPals, objectively measured PA (light and MVPA) sedentary behaviors, body mass index and QoL data were collected. Details of these measures are provided below. Outcomes were collected at baseline (pre-intervention/pre-control) and 4-week post-intervention/post-control follow-up.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "After baseline measures were collected, the PI of the study (AK) used computer software to randomly allocate participants to an intervention group or a waiting list control group. Allocation of group was concealed from the researcher who was collecting the data and delivering the intervention (FM), until immediately before the intervention/control group visit. Those allocated to the control group were offered the intervention once all post-control data had been collected. The study protocol is described in full elsewhere. Full National Health Service (NHS) ethical approval was been granted for the study by the appropriate research ethics committee.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Objective measures of PA and sedentary behavior were collected using the Actigraph GT3X+ monitor. This monitor allows objective recording of daily time spent in sedentary, light, and MVPA. These monitors are small (approx. size of a UK £2 coin) and lightweight (19 g). Participants were asked to wear the accelerometers around the waist during waking hours for 7 days, excluding water-based activities. Accelerometer data were downloaded to Actilife software Pensacola, Florida, USA. (version 6.4.3). In line with previous studies, a minimum wear time fora valid day was defined as 6 hours/day, with a minimum of 3 days of data required for analysis inclusion. The primary outcome measure of % of daily time spent in MVPA and sedentary behavior was determined using cut-points calibrated and validated in pediatric studies: sedentary (<100 cpm) and MVPA (≥3200 cpm). A macro was used to calculate average timeworn per day. This was designed by an expert in accelerometer data who has developed and tested this extensively with various populations. To ensure that sleep data were not included in the analysis, data recorded between 12:00 and 6:00 AM was excluded from the analysis, for all participants (unless otherwise reported in wear time diaries).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The researchers also checked the data visually to check if any participants that had worn the accelerometer overnight slept past 6 AM. In such cases, this was manually adjusted in the macro and removed until the participant was awake.\nPeriods of consecutive zeros, other than that recorded in wear diaries as sleep time or non-wear, were kept in the data, as assumptions were not made to define periods as non-wear or sedentary behavior. All participants wore the accelerometer for at least 6 hours a day for at least 3 days a week, therefore all were included in the analysis. If accelerometers were worn for less than 7 days, average time in PA and sedentary behavior was adjusted and calculated for each valid day. In total, full accelerometer data were analyzed for 16 participants, 8 in each arm of the intervention.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Generic-and disease-specific questionnaires were used to measure QoL in participants. The PedsQoL 4.0 Generic Core Scale was used to measure general QoL. This 23-item questionnaire contains the following subscales: physical functioning, emotional functioning, social functioning, and school functioning. A psychosocial health summary score was calculated from the average of the emotional, social, and school functioning subscales, a physical health summary score from the physical functioning subscale, and a total overall score from the average of all subscales. This scale has shown good reliability and validity in this population. The PedsQoL 3.0 type 1 Diabetes Module is a 28-item questionnaire measuring diabetes-specific QoL and consists of 5 subscales: diabetes symptoms, treatment barriers, treatment adherence, worry, and communication. Patients (selfreport) and their parents (proxy-report of the child's QoL) completed questionnaires by rating items on how much each was a problem in the previous month using a 5-point Likert scale (\"0\" = never a problem; \"4\" = almost always a problem). This questionnaire has been validated and has been shown to be reliable in youth with T1D. Changes in general QoL and diabetes module scores were analyzed between intervention and control groups to asses for any trends in intervention effects.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Participants were invited to have their weight, height, and waist circumference measured wearing light clothes without shoes. All measurements were made in duplicate and the final value calculated as the mean of the 2 measurements. Weight in kilograms (kg) was measured to the nearest 100 g (g), using SECA 877 scales (SE approval class III; SEA Germany). Height in meters (m) was measured to the nearest 1 mm (mm) using the SECA Leicester stadiometer (SECA, Birmingham, United Kingdom). The height (m) and weight (kg) were used to calculate BMI using the formula: BMI = weight/height 2 (kg/m 2 ).\nWaist circumference was measured to the nearest 0.5 cm (cm) at the midpoint between the iliac crest and the lowest rib, in full expiration with the participant standing.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Interviews were recorded, transcribed verbatim, and analyzed using a 6-stage thematic process. Transcription by the interviewer allowed familiarization with the data. The researcher who carried out the interviews read the transcripts several times before identifying initial themes. Transcripts were re-read and themes and subthemes refined.\nTo enhance reliability, 20% of the transcripts were systematically coded independently by the first author (FM) , who also designed the interview guide. The researchers searched for consistent patterns of meanings and relationships across transcripts and grouped categories together, as well as noting divergent views. This process was used until data saturation was achieved.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The goal of recruiting 20 young people with T1D was achieved by recruited from T1D clinic and groups. Ten were randomized to the ActivPals intervention (n = 7 females) and 10 to the waiting list control group (n = 5 females). The mean age of participants in both groups was 12 years. In total, valid accelerometer data were available for 16 (80%) of the 20 participants at the 4-week data collection point (Figure). The proportion of participants lost to follow-up was the same for the ActivPals (10%) and control group (10%), and there were no differences in baseline characteristics between participants lost to follow-up and completers.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "There was no significant postintervention effects on % of waking time spent in light PA or % of time spent sedentary (within or between groups) at 4 weeks (see Table). While there was no significant intervention effect (between group difference) in % of time spent in MVPA, results showed a significant increase in % of time in MVPA in both intervention and control group from baseline to follow-up (F(1, 14) = 5.83; P = .03).\nFor QoL measures, participants in both groups reported significantly less overall diabetes \"problems\" (F(1, 16) = 7.93; P = .012) and significantly less lifestyle \"problems\" (F(1, 16) = 7.39; P = .015) at follow-up. However, both groups also reported significant increases in \"problems\" with the day-to-day diabetes routine (F(1, 16) = 6.48; P = .022) at follow-up. Parents reported significant increased worry about their child's diabetes at follow-up, in both groups (F (1, 14) = 5.83; P = .046). There was no significant increase in reported hypoglycemic occurrences despite increased MVPA.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The ActivPals PA intervention included a range of behavior change techniques, including goal setting, self-monitoring (using a pedometer and app), action planning, social support, and role modeling. Generally, these components were viewed favorably by participants and parents, suggesting that the intervention was acceptable and viewed positively by the study population it was developed for. The    The pedometer used in the study (linked to a smartphone app) was universally acknowledged to provide motivation to increase PA. This tracked daily steps, so participants were able to self-monitor if they were meeting the goals they set with the researcher; It taught me to do the best I could and to motivate myself because if I looked and saw I hadn't done that many steps then I could go and get out and do something, so it motivated me to do more. (P8, F;12) While there were some technical and practical challenges reported about the pedometer device (mainly that it could easily be lost and did not always charge effectively), many of the participants talked about the pedometer as a fun \"gadget\" to show their progression and compete with others. For a few participants, this may have been the motivating factor to take part in the study: Social support for living an active lifestyle was identified as crucial in this intervention. Parental support varied from providing words of encouragement, driving children to activities, to physically participating in activities with their children. Interestingly, many parents were keen to use a pedometer so they could also monitor their own steps and participate in PA with their child. The involvement of parents often differed with age of participant, with younger participants often being more keen to exercise with parents: And I like walking more with my mum because that's encouraging me to do lots more stuff and do more running about. (P2, M;10)\nIn addition to parental support, the support of a health professional was also valued. In this case, the researcher who carried out the intervention encouraged participants throughout the intervention period. This external social support was viewed favorably, particularly by the older (adolescent) participants in the study. This move into adolescence often results in young people seeking independence from their parents; therefore an external support was particularly useful in such cases:  individualized intervention, the results suggest that both intervention and control groups significantly increased their MVPA. This is an interesting finding and suggests that participating in a PA research study may, in itself, have motivated youths to increase their MVPA.\nAs participants were either newly diagnosed with the condition or were attending a T1D clinic appointment when they were recruited, there may have been an increased readiness to change behavior, for some participants. In addition, it maybe that seasonal changes (participants were recruited from January to March) also played a role in increased PA in the participants. As this study was carried out in Scotland, winter can be particularly cold with early dark nights.\nRecruitment to this study from January may have motivated participants to begin to get active as the spring months approached, suggested by previous Scottish studies. A large-scale study would include a longer recruitment period and therefore recruitment could be mapped to seasons to assess any differences.\nThere was no significant difference between the intervention and control group for total QoL scores at baseline and follow-up. However, both the intervention and control group had significantly higher overall QoL scores on the child/teenage questionnaire at follow-up, from baseline. A higher score indicates less diabetes \"problems\" and greater QoL, therefore this is a positive finding. Interestingly, there was a significant increase in problems reported in treatment 1 subscale of the diabetes questionnaire and a significant increase in child report scores of treatment 2 of diabetes in both intervention and control group.\nTreatment subscale 1 asks questions \"It hurts to prick my finger or give myself insulin injections\", \"I am embarrassed about having diabetes\", \"my parents and I argue about my diabetes care\", and \"it is hard for me to stick to my diabetes routine\". The significant change in scores from baseline to follow-up, in both groups, shows that there were more \"problems\" with treatment. This may relate to the increased MVPA levels seen in participants, which is likely to have resulted in increased self-monitoring of their diabetes. For example, more finger prick tests needed, more adjustments for increased PA, and increased challenges with sticking to their diabetes routine. Therefore, the positive change in MVPA may also have resulted in increased challenges of some aspects of managing diabetes, which is supported by previous work. Interestingly, in the treatment 2 subscale the young people rated their problems for treatment of diabetes significantly lower from baseline to follow-up (\"it is hard for me to do blood glucose tests\", \"it is hard for me to give myself insulin shots\", \"it is hard for me to exercise\", \"it is hard for me to follow a healthy diet\", \"it is hard for me to wear an id bracelet/carry a card\", \"it is hard for me to carry a fast acting carbohydrate\", \"it is hard for me to eat snacks between meals when I should\"). This suggests that practicing the behaviors of good diabetes management was significantly better at follow-up than baseline (exercising, following a healthy diet, eating snacks when should).\nThe results also indicate a significant increase in parents reported worry about their child's diabetes from baseline to follow-up in both groups. This may also be related to the increased MVPA, as parents were aware that there was more self-monitoring and management needed. Parents worry may have increased as young people's problems with diabetes treatment increased (treatment 1 subscale). Previous research has highlighted that more psychosocial support is needed for parents as they adjust to anew diagnosis of T1D and through changes in their child's lifestyle. The future trial will include a focus on providing psychosocial support to parents and youth.\nThe qualitative data suggest that nearly all of our participants felt that having goals encouraged their participation, with most of those in favor of comparing daily steps with family members or friends. The pedometer therefore provided a competitive aspect to their behavior.\nThe use of a pedometer was universally acknowledged to provide motivation through self-monitoring and goal setting and was an incentive for participation to the more technologically minded children. Future research with this population could develop technologies further to incorporate PA, dietary and blood sugar monitoring, within one device. The type of social support required is likely to be age related, therefore future interventions should ensure a suitable family and/or external support is available to participants.\nThis study provides interesting findings about the recruitment, retention, and indicative results of a 4-week PA intervention for youth with T1D. These results suggest taking part in PA research study may have potential to increase MVPA levels and overall QoL in youth with T1D without significantly increasing hypoglycemic episodes. While there was increased parental worry and increased treatment problems (subscale 1), this was likely to be a reaction to the short-term change in lifestyle behaviors and resultant changes in blood glucose. We suggest that a full-scale intervention study which has a parental psychosocial support component would bean effective strategy to combat this. In addition, as PA increases over a longer period and lifestyle changes became part of daily living, the perceived worry associated with change of routine would reduce.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "As this was a small-scale trial, with the researcher delivering the intervention (therefore not blind to the trial), we want to emphasize that the results show indicative effects, rather than definitive results.\nThe PA and QoL findings are interesting and suggest the need fora large-scale trial, with a longer intervention period and long-term postintervention follow-up data. The full-scale intervention will build on the results of the pilot and feasibility work and take into account the feedback from the qualitative interviews. For example, we plan to do a separate project which focuses on developing technology for increasing healthy lifestyles in youth with T1D. This will then provide tailored and a more sophisticated device and app to address many of the challenges faced in this pilot study.\nThere were no adverse events reported from this study.\n",
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "254.0 (86.1)",
+          "rowHeaders": [
+            "Minutes LPA (light physical"
+          ],
+          "columnHeaders": [
+            "TABLE 1 Baseline, follow-up, and differences in PA and QoL outcomes",
+            "Baseline, follow-up, and differences in PA and QoL outcomes",
+            "Baseline, (n=) mean (SD)",
+            "Intervention",
+            "(n = 8)"
+          ]
+        },
+        {
+          "value": "253.1 (77)",
+          "rowHeaders": [
+            "Minutes LPA (light physical"
+          ],
+          "columnHeaders": [
+            "TABLE 1 Baseline, follow-up, and differences in PA and QoL outcomes",
+            "Baseline, follow-up, and differences in PA and QoL outcomes",
+            "Baseline, (n=) mean (SD)",
+            "Control",
+            "(n = 8)"
+          ]
+        },
+        {
+          "value": "219.1 (83.5)",
+          "rowHeaders": [
+            "Minutes LPA (light physical"
+          ],
+          "columnHeaders": [
+            "TABLE 1 Baseline, follow-up, and differences in PA and QoL outcomes",
+            "Baseline, follow-up, and differences in PA and QoL outcomes",
+            "4-Week follow-up, mean (SD)",
+            "Intervention",
+            "(n = 8)"
+          ]
+        },
+        {
+          "value": "218.1 (57.5)",
+          "rowHeaders": [
+            "Minutes LPA (light physical"
+          ],
+          "columnHeaders": [
+            "TABLE 1 Baseline, follow-up, and differences in PA and QoL outcomes",
+            "Baseline, follow-up, and differences in PA and QoL outcomes",
+            "4-Week follow-up, mean (SD)",
+            "Control",
+            "(n = 8)"
+          ]
+        },
+        {
+          "value": "−34.9 (−11.3-81.4)",
+          "rowHeaders": [
+            "Minutes LPA (light physical"
+          ],
+          "columnHeaders": [
+            "TABLE 1 Baseline, follow-up, and differences in PA and QoL outcomes",
+            "Baseline, follow-up, and differences in PA and QoL outcomes",
+            "up) (95% CI)",
+            "Control",
+            "Intervention"
+          ]
+        },
+        {
+          "value": "23.8 (7.9)",
+          "rowHeaders": [
+            "% LPA"
+          ],
+          "columnHeaders": [
+            "TABLE 1 Baseline, follow-up, and differences in PA and QoL outcomes",
+            "Baseline, follow-up, and differences in PA and QoL outcomes",
+            "Baseline, (n=) mean (SD)",
+            "Intervention",
+            "(n = 8)"
+          ]
+        },
+        {
+          "value": "23.4 (7.1)",
+          "rowHeaders": [
+            "% LPA"
+          ],
+          "columnHeaders": [
+            "TABLE 1 Baseline, follow-up, and differences in PA and QoL outcomes",
+            "Baseline, follow-up, and differences in PA and QoL outcomes",
+            "Baseline, (n=) mean (SD)",
+            "Control",
+            "(n = 8)"
+          ]
+        },
+        {
+          "value": "20.7 (8)",
+          "rowHeaders": [
+            "% LPA"
+          ],
+          "columnHeaders": [
+            "TABLE 1 Baseline, follow-up, and differences in PA and QoL outcomes",
+            "Baseline, follow-up, and differences in PA and QoL outcomes",
+            "4-Week follow-up, mean (SD)",
+            "Intervention",
+            "(n = 8)"
+          ]
+        },
+        {
+          "value": "20.8 (5.2)",
+          "rowHeaders": [
+            "% LPA"
+          ],
+          "columnHeaders": [
+            "TABLE 1 Baseline, follow-up, and differences in PA and QoL outcomes",
+            "Baseline, follow-up, and differences in PA and QoL outcomes",
+            "4-Week follow-up, mean (SD)",
+            "Control",
+            "(n = 8)"
+          ]
+        },
+        {
+          "value": "−3.1 (−1.2-7.3)",
+          "rowHeaders": [
+            "% LPA"
+          ],
+          "columnHeaders": [
+            "TABLE 1 Baseline, follow-up, and differences in PA and QoL outcomes",
+            "Baseline, follow-up, and differences in PA and QoL outcomes",
+            "up) (95% CI)",
+            "Control",
+            "Intervention"
+          ]
+        },
+        {
+          "value": "−2.6 (−1.6-6.9)",
+          "rowHeaders": [
+            "% LPA"
+          ],
+          "columnHeaders": [
+            "TABLE 1 Baseline, follow-up, and differences in PA and QoL outcomes",
+            "Baseline, follow-up, and differences in PA and QoL outcomes",
+            "up) (95% CI)",
+            "Control",
+            "Control"
+          ]
+        },
+        {
+          "value": "18.2 (16)",
+          "rowHeaders": [
+            "Minutes MVPA"
+          ],
+          "columnHeaders": [
+            "TABLE 1 Baseline, follow-up, and differences in PA and QoL outcomes",
+            "Baseline, follow-up, and differences in PA and QoL outcomes",
+            "Baseline, (n=) mean (SD)",
+            "Intervention",
+            "(n = 8)"
+          ]
+        },
+        {
+          "value": "22.5 (16.2)",
+          "rowHeaders": [
+            "Minutes MVPA"
+          ],
+          "columnHeaders": [
+            "TABLE 1 Baseline, follow-up, and differences in PA and QoL outcomes",
+            "Baseline, follow-up, and differences in PA and QoL outcomes",
+            "Baseline, (n=) mean (SD)",
+            "Control",
+            "(n = 8)"
+          ]
+        },
+        {
+          "value": "24.7 (14.1)",
+          "rowHeaders": [
+            "Minutes MVPA"
+          ],
+          "columnHeaders": [
+            "TABLE 1 Baseline, follow-up, and differences in PA and QoL outcomes",
+            "Baseline, follow-up, and differences in PA and QoL outcomes",
+            "4-Week follow-up, mean (SD)",
+            "Intervention",
+            "(n = 8)"
+          ]
+        },
+        {
+          "value": "6.5 (−20.9-8.0)",
+          "rowHeaders": [
+            "Minutes MVPA"
+          ],
+          "columnHeaders": [
+            "TABLE 1 Baseline, follow-up, and differences in PA and QoL outcomes",
+            "Baseline, follow-up, and differences in PA and QoL outcomes",
+            "up) (95% CI)",
+            "Control",
+            "Intervention"
+          ]
+        },
+        {
+          "value": "15.5 (−29.9- -1.0)",
+          "rowHeaders": [
+            "Minutes MVPA"
+          ],
+          "columnHeaders": [
+            "TABLE 1 Baseline, follow-up, and differences in PA and QoL outcomes",
+            "Baseline, follow-up, and differences in PA and QoL outcomes",
+            "up) (95% CI)",
+            "Control",
+            "Control"
+          ]
+        },
+        {
+          "value": "1.7 (1.5)",
+          "rowHeaders": [
+            "% MVPA"
+          ],
+          "columnHeaders": [
+            "TABLE 1 Baseline, follow-up, and differences in PA and QoL outcomes",
+            "Baseline, follow-up, and differences in PA and QoL outcomes",
+            "Baseline, (n=) mean (SD)",
+            "Intervention",
+            "(n = 8)"
+          ]
+        },
+        {
+          "value": "2.1 (1.5)",
+          "rowHeaders": [
+            "% MVPA"
+          ],
+          "columnHeaders": [
+            "TABLE 1 Baseline, follow-up, and differences in PA and QoL outcomes",
+            "Baseline, follow-up, and differences in PA and QoL outcomes",
+            "Baseline, (n=) mean (SD)",
+            "Control",
+            "(n = 8)"
+          ]
+        },
+        {
+          "value": "2.3 (1.3)",
+          "rowHeaders": [
+            "% MVPA"
+          ],
+          "columnHeaders": [
+            "TABLE 1 Baseline, follow-up, and differences in PA and QoL outcomes",
+            "Baseline, follow-up, and differences in PA and QoL outcomes",
+            "4-Week follow-up, mean (SD)",
+            "Intervention",
+            "(n = 8)"
+          ]
+        },
+        {
+          "value": "3.6 (2.0)",
+          "rowHeaders": [
+            "% MVPA"
+          ],
+          "columnHeaders": [
+            "TABLE 1 Baseline, follow-up, and differences in PA and QoL outcomes",
+            "Baseline, follow-up, and differences in PA and QoL outcomes",
+            "4-Week follow-up, mean (SD)",
+            "Control",
+            "(n = 8)"
+          ]
+        },
+        {
+          "value": "0.6 (−1.9-0.7)",
+          "rowHeaders": [
+            "% MVPA"
+          ],
+          "columnHeaders": [
+            "TABLE 1 Baseline, follow-up, and differences in PA and QoL outcomes",
+            "Baseline, follow-up, and differences in PA and QoL outcomes",
+            "up) (95% CI)",
+            "Control",
+            "Intervention"
+          ]
+        },
+        {
+          "value": "1.5 9 (−2.8-0.2)",
+          "rowHeaders": [
+            "% MVPA"
+          ],
+          "columnHeaders": [
+            "TABLE 1 Baseline, follow-up, and differences in PA and QoL outcomes",
+            "Baseline, follow-up, and differences in PA and QoL outcomes",
+            "up) (95% CI)",
+            "Control",
+            "Control"
+          ]
+        },
+        {
+          "value": "797.7 (88.4)",
+          "rowHeaders": [
+            "Minutes sedentary"
+          ],
+          "columnHeaders": [
+            "TABLE 1 Baseline, follow-up, and differences in PA and QoL outcomes",
+            "Baseline, follow-up, and differences in PA and QoL outcomes",
+            "Baseline, (n=) mean (SD)",
+            "Intervention",
+            "(n = 8)"
+          ]
+        },
+        {
+          "value": "798.6 (69.6)",
+          "rowHeaders": [
+            "Minutes sedentary"
+          ],
+          "columnHeaders": [
+            "TABLE 1 Baseline, follow-up, and differences in PA and QoL outcomes",
+            "Baseline, follow-up, and differences in PA and QoL outcomes",
+            "Baseline, (n=) mean (SD)",
+            "Control",
+            "(n = 8)"
+          ]
+        },
+        {
+          "value": "819.9 (98.9)",
+          "rowHeaders": [
+            "Minutes sedentary"
+          ],
+          "columnHeaders": [
+            "TABLE 1 Baseline, follow-up, and differences in PA and QoL outcomes",
+            "Baseline, follow-up, and differences in PA and QoL outcomes",
+            "4-Week follow-up, mean (SD)",
+            "Intervention",
+            "(n = 8)"
+          ]
+        },
+        {
+          "value": "791.5 (66.7)",
+          "rowHeaders": [
+            "Minutes sedentary"
+          ],
+          "columnHeaders": [
+            "TABLE 1 Baseline, follow-up, and differences in PA and QoL outcomes",
+            "Baseline, follow-up, and differences in PA and QoL outcomes",
+            "4-Week follow-up, mean (SD)",
+            "Control",
+            "(n = 8)"
+          ]
+        },
+        {
+          "value": "22.2 (−71.1-26.8)",
+          "rowHeaders": [
+            "Minutes sedentary"
+          ],
+          "columnHeaders": [
+            "TABLE 1 Baseline, follow-up, and differences in PA and QoL outcomes",
+            "Baseline, follow-up, and differences in PA and QoL outcomes",
+            "up) (95% CI)",
+            "Control",
+            "Intervention"
+          ]
+        },
+        {
+          "value": "−7.1 (−42.3-55.6)",
+          "rowHeaders": [
+            "Minutes sedentary"
+          ],
+          "columnHeaders": [
+            "TABLE 1 Baseline, follow-up, and differences in PA and QoL outcomes",
+            "Baseline, follow-up, and differences in PA and QoL outcomes",
+            "up) (95% CI)",
+            "Control",
+            "Control"
+          ]
+        },
+        {
+          "value": "74.5 (8.5)",
+          "rowHeaders": [
+            "% sedentary"
+          ],
+          "columnHeaders": [
+            "TABLE 1 Baseline, follow-up, and differences in PA and QoL outcomes",
+            "Baseline, follow-up, and differences in PA and QoL outcomes",
+            "Baseline, (n=) mean (SD)",
+            "Intervention",
+            "(n = 8)"
+          ]
+        },
+        {
+          "value": "74.4 (7.2)",
+          "rowHeaders": [
+            "% sedentary"
+          ],
+          "columnHeaders": [
+            "TABLE 1 Baseline, follow-up, and differences in PA and QoL outcomes",
+            "Baseline, follow-up, and differences in PA and QoL outcomes",
+            "Baseline, (n=) mean (SD)",
+            "Control",
+            "(n = 8)"
+          ]
+        },
+        {
+          "value": "76.9 (8.6)",
+          "rowHeaders": [
+            "% sedentary"
+          ],
+          "columnHeaders": [
+            "TABLE 1 Baseline, follow-up, and differences in PA and QoL outcomes",
+            "Baseline, follow-up, and differences in PA and QoL outcomes",
+            "4-Week follow-up, mean (SD)",
+            "Intervention",
+            "(n = 8)"
+          ]
+        },
+        {
+          "value": "75.6 (7.1)",
+          "rowHeaders": [
+            "% sedentary"
+          ],
+          "columnHeaders": [
+            "TABLE 1 Baseline, follow-up, and differences in PA and QoL outcomes",
+            "Baseline, follow-up, and differences in PA and QoL outcomes",
+            "4-Week follow-up, mean (SD)",
+            "Control",
+            "(n = 8)"
+          ]
+        },
+        {
+          "value": "2.4 (−7-2.2)",
+          "rowHeaders": [
+            "% sedentary"
+          ],
+          "columnHeaders": [
+            "TABLE 1 Baseline, follow-up, and differences in PA and QoL outcomes",
+            "Baseline, follow-up, and differences in PA and QoL outcomes",
+            "up) (95% CI)",
+            "Control",
+            "Intervention"
+          ]
+        },
+        {
+          "value": "1.2 (−5.7-3.5)",
+          "rowHeaders": [
+            "% sedentary"
+          ],
+          "columnHeaders": [
+            "TABLE 1 Baseline, follow-up, and differences in PA and QoL outcomes",
+            "Baseline, follow-up, and differences in PA and QoL outcomes",
+            "up) (95% CI)",
+            "Control",
+            "Control"
+          ]
+        },
+        {
+          "value": "81.4 (10)",
+          "rowHeaders": [
+            "QoL general child/teenage"
+          ],
+          "columnHeaders": [
+            "TABLE 1 Baseline, follow-up, and differences in PA and QoL outcomes",
+            "Baseline, follow-up, and differences in PA and QoL outcomes",
+            "Baseline, (n=) mean (SD)",
+            "Intervention",
+            "(n = 8)",
+            "Baseline, (n=) mean (SD)",
+            "Intervention (n = 9)"
+          ]
+        },
+        {
+          "value": "76.4 (15)",
+          "rowHeaders": [
+            "QoL general child/teenage"
+          ],
+          "columnHeaders": [
+            "TABLE 1 Baseline, follow-up, and differences in PA and QoL outcomes",
+            "Baseline, follow-up, and differences in PA and QoL outcomes",
+            "Baseline, (n=) mean (SD)",
+            "Control",
+            "(n = 8)",
+            "Baseline, (n=) mean (SD)",
+            "Control (n = 9)"
+          ]
+        },
+        {
+          "value": "81.5 (11.2)",
+          "rowHeaders": [
+            "QoL general child/teenage"
+          ],
+          "columnHeaders": [
+            "TABLE 1 Baseline, follow-up, and differences in PA and QoL outcomes",
+            "Baseline, follow-up, and differences in PA and QoL outcomes",
+            "4-Week follow-up, mean (SD)",
+            "Intervention",
+            "(n = 8)",
+            "4-Week follow-up, mean (SD)",
+            "Intervention (n = 9)"
+          ]
+        },
+        {
+          "value": "81.2 (13)",
+          "rowHeaders": [
+            "QoL general child/teenage"
+          ],
+          "columnHeaders": [
+            "TABLE 1 Baseline, follow-up, and differences in PA and QoL outcomes",
+            "Baseline, follow-up, and differences in PA and QoL outcomes",
+            "4-Week follow-up, mean (SD)",
+            "Control",
+            "(n = 8)",
+            "4-Week follow-up, mean (SD)",
+            "Control (n = 9)"
+          ]
+        },
+        {
+          "value": "0.2 (−4.8-4.6)",
+          "rowHeaders": [
+            "QoL general child/teenage"
+          ],
+          "columnHeaders": [
+            "TABLE 1 Baseline, follow-up, and differences in PA and QoL outcomes",
+            "Baseline, follow-up, and differences in PA and QoL outcomes",
+            "up) (95% CI)",
+            "Control",
+            "Intervention",
+            "week follow-up) (95% CI)",
+            "Intervention"
+          ]
+        },
+        {
+          "value": "4.8 (−9.4-0)",
+          "rowHeaders": [
+            "QoL general child/teenage"
+          ],
+          "columnHeaders": [
+            "TABLE 1 Baseline, follow-up, and differences in PA and QoL outcomes",
+            "Baseline, follow-up, and differences in PA and QoL outcomes",
+            "up) (95% CI)",
+            "Control",
+            "Control",
+            "week follow-up) (95% CI)",
+            "Control"
+          ]
+        },
+        {
+          "value": "79.1 (8.4)",
+          "rowHeaders": [
+            "QoL general parent"
+          ],
+          "columnHeaders": [
+            "TABLE 1 Baseline, follow-up, and differences in PA and QoL outcomes",
+            "Baseline, follow-up, and differences in PA and QoL outcomes",
+            "Baseline, (n=) mean (SD)",
+            "Intervention",
+            "(n = 8)",
+            "Baseline, (n=) mean (SD)",
+            "Intervention (n = 9)"
+          ]
+        },
+        {
+          "value": "79.1 (11)",
+          "rowHeaders": [
+            "QoL general parent"
+          ],
+          "columnHeaders": [
+            "TABLE 1 Baseline, follow-up, and differences in PA and QoL outcomes",
+            "Baseline, follow-up, and differences in PA and QoL outcomes",
+            "4-Week follow-up, mean (SD)",
+            "Intervention",
+            "(n = 8)",
+            "4-Week follow-up, mean (SD)",
+            "Intervention (n = 9)"
+          ]
+        },
+        {
+          "value": "69.2 (12.3)",
+          "rowHeaders": [
+            "QoL diabetes-specific"
+          ],
+          "columnHeaders": [
+            "TABLE 1 Baseline, follow-up, and differences in PA and QoL outcomes",
+            "Baseline, follow-up, and differences in PA and QoL outcomes",
+            "Baseline, (n=) mean (SD)",
+            "Control",
+            "(n = 8)",
+            "Baseline, (n=) mean (SD)",
+            "Control (n = 9)"
+          ]
+        },
+        {
+          "value": "72.3 (12.1)",
+          "rowHeaders": [
+            "QoL diabetes-specific"
+          ],
+          "columnHeaders": [
+            "TABLE 1 Baseline, follow-up, and differences in PA and QoL outcomes",
+            "Baseline, follow-up, and differences in PA and QoL outcomes",
+            "4-Week follow-up, mean (SD)",
+            "Intervention",
+            "(n = 8)",
+            "4-Week follow-up, mean (SD)",
+            "Intervention (n = 9)"
+          ]
+        },
+        {
+          "value": "5.3 (−11.2-0)",
+          "rowHeaders": [
+            "QoL diabetes-specific"
+          ],
+          "columnHeaders": [
+            "TABLE 1 Baseline, follow-up, and differences in PA and QoL outcomes",
+            "Baseline, follow-up, and differences in PA and QoL outcomes",
+            "up) (95% CI)",
+            "Control",
+            "Intervention",
+            "week follow-up) (95% CI)",
+            "Intervention"
+          ]
+        },
+        {
+          "value": "4.8 (−10.4-0.7)",
+          "rowHeaders": [
+            "QoL diabetes-specific"
+          ],
+          "columnHeaders": [
+            "TABLE 1 Baseline, follow-up, and differences in PA and QoL outcomes",
+            "Baseline, follow-up, and differences in PA and QoL outcomes",
+            "up) (95% CI)",
+            "Control",
+            "Control",
+            "week follow-up) (95% CI)",
+            "Control"
+          ]
+        },
+        {
+          "value": "72.6 (10.5)",
+          "rowHeaders": [
+            "QoL diabetes-specific"
+          ],
+          "columnHeaders": [
+            "TABLE 1 Baseline, follow-up, and differences in PA and QoL outcomes",
+            "Baseline, follow-up, and differences in PA and QoL outcomes",
+            "Baseline, (n=) mean (SD)",
+            "Control",
+            "(n = 8)",
+            "Baseline, (n=) mean (SD)",
+            "Control (n = 9)"
+          ]
+        },
+        {
+          "value": "0.4 (−4.7-4.9)",
+          "rowHeaders": [
+            "QoL diabetes-specific"
+          ],
+          "columnHeaders": [
+            "TABLE 1 Baseline, follow-up, and differences in PA and QoL outcomes",
+            "Baseline, follow-up, and differences in PA and QoL outcomes",
+            "up) (95% CI)",
+            "Control",
+            "Control",
+            "week follow-up) (95% CI)",
+            "Control"
+          ]
+        }
+      ],
+      "page": 1
+    }
+  ]
+}

@@ -1,0 +1,879 @@
+{
+  "blocks": [
+    {
+      "type": "LINES",
+      "value": "Randomised controlled trial of an augmented exercise referral scheme using web-based behavioural support for inactive adults with chronic health conditions: the e-coachER trial",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Objective To determine whether adding web-based support (e-coachER) to an exercise referral scheme (ERS) increases objectively assessed physical activity (PA). Design Multicentre trial with participants randomised to usual ERS alone (control) or usual ERS plus e-coachER (intervention). Setting Primary care and ERS in three UK sites from 2015 to 2018. Participants 450 inactive ERS referees with chronic health conditions. Interventions Participants received a pedometer, PA recording sheets and a user guide for the web-based support. e-coachER interactively encouraged the use of the ERS and other PA options. Main outcome measures Primary and key secondary outcomes were: objective moderate-to-vigorous PA (MVPA) minutes (in ≥10 min bouts and without bouts), respectively, after 12 months. Secondary outcomes were: other accelerometer-derived and self-reported PA measures, ERS attendance, EQ-5D-5L, Hospital Anxiety and Depression Scale and beliefs about PA. All outcomes were collected at baseline, 4 and 12 months. Primary analysis was an intention to treat comparison between intervention and control arms at 12-month follow-up. Results There was no significant effect of the intervention on weekly MVPA at 12 months between the groups recorded in ≥10 min bouts (mean difference 11.8 min of MVPA, 95% CI: −2.1 to 26.0; p=0.10) or without bouts (mean difference 13.7 min of MVPA, 95% CI: −26.8 to 54.2; p=0.51) for 232 participants with usable data. There was no difference in the primary or secondary PA outcomes at 4 or 12 months. Conclusion Augmenting ERS referrals with web-based behavioural support had only a weak, non-significant effect on MVPA. Trial registration number ISRCTN15644451.",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Low levels of physical activity (PA) area significant contributor to a wide range of chronic physical and mental health conditions such as obesity, type 2 diabetes, hypertension, osteoarthritis and depression and associated healthcare cost. Primary care exercise referral schemes (ERSs) have small positive effects on self-reported PA, compared with usual care. However, most of these trials are underpowered, and do not necessarily include physically inactive participants with chronic conditions. The format of ERS range from considerable exercise practitioner contact at an exercise facility to a signposting service to community PA options with minimal sustained contact. This variation in ERS makes a broader national approach to improving the quality of the patient experience and effectiveness challenging. Given that only 66%-81% ever attend the referral scheme, that only 43%-49% complete it and that the health benefits seem to be small, new ways are needed to improve uptake and adherence to ERS, and to foster sustainable PA from ERS. Web-based interventions have been shown to be effective in supporting short-term changes in (mostly self-reported) PA among the general population and those with clinical conditions. However, no studies have explored their use alongside ERS offering face-to-face support. Along with service users, we developed a bespoke support system called e-coachER, using the LifeGuide platform (https://www. lifeguideonline. org/), seeking to empower ERS participants with physical and mental health conditions to become more physically active and to remain motivated to do so. If shown to bean effective adjunctive intervention, such a system could be scaled up relatively cheaply and routinely offered to thousands of patients per year in hundreds of schemes in the UK.\nWe undertook a multicentre parallel two-group randomised controlled trial to determine the impact of the addition of web-based behavioural support for ERS referral on PA and health outcomes in inactive people with chronic disease.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The trial was conducted and reported in accordance with the Consolidated Standards of Reporting Trials guidelines. Our full trial protocol has been published elsewhere so we limit the details provided here. Original research (from obesity, hypertension, type 2 diabetes, lower limb osteoarthritis and depression) in Greater Glasgow, Birmingham or Plymouth and adjacent rural areas, who had been or were about to be referred by a primary care practitioner to a local ERS. For a full list of inclusion/exclusion criteria see online supplemental material (online supplemental appendix 1). For a full list of ways in which participants were recruited see online supplemental material (online supplemental appendix 2).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "A summary of the recruitment procedures is shown in a flowchart in online supplemental material appendix 3, and full procedures were previously reported.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Participants were randomly allocated 1:1 to either usual ERS alone (control arm) or usual ERS plus e-coachER (intervention arm). Randomisation was stratified by site with minimisation by the participant's perceived main reason for their referral to the ERS (ie, chronic condition) and by self-reported IT literacy/ confidence using a 10-point scale.\nBlinding to trial allocation among the trial statistician and most of the research team (excepting those involved in the qualitative process evaluation) was not broken until the primary and secondary analyses were reported to the Project Management Group.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Participants allocated to the intervention group were mailed a small box containing a user guide for accessing the e-coachER web-based support system, a pedometer (step-counter) and a fridge magnet with tear-off sheets to record weekly step counts or minutes of moderate-to-vigorous PA (MVPA). The user guide provided a summary of the content on the website and guidance on how to register to access a range of interactive opportunities to enhance participants' motivation to take up the ERS and to become more physically active, whether or not they engaged with their local ERS. A logic model for the intervention and a more detailed description of the content, in compliance with the TiDIER checklist and Behaviour Change Techniques mapping has been reported elsewhere.\nThe interactive e-coachER support system adopted effective features from other interventions. It involved seven 'Steps to Health' designed to take about 5-10 min each to complete each week. We defined getting to step 5 (setting a goal and reviewing a goal online) as a sufficient 'dose' of the intervention to impact on minutes of MVPA, although we recognise that merely mailing a pedometer could, for some, bean effective intervention.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Participants in both arms of the trial were offered usual primary care ERS, across three different schemes, as described elsewhere, to increase the generalisability of the trial.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "At 4 and 12 months post randomisation, participants were sent an accelerometer and questionnaire booklet by post, and prepaid envelope to return to Peninsula Clinical Trials Unit. Reminder letters and phone calls aimed to increase follow-up rates. Participants returning the device received an online/high street store voucher for £20 on each occasion.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The primary outcome was the number of weekly minutes of MVPA, recorded in ≥10 min bouts, measured objectively by GENEActiv Original accelerometer (Activinsights; https:// www. geneactiv. org/), over a 1-week period at 12 months post randomisation. A description of our procedures for processing accelerometer data is provided in online supplementary material appendix 4. Briefly, GENEActiv PC software (V.3.0_09.02.2015) was used with software R using package GGIR V.1.2-8 (https:// cran. r-project. org/ web/ packages/ GGIR/ index. html) to identify data for the primary analysis if participants achieved a minimum of 16 hours of wear time fora minimum of 4 days (including at least 1 weekend day).\nOther accelerometer recorded and self-reported secondary outcomes at 4 and 12 months are shown in online supplemental material appendix 5 and table 1. Initial attendance at the ERS was captured from ERS providers with imputed participantreported attendance at 4 weeks and/or 4 months where the ERS service data were missing. Engagement with the e-coachER intervention was captured using the LifeGuide platform. Other methods and data used for our health economic evaluation and process evaluation are reported elsewhere.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "In the absence of a published minimally important difference for MVPA, we assumed a 'small-to-moderate' standardised effect size of 0.35, and estimated that 413 participants were required at 88% power and a two-sided alpha of 5% assuming for 20% attrition, or 90% power at a two-sided alpha of 5% allowing for 16% attrition (using 'sampsi' in STATA V.14.2). Based on the baseline SD for MVPA total weekly minutes in ≥10 min bouts of 104 to 113, an effect size of 0.35 would correspond to a mean between group differences of 36-39 min of MVPA per week at 12-month follow-up.\nAll statistical analyses were conducted to a predefined analysis plan prior to end of data collection and any comparison of follow-up outcomes. The primary analysis compared primary and secondary outcomes between groups in accordance with the principle of intention to treat (ITT) (ie, based on original random allocation) in participants with complete outcomes at 12 months, adjusting for baseline outcome values and stratification and minimisation variables. Following assessment of baseline demographics, mean age and gender were also added to the adjusted model.\nTwo secondary analyses were undertaken to compare groups across all follow-up points using a mixed model repeated measures approach and complier average causal effect (CACE) analyses undertaken to examine the impact of adherence to the intervention, (ie, (a) simply registering to access the website or not and (b) completing five or more 'Steps to Health' or not) on primary and secondary outcomes at 12 months.\nThe primary analysis model was extended to fit interaction terms to explore possible subgroup differences in intervention effect in stratification and minimisation variables for the primary outcome at 12 months. Given the low power for testing interactions, these results were treated only as exploratory. Sensitivity analyses were conducted for four additional wear time criteria (see online supplemental table appendix 6): Multiple imputation was used to replace missing outcome data using baseline outcomes and other explanatory covariates (eg, treatment group, age), assuming unobserved measurements were missing at random. Given that the proportion of patients with missing accelerometry data was <3% out of the total number on February 9, 2021 by guest. Protected by copyright.\nhttp://bjsm.bmj.com/ Br J Sports Med: first published as 10.1136/bjsports-2020-103121 on 27 November 2020. Downloaded from of participants who fulfilled the wear time criteria of includable PA data (n=243), no imputation was undertaken for the accelerometry related primary and secondary outcome. Using the same primary analysis model as described above, between-group outcomes were compared in ITT complete case and imputed data sets for non-accelerometry related secondary outcomes at 12 months. All analyses were conducted by a blinded statistician using STATA V.14.2.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "PPI representatives with diverse clinical conditions and experience of ERS provided critical feedback on the development and usability of the intervention, trial participant-facing documents, participant newsletter, on recruitment and trial retention issues, and interpretation of the findings and dissemination. Other stakeholders involved in the delivery of ERS such as managers and practitioners were also consulted in each site.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Findings from an embedded process evaluation and economic evaluation will be presented elsewhere.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Figure shows the flow of participants through the trial. The reasons for ineligibility at each stage of recruitment are shown in online supplemental material appendix 7. Of the 450 participants randomised, 232 met our preset, primary outcome wear time threshold (at baseline and 12 months). There was no evidence of differences in the demographic characteristics of those participants who provided primary outcome data at 12 months compared with those that did not provide this follow-up data.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Table shows the baseline characteristics of the 450 randomised participants as a whole and by trial arm. While in general the two arms were well balanced, we noted some small differences within categories in respect of education status though numbers in each category were small. Approximately one-third of participants were recruited from each of the three sites. As an indication of the level of multimorbidity in the sample, 74.2% had two conditions, 30.7% had three conditions and 11.8% had four or more conditions.\nThere was a distinct difference at baseline, for the whole sample, between the mean (SD) weekly accelerometer MVPA minutes when recorded in ≥10 min bouts (31.0 (83.4)) and without bouts (346.0 (251.5)), and the proportion of the whole sample who achieved 150 min/week when recorded in ≥10 min bouts (4%) and without bouts (80%). These figures compared with self-reported data which showed a mean (SD) of 208.8 (364.0) minutes and 36% achieving 150 min/week.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Among intervention participants, 36% did not register and log into the e-coachER website, and 36% progressed through to at least step 5. The proportion reaching each step is shown in online supplemental material appendix 8. The mean (SD) number of goal reviews was 2.5 (SD 4.5) with a range of 0-24. The 144 participants who registered, logged into e-coachER fora mean (SD) and median number of times of 14.1 (16.7) and 6, respectively, with a range from 1 to 101. Those who registered spent an estimated mean (SD) and median time engaging with the e-coachER web-based support of 48.4 (41.9) min and 36 min, respectively, with a range of 6-186 min.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Table shows the primary outcome summary scores at baseline, 4 and 12 months follow-up. Primary analysis showed a (nonsignificant) weak indicative effect in favour of the intervention at 12 months (mean difference 11.8 weekly minutes of MVPA, 95% CI: −2.1 to 26.0, p=0.10). Given the over dispersion and high frequency of zero values in the primary outcome, and the poor fit of the primary analysis model, alternative post-hoc regression models were explored. These included: log transformed mixed\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Understanding the findings Despite our best efforts, we were unable to get follow-up data from as many participants as we had planned and this may have reduced power to find a statistically significant effect. This has been a challenge for other ERS studies as well involving both device-based and subjectively 26 captured PA; for example, the latter study followed up only 55.6% of participants at 6 months. The e-coachER study was initially powered to detect differences in numbers achieving 150 min of MVPA based on our systematic review. Due to early recruitment issues, the sample size was recalculated as reported, with the primary outcome based on ≥10 min bouts. The scant available data from devicebased assessed PA in comparable trials made the power calculation somewhat uncertain, and we also need to know more about what is a clinically significant change in device-based assessed MVPA to justify sample sizes. Our prespecified analysis plan, involving a measure of MVPA in bouts of ≥10 min, meant that a larger proportion of the sample than expected recorded zero minutes. This required us to explore a number of analysis models for the primary analysis, none of which were ideal but did provide a consistent conclusion. Given that other studies have reported findings using a different accelerometer wear time (eg, Harris et al reported MVPA minutes from 'at least 1 day' to estimate weekly activity we also considered our data with a range of wear time criteria, and again the findings were consistent.\nThe primary focus was on differences in MVPA minutes at 12 months, but both groups showed an increase at 4 months. Our aim was to increase uptake and long-term change in MVPA, given concerns that ERS only foster short-term change, but providing the e-coachER intervention at the same time as what was somewhat effective ERS support may have limited the perceived need for e-coachER engagement. Also, digital support interventions are renowned for having relatively short-term engagement and effects, so it maybe that greater digital support is needed after 4 months (the typical duration of ERS).\nIn line with guidelines for ERS research, we tried to make the intervention as accessible as possible to participants from a wide range of socioeconomic backgrounds, which we achieved to some extent, but with an increasing array of devices for selfmonitoring and setting goals for PA, and it maybe that many participants in both arms of our sample were independently accessing these, which thereby negated any benefits from the e-coachER intervention.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Table shows the summary descriptive secondary outcomes at baseline and 4 and 12 months follow-up. No significant differences in the primary analysis for any of the secondary outcomes at 12 months were seen except for intervention participants spending more time in daily diurnal inactivity (sedentary time) at 12 months. Secondary analysis models compared imputed secondary outcome data sets at 12 months and repeated measures analysis of primary and secondary outcomes at both 4 and 12 months were broadly consistent with the primary analyses results above.\nThere was no difference in ERS uptake, between the control group, 173/223 (78%) and intervention group, 167/223 (75%).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "In total, 42 SAEs were reported in 35 participants and were all deemed to be either 'not related' or 'unlikely to be related' to the trial. In the control group, there were 26 SAEs among 21 participants, and in the intervention group there were 16 SAEs among 14 participants. One SAE was reported as a life-threatening event (asthma attack), all other SAEs were hospitalisations. See online supplemental material appendix 10.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "To our knowledge this is the first randomised study to assess the effects of adding web-based behavioural support to usual ERS support on objectively assessed long-term minutes of MVPA among participants with chronic physical and mental health conditions. Augmenting usual ERS using web-based behavioural support (e-coachER) provided a (none statistically significant) weak indicative effect on objectively assessed minutes of MVPA (when recorded in ≥10 min bouts or not) at 12 months among inactive or moderately inactive patients. Various sensitivity analyses supported these findings. We also found no evidence of benefit in terms of ERS uptake and patient-reported outcomes. The extent of engagement with e-coachER was modest, but this factor did not influence the findings.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "We found a large discrepancy between the proportion of the sample who achieved 150 min of accelerometer recorded MVPA when assessed in ≥10 min bouts (4%) or not (80%), and by selfreport (36%) at baseline, despite selecting sedentary or inactive participants for the trial. This finding also aligns with recently reported data from the USA, which identified a range of 3.4%-95.6% of people achieving 150 min of MVPA depending on how the accelerometer data were processed. This is important given the recent removal of the '≥10 min bouts' in UK and international guidelines. It has been suggested that data collected using accelerometers is incompatible with guidelines of 150 min of MVPA per week and a value of about 1000 unbouted minutes of MVPA would need to be recommended for public health benefits. Our sample at baseline recorded only 346 min of unbouted weekly MVPA, which highlights the uniqueness of the study involving attempts to support change in such a low active sample, who potentially have the greatest to gain in terms of health from increases in MVPA.\nA final consideration is that there was a small indication of imbalance in educational status between the groups at baseline, with a greater proportion of those with no qualification, and a slightly smaller proportion with higher qualifications, in the control group. However, given the relative small numbers of those in the respective categories for educational status, the fact that we had not specified inclusion of this variable in our statistical analysis plan for the primary analysis, and the absence of between group differences in IT confidence, we chose not to further explore any confounding effects of educational status.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The focus on accumulating ≥10 min bouts for health benefit has now been dropped in global guidelines but in presenting both bouted and unbouted total MVPA the present study will provide valuable device-based information to inform future related research. Changes in international guidelines have removed the importance of completing PA in ≥10 min bouts, which in turn changes the basis for powering studies since a much greater proportion of the population are likely to meet the new unbouted target of 150 min of MVPA per week.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "There remain digital opportunities to provide support for patients to facilitate greater uptake of ERS and sustained change in PA for the management of chronic conditions. Bespoke software, drawing on some of the concepts and content in e-coachER could be used to ensure better links between the referee in primary care and patient. There can be confusion about what the ERS involves, compounded sometimes by delayed starting. Summary of primary outcome data at baseline and 4 and 12 months follow-up and analysis of between group differences in total weekly minutes (recorded in bouts and no bouts) at 12 months Beyond the formal ERS, digital systems could be implemented to maintain long-term MVPA.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Augmenting ERS referrals with web-based behavioural support had only a weak, non-significant indicative effect on accelerometer recorded MVPA at 12 months, and no effect on ERS engagement. Overall, there was only modest engagement in the e-coachER web-based support, but degree of engagement did not influence the overall findings.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "► With lower than desired follow-up rates, we found no significant effect of augmenting usual primary care exercise referral schemes with the e-coachER intervention on 12 month objectively assessed physical activity (PA), among low active participants with chronic conditions. ► Engagement in the web-based support was modest despite being based on contemporary behaviour change theories, other effective interventions and good public and patient and stakeholder involvement in the development.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "► The study was conducted pre COVID 19 and the need to find effective digital support for patients to facilitate greater uptake of exercise referral scheme (ERS) and sustained change in PA for the management of chronic conditions has only increased. ► Local digital solutions could be developed in primary care to better manage and monitor the progress of patients in an ERS to inform further conversations about self-management of chronic conditions.\n",
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "84 (37)",
+          "rowHeaders": [
+            "Gender-n male (%)"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Control group"
+          ]
+        },
+        {
+          "value": "76 (34)",
+          "rowHeaders": [
+            "Gender-n male (%)"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Intervention"
+          ]
+        },
+        {
+          "value": "51 (14)",
+          "rowHeaders": [
+            "Age-mean (SD) (range)"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Control group"
+          ]
+        },
+        {
+          "value": "50 (13)",
+          "rowHeaders": [
+            "Age-mean (SD) (range)"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Intervention"
+          ]
+        },
+        {
+          "value": "50 (12)",
+          "rowHeaders": [
+            "Age-mean (SD) (range)"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Both groups"
+          ]
+        },
+        {
+          "value": "32.5 (4.4)",
+          "rowHeaders": [
+            "BMI-mean (SD) (range)"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Control group"
+          ]
+        },
+        {
+          "value": "32.7 (4.5)",
+          "rowHeaders": [
+            "BMI-mean (SD) (range)"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Intervention"
+          ]
+        },
+        {
+          "value": "32.6 (4.4)",
+          "rowHeaders": [
+            "BMI-mean (SD) (range)"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Both groups"
+          ]
+        },
+        {
+          "value": "82 (36.3%)",
+          "rowHeaders": [
+            "3 (moderately inactive)"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Control group"
+          ]
+        },
+        {
+          "value": "75 (33.5%)",
+          "rowHeaders": [
+            "3 (moderately inactive)"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Intervention"
+          ]
+        },
+        {
+          "value": "11",
+          "rowHeaders": [
+            "South Asian"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Control group"
+          ]
+        },
+        {
+          "value": "(4.9 %)",
+          "rowHeaders": [
+            "South Asian"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Control group"
+          ]
+        },
+        {
+          "value": "16",
+          "rowHeaders": [
+            "South Asian"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Intervention"
+          ]
+        },
+        {
+          "value": "(7.2 %)",
+          "rowHeaders": [
+            "South Asian"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Intervention"
+          ]
+        },
+        {
+          "value": "28",
+          "rowHeaders": [
+            "South Asian"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Both groups"
+          ]
+        },
+        {
+          "value": "(6.2 %)",
+          "rowHeaders": [
+            "South Asian"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Both groups"
+          ]
+        },
+        {
+          "value": "20",
+          "rowHeaders": [
+            "Other"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Control group"
+          ]
+        },
+        {
+          "value": "(8.8 %)",
+          "rowHeaders": [
+            "Other"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Control group"
+          ]
+        },
+        {
+          "value": "28",
+          "rowHeaders": [
+            "Other"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Intervention"
+          ]
+        },
+        {
+          "value": "(12.6 %)",
+          "rowHeaders": [
+            "Other"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Intervention"
+          ]
+        },
+        {
+          "value": "48",
+          "rowHeaders": [
+            "Other"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Both groups"
+          ]
+        },
+        {
+          "value": "(10.7 %)",
+          "rowHeaders": [
+            "Other"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Both groups"
+          ]
+        },
+        {
+          "value": "59 (26.1%)",
+          "rowHeaders": [
+            "Live alone"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Control group"
+          ]
+        },
+        {
+          "value": "48 (21.4%)",
+          "rowHeaders": [
+            "Live alone"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Intervention"
+          ]
+        },
+        {
+          "value": "52 (23.0%)",
+          "rowHeaders": [
+            "No qualifications"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Control group"
+          ]
+        },
+        {
+          "value": "29 (12.9%)",
+          "rowHeaders": [
+            "No qualifications"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Intervention"
+          ]
+        },
+        {
+          "value": "81 (18.0%)",
+          "rowHeaders": [
+            "No qualifications"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Both groups"
+          ]
+        },
+        {
+          "value": "71 (31.4%)",
+          "rowHeaders": [
+            "A-level"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Control group"
+          ]
+        },
+        {
+          "value": "96 (42.9%)",
+          "rowHeaders": [
+            "A-level"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Intervention"
+          ]
+        },
+        {
+          "value": "58 (25.6%)",
+          "rowHeaders": [
+            "First degree or above"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Control group"
+          ]
+        },
+        {
+          "value": "74 (33%)",
+          "rowHeaders": [
+            "First degree or above"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Intervention"
+          ]
+        },
+        {
+          "value": "55 (24.8) versus",
+          "rowHeaders": [
+            "Prediabetes or diabetes"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Control group"
+          ]
+        },
+        {
+          "value": "24 (11)",
+          "rowHeaders": [
+            "Prediabetes or diabetes"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Intervention"
+          ]
+        },
+        {
+          "value": "57 (26.5) versus",
+          "rowHeaders": [
+            "Prediabetes or diabetes"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Intervention"
+          ]
+        },
+        {
+          "value": "25 (12)",
+          "rowHeaders": [
+            "Prediabetes or diabetes"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Both groups"
+          ]
+        },
+        {
+          "value": "49 (11)",
+          "rowHeaders": [
+            "Prediabetes or diabetes",
+            "112 (25.6) versus"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Both groups"
+          ]
+        },
+        {
+          "value": "64 (28.3%) versus",
+          "rowHeaders": [
+            "Lower limb osteoarthritis"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Control group"
+          ]
+        },
+        {
+          "value": "27 (12)",
+          "rowHeaders": [
+            "Lower limb osteoarthritis"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Intervention"
+          ]
+        },
+        {
+          "value": "45 (20.1) versus",
+          "rowHeaders": [
+            "Lower limb osteoarthritis"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Intervention"
+          ]
+        },
+        {
+          "value": "26 (12)",
+          "rowHeaders": [
+            "Lower limb osteoarthritis"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Both groups"
+          ]
+        },
+        {
+          "value": "53 (12)",
+          "rowHeaders": [
+            "Lower limb osteoarthritis",
+            "109 (24.2) versus"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Both groups"
+          ]
+        },
+        {
+          "value": "42 (18)",
+          "rowHeaders": [
+            "Low mood",
+            "122 (54.0) versus"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Intervention",
+            "182 (80.5) versus 114 (50)"
+          ]
+        },
+        {
+          "value": "42 (19)",
+          "rowHeaders": [
+            "Low mood",
+            "122 (54.0) versus",
+            "121 (54.0) versus"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Both groups",
+            "182 (81.3) versus 113 (50)"
+          ]
+        },
+        {
+          "value": "84 (19)",
+          "rowHeaders": [
+            "Low mood",
+            "122 (54.0) versus",
+            "121 (54.0) versus",
+            "243 (54.0) versus"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Both groups",
+            "364 (80.9) versus 227"
+          ]
+        },
+        {
+          "value": "79 (35.0) versus",
+          "rowHeaders": [
+            "High blood pressure"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Control group",
+            "182 (80.5) versus 114 (50)"
+          ]
+        },
+        {
+          "value": "19 (8)",
+          "rowHeaders": [
+            "High blood pressure"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Intervention",
+            "182 (80.5) versus 114 (50)"
+          ]
+        },
+        {
+          "value": "68 (30.4) versus",
+          "rowHeaders": [
+            "High blood pressure"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Intervention",
+            "182 (81.3) versus 113 (50)"
+          ]
+        },
+        {
+          "value": "18 (8)",
+          "rowHeaders": [
+            "High blood pressure"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Both groups",
+            "182 (81.3) versus 113 (50)"
+          ]
+        },
+        {
+          "value": "37 (8)",
+          "rowHeaders": [
+            "High blood pressure",
+            "147 (32.7) versus"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Both groups",
+            "364 (80.9) versus 227"
+          ]
+        },
+        {
+          "value": "34 (15.0%)",
+          "rowHeaders": [
+            "Smoker"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Control group",
+            "182 (80.5) versus 114 (50)"
+          ]
+        },
+        {
+          "value": "32 (14.3%)",
+          "rowHeaders": [
+            "Smoker"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Intervention",
+            "182 (81.3) versus 113 (50)"
+          ]
+        },
+        {
+          "value": "66 (14.7%)",
+          "rowHeaders": [
+            "Smoker"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Both groups",
+            "364 (80.9) versus 227"
+          ]
+        },
+        {
+          "value": "90 (39.8%)",
+          "rowHeaders": [
+            "Ex-smoker"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Control group",
+            "182 (80.5) versus 114 (50)"
+          ]
+        },
+        {
+          "value": "89 (39.7%)",
+          "rowHeaders": [
+            "Ex-smoker"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Intervention",
+            "182 (81.3) versus 113 (50)"
+          ]
+        },
+        {
+          "value": "36 (16%)",
+          "rowHeaders": [
+            "Low"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Control group",
+            "182 (80.5) versus 114 (50)"
+          ]
+        },
+        {
+          "value": "35 (16%)",
+          "rowHeaders": [
+            "Low"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Intervention",
+            "182 (81.3) versus 113 (50)"
+          ]
+        },
+        {
+          "value": "72 (16%)",
+          "rowHeaders": [
+            "Low"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Both groups",
+            "364 (80.9) versus 227"
+          ]
+        },
+        {
+          "value": "78 (34%)",
+          "rowHeaders": [
+            "Birmingham"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Control group",
+            "182 (80.5) versus 114 (50)"
+          ]
+        },
+        {
+          "value": "76 (34%)",
+          "rowHeaders": [
+            "Birmingham"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Intervention",
+            "182 (81.3) versus 113 (50)"
+          ]
+        },
+        {
+          "value": "69 (31%)",
+          "rowHeaders": [
+            "Glasgow"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Control group",
+            "182 (80.5) versus 114 (50)"
+          ]
+        },
+        {
+          "value": "72 (32%)",
+          "rowHeaders": [
+            "Glasgow"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Intervention",
+            "182 (81.3) versus 113 (50)"
+          ]
+        },
+        {
+          "value": "79 (35%)",
+          "rowHeaders": [
+            "Plymouth"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Control group",
+            "182 (80.5) versus 114 (50)"
+          ]
+        },
+        {
+          "value": "76 (34%)",
+          "rowHeaders": [
+            "Plymouth"
+          ],
+          "columnHeaders": [
+            "Table 2 Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Baseline characteristics by study group and for the whole sample (N=450 unless stated)",
+            "Intervention",
+            "182 (81.3) versus 113 (50)"
+          ]
+        }
+      ],
+      "page": 1
+    }
+  ]
+}

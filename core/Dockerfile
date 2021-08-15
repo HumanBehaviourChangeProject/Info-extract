@@ -1,6 +1,11 @@
 # Stage 1: Maven JDK 8 image to build the project
 FROM maven:3.6.3-openjdk-8 AS maven-builder
+ARG ENTITIES_FOR_PREDICTION="src/main/resources/data/jsons/All_annotations_512papers_05March20.json"
+ENV ENTITIES_FOR_PREDICTION=${ENTITIES_FOR_PREDICTION}
+# Copy whole folder
 COPY . /tmp/
+# Copy the annotation JSON file for prediction in the resources
+COPY ./${ENTITIES_FOR_PREDICTION} /tmp/src/main/resources/data/jsons/
 WORKDIR /tmp/
 ENV MAVEN_OPTS -Xms512m -Xmx8g
 RUN mvn clean install

@@ -1,0 +1,2089 @@
+{
+  "blocks": [
+    {
+      "type": "LINES",
+      "value": "Effect of Attendance of the Child on Body Weight, Energy Intake, and Physical Activity in Childhood Obesity Treatment A Randomized Clinical Trial",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "IMPORTANCE Family-based weight loss treatment (FBT) is considered the gold-standard treatment for childhood obesity and is provided to the parent and child. However, parent-based treatment (PBT), which is provided to the parent without the child, could be similarly effective and easier to disseminate.\nOBJECTIVE To determine whether PBT is similarly effective as FBT on child weight loss over 24 months. Secondary aims evaluated the effect of these 2 treatments on parent weight loss, child and parent dietary intake, child and parent physical activity, parenting style, and parent feeding behaviors.\nDESIGN, SETTING, AND PARTICIPANTS Randomized 2-arm noninferiority trial conducted at an academic medical center, University of California, San Diego, between July 2011 and July 2015. Participants included 150 overweight and obese 8-to 12-year-old children and their parents.\nINTERVENTIONS Both PBT and FBT were delivered in 20 one-hour group meetings with 30-minute individualized behavioral coaching sessions over 6 months. Treatments were similar in content; the only difference was the attendance of the child.\nThe primary outcome measure was child weight loss (body mass index [BMI]  and BMI z score) at 6, 12, and 18 months post treatment. Secondary outcomes were parent weight loss (BMI), child and parent energy intake, child and parent physical activity (moderate to vigorous physical activity minutes), parenting style, and parent feeding behaviors.\nRESULTS One hundred fifty children (mean BMI, 26.4; mean BMI z score, 2.0; mean age, 10.4 years; 66.4% girls) and their parent (mean BMI, 31.9; mean age, 42.9 years; 87.3% women; and 31% Hispanic, 49% non-Hispanic white, and 20% other race/ethnicity) were randomly assigned to either FBT or PBT. Child weight loss after 6 months was −0.25 BMI z scores in both PBT and FBT. Intention-to-treat analysis using mixed linear models showed that PBT was noninferior to FBT on all outcomes at 6-, 12-, and 18-month follow-up with a mean difference in child weight loss of 0.001 (95% CI, −0.06 to 0.06).\nParent-based treatment was as effective on child weight loss and several secondary outcomes (parent weight loss, parent and child energy intake, and parent and child physical activity). Parent-based treatment is a viable model to provide weight loss treatment to children.",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "O ne-third of American children are overweight or obese, which is associated with significant negative health outcomes. Family-based treatment (FBT) is considered the most effective model for the treatment of children with obesity in the short term and long term. Family-based treatment is delivered to both parents and children in separate groups and includes nutrition and physical activity education and behavior therapy techniques. However, FBT is provided mainly in academic medical centers and can be challenging to attend for busy families because it requires attendance by both parent and child at specific group times.\nFamily-based treatment programs for parents without their child (parent-based therapy) have favorable preliminary data. A 2013 systematic review showed that PBT programs have similar outcomes to FBT programs and are more cost-effective. However, the studies are small and underpowered, with short follow-ups. To our knowledge, no study has evaluated an appropriately powered, controlled comparison of FBT and PBT with longer follow-up.\nThis study reports the main outcomes of a randomized clinical trial evaluating whether PBT is noninferior to FBT on child weight outcomes at 6 months, 12 months, and 24 months. As secondary aims, we compared the 2 programs on parent weight, child and parent energy intake, and child and parent physical activity. Because FBT is grounded in changing parent behavior to assist their child, we included parenting style and parent feeding behaviors as secondary outcomes.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The Family, Responsibility, Education, Support and Health (FRESH) study was a randomized clinial noninferiority trial that evaluated two 6-month treatments for childhood obesity: FBT, provided to parent and child, and PBT, provided to parent only, conducted between July 2011 and July 2015 in the greater San Diego, California, area. Both FBT and PBT included nutrition and physical activity recommendations, parenting skills, and behavior modification strategies. Both groups were led on the same night of the week with the same group leaders, who attended weekly supervision with the first author. The only difference between FBT and PBT was the attendance of the child. Measures were collected at baseline, 3 months, 6 months, 12 months, and 18 months. The primary outcome measure was change in child weight (body mass index [BMI] z score) during the 18-month period. Secondary outcomes included changes in child and parent energy intake and physical activity, changes in parent weight (BMI), parenting style, and parent feeding behaviors. Full design details of the trial have been reported, and the formal trial protocol can be found in Supplement 1. The institutional review boards of University of California, San Diego, and Rady Children's Hospital, San Diego, California approved the study. Written consent and assent was obtained from parents and children, respectively.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Eligibility included a child between 8.0 and 12.9 years of age with a BMI between the 85th and 99.9th percentiles, a parent in the household with a BMI of at least 25 who could read English at a minimum of a fifth-grade level, and availability to participate in the study on designated evenings. Exclusionary criteria included a major child or parent psychiatric disorder, child diagnosis of a serious current physical disease, child with physical limitations, or a family with food restrictions. One hundred fifty children with overweight/ obesity and their parent were recruited through primary care physicians, schools, listserves, local advertisements, and advertisements.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Child-parent dyads were randomly assigned to FBT or PBT stratified by sex of the child. The treatment programs included 20 visits over 6 months, and the content was based on published trials of FBT. Parents in both FBT and PBT attended a 1-hour parent group. Children in FBT attended a 1-hour simultaneous child group. Children in PBT did not attend any treatment meetings. Parents in PBT and parents and children in FBT also attended 30-minute meetings with a behavioral coach on the same evening. See Boutelle et al for additional details on treatment components.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Assessments with child-parent dyads were conducted at baseline,  number of sessions attended and overall attrition. Acceptability was assessed using questions designed by the study team specifically for this study. Parents responded to questions regarding the convenience of their assigned group, how much they liked the program, and how much they thought the program changed their family and child's lifestyle.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Power calculations focused on noninferiority tests for the primary outcome of child BMIz. All power calculations were conducted using SAS Proc Power with α = .10, corresponding to use of the upper bound of the 90% CI to test the noninferiority hypotheses (SAS Institute Inc). A sample size of 150 was used to account for dropout and achieve power greater than 0.80. See Boutelle et al 20 for additional details.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The primary analyses were performed for the intention-totreat population, defined as the child-parent dyads who were allocated to either FBT or PBT. For the primary weight outcomes, we used linear mixed effects (LME) regression models of child BMIz and parent BMI assessed at 3 months, 6 months, 12 months, and 18 months.\nWe conducted a planned noninferiority analysis of child BMIz to determine whether a 2-tailed upper bound of the 90% CI of the treatment effect would rule out our prespecifed difference in BMIz across treatments. Noninferiority hypothesis were supported if the upper bound of the 90% CI for the main effect of treatment was less than our prespecified noninferiority margin. We set the upper bound of expected change of −0.13 to −0.17 BMIz units using the covariateadjusted pooled standard deviation of changes in BMIz at 6 and 12 months follow-up in our previous study. We set the lower bound of expected change to suggest an effect at least half as big as we expected from the FBT treatment (50% of 0.13; 0.065). The fixed-margin approach was used and was successful if the lower limit of the 90% CI around the difference between FBT and PBT was found to greater than the margin from −0.049 to 0.051 BMIz. Superiority analyses were conducted for the other variables, using similar LME models with planned covariates; age, sex, the linear effect of time, and corresponding baseline values. Analysis of longitudinal outcomes used multiple imputed data sets (m = 50) using multivariate imputation by chained equations. We present estimated treatment effects for both maximum likelihood estimation of available data and estimates from models across 50 multiple imputed data sets.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "We screened by telephone 794 parent/child dyads who expressed interest, conducted assessments with 192 parent/ child dyads, and enrolled 150 parent/child dyads (Figure). Similar baseline characteristics were observed in both PBT and FBT groups (Table). Of the parent/child dyads enrolled, data from 83% (n = 124), 85% (n = 128), and 87% (n = 131) were available at 6 months, 12 months, and 18 months, respectively. Logistic regression of cases not included in analyses owing to missing BMI at more than 2 assessments showed no significant differences between FBT and PBT participants (β = −1.11; SE = 0.61; P = .07). No child or parent adverse events were reported.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "As seen in Figure, children in both PBT and FBT experienced similar decreases in BMIz by the end of the treatment period that was largely sustained through the 18-month assessment. Examination of unconditional models suggested the benefit of including both random intercept and slope terms (χ 2 = 37.07; P < .001). The main effect of treatment group from adjusted LME models of BMIz provided an estimate and standard error of differences in the magnitude of change in child weight. The difference in BMIz observed between PBT and FBT over assessments was 0.001 (90% CI, −0.05 to 0.05; Table).\nIn pooled estimation from multiple imputed data sets (m = 50), the difference in BMIz was 0.007 (90% CI, −0.04 to 0.06). This observed effect interval was greater than the noninferiority margin of −0.13 to −0.065 and thus supported noninferiority (see eTable in Supplement 2 for outcome measures by treatment arm across the 18-month period).\nSecondary Outcomes: Parent Weight Loss, Child and Parent Energy Intake, Child and Parent Physical Activity, and Parenting\nAs seen in Figure, there were no significant differences between FBT and PBT parents' BMI across assessments (β = 0.15; SE = 0.28; P = .59). However, there was support fora small and statistically significant increase in the rate of change in BMI overtime for parents in PBT relative to FBT after the 6-month time point (β = 0.02; SE = 0.01; P = .04). Mean (SD) percent weight loss for parents in FBT and PBT was −3.9% (5.3) and −5.0% (5.5) at 6 months and −1.1% (6.7) and 2.8% (13.4) by the final 18-month time, respectively. When restricted to parents who were overweight/obese on enrollment, we observed similar results, with no significant difference in BMI changes for FBT and PBT participants (β = 0.25; SE = 0.29; P = .38; see eTable in Supplement 2 for means). Table presents main effect terms comparing FBT and PBT using LME models with planned covariates for daily energy intake and minutes of moderate and vigorous intensity physical activity. For children (β = −2.87; SE = 46.01; P = .95) and parents (β = 15.30; SE = 46.99; P = .75) in either FBT or PBT, there was no significant difference in daily energy intake consumed across assessments and no significant difference in the rate of change in daily energy intake overtime for children (group by time interaction). However, there was a trend for less rapid increases in energy intake in parents in FBT compared with parents in PBT following the 6-month follow-up, increasing a mean of 10.7 fewer kcal/mo during the study (β = −10.7; SE = 5.5; P = .06). No significant differences between FBT and PBT were observed in moderate and vigorous intensity physical activity among children (β = 0.98; SE = 7.61; P = .90) or parents (β = −2.87; SE = 2.81; P = .37; see eTable in Supplement 2 for means).\nWe also conducted comparisons between FBT and PBT using LME models with planned covariates for the Children's Report of Parental Behavior Inventory and Child Feeding Questionnaire, using Benjamini-Hochberg 32 methods. We did not observe significant differences between treatment groups on any of the Children's Report of Parental Behavior Inventory and Child Feeding Questionnaire scales (data not shown). We also assessed each scale as a potential moderator in effect of treatment group on child BMIz over assessments. In separate models, baseline levels of each parenting measure were entered in primary outcome models of BMIz along with its interaction term with treatment group assignment. We did not observe any significant moderating effects of parenting variables on treatment differences in changes in BMIz (P values >.10).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Parents in PBT attended significantly fewer treatment sessions (t = −2.57; difference, 140.17; P = .01; mean [SD] PBT, 12.2 [6.33] vs FBT, 14.6). Parent-based treatment had greater\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "To our knowledge, this is the first large-scale clinical study to test the noninferiority of a PBT program compared with an FBT program for children with overweight/obesity over 24 months. Consistent with previous evidence, the PBT program was non-inferior to FBT on child weight outcomes, child and parent energy intake, child and parent physical activity, and parenting measures at the 6-month, 12-month, and 18-month followups. The PBT program was noninferior to FBT on parent weight outcomes at the 6-month follow-up; however, PBT parents gained more weight overtime. Additionally, there was greater attrition and lower acceptability ratings in the PBT compared with the FBT group.\nWe included evaluations of parenting and parent behaviors because parents are the most important people in a child's environment. In the process of helping their child lose weight, they serve to verbally teach their children the weight control material, model healthy behaviors, and reinforce the acquisition and maintenance of healthy eating and exercise behaviors. Noteably, there were no significant differences found between changes in parenting style and feeding behavior between the 2 groups overtime. Additionally, similar numbers of parents in PBT and FBT felt that the program helped their family change their lifestyle. This trial highlights that PBT and FBT affect parenting style and feeding behavior in the same manner and that child attendance is not necessary to achieve similar outcomes.\nConsistent with our previous study, there was greater retention in FBT compared with PBT at 6 months; however, these differences were somewhat attenuated by 18 months. Addi-  tionally, PBT families attended a mean of 2 fewer meetings than FBT families. Research shows that attendance is an important predictor of child weight loss and reasons for attrition range from time commitment, distance from clinic, missed school and work, appointment times, schedule, educational content, and stress. However, these reasons should apply to both PBT and FBT equally, suggesting that there is something unique about PBT that may lead to greater attrition and decreased attendance. Parent-based treatment was perceived to be less convenient by parents compared with FBT. Unfortunately, none of the families who dropped gave reasons beyond logistical issues, so we are unable to identify why more PBT families dropped in this study.\nThe PBT intervention has a number of strengths that should be noted. First and foremost, PBT has similar outcomes to FBT in changes in child and parent weight, nutrition, physical activity, parenting style, and parent feeding behaviors. Additionally, because only the parent's schedule needs to be considered, there could bean added flexibility in scheduling. In PBT, a reliable and caring adult provides all the information and reinforcement to the child and can adapt the program to the child's needs because they know the child's learning strategies and motivators. Parent-based treatment emphasizes the role of parents as the primary agent of change, which could result in greater self-efficacy to parents regarding the treatment of their child's weight and other child behavioral issues because the parent management skills learned can be applied to other child behaviors. However, it is also important to note that PBT places a large amount of responsibility on the parent who attends and was not as acceptable.\nFamily-based treatment also has strengths that should be noted. In FBT, children learn the material and are reinforced by the interventionists and other children in the group as well as by their parents at home. Learning from multiple sources could provide more durability to changes in the child's behavior as the child transitions to adolescence and peer groups be-come more important. Family-based treatment also had less dropout than PBT, suggesting that it maybe more acceptable to families. However, in FBT, the responsibility of learning the information is shared between the parent and child, which could also allow parents to reduce their involvement.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Strengths of the study include the randomized design, the use of noninferiority testing, the racial/ethnic diversity of the families, the use of a validated treatment protocol, and the 24month observation period. However, study participants were treatment-seeking volunteers with 8-to 12-year-old children whose BMI percentile was less than 99.9%, limiting the generalizability to families with children of other ages and higher weight. Additionally, this study did not include a placebo control intervention. This design was chosen because published studies show that FBT is superior to no treatment 41 and control groups. In considering clinical applications, there area number of reasons why parents would prefer one model vs the other. Families may prefer FBT when parents believe that information delivered directly to the child is important in achieving weight loss. Family-based treatment may also be a preferable model for children who would benefit from social support. Parent-based treatment maybe more enticing to families where the child does not want to come to treatment or scheduling does not permit time for FBT. Reasons for parent's preference of model delivery should be explored in future research.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "This study provides sound empirical evidence supporting a PBT model for the delivery of childhood obesity treatment. Given the high rates of obesity in children, PBT is a model that could be used to provide treatment to a greater proportion of the population.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "0.001",
+          "rowHeaders": [
+            "Body",
+            "BMIz"
+          ],
+          "columnHeaders": [
+            "Table 2. Main Effect of Treatment Group Assignment on Primary and Secondary Outcomes",
+            "Figure 2. Child and Parent Weight Changes Over the 24-Month Period",
+            "Child body mass index z score over the 24-mo study",
+            "Index",
+            "Mass",
+            "Body",
+            "Parent",
+            "Time From Baseline, mo",
+            "a",
+            "(calculated as weight in kilograms"
+          ]
+        },
+        {
+          "value": "−0.06 to",
+          "rowHeaders": [
+            "Body",
+            "BMIz"
+          ],
+          "columnHeaders": [
+            "Table 2. Main Effect of Treatment Group Assignment on Primary and Secondary Outcomes",
+            "Figure 2. Child and Parent Weight Changes Over the 24-Month Period",
+            "B",
+            "Index",
+            "Mass",
+            "Body",
+            "Parent",
+            "Time From Baseline, mo",
+            "95% CI",
+            "(calculated as weight in kilograms"
+          ]
+        },
+        {
+          "value": "0.06",
+          "rowHeaders": [
+            "Body",
+            "BMIz"
+          ],
+          "columnHeaders": [
+            "Table 2. Main Effect of Treatment Group Assignment on Primary and Secondary Outcomes",
+            "Figure 2. Child and Parent Weight Changes Over the 24-Month Period",
+            "Parent body mass index over the 24-mo study",
+            "Index",
+            "Mass",
+            "Body",
+            "Parent",
+            "Time From Baseline, mo",
+            "95% CI",
+            "(calculated as weight in kilograms"
+          ]
+        },
+        {
+          "value": ".96",
+          "rowHeaders": [
+            "Body",
+            "BMIz"
+          ],
+          "columnHeaders": [
+            "Table 2. Main Effect of Treatment Group Assignment on Primary and Secondary Outcomes",
+            "Figure 2. Child and Parent Weight Changes Over the 24-Month Period",
+            "Parent body mass index over the 24-mo study",
+            "Index",
+            "Mass",
+            "Body",
+            "Parent + child (n = 75)",
+            "Time From Baseline, mo",
+            "P Value",
+            "(calculated as weight in kilograms"
+          ]
+        },
+        {
+          "value": "−2.872",
+          "rowHeaders": [
+            "Body",
+            "Diet, kcal"
+          ],
+          "columnHeaders": [
+            "Table 2. Main Effect of Treatment Group Assignment on Primary and Secondary Outcomes",
+            "Figure 2. Child and Parent Weight Changes Over the 24-Month Period",
+            "Child body mass index z score over the 24-mo study",
+            "Index",
+            "Mass",
+            "Body",
+            "Parent",
+            "Time From Baseline, mo",
+            "a",
+            "Value",
+            "(calculated as weight in kilograms"
+          ]
+        },
+        {
+          "value": "−93.07 to",
+          "rowHeaders": [
+            "Body",
+            "Diet, kcal"
+          ],
+          "columnHeaders": [
+            "Table 2. Main Effect of Treatment Group Assignment on Primary and Secondary Outcomes",
+            "Figure 2. Child and Parent Weight Changes Over the 24-Month Period",
+            "B",
+            "Index",
+            "Mass",
+            "Body",
+            "Parent",
+            "Time From Baseline, mo",
+            "95% CI",
+            "(calculated as weight in kilograms"
+          ]
+        },
+        {
+          "value": "87.32",
+          "rowHeaders": [
+            "Body",
+            "Diet, kcal"
+          ],
+          "columnHeaders": [
+            "Table 2. Main Effect of Treatment Group Assignment on Primary and Secondary Outcomes",
+            "Figure 2. Child and Parent Weight Changes Over the 24-Month Period",
+            "Parent body mass index over the 24-mo study",
+            "Index",
+            "Mass",
+            "Body",
+            "Parent",
+            "Time From Baseline, mo",
+            "95% CI",
+            "(calculated as weight in kilograms"
+          ]
+        },
+        {
+          "value": ".95",
+          "rowHeaders": [
+            "Body",
+            "Diet, kcal"
+          ],
+          "columnHeaders": [
+            "Table 2. Main Effect of Treatment Group Assignment on Primary and Secondary Outcomes",
+            "Figure 2. Child and Parent Weight Changes Over the 24-Month Period",
+            "Parent body mass index over the 24-mo study",
+            "Index",
+            "Mass",
+            "Body",
+            "Parent + child (n = 75)",
+            "Time From Baseline, mo",
+            "P Value",
+            "(calculated as weight in kilograms"
+          ]
+        },
+        {
+          "value": "−0.207",
+          "rowHeaders": [
+            "Body",
+            "Moderate to vigorous activity, min/db"
+          ],
+          "columnHeaders": [
+            "Table 2. Main Effect of Treatment Group Assignment on Primary and Secondary Outcomes",
+            "Figure 2. Child and Parent Weight Changes Over the 24-Month Period",
+            "Child body mass index z score over the 24-mo study",
+            "Index",
+            "Mass",
+            "Body",
+            "Parent",
+            "Time From Baseline, mo",
+            "a",
+            "Value",
+            "(calculated as weight in kilograms"
+          ]
+        },
+        {
+          "value": "−0.58 to",
+          "rowHeaders": [
+            "Body",
+            "Moderate to vigorous activity, min/db"
+          ],
+          "columnHeaders": [
+            "Table 2. Main Effect of Treatment Group Assignment on Primary and Secondary Outcomes",
+            "Figure 2. Child and Parent Weight Changes Over the 24-Month Period",
+            "B",
+            "Index",
+            "Mass",
+            "Body",
+            "Parent",
+            "Time From Baseline, mo",
+            "95% CI",
+            "(calculated as weight in kilograms"
+          ]
+        },
+        {
+          "value": "0.17",
+          "rowHeaders": [
+            "Body",
+            "Moderate to vigorous activity, min/db"
+          ],
+          "columnHeaders": [
+            "Table 2. Main Effect of Treatment Group Assignment on Primary and Secondary Outcomes",
+            "Figure 2. Child and Parent Weight Changes Over the 24-Month Period",
+            "Parent body mass index over the 24-mo study",
+            "Index",
+            "Mass",
+            "Body",
+            "Parent",
+            "Time From Baseline, mo",
+            "95% CI",
+            "(calculated as weight in kilograms"
+          ]
+        },
+        {
+          "value": ".28",
+          "rowHeaders": [
+            "Body",
+            "Moderate to vigorous activity, min/db"
+          ],
+          "columnHeaders": [
+            "Table 2. Main Effect of Treatment Group Assignment on Primary and Secondary Outcomes",
+            "Figure 2. Child and Parent Weight Changes Over the 24-Month Period",
+            "Parent body mass index over the 24-mo study",
+            "Index",
+            "Mass",
+            "Body",
+            "Parent + child (n = 75)",
+            "Time From Baseline, mo",
+            "P Value",
+            "(calculated as weight in kilograms"
+          ]
+        },
+        {
+          "value": "0.154",
+          "rowHeaders": [
+            "Body",
+            "BMI"
+          ],
+          "columnHeaders": [
+            "Table 2. Main Effect of Treatment Group Assignment on Primary and Secondary Outcomes",
+            "Figure 2. Child and Parent Weight Changes Over the 24-Month Period",
+            "Child body mass index z score over the 24-mo study",
+            "Index",
+            "Mass",
+            "Body",
+            "Parent",
+            "Time From Baseline, mo",
+            "a",
+            "(calculated as weight in kilograms",
+            "reflecting differences between"
+          ]
+        },
+        {
+          "value": "−0.40 to",
+          "rowHeaders": [
+            "Body",
+            "BMI"
+          ],
+          "columnHeaders": [
+            "Table 2. Main Effect of Treatment Group Assignment on Primary and Secondary Outcomes",
+            "Figure 2. Child and Parent Weight Changes Over the 24-Month Period",
+            "B",
+            "Index",
+            "Mass",
+            "Body",
+            "Parent",
+            "Time From Baseline, mo",
+            "95% CI",
+            "(calculated as weight in kilograms",
+            "reflecting differences between"
+          ]
+        },
+        {
+          "value": "0.71",
+          "rowHeaders": [
+            "Body",
+            "BMI"
+          ],
+          "columnHeaders": [
+            "Table 2. Main Effect of Treatment Group Assignment on Primary and Secondary Outcomes",
+            "Figure 2. Child and Parent Weight Changes Over the 24-Month Period",
+            "Parent body mass index over the 24-mo study",
+            "Index",
+            "Mass",
+            "Body",
+            "Parent",
+            "Time From Baseline, mo",
+            "95% CI",
+            "(calculated as weight in kilograms",
+            "reflecting differences between"
+          ]
+        },
+        {
+          "value": ".10",
+          "rowHeaders": [
+            "Body",
+            "BMI"
+          ],
+          "columnHeaders": [
+            "Table 2. Main Effect of Treatment Group Assignment on Primary and Secondary Outcomes",
+            "Figure 2. Child and Parent Weight Changes Over the 24-Month Period",
+            "Parent body mass index over the 24-mo study",
+            "Index",
+            "Mass",
+            "Body",
+            "Parent + child (n = 75)",
+            "Time From Baseline, mo",
+            "P Value",
+            "(calculated as weight in kilograms",
+            "reflecting differences between"
+          ]
+        },
+        {
+          "value": "13.694",
+          "rowHeaders": [
+            "Body",
+            "Diet, kcal"
+          ],
+          "columnHeaders": [
+            "Table 2. Main Effect of Treatment Group Assignment on Primary and Secondary Outcomes",
+            "Figure 2. Child and Parent Weight Changes Over the 24-Month Period",
+            "Child body mass index z score over the 24-mo study",
+            "Index",
+            "Mass",
+            "Body",
+            "Parent",
+            "Time From Baseline, mo",
+            "a",
+            "Value",
+            "(calculated as weight in kilograms",
+            "reflecting differences between"
+          ]
+        },
+        {
+          "value": "−78.37 to",
+          "rowHeaders": [
+            "Body",
+            "Diet, kcal"
+          ],
+          "columnHeaders": [
+            "Table 2. Main Effect of Treatment Group Assignment on Primary and Secondary Outcomes",
+            "Figure 2. Child and Parent Weight Changes Over the 24-Month Period",
+            "B",
+            "Index",
+            "Mass",
+            "Body",
+            "Parent",
+            "Time From Baseline, mo",
+            "95% CI",
+            "(calculated as weight in kilograms",
+            "reflecting differences between"
+          ]
+        },
+        {
+          "value": "105.76",
+          "rowHeaders": [
+            "Body",
+            "Diet, kcal"
+          ],
+          "columnHeaders": [
+            "Table 2. Main Effect of Treatment Group Assignment on Primary and Secondary Outcomes",
+            "Figure 2. Child and Parent Weight Changes Over the 24-Month Period",
+            "Parent body mass index over the 24-mo study",
+            "Index",
+            "Mass",
+            "Body",
+            "Parent",
+            "Time From Baseline, mo",
+            "95% CI",
+            "(calculated as weight in kilograms",
+            "reflecting differences between"
+          ]
+        },
+        {
+          "value": ".77",
+          "rowHeaders": [
+            "Body",
+            "Diet, kcal"
+          ],
+          "columnHeaders": [
+            "Table 2. Main Effect of Treatment Group Assignment on Primary and Secondary Outcomes",
+            "Figure 2. Child and Parent Weight Changes Over the 24-Month Period",
+            "Parent body mass index over the 24-mo study",
+            "Index",
+            "Mass",
+            "Body",
+            "Parent + child (n = 75)",
+            "Time From Baseline, mo",
+            "P Value",
+            "(calculated as weight in kilograms",
+            "reflecting differences between"
+          ]
+        },
+        {
+          "value": "0.260",
+          "rowHeaders": [
+            "Body",
+            "Moderate to vigorous activity, min/db"
+          ],
+          "columnHeaders": [
+            "Table 2. Main Effect of Treatment Group Assignment on Primary and Secondary Outcomes",
+            "Figure 2. Child and Parent Weight Changes Over the 24-Month Period",
+            "Child body mass index z score over the 24-mo study",
+            "Index",
+            "Mass",
+            "Body",
+            "Parent",
+            "Time From Baseline, mo",
+            "a",
+            "(calculated as weight in kilograms",
+            "reflecting differences between"
+          ]
+        },
+        {
+          "value": "−0.05 to",
+          "rowHeaders": [
+            "Body",
+            "Moderate to vigorous activity, min/db"
+          ],
+          "columnHeaders": [
+            "Table 2. Main Effect of Treatment Group Assignment on Primary and Secondary Outcomes",
+            "Figure 2. Child and Parent Weight Changes Over the 24-Month Period",
+            "B",
+            "Index",
+            "Mass",
+            "Body",
+            "Parent",
+            "Time From Baseline, mo",
+            "95% CI",
+            "(calculated as weight in kilograms",
+            "reflecting differences between"
+          ]
+        },
+        {
+          "value": "0.57",
+          "rowHeaders": [
+            "Body",
+            "Moderate to vigorous activity, min/db"
+          ],
+          "columnHeaders": [
+            "Table 2. Main Effect of Treatment Group Assignment on Primary and Secondary Outcomes",
+            "Figure 2. Child and Parent Weight Changes Over the 24-Month Period",
+            "Parent body mass index over the 24-mo study",
+            "Index",
+            "Mass",
+            "Body",
+            "Parent",
+            "Time From Baseline, mo",
+            "95% CI",
+            "(calculated as weight in kilograms",
+            "reflecting differences between"
+          ]
+        },
+        {
+          "value": ".10",
+          "rowHeaders": [
+            "Body",
+            "Moderate to vigorous activity, min/db"
+          ],
+          "columnHeaders": [
+            "Table 2. Main Effect of Treatment Group Assignment on Primary and Secondary Outcomes",
+            "Figure 2. Child and Parent Weight Changes Over the 24-Month Period",
+            "Parent body mass index over the 24-mo study",
+            "Index",
+            "Mass",
+            "Body",
+            "Parent + child (n = 75)",
+            "Time From Baseline, mo",
+            "P Value",
+            "(calculated as weight in kilograms",
+            "reflecting differences between"
+          ]
+        },
+        {
+          "value": "0.254",
+          "rowHeaders": [
+            "Body",
+            "BMI"
+          ],
+          "columnHeaders": [
+            "Table 2. Main Effect of Treatment Group Assignment on Primary and Secondary Outcomes",
+            "Figure 2. Child and Parent Weight Changes Over the 24-Month Period",
+            "Child body mass index z score over the 24-mo study",
+            "Index",
+            "Mass",
+            "Body",
+            "Parent",
+            "Time From Baseline, mo",
+            "a",
+            "(calculated as weight in kilograms",
+            "reflecting differences between",
+            "Overweight parent"
+          ]
+        },
+        {
+          "value": "−0.31 to",
+          "rowHeaders": [
+            "Body",
+            "BMI"
+          ],
+          "columnHeaders": [
+            "Table 2. Main Effect of Treatment Group Assignment on Primary and Secondary Outcomes",
+            "Figure 2. Child and Parent Weight Changes Over the 24-Month Period",
+            "B",
+            "Index",
+            "Mass",
+            "Body",
+            "Parent",
+            "Time From Baseline, mo",
+            "95% CI",
+            "(calculated as weight in kilograms",
+            "reflecting differences between",
+            "models include planned covariates"
+          ]
+        },
+        {
+          "value": "0.82",
+          "rowHeaders": [
+            "Body",
+            "BMI"
+          ],
+          "columnHeaders": [
+            "Table 2. Main Effect of Treatment Group Assignment on Primary and Secondary Outcomes",
+            "Figure 2. Child and Parent Weight Changes Over the 24-Month Period",
+            "Parent body mass index over the 24-mo study",
+            "Index",
+            "Mass",
+            "Body",
+            "Parent",
+            "Time From Baseline, mo",
+            "95% CI",
+            "(calculated as weight in kilograms",
+            "reflecting differences between",
+            "models include planned covariates"
+          ]
+        },
+        {
+          "value": ".38",
+          "rowHeaders": [
+            "Body",
+            "BMI"
+          ],
+          "columnHeaders": [
+            "Table 2. Main Effect of Treatment Group Assignment on Primary and Secondary Outcomes",
+            "Figure 2. Child and Parent Weight Changes Over the 24-Month Period",
+            "Parent body mass index over the 24-mo study",
+            "Index",
+            "Mass",
+            "Body",
+            "Parent + child (n = 75)",
+            "Time From Baseline, mo",
+            "P Value",
+            "(calculated as weight in kilograms",
+            "reflecting differences between",
+            "models include planned covariates"
+          ]
+        },
+        {
+          "value": "2.2",
+          "rowHeaders": [
+            "Score"
+          ],
+          "columnHeaders": [
+            "Table 2. Main Effect of Treatment Group Assignment on Primary and Secondary Outcomes",
+            "Figure 2. Child and Parent Weight Changes Over the 24-Month Period",
+            "Child body mass index z score over the 24-mo study"
+          ]
+        },
+        {
+          "value": "2.0",
+          "rowHeaders": [
+            "Score"
+          ],
+          "columnHeaders": [
+            "Table 2. Main Effect of Treatment Group Assignment on Primary and Secondary Outcomes",
+            "Figure 2. Child and Parent Weight Changes Over the 24-Month Period",
+            "Child body mass index z score over the 24-mo study",
+            "Parent (n = 75)"
+          ]
+        },
+        {
+          "value": "1.8",
+          "rowHeaders": [
+            "Body"
+          ],
+          "columnHeaders": [
+            "Table 2. Main Effect of Treatment Group Assignment on Primary and Secondary Outcomes",
+            "Figure 2. Child and Parent Weight Changes Over the 24-Month Period",
+            "Child body mass index z score over the 24-mo study",
+            "Parent (n = 75)",
+            "Index",
+            "Mass"
+          ]
+        },
+        {
+          "value": "1.6",
+          "rowHeaders": [
+            "Body"
+          ],
+          "columnHeaders": [
+            "Table 2. Main Effect of Treatment Group Assignment on Primary and Secondary Outcomes",
+            "Figure 2. Child and Parent Weight Changes Over the 24-Month Period",
+            "Child body mass index z score over the 24-mo study",
+            "Parent (n = 75)",
+            "Index",
+            "Mass",
+            "Parent"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "2.02",
+          "rowHeaders": [
+            "Activity",
+            "Child"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Parent Based Treatment",
+            "Baseli",
+            "ne"
+          ]
+        },
+        {
+          "value": "1.73",
+          "rowHeaders": [
+            "Activity",
+            "Child"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Parent Based Treatment",
+            "6 m",
+            "m"
+          ]
+        },
+        {
+          "value": "1.82",
+          "rowHeaders": [
+            "Activity",
+            "Child"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Parent Based Treatment",
+            "m"
+          ]
+        },
+        {
+          "value": "1.81",
+          "rowHeaders": [
+            "Activity",
+            "Child"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Parent Based Treatment",
+            "24 m",
+            "m"
+          ]
+        },
+        {
+          "value": "1.98",
+          "rowHeaders": [
+            "Activity",
+            "Child"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Family Based Treatment",
+            "Baselin",
+            "e"
+          ]
+        },
+        {
+          "value": "1.73",
+          "rowHeaders": [
+            "Activity",
+            "Child"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Family Based Treatment",
+            "6 m",
+            "e"
+          ]
+        },
+        {
+          "value": "1.77",
+          "rowHeaders": [
+            "Activity",
+            "Child"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Family Based Treatment",
+            "12 m",
+            "e"
+          ]
+        },
+        {
+          "value": "1.82",
+          "rowHeaders": [
+            "Activity",
+            "Child"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Family Based Treatment",
+            "24 m",
+            "e"
+          ]
+        },
+        {
+          "value": "(0.4",
+          "rowHeaders": [
+            "Activity",
+            "Child"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Parent Based Treatment",
+            "m"
+          ]
+        },
+        {
+          "value": "(0.44",
+          "rowHeaders": [
+            "Activity",
+            "Child"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Family Based Treatment",
+            "12 m",
+            "e"
+          ]
+        },
+        {
+          "value": "32.11",
+          "rowHeaders": [
+            "Activity",
+            "Paren"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Parent Based Treatment",
+            "Baseli",
+            "ne"
+          ]
+        },
+        {
+          "value": "31.06",
+          "rowHeaders": [
+            "Activity",
+            "Paren"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Parent Based Treatment",
+            "6 m",
+            "m"
+          ]
+        },
+        {
+          "value": "31.7",
+          "rowHeaders": [
+            "Activity",
+            "Paren"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Parent Based Treatment",
+            "m"
+          ]
+        },
+        {
+          "value": "32.95",
+          "rowHeaders": [
+            "Activity",
+            "Paren"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Parent Based Treatment",
+            "24 m",
+            "m"
+          ]
+        },
+        {
+          "value": "31.70",
+          "rowHeaders": [
+            "Activity",
+            "Paren"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Family Based Treatment",
+            "Baselin",
+            "e"
+          ]
+        },
+        {
+          "value": "30.15",
+          "rowHeaders": [
+            "Activity",
+            "Paren"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Family Based Treatment",
+            "6 m",
+            "e"
+          ]
+        },
+        {
+          "value": "30.4",
+          "rowHeaders": [
+            "Activity",
+            "Paren"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Family Based Treatment",
+            "12 m",
+            "e"
+          ]
+        },
+        {
+          "value": "30.90",
+          "rowHeaders": [
+            "Activity",
+            "Paren"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Family Based Treatment",
+            "24 m",
+            "e"
+          ]
+        },
+        {
+          "value": "(6.5",
+          "rowHeaders": [
+            "Activity",
+            "Paren"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Parent Based Treatment",
+            "m"
+          ]
+        },
+        {
+          "value": "(5.94",
+          "rowHeaders": [
+            "Activity",
+            "Paren"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Family Based Treatment",
+            "12 m",
+            "e"
+          ]
+        },
+        {
+          "value": "181.16",
+          "rowHeaders": [
+            "Activity",
+            "Child"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Parent Based Treatment",
+            "Baseli",
+            "ne",
+            "t"
+          ]
+        },
+        {
+          "value": "167.05",
+          "rowHeaders": [
+            "Activity",
+            "Child"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Parent Based Treatment",
+            "6 m",
+            "m"
+          ]
+        },
+        {
+          "value": "151.78",
+          "rowHeaders": [
+            "Activity",
+            "Child"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Parent Based Treatment",
+            "24 m",
+            "m"
+          ]
+        },
+        {
+          "value": "182.32",
+          "rowHeaders": [
+            "Activity",
+            "Child"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Family Based Treatment",
+            "Baselin",
+            "e"
+          ]
+        },
+        {
+          "value": "164.50",
+          "rowHeaders": [
+            "Activity",
+            "Child"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Family Based Treatment",
+            "6 m",
+            "e"
+          ]
+        },
+        {
+          "value": "147.43",
+          "rowHeaders": [
+            "Activity",
+            "Child"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Family Based Treatment",
+            "24 m",
+            "e"
+          ]
+        },
+        {
+          "value": "(59.86",
+          "rowHeaders": [
+            "Activity",
+            "Child"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Parent Based Treatment",
+            "6 m",
+            "m"
+          ]
+        },
+        {
+          "value": "(47.67",
+          "rowHeaders": [
+            "Activity",
+            "Child"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Parent Based Treatment",
+            "24 m",
+            "m"
+          ]
+        },
+        {
+          "value": "33.37",
+          "rowHeaders": [
+            "Activity",
+            "Paren"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Parent Based Treatment",
+            "Baseli",
+            "ne",
+            "t"
+          ]
+        },
+        {
+          "value": "32.00",
+          "rowHeaders": [
+            "Activity",
+            "Paren"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Parent Based Treatment",
+            "6 m",
+            "m"
+          ]
+        },
+        {
+          "value": "31.40",
+          "rowHeaders": [
+            "Activity",
+            "Paren"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Parent Based Treatment",
+            "24 m",
+            "m"
+          ]
+        },
+        {
+          "value": "31.72",
+          "rowHeaders": [
+            "Activity",
+            "Paren"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Family Based Treatment",
+            "Baselin",
+            "e"
+          ]
+        },
+        {
+          "value": "26.75",
+          "rowHeaders": [
+            "Activity",
+            "Paren"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Family Based Treatment",
+            "6 m",
+            "e"
+          ]
+        },
+        {
+          "value": "30.81",
+          "rowHeaders": [
+            "Activity",
+            "Paren"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Family Based Treatment",
+            "24 m",
+            "e"
+          ]
+        },
+        {
+          "value": "(20.41",
+          "rowHeaders": [
+            "Energy",
+            "t"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Parent Based Treatment",
+            "6 m",
+            "m"
+          ]
+        },
+        {
+          "value": "(18.23",
+          "rowHeaders": [
+            "Energy",
+            "t"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Parent Based Treatment",
+            "24 m",
+            "m"
+          ]
+        },
+        {
+          "value": "1744.7",
+          "rowHeaders": [
+            "Energy",
+            "Child"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Parent Based Treatment",
+            "Baseli",
+            "ne",
+            "t"
+          ]
+        },
+        {
+          "value": "1436.9",
+          "rowHeaders": [
+            "Energy",
+            "Child"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Parent Based Treatment",
+            "6 m",
+            "m"
+          ]
+        },
+        {
+          "value": "1608.8",
+          "rowHeaders": [
+            "Energy",
+            "Child"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Parent Based Treatment",
+            "24 m",
+            "m"
+          ]
+        },
+        {
+          "value": "1680.2",
+          "rowHeaders": [
+            "Energy",
+            "Child"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Family Based Treatment",
+            "Baselin",
+            "e"
+          ]
+        },
+        {
+          "value": "1447.1",
+          "rowHeaders": [
+            "Energy",
+            "Child"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Family Based Treatment",
+            "6 m",
+            "e"
+          ]
+        },
+        {
+          "value": "1568.9",
+          "rowHeaders": [
+            "Energy",
+            "Child"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Family Based Treatment",
+            "24 m",
+            "e"
+          ]
+        },
+        {
+          "value": "(430.08",
+          "rowHeaders": [
+            "Energy",
+            "Child"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Parent Based Treatment",
+            "Baseli",
+            "ne",
+            "t"
+          ]
+        },
+        {
+          "value": "(351.6",
+          "rowHeaders": [
+            "Energy",
+            "Child"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Parent Based Treatment",
+            "6 m",
+            "m"
+          ]
+        },
+        {
+          "value": "(377.6",
+          "rowHeaders": [
+            "Energy",
+            "Child"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Parent Based Treatment",
+            "24 m",
+            "m"
+          ]
+        },
+        {
+          "value": "(388.10",
+          "rowHeaders": [
+            "Energy",
+            "Paren"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Family Based Treatment",
+            "Baselin",
+            "e"
+          ]
+        },
+        {
+          "value": "(281.5",
+          "rowHeaders": [
+            "Energy",
+            "Paren"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Family Based Treatment",
+            "6 m",
+            "e"
+          ]
+        },
+        {
+          "value": "(353.1",
+          "rowHeaders": [
+            "Energy",
+            "Paren"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Family Based Treatment",
+            "24 m",
+            "e"
+          ]
+        },
+        {
+          "value": "1725.9",
+          "rowHeaders": [
+            "Energy",
+            "Paren"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Parent Based Treatment",
+            "Baseli",
+            "ne",
+            "t"
+          ]
+        },
+        {
+          "value": "1391.3",
+          "rowHeaders": [
+            "Energy",
+            "Paren"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Parent Based Treatment",
+            "6 m",
+            "m"
+          ]
+        },
+        {
+          "value": "1544.0",
+          "rowHeaders": [
+            "Energy",
+            "Paren"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Parent Based Treatment",
+            "24 m",
+            "m"
+          ]
+        },
+        {
+          "value": "1685.2",
+          "rowHeaders": [
+            "Energy",
+            "Paren"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Family Based Treatment",
+            "Baselin",
+            "e"
+          ]
+        },
+        {
+          "value": "1427.1",
+          "rowHeaders": [
+            "Energy",
+            "Paren"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Family Based Treatment",
+            "6 m",
+            "e"
+          ]
+        },
+        {
+          "value": "1472.1",
+          "rowHeaders": [
+            "Energy",
+            "Paren"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Family Based Treatment",
+            "24 m",
+            "e"
+          ]
+        },
+        {
+          "value": "(541.70",
+          "rowHeaders": [
+            "nce",
+            "Paren"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Parent Based Treatment",
+            "Baseli",
+            "ne",
+            "t"
+          ]
+        },
+        {
+          "value": "(326.0",
+          "rowHeaders": [
+            "nce",
+            "Paren"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Parent Based Treatment",
+            "6 m",
+            "m"
+          ]
+        },
+        {
+          "value": "(294.0",
+          "rowHeaders": [
+            "Energy",
+            "Paren"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Parent Based Treatment",
+            "24 m",
+            "m"
+          ]
+        },
+        {
+          "value": "(493.41",
+          "rowHeaders": [
+            "Energy",
+            "Paren"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Family Based Treatment",
+            "Baselin",
+            "e"
+          ]
+        },
+        {
+          "value": "(409.0",
+          "rowHeaders": [
+            "Energy",
+            "Paren"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Family Based Treatment",
+            "6 m",
+            "e"
+          ]
+        },
+        {
+          "value": "(396.3",
+          "rowHeaders": [
+            "Energy",
+            "Paren"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Family Based Treatment",
+            "24 m",
+            "e"
+          ]
+        },
+        {
+          "value": "2.58",
+          "rowHeaders": [
+            "nce",
+            "Mom"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Parent Based Treatment",
+            "Baseli",
+            "ne",
+            "t"
+          ]
+        },
+        {
+          "value": "2.53",
+          "rowHeaders": [
+            "nce",
+            "Mom"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Parent Based Treatment",
+            "6 m",
+            "m"
+          ]
+        },
+        {
+          "value": "2.56",
+          "rowHeaders": [
+            "CBPRI:",
+            "Mom"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Parent Based Treatment",
+            "m"
+          ]
+        },
+        {
+          "value": "2.60",
+          "rowHeaders": [
+            "CBPRI:",
+            "Mom"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Parent Based Treatment",
+            "24 m",
+            "m"
+          ]
+        },
+        {
+          "value": "2.58",
+          "rowHeaders": [
+            "CBPRI:",
+            "Mom"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Family Based Treatment",
+            "Baselin",
+            "e"
+          ]
+        },
+        {
+          "value": "2.70",
+          "rowHeaders": [
+            "CBPRI:",
+            "Mom"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Family Based Treatment",
+            "6 m",
+            "e"
+          ]
+        },
+        {
+          "value": "2.65",
+          "rowHeaders": [
+            "CBPRI:",
+            "Mom"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Family Based Treatment",
+            "12 m",
+            "e"
+          ]
+        },
+        {
+          "value": "2.66",
+          "rowHeaders": [
+            "CBPRI:",
+            "Mom"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Family Based Treatment",
+            "24 m",
+            "e"
+          ]
+        },
+        {
+          "value": "(0.4",
+          "rowHeaders": [
+            "CBPRI:",
+            "Mom"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Parent Based Treatment",
+            "m"
+          ]
+        },
+        {
+          "value": "(0.43",
+          "rowHeaders": [
+            "CBPRI:",
+            "Mom"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Family Based Treatment",
+            "12 m",
+            "e"
+          ]
+        },
+        {
+          "value": "2.45",
+          "rowHeaders": [
+            "CBPRI:",
+            "Dad"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Parent Based Treatment",
+            "Baseli",
+            "ne",
+            "t"
+          ]
+        },
+        {
+          "value": "2.48",
+          "rowHeaders": [
+            "CBPRI:",
+            "Dad"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Parent Based Treatment",
+            "6 m",
+            "m"
+          ]
+        },
+        {
+          "value": "2.49",
+          "rowHeaders": [
+            "CBPRI:",
+            "Dad"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Parent Based Treatment",
+            "m"
+          ]
+        },
+        {
+          "value": "2.42",
+          "rowHeaders": [
+            "CBPRI:",
+            "Dad"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Parent Based Treatment",
+            "24 m",
+            "m"
+          ]
+        },
+        {
+          "value": "2.47",
+          "rowHeaders": [
+            "CBPRI:",
+            "Dad"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Family Based Treatment",
+            "Baselin",
+            "e"
+          ]
+        },
+        {
+          "value": "2.62",
+          "rowHeaders": [
+            "CBPRI:",
+            "Dad"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Family Based Treatment",
+            "6 m",
+            "e"
+          ]
+        },
+        {
+          "value": "2.60",
+          "rowHeaders": [
+            "CBPRI:",
+            "Dad"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Family Based Treatment",
+            "12 m",
+            "e"
+          ]
+        },
+        {
+          "value": "2.54",
+          "rowHeaders": [
+            "CBPRI:",
+            "Dad"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Family Based Treatment",
+            "24 m",
+            "e"
+          ]
+        },
+        {
+          "value": "(0.4",
+          "rowHeaders": [
+            "CBPRI:",
+            "Dad"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Parent Based Treatment",
+            "m"
+          ]
+        },
+        {
+          "value": "(0.45",
+          "rowHeaders": [
+            "CBPRI:",
+            "Dad"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Family Based Treatment",
+            "12 m",
+            "e"
+          ]
+        },
+        {
+          "value": "1.64",
+          "rowHeaders": [
+            "CBPRI:",
+            "Mom"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Parent Based Treatment",
+            "Baseli",
+            "ne",
+            "t"
+          ]
+        },
+        {
+          "value": "1.72",
+          "rowHeaders": [
+            "CBPRI:",
+            "Mom"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Parent Based Treatment",
+            "6 m",
+            "m"
+          ]
+        },
+        {
+          "value": "1.68",
+          "rowHeaders": [
+            "CBPRI:",
+            "Mom"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Parent Based Treatment",
+            "m"
+          ]
+        },
+        {
+          "value": "1.62",
+          "rowHeaders": [
+            "CBPRI:",
+            "Mom"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Parent Based Treatment",
+            "24 m",
+            "m"
+          ]
+        },
+        {
+          "value": "1.68",
+          "rowHeaders": [
+            "CBPRI:",
+            "Mom"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Family Based Treatment",
+            "Baselin",
+            "e"
+          ]
+        },
+        {
+          "value": "1.78",
+          "rowHeaders": [
+            "CBPRI:",
+            "Mom"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Family Based Treatment",
+            "6 m",
+            "e"
+          ]
+        },
+        {
+          "value": "1.73",
+          "rowHeaders": [
+            "CBPRI:",
+            "Mom"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Family Based Treatment",
+            "12 m",
+            "e"
+          ]
+        },
+        {
+          "value": "1.69",
+          "rowHeaders": [
+            "CBPRI:",
+            "Mom"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Family Based Treatment",
+            "24 m",
+            "e"
+          ]
+        },
+        {
+          "value": "(0.5",
+          "rowHeaders": [
+            "CBPRI:",
+            "Mom"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Parent Based Treatment",
+            "m"
+          ]
+        },
+        {
+          "value": "(0.59",
+          "rowHeaders": [
+            "CBPRI:",
+            "Mom"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Family Based Treatment",
+            "12 m",
+            "e"
+          ]
+        },
+        {
+          "value": "1.53",
+          "rowHeaders": [
+            "CBPRI:",
+            "Dad"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Parent Based Treatment",
+            "Baseli",
+            "ne",
+            "t"
+          ]
+        },
+        {
+          "value": "1.50",
+          "rowHeaders": [
+            "CBPRI:",
+            "Dad"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Parent Based Treatment",
+            "6 m",
+            "m"
+          ]
+        },
+        {
+          "value": "1.54",
+          "rowHeaders": [
+            "CBPRI:",
+            "Dad"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Parent Based Treatment",
+            "m"
+          ]
+        },
+        {
+          "value": "1.55",
+          "rowHeaders": [
+            "CBPRI:",
+            "Dad"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Parent Based Treatment",
+            "24 m",
+            "m"
+          ]
+        },
+        {
+          "value": "1.66",
+          "rowHeaders": [
+            "CBPRI:",
+            "Dad"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Family Based Treatment",
+            "Baselin",
+            "e"
+          ]
+        },
+        {
+          "value": "1.78",
+          "rowHeaders": [
+            "CBPRI:",
+            "Dad"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Family Based Treatment",
+            "6 m",
+            "e"
+          ]
+        },
+        {
+          "value": "1.79",
+          "rowHeaders": [
+            "CBPRI:",
+            "Dad"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Family Based Treatment",
+            "12 m",
+            "e"
+          ]
+        },
+        {
+          "value": "1.68",
+          "rowHeaders": [
+            "CBPRI:",
+            "Dad"
+          ],
+          "columnHeaders": [
+            "eTable 1. Child and parent mean scores on outcome measures for Parent-Based",
+            "Child and parent mean scores on outcome measures for Parent-Based",
+            "Family Based Treatment",
+            "24 m",
+            "e"
+          ]
+        }
+      ],
+      "page": 1
+    }
+  ]
+}

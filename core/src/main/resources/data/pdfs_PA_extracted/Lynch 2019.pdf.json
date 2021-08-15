@@ -1,0 +1,2550 @@
+{
+  "blocks": [
+    {
+      "type": "LINES",
+      "value": "A Randomized Controlled Trial of a Wearable Technology-Based Intervention for Increasing Moderate to Vigorous Physical Activity and Reducing Sedentary Behavior in Breast Cancer Survivors: The ACTIVATE Trial",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The benefits of an active lifestyle after abreast cancer diagnosis are well recognized, but the majority of survivors are insufficiently active. The ACTIVATE Trial examined the efficacy of an intervention (use of the Garmin Vivofit 2 activity monitor coupled with a behavioral feedback and goal-setting session and 5 telephone-delivered health coaching sessions) to increase moderate to vigorous physical activity (MVPA) and reduce sedentary behavior in breast cancer survivors. METHODS: This randomized controlled trial recruited 83 inactive, postmenopausal women diagnosed with stage I-III breast cancer who had completed primary treatment. Participants were randomly assigned to the intervention group or to the control group, and the intervention was delivered over a 12-week period. MVPA and sedentary behavior were measured with Actigraph and activPAL accelerometers at baseline (T1) and at the end of the intervention (T2). RESULTS: Retention in the trial was high, with 80 (96%) of participants completing T2 data collection. At T2, there was a significant between-group difference in MVPA (69 min/wk; 95% CI = 22-116) favoring the intervention group. The trial resulted in a statistically significant decrease in both total sitting time and prolonged bouts (≥20 min) of sitting, with between-group reductions of 37 min/d (95% CI = −72 to −2) and 42 min/d (95% CI = −83 to −2), respectively, favoring the intervention group. CONCLUSION: Results from the ACTIVATE Trial suggest that the use of wearable technology presents an inexpensive and scalable opportunity to facilitate more active lifestyles for cancer survivors. Whether or not such wearable technology-based interventions can create sustainable behavioral change should be the subject of future research.",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "For breast cancer survivors, regular participation in moderate to vigorous physical activity (MVPA) is associated with prolonged survival, diminished treatment side effects, and enhanced quality of life. Despite these benefits, many breast cancer survivors do not achieve physical activity recommendations (ie, 150 minutes of MVPA per week). Less is known about the health effects of sedentary behavior (defined as any waking behavior that expends ≤1.5 metabolic equivalents while sitting, reclining, or lying down). However, preliminary evidence from studies of breast cancer survivors suggests too much sitting maybe adversely associated with adiposity, quality of life, and fatigue. Supervised exercise interventions delivered to breast cancer survivors, as either individual or group sessions, typically result in significant improvements in MVPA, as well as a number of physiological adaptations including improved Cancer August 15, 2019 body composition, cardiorespiratory fitness, and physical function. However, access to such interventions maybe limited by cost, geographic reach, and availability of facilities and appropriately qualified health professionals. Even when supervised, structured exercise programs are offered to cancer survivors at no cost, uptake and adherence maybe low. To achieve higher rates of physical activity participation by breast cancer survivors, a variety of interventions need to be developed, tested, and translated into standard models of care.\nWearable technology, including activity monitors (\"wearables\"), have the potential to facilitate changes in physical activity and sedentary behavior. A small number of pilot studies have used wearables as key components of an intervention to increase cancer survivors' physical activity, although there are dozens of studies of this nature underway. Some early interventions incorporating wearables (typically single-group designs) have demonstrated improvements in physical activity. Wearables provide automated (and often real-time) feedback on the intensity and duration of physical activity and nonmovement time, which may in itself prompt change. A review of 13 different wearables and associated apps found that they used many of the behavior change techniques typically used by traditional physical activity interventions (eg, self-monitoring, social support, and goal-setting). Given their low cost and wide reach, wearables are ideal tools for scalable health promotion programs. Phillips et al noted that wearables alone are unlikely to generate meaningful, sustained behavior change, and suggested adopting a stepped-care approach to provide adjunct behavior change tools and support to individuals who need them.\nThe primary aim of the ACTIVity And TEchnology (ACTIVATE) Trial was to determine the efficacy of a 12-week intervention (use of a wearable, coupled with goal-setting and telephone-delivered behavioral counseling) for increasing MVPA and reducing sedentary behavior for postmenopausal breast cancer survivors. We hypothesized that the intervention arm would increase MVPA by at least 75 min/wk and reduce sedentary behavior by at least 75 min/d compared with the control arm.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The design and methods of the ACTIVATE Trial have been previously reported in detail. The study used a randomized controlled trial design with a waitlist control arm. This article reports on the first 12-week period of the ACTIVATE Trial (the randomized controlled trial portion of the study). Findings from the second 12-week period (a maintenance phase for the primary intervention group, and an abridged intervention for the waitlist control group) are reported separately. The ACTIVATE Trial protocol was approved by Cancer Council Victoria's Human Research Ethics Committee (HREC-1602), and all participants provided written informed consent before being randomly assigned.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "To be eligible for the ACTIVATE Trial, women were postmenopausal at the time of breast cancer diagnosis (or aged ≥50 at diagnosis if menopausal status was uncertain), and diagnosed with stage I-III breast cancer. When the trial commenced, recruitment was only open to women diagnosed within the past 5 years. This eligibility criterion was dropped in October 2016 to facilitate recruitment. Participants had completed primary treatment (ongoing hormone therapy excepted), had no contraindications to commencing physical activity, were able to understand and speak English fluently, and had daily access to a smartphone, mobile device, or personal computer. Finally, women had to report fewer than 75 minutes of MVPA per week and more than 7 hours of sedentary behavior per day.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The main method for recruitment was via Register4 and the Breast Cancer Network of Australia's Review and Survey Group, 2 national registers of volunteers who indicated their interest in participating in cancer research. Other recruitment strategies included placement of paid advertisements on Facebook and promotion through newsletters published by Counterpart (a Melbournebased not-for-profit group supporting women diagnosed with breast and gynecological cancer), the National Breast Cancer Foundation (a national breast cancer charity), and Cancer Council Victoria. Finally, posters and promotional postcards were sent to Melbourne-based oncology clinics and general practice clinics. Women who enquired about the ACTIVATE Trial were administered a brief, telephone-delivered screening questionnaire to confirm their eligibility. Recruitment was conducted between July 2016 and July 2017.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The primary intervention was composed of 3 components delivered over a 12-week period.\nCancer August 15, 2019\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Participants attended a single face-to-face session at Cancer Council Victoria with an ACTIVATE Trial team member, in which they received a workbook on the health consequences of physical inactivity and sedentary behavior and common barriers to behavior change. Participants were also provided with a report on their weekly physical activity and sitting time from their baseline Actigraph and activPAL data (see Measures section below) and were asked to think and record how they could increase their physical activity and reduce their sedentary behavior. Participants generated behavior change goals guided by a motivational interviewing approach. The ACTIVATE Trial team member then trained participants in the setup (including downloading and installing the smartphone/tablet/PC application) and use of their wearable technology activity monitor.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Participants were provided with a Garmin Vivofit 2 activity monitor, which they were asked to wear for 12 weeks. The selection of this particular device was based on earlier qualitative work. The Garmin Vivofit 2 is worn on the wrist and displays steps, distance, calories, and sleep/rest time. It provides inactivity alerts visually via a red \"move\" baron the display and an audible beep. The move bar builds in 15-minute blocks and is reset by walking fora few minutes. The activity monitor stores movement data for up to 7 days, and data are uploaded to the Garmin app via Bluetooth. Participants were encouraged to access their physical activity data daily via the smartphone/tablet/PC application. The ACTIVATE Trial team members were able to access participants' data via an application programming interface (API) developed and administrated by Garmin, allowing them to monitor compliance with the intervention.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Each intervention arm participant received 5 telephone calls (the first 2 calls were weekly, followed by 2 calls made 2 weeks apart, and a final call 1 month later) from an ACTIVATE Trial team member to facilitate adoption and maintenance of behavior change. Calls focused on behavioral change strategies, and issues of non-wear (as ascertained via the API) were discussed. Goals were revised and updated during the telephone calls. Calls also helped troubleshoot any technical difficulties experienced.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Participants randomized to the control arm were informed that they were randomized to a delayed intervention and would be provided with a Garmin Vivofit 2 in approximately 3 months, after the second data collection time point (T2).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Women eligible after screening were mailed the baseline (T1) assessment package: a study information sheet and consent form; an Actigraph GT3X+ accelerometer (Actigraph, Pensacola, Florida) on an elasticized waistband; an activPAL (PAL Technologies Limited, Glasgow, UK) and several 3M Tegaderm transparent dressings to adhere the device to the thigh; written instructions on how to wear each accelerometer; a diary to record accelerometer wear across the 7-day period; a written baseline questionnaire; and a replypaid envelope to return the materials. The follow-up data collection package (containing the same items, except fora modified follow-up questionnaire) was mailed to all participants at the end of the 12-week intervention period (T2).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Outcomes MVPA was assessed using the Actigraph GT3X+, which was worn on an elasticized belt on the waist over one hip, during waking hours for 7 consecutive days at each data collection time point. Accelerometer data were downloaded and processed using 60-second epochs, using the ActiLife 6.0 software package (Actigraph). A customized program in SAS 9.4 (SAS Institute Inc., Cary, North Carolina) was applied to reduce count data into summary variables. Non-wear time was defined as intervals of at least 60 consecutive minutes of zero counts, with allowance for up to minutes of observations of fewer than 50 counts per minute (cpm) within the non-wear interval. To be considered valid, days of data collection require at least 600 minutes (10 hours) of wear time and no excessive counts (>20,000 cpm).\nMovement count thresholds (cut points) were used to derive MVPA from the Actigraph data. The Actigraph GT3X+ measures accelerations on 3 planes (vertical, antero-posterior, and medio-lateral), generating activity counts as a composite vector magnitude of these 3 axes. Thus, we used the Sasaki vector magnitude cut point (utilizing tri-axial data) of ≥2690 cpm 30 to quantify MVPA. In order to allow direct comparison with past research that has applied different cut points, we also generated secondary measures of MVPA using the Freedson cut point of ≥1952 cpm and the Matthews cut point of ≥760 cpm, both of which utilize data from the vertical axis only. MVPA was examined as average weekly time accumulated (min/wk), and time in \"bouts\" of 10 consecutive minutes or more (min/wk). We acknowledge that the concept of 10-minute bouts for MVPA is no longer incorporated in the Physical Activity Guidelines for Americans, reflecting the contemporary view that the total volume of MVPA affects health outcomes, regardless of how it is accumulated. Nonetheless, we present 10-minute bout data to be consistent with our published protocol. Sedentary behavior was measured using an activPAL, which records time spent in different postures (sitting/ lying, standing, stepping) and the number of postural changes. The device was secured to the anterior midline of the right thigh using a Tegaderm dressing. The activPAL is considered the most accurate device for assessing actual sitting time in adults. Participants wore the device continuously (24 h/d) for 7 consecutive days, only removing it for swimming or bathing.\nData were initially processed using activPAL software version 7.2.32 (PAL Technologies Limited) using default settings. These data were then processed using a customized program in SAS 9.4 that combined activPAL and diary (see below) data. Time spent sleeping, monitor non-wear, and invalid days (wear for <80% of waking hours and waking wear time <10 hours when diary data on sleep were missing) were removed. For each valid day, we calculated time spent sitting (min/d); sitting in prolonged bouts of 20 consecutive minutes or more (min/d), which corresponds to clinical changes in cardio-metabolic biomarkers ; time spent standing (min/d); number of sit-stand transitions; and number of daily steps.\nParticipants were asked to fill in an activity monitor diary each day to record the time they put the Actigraph GT3X+ on and removed it, the time they went to bed, and the time they woke up. Participants also record anytime the activPAL was removed. Diaries were used to cross-check data.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The following variables were assessed by the baseline questionnaire: marital status (never married, married, separated/divorced, widowed); education (some high school, high school, diploma/trade qualification, university, postgraduate degree); country of birth (Australia, UK/Ireland, New Zealand, Europe, Middle East, Asia, Other); smoking status (never, former, current); alcohol intake (average drinks per week); chronic disease comorbidities (heart disease, diabetes, high blood pressure, high cholesterol, stroke, arthritis, lung disease, osteoporosis, cancer other than breast, depression, cognitive impairment, heart failure, Parkinson disease); body mass (kg); and height (cm). Breast cancer stage at diagnosis and treatment received were reported during a telephone call to assess eligibility prior to study enrollment.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Sample size calculations have been reported previously. In summary, 41 participants in each arm were needed to detect a 75-min/wk between-group change in MVPA with 80% power and a type 1 error of 5%. This sample size would also provide 99% power to detect a difference of 75 min/d of sedentary behavior between groups.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Once baseline data had been collected, participants were randomly assigned using a random number generator in Stata version 14 (Statacorp). The allocation process was concealed, conducted by an ACTIVATE Trial team member who was blinded to participant details until allocation had been completed; this team member was not involved in recruitment of participants or delivering the intervention. The nature of the intervention precluded blinding of staff and participants.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Baseline characteristics were summarized for the 2 arms using descriptive statistics. Linear mixed model analysis was used to investigate within-and between-group changes in MVPA and sedentary behavior variables across the intervention period. Models were adjusted for valid accelerometer wear time (Actigraph derived variables) and awake time (activPAL-derived variables). The linear mixed models included random effects associated with the units of analysis (participants), and allowed residuals associated with the longitudinal measures on the same unit of analysis to be correlated. This approach includes all available data at each time point.\nWe conducted sensitivity analyses in which participants with fewer than 4 valid days of accelerometer data were excluded. For the Actigraph MVPA sensitivity analyses, 4 participants from the intervention arm were excluded at T1 and 4 control arm participants were excluded at T2. For the activPAL sedentary behavior sensitivity analyses, we excluded 1 participant from the intervention arm and 1 from the control arm at T1, and we excluded 6 control arm participants at T2. All analyses were performed using Stata version 14.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "A total of 83 women were randomized (43 to the intervention arm; 40 to the control arm) in the ACTIVATE Trial (Fig.). The baseline characteristics of the 2 arms were similar (Table). There were slightly fewer women with partners (married or common-law) in the intervention (64%) versus the control arm (84%). More women in the intervention arm had been treated with surgery plus chemotherapy and radiation therapy (63%) versus the control arm (40%). Retention in the trial was very high, with only 3 women from the intervention arm dropping out of the trial (Fig.). Another 3 women from the intervention arm were missing activPAL data (1 did not wear the device due to skin sensitivities; 2 wore the device, but the battery was no longer working and they did not wish to repeat the measurement). Health issues that potentially affected adherence to the intervention were reported by 3 intervention arm participants: 2 participants reported difficulties with osteoarthritis, and participant underwent surgery during the intervention period. No adverse events were reported during the ACTIVATE Trial.\nGood compliance with the telephone-delivered behavioral counseling was achieved: 27 (68%) of the intervention arm participants received all 5 calls, 10 (25%) received 4 calls, and 3 (7%) received 3 calls. The average Actigraph wear time at T1 was 820 min/d (intervention arm) and 837 min/d (control arm); at T2 it was 832 min/d (intervention arm) and 846 min/d (control arm).\nThe intervention achieved increases in MVPA and MVPA accrued in bouts of at least 10 consecutive minutes, while at the same time reducing total and prolonged sitting time (Table). There was a statistically significant difference in MVPA between groups at T2 (69 min/wk; 95% CI = 22-116; P < .01), favoring the intervention arm. The trial resulted in a statistically significant difference in both total sitting time (−37 min/d; 95% CI: −72 to −2; P = .01) and prolonged bouts of at least 20 minutes duration (−42 min/d; 95% CI: −83 to −2; P = .04), favoring the intervention arm.\nWithin each arm, there was considerable variation in behavior change between T1 and T2. Twenty-seven (68%) of the intervention arm participants increased their MVPA over the intervention period, while 13 (32%) reduced their MVPA. In the control arm, 21 (53%) participants increased their MVPA and 19 (47%) decreased their MVPA. There was also interindividual variation in total sitting time change. In the intervention arm, 23 (62%) participants decreased their average daily sitting, whereas 14 (38%) increased it during this period. In the control arm, 18 (45%) decreased their average daily sitting, whereas 22 (55%) increased it. Figures plotting MVPA and sitting time change between T1 and T2 against T1 levels are presented in the Supporting Information.\nResults from sensitivity analyses (in which participants with fewer than 4 valid days of accelerometer data were excluded) were not materially different from the results obtained utilizing all data available.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The ACTIVATE intervention, using a combination of mobile health tools and coaching, successfully increased MVPA and decreased sitting time in a sample of Australian postmenopausal breast cancer survivors. We found clear interindividual differences in the patterns of behavior change at the individual level within both the intervention and control arms.\nStrengths of the ACTIVATE Trial include the high rate of adherence to the intervention, and the low dropout rate during the trial. Our use of the Actigraph and activPAL devices to measure our outcome variables reduced the measurement error that is associated with selfreported estimates of physical activity and sedentary behavior. Furthermore, we applied 3 different accelerometer cut points to estimate MVPA, because each method has advantages and limitations. The Sasaki cut point was employed as the primary measure of MVPA because this method uses the acceleration recorded across 3 axes. While the Freedson cut point is the most widely used, it only uses data from the vertical axis, and is based on indirect calorimetry data from university students with a mean age of 24 years. The Matthews cut point also only uses data from a single axis, but its lower threshold captures a broader range of lifestyle and ambulatory activities than the Freedson cut point. Limitations include a sample size that was slightly less than the target set by our sample size calculations (80 vs 82 women) and some missing activPAL data for intervention arm participants. Due to the convenience sampling framework used for recruitment, participants in this trial may have been more motivated and readier to change their behavior than the general breast cancer survivor population, reducing the generalizability of the findings. Furthermore, the multicomponent nature of our intervention, comprising behavioral feedback (weekly summary of baseline Actigraph and activPAL data) and a goal-setting session; the Garmin Vivofit 2; and telephone-delivered behavioral counseling, means that we cannot discern the efficacy of individual components.\nThere have been few wearable technology-based intervention trials delivered to cancer survivors. Ina pre-post study of 24 adult cancer survivors, Gell et al combined use of the Fitbit One with tailored text messages, self-monitoring, and 3 brief health coaching Wearable technology was also incorporated into a pilot study that aimed to prevent weight gain in African American breast cancer survivors. Participants (n = 35) were randomized to daily self-weighing using smart scales that provided tailored tracking and feedback via an app or website only; daily self-weighing plus physical activity tracking (using a Withings Pulse fitness band); or a control condition. The daily self-weighing plus wearable condition resulted in a small within-group increase in energy expenditure after 6 months (432 kcal/d) and a small change in weight (0.94% reduction).\nDespite the growing body of evidence relating to the health risks associated with sedentary behavior, only a handful of trials have attempted to reduce sitting time in cancer survivors. Trinh et al demonstrated that a web-based intervention, combined with use of a Jawbone wearable device, reduced sedentary behavior in prostate cancer survivors receiving androgen deprivation therapy. This pilot trial (n = 46) resulted in a 455 min/wk reduction in postintervention sedentary behavior. Ina feasibility trial comparing diet and activity interventions delivered via email to a sample of racial and ethnic minority breast cancer survivors, Paxton et al achieved similar reductions in sitting time (304 min/wk in the activity intervention arm; 59 min/wk in the diet intervention arm); however, these findings were based on self-reporting rather than activPAL assessment. A multiple health behavior intervention delivered to colorectal cancer survivors revealed that telephone-delivered health coaching reduced self-reported sitting. The difference between intervention and control groups at the primary endpoint (6 months after the 6-month intervention had concluded) was 39 min/d (95% CI = −82 to 4; P = .06).\nEpidemiologic and experimental evidence suggests that reducing sedentary behavior (and breaking up prolonged bouts of sitting) may improve cardiometabolic health. Prolonged sitting results in compromised glucose and insulin regulation and is associated with a higher risk of type 2 diabetes and cardiovascular mortality in the general population. Given that cardiovascular disease is an important cause of death for breast cancer survivors, there is a need for further evidence on the specific applicability of sedentary behavior reduction interventions for breast cancer survivors.\nIn conclusion, we have demonstrated that a wearable technology-based intervention can achieve significant changes in MVPA and sedentary behavior in breast cancer survivors, making it a suitable intervention to administer in larger trials to examine biological and psychosocial endpoints of interest. In particular, the intervention's potential capacity to improve cardiometabolic health in this population is of interest, given its combination of increasing MVPA and decreasing sedentary behavior. Future research is also warranted to examine maintenance of behavior change, and whether possible attenuation overtime maybe reduced by reintroduction of telephone counseling, or by other forms of support such as personalized text messaging. In the longer term, the use of wearable technology has the potential to bean inexpensive and sustainable addition to care provided by clinicians and allied health professionals, or used in broad-reach interventions delivered via telephone support services.\n",
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "61.6 (6.4)",
+          "rowHeaders": [
+            "Age, y, mean (SD)",
+            "Married/Common-law"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "Overall (n = 83)"
+          ]
+        },
+        {
+          "value": "61.3 (5.9)",
+          "rowHeaders": [
+            "Age, y, mean (SD)",
+            "Married/Common-law"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "Intervention Arm (n = 43)"
+          ]
+        },
+        {
+          "value": "61.9 (7.0)",
+          "rowHeaders": [
+            "Age, y, mean (SD)",
+            "Married/Common-law"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "Control Arm (n = 40)"
+          ]
+        },
+        {
+          "value": "61 (73.5)",
+          "rowHeaders": [
+            "Married/Common-law",
+            "Separated/Divorced"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "Overall (n = 83)"
+          ]
+        },
+        {
+          "value": "28 (65.1)",
+          "rowHeaders": [
+            "Married/Common-law",
+            "Separated/Divorced"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "Intervention Arm (n = 43)"
+          ]
+        },
+        {
+          "value": "33 (82.5)",
+          "rowHeaders": [
+            "Married/Common-law",
+            "Separated/Divorced"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "Control Arm (n = 40)"
+          ]
+        },
+        {
+          "value": "11 (26.0)",
+          "rowHeaders": [
+            "Separated/Divorced"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "Intervention Arm (n = 43)"
+          ]
+        },
+        {
+          "value": "63 (75.9)",
+          "rowHeaders": [
+            "Australia/New Zealand"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "Overall (n = 83)"
+          ]
+        },
+        {
+          "value": "32 (74.4)",
+          "rowHeaders": [
+            "Australia/New Zealand"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "Intervention Arm (n = 43)"
+          ]
+        },
+        {
+          "value": "31 (77.5)",
+          "rowHeaders": [
+            "Australia/New Zealand"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "Control Arm (n = 40)"
+          ]
+        },
+        {
+          "value": "26 (31.3)",
+          "rowHeaders": [
+            "High school"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "Overall (n = 83)"
+          ]
+        },
+        {
+          "value": "10 (23.3)",
+          "rowHeaders": [
+            "High school"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "Intervention Arm (n = 43)"
+          ]
+        },
+        {
+          "value": "16 (40)",
+          "rowHeaders": [
+            "High school"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "Control Arm (n = 40)"
+          ]
+        },
+        {
+          "value": "38 (45.8)",
+          "rowHeaders": [
+            "Diploma/University"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "Overall (n = 83)"
+          ]
+        },
+        {
+          "value": "23 (53.5)",
+          "rowHeaders": [
+            "Diploma/University"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "Intervention Arm (n = 43)"
+          ]
+        },
+        {
+          "value": "15 (37.5)",
+          "rowHeaders": [
+            "Diploma/University"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "Control Arm (n = 40)"
+          ]
+        },
+        {
+          "value": "19 (22.9)",
+          "rowHeaders": [
+            "Postgraduate"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "Overall (n = 83)"
+          ]
+        },
+        {
+          "value": "10 (23.3)",
+          "rowHeaders": [
+            "Postgraduate"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "Intervention Arm (n = 43)"
+          ]
+        },
+        {
+          "value": "18 (21.7)",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "Overall (n = 83)"
+          ]
+        },
+        {
+          "value": "10 (23.3)",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "Intervention Arm (n = 43)"
+          ]
+        },
+        {
+          "value": "15 (34.9)",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "Intervention Arm (n = 43)"
+          ]
+        },
+        {
+          "value": "12 (30)",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "Control Arm (n = 40)"
+          ]
+        },
+        {
+          "value": "14 (16.9)",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "Overall (n = 83)"
+          ]
+        },
+        {
+          "value": "16 (19.3)",
+          "rowHeaders": [
+            "Alcohol intake (drinks per week)",
+            "Preferred not to answer"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "Overall (n = 83)"
+          ]
+        },
+        {
+          "value": "12 (30)",
+          "rowHeaders": [
+            "Number of chronic comorbidities",
+            "Preferred not to answer"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "Control Arm (n = 40)"
+          ]
+        },
+        {
+          "value": "39 (47.0)",
+          "rowHeaders": [
+            "Part-time"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "Overall (n = 83)"
+          ]
+        },
+        {
+          "value": "19 (44.2)",
+          "rowHeaders": [
+            "Part-time"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "Intervention Arm (n = 43)"
+          ]
+        },
+        {
+          "value": "20 (50)",
+          "rowHeaders": [
+            "Part-time"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "Control Arm (n = 40)"
+          ]
+        },
+        {
+          "value": "25 (30.1)",
+          "rowHeaders": [
+            "Full-time"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "Overall (n = 83)"
+          ]
+        },
+        {
+          "value": "13 (30.2)",
+          "rowHeaders": [
+            "Full-time"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "Intervention Arm (n = 43)"
+          ]
+        },
+        {
+          "value": "12 (30)",
+          "rowHeaders": [
+            "Full-time"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "Control Arm (n = 40)"
+          ]
+        },
+        {
+          "value": "19 (22.9)",
+          "rowHeaders": [
+            "Not working"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "Overall (n = 83)"
+          ]
+        },
+        {
+          "value": "11 (25.6)",
+          "rowHeaders": [
+            "Not working"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "Intervention Arm (n = 43)"
+          ]
+        },
+        {
+          "value": "47 (56.6)",
+          "rowHeaders": [
+            "Never smoker"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "Overall (n = 83)"
+          ]
+        },
+        {
+          "value": "23 (53.5)",
+          "rowHeaders": [
+            "Never smoker"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "Intervention Arm (n = 43)"
+          ]
+        },
+        {
+          "value": "24 (60)",
+          "rowHeaders": [
+            "Never smoker"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "Control Arm (n = 40)"
+          ]
+        },
+        {
+          "value": "32 (38.6)",
+          "rowHeaders": [
+            "Former smoker"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "Overall (n = 83)"
+          ]
+        },
+        {
+          "value": "17 (39.5)",
+          "rowHeaders": [
+            "Former smoker"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "Intervention Arm (n = 43)"
+          ]
+        },
+        {
+          "value": "15 (37.5)",
+          "rowHeaders": [
+            "Former smoker"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "Control Arm (n = 40)"
+          ]
+        },
+        {
+          "value": "3.1 (5.0)",
+          "rowHeaders": [
+            "Alcohol intake (drinks per week)"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "Overall (n = 83)"
+          ]
+        },
+        {
+          "value": "2.9 (5.7)",
+          "rowHeaders": [
+            "Alcohol intake (drinks per week)"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "Intervention Arm (n = 43)"
+          ]
+        },
+        {
+          "value": "3.4 (4.2)",
+          "rowHeaders": [
+            "Alcohol intake (drinks per week)"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "Control Arm (n = 40)"
+          ]
+        },
+        {
+          "value": "1.9 (1.7)",
+          "rowHeaders": [
+            "Number of chronic comorbidities"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "Overall (n = 83)"
+          ]
+        },
+        {
+          "value": "1.9 (1.6)",
+          "rowHeaders": [
+            "Number of chronic comorbidities"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "Intervention Arm (n = 43)"
+          ]
+        },
+        {
+          "value": "1.9 (1.8)",
+          "rowHeaders": [
+            "Number of chronic comorbidities"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "Control Arm (n = 40)"
+          ]
+        },
+        {
+          "value": "29.0 (6.0)",
+          "rowHeaders": [
+            "BMI, kg/m 2"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "Overall (n = 83)"
+          ]
+        },
+        {
+          "value": "29.4 (5.6)",
+          "rowHeaders": [
+            "BMI, kg/m 2"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "Intervention Arm (n = 43)"
+          ]
+        },
+        {
+          "value": "28.5 (6.4)",
+          "rowHeaders": [
+            "BMI, kg/m 2"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "Control Arm (n = 40)"
+          ]
+        },
+        {
+          "value": "23 (28.8)",
+          "rowHeaders": [
+            "I"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "Overall (n = 83)"
+          ]
+        },
+        {
+          "value": "10 (23.8)",
+          "rowHeaders": [
+            "I"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "Intervention Arm (n = 43)"
+          ]
+        },
+        {
+          "value": "13 (34.2)",
+          "rowHeaders": [
+            "I"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "Control Arm (n = 40)"
+          ]
+        },
+        {
+          "value": "38 (47.5)",
+          "rowHeaders": [
+            "II"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "Overall (n = 83)"
+          ]
+        },
+        {
+          "value": "21 (50.0)",
+          "rowHeaders": [
+            "II"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "Intervention Arm (n = 43)"
+          ]
+        },
+        {
+          "value": "17 (44.7)",
+          "rowHeaders": [
+            "II"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "Control Arm (n = 40)"
+          ]
+        },
+        {
+          "value": "19 (23.8)",
+          "rowHeaders": [
+            "III"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "Overall (n = 83)"
+          ]
+        },
+        {
+          "value": "11 (26.9)",
+          "rowHeaders": [
+            "III"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "Intervention Arm (n = 43)"
+          ]
+        },
+        {
+          "value": "13 (15.7)",
+          "rowHeaders": [
+            "Surgery only"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "Overall (n = 83)"
+          ]
+        },
+        {
+          "value": "27 (32.5)",
+          "rowHeaders": [
+            "Number of chronic comorbidities",
+            "Surgery with 1 adjuvant therapy (chemotherapy or radiotherapy)"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "Overall (n = 83)"
+          ]
+        },
+        {
+          "value": "11 (25.6)",
+          "rowHeaders": [
+            "Number of chronic comorbidities",
+            "Surgery with 1 adjuvant therapy (chemotherapy or radiotherapy)"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "Intervention Arm (n = 43)"
+          ]
+        },
+        {
+          "value": "16 (40.0)",
+          "rowHeaders": [
+            "Number of chronic comorbidities",
+            "Surgery with 1 adjuvant therapy (chemotherapy or radiotherapy)"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "Control Arm (n = 40)"
+          ]
+        },
+        {
+          "value": "43 (51.8)",
+          "rowHeaders": [
+            "Number of chronic comorbidities",
+            "Surgery with 2 adjuvant therapies"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "Overall (n = 83)"
+          ]
+        },
+        {
+          "value": "27 (62.8)",
+          "rowHeaders": [
+            "Number of chronic comorbidities",
+            "Surgery with 2 adjuvant therapies"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "Intervention Arm (n = 43)"
+          ]
+        },
+        {
+          "value": "16 (40.0)",
+          "rowHeaders": [
+            "Number of chronic comorbidities",
+            "Surgery with 2 adjuvant therapies"
+          ],
+          "columnHeaders": [
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "TABLE 1. Baseline (T1) Characteristics of Participants Randomly Assigned to the Intervention and Control",
+            "Control Arm (n = 40)"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "68.7",
+          "rowHeaders": [
+            "Sasaki MVPA (≥2690 cpm, triaxial)",
+            "1241 (408 to 2074)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Between Arms",
+            "Value (95% CI)"
+          ]
+        },
+        {
+          "value": "(21.7 to",
+          "rowHeaders": [
+            "Sasaki MVPA (≥2690 cpm, triaxial)",
+            "1241 (408 to 2074)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Between Arms",
+            "Value (95% CI)"
+          ]
+        },
+        {
+          "value": "115.6)",
+          "rowHeaders": [
+            "Sasaki MVPA (≥2690 cpm, triaxial)",
+            "1241 (408 to 2074)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Between Arms",
+            "Value (95% CI)"
+          ]
+        },
+        {
+          "value": "<.01",
+          "rowHeaders": [
+            "Sasaki MVPA (≥2690 cpm, triaxial)",
+            "1241 (408 to 2074)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Between Arms",
+            "P"
+          ]
+        },
+        {
+          "value": "180.3 (122.3)",
+          "rowHeaders": [
+            "Intervention arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Mean (SD)",
+            "T1 (Baseline)"
+          ]
+        },
+        {
+          "value": "249.6 (159.7)",
+          "rowHeaders": [
+            "Intervention arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Mean (SD)",
+            "T2 (12 wk)"
+          ]
+        },
+        {
+          "value": "66.5",
+          "rowHeaders": [
+            "Intervention arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Within-Arm Change",
+            "Value (95% CI)"
+          ]
+        },
+        {
+          "value": "(33.3 to",
+          "rowHeaders": [
+            "Intervention arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Within-Arm Change",
+            "Value (95% CI)"
+          ]
+        },
+        {
+          "value": "99.8)",
+          "rowHeaders": [
+            "Intervention arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Within-Arm Change",
+            "Value (95% CI)"
+          ]
+        },
+        {
+          "value": "<.01",
+          "rowHeaders": [
+            "Intervention arm",
+            "1241 (408 to 2074)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Within-Arm Change",
+            "P"
+          ]
+        },
+        {
+          "value": "169.7 (125.3)",
+          "rowHeaders": [
+            "Control arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Mean (SD)",
+            "T1 (Baseline)"
+          ]
+        },
+        {
+          "value": "170.1 (127.9)",
+          "rowHeaders": [
+            "Control arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Mean (SD)",
+            "T2 (12 wk)"
+          ]
+        },
+        {
+          "value": "−2.1 (−35.4 to",
+          "rowHeaders": [
+            "Control arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Within-Arm Change",
+            "Value (95% CI)"
+          ]
+        },
+        {
+          "value": "31.1)",
+          "rowHeaders": [
+            "Control arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Within-Arm Change",
+            "Value (95% CI)"
+          ]
+        },
+        {
+          "value": ".92",
+          "rowHeaders": [
+            "Control arm",
+            "1241 (408 to 2074)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Within-Arm Change",
+            "P"
+          ]
+        },
+        {
+          "value": "38.7",
+          "rowHeaders": [
+            "Sasaki MVPA bouts a (≥2690 cpm, triaxial)",
+            "1241 (408 to 2074)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Between Arms",
+            "Value (95% CI)"
+          ]
+        },
+        {
+          "value": "(12.7 to",
+          "rowHeaders": [
+            "Sasaki MVPA bouts a (≥2690 cpm, triaxial)",
+            "1241 (408 to 2074)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Between Arms",
+            "Value (95% CI)"
+          ]
+        },
+        {
+          "value": "64.7)",
+          "rowHeaders": [
+            "Sasaki MVPA bouts a (≥2690 cpm, triaxial)",
+            "1241 (408 to 2074)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Between Arms",
+            "Value (95% CI)"
+          ]
+        },
+        {
+          "value": "<.01",
+          "rowHeaders": [
+            "Sasaki MVPA bouts a (≥2690 cpm, triaxial)",
+            "1241 (408 to 2074)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Between Arms",
+            "P"
+          ]
+        },
+        {
+          "value": "25.5 (37.4)",
+          "rowHeaders": [
+            "Intervention arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Mean (SD)",
+            "T1 (Baseline)"
+          ]
+        },
+        {
+          "value": "67.2 (77.4)",
+          "rowHeaders": [
+            "Intervention arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Mean (SD)",
+            "T2 (12 wk)"
+          ]
+        },
+        {
+          "value": "40.4",
+          "rowHeaders": [
+            "Intervention arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Within-Arm Change",
+            "Value (95% CI)"
+          ]
+        },
+        {
+          "value": "(22.0 to",
+          "rowHeaders": [
+            "Intervention arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Within-Arm Change",
+            "Value (95% CI)"
+          ]
+        },
+        {
+          "value": "58.8)",
+          "rowHeaders": [
+            "Intervention arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Within-Arm Change",
+            "Value (95% CI)"
+          ]
+        },
+        {
+          "value": "<.01",
+          "rowHeaders": [
+            "Intervention arm",
+            "1241 (408 to 2074)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Within-Arm Change",
+            "P"
+          ]
+        },
+        {
+          "value": "34.1 (61.0)",
+          "rowHeaders": [
+            "Control arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Mean (SD)",
+            "T1 (Baseline)"
+          ]
+        },
+        {
+          "value": "36.8 (62.0)",
+          "rowHeaders": [
+            "Control arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Mean (SD)",
+            "T2 (12 wk)"
+          ]
+        },
+        {
+          "value": "1.7 (−16.7 to",
+          "rowHeaders": [
+            "Control arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Within-Arm Change",
+            "Value (95% CI)"
+          ]
+        },
+        {
+          "value": "20.1)",
+          "rowHeaders": [
+            "Control arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Within-Arm Change",
+            "Value (95% CI)"
+          ]
+        },
+        {
+          "value": ".86",
+          "rowHeaders": [
+            "Control arm",
+            "1241 (408 to 2074)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Within-Arm Change",
+            "P"
+          ]
+        },
+        {
+          "value": "40.6",
+          "rowHeaders": [
+            "Freedson MVPA (≥1952 cpm, uniaxial)",
+            "1241 (408 to 2074)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Between Arms",
+            "Value (95% CI)"
+          ]
+        },
+        {
+          "value": "(1.67 to",
+          "rowHeaders": [
+            "Freedson MVPA (≥1952 cpm, uniaxial)",
+            "1241 (408 to 2074)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Between Arms",
+            "Value (95% CI)"
+          ]
+        },
+        {
+          "value": "79.5)",
+          "rowHeaders": [
+            "Freedson MVPA (≥1952 cpm, uniaxial)",
+            "1241 (408 to 2074)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Between Arms",
+            "Value (95% CI)"
+          ]
+        },
+        {
+          "value": ".04",
+          "rowHeaders": [
+            "Freedson MVPA (≥1952 cpm, uniaxial)",
+            "1241 (408 to 2074)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Between Arms",
+            "P"
+          ]
+        },
+        {
+          "value": "104.7 (83.1)",
+          "rowHeaders": [
+            "Intervention arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Mean (SD)",
+            "T1 (Baseline)"
+          ]
+        },
+        {
+          "value": "159.0 (127.2)",
+          "rowHeaders": [
+            "Intervention arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Mean (SD)",
+            "T2 (12 wk)"
+          ]
+        },
+        {
+          "value": "52.0",
+          "rowHeaders": [
+            "Intervention arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Within-Arm Change",
+            "Value (95% CI)"
+          ]
+        },
+        {
+          "value": "(24.4 to",
+          "rowHeaders": [
+            "Intervention arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Within-Arm Change",
+            "Value (95% CI)"
+          ]
+        },
+        {
+          "value": "79.6)",
+          "rowHeaders": [
+            "Intervention arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Within-Arm Change",
+            "Value (95% CI)"
+          ]
+        },
+        {
+          "value": "<.01",
+          "rowHeaders": [
+            "Intervention arm",
+            "1241 (408 to 2074)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Within-Arm Change",
+            "P"
+          ]
+        },
+        {
+          "value": "103.9 (102.0)",
+          "rowHeaders": [
+            "Control arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Mean (SD)",
+            "T1 (Baseline)"
+          ]
+        },
+        {
+          "value": "117.1 (109.9)",
+          "rowHeaders": [
+            "Control arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Mean (SD)",
+            "T2 (12 wk)"
+          ]
+        },
+        {
+          "value": "11.4 (−16.1 to",
+          "rowHeaders": [
+            "Control arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Within-Arm Change",
+            "Value (95% CI)"
+          ]
+        },
+        {
+          "value": "40.0)",
+          "rowHeaders": [
+            "Control arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Within-Arm Change",
+            "Value (95% CI)"
+          ]
+        },
+        {
+          "value": ".41",
+          "rowHeaders": [
+            "Control arm",
+            "1241 (408 to 2074)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Within-Arm Change",
+            "P"
+          ]
+        },
+        {
+          "value": "28.2",
+          "rowHeaders": [
+            "Freedson MVPA bouts a (≥1952 cpm, uniaxial)",
+            "1241 (408 to 2074)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Between Arms",
+            "Value (95% CI)"
+          ]
+        },
+        {
+          "value": "(4.7 to",
+          "rowHeaders": [
+            "Freedson MVPA bouts a (≥1952 cpm, uniaxial)",
+            "1241 (408 to 2074)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Between Arms",
+            "Value (95% CI)"
+          ]
+        },
+        {
+          "value": "51.7)",
+          "rowHeaders": [
+            "Freedson MVPA bouts a (≥1952 cpm, uniaxial)",
+            "1241 (408 to 2074)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Between Arms",
+            "Value (95% CI)"
+          ]
+        },
+        {
+          "value": ".02",
+          "rowHeaders": [
+            "Freedson MVPA bouts a (≥1952 cpm, uniaxial)",
+            "1241 (408 to 2074)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Between Arms",
+            "P"
+          ]
+        },
+        {
+          "value": "21.3 (36.2)",
+          "rowHeaders": [
+            "Intervention arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Mean (SD)",
+            "T1 (Baseline)"
+          ]
+        },
+        {
+          "value": "56.3 (70.4)",
+          "rowHeaders": [
+            "Intervention arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Mean (SD)",
+            "T2 (12 wk)"
+          ]
+        },
+        {
+          "value": "33.8",
+          "rowHeaders": [
+            "Intervention arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Within-Arm Change",
+            "Value (95% CI)"
+          ]
+        },
+        {
+          "value": "(17.1 to",
+          "rowHeaders": [
+            "Intervention arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Within-Arm Change",
+            "Value (95% CI)"
+          ]
+        },
+        {
+          "value": "50.4)",
+          "rowHeaders": [
+            "Intervention arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Within-Arm Change",
+            "Value (95% CI)"
+          ]
+        },
+        {
+          "value": "<.01",
+          "rowHeaders": [
+            "Intervention arm",
+            "1241 (408 to 2074)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Within-Arm Change",
+            "P"
+          ]
+        },
+        {
+          "value": "29.3 (54.2)",
+          "rowHeaders": [
+            "Control arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Mean (SD)",
+            "T1 (Baseline)"
+          ]
+        },
+        {
+          "value": "35.8 (59.9)",
+          "rowHeaders": [
+            "Control arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Mean (SD)",
+            "T2 (12 wk)"
+          ]
+        },
+        {
+          "value": "5.6 (−11.0 to",
+          "rowHeaders": [
+            "Control arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Within-Arm Change",
+            "Value (95% CI)"
+          ]
+        },
+        {
+          "value": "22.18)",
+          "rowHeaders": [
+            "Control arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Within-Arm Change",
+            "Value (95% CI)"
+          ]
+        },
+        {
+          "value": ".51",
+          "rowHeaders": [
+            "Control arm",
+            "1241 (408 to 2074)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Within-Arm Change",
+            "P"
+          ]
+        },
+        {
+          "value": "69.6 (−19.6 to",
+          "rowHeaders": [
+            "Matthews MVPA (≥760 cpm, uniaxial)",
+            "1241 (408 to 2074)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Between Arms",
+            "Value (95% CI)"
+          ]
+        },
+        {
+          "value": "158.7)",
+          "rowHeaders": [
+            "Matthews MVPA (≥760 cpm, uniaxial)",
+            "1241 (408 to 2074)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Between Arms",
+            "Value (95% CI)"
+          ]
+        },
+        {
+          "value": ".13",
+          "rowHeaders": [
+            "Matthews MVPA (≥760 cpm, uniaxial)",
+            "1241 (408 to 2074)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Between Arms",
+            "P"
+          ]
+        },
+        {
+          "value": "533.8 (224.7)",
+          "rowHeaders": [
+            "Intervention arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Mean (SD)",
+            "T1 (Baseline)"
+          ]
+        },
+        {
+          "value": "609.2 (313.9)",
+          "rowHeaders": [
+            "Intervention arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Mean (SD)",
+            "T2 (12 wk)"
+          ]
+        },
+        {
+          "value": "69.7",
+          "rowHeaders": [
+            "Intervention arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Within-Arm Change",
+            "Value (95% CI)"
+          ]
+        },
+        {
+          "value": "(6.5 to",
+          "rowHeaders": [
+            "Intervention arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Within-Arm Change",
+            "Value (95% CI)"
+          ]
+        },
+        {
+          "value": "132.8)",
+          "rowHeaders": [
+            "Intervention arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Within-Arm Change",
+            "Value (95% CI)"
+          ]
+        },
+        {
+          "value": ".03",
+          "rowHeaders": [
+            "Intervention arm",
+            "1241 (408 to 2074)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Within-Arm Change",
+            "P"
+          ]
+        },
+        {
+          "value": "505.6 (250.7)",
+          "rowHeaders": [
+            "Control arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Mean (SD)",
+            "T1 (Baseline)"
+          ]
+        },
+        {
+          "value": "510.8 (235.0)",
+          "rowHeaders": [
+            "Control arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Mean (SD)",
+            "T2 (12 wk)"
+          ]
+        },
+        {
+          "value": "0.10 (−63.0 to",
+          "rowHeaders": [
+            "Control arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Within-Arm Change",
+            "Value (95% CI)"
+          ]
+        },
+        {
+          "value": "63.2)",
+          "rowHeaders": [
+            "Control arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Within-Arm Change",
+            "Value (95% CI)"
+          ]
+        },
+        {
+          "value": ".98",
+          "rowHeaders": [
+            "Control arm",
+            "1241 (408 to 2074)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Within-Arm Change",
+            "P"
+          ]
+        },
+        {
+          "value": "44.4",
+          "rowHeaders": [
+            "Matthews MVPA bouts a (≥760 cpm, uniaxial)",
+            "1241 (408 to 2074)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Between Arms",
+            "Value (95% CI)"
+          ]
+        },
+        {
+          "value": "(3.6 to",
+          "rowHeaders": [
+            "Matthews MVPA bouts a (≥760 cpm, uniaxial)",
+            "1241 (408 to 2074)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Between Arms",
+            "Value (95% CI)"
+          ]
+        },
+        {
+          "value": "85.2)",
+          "rowHeaders": [
+            "Matthews MVPA bouts a (≥760 cpm, uniaxial)",
+            "1241 (408 to 2074)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Between Arms",
+            "Value (95% CI)"
+          ]
+        },
+        {
+          "value": ".03",
+          "rowHeaders": [
+            "Matthews MVPA bouts a (≥760 cpm, uniaxial)",
+            "1241 (408 to 2074)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Between Arms",
+            "P"
+          ]
+        },
+        {
+          "value": "63.0 (68.8)",
+          "rowHeaders": [
+            "Intervention arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Mean (SD)",
+            "T1 (Baseline)"
+          ]
+        },
+        {
+          "value": "119.0 (114.9)",
+          "rowHeaders": [
+            "Intervention arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Mean (SD)",
+            "T2 (12 wk)"
+          ]
+        },
+        {
+          "value": "54.4",
+          "rowHeaders": [
+            "Intervention arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Within-Arm Change",
+            "Value (95% CI)"
+          ]
+        },
+        {
+          "value": "(25.5 to",
+          "rowHeaders": [
+            "Intervention arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Within-Arm Change",
+            "Value (95% CI)"
+          ]
+        },
+        {
+          "value": "83.3)",
+          "rowHeaders": [
+            "Intervention arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Within-Arm Change",
+            "Value (95% CI)"
+          ]
+        },
+        {
+          "value": "<.01",
+          "rowHeaders": [
+            "Intervention arm",
+            "1241 (408 to 2074)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Within-Arm Change",
+            "P"
+          ]
+        },
+        {
+          "value": "65.5 (87.2)",
+          "rowHeaders": [
+            "Control arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Mean (SD)",
+            "T1 (Baseline)"
+          ]
+        },
+        {
+          "value": "76.7 (93.4)",
+          "rowHeaders": [
+            "Control arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Mean (SD)",
+            "T2 (12 wk)"
+          ]
+        },
+        {
+          "value": "10.0 (−18.9 to",
+          "rowHeaders": [
+            "Control arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Within-Arm Change",
+            "Value (95% CI)"
+          ]
+        },
+        {
+          "value": "38.9)",
+          "rowHeaders": [
+            "Control arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Within-Arm Change",
+            "Value (95% CI)"
+          ]
+        },
+        {
+          "value": ".50",
+          "rowHeaders": [
+            "Control arm",
+            "1241 (408 to 2074)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Within-Arm Change",
+            "P"
+          ]
+        },
+        {
+          "value": "−36.6 (−71.7 to −1.6)",
+          "rowHeaders": [
+            "Sitting time, min/d",
+            "1241 (408 to 2074)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Between Arms",
+            "Value (95% CI)"
+          ]
+        },
+        {
+          "value": ".01",
+          "rowHeaders": [
+            "Sitting time, min/d",
+            "1241 (408 to 2074)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Between Arms",
+            "P"
+          ]
+        },
+        {
+          "value": "538.4 (95.0)",
+          "rowHeaders": [
+            "Intervention arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Mean (SD)",
+            "T1 (Baseline)"
+          ]
+        },
+        {
+          "value": "530.0 (103.6)",
+          "rowHeaders": [
+            "Intervention arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Mean (SD)",
+            "T2 (12 wk)"
+          ]
+        },
+        {
+          "value": "−23.5 (−49.0 to −2.0)",
+          "rowHeaders": [
+            "Intervention arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Within-Arm Change",
+            "Value (95% CI)"
+          ]
+        },
+        {
+          "value": ".07",
+          "rowHeaders": [
+            "Intervention arm",
+            "1241 (408 to 2074)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Within-Arm Change",
+            "P"
+          ]
+        },
+        {
+          "value": "512.6 (112.7)",
+          "rowHeaders": [
+            "Control arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Mean (SD)",
+            "T1 (Baseline)"
+          ]
+        },
+        {
+          "value": "553.8 (176.7)",
+          "rowHeaders": [
+            "Control arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Mean (SD)",
+            "T2 (12 wk)"
+          ]
+        },
+        {
+          "value": "13.1 (−11.1 to",
+          "rowHeaders": [
+            "Control arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Within-Arm Change",
+            "Value (95% CI)"
+          ]
+        },
+        {
+          "value": "37.3)",
+          "rowHeaders": [
+            "Control arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Within-Arm Change",
+            "Value (95% CI)"
+          ]
+        },
+        {
+          "value": ".29",
+          "rowHeaders": [
+            "Control arm",
+            "1241 (408 to 2074)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Within-Arm Change",
+            "P"
+          ]
+        },
+        {
+          "value": "−42.1 (−82.7 to −1.6)",
+          "rowHeaders": [
+            "Sitting time bouts,b min/d",
+            "1241 (408 to 2074)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Between Arms",
+            "Value (95% CI)"
+          ]
+        },
+        {
+          "value": ".04",
+          "rowHeaders": [
+            "Sitting time bouts,b min/d",
+            "1241 (408 to 2074)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Between Arms",
+            "P"
+          ]
+        },
+        {
+          "value": "377.54 (114.6)",
+          "rowHeaders": [
+            "Intervention arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Mean (SD)",
+            "T1 (Baseline)"
+          ]
+        },
+        {
+          "value": "357.1 (117.0)",
+          "rowHeaders": [
+            "Intervention arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Mean (SD)",
+            "T2 (12 wk)"
+          ]
+        },
+        {
+          "value": "−32.3 (−61.8 to −2.8)",
+          "rowHeaders": [
+            "Intervention arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Within-Arm Change",
+            "Value (95% CI)"
+          ]
+        },
+        {
+          "value": ".03",
+          "rowHeaders": [
+            "Intervention arm",
+            "1241 (408 to 2074)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Within-Arm Change",
+            "P"
+          ]
+        },
+        {
+          "value": "340.5 (128.0)",
+          "rowHeaders": [
+            "Control arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Mean (SD)",
+            "T1 (Baseline)"
+          ]
+        },
+        {
+          "value": "380.1 (184.4)",
+          "rowHeaders": [
+            "Control arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Mean (SD)",
+            "T2 (12 wk)"
+          ]
+        },
+        {
+          "value": "9.8 (−18.2 to",
+          "rowHeaders": [
+            "Control arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Within-Arm Change",
+            "Value (95% CI)"
+          ]
+        },
+        {
+          "value": "37.8)",
+          "rowHeaders": [
+            "Control arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Within-Arm Change",
+            "Value (95% CI)"
+          ]
+        },
+        {
+          "value": ".50",
+          "rowHeaders": [
+            "Control arm",
+            "1241 (408 to 2074)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Within-Arm Change",
+            "P"
+          ]
+        },
+        {
+          "value": "27.2 (−2.2 to",
+          "rowHeaders": [
+            "Standing time, min/d",
+            "1241 (408 to 2074)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Between Arms",
+            "Value (95% CI)"
+          ]
+        },
+        {
+          "value": "56.5)",
+          "rowHeaders": [
+            "Standing time, min/d",
+            "1241 (408 to 2074)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Between Arms",
+            "Value (95% CI)"
+          ]
+        },
+        {
+          "value": ".07",
+          "rowHeaders": [
+            "Standing time, min/d",
+            "308 (−486 to 1102)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Between Arms",
+            "P"
+          ]
+        },
+        {
+          "value": "234.2 (68.6)",
+          "rowHeaders": [
+            "Intervention arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Mean (SD)",
+            "T1 (Baseline)"
+          ]
+        },
+        {
+          "value": "244.9 (91.1)",
+          "rowHeaders": [
+            "Intervention arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Mean (SD)",
+            "T2 (12 wk)"
+          ]
+        },
+        {
+          "value": "11.5 (−9.8 to",
+          "rowHeaders": [
+            "Intervention arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Within-Arm Change",
+            "Value (95% CI)"
+          ]
+        },
+        {
+          "value": "32.9)",
+          "rowHeaders": [
+            "Intervention arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Within-Arm Change",
+            "Value (95% CI)"
+          ]
+        },
+        {
+          "value": ".29",
+          "rowHeaders": [
+            "Intervention arm",
+            "1241 (408 to 2074)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Within-Arm Change",
+            "P"
+          ]
+        },
+        {
+          "value": "270.3 (106.4)",
+          "rowHeaders": [
+            "Control arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Mean (SD)",
+            "T1 (Baseline)"
+          ]
+        },
+        {
+          "value": "265.1 (86.1)",
+          "rowHeaders": [
+            "Control arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Mean (SD)",
+            "T2 (12 wk)"
+          ]
+        },
+        {
+          "value": "−15.6 (−35.9 to",
+          "rowHeaders": [
+            "Control arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Within-Arm Change",
+            "Value (95% CI)"
+          ]
+        },
+        {
+          "value": "4.6)",
+          "rowHeaders": [
+            "Control arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Within-Arm Change",
+            "Value (95% CI)"
+          ]
+        },
+        {
+          "value": ".13",
+          "rowHeaders": [
+            "Control arm",
+            "1241 (408 to 2074)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Within-Arm Change",
+            "P"
+          ]
+        },
+        {
+          "value": "2.3 (−2.2 to",
+          "rowHeaders": [
+            "No. of sit-to-stand transitions",
+            "1241 (408 to 2074)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Between Arms",
+            "Value (95% CI)"
+          ]
+        },
+        {
+          "value": "6.9)",
+          "rowHeaders": [
+            "No. of sit-to-stand transitions",
+            "308 (−486 to 1102)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Between Arms",
+            "Value (95% CI)"
+          ]
+        },
+        {
+          "value": ".31",
+          "rowHeaders": [
+            "No. of sit-to-stand transitions",
+            "308 (−486 to 1102)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Between Arms",
+            "P"
+          ]
+        },
+        {
+          "value": "42.4 (11.2)",
+          "rowHeaders": [
+            "Intervention arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Mean (SD)",
+            "T1 (Baseline)"
+          ]
+        },
+        {
+          "value": "45.9 (10.7)",
+          "rowHeaders": [
+            "Intervention arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Mean (SD)",
+            "T2 (12 wk)"
+          ]
+        },
+        {
+          "value": "2.5 (−0.7 to",
+          "rowHeaders": [
+            "Intervention arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Within-Arm Change",
+            "Value (95% CI)"
+          ]
+        },
+        {
+          "value": "5.8)",
+          "rowHeaders": [
+            "Intervention arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Within-Arm Change",
+            "Value (95% CI)"
+          ]
+        },
+        {
+          "value": ".13",
+          "rowHeaders": [
+            "Intervention arm",
+            "1241 (408 to 2074)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Within-Arm Change",
+            "P"
+          ]
+        },
+        {
+          "value": "44.9 (12.9)",
+          "rowHeaders": [
+            "Control arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Mean (SD)",
+            "T1 (Baseline)"
+          ]
+        },
+        {
+          "value": "44.7 (11.5)",
+          "rowHeaders": [
+            "Control arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Mean (SD)",
+            "T2 (12 wk)"
+          ]
+        },
+        {
+          "value": "0.2 (−2.9 to",
+          "rowHeaders": [
+            "Control arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Within-Arm Change",
+            "Value (95% CI)"
+          ]
+        },
+        {
+          "value": "3.4)",
+          "rowHeaders": [
+            "Control arm"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Within-Arm Change",
+            "Value (95% CI)"
+          ]
+        },
+        {
+          "value": ".89",
+          "rowHeaders": [
+            "Control arm",
+            "1241 (408 to 2074)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Within-Arm Change",
+            "P"
+          ]
+        },
+        {
+          "value": ".11",
+          "rowHeaders": [
+            "No. of steps",
+            "308 (−486 to 1102)",
+            "933 (−215 to 2082)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Between Arms",
+            "P"
+          ]
+        },
+        {
+          "value": ".04",
+          "rowHeaders": [
+            "Intervention arm",
+            "1241 (408 to 2074)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Within-Arm Change",
+            "P"
+          ]
+        },
+        {
+          "value": ".45",
+          "rowHeaders": [
+            "Control arm",
+            "308 (−486 to 1102)"
+          ],
+          "columnHeaders": [
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "TABLE 2. Changes in Accelerometer-Measured MVPA and Sedentary Behavior (T1-T2) Within and Between",
+            "Within-Arm Change",
+            "P"
+          ]
+        }
+      ],
+      "page": 1
+    }
+  ]
+}

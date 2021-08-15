@@ -1,0 +1,2434 @@
+{
+  "blocks": [
+    {
+      "type": "LINES",
+      "value": "Preventive Medicine Reports",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The Active School program was designed to positively impact health and academic-related outcomes in school. The core intervention component was physically active academic lessons, a teaching activity that combines physical activity and educational content. The purpose of this study was to investigate the effect of a 10-month, cluster-randomized controlled trial on physical activity level and aerobic fitness conducted in the city of Stavanger, Norway, in 2014-15. The physical activity level during physically active academic lessons was also studied. A total of 447 children (9-10 years) participated. The weekly intervention consisted of physically active academic lessons, physically active homework and physically active recess. Physical activity level and aerobic fitness were measured objectively by accelerometry and a 10-minute interval running test. Intervention effects were found for time in moderate to vigorous physical activity (MVPA) (adjusted mean difference of 8 min/day, 95% CI: 3.4-13, p < 0.001) and total physical activity (60 counts/min, 95% CI: 15-105, p = 0.009). Children with low aerobic fitness increased their running distance compared to controls (d = 0.46; p = 0.001). During physically active academic lessons children spent 26% of the time in MVPA, which was comparable to physical education lessons. The Active School program successfully increased physical activity for the intervention group and aerobic fitness for the least fit children. The activity level during physically active academic lessons was as high as in physical education lessons. Clinicaltrail.gov ID identifier: NCT03436355.",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Evidence suggests that there are positive associations between physical activity (PA), fitness, cognition and academic achievement. Findings supporting the importance of PA for academic learning, and not just health, have increased the interest in PA among politicians and decision makers. Schools area very promising setting for PA promotion since the majority of potential participants are reached regardless of socioeconomic status, and many school-based interventions on PA and fitness have been found to be effective. Unfortunately, there are barriers to the implementation of school-based PA initiatives, with lack of time being most consistently cited. Introducing interventions that are complementary to teacher-related activities is therefore of importance in the real-world setting. In physically active academic lessons, hereafter referred to as physically active lessons, teachers combine academic content with PA to increase both learning outcomes and health.\nTwo reviews found encouraging evidence of improved PA and educational outcomes following physically active lessons. found that physically active lessons improved mathematics and spelling performance of elementary schoolchildren, stated that integrating movement across the primary mathematics lessons was feasible and efficacious, while found that physically active academic games improved time used on academic tasks to a greater extent than sedentary academic games. Physically active lessons are implemented in various school environments and range from spelling relays to exercises that illustrate answers and virtual field trips. However, most of the recent studies conducted physically active lessons in the classroom (as opposed to outdoors), which can be difficult due to noise and lack of space. One exception is the Active Smarter Kids study which used 3 × 30 min/week physically active lessons, mainly carried out in the schoolyard, as the core intervention. In this study results suggested that low performing children in academic performance benefited the most academically from the intervention.\nAltogether, relatively few papers report effects from school interventions containing physically active lessons, especially performed outdoors. No studies comparing the PA level during outdoor physically active lessons to other lessons have been found, and studies using objective measures of PA to determine effects from physically active lessons on overall PA levels are wanted.\nThe Active School program started in the city of Stavanger, Norway, in 2013 to increase children's PA level in school to improve health and learning. The core intervention component was physically active lessons. After a successful pilot study in 2013-14, a 10-month, cluster randomized controlled trial in primary schools was conducted in 2014-15. It was found that increased PA in school tended to benefit children's cognitive functioning. The primary aim of the current study was to report effects of the Active School program on objectively measured PA level and aerobic fitness. In addition, the PA level during the 45-minute physically active lessons was compared to ordinary classroom lessons and physical education (PE) lessons.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The Active School study was a 10-month school-based cluster randomized controlled trial conducted in 2014-15. All 29 primary schools in the municipality of Stavanger, Norway, were invited and nine schools agreed to participate. A total of 473 children (5th grade, 9-10 years old) were invited, and 447 (95%, 219 girls and 228 boys) participated in the study (Fig.).\nThe nine schools were matched into two groups stratified by the number of children participating in extracurricular sports, the socioeconomic status in the surrounding school area, size and participation in the \"Physical Activity Leader Program\" (a separate program that focuses on increasing PA and preventing bullying during recess). The computer program \"Researcher Randomizer\" was used to randomize the two groups into intervention and control groups.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Weight, height and waist circumference were measured by the school nurse according to national standards. Body mass index (BMI) was calculated as weight/ height 2 (kg/m 2 ). Age and gender specific BMI cut-off values were used to categorize the children as being underweight, normal weight or overweight/obese.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Physical activity was measured using accelerometry (ActiGraph GT1M/GT3X/GT3X+, LLC, Pensacola, Florida, USA). The children were asked to wear the accelerometer on the right hip for seven consecutive days, removing it only during water-based activities (e.g., swimming) and while sleeping. Data were considered valid if a child had at least two days with a wear time of ≥480 min/day accumulated between 06:00 and 24:00. There is no consensus of which threshold to use but many previous investigations have used this cut-off. Periods of ≥20 min of zero counts were defined as nonwear time. Data were collected in 10-s epochs. These criteria were the same as used in the Physical Activity among Norwegian Children Study. Registration started the second day of wearing the monitors to avoid excessive activity likely to occur the first day of wearing the accelerometers. Outcomes for PA levels were 1) sedentary time in min/day (0-100 counts per minute [cpm]), 2) light-intensity PA in min/day (101-2295 cpm), 3) moderate-to-vigorous intensity PA (MVPA) min/day (≥2296 cpm), 4) total PA in cpm, and 5) number of steps per day. The cut-off points were defined by. Although there is no consensus regarding cut-off points, the Evenson cut-points have shown acceptable classification accuracy for all four activity intensities among children. All accelerometry was analyzed using ActiLife, v. 6.12.0 (ActiGraph Corporation, LLC, Pensacola, FL, USA). The collection of baseline accelerometer data was conducted before the intervention started (August 2014). Post-intervention accelerometer data were collected at the end of the school year. Schools that gave detailed descriptions of timetables during accelerometer wear time were included in a separate analysis of PA in classroom lessons, PE lessons and physically active lessons. Eighty-seven children (37 boys) were included in this analysis.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Both the intervention and the control group significantly increased their running distance from baseline to post-intervention (4% in both groups), but no overall significant effect of the intervention was found.\nA secondary analysis compared intervention effects in the lowest scoring tertile at baseline, revealing significant intervention effects in favor of the intervention group (Table). Boys in the lowest tertile in the intervention group had almost twice the increase in running distance, as compared to the corresponding boys in the control group (p = 0.006). There were no significant differences between any of the other tertiles (Table).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The intervention was led by teachers in the intervention schools and consisted of one primary component (physically active lessons) and two secondary components (physically active homework and physically active recess). The main component, physically active lessons, was conducted 2-3 times per week, on days without physical education or other curricular PA. All lessons lasted 45 min. The lessons were held mainly outdoors and included games, relays and quizzes with curricular questions from several theoretical subjects. For the other two study intervention components, teachers were encouraged to assign homework in physical education (10 min/day) and offer inspiration for physically active recess (10 min/day).\nThe intervention was intended to increase the amount of PA by 190 min/week, giving a total of 325 min/week of PA. Control schools were asked to continue their normal routine, which included approximately 135 min/week of PA.\nTeachers were asked to organize the physically active lessons using the following guidelines: a) each lesson should include at least 15 min of moderate to vigorous intensity, b) lessons should be easily organized and adapted to avoid unnecessary waiting, c) lessons should include both competitive and noncompetitive elements, and d) lessons should be enjoyable activities that included all the children. To further improve the quality of the physically active lessons, a quality framework were stated at the back of the physically active lesson form, and included tips of how differentiation, autonomy, collaboration, enjoyment and high activity level could be ensured.\nTo assist and support intervention teachers, one primary and one secondary contact person from the Active School project team was assigned to each intervention school. Contact persons attended meetings and regularly visited participating teachers and classes throughout the school year (1-4 visits per month, depending on requests from the schools). One pre-intervention seminar and one midway seminar were arranged for the teachers to give information about the program and provide support. New physically active lessons were shared between intervention schools through a website.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Power calculations were based on total PA (cpm), to detect an effect size (Cohen's d) of 0.47. A total of 300 children would provide a power of β = 0.80 to detect relevant changes (repeated measures) between participants in the intervention and control groups.\nPreliminary analyses were conducted to ensure no violation of the assumptions of normality and linearity. Mann-Whitney was used to detect differences in MVPA and steps due to a positive Levene's test. A variance component analysis indicated that the variance between schools were low for the primary outcomes: 3.1% in children's moderate to vigorous physical activity, 3.9% in children's total physical activity level (counts/min) and 3.6% in children's running distance (aerobic fitness). Due to low variance between schools in these outcomes, multilevel analysis was not considered necessary. The effectiveness of the intervention was assessed using mixed ANCOVA and ANOVA repeated measures analysis with aerobic fitness and PA as dependent variables, with time (baseline and post-intervention) as the within variable, group (intervention and control group) as the between variable, and in some analyses, gender as the between subject variable. Gender was entered as covariate when appropriate. Cohen's d was calculated to express the distance between two means in standard deviations (effect size). A p-value of less than 0.05 was considered statistically significant. All statistical analyses were performed using SPSS 21 (IBM Corporation, Somers, NY, USA).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Descriptive statistics of children's anthropometric characteristics at baseline are provided in Table. There were no differences between intervention schools and control schools in any variables. No significant intervention effect on body mass index (BMI) or waist circumference was found. Data for BMI is shown in Table.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Small to medium effect sizes were found on sedentary behavior (reduced sedentary time), cpm, MVPA and steps, all in favor of the intervention group (Table). The intervention group had a 12% increase in cpm, while the control group showed no change. The control group had no significant change in MVPA, while the intervention group had a 13% increase. No intervention effect on light activity was found.\nSecondary analyses showed that the intervention effect on sedentary behavior and cpm was only significant for girls (net effects: −28 min, 73 cpm), while the intervention effect on MVPA and steps was only significant for boys (net effects: 11 minutes MVPA, 1345 steps).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "During the 45-minute physically active lessons, children spent just as much time in MVPA (27% of the lesson) and completed 17% more steps than in the PE lessons. Children were sedentary 78% of the time during academic classroom lessons, which was twice as much as during PE-and physically active lessons (Table).\nComparing MVPA during physically active lessons to overall daily MVPA, and MVPA during school time indicated that each physically active lesson contributed to 16% of overall daily MVPA and 30% of MVPA during school time.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The purpose of this study was to evaluate changes in children's PA level and aerobic fitness after a 10-month school intervention program in which physically active lessons was the core intervention component. An overall intervention effect was increased PA level and reduced sedentary time. No overall effect of the intervention was found on aerobic fitness. However, the least fit tertile in the intervention group had a moderate intervention effect on the running distance compared with the corresponding tertile in the control group. During the physically active lessons, children's PA levels were as high as in PE lessons.\nThe current study showed that the least aerobically fit children gained the most from the intervention, which is not surprising since these children have the greatest potential for improvement. In our study BMI = Body mass index. Mean (percent or standard deviation).\n1 Weight categories according to and. a 10% increase in total PA level (cpm) was enough to increase fitness for the 1/3 least aerobically fit children. This is an encouraging finding suggesting that the least fit children might benefit from even modest increases in daily PA. The increase in aerobic fitness among the least fit is also consistent with studies finding a moderate to strong (β = 0.63) association between change in daily PA (cpm) and aerobic fitness in children with initially low levels of PA.\nThe intervention group had a 15% increase in MVPA, while subgroup analysis showed that girls had a greater reduction in sedentary time, while boys had a greater increase in MVPA. The difference between boys and girls with respect to changes in MVPA could explain why boys in the least fit tertile had a greater increase in running distance than girls, and also agrees with results of, who found that boys were more involved in MVPA than girls.\nAs shown in Table, children in the control group were significantly less sedentary and more physically active at baseline than children in the intervention group. It could therefore be argued that children in the intervention group were not outperforming the control group at posttest, but that they had 'caught up', also called regression to the mean. However, the difference in sedentary behavior between groups were small (less than 2%), and even though children in the control group had a lower fitness than children in the intervention group at baseline (Table), it was only the least fit children in the intervention group who increased their fitness.\nData from the present study show that 12 of the 45 min of the physically active lesson were carried out as MVPA, which was the same amount of MVPA as in PE lessons. During physically active lessons, sedentary time was replaced with MVPA, and contributed to 20% (12/ 60 min) of the recommended amount of daily PA. A systematic review stated that all patterns of PA (sporadic, bouts, continuous) provided beneficial health indicators in school-aged children, and that all intensities of PA should be considered in future work aimed at better elucidating the health benefits of PA in children and youth.\nSeveral studies have reported increased PA due to physically active lessons, (see references in), while only one study was found that included fitness as an effect variable. In the \"Fit and academically proficient at school\" study, no effects on cardiovascular and muscular fitness were found. In that study, children participated in physically active lessons three times a week, 20-30 min each time. Based on heart rate monitors worn in a subsample in one lesson, the study's conclusion was similar to our finding: the duration of MVPA in the physically active lessons was comparable to the average time spent in MVPA during a PE lesson. This shows that physically active lessons area feasible approach to reducing sedentary time and increasing MVPA among schoolchildren.\nConsidering the intervention's intended 190-minute increase in PA, the effects on MVPA and light activity might seem small. Adding the net effects of light activity (+5 min) and MVPA (+8 min), this daily 14minute net increase add up to a 70-minute increase per week. The teachers' reports indicated that 73% of the physically active lessons were carried out as planned, data reported in, and around 1/3 of the physically active lessons was needed for instructions and discussions. Even so, the 70 min/week of increased PA, was enough to increase the aerobic fitness for 1/3 of the children with the lowest aerobic fitness. In addition to physically active lessons, the intervention included physically active homework and physically active recess. During the implementation evaluation, it was found that teacher feedback regarding the homework and recess components of the intervention was mixed. Three of the five intervention schools had already incorporated physically active recess. In addition, teachers atone of the schools questioned the need for physically active homework, pointing out that many children were already involved in organized PA during their leisure time. On the other hand, teachers at two of the intervention schools received positive feedback from both children and parents regarding physically active homework, and wanted to continue with it after the intervention period. The main findings from the present project's process evaluation results were that physically active lessons were considered an appropriate pedagogical method for creating positive variation, and were highly appreciated among both teachers and children. These findings, combined with the observed effects on PA and fitness, further supports physically active lessons as a feasible intervention in schools.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The study has some limitations. First, the PA measurements are only snapshots of the activity level during the specific weeks, and were susceptible to special activities taking place during these weeks. Second, due to the low number of participating schools (N = 9), we did not have the statistical power to use multilevel analysis. However, the variance between schools was low. Third, even though the fidelity was acceptable (75% of the extra PA was reported delivered as planned), implementation of the intervention components varied between schools. Due to the design, teachers should develop, adapt and adjust  the intervention components to their local settings. It is therefore not possible to state which components were most effective. However, in a real-world setting, interventions would need to be customized to fit different school settings. It should also be noted that the statistical analyses did not follow the intention-to-treat principle, since children dropping out from the post intervention tests were excluded from analysis in Tables.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "This study showed that a relatively modest intervention implemented in a real-world setting could reduce sedentary behavior and increase PA among children. Furthermore, it was found that a 10% increase in total PA level (measured in counts per minute) was enough to give a moderate effect on running distance for the least aerobically fit children. The PA level during physically active lessons was just as high as during PE lessons. Even though it is not possible to determine the size of the contribution from each of the three different intervention components (physically active lessons, physically active homework and physically active recess), physically active lessons standout as an effective intervention for reducing sedentary time and increasing PA and fitness in school without reducing academic content. Physically active lessons were a significant contributor to children meeting the PA guidelines, and a single lesson contributed to 20% of the daily recommended amount of PA.\nChildren with the lowest aerobic fitness are often those who are most difficult to involve in PA during leisure time, and who normally show the greatest gains in health indicators when being physically active. Our findings suggest that integration of physically active lessons in the school curriculum can be a successful way to increase the amount of PA for all children, and that the Active School program can increase aerobic fitness for the children with the lowest aerobic fitness. Physically active lessons area cost-effective approach to both learning and health since this teaching activity does not take time from other subjects or extend the school day, and it can be implemented by all teachers.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Parental written informed consent was collected for all children who also gave their verbal consent before they were included in the study. The project was reported to and approved by the Norwegian Centre for Research Data.\n",
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "188 (♀ = 96, ♂ = 92)",
+          "rowHeaders": [
+            "Sedentary (min/",
+            "day)",
+            "Girls",
+            "All",
+            "Control, n ="
+          ],
+          "columnHeaders": [
+            "Table 2"
+          ]
+        },
+        {
+          "value": "189 (♀ = 91, ♂ = 98)",
+          "rowHeaders": [
+            "MVPA (min/day)",
+            "Sedentary (min/",
+            "Girls",
+            "All",
+            "Control, n =",
+            "Intervention, n ="
+          ],
+          "columnHeaders": [
+            "Table 2"
+          ]
+        },
+        {
+          "value": "471⁎ (55)",
+          "rowHeaders": [
+            "Light activity",
+            "Sedentary (min/",
+            "Girls",
+            "All"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Change",
+            "Baseline",
+            "(SD)",
+            "(SD)",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "486 (58)",
+          "rowHeaders": [
+            "MVPA (min/day)",
+            "Sedentary (min/",
+            "Girls",
+            "All"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Change",
+            "Post-",
+            "intervention",
+            "(SD)",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "480 (60)",
+          "rowHeaders": [
+            "MVPA (min/day)",
+            "Sedentary (min/",
+            "Girls",
+            "All",
+            "Control, n ="
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Change",
+            "Baseline",
+            "(SD)",
+            "(SD)",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "482 (69)",
+          "rowHeaders": [
+            "MVPA (min/day)",
+            "Sedentary (min/",
+            "Girls",
+            "All",
+            "Control, n ="
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Change",
+            "Post-",
+            "intervention",
+            "(SD)",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "4.09",
+          "rowHeaders": [
+            "MVPA (min/day)",
+            "Sedentary (min/",
+            "Girls",
+            "All",
+            "Control, n =",
+            "Intervention, n ="
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Intervention effect",
+            "F",
+            "between groups",
+            "[95% CI]",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "0.054",
+          "rowHeaders": [
+            "MVPA (min/day)",
+            "Sedentary (min/",
+            "Girls",
+            "All",
+            "Control, n =",
+            "Intervention, n ="
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Intervention effect",
+            "p",
+            "between groups",
+            "[95% CI]",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "0.21",
+          "rowHeaders": [
+            "MVPA (min/day)",
+            "Sedentary (min/",
+            "Girls",
+            "All",
+            "Control, n =",
+            "Intervention, n ="
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Intervention effect",
+            "d",
+            "between groups",
+            "[95% CI]",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "468⁎ (51)",
+          "rowHeaders": [
+            "Sedentary (min/",
+            "day)",
+            "Boys"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Change",
+            "Baseline",
+            "(SD)",
+            "(SD)",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "493 (56)",
+          "rowHeaders": [
+            "Sedentary (min/",
+            "day)",
+            "Boys"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Change",
+            "Post-",
+            "intervention",
+            "(SD)",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "487 (56)",
+          "rowHeaders": [
+            "Sedentary (min/",
+            "day)",
+            "Boys",
+            "Control, n ="
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Change",
+            "Post-",
+            "intervention",
+            "(SD)",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "11.53",
+          "rowHeaders": [
+            "MVPA (min/day)",
+            "day)",
+            "Boys",
+            "Control, n ="
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Intervention effect",
+            "F",
+            "between groups",
+            "[95% CI]",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "0.001",
+          "rowHeaders": [
+            "MVPA (min/day)",
+            "day)",
+            "Boys",
+            "Control, n ="
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Intervention effect",
+            "p",
+            "between groups",
+            "[95% CI]",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "0.50",
+          "rowHeaders": [
+            "MVPA (min/day)",
+            "day)",
+            "Boys",
+            "Control, n ="
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Intervention effect",
+            "d",
+            "between groups",
+            "[95% CI]",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "473 (59)",
+          "rowHeaders": [
+            "Sedentary (min/",
+            "(min/day)",
+            "Boys"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Change",
+            "Baseline",
+            "(SD)",
+            "(SD)",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "479 (60)",
+          "rowHeaders": [
+            "MVPA (min/day)",
+            "Sedentary (min/",
+            "Boys"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Change",
+            "Post-",
+            "intervention",
+            "(SD)",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "470 (63)",
+          "rowHeaders": [
+            "MVPA (min/day)",
+            "Boys"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Change",
+            "Baseline",
+            "(SD)",
+            "(SD)",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "478 (80)",
+          "rowHeaders": [
+            "MVPA (min/day)",
+            "Boys"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Change",
+            "Post-",
+            "intervention",
+            "(SD)",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "0.27",
+          "rowHeaders": [
+            "MVPA (min/day)",
+            "Boys",
+            "Control, n =",
+            "Intervention, n ="
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Intervention effect",
+            "F",
+            "between groups",
+            "[95% CI]",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "0.805",
+          "rowHeaders": [
+            "MVPA (min/day)",
+            "Boys",
+            "Control, n =",
+            "Intervention, n ="
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Intervention effect",
+            "p",
+            "between groups",
+            "[95% CI]",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "0.10",
+          "rowHeaders": [
+            "MVPA (min/day)",
+            "Boys",
+            "Control, n =",
+            "Intervention, n ="
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Intervention effect",
+            "d",
+            "between groups",
+            "[95% CI]",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "228 (32)",
+          "rowHeaders": [
+            "Light activity",
+            "All"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Change",
+            "Baseline",
+            "(SD)",
+            "(SD)",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "214 (34)",
+          "rowHeaders": [
+            "Light activity",
+            "All"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Change",
+            "Post-",
+            "intervention",
+            "(SD)",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "216 (37)",
+          "rowHeaders": [
+            "Light activity",
+            "All"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Change",
+            "Post-",
+            "intervention",
+            "(SD)",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "1.43",
+          "rowHeaders": [
+            "Light activity",
+            "All",
+            "Control, n ="
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Intervention effect",
+            "F",
+            "between groups",
+            "[95% CI]",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "0.232",
+          "rowHeaders": [
+            "Light activity",
+            "All",
+            "Control, n ="
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Intervention effect",
+            "p",
+            "between groups",
+            "[95% CI]",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "0.12",
+          "rowHeaders": [
+            "Light activity",
+            "All",
+            "Control, n ="
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Intervention effect",
+            "d",
+            "between groups",
+            "[95% CI]",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "233 (31)",
+          "rowHeaders": [
+            "(min/day)",
+            "Girls"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Change",
+            "Baseline",
+            "(SD)",
+            "(SD)",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "217 (33)",
+          "rowHeaders": [
+            "(min/day)",
+            "Girls"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Change",
+            "Post-",
+            "intervention",
+            "(SD)",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "217 (36)",
+          "rowHeaders": [
+            "(min/day)",
+            "Girls"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Change",
+            "Post-",
+            "intervention",
+            "(SD)",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "0.30",
+          "rowHeaders": [
+            "(min/day)",
+            "Girls"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Intervention effect",
+            "F",
+            "between groups",
+            "[95% CI]",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "0.587",
+          "rowHeaders": [
+            "(min/day)",
+            "Girls"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Intervention effect",
+            "p",
+            "between groups",
+            "[95% CI]",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "0.08",
+          "rowHeaders": [
+            "(min/day)",
+            "Girls",
+            "Control, n ="
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Intervention effect",
+            "d",
+            "between groups",
+            "[95% CI]",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "223 (33)",
+          "rowHeaders": [
+            "MVPA (min/day)",
+            "Boys"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Change",
+            "Baseline",
+            "(SD)",
+            "(SD)",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "211 (35)",
+          "rowHeaders": [
+            "MVPA (min/day)",
+            "Boys"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Change",
+            "Post-",
+            "intervention",
+            "(SD)",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "214 (39)",
+          "rowHeaders": [
+            "MVPA (min/day)",
+            "Boys"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Change",
+            "Post-",
+            "intervention",
+            "(SD)",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "1.37",
+          "rowHeaders": [
+            "MVPA (min/day)",
+            "Boys"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Intervention effect",
+            "F",
+            "between groups",
+            "[95% CI]",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "0.244",
+          "rowHeaders": [
+            "MVPA (min/day)",
+            "Boys"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Intervention effect",
+            "p",
+            "between groups",
+            "[95% CI]",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "0.17",
+          "rowHeaders": [
+            "MVPA (min/day)",
+            "Boys"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Intervention effect",
+            "d",
+            "between groups",
+            "[95% CI]",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "11.02",
+          "rowHeaders": [
+            "MVPA (min/day)",
+            "All"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Intervention effect",
+            "F",
+            "between groups",
+            "[95% CI]",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "0.001",
+          "rowHeaders": [
+            "MVPA (min/day)",
+            "All"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Intervention effect",
+            "p",
+            "between groups",
+            "[95% CI]",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "0.34",
+          "rowHeaders": [
+            "MVPA (min/day)",
+            "All"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Intervention effect",
+            "d",
+            "between groups",
+            "[95% CI]",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "2.70",
+          "rowHeaders": [
+            "MVPA (min/day)",
+            "Girls"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Intervention effect",
+            "F",
+            "between groups",
+            "[95% CI]",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "0.102",
+          "rowHeaders": [
+            "MVPA (min/day)",
+            "Girls"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Intervention effect",
+            "p",
+            "between groups",
+            "[95% CI]",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "0.24",
+          "rowHeaders": [
+            "MVPA (min/day)",
+            "Girls"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Intervention effect",
+            "d",
+            "between groups",
+            "[95% CI]",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "8.67",
+          "rowHeaders": [
+            "MVPA (min/day)",
+            "Boys"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Intervention effect",
+            "F",
+            "between groups",
+            "[95% CI]",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "0.004",
+          "rowHeaders": [
+            "MVPA (min/day)",
+            "Boys"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Intervention effect",
+            "p",
+            "between groups",
+            "[95% CI]",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "0.43",
+          "rowHeaders": [
+            "MVPA (min/day)",
+            "Boys"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Intervention effect",
+            "d",
+            "between groups",
+            "[95% CI]",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "622⁎ (199)",
+          "rowHeaders": [
+            "CPM (axis 1)",
+            "All"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Change",
+            "Baseline",
+            "(SD)",
+            "(SD)",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "626 (230)",
+          "rowHeaders": [
+            "CPM (axis 1)",
+            "All"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Change",
+            "Post-",
+            "intervention",
+            "(SD)",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "584 (176)",
+          "rowHeaders": [
+            "CPM (axis 1)",
+            "All"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Change",
+            "Baseline",
+            "(SD)",
+            "(SD)",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "659 (271)",
+          "rowHeaders": [
+            "CPM (axis 1)",
+            "All"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Change",
+            "Post-",
+            "intervention",
+            "(SD)",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "7.02",
+          "rowHeaders": [
+            "CPM (axis 1)",
+            "All"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Intervention effect",
+            "F",
+            "between groups",
+            "[95% CI]",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "0.008",
+          "rowHeaders": [
+            "CPM (axis 1)",
+            "All"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Intervention effect",
+            "p",
+            "between groups",
+            "[95% CI]",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "0.27",
+          "rowHeaders": [
+            "CPM (axis 1)",
+            "All"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Intervention effect",
+            "d",
+            "between groups",
+            "[95% CI]",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "580 (147)",
+          "rowHeaders": [
+            "MVPA (min/day)",
+            "Girls"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Change",
+            "Baseline",
+            "(SD)",
+            "(SD)",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "578 (189)",
+          "rowHeaders": [
+            "MVPA (min/day)",
+            "Girls"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Change",
+            "Post-",
+            "intervention",
+            "(SD)",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "552 (155)",
+          "rowHeaders": [
+            "MVPA (min/day)",
+            "Girls"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Change",
+            "Baseline",
+            "(SD)",
+            "(SD)",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "623 (211)",
+          "rowHeaders": [
+            "MVPA (min/day)",
+            "Girls"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Change",
+            "Post-",
+            "intervention",
+            "(SD)",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "5.94",
+          "rowHeaders": [
+            "MVPA (min/day)",
+            "Girls"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Intervention effect",
+            "F",
+            "between groups",
+            "[95% CI]",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "0.016",
+          "rowHeaders": [
+            "MVPA (min/day)",
+            "Girls"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Intervention effect",
+            "p",
+            "between groups",
+            "[95% CI]",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "0.40",
+          "rowHeaders": [
+            "MVPA (min/day)",
+            "Girls"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Intervention effect",
+            "d",
+            "between groups",
+            "[95% CI]",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "654 (221)",
+          "rowHeaders": [
+            "Steps per day",
+            "Boys"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Change",
+            "Baseline",
+            "(SD)",
+            "(SD)",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "672 (259)",
+          "rowHeaders": [
+            "MVPA (min/day)",
+            "Boys"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Change",
+            "Post-",
+            "intervention",
+            "(SD)",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "622 (190)",
+          "rowHeaders": [
+            "MVPA (min/day)",
+            "Boys"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Change",
+            "Baseline",
+            "(SD)",
+            "(SD)",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "688 (265)",
+          "rowHeaders": [
+            "MVPA (min/day)",
+            "Boys"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Change",
+            "Post-",
+            "intervention",
+            "(SD)",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "1.95",
+          "rowHeaders": [
+            "MVPA (min/day)",
+            "Boys"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Intervention effect",
+            "F",
+            "between groups",
+            "[95% CI]",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "0.164",
+          "rowHeaders": [
+            "MVPA (min/day)",
+            "Boys"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Intervention effect",
+            "p",
+            "between groups",
+            "[95% CI]",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "0.20",
+          "rowHeaders": [
+            "MVPA (min/day)",
+            "Boys"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Intervention effect",
+            "d",
+            "between groups",
+            "[95% CI]",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "636 [214, 1058]⁎⁎",
+          "rowHeaders": [
+            "Steps per day",
+            "All"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Change",
+            "Change",
+            "baseline to post-",
+            "intervention",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "940 [341, 1540]",
+          "rowHeaders": [
+            "Steps per day",
+            "All"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Change",
+            "Mean difference",
+            "between groups",
+            "[95% CI]",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "9.69",
+          "rowHeaders": [
+            "Steps per day",
+            "All"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Intervention effect",
+            "F",
+            "between groups",
+            "[95% CI]",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "0.002",
+          "rowHeaders": [
+            "Steps per day",
+            "All"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Intervention effect",
+            "p",
+            "between groups",
+            "[95% CI]",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "0.32",
+          "rowHeaders": [
+            "Steps per day",
+            "All"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Intervention effect",
+            "d",
+            "between groups",
+            "[95% CI]",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "350 [−244, 944]",
+          "rowHeaders": [
+            "MVPA (min/day)",
+            "Girls"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Change",
+            "Change",
+            "baseline to post-",
+            "intervention",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "548 [−282,",
+          "rowHeaders": [
+            "MVPA (min/day)",
+            "Girls"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Change",
+            "Mean difference",
+            "between groups",
+            "[95% CI]",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "1.70",
+          "rowHeaders": [
+            "MVPA (min/day)",
+            "Girls"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Intervention effect",
+            "F",
+            "between groups",
+            "[95% CI]",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "0.194",
+          "rowHeaders": [
+            "MVPA (min/day)",
+            "Girls"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Intervention effect",
+            "p",
+            "between groups",
+            "[95% CI]",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "0.19",
+          "rowHeaders": [
+            "MVPA (min/day)",
+            "Girls"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Intervention effect",
+            "d",
+            "between groups",
+            "[95% CI]",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "906 [303, 1508]⁎⁎",
+          "rowHeaders": [
+            "MVPA (min/day)",
+            "Boys"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Change",
+            "Change",
+            "baseline to post-",
+            "intervention",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "9.39",
+          "rowHeaders": [
+            "MVPA (min/day)",
+            "Boys"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Intervention effect",
+            "F",
+            "between groups",
+            "[95% CI]",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "0.003",
+          "rowHeaders": [
+            "MVPA (min/day)",
+            "Boys"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Intervention effect",
+            "p",
+            "between groups",
+            "[95% CI]",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "0.45",
+          "rowHeaders": [
+            "MVPA (min/day)",
+            "Boys"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Intervention effect",
+            "d",
+            "between groups",
+            "[95% CI]",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "17.3 (2.9)",
+          "rowHeaders": [
+            "BMI",
+            "Steps per day",
+            "All"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Change",
+            "Baseline",
+            "(SD)",
+            "(SD)",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "17.5 (2.9)",
+          "rowHeaders": [
+            "BMI",
+            "Steps per day",
+            "All"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Change",
+            "Post-",
+            "intervention",
+            "(SD)",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "0.2 [0.1,",
+          "rowHeaders": [
+            "BMI",
+            "Steps per day",
+            "All"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Change",
+            "Change",
+            "baseline to post-",
+            "intervention",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "0.3]",
+          "rowHeaders": [
+            "BMI",
+            "Steps per day",
+            "All"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Change",
+            "Change",
+            "baseline to post-",
+            "intervention",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "17.5 (3.0)",
+          "rowHeaders": [
+            "BMI",
+            "Steps per day",
+            "All"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Change",
+            "Baseline",
+            "(SD)",
+            "(SD)",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "17.8 (3.0)",
+          "rowHeaders": [
+            "BMI",
+            "Steps per day",
+            "All"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Change",
+            "Post-",
+            "intervention",
+            "(SD)",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "0.3 [0.2,",
+          "rowHeaders": [
+            "BMI",
+            "Steps per day",
+            "All"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Change",
+            "Change",
+            "baseline to post-",
+            "intervention",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "0.4]",
+          "rowHeaders": [
+            "BMI",
+            "Steps per day",
+            "All"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Change",
+            "Change",
+            "baseline to post-",
+            "intervention",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "0.1 [−0.4,",
+          "rowHeaders": [
+            "MVPA (min/day)",
+            "BMI",
+            "All"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Change",
+            "Mean difference",
+            "between groups",
+            "[95% CI]",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "0.3]",
+          "rowHeaders": [
+            "MVPA (min/day)",
+            "BMI",
+            "All"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Intervention effect",
+            "Mean difference",
+            "between groups",
+            "[95% CI]",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "2.06",
+          "rowHeaders": [
+            "MVPA (min/day)",
+            "BMI",
+            "All"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Intervention effect",
+            "F",
+            "between groups",
+            "[95% CI]",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "0.152",
+          "rowHeaders": [
+            "MVPA (min/day)",
+            "BMI",
+            "All"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Intervention effect",
+            "p",
+            "between groups",
+            "[95% CI]",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "0.14",
+          "rowHeaders": [
+            "MVPA (min/day)",
+            "BMI",
+            "All"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Intervention effect",
+            "d",
+            "between groups",
+            "[95% CI]",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "17.5 (3.1)",
+          "rowHeaders": [
+            "Steps per day",
+            "Girls"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Change",
+            "Baseline",
+            "(SD)",
+            "(SD)",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "17.7 (3.1)",
+          "rowHeaders": [
+            "Steps per day",
+            "Girls"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Change",
+            "Post-",
+            "intervention",
+            "(SD)",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "0.2 [0.0,",
+          "rowHeaders": [
+            "Steps per day",
+            "Girls"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Change",
+            "Change",
+            "baseline to post-",
+            "intervention",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "0.3]",
+          "rowHeaders": [
+            "Steps per day",
+            "Girls"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Change",
+            "Change",
+            "baseline to post-",
+            "intervention",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "17.5 (2.8)",
+          "rowHeaders": [
+            "Steps per day",
+            "Girls"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Change",
+            "Baseline",
+            "(SD)",
+            "(SD)",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "17.9 (2.8)",
+          "rowHeaders": [
+            "Steps per day",
+            "Girls"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Change",
+            "Post-",
+            "intervention",
+            "(SD)",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "0.3 [0.2,",
+          "rowHeaders": [
+            "Steps per day",
+            "Girls"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Change",
+            "Change",
+            "baseline to post-",
+            "intervention",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "0.5]",
+          "rowHeaders": [
+            "Steps per day",
+            "Girls"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Change",
+            "Change",
+            "baseline to post-",
+            "intervention",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "0.2 [−0.1,",
+          "rowHeaders": [
+            "Steps per day",
+            "Girls"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Change",
+            "Mean difference",
+            "between groups",
+            "[95% CI]",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "0.4]",
+          "rowHeaders": [
+            "Steps per day",
+            "Girls"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Intervention effect",
+            "Mean difference",
+            "between groups",
+            "[95% CI]",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "2.13",
+          "rowHeaders": [
+            "MVPA (min/day)",
+            "Girls"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Intervention effect",
+            "F",
+            "between groups",
+            "[95% CI]",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "0.146",
+          "rowHeaders": [
+            "MVPA (min/day)",
+            "Girls"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Intervention effect",
+            "p",
+            "between groups",
+            "[95% CI]",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "0.20",
+          "rowHeaders": [
+            "MVPA (min/day)",
+            "Girls"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Intervention effect",
+            "d",
+            "between groups",
+            "[95% CI]",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "17.2 (2.8)",
+          "rowHeaders": [
+            "BMI",
+            "Steps per day",
+            "Boys"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Change",
+            "Baseline",
+            "(SD)",
+            "(SD)",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "17.4 (2.8)",
+          "rowHeaders": [
+            "Steps per day",
+            "Boys"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Change",
+            "Post-",
+            "intervention",
+            "(SD)",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "0.2 [0.1,",
+          "rowHeaders": [
+            "Steps per day",
+            "Boys"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Change",
+            "Change",
+            "baseline to post-",
+            "intervention",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "0.4]",
+          "rowHeaders": [
+            "Steps per day",
+            "Boys"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Change",
+            "Change",
+            "baseline to post-",
+            "intervention",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "17.5 (3.1)",
+          "rowHeaders": [
+            "Steps per day",
+            "Boys"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Change",
+            "Baseline",
+            "(SD)",
+            "(SD)",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "17.8 (3.1)",
+          "rowHeaders": [
+            "Steps per day",
+            "Boys"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Change",
+            "Post-",
+            "intervention",
+            "(SD)",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "0.3 [0.1,",
+          "rowHeaders": [
+            "Steps per day",
+            "Boys"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Change",
+            "Change",
+            "baseline to post-",
+            "intervention",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "0.4]",
+          "rowHeaders": [
+            "Steps per day",
+            "Boys"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Change",
+            "Change",
+            "baseline to post-",
+            "intervention",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "0.1 [−0.2,",
+          "rowHeaders": [
+            "Steps per day",
+            "Boys"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Change",
+            "Mean difference",
+            "between groups",
+            "[95% CI]",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "0.3]",
+          "rowHeaders": [
+            "Steps per day",
+            "Boys"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Intervention effect",
+            "Mean difference",
+            "between groups",
+            "[95% CI]",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "0.30",
+          "rowHeaders": [
+            "Steps per day",
+            "Boys"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Intervention effect",
+            "F",
+            "between groups",
+            "[95% CI]",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "0.584",
+          "rowHeaders": [
+            "MVPA (min/day)",
+            "Boys"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Intervention effect",
+            "p",
+            "between groups",
+            "[95% CI]",
+            "[95% CI]"
+          ]
+        },
+        {
+          "value": "0.08",
+          "rowHeaders": [
+            "MVPA (min/day)",
+            "Boys"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Intervention effect",
+            "d",
+            "between groups",
+            "[95% CI]",
+            "[95% CI]"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "64",
+          "rowHeaders": [
+            "All",
+            "Sedentary activity (min)"
+          ],
+          "columnHeaders": [
+            "Table 3",
+            "Control",
+            "n = 186 (♀ = 97, ♂ = 89)",
+            "n"
+          ]
+        },
+        {
+          "value": "37",
+          "rowHeaders": [
+            "All",
+            "2 Significant p-values (p <"
+          ],
+          "columnHeaders": [
+            "Table 3",
+            "Intervention",
+            "n = 186 (♀ = 97, ♂ = 89)",
+            "Change from baseline (m)"
+          ]
+        },
+        {
+          "value": "58",
+          "rowHeaders": [
+            "All",
+            "1 Significant differences between intervention and control at baseline, p <"
+          ],
+          "columnHeaders": [
+            "Table 3",
+            "Intervention",
+            "n = 178 (♀ = 81, ♂ = 97)",
+            "n"
+          ]
+        },
+        {
+          "value": "65",
+          "rowHeaders": [
+            "Light PA (min)",
+            "First tertile (meters)",
+            "1 Significant differences between intervention and control at baseline, p <"
+          ],
+          "columnHeaders": [
+            "Table 3",
+            "Intervention effect2",
+            "n = 178 (♀ = 81, ♂ = 97)",
+            "Change from baseline (m)"
+          ]
+        },
+        {
+          "value": "6.2",
+          "rowHeaders": [
+            "Light PA (min)",
+            "First tertile (meters)",
+            "1 Significant differences between intervention and control at baseline, p <"
+          ],
+          "columnHeaders": [
+            "Table 3",
+            "Intervention effect2",
+            "n = 178 (♀ = 81, ♂ = 97)",
+            "F"
+          ]
+        },
+        {
+          "value": "0.01",
+          "rowHeaders": [
+            "Light PA (min)",
+            "First tertile (meters)",
+            "1 Significant differences between intervention and control at baseline, p <"
+          ],
+          "columnHeaders": [
+            "Table 3",
+            "Intervention effect2",
+            "n = 178 (♀ = 81, ♂ = 97)",
+            "p"
+          ]
+        },
+        {
+          "value": "0.46",
+          "rowHeaders": [
+            "Light PA (min)",
+            "First tertile (meters)",
+            "1 Significant differences between intervention and control at baseline, p <"
+          ],
+          "columnHeaders": [
+            "Table 3",
+            "Intervention effect2",
+            "n = 178 (♀ = 81, ♂ = 97)",
+            "d"
+          ]
+        },
+        {
+          "value": "61",
+          "rowHeaders": [
+            "All",
+            "Sedentary activity (min)"
+          ],
+          "columnHeaders": [
+            "Table 3",
+            "Control",
+            "n = 186 (♀ = 97, ♂ = 89)",
+            "n"
+          ]
+        },
+        {
+          "value": "61",
+          "rowHeaders": [
+            "All",
+            "1 Significant differences between intervention and control at baseline, p <"
+          ],
+          "columnHeaders": [
+            "Table 3",
+            "Intervention",
+            "n = 178 (♀ = 81, ♂ = 97)",
+            "n"
+          ]
+        },
+        {
+          "value": "31",
+          "rowHeaders": [
+            "Light PA (min)",
+            "Second tertile (meters)",
+            "1 Significant differences between intervention and control at baseline, p <"
+          ],
+          "columnHeaders": [
+            "Table 3",
+            "Intervention effect2",
+            "n = 178 (♀ = 81, ♂ = 97)",
+            "Change from baseline (m)"
+          ]
+        },
+        {
+          "value": "1.8",
+          "rowHeaders": [
+            "Light PA (min)",
+            "Second tertile (meters)",
+            "1 Significant differences between intervention and control at baseline, p <"
+          ],
+          "columnHeaders": [
+            "Table 3",
+            "Intervention effect2",
+            "n = 178 (♀ = 81, ♂ = 97)",
+            "F"
+          ]
+        },
+        {
+          "value": "0.19",
+          "rowHeaders": [
+            "Light PA (min)",
+            "Second tertile (meters)",
+            "1 Significant differences between intervention and control at baseline, p <"
+          ],
+          "columnHeaders": [
+            "Table 3",
+            "Intervention effect2",
+            "n = 178 (♀ = 81, ♂ = 97)",
+            "p"
+          ]
+        },
+        {
+          "value": "61",
+          "rowHeaders": [
+            "All",
+            "Sedentary activity (min)"
+          ],
+          "columnHeaders": [
+            "Table 3",
+            "Control",
+            "n = 186 (♀ = 97, ♂ = 89)",
+            "n"
+          ]
+        },
+        {
+          "value": "59",
+          "rowHeaders": [
+            "Light PA (min)",
+            "Third tertile (meters)",
+            "1 Significant differences between intervention and control at baseline, p <"
+          ],
+          "columnHeaders": [
+            "Table 3",
+            "Intervention",
+            "n = 178 (♀ = 81, ♂ = 97)",
+            "n"
+          ]
+        },
+        {
+          "value": "25",
+          "rowHeaders": [
+            "Light PA (min)",
+            "Third tertile (meters)",
+            "1 Significant differences between intervention and control at baseline, p <"
+          ],
+          "columnHeaders": [
+            "Table 3",
+            "Intervention effect2",
+            "n = 178 (♀ = 81, ♂ = 97)",
+            "Change from baseline (m)"
+          ]
+        },
+        {
+          "value": "0.1",
+          "rowHeaders": [
+            "Light PA (min)",
+            "Third tertile (meters)",
+            "1 Significant differences between intervention and control at baseline, p <"
+          ],
+          "columnHeaders": [
+            "Table 3",
+            "Intervention effect2",
+            "n = 178 (♀ = 81, ♂ = 97)",
+            "F"
+          ]
+        },
+        {
+          "value": "0.76",
+          "rowHeaders": [
+            "Light PA (min)",
+            "Third tertile (meters)",
+            "1 Significant differences between intervention and control at baseline, p <"
+          ],
+          "columnHeaders": [
+            "Table 3",
+            "Intervention effect2",
+            "n = 178 (♀ = 81, ♂ = 97)",
+            "p"
+          ]
+        },
+        {
+          "value": "36",
+          "rowHeaders": [
+            "All",
+            "2 Significant p-values (p <"
+          ],
+          "columnHeaders": [
+            "Table 3",
+            "Intervention",
+            "n = 186 (♀ = 97, ♂ = 89)",
+            "Change from baseline (m)"
+          ]
+        },
+        {
+          "value": "40",
+          "rowHeaders": [
+            "All",
+            "1 Significant differences between intervention and control at baseline, p <"
+          ],
+          "columnHeaders": [
+            "Table 3",
+            "Intervention effect2",
+            "n = 178 (♀ = 81, ♂ = 97)",
+            "Change from baseline (m)"
+          ]
+        },
+        {
+          "value": "0.4",
+          "rowHeaders": [
+            "All",
+            "1 Significant differences between intervention and control at baseline, p <"
+          ],
+          "columnHeaders": [
+            "Table 3",
+            "Intervention effect2",
+            "n = 178 (♀ = 81, ♂ = 97)",
+            "F"
+          ]
+        },
+        {
+          "value": "0.52",
+          "rowHeaders": [
+            "All",
+            "1 Significant differences between intervention and control at baseline, p <"
+          ],
+          "columnHeaders": [
+            "Table 3",
+            "Intervention effect2",
+            "n = 178 (♀ = 81, ♂ = 97)",
+            "p"
+          ]
+        },
+        {
+          "value": "0.05.",
+          "rowHeaders": [
+            "Light PA (min)",
+            "1 Significant differences between intervention and control at baseline, p <"
+          ],
+          "columnHeaders": [
+            "Table 3",
+            "Intervention",
+            "n = 178 (♀ = 81, ♂ = 97)",
+            "n"
+          ]
+        },
+        {
+          "value": "0.05) and their effect sizes in bold. d = effect size (Cohen's d).",
+          "rowHeaders": [
+            "lasting",
+            "2 Significant p-values (p <"
+          ],
+          "columnHeaders": [
+            "Table 3",
+            "Intervention",
+            "n = 186 (♀ = 97, ♂ = 89)",
+            "n"
+          ]
+        },
+        {
+          "value": "45 min), n = 87.",
+          "rowHeaders": [
+            "lasting"
+          ],
+          "columnHeaders": [
+            "Table 3",
+            "Control",
+            "n = 186 (♀ = 97, ♂ = 89)",
+            "n"
+          ]
+        },
+        {
+          "value": "16 (6)⁎",
+          "rowHeaders": [
+            "Light PA (min)",
+            "Sedentary activity (min)"
+          ],
+          "columnHeaders": [
+            "Table 3",
+            "Control",
+            "n = 186 (♀ = 97, ♂ = 89)",
+            "Baseline",
+            "Physically active",
+            "lessons"
+          ]
+        },
+        {
+          "value": "18 (5)",
+          "rowHeaders": [
+            "Light PA (min)",
+            "Sedentary activity (min)"
+          ],
+          "columnHeaders": [
+            "Table 3",
+            "Control",
+            "n = 186 (♀ = 97, ♂ = 89)",
+            "Change from baseline (m)",
+            "Physical education",
+            "(PE) lessons"
+          ]
+        },
+        {
+          "value": "34 (5)⁎⁎",
+          "rowHeaders": [
+            "Light PA (min)",
+            "Sedentary activity (min)"
+          ],
+          "columnHeaders": [
+            "Table 3",
+            "Intervention",
+            "n = 178 (♀ = 81, ♂ = 97)",
+            "Change from baseline (m)",
+            "Academic",
+            "lessons"
+          ]
+        },
+        {
+          "value": "17 (4)",
+          "rowHeaders": [
+            "Light PA (min)"
+          ],
+          "columnHeaders": [
+            "Table 3",
+            "Control",
+            "n = 186 (♀ = 97, ♂ = 89)",
+            "Baseline",
+            "Physically active",
+            "lessons"
+          ]
+        },
+        {
+          "value": "16 (3)",
+          "rowHeaders": [
+            "Light PA (min)"
+          ],
+          "columnHeaders": [
+            "Table 3",
+            "Control",
+            "n = 186 (♀ = 97, ♂ = 89)",
+            "Change from baseline (m)",
+            "Physical education",
+            "(PE) lessons"
+          ]
+        },
+        {
+          "value": "12 (4)",
+          "rowHeaders": [
+            "MVPA (min)"
+          ],
+          "columnHeaders": [
+            "Table 3",
+            "Control",
+            "n = 186 (♀ = 97, ♂ = 89)",
+            "Baseline",
+            "Physically active",
+            "lessons"
+          ]
+        },
+        {
+          "value": "11 (4)",
+          "rowHeaders": [
+            "MVPA (min)"
+          ],
+          "columnHeaders": [
+            "Table 3",
+            "Control",
+            "n = 186 (♀ = 97, ♂ = 89)",
+            "Change from baseline (m)",
+            "Physical education",
+            "(PE) lessons"
+          ]
+        }
+      ],
+      "page": 1
+    }
+  ]
+}
