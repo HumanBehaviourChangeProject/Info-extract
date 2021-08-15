@@ -1,0 +1,4072 @@
+{
+  "blocks": [
+    {
+      "type": "LINES",
+      "value": "The E↵ect of Active Plus, a Computer-Tailored Physical Activity Intervention, on the Physical Activity of Older Adults with Chronic Illness(es)-A Cluster Randomized Controlled Trial",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "eHealth interventions aimed at improving physical activity (PA) can reach large populations with few resources and demands on the population as opposed to centre-based interventions. Active Plus is a proven e↵ective computer-tailored PA intervention for the older adult population focusing on PA in daily life. This manuscript describes the e↵ects of the Active Plus intervention (N = 260) on PA of older adults with chronic illnesses (OACI), compared to a waiting list control group (N = 325). It was part of a larger randomized controlled trial (RCT) on the e↵ects of the Active Plus intervention on cognitive functioning. OACI ( 65 years) with at least one chronic illness were allocated to one of the conditions. Intervention group participants received PA advice. Baseline and follow-up measurements were assessed after 6 and 12 months. Intervention e↵ects on objectively measured light PA (LPA) and moderate-to-vigorous PA (MVPA) min/week were analysed with multilevel linear mixed-e↵ects models adjusted for the clustered design. Intervention e↵ects on self-reported MVPA min/week on common types of PA were analysed with two-part generalized linear mixed-e↵ects models adjusted for the clustered design. The dropout rate was 19.1% after 6 months and 25.1% after 12 months. Analyses showed no e↵ects on objectively measured PA. Active Plus increased the likelihood to perform self-reported cycling and gardening at six months and participants who cycled increased their MVPA min/week of cycling. Twelve months after baseline the intervention increased the likelihood to perform self-reported walking and participants who cycled at 12 months increased their MVPA min/week of cycling. Subgroup analyses showed that more vulnerable participants (higher degree of impairment, age or body mass index) benefitted more from the intervention on especially the lower intensity PA outcomes. In conclusion, Active Plus only increased PA behaviour to a limited extent in OACI 6 and 12 months after baseline measurements. The Active Plus intervention may yet be not e↵ective enough by itself in OACI. A blended approach, where this eHealth intervention and face-to-face contact are combined, is advised to improve the e↵ects of Active Plus on PA in this target group.",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Older adults with chronic illnesses form a large part of society. In general, their physical activity (PA) levels are low. This is associated with increased health problems and decreased cognitive functioning. Therefore, it is important to increase PA levels of older adults with chronic illnesses. PA programs for this population exist, but attendance and results vary. In the present manuscript, the e↵ects of an already proven-e↵ective computer-tailored PA stimulating intervention on PA behaviour in older adults with chronic illnesses (OACI) is examined. This is a secondary analysis of a larger study on the e↵ects of this proven-e↵ective PA intervention on cognitive functioning.\nAlmost 85% of the older adults in developed countries have at least one chronic illness, and around 60% su↵er from multiple chronic illnesses. However, these chronic illnesses themselves might be not the only issue; the functional limitations and mobility restrictions older adults experience as a result of these chronic illnesses provide additional problems. Examples of these functional limitations and mobility restrictions are: (1) having di culties with walking; getting into a bed or a chair; or (3) stair climbing. These problems are highly prevalent and have a negative influence on the ability to maintain their activity levels. As a result, these functional limitations and mobility restrictions impede the ability to have an independent life and can lead to poorer health-related quality of life (HRQoL).\nIncreasing PA is a proven-e↵ective strategy for both prevention as well as treatment of chronic illness. PA has other health benefits as well, such as weight control, strengthening of muscles and bones, and improvements of physical and cognitive functioning, mental health and HRQoL-all factors negatively a↵ected by chronic illnesses. Despite these beneficial e↵ects of PA, older adults are the least physically active age group, especially when they su↵er from chronic illnesses. Most of them do not reach the recommendation of 150 min per week of moderate-to-vigorous physical activity (MVPA) supplemented with muscle, bone, and balance improving activities at least twice a week. This maybe due to the many PA-related barriers (i.e., fatigue, pain) experienced by older adults with chronic illnesses. However, meta-analyses by Bullard et al. and de Vries et al. suggest that adherence to the guidelines for PA ( 150 min of MVPA/week) is highly feasible and e↵ective among chronic disease populations.\nBesides MVPA, the health benefits of light-intensity physical activity (LPA) have been established as well. Objectively measured light physical activity (LPA) is associated with lower all-cause mortality risk and improved cardiometabolic risk factors and cognitive functioning. LPA is perhaps more feasible for OACI than MVPA. Consequently, it is suggested that, next to MVPA, LPA should betaken into account when evaluating PA.\nAlthough a few PA programs exist for OACI (e.g., Coach2Move, Strong-for-Life, Life-P), most programs are not easily accessible, and often only reach already active older adults. They usually take place at a research site, gym, or physical therapist, which OACI need to visit 1-3 times per week. These programs are generally face-to-face and o↵er detailed and intensive supervision. Yet, these programs are also highly demanding, making it more di cult for OACI to adhere to these programs, especially on long term. However, not only clinic-based programs exist for OACI, but there are also proven e↵ective home-based programs as described by Duijts et al., Gary et al. and Lee et al.. These programs generally provide participants with a personalised PA program to be executed at home. First, participants are taught by a research nurse how to correctly perform the aerobic exercise program and how to adjust the exercise prescription. Home-based programs typically provide more autonomy (e.g., more choices regarding training schedule and fewer transportation-related barriers). Nevertheless, these existing programs for OACI are commonly focussed on physical functioning instead of physical activity. In other words, these programmes are more focussed on improving the capacity to execute habitual daily activities such as stair climbing than on having an active lifestyle with higher amounts of low, moderate and vigorous PA. Besides, a meta-analysis showed that o↵ering exercise or PA in a program is not enough to stimulate OACI to become more physically active on their own in their daily lives outside of the gym.\nBased on this knowledge, the computer-tailored PA stimulating intervention Active Plus was developed for people aged over 50 years. At a later stage, the eHealth program was adapted to a more elderly ( 65 years) population who often su↵ered from chronic illnesses. Active Plus participants receive 3 personalised PA advice letters (online or print delivered) in 4 months. Previous research in people aged over 50 years showed that the Active Plus group was 1.5 h per week more active at moderate to vigorous intensity after 1 year compared to controls, even in older adults with impaired mobility. Although a recent study showed positive e↵ects of the adapted Active Plus intervention on PA in single older adults ( 65 years) with physical impairments 3 months after baseline, no e↵ects were found after 6 months. However, this concerned an implementation study without a control group, making it impossible to draw definite conclusions.\nIn this paper, the e↵ects of the Active Plus intervention on PA in OACI are examined. Although previous studies already showed the e↵ectiveness of the Active Plus intervention on PA in the general older adults ( 50 years) population, solely self-reported PA measures were used to assess intervention e↵ects. However, self-reported PA questionnaires are known for their over-reporting of PA due to social desirability and recall accuracy. Furthermore, not all intensities of PA are validly assessed by questionnaires, in particular, light to moderate PA, which is the intensity of PA older adults are most likely to engage in. Therefore, in the present study, we also included objectively measured PA. The use of accelerometers in the assessment of PA became more user friendly, and past research suggests that it captures the quantity and intensity of PA behaviour more accurately.\nNevertheless, accelerometers too have disadvantages. Insight in which specific PA activities a person performs cannot be derived from accelerometer data. For example, solely on accelerometer data from a single device, it is still impossible to discriminate between sitting and standing. Furthermore, depending on the attachment site (hip versus upper leg or wrist), some accelerometers are notable to detect all kind of movements such as upper/lower body movement or stationary movement, while these behaviours are common in older adults during gardening, household chores, and cycling. Cycling in particular is a frequent PA activity in The Netherlands. In addition, most accelerometers are also notable to assess water-based activities, as not all accelerometers are waterproof. Therefore, it is recommended to both use objectively measured PA with an accelerometer and subjectively measured PA with a self-report PA questionnaire in assessing PA intervention e↵ects.\nThe present study will be one of the first studies to assess computer-tailored PA intervention e↵ects on PA behaviour in abroad sense. We evaluate the e↵ects of the Active Plus intervention in OACI on objectively measured LPA and MVPA, and on the likelihood to perform common PA activities and MVPA minutes per week during these activities assessed with a self-report questionnaire. As the intervention was aimed at increasing PA, it is hypothesized that the intervention group increased both their objectively measured and self-reported PA more than the waiting list control group. Although the intervention is individually tailored, it might be that not all subgroups of participants respond similarly to the intervention. Therefore, we examine in an exploratory way whether the e↵ects di↵er for the degree of impairment, age, gender, body mass index, educational level, and marital status.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The Active Plus study was a clustered two-group randomized controlled trial (RCT) with a waiting list control group with assessments at baseline, 6 and 12 months. This RCT primarily focused on the e↵ect of the Active Plus intervention on cognitive functioning. However, the present study involved the secondary analysis on the dataset. It concerns the evaluation of the e↵ects of the intervention on PA for OACI. Ethical approval for the study was granted from the Research Ethics Committee (cETO) of the Open University and the trial is registered in the Dutch Trial Register, protocol number NL6005. The study was conducted following the Declaration of Helsinki. An extensive rationale and description of the general study protocol is published elsewhere.\nSeven Dutch municipalities agreed to participate. Each municipality selected two comparable residential areas or neighbourhoods based on their social-economic status as derived from https: //www.waarstaatjegemeente.nl. These areas were randomly assigned to either the experimental group or the waiting list control group, so each municipality both had an intervention group residential area and a control group residential area. Municipalities selected between 250-2000 names and addresses of independently living men and women aged 65 years or older per residential area. Participants were recruited from February to July 2018 by an invitation letter from their municipality including an information letter with the study content and an informed-consent that could be returned to the researchers. Participants did not know there were two groups (intervention and control) being investigated. Eligible participants had to be 65 years or older, be fluent in Dutch, and su↵er from at least one chronic illness that a↵ects mobility (e.g., musculoskeletal and back disorder, chronic obstructive pulmonary disease (COPD), rheumatism, osteoporosis, chronic heart disease) or other physical conditions (e.g., visual or hearing impaired) that may a↵ect mobility. Participants with severe self-reported cognitive problems or wheelchair users were excluded from the study. Participants had to be able to walk at least 100 m, possibly with the help of a rollator or walking stick. All participants provided written informed-consent.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Figure displays the flow diagram of the study. The measurements of cognitive functioning (CF) are outside the scope of the current study. Participants in both conditions were asked to wear an accelerometer for 7 consecutive days on their right hip. All participants received both a paper-based (with a prepaid return envelope) and an online questionnaire (integrated into the project website: www.actief-plus.nl) with the choice to fill out their preferred format within two weeks. So the objective PA measurement preceded the subjective measurement. Thereafter, the 4-month lasting intervention commenced for the experimental group. Six and 12 months after the first accelerometer measurement, participants wore that device again and completed a questionnaire following the same procedure as the baseline measurement. After the final assessment (i.e., after 12 months) participants in the control group received access to the Active Plus intervention (i.e., waiting list control group).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The original Active Plus intervention is a proven e↵ective computer-tailored intervention that is systematically developed using the intervention mapping protocol, and based on various theoretical models such as the theory of planned behaviour, precaution adoption process model, integrated model for change (I-Change Model), and self-regulation theory. The intervention intended to take up and sustain PA behaviour by influencing (pre-/post-) motivational factors, such as awareness, intention, self-e cacy and action planning. These factors have been shown to impede or facilitate PA behaviour. The original Active Plus intervention was aimed at the general population of adults aged 50 years or over.\nBoekhout et al. adapted the intervention using the intervention mapping protocol fora chronically ill older adult ( 65 years) population. Based on a literature study, focus groups with the target population, and interviews with experts, it was concluded that the general determinants for PA in OACI were quite identical to general older adults. However, some specific determinants had a larger influence on PA. For example pain, fear of injury, and lack of energy proved to be more important barriers. Therefore, the tailored messages were extended and enhanced to align them with the needs and requirements of OACI. In the present study, the intervention was tailored to two extra common chronic illnesses (neuromuscular and vascular disorders), and information on the risks of sedentary behaviour and benefits of PA for cognitive functioning were extended. A more detailed description of the intervention content and the process of adaption on the original and adapted Active Plus intervention can be found elsewhere.\nParticipants in the intervention group received advice on three occasions, both online on a secured website and paper (via a letter by mail) (see Figure), tailored to the answers they gave in the questionnaires that they filled in. The first and second personal advice were based on the baseline questionnaire and were received respectively within two weeks of filling in this questionnaire and two months after filling in the baseline questionnaire. Three months after the baseline questionnaire a follow-up questionnaire was conducted and used to compose the third advice with feedback on progress in PA behaviour and relevant determinants. Participants received their third advice within two weeks after completing the follow-up questionnaire.\nAs mentioned, each advice gave tailored information on PA and presented tools on how to implement PA in daily life, especially focussed on older adults with chronic illness(es). The exact content of the advice depended on the participants' characteristics (e.g., age, gender, and presence of chronic illness), psychosocial characteristics/motivational constructs, their current PA behaviour, and to what extent they were willing to alter their behaviour (as derived from the answers on the questionnaires). The website and advice also included additional information on local PA possibilities (e.g., walking or cycling routes in their neighbourhood or local sports clubs), as well as a user forum, and examples of PA exercises.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Participants allocated to the waiting list control condition had no access to the intervention and received their usual care. After the 12-month study period, they gained access to the Active Plus intervention and received their personalised PA advice.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Objectively measured LPA and MVPA and self-reported MVPA behaviour during common PA activities were assessed at baseline, and after 6 and 12 months.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "PA was objectively measured using the ActiGraph GT3X-BT (ActiGraph, Pensacola, FL, USA). Participants wore the accelerometer on an elastic belt on their right hip for 7 days. During the night participants were not obliged to wear the device. Participants were asked to remove the devices while showering or swimming. Data were downloaded and analysed using ActiLife software with the low-frequency extension on. Valid measurements contained at least 4 days of data with at least 10 h of wear time per day. Non-wear periods were identified with the Choi algorithm and eliminated from the analyses. The Choi algorithm identifies 90 min of consecutive zero counts as non-wear time, which maybe interrupted by a maximum of 2 min of non-zero counts. To distinguish between light, moderate and vigorous PA the software used data from 3 axes based on 60 s epochs and Freedson-VM cut-o↵ points, developed by Sasaki, and the cut-o↵ points developed by Aguilar-Fariaz. Outcome measures in the present study are the minutes spent in LPA per week and minutes spent in MVPA per week.\nSelf-reported PA was measured using the validated Short Questionnaire to Assess Health Enhancing Physical Activity (SQUASH), assessing activities regarding household, leisure time and sports. Questions regarding PA at work were deleted from the questionnaire because our target population is normally retired in The Netherlands at that age. For each activity the frequency, the duration and the intensity were administered. The SQUASH questionnaire classifies PA into light (metabolic equivalent (MET) <3.0), moderate (MET 3.0-5.9), and vigorous (MET > 6). The scoring manual is used to calculate these constructs and to exclude any extreme values. The SQUASH has reasonable reliability (⇢ = 0.58) and validity (⇢ = 0.45) opposed to an accelerometer. Outcome measures in the present study are the likelihood of performing and minutes of MVPA during household activities (e.g., cleaning and cooking), walking (during leisure time and transportation), cycling (during leisure time and transportation), gardening (during leisure time and (volunteer) work), work in/around the house (e.g., DIY and small repairs during leisure time and (volunteer) work), and sports activities (e.g., swimming, fitness).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Several demographic factors such as age, gender, education, marital status (living together with a spouse or living single), body mass index (BMI), and presence of comorbid conditions, are known to influence PA behaviour. Therefore, these factors were assessed at baseline. Educational level is categorized into low (i.e., primary, basic vocational, or lower general school), moderate (i.e., medium vocational school, higher general secondary education, and preparatory academic education), or high (i.e., higher vocational school or university level) according to the Dutch educational system. BMI is defined as the body mass divided by the square of body height. The degree of impairment is measured with a self-report questionnaire. The participant stated for 14 common chronic illnesses (i.e., cardiovascular, osteoarthritis) and physical conditions (i.e., hearing or visually impaired) to what degree he/she is limited in his/her PA behaviour by one of the illnesses mentioned or by another illness not mentioned. For each chronic illness, the participant scores the degree of impairment on a 5-point scale ranging from 0 = not applicable, 1 = not at all/hardly, 2 = a little, 3 = very, to 4 = extremely. Consequently, degree of impairment is computed into 3 categories following the next rules: (1) Little impaired: a maximum score of 1 on at least one question, (2) Medium impaired: a maximum score of 2 on at least one question, (3) Very impaired: at least a score of 3 or 4 on at least one question.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Sample size calculations are based on the primary outcome measures of the overall Active Plus project, namely cognitive functioning. Based on the e↵ect sizes of earlier intervention studies, we estimated a di↵erence in e↵ect size (ES) of 0.3 for CF between the intervention and control group. The needed sample size has to be inflated to take account of the multilevel design. Therefore, an estimate of intra-cluster correlation (ICC) is used, based on the ICC of the previous Active Plus projects (ICC < 0.01). Statistical power analysis using G*Power (Franz Faul, Universität Kiel, Kiel, Germany) (ES = 0.30; power = 0.80; ICC = 0.01) showed that 190 participants per group were required. Based on our previous study we expected a 30% dropout rate at 12 months. We, therefore, needed 270 participants to be enrolled per group at baseline. For the e↵ects of Active Plus on PA, we expected a comparable ES of at least 0.3.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Baseline di↵erences between conditions were tested with a 2 test for categorical variables, a Mann-Whitney U-test for continuous variables with skewed distributions, and a one-way analysis of variance (ANOVA) for normally distributed continuous variables. To assess predictors of dropout at 6 and 12 months, logistic regression with condition, baseline outcome measures, demographics, and degree of impairment regarding chronic illnesses was performed and odd-ratios (OR) are noted.\nLinear mixed-e↵ects models were used to assess intervention e↵ects on LPA and MVPA measured with an accelerometer. The MVPA outcome seemed to be skewed and analyses led to non-normally distributed residuals, therefore MVPA was 10log transformed. For the highly skewed and zero-inflated self-report PA outcomes a two-part generalized linear mixed-e↵ects model was applied to predict: a) participation in a specific PA activity (0 = no, 1 = yes), b) the duration of MVPA during these specific PA activities. The two-part model used a binomial distribution with the logit link function to model the zero versus non-zeros for participating in a specific PA activity overtime and the gamma distribution for the skewed continuous data indicating the change in the amount of MVPA during a specific PA activity overtime. The latter approach is recommended to account for the highly skewed and zero-inflated distribution of PA-related outcomes.\nWith participants originating from di↵erent municipalities, it was expected their data was clustered. Therefore, we applied multilevel analyses with participants nested in municipalities, with level 1 being the di↵erent time points, level 2 the subject, and level 3 the municipality. The analyses revealed that the ICC for MVPA was 0.07. Consequently, three-level analyses were performed for all outcomes to assess intervention e↵ects. Time, group, and the interaction between time and group were added to the models as fixed e↵ects to assess intervention e↵ects overtime. Intervention e↵ects between intervention group and control group were compared between baseline and 6 months follow-up and between baseline and 12 months follow-up. All models were fitted using the maximum likelihood procedure. For all analyses age, gender, educational level, marital status, BMI, and degree of impairment were added as covariates. Continuous variables were standardized. Furthermore, confidence intervals (CI) were calculated for all outcomes. Analyses were conducted on an intention-to-treat basis without any ad hoc imputation.\nExploratory di↵erences regarding intervention e cacy were assessed for degree of impairment, age, gender, educational level, marital status, and BMI. Three-way interaction terms (time ⇥ group ⇥ covariate) of significant covariates were added to the model. When a three-way interaction term was significant, subgroup e↵ects were examined by repeating the analyses. In these multilevel analyses, the three-level data structure was applied again. Subgroups were defined by the categories of the covariates for categorical variables. For the continuous variable BMI the groups were split by obese or non-obese (limit at 30 kg/m 2 ) and forage, the limit was at 80 years or older. Since interaction terms have less power, the significance levels were set top < 0.10 for the interaction term. Significance levels for all other analyses were set top < 0.05. All analyses were conducted using R.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "In total 623 participants provided informed consent for the study and were included in the study. Thirty-eight of them already withdrew from the study before baseline, resulting in 585 participants with some baseline data (Figure). Their mean age was 74.5 (±6.4) years with almost equal numbers of male and female participants. The majority of the participants were living together with a spouse (80.7%), and 51.2% were low-educated (i.e., primary, basic vocational, or lower general school). Most participants (46.1%) were medium impaired. The most frequent chronic illnesses participants su↵ered from and impaired PA were osteoarthritis (51.7% of all participants), vascular diseases (44.6%) and heart diseases (37.2%). Participants su↵ered from an average of 3.5 chronic illnesses or physical impairments. As shown in Table, no significant baseline di↵erences were found between the intervention and control group. The drop-out rate was 19,1% (112/585) at 6 months and 25,1% (147/585) at 12 months. Drop-out at both 6 and 12 months after baseline was more likely for participants in the intervention group (6 m: OR = 6.85, 95% CI = 3.78; 13.07, p  0.001; 12 m: OR = 2.95, 95% CI = 1.87; 4.72, p  0.001) and elderly participants (6 m: OR = 1.09, 95% CI = 1.04; 1.15, p  0.001; 12 m: OR = 1.07, 95% CI = 1.03; 1.11, p = 0.001). Most control group participants (30 out of 64 dropouts) dropped out of the study because of being too ill to continue, while intervention group participants mostly (48 out of 89 dropouts) dropped out because they lost interest. Especially during the first part of the intervention, participants dropped out when they had to fill in a follow-up questionnaire needed to compose the third advice.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Although raw means (Table) seem to suggest that the intervention group improved their scores on objectively measured MVPA, and self-reported household activities, walking, cycling, gardening and sports activities as opposed to the control group, tests for significance only showed limited e↵ects. The results are shown in Table.\nSix months after baseline results show that participants in the Active Plus group were more likely to perform self-reported cycling (Coe↵. = 1.12, p = 0.01) and gardening (Coe↵. = 0.77, p = 0.04) after adjusting for covariates. For those individuals engaging in the specific self-reported PA behaviours the intervention was e↵ective in increasing the amount of MVPA during cycling (Coe↵. = 0.34, p = 0.005) after adjusting for covariates. No significant di↵erences were found in objectively measured MVPA (Coe↵. = 0.04, p = 0.20) or LPA (Coe↵. = 18.47, p = 0.68).\nTwelve months after baseline results indicate a significantly higher likelihood of participants in the Active Plus group perform self-reported walking after adjusting for covariates (Coe↵. = 0.40, p = 0.04). For those individuals engaging in the specific self-reported PA behaviours, the intervention was e↵ective in increasing the amount of MVPA during cycling (Coe↵. = 0.28, p = 0.02) after adjusting for covariates. No significant di↵erences were found in objectively assessed MVPA (Coe↵. = 0.00, p = 0.93) or LPA (Coe↵. = 2.25, p = 0.96). MVPA was 10log transformed. Likelihood to perform a specific self-reported PA activity was analysed with a binomial generalized linear mixed-e↵ects model with the logit link function adjusted for the clustered design. Minutes of MVPA per week during a specific self-reported PA activity was analysed with a generalized linear mixed-e↵ects model with a gamma distribution adjusted for the clustered design.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Although the intervention is individually tailored, it might be that not all subgroups of participants respond similarly to the intervention. Therefore, to further explore thee cacy of the intervention, analyses for subgroups were performed. These exploratory analyses (Table) showed that the significant e↵ect of the intervention (intervention group vs. control group) on the likelihood to perform self-reported walking behaviour was moderated by the degree of impairment participants experienced. Participants whom were only little impaired did not improve significantly at 6 (Coe↵. = 2.26, p = 0.18) or 12 months after baseline (Coe↵. = 12.07, p = 0.98), while participants whom were medium impaired or very impaired, were significantly more likely to perform walking behaviour at both 6 months (Coe↵. = 0.87, p = 0.04) and borderline significant at 12 months (Coe↵. = 0.81, p = 0.054).\nDespite there being no intervention e↵ects on accelerometer assessed LPA in the complete population, the intervention was borderline e↵ective in increasing LPA in OACI with a BMI of 30 kg/m 2 and higher (Coe↵. = 169.18, p = 0.096) 12 months after baseline, but not in OACI with a BMI lower than kg/m 2. (Coe↵. = 40.91, p = 0.43) as opposed to the control group. In addition, the intervention e↵ect on the likelihood of doing self-reported odd-jobs was moderated by age. More elderly participants in the intervention group ( 80 years) were significantly more likely to perform odd-jobs (Coe↵. = 2.98, p = 0.02) 12 months after baseline as opposed to the control group, but participants under 80 years were not (Coe↵. = 0.16, p = 0.70).\nAnother moderator was educational level. Participants in the intervention group with a medium educational level who engaged in household activities did this for longer per week (Coe↵. = 0.44, p = 0.01) at 6 months after baseline, than did participants with a low educational level (Coe↵. = 0.11, p = 0.32) or a high educational level (Coe↵. = 0.14, p = 0.31) as opposed to the control group. Likelihood to perform a specific self-reported PA activity was analysed with a binomial generalized linear mixed-e↵ects model with the logit link function adjusted for the clustered design. Minutes of MVPA per week during a specific self-reported PA activity was analysed with a generalized linear mixed-e↵ects model with a gamma distribution adjusted for the clustered design.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The current study assessed the e↵ects of the computer-tailored Active Plus intervention on objectively measured and self-reported PA in older adults with chronic illness(es). Additionally, it explored the e↵ectiveness of the intervention in subgroups.\nOverall, the e↵ects of the Active Plus intervention on PA in OACI were limited. The hypothesis that the intervention group would increase their objectively measured PA was not confirmed. Although at 6 months follow-up there seemed to be a positive intervention e↵ect tendency for MVPA, there was no statistical evidence. The hypothesis that Active Plus would increase self-reported PA behaviour during specific activities was only partly confirmed. At 6 months after baseline, the intervention was e↵ective in increasing the likelihood to perform self-reported cycling and gardening. For those individuals engaging in cycling at 6 months, the intervention was e↵ective in increasing the amount of MVPA during cycling as well. At 12 months after baseline, the likelihood to perform self-reported walking improved significantly more in the intervention group. Besides, the intervention appeared e↵ective in increasing the amount of MVPA during cycling at 12 months after baseline. In sum, we did not see any e↵ects on objectively measured PA and only limited e↵ects on self-reported PA.\nHowever, these results are not inline with previous research on the Active Plus intervention. Peels et al. demonstrated that Active Plus was e↵ective in increasing PA in adults of 50 years or older both in short-and long term. Participants in this previous RCT had a mean age of ±63 years and only ±40% of them had a chronic limitation. Hence, both populations di↵er substantially and this possibly explains the limited results we found in the present study. It is possible that the Active Plus intervention is too voluntary for OACI. In addition, a more recent study on the adapted version of the Active Plus intervention had a more comparable population consisting of single older adults over 65 years with a chronic impairment in PA. This study showed limited e↵ects of Active Plus on PA too. However, this concerned an implementation study without a control group, making it impossible to draw definite conclusions. Both studies only measured self-reported PA, so our findings concerning the objectively measured PA could not be compared.\nAs there were di↵erences in the way of measuring the degree of impairment in all three Active Plus studies, it is hard to conclude that an eHealth intervention like Active Plus is less e↵ective in increasing PA in a more ill population. To our knowledge, there are no meta-analyses that studied the e↵ect of PA promoting eHealth interventions in OACI. However, a meta-analysis by Chase showed that PA interventions, including home-based interventions, tested among healthier participants had larger e↵ects than those tested among chronically ill populations, although e↵ectiveness varies between di↵erent groups of chronic illnesses. In addition, starting levels of PA in the present study were already relatively high with a raw mean of objectively measured MVPA of 193-210 min per week. Hence, there maybe less room for improvement in this population (ceiling e↵ect). Therefore, very large e↵ects should not be expected when studying already physically impaired older adults.\nFurthermore, next to the di↵erent target populations/ samples in the three studies and the already active population in the present study, the intervention itself and design of the study could explain the limited e↵ects found in the present manuscript. The Active Plus intervention was specifically adapted to an older and a chronically ill population with the intervention mapping protocol based on a literature study, focus groups with the target population and expert interviews. However, constructs and a↵ected determinants of PA of the original proven-e↵ective intervention did not change. The degree of importance of certain determinants and consequently the tailored messages did change to some extent. Presumably, the tailored messages need to be fine-tuned even more to the target population or are not convincing enough to uptake PA behaviour in this specific target group.\nIn addition, in the present study, we saw a larger dropout of relatively older participants due to a loss of interest during the intervention period and especially at the time the follow-up questionnaire (needed to compose the third advice) was sent out. One might consider that the intervention up to that point was not what the older participants expected. Conceivably, the relatively older participants expected the intervention to involve contact moments. Furthermore, it is possible participants thought the questionnaire was too extensive. An eHealth intervention study of Van der Mispel et al. concluded that in eHealth interventions extensive questionnaires should be avoided as dropout rates were higher in interventions with rather lengthy questionnaires than in interventions with an interactive character. Although an extensive questionnaire allows for more adequate tailoring, it maybe possible to shorten it. However, at this point, when the follow-up questionnaire was sent out, participants already received two out of three times advice which contained most of the information available in the intervention. It is possible that participants were already satisfied at this point, and got out of the intervention what they needed and expected. This may especially be the case for online interventions. A study into the appreciation of the intervention might provide more answers for why the dropout rate was higher for relatively older participants during the intervention period.\nIn contrast to the above, in the current manuscript, exploratory subgroup analyses suggest that more vulnerable OACI participants benefitted more from the Active Plus intervention on several PA outcome measures, especially on the lower intensity PA outcomes. Firstly, intervention participants who were more severely impaired increased the likelihood of performing walking behaviour in contrast to control group participants. In addition, participants with a BMI of 30 kg/m 2 had borderline significant higher increases in LPA. Additional analyses suggest that participants with a BMI of 32 kg/m 2 did increase LPA significantly. Besides, the likelihood of doing odd-jobs increased for participants of 80 years or over. Furthermore, participants with a medium level of education had improved MVPA minutes of household activities. Thus, it appears that di↵erent subgroups respond in diverse ways to specific parts of the intervention and more vulnerable participants improve mostly on the lighter intensity activities. Possibly these are better achievable in the more vulnerable population. However, none of de covariates was a moderator on more than one PA outcome measure. Therefore, these results should betaken into account with precaution. Nonetheless, the intervention could be tailored more to the specific needs of the non-responsive subgroups.\nWhile only the computer-tailored PA stimulating Active Plus intervention is not su cient to increase PA in the general OACI population, a possible solution to increase the e↵ect could be a blended approach in which this eHealth intervention and face-to-face contact are combined. A blended approach could be a cost-e↵ective solution, as it implies less costly face-to-face contact and improved feeling of self-regulation. For example, the Active Plus intervention, which contains solely personalised advice, could be combined with face-to-face contact with a physiotherapist or weekly meetings with a PA group for older adults. A blended approach is increasingly being applied in both healthcare and mental healthcare. There are already some examples of blended approach interventions aimed at promoting PA in older adults. However, only a few studies exist and results are varying. Accordingly, additional research (i.e., meta-analysis) is necessary to identify what type of intervention (i.e., web-based, supervised, blended, etc.) works best for whom and which healthcare professionals are most suitable to refer and guide OACI to the intervention and eventually guide them.\nAlthough we did not find any significant improvements on objectively measured PA, some improvements on subjectively measured PA were found. Most benefits were seen in self-reported cycling behaviour, as participants in the Active Plus group were more likely to perform cycling at 6 months after baseline. In addition, participants who cycled performed this behaviour fora longer time at both 6 and 12 months after baseline. While using a validated questionnaire, self-reported questionnaires assessing PA behaviour are known for their over-reporting. Nonetheless, waist-worn accelerometers do not detect all movements such as gardening, upper body strength exercises and cycling. As we found most improvements on self-reported cycling at 6 months after baseline, and this activity is di cult to measure with an accelerometer, this problem might explain not finding e↵ects with the objective PA measurement. Certainly, because it was fall/winter at the time of the second measurement people were more likely to stay indoors at that time because of the increased rainfall and the decreased daylight. The Active Plus intervention pays attention to the weather and seasonal e↵ects, as the intervention aims to increase the self-e cacy of participants to keep a higher PA level during bad weather/colder seasons and provides options to exercise at home. It is possible that this advice has helped to increase cycling behaviour despite the colder weather, but due to the limitations of the accelerometer (which cannot measure cycling properly), we only found limited e↵ects. Therefore, our results can be considered of value and clinical relevance. Some strengths and limitations should be noted. Firstly, the current study has a strong research design (RCT) in which both objective (accelerometer) and self-reported PA (questionnaire) information were assessed to give more insight in the complexity of PA behaviour. Although, both measures have their strengths and weaknesses. Self-report questionnaires are known for over-reporting, whereas accelerometers do not measure certain activities properly (e.g., cycling, swimming). By assessing objectively measured LPA and MVPA and self-reported MVPA behaviour during common PA activities we tried to gain the best insight into PA behaviour. Secondly, our research population was fairly varied and therefore the generalizability with a general OACI population seems reasonable. For instance, our research sample consisted of almost equal groups of male and female participants, and a considerable part of the participants was low educated (e.g., 51%). The mean number of comorbidities (3.5) is also in accordance with numbers in the general older adult population [73] of The Netherlands, as well as BMI levels. Thirdly, the statistical method we used (two-part generalized linear mixed-e↵ects model) to analyse the self-reported PA outcomes, is not used often. Most studies apply a linear mixed-e↵ects models, but with self-reported PA data being highly skewed and zero-inflated this is not the optimal method. Finally, by conducting multilevel analyses in this study, the most accurate way of handling missing data was applied.\nLimitations were selective dropout, statistical power for multilevel analyses, no correction for multiple testing, and no information on adherence to the intervention. Although the selective dropout (i.e., older participants and during the intervention period) may have a↵ected our findings, this is expected to be less detrimental because of the relatively low dropout. A dropout rate of 25.1% percent is considered low in (partly) digital health interventions. Next, as the power calculation was based only on subject level analyses and not municipality level, primary and moderator analyses may have been underpowered, as the ICC was 0.07 instead of the expected <0.01. Large inclusion numbers and a relatively low dropout rate may have limited this potential problem. Besides, we performed multiple tests to show the results of this study in a broader perspective and to give a more nuanced picture of PA behaviour. However, the more tests that are done, the more likely erroneous conclusions are drawn, because the probability of a Type 1 error is increased. A Bonferroni correction, however, assumes that all of the hypothesis tests are statistically independent, which is not the casein the current study and is, therefore, overly conservative. The probability of making a Type 1 error would be less than Bonferroni assumes, and the Bonferroni correction would bean overcorrection. Therefore, we did not apply a Bonferroni correction, but results should betaken into account with precaution. Finally, adherence to the intervention was not administered during this study, therefore it is not known to what extent participants read or used the Active Plus intervention advice. However, previous research on Active Plus showed that printed materials were read by more than 93% of the participants. As participants were provided with both printed and online materials, reading level/intervention exposure in the current study is expected to be similar.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Our findings indicated that Active Plus was only able to increase PA behaviour to a limited extent in OACI 6 and 12 months after baseline measurements. Although subgroup analyses showed that more vulnerable participants (e.g., those with higher age, weight or more impairment) seemed to benefit more from the intervention on some specific lower intensity PA outcomes, it is possible that the Active Plus intervention is not e↵ective enough on its own. A blended approach, in which this eHealth intervention is combined with a face-to-face intervention, is recommended to improve the e↵ects of Active Plus on PA in OACI. This, however, needs further study.\n",
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "74.46 (6.22)",
+          "rowHeaders": [
+            "Age in years, mean (SD)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline participant characteristics of the control group and the intervention group.",
+            "Control Group",
+            "(N = 325)"
+          ]
+        },
+        {
+          "value": "74.20 (6.60)",
+          "rowHeaders": [
+            "Age in years, mean (SD)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline participant characteristics of the control group and the intervention group.",
+            "Intervention Group",
+            "(N = 260)"
+          ]
+        },
+        {
+          "value": "0.62",
+          "rowHeaders": [
+            "Age in years, mean (SD)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline participant characteristics of the control group and the intervention group.",
+            "p-Value",
+            "(N = 260)"
+          ]
+        },
+        {
+          "value": "0.59",
+          "rowHeaders": [
+            "Gender, N (%)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline participant characteristics of the control group and the intervention group.",
+            "p-Value",
+            "(N = 260)"
+          ]
+        },
+        {
+          "value": "164 (50.5%)",
+          "rowHeaders": [
+            "Male"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline participant characteristics of the control group and the intervention group.",
+            "Control Group",
+            "(N = 325)"
+          ]
+        },
+        {
+          "value": "138 (53.1%)",
+          "rowHeaders": [
+            "Male"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline participant characteristics of the control group and the intervention group.",
+            "Intervention Group",
+            "(N = 260)"
+          ]
+        },
+        {
+          "value": "161 (49.5%)",
+          "rowHeaders": [
+            "Female"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline participant characteristics of the control group and the intervention group.",
+            "Control Group",
+            "(N = 325)"
+          ]
+        },
+        {
+          "value": "122 (46.9%)",
+          "rowHeaders": [
+            "Female"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline participant characteristics of the control group and the intervention group.",
+            "Intervention Group",
+            "(N = 260)"
+          ]
+        },
+        {
+          "value": "0.09",
+          "rowHeaders": [
+            "Marital status, N (%)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline participant characteristics of the control group and the intervention group.",
+            "p-Value",
+            "(N = 260)"
+          ]
+        },
+        {
+          "value": "252 (83.4%)",
+          "rowHeaders": [
+            "Living together"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline participant characteristics of the control group and the intervention group.",
+            "Control Group",
+            "(N = 325)"
+          ]
+        },
+        {
+          "value": "192 (77.4%)",
+          "rowHeaders": [
+            "Living together"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline participant characteristics of the control group and the intervention group.",
+            "Intervention Group",
+            "(N = 260)"
+          ]
+        },
+        {
+          "value": "0.54",
+          "rowHeaders": [
+            "Education, N (%)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline participant characteristics of the control group and the intervention group.",
+            "p-Value",
+            "(N = 260)"
+          ]
+        },
+        {
+          "value": "151 (50.3%)",
+          "rowHeaders": [
+            "Low"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline participant characteristics of the control group and the intervention group.",
+            "Control Group",
+            "(N = 325)"
+          ]
+        },
+        {
+          "value": "127 (52.3%)",
+          "rowHeaders": [
+            "Low"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline participant characteristics of the control group and the intervention group.",
+            "Intervention Group",
+            "(N = 260)"
+          ]
+        },
+        {
+          "value": "26.9 (24.1-29.4)",
+          "rowHeaders": [
+            "BMI, median (IQR) \""
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline participant characteristics of the control group and the intervention group.",
+            "Control Group",
+            "(N = 325)"
+          ]
+        },
+        {
+          "value": "26.9 (24.4-29.8)",
+          "rowHeaders": [
+            "BMI, median (IQR) \""
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline participant characteristics of the control group and the intervention group.",
+            "Intervention Group",
+            "(N = 260)"
+          ]
+        },
+        {
+          "value": "0.35",
+          "rowHeaders": [
+            "BMI, median (IQR) \""
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline participant characteristics of the control group and the intervention group.",
+            "p-Value",
+            "(N = 260)"
+          ]
+        },
+        {
+          "value": "0.39",
+          "rowHeaders": [
+            "Degree of impairment, N (%)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline participant characteristics of the control group and the intervention group.",
+            "p-Value",
+            "(N = 260)"
+          ]
+        },
+        {
+          "value": "134 (43.8%)",
+          "rowHeaders": [
+            "Medium impaired"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline participant characteristics of the control group and the intervention group.",
+            "Control Group",
+            "(N = 325)"
+          ]
+        },
+        {
+          "value": "123 (49.0%)",
+          "rowHeaders": [
+            "Medium impaired"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline participant characteristics of the control group and the intervention group.",
+            "Intervention Group",
+            "(N = 260)"
+          ]
+        },
+        {
+          "value": "138 (45.1%)",
+          "rowHeaders": [
+            "Very impaired"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline participant characteristics of the control group and the intervention group.",
+            "Control Group",
+            "(N = 325)"
+          ]
+        },
+        {
+          "value": "0.88",
+          "rowHeaders": [
+            "LPA, mean min/wk (SD)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline participant characteristics of the control group and the intervention group.",
+            "p-Value",
+            "(N = 260)"
+          ]
+        },
+        {
+          "value": "142 (61-261)",
+          "rowHeaders": [
+            "MVPA, median min/wk (IQR) \""
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline participant characteristics of the control group and the intervention group.",
+            "Intervention Group",
+            "(N = 260)"
+          ]
+        },
+        {
+          "value": "0.70",
+          "rowHeaders": [
+            "MVPA, median min/wk (IQR) \""
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline participant characteristics of the control group and the intervention group.",
+            "p-Value",
+            "(N = 260)"
+          ]
+        },
+        {
+          "value": "265 (87.7%)",
+          "rowHeaders": [
+            "Number of OACI performed, N (%)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline participant characteristics of the control group and the intervention group.",
+            "Control Group",
+            "(N = 325)"
+          ]
+        },
+        {
+          "value": "223 (90.7%)",
+          "rowHeaders": [
+            "Number of OACI performed, N (%)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline participant characteristics of the control group and the intervention group.",
+            "Intervention Group",
+            "(N = 260)"
+          ]
+        },
+        {
+          "value": "0.35",
+          "rowHeaders": [
+            "Number of OACI performed, N (%)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline participant characteristics of the control group and the intervention group.",
+            "p-Value",
+            "(N = 260)"
+          ]
+        },
+        {
+          "value": "690 (360-1050)",
+          "rowHeaders": [
+            "MVPA, median min/wk (IQR) \""
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline participant characteristics of the control group and the intervention group.",
+            "Control Group",
+            "(N = 325)"
+          ]
+        },
+        {
+          "value": "660 (330-1170)",
+          "rowHeaders": [
+            "MVPA, median min/wk (IQR) \""
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline participant characteristics of the control group and the intervention group.",
+            "Intervention Group",
+            "(N = 260)"
+          ]
+        },
+        {
+          "value": "0.88",
+          "rowHeaders": [
+            "MVPA, median min/wk (IQR) \""
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline participant characteristics of the control group and the intervention group.",
+            "p-Value",
+            "(N = 260)"
+          ]
+        },
+        {
+          "value": "209 (69.9%)",
+          "rowHeaders": [
+            "Number of OACI performed, N (%)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline participant characteristics of the control group and the intervention group.",
+            "Control Group",
+            "(N = 325)"
+          ]
+        },
+        {
+          "value": "175 (70.3%)",
+          "rowHeaders": [
+            "Number of OACI performed, N (%)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline participant characteristics of the control group and the intervention group.",
+            "Intervention Group",
+            "(N = 260)"
+          ]
+        },
+        {
+          "value": "0.99",
+          "rowHeaders": [
+            "Number of OACI performed, N (%)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline participant characteristics of the control group and the intervention group.",
+            "p-Value",
+            "(N = 260)"
+          ]
+        },
+        {
+          "value": "180 (90-360)",
+          "rowHeaders": [
+            "MVPA, median min/wk (IQR) \""
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline participant characteristics of the control group and the intervention group.",
+            "Control Group",
+            "(N = 325)"
+          ]
+        },
+        {
+          "value": "210 (90-360)",
+          "rowHeaders": [
+            "MVPA, median min/wk (IQR) \""
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline participant characteristics of the control group and the intervention group.",
+            "Intervention Group",
+            "(N = 260)"
+          ]
+        },
+        {
+          "value": "0.99",
+          "rowHeaders": [
+            "MVPA, median min/wk (IQR) \""
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline participant characteristics of the control group and the intervention group.",
+            "p-Value",
+            "(N = 260)"
+          ]
+        },
+        {
+          "value": "150 (50.2%)",
+          "rowHeaders": [
+            "Number of OACI performed, N (%)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline participant characteristics of the control group and the intervention group.",
+            "Control Group",
+            "(N = 325)"
+          ]
+        },
+        {
+          "value": "114 (45.8%)",
+          "rowHeaders": [
+            "Number of OACI performed, N (%)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline participant characteristics of the control group and the intervention group.",
+            "Intervention Group",
+            "(N = 260)"
+          ]
+        },
+        {
+          "value": "0.35",
+          "rowHeaders": [
+            "Number of OACI performed, N (%)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline participant characteristics of the control group and the intervention group.",
+            "p-Value",
+            "(N = 260)"
+          ]
+        },
+        {
+          "value": "180 (76.3-420)",
+          "rowHeaders": [
+            "MVPA, median min/wk (IQR) \""
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline participant characteristics of the control group and the intervention group.",
+            "Control Group",
+            "(N = 325)"
+          ]
+        },
+        {
+          "value": "150 (90-360)",
+          "rowHeaders": [
+            "MVPA, median min/wk (IQR) \""
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline participant characteristics of the control group and the intervention group.",
+            "Intervention Group",
+            "(N = 260)"
+          ]
+        },
+        {
+          "value": "0.64",
+          "rowHeaders": [
+            "MVPA, median min/wk (IQR) \""
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline participant characteristics of the control group and the intervention group.",
+            "p-Value",
+            "(N = 260)"
+          ]
+        },
+        {
+          "value": "155 (51.8%)",
+          "rowHeaders": [
+            "Number of OACI performed, N (%)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline participant characteristics of the control group and the intervention group.",
+            "Control Group",
+            "(N = 325)"
+          ]
+        },
+        {
+          "value": "122 (49.0%)",
+          "rowHeaders": [
+            "Number of OACI performed, N (%)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline participant characteristics of the control group and the intervention group.",
+            "Intervention Group",
+            "(N = 260)"
+          ]
+        },
+        {
+          "value": "0.56",
+          "rowHeaders": [
+            "Number of OACI performed, N (%)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline participant characteristics of the control group and the intervention group.",
+            "p-Value",
+            "(N = 260)"
+          ]
+        },
+        {
+          "value": "180 (100-360)",
+          "rowHeaders": [
+            "MVPA, median min/wk (IQR) \""
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline participant characteristics of the control group and the intervention group.",
+            "Control Group",
+            "(N = 325)"
+          ]
+        },
+        {
+          "value": "180 (92.5-360)",
+          "rowHeaders": [
+            "MVPA, median min/wk (IQR) \""
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline participant characteristics of the control group and the intervention group.",
+            "Intervention Group",
+            "(N = 260)"
+          ]
+        },
+        {
+          "value": "0.61",
+          "rowHeaders": [
+            "MVPA, median min/wk (IQR) \""
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline participant characteristics of the control group and the intervention group.",
+            "p-Value",
+            "(N = 260)"
+          ]
+        },
+        {
+          "value": "100 (33.4%)",
+          "rowHeaders": [
+            "Number of OACI performed, N (%)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline participant characteristics of the control group and the intervention group.",
+            "Control Group",
+            "(N = 325)"
+          ]
+        },
+        {
+          "value": "0.78",
+          "rowHeaders": [
+            "Number of OACI performed, N (%)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline participant characteristics of the control group and the intervention group.",
+            "p-Value",
+            "(N = 260)"
+          ]
+        },
+        {
+          "value": "150 (60-480)",
+          "rowHeaders": [
+            "MVPA, median min/wk (IQR) \""
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline participant characteristics of the control group and the intervention group.",
+            "Control Group",
+            "(N = 325)"
+          ]
+        },
+        {
+          "value": "180 (67.5-405)",
+          "rowHeaders": [
+            "MVPA, median min/wk (IQR) \""
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline participant characteristics of the control group and the intervention group.",
+            "Intervention Group",
+            "(N = 260)"
+          ]
+        },
+        {
+          "value": "0.99",
+          "rowHeaders": [
+            "MVPA, median min/wk (IQR) \""
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline participant characteristics of the control group and the intervention group.",
+            "p-Value",
+            "(N = 260)"
+          ]
+        },
+        {
+          "value": "152 (50.8%)",
+          "rowHeaders": [
+            "Number of OACI performed, N (%)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline participant characteristics of the control group and the intervention group.",
+            "Control Group",
+            "(N = 325)"
+          ]
+        },
+        {
+          "value": "134 (53.8%)",
+          "rowHeaders": [
+            "Number of OACI performed, N (%)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline participant characteristics of the control group and the intervention group.",
+            "Intervention Group",
+            "(N = 260)"
+          ]
+        },
+        {
+          "value": "0.54",
+          "rowHeaders": [
+            "Number of OACI performed, N (%)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline participant characteristics of the control group and the intervention group.",
+            "p-Value",
+            "(N = 260)"
+          ]
+        },
+        {
+          "value": "150 (90-300)",
+          "rowHeaders": [
+            "MVPA, median min/wk (IQR) \""
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline participant characteristics of the control group and the intervention group.",
+            "Control Group",
+            "(N = 325)"
+          ]
+        },
+        {
+          "value": "140 (75-262.5)",
+          "rowHeaders": [
+            "MVPA, median min/wk (IQR) \""
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline participant characteristics of the control group and the intervention group.",
+            "Intervention Group",
+            "(N = 260)"
+          ]
+        },
+        {
+          "value": "0.67",
+          "rowHeaders": [
+            "MVPA, median min/wk (IQR) \""
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline participant characteristics of the control group and the intervention group.",
+            "p-Value",
+            "(N = 260)"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "315",
+          "rowHeaders": [
+            "LPA min/wk",
+            "Baseline"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Control Group",
+            "N"
+          ]
+        },
+        {
+          "value": "254",
+          "rowHeaders": [
+            "LPA min/wk",
+            "Baseline"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Intervention Group",
+            "N"
+          ]
+        },
+        {
+          "value": "267",
+          "rowHeaders": [
+            "Household activities min/wk",
+            "6 months"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Control Group",
+            "N"
+          ]
+        },
+        {
+          "value": "178",
+          "rowHeaders": [
+            "Household activities min/wk",
+            "6 months"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Intervention Group",
+            "N"
+          ]
+        },
+        {
+          "value": "246",
+          "rowHeaders": [
+            "Household activities min/wk",
+            "12 months"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Control Group",
+            "N"
+          ]
+        },
+        {
+          "value": "164",
+          "rowHeaders": [
+            "Household activities min/wk",
+            "12 months"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Intervention Group",
+            "N"
+          ]
+        },
+        {
+          "value": "315",
+          "rowHeaders": [
+            "MVPA min/wk",
+            "Baseline"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Control Group",
+            "N"
+          ]
+        },
+        {
+          "value": "210 (206)",
+          "rowHeaders": [
+            "MVPA min/wk",
+            "Baseline"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Control Group",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "254",
+          "rowHeaders": [
+            "MVPA min/wk",
+            "Baseline"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Intervention Group",
+            "N"
+          ]
+        },
+        {
+          "value": "193 (181)",
+          "rowHeaders": [
+            "MVPA min/wk",
+            "Baseline"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Intervention Group",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "267",
+          "rowHeaders": [
+            "Household activities min/wk",
+            "6 months"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Control Group",
+            "N"
+          ]
+        },
+        {
+          "value": "191 (176)",
+          "rowHeaders": [
+            "Household activities min/wk",
+            "6 months"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Control Group",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "178",
+          "rowHeaders": [
+            "Household activities min/wk",
+            "6 months"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Intervention Group",
+            "N"
+          ]
+        },
+        {
+          "value": "204 (184)",
+          "rowHeaders": [
+            "Household activities min/wk",
+            "6 months"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Intervention Group",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "246",
+          "rowHeaders": [
+            "Household activities min/wk",
+            "12 months"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Control Group",
+            "N"
+          ]
+        },
+        {
+          "value": "206 (197)",
+          "rowHeaders": [
+            "Household activities min/wk",
+            "12 months"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Control Group",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "164",
+          "rowHeaders": [
+            "Household activities min/wk",
+            "12 months"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Intervention Group",
+            "N"
+          ]
+        },
+        {
+          "value": "200 (206)",
+          "rowHeaders": [
+            "Household activities min/wk",
+            "12 months"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Intervention Group",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "306",
+          "rowHeaders": [
+            "Household activities min/wk",
+            "Baseline"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Control Group",
+            "N"
+          ]
+        },
+        {
+          "value": "763 (808)",
+          "rowHeaders": [
+            "Household activities min/wk",
+            "Baseline"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Control Group",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "251",
+          "rowHeaders": [
+            "Household activities min/wk",
+            "Baseline"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Intervention Group",
+            "N"
+          ]
+        },
+        {
+          "value": "753 (715)",
+          "rowHeaders": [
+            "Household activities min/wk",
+            "Baseline"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Intervention Group",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "270",
+          "rowHeaders": [
+            "Household activities min/wk",
+            "6 months"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Control Group",
+            "N"
+          ]
+        },
+        {
+          "value": "672 (663)",
+          "rowHeaders": [
+            "Household activities min/wk",
+            "6 months"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Control Group",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "177",
+          "rowHeaders": [
+            "Household activities min/wk",
+            "6 months"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Intervention Group",
+            "N"
+          ]
+        },
+        {
+          "value": "747 (637)",
+          "rowHeaders": [
+            "Household activities min/wk",
+            "6 months"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Intervention Group",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "263",
+          "rowHeaders": [
+            "Household activities min/wk",
+            "12 months"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Control Group",
+            "N"
+          ]
+        },
+        {
+          "value": "648 (701)",
+          "rowHeaders": [
+            "Household activities min/wk",
+            "12 months"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Control Group",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "171",
+          "rowHeaders": [
+            "Household activities min/wk",
+            "12 months"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Intervention Group",
+            "N"
+          ]
+        },
+        {
+          "value": "719 (638)",
+          "rowHeaders": [
+            "Household activities min/wk",
+            "12 months"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Intervention Group",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "306",
+          "rowHeaders": [
+            "Walking min/wk",
+            "Baseline"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Control Group",
+            "N"
+          ]
+        },
+        {
+          "value": "212 (346)",
+          "rowHeaders": [
+            "Walking min/wk",
+            "Baseline"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Control Group",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "251",
+          "rowHeaders": [
+            "Walking min/wk",
+            "Baseline"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Intervention Group",
+            "N"
+          ]
+        },
+        {
+          "value": "187 (252)",
+          "rowHeaders": [
+            "Walking min/wk",
+            "Baseline"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Intervention Group",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "270",
+          "rowHeaders": [
+            "Household activities min/wk",
+            "6 months"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Control Group",
+            "N"
+          ]
+        },
+        {
+          "value": "193 (315)",
+          "rowHeaders": [
+            "Household activities min/wk",
+            "6 months"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Control Group",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "177",
+          "rowHeaders": [
+            "Household activities min/wk",
+            "6 months"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Intervention Group",
+            "N"
+          ]
+        },
+        {
+          "value": "248 (340)",
+          "rowHeaders": [
+            "Household activities min/wk",
+            "6 months"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Intervention Group",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "263",
+          "rowHeaders": [
+            "Household activities min/wk",
+            "12 months"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Control Group",
+            "N"
+          ]
+        },
+        {
+          "value": "185 (279)",
+          "rowHeaders": [
+            "Household activities min/wk",
+            "12 months"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Control Group",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "171",
+          "rowHeaders": [
+            "Household activities min/wk",
+            "12 months"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Intervention Group",
+            "N"
+          ]
+        },
+        {
+          "value": "216 (257)",
+          "rowHeaders": [
+            "Household activities min/wk",
+            "12 months"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Intervention Group",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "306",
+          "rowHeaders": [
+            "Cycling min/wk",
+            "Baseline"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Control Group",
+            "N"
+          ]
+        },
+        {
+          "value": "163 (349)",
+          "rowHeaders": [
+            "Cycling min/wk",
+            "Baseline"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Control Group",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "251",
+          "rowHeaders": [
+            "Cycling min/wk",
+            "Baseline"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Intervention Group",
+            "N"
+          ]
+        },
+        {
+          "value": "137 (308)",
+          "rowHeaders": [
+            "Cycling min/wk",
+            "Baseline"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Intervention Group",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "270",
+          "rowHeaders": [
+            "Gardening min/wk",
+            "6 months"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Control Group",
+            "N"
+          ]
+        },
+        {
+          "value": "177",
+          "rowHeaders": [
+            "Household activities min/wk",
+            "6 months"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Intervention Group",
+            "N"
+          ]
+        },
+        {
+          "value": "142 (266)",
+          "rowHeaders": [
+            "Household activities min/wk",
+            "6 months"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Intervention Group",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "263",
+          "rowHeaders": [
+            "Gardening min/wk",
+            "12 months"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Control Group",
+            "N"
+          ]
+        },
+        {
+          "value": "135 (241)",
+          "rowHeaders": [
+            "Gardening min/wk",
+            "12 months"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Control Group",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "171",
+          "rowHeaders": [
+            "Household activities min/wk",
+            "12 months"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Intervention Group",
+            "N"
+          ]
+        },
+        {
+          "value": "155 (270)",
+          "rowHeaders": [
+            "Household activities min/wk",
+            "12 months"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Intervention Group",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "306",
+          "rowHeaders": [
+            "Gardening min/wk",
+            "Baseline"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Control Group",
+            "N"
+          ]
+        },
+        {
+          "value": "141 (241)",
+          "rowHeaders": [
+            "Gardening min/wk",
+            "Baseline"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Control Group",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "251",
+          "rowHeaders": [
+            "Gardening min/wk",
+            "Baseline"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Intervention Group",
+            "N"
+          ]
+        },
+        {
+          "value": "152 (286)",
+          "rowHeaders": [
+            "Gardening min/wk",
+            "Baseline"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Intervention Group",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "270",
+          "rowHeaders": [
+            "Gardening min/wk",
+            "6 months"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Control Group",
+            "N"
+          ]
+        },
+        {
+          "value": "177",
+          "rowHeaders": [
+            "Sports activities min/wk",
+            "6 months"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Intervention Group",
+            "N"
+          ]
+        },
+        {
+          "value": "110 (253)",
+          "rowHeaders": [
+            "Sports activities min/wk",
+            "6 months"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Intervention Group",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "263",
+          "rowHeaders": [
+            "Sports activities min/wk",
+            "12 months"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Control Group",
+            "N"
+          ]
+        },
+        {
+          "value": "149 (323)",
+          "rowHeaders": [
+            "Sports activities min/wk",
+            "12 months"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Control Group",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "171",
+          "rowHeaders": [
+            "Sports activities min/wk",
+            "12 months"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Intervention Group",
+            "N"
+          ]
+        },
+        {
+          "value": "186 (317)",
+          "rowHeaders": [
+            "Sports activities min/wk",
+            "12 months"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Intervention Group",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "306",
+          "rowHeaders": [
+            "Odd-jobs min/wk",
+            "Baseline"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Control Group",
+            "N"
+          ]
+        },
+        {
+          "value": "130 (350)",
+          "rowHeaders": [
+            "Odd-jobs min/wk",
+            "Baseline"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Control Group",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "251",
+          "rowHeaders": [
+            "Odd-jobs min/wk",
+            "Baseline"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Intervention Group",
+            "N"
+          ]
+        },
+        {
+          "value": "112 (266)",
+          "rowHeaders": [
+            "Odd-jobs min/wk",
+            "Baseline"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Intervention Group",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "270",
+          "rowHeaders": [
+            "Sports activities min/wk",
+            "6 months"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Control Group",
+            "N"
+          ]
+        },
+        {
+          "value": "124 (308)",
+          "rowHeaders": [
+            "Sports activities min/wk",
+            "6 months"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Control Group",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "177",
+          "rowHeaders": [
+            "Sports activities min/wk",
+            "6 months"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Intervention Group",
+            "N"
+          ]
+        },
+        {
+          "value": "120 (291)",
+          "rowHeaders": [
+            "Sports activities min/wk",
+            "6 months"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Intervention Group",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "263",
+          "rowHeaders": [
+            "Sports activities min/wk",
+            "12 months"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Control Group",
+            "N"
+          ]
+        },
+        {
+          "value": "100 (312)",
+          "rowHeaders": [
+            "Sports activities min/wk",
+            "12 months"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Control Group",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "171",
+          "rowHeaders": [
+            "Sports activities min/wk",
+            "12 months"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Intervention Group",
+            "N"
+          ]
+        },
+        {
+          "value": "113 (266)",
+          "rowHeaders": [
+            "Sports activities min/wk",
+            "12 months"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Intervention Group",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "306",
+          "rowHeaders": [
+            "Sports activities min/wk",
+            "Baseline"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Control Group",
+            "N"
+          ]
+        },
+        {
+          "value": "115 (197)",
+          "rowHeaders": [
+            "Sports activities min/wk",
+            "Baseline"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Control Group",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "251",
+          "rowHeaders": [
+            "Sports activities min/wk",
+            "Baseline"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Intervention Group",
+            "N"
+          ]
+        },
+        {
+          "value": "119 (209)",
+          "rowHeaders": [
+            "Sports activities min/wk",
+            "Baseline"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Intervention Group",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "270",
+          "rowHeaders": [
+            "Sports activities min/wk",
+            "6 months"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Control Group",
+            "N"
+          ]
+        },
+        {
+          "value": "113 (171)",
+          "rowHeaders": [
+            "Sports activities min/wk",
+            "6 months"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Control Group",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "177",
+          "rowHeaders": [
+            "Sports activities min/wk",
+            "6 months"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Intervention Group",
+            "N"
+          ]
+        },
+        {
+          "value": "149 (237)",
+          "rowHeaders": [
+            "Sports activities min/wk",
+            "6 months"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Intervention Group",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "263",
+          "rowHeaders": [
+            "Sports activities min/wk",
+            "12 months"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Control Group",
+            "N"
+          ]
+        },
+        {
+          "value": "109 (171)",
+          "rowHeaders": [
+            "Sports activities min/wk",
+            "12 months"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Control Group",
+            "Mean (SD)"
+          ]
+        },
+        {
+          "value": "171",
+          "rowHeaders": [
+            "Sports activities min/wk",
+            "12 months"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Intervention Group",
+            "N"
+          ]
+        },
+        {
+          "value": "131 (211)",
+          "rowHeaders": [
+            "Sports activities min/wk",
+            "12 months"
+          ],
+          "columnHeaders": [
+            "Table 2. Raw outcomes at baseline and follow-up measurements by treatment group *.",
+            "Intervention Group",
+            "Mean (SD)"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "18.47",
+          "rowHeaders": [
+            "LPA min/wk"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 6 Months",
+            "Coe↵."
+          ]
+        },
+        {
+          "value": "44.95",
+          "rowHeaders": [
+            "LPA min/wk"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 6 Months",
+            "SE"
+          ]
+        },
+        {
+          "value": "106.6;",
+          "rowHeaders": [
+            "LPA min/wk"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 6 Months",
+            "95% CI"
+          ]
+        },
+        {
+          "value": "69.6",
+          "rowHeaders": [
+            "LPA min/wk"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 6 Months",
+            "95% CI"
+          ]
+        },
+        {
+          "value": "0.68",
+          "rowHeaders": [
+            "LPA min/wk"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 6 Months",
+            "p"
+          ]
+        },
+        {
+          "value": "2.25",
+          "rowHeaders": [
+            "LPA min/wk"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 12 Months",
+            "Coe↵."
+          ]
+        },
+        {
+          "value": "46.32",
+          "rowHeaders": [
+            "LPA min/wk"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 12 Months",
+            "SE"
+          ]
+        },
+        {
+          "value": "88.53;",
+          "rowHeaders": [
+            "LPA min/wk"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 12 Months",
+            "95% CI"
+          ]
+        },
+        {
+          "value": "93.02",
+          "rowHeaders": [
+            "LPA min/wk"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 12 Months",
+            "95% CI"
+          ]
+        },
+        {
+          "value": "0.96",
+          "rowHeaders": [
+            "LPA min/wk"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 12 Months",
+            "p"
+          ]
+        },
+        {
+          "value": "0.04",
+          "rowHeaders": [
+            "MVPA min/wk 1"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 6 Months",
+            "Coe↵."
+          ]
+        },
+        {
+          "value": "0.03",
+          "rowHeaders": [
+            "MVPA min/wk 1"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 6 Months",
+            "SE"
+          ]
+        },
+        {
+          "value": "0.02;",
+          "rowHeaders": [
+            "MVPA min/wk 1"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 6 Months",
+            "95% CI"
+          ]
+        },
+        {
+          "value": "0.10",
+          "rowHeaders": [
+            "MVPA min/wk 1"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 6 Months",
+            "95% CI"
+          ]
+        },
+        {
+          "value": "0.20",
+          "rowHeaders": [
+            "MVPA min/wk 1"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 6 Months",
+            "p"
+          ]
+        },
+        {
+          "value": "0.00",
+          "rowHeaders": [
+            "MVPA min/wk 1"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 12 Months",
+            "Coe↵."
+          ]
+        },
+        {
+          "value": "0.03",
+          "rowHeaders": [
+            "MVPA min/wk 1"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 12 Months",
+            "SE"
+          ]
+        },
+        {
+          "value": "0.06;",
+          "rowHeaders": [
+            "MVPA min/wk 1"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 12 Months",
+            "95% CI"
+          ]
+        },
+        {
+          "value": "0.06",
+          "rowHeaders": [
+            "MVPA min/wk 1"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 12 Months",
+            "95% CI"
+          ]
+        },
+        {
+          "value": "0.93",
+          "rowHeaders": [
+            "MVPA min/wk 1"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 12 Months",
+            "p"
+          ]
+        },
+        {
+          "value": "0.13",
+          "rowHeaders": [
+            "Likelihood to perform 2"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 6 Months",
+            "Coe↵."
+          ]
+        },
+        {
+          "value": "0.60",
+          "rowHeaders": [
+            "Likelihood to perform 2"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 6 Months",
+            "SE"
+          ]
+        },
+        {
+          "value": "1.65;",
+          "rowHeaders": [
+            "Likelihood to perform 2"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 6 Months",
+            "95% CI"
+          ]
+        },
+        {
+          "value": "1.81",
+          "rowHeaders": [
+            "Likelihood to perform 2"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 6 Months",
+            "95% CI"
+          ]
+        },
+        {
+          "value": "0.83",
+          "rowHeaders": [
+            "Likelihood to perform 2"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 6 Months",
+            "p"
+          ]
+        },
+        {
+          "value": "0.12",
+          "rowHeaders": [
+            "Likelihood to perform 2"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 12 Months",
+            "Coe↵."
+          ]
+        },
+        {
+          "value": "0.58",
+          "rowHeaders": [
+            "Likelihood to perform 2"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 12 Months",
+            "SE"
+          ]
+        },
+        {
+          "value": "2.09;",
+          "rowHeaders": [
+            "Likelihood to perform 2"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 12 Months",
+            "95% CI"
+          ]
+        },
+        {
+          "value": "1.56",
+          "rowHeaders": [
+            "Likelihood to perform 2"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 12 Months",
+            "95% CI"
+          ]
+        },
+        {
+          "value": "0.84",
+          "rowHeaders": [
+            "Likelihood to perform 2"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 12 Months",
+            "p"
+          ]
+        },
+        {
+          "value": "0.10",
+          "rowHeaders": [
+            "MVPA min/wk 3"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 6 Months",
+            "Coe↵."
+          ]
+        },
+        {
+          "value": "0.08",
+          "rowHeaders": [
+            "MVPA min/wk 3"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 6 Months",
+            "SE"
+          ]
+        },
+        {
+          "value": "0.30;",
+          "rowHeaders": [
+            "MVPA min/wk 3"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 6 Months",
+            "95% CI"
+          ]
+        },
+        {
+          "value": "0.56",
+          "rowHeaders": [
+            "MVPA min/wk 3"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 6 Months",
+            "95% CI"
+          ]
+        },
+        {
+          "value": "0.16",
+          "rowHeaders": [
+            "MVPA min/wk 3"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 6 Months",
+            "p"
+          ]
+        },
+        {
+          "value": "0.13",
+          "rowHeaders": [
+            "MVPA min/wk 3"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 12 Months",
+            "Coe↵."
+          ]
+        },
+        {
+          "value": "0.08",
+          "rowHeaders": [
+            "MVPA min/wk 3"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 12 Months",
+            "SE"
+          ]
+        },
+        {
+          "value": "0.18;",
+          "rowHeaders": [
+            "MVPA min/wk 3"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 12 Months",
+            "95% CI"
+          ]
+        },
+        {
+          "value": "0.57",
+          "rowHeaders": [
+            "MVPA min/wk 3"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 12 Months",
+            "95% CI"
+          ]
+        },
+        {
+          "value": "0.08",
+          "rowHeaders": [
+            "MVPA min/wk 3"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 12 Months",
+            "p"
+          ]
+        },
+        {
+          "value": "0.68",
+          "rowHeaders": [
+            "Likelihood to perform 2"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 6 Months",
+            "Coe↵."
+          ]
+        },
+        {
+          "value": "0.40",
+          "rowHeaders": [
+            "Likelihood to perform 2"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 6 Months",
+            "SE"
+          ]
+        },
+        {
+          "value": "0.01;",
+          "rowHeaders": [
+            "Likelihood to perform 2"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 6 Months",
+            "95% CI"
+          ]
+        },
+        {
+          "value": "1.48",
+          "rowHeaders": [
+            "Likelihood to perform 2"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 6 Months",
+            "95% CI"
+          ]
+        },
+        {
+          "value": "0.09",
+          "rowHeaders": [
+            "Likelihood to perform 2"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 6 Months",
+            "p"
+          ]
+        },
+        {
+          "value": "0.84",
+          "rowHeaders": [
+            "Likelihood to perform 2"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 12 Months",
+            "Coe↵."
+          ]
+        },
+        {
+          "value": "0.40",
+          "rowHeaders": [
+            "Likelihood to perform 2"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 12 Months",
+            "SE"
+          ]
+        },
+        {
+          "value": "0.27;",
+          "rowHeaders": [
+            "Likelihood to perform 2"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 12 Months",
+            "95% CI"
+          ]
+        },
+        {
+          "value": "1.62",
+          "rowHeaders": [
+            "Likelihood to perform 2"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 12 Months",
+            "95% CI"
+          ]
+        },
+        {
+          "value": "0.04",
+          "rowHeaders": [
+            "Likelihood to perform 2"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 12 Months",
+            "p"
+          ]
+        },
+        {
+          "value": "0.16",
+          "rowHeaders": [
+            "MVPA min/wk 3"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 6 Months",
+            "Coe↵."
+          ]
+        },
+        {
+          "value": "0.09",
+          "rowHeaders": [
+            "MVPA min/wk 3"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 6 Months",
+            "SE"
+          ]
+        },
+        {
+          "value": "0.23;",
+          "rowHeaders": [
+            "MVPA min/wk 3"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 6 Months",
+            "95% CI"
+          ]
+        },
+        {
+          "value": "0.66",
+          "rowHeaders": [
+            "MVPA min/wk 3"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 6 Months",
+            "95% CI"
+          ]
+        },
+        {
+          "value": "0.08",
+          "rowHeaders": [
+            "MVPA min/wk 3"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 6 Months",
+            "p"
+          ]
+        },
+        {
+          "value": "0.15",
+          "rowHeaders": [
+            "MVPA min/wk 3"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 12 Months",
+            "Coe↵."
+          ]
+        },
+        {
+          "value": "0.09",
+          "rowHeaders": [
+            "MVPA min/wk 3"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 12 Months",
+            "SE"
+          ]
+        },
+        {
+          "value": "0.19;",
+          "rowHeaders": [
+            "MVPA min/wk 3"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 12 Months",
+            "95% CI"
+          ]
+        },
+        {
+          "value": "0.54",
+          "rowHeaders": [
+            "MVPA min/wk 3"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 12 Months",
+            "95% CI"
+          ]
+        },
+        {
+          "value": "0.09",
+          "rowHeaders": [
+            "MVPA min/wk 3"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 12 Months",
+            "p"
+          ]
+        },
+        {
+          "value": "1.12",
+          "rowHeaders": [
+            "Likelihood to perform 2"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 6 Months",
+            "Coe↵."
+          ]
+        },
+        {
+          "value": "0.44",
+          "rowHeaders": [
+            "Likelihood to perform 2"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 6 Months",
+            "SE"
+          ]
+        },
+        {
+          "value": "0.28;",
+          "rowHeaders": [
+            "Likelihood to perform 2"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 6 Months",
+            "95% CI"
+          ]
+        },
+        {
+          "value": "1.93",
+          "rowHeaders": [
+            "Likelihood to perform 2"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 6 Months",
+            "95% CI"
+          ]
+        },
+        {
+          "value": "0.01",
+          "rowHeaders": [
+            "Likelihood to perform 2"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 6 Months",
+            "p"
+          ]
+        },
+        {
+          "value": "0.57",
+          "rowHeaders": [
+            "Likelihood to perform 2"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 12 Months",
+            "Coe↵."
+          ]
+        },
+        {
+          "value": "0.45",
+          "rowHeaders": [
+            "Likelihood to perform 2"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 12 Months",
+            "SE"
+          ]
+        },
+        {
+          "value": "0.25;",
+          "rowHeaders": [
+            "Likelihood to perform 2"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 12 Months",
+            "95% CI"
+          ]
+        },
+        {
+          "value": "1.43",
+          "rowHeaders": [
+            "Likelihood to perform 2"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 12 Months",
+            "95% CI"
+          ]
+        },
+        {
+          "value": "0.20",
+          "rowHeaders": [
+            "Likelihood to perform 2"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 12 Months",
+            "p"
+          ]
+        },
+        {
+          "value": "0.34",
+          "rowHeaders": [
+            "MVPA min/wk 3"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 6 Months",
+            "Coe↵."
+          ]
+        },
+        {
+          "value": "0.12",
+          "rowHeaders": [
+            "MVPA min/wk 3"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 6 Months",
+            "SE"
+          ]
+        },
+        {
+          "value": "0.10;",
+          "rowHeaders": [
+            "MVPA min/wk 3"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 6 Months",
+            "95% CI"
+          ]
+        },
+        {
+          "value": "1.02",
+          "rowHeaders": [
+            "MVPA min/wk 3"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 6 Months",
+            "95% CI"
+          ]
+        },
+        {
+          "value": "0.005",
+          "rowHeaders": [
+            "MVPA min/wk 3"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 6 Months",
+            "p"
+          ]
+        },
+        {
+          "value": "0.28",
+          "rowHeaders": [
+            "MVPA min/wk 3"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 12 Months",
+            "Coe↵."
+          ]
+        },
+        {
+          "value": "0.12",
+          "rowHeaders": [
+            "MVPA min/wk 3"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 12 Months",
+            "SE"
+          ]
+        },
+        {
+          "value": "0.13;",
+          "rowHeaders": [
+            "MVPA min/wk 3"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 12 Months",
+            "95% CI"
+          ]
+        },
+        {
+          "value": "0.86",
+          "rowHeaders": [
+            "MVPA min/wk 3"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 12 Months",
+            "95% CI"
+          ]
+        },
+        {
+          "value": "0.02",
+          "rowHeaders": [
+            "MVPA min/wk 3"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 12 Months",
+            "p"
+          ]
+        },
+        {
+          "value": "0.77",
+          "rowHeaders": [
+            "Likelihood to perform 2"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 6 Months",
+            "Coe↵."
+          ]
+        },
+        {
+          "value": "0.38",
+          "rowHeaders": [
+            "Likelihood to perform 2"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 6 Months",
+            "SE"
+          ]
+        },
+        {
+          "value": "0.09;",
+          "rowHeaders": [
+            "Likelihood to perform 2"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 6 Months",
+            "95% CI"
+          ]
+        },
+        {
+          "value": "1.41",
+          "rowHeaders": [
+            "Likelihood to perform 2"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 6 Months",
+            "95% CI"
+          ]
+        },
+        {
+          "value": "0.04",
+          "rowHeaders": [
+            "Likelihood to perform 2"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 6 Months",
+            "p"
+          ]
+        },
+        {
+          "value": "0.36",
+          "rowHeaders": [
+            "Likelihood to perform 2"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 12 Months",
+            "Coe↵."
+          ]
+        },
+        {
+          "value": "0.37",
+          "rowHeaders": [
+            "Likelihood to perform 2"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 12 Months",
+            "SE"
+          ]
+        },
+        {
+          "value": "0.23;",
+          "rowHeaders": [
+            "Likelihood to perform 2"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 12 Months",
+            "95% CI"
+          ]
+        },
+        {
+          "value": "1.15",
+          "rowHeaders": [
+            "Likelihood to perform 2"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 12 Months",
+            "95% CI"
+          ]
+        },
+        {
+          "value": "0.34",
+          "rowHeaders": [
+            "Likelihood to perform 2"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 12 Months",
+            "p"
+          ]
+        },
+        {
+          "value": "0.11",
+          "rowHeaders": [
+            "MVPA min/wk 3"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 6 Months",
+            "Coe↵."
+          ]
+        },
+        {
+          "value": "0.13",
+          "rowHeaders": [
+            "MVPA min/wk 3"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 6 Months",
+            "SE"
+          ]
+        },
+        {
+          "value": "0.65;",
+          "rowHeaders": [
+            "MVPA min/wk 3"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 6 Months",
+            "95% CI"
+          ]
+        },
+        {
+          "value": "0.45",
+          "rowHeaders": [
+            "MVPA min/wk 3"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 6 Months",
+            "95% CI"
+          ]
+        },
+        {
+          "value": "0.40",
+          "rowHeaders": [
+            "MVPA min/wk 3"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 6 Months",
+            "p"
+          ]
+        },
+        {
+          "value": "0.05",
+          "rowHeaders": [
+            "MVPA min/wk 3"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 12 Months",
+            "Coe↵."
+          ]
+        },
+        {
+          "value": "0.11",
+          "rowHeaders": [
+            "MVPA min/wk 3"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 12 Months",
+            "SE"
+          ]
+        },
+        {
+          "value": "0.39;",
+          "rowHeaders": [
+            "MVPA min/wk 3"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 12 Months",
+            "95% CI"
+          ]
+        },
+        {
+          "value": "0.61",
+          "rowHeaders": [
+            "MVPA min/wk 3"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 12 Months",
+            "95% CI"
+          ]
+        },
+        {
+          "value": "0.67",
+          "rowHeaders": [
+            "MVPA min/wk 3"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 12 Months",
+            "p"
+          ]
+        },
+        {
+          "value": "0.14",
+          "rowHeaders": [
+            "Likelihood to perform"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 6 Months",
+            "Coe↵."
+          ]
+        },
+        {
+          "value": "0.38",
+          "rowHeaders": [
+            "Likelihood to perform"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 6 Months",
+            "SE"
+          ]
+        },
+        {
+          "value": "0.49;",
+          "rowHeaders": [
+            "Likelihood to perform"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 6 Months",
+            "95% CI"
+          ]
+        },
+        {
+          "value": "0.88",
+          "rowHeaders": [
+            "Likelihood to perform"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 6 Months",
+            "95% CI"
+          ]
+        },
+        {
+          "value": "0.72",
+          "rowHeaders": [
+            "Likelihood to perform"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 6 Months",
+            "p"
+          ]
+        },
+        {
+          "value": "0.16",
+          "rowHeaders": [
+            "Likelihood to perform"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 12 Months",
+            "Coe↵."
+          ]
+        },
+        {
+          "value": "0.39",
+          "rowHeaders": [
+            "Likelihood to perform"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 12 Months",
+            "SE"
+          ]
+        },
+        {
+          "value": "0.57;",
+          "rowHeaders": [
+            "Likelihood to perform"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 12 Months",
+            "95% CI"
+          ]
+        },
+        {
+          "value": "0.92",
+          "rowHeaders": [
+            "Likelihood to perform"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 12 Months",
+            "95% CI"
+          ]
+        },
+        {
+          "value": "0.67",
+          "rowHeaders": [
+            "Likelihood to perform"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 12 Months",
+            "p"
+          ]
+        },
+        {
+          "value": "0.08",
+          "rowHeaders": [
+            "Likelihood to perform 2",
+            "MVPA min/wk 3"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 6 Months",
+            "Coe↵."
+          ]
+        },
+        {
+          "value": "0.15",
+          "rowHeaders": [
+            "Likelihood to perform 2",
+            "MVPA min/wk 3"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 6 Months",
+            "SE"
+          ]
+        },
+        {
+          "value": "0.53;",
+          "rowHeaders": [
+            "Likelihood to perform 2",
+            "MVPA min/wk 3"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 6 Months",
+            "95% CI"
+          ]
+        },
+        {
+          "value": "0.64",
+          "rowHeaders": [
+            "Likelihood to perform 2",
+            "MVPA min/wk 3"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 6 Months",
+            "95% CI"
+          ]
+        },
+        {
+          "value": "0.60",
+          "rowHeaders": [
+            "Likelihood to perform 2",
+            "MVPA min/wk 3"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 6 Months",
+            "p"
+          ]
+        },
+        {
+          "value": "0.20",
+          "rowHeaders": [
+            "Likelihood to perform 2",
+            "MVPA min/wk 3"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 12 Months",
+            "Coe↵."
+          ]
+        },
+        {
+          "value": "0.15",
+          "rowHeaders": [
+            "Likelihood to perform 2",
+            "MVPA min/wk 3"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 12 Months",
+            "SE"
+          ]
+        },
+        {
+          "value": "0.39;",
+          "rowHeaders": [
+            "Likelihood to perform 2",
+            "MVPA min/wk 3"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 12 Months",
+            "95% CI"
+          ]
+        },
+        {
+          "value": "0.85",
+          "rowHeaders": [
+            "Likelihood to perform 2",
+            "MVPA min/wk 3"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 12 Months",
+            "95% CI"
+          ]
+        },
+        {
+          "value": "0.19",
+          "rowHeaders": [
+            "Likelihood to perform 2",
+            "MVPA min/wk 3"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 12 Months",
+            "p"
+          ]
+        },
+        {
+          "value": "0.38",
+          "rowHeaders": [
+            "Likelihood to perform 2"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 6 Months",
+            "Coe↵."
+          ]
+        },
+        {
+          "value": "0.39",
+          "rowHeaders": [
+            "Likelihood to perform 2"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 6 Months",
+            "SE"
+          ]
+        },
+        {
+          "value": "0.18;",
+          "rowHeaders": [
+            "Likelihood to perform 2"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 6 Months",
+            "95% CI"
+          ]
+        },
+        {
+          "value": "1.04",
+          "rowHeaders": [
+            "Likelihood to perform 2"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 6 Months",
+            "95% CI"
+          ]
+        },
+        {
+          "value": "0.32",
+          "rowHeaders": [
+            "Likelihood to perform 2"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 6 Months",
+            "p"
+          ]
+        },
+        {
+          "value": "0.34",
+          "rowHeaders": [
+            "Likelihood to perform 2"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 12 Months",
+            "Coe↵."
+          ]
+        },
+        {
+          "value": "0.39",
+          "rowHeaders": [
+            "Likelihood to perform 2"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 12 Months",
+            "SE"
+          ]
+        },
+        {
+          "value": "0.27;",
+          "rowHeaders": [
+            "Likelihood to perform 2"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 12 Months",
+            "95% CI"
+          ]
+        },
+        {
+          "value": "1.01",
+          "rowHeaders": [
+            "Likelihood to perform 2"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 12 Months",
+            "95% CI"
+          ]
+        },
+        {
+          "value": "0.38",
+          "rowHeaders": [
+            "Likelihood to perform 2"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 12 Months",
+            "p"
+          ]
+        },
+        {
+          "value": "0.04",
+          "rowHeaders": [
+            "Likelihood to perform 2",
+            "MVPA min/wk 3"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 6 Months",
+            "Coe↵."
+          ]
+        },
+        {
+          "value": "0.09",
+          "rowHeaders": [
+            "Likelihood to perform 2",
+            "MVPA min/wk 3"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 6 Months",
+            "SE"
+          ]
+        },
+        {
+          "value": "0.43;",
+          "rowHeaders": [
+            "Likelihood to perform 2",
+            "MVPA min/wk 3"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 6 Months",
+            "95% CI"
+          ]
+        },
+        {
+          "value": "0.64",
+          "rowHeaders": [
+            "Likelihood to perform 2",
+            "MVPA min/wk 3"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 6 Months",
+            "95% CI"
+          ]
+        },
+        {
+          "value": "0.62",
+          "rowHeaders": [
+            "Likelihood to perform 2",
+            "MVPA min/wk 3"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 6 Months",
+            "p"
+          ]
+        },
+        {
+          "value": "0.09",
+          "rowHeaders": [
+            "Likelihood to perform 2",
+            "MVPA min/wk 3"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 12 Months",
+            "Coe↵."
+          ]
+        },
+        {
+          "value": "0.09",
+          "rowHeaders": [
+            "Likelihood to perform 2",
+            "MVPA min/wk 3"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 12 Months",
+            "SE"
+          ]
+        },
+        {
+          "value": "0.44;",
+          "rowHeaders": [
+            "Likelihood to perform 2",
+            "MVPA min/wk 3"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 12 Months",
+            "95% CI"
+          ]
+        },
+        {
+          "value": "0.66",
+          "rowHeaders": [
+            "Likelihood to perform 2",
+            "MVPA min/wk 3"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 12 Months",
+            "95% CI"
+          ]
+        },
+        {
+          "value": "0.33",
+          "rowHeaders": [
+            "Likelihood to perform 2",
+            "MVPA min/wk 3"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for 6 and 12 months follow-up",
+            "E↵ect After 12 Months",
+            "p"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "43.04",
+          "rowHeaders": [
+            "LPA min/wk",
+            "BMI <30 kg/ m"
+          ],
+          "columnHeaders": [
+            "Table 4. Moderation of intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for and 12",
+            "E↵ect After 6 Months",
+            "Coe↵."
+          ]
+        },
+        {
+          "value": "50.23",
+          "rowHeaders": [
+            "LPA min/wk",
+            "BMI <30 kg/ m"
+          ],
+          "columnHeaders": [
+            "Table 4. Moderation of intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for and 12",
+            "E↵ect After 6 Months",
+            "SE"
+          ]
+        },
+        {
+          "value": "0.39",
+          "rowHeaders": [
+            "LPA min/wk",
+            "BMI <30 kg/ m"
+          ],
+          "columnHeaders": [
+            "Table 4. Moderation of intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for and 12",
+            "E↵ect After 6 Months",
+            "p"
+          ]
+        },
+        {
+          "value": "40.91",
+          "rowHeaders": [
+            "LPA min/wk",
+            "BMI <30 kg/ m"
+          ],
+          "columnHeaders": [
+            "Table 4. Moderation of intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for and 12",
+            "E↵ect After 12 Months",
+            "Coe↵."
+          ]
+        },
+        {
+          "value": "51.82",
+          "rowHeaders": [
+            "LPA min/wk",
+            "BMI <30 kg/ m"
+          ],
+          "columnHeaders": [
+            "Table 4. Moderation of intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for and 12",
+            "E↵ect After 12 Months",
+            "SE"
+          ]
+        },
+        {
+          "value": "0.43",
+          "rowHeaders": [
+            "LPA min/wk",
+            "BMI <30 kg/ m"
+          ],
+          "columnHeaders": [
+            "Table 4. Moderation of intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for and 12",
+            "E↵ect After 12 Months",
+            "p"
+          ]
+        },
+        {
+          "value": "74.88",
+          "rowHeaders": [
+            "LPA min/wk",
+            "BMI",
+            "30 kg/ m"
+          ],
+          "columnHeaders": [
+            "Table 4. Moderation of intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for and 12",
+            "E↵ect After 6 Months",
+            "Coe↵."
+          ]
+        },
+        {
+          "value": "99.44",
+          "rowHeaders": [
+            "LPA min/wk",
+            "BMI",
+            "30 kg/ m"
+          ],
+          "columnHeaders": [
+            "Table 4. Moderation of intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for and 12",
+            "E↵ect After 6 Months",
+            "SE"
+          ]
+        },
+        {
+          "value": "0.45",
+          "rowHeaders": [
+            "LPA min/wk",
+            "BMI",
+            "30 kg/ m"
+          ],
+          "columnHeaders": [
+            "Table 4. Moderation of intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for and 12",
+            "E↵ect After 6 Months",
+            "p"
+          ]
+        },
+        {
+          "value": "169.18",
+          "rowHeaders": [
+            "LPA min/wk",
+            "BMI",
+            "30 kg/ m"
+          ],
+          "columnHeaders": [
+            "Table 4. Moderation of intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for and 12",
+            "E↵ect After 12 Months",
+            "Coe↵."
+          ]
+        },
+        {
+          "value": "101.74",
+          "rowHeaders": [
+            "LPA min/wk",
+            "BMI",
+            "30 kg/ m"
+          ],
+          "columnHeaders": [
+            "Table 4. Moderation of intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for and 12",
+            "E↵ect After 12 Months",
+            "SE"
+          ]
+        },
+        {
+          "value": "0.096",
+          "rowHeaders": [
+            "LPA min/wk",
+            "BMI",
+            "30 kg/ m"
+          ],
+          "columnHeaders": [
+            "Table 4. Moderation of intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for and 12",
+            "E↵ect After 12 Months",
+            "p"
+          ]
+        },
+        {
+          "value": "2.26",
+          "rowHeaders": [
+            "walking 1",
+            "Medium/very impaired",
+            "Little impaired"
+          ],
+          "columnHeaders": [
+            "Table 4. Moderation of intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for and 12",
+            "E↵ect After 6 Months",
+            "Coe↵."
+          ]
+        },
+        {
+          "value": "1.67",
+          "rowHeaders": [
+            "walking 1",
+            "Medium/very impaired",
+            "Little impaired"
+          ],
+          "columnHeaders": [
+            "Table 4. Moderation of intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for and 12",
+            "E↵ect After 6 Months",
+            "SE"
+          ]
+        },
+        {
+          "value": "0.18",
+          "rowHeaders": [
+            "walking 1",
+            "Medium/very impaired",
+            "Little impaired"
+          ],
+          "columnHeaders": [
+            "Table 4. Moderation of intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for and 12",
+            "E↵ect After 6 Months",
+            "p"
+          ]
+        },
+        {
+          "value": "12.07",
+          "rowHeaders": [
+            "walking 1",
+            "Medium/very impaired",
+            "Little impaired"
+          ],
+          "columnHeaders": [
+            "Table 4. Moderation of intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for and 12",
+            "E↵ect After 12 Months",
+            "Coe↵."
+          ]
+        },
+        {
+          "value": "418.04",
+          "rowHeaders": [
+            "walking 1",
+            "Medium/very impaired",
+            "Little impaired"
+          ],
+          "columnHeaders": [
+            "Table 4. Moderation of intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for and 12",
+            "E↵ect After 12 Months",
+            "SE"
+          ]
+        },
+        {
+          "value": "0.98",
+          "rowHeaders": [
+            "walking 1",
+            "Medium/very impaired",
+            "Little impaired"
+          ],
+          "columnHeaders": [
+            "Table 4. Moderation of intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for and 12",
+            "E↵ect After 12 Months",
+            "p"
+          ]
+        },
+        {
+          "value": "0.87",
+          "rowHeaders": [
+            "household activities 2",
+            "Medium/very impaired"
+          ],
+          "columnHeaders": [
+            "Table 4. Moderation of intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for and 12",
+            "E↵ect After 6 Months",
+            "Coe↵."
+          ]
+        },
+        {
+          "value": "0.42",
+          "rowHeaders": [
+            "household activities 2",
+            "Medium/very impaired"
+          ],
+          "columnHeaders": [
+            "Table 4. Moderation of intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for and 12",
+            "E↵ect After 6 Months",
+            "SE"
+          ]
+        },
+        {
+          "value": "0.04 \"",
+          "rowHeaders": [
+            "household activities 2",
+            "Medium/very impaired"
+          ],
+          "columnHeaders": [
+            "Table 4. Moderation of intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for and 12",
+            "E↵ect After 6 Months",
+            "p"
+          ]
+        },
+        {
+          "value": "0.81",
+          "rowHeaders": [
+            "household activities 2",
+            "Medium/very impaired"
+          ],
+          "columnHeaders": [
+            "Table 4. Moderation of intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for and 12",
+            "E↵ect After 12 Months",
+            "Coe↵."
+          ]
+        },
+        {
+          "value": "0.42",
+          "rowHeaders": [
+            "household activities 2",
+            "Medium/very impaired"
+          ],
+          "columnHeaders": [
+            "Table 4. Moderation of intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for and 12",
+            "E↵ect After 12 Months",
+            "SE"
+          ]
+        },
+        {
+          "value": "0.054",
+          "rowHeaders": [
+            "household activities 2",
+            "Medium/very impaired"
+          ],
+          "columnHeaders": [
+            "Table 4. Moderation of intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for and 12",
+            "E↵ect After 12 Months",
+            "p"
+          ]
+        },
+        {
+          "value": "0.04",
+          "rowHeaders": [
+            "odd-jobs 1",
+            "Medium/very impaired",
+            "<80 years"
+          ],
+          "columnHeaders": [
+            "Table 4. Moderation of intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for and 12",
+            "E↵ect After 6 Months",
+            "Coe↵."
+          ]
+        },
+        {
+          "value": "0.41",
+          "rowHeaders": [
+            "odd-jobs 1",
+            "Medium/very impaired",
+            "<80 years"
+          ],
+          "columnHeaders": [
+            "Table 4. Moderation of intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for and 12",
+            "E↵ect After 6 Months",
+            "SE"
+          ]
+        },
+        {
+          "value": "0.92",
+          "rowHeaders": [
+            "odd-jobs 1",
+            "Medium/very impaired",
+            "<80 years"
+          ],
+          "columnHeaders": [
+            "Table 4. Moderation of intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for and 12",
+            "E↵ect After 6 Months",
+            "p"
+          ]
+        },
+        {
+          "value": "0.16",
+          "rowHeaders": [
+            "odd-jobs 1",
+            "Medium/very impaired",
+            "<80 years"
+          ],
+          "columnHeaders": [
+            "Table 4. Moderation of intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for and 12",
+            "E↵ect After 12 Months",
+            "Coe↵."
+          ]
+        },
+        {
+          "value": "0.42",
+          "rowHeaders": [
+            "odd-jobs 1",
+            "Medium/very impaired",
+            "<80 years"
+          ],
+          "columnHeaders": [
+            "Table 4. Moderation of intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for and 12",
+            "E↵ect After 12 Months",
+            "SE"
+          ]
+        },
+        {
+          "value": "0.70",
+          "rowHeaders": [
+            "odd-jobs 1",
+            "Medium/very impaired",
+            "<80 years"
+          ],
+          "columnHeaders": [
+            "Table 4. Moderation of intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for and 12",
+            "E↵ect After 12 Months",
+            "p"
+          ]
+        },
+        {
+          "value": "1.35",
+          "rowHeaders": [
+            "household activities 2",
+            "Medium/very impaired",
+            "80 years"
+          ],
+          "columnHeaders": [
+            "Table 4. Moderation of intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for and 12",
+            "E↵ect After 6 Months",
+            "Coe↵."
+          ]
+        },
+        {
+          "value": "1.09",
+          "rowHeaders": [
+            "household activities 2",
+            "Medium/very impaired",
+            "80 years"
+          ],
+          "columnHeaders": [
+            "Table 4. Moderation of intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for and 12",
+            "E↵ect After 6 Months",
+            "SE"
+          ]
+        },
+        {
+          "value": "0.21",
+          "rowHeaders": [
+            "household activities 2",
+            "Medium/very impaired",
+            "80 years"
+          ],
+          "columnHeaders": [
+            "Table 4. Moderation of intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for and 12",
+            "E↵ect After 6 Months",
+            "p"
+          ]
+        },
+        {
+          "value": "2.98",
+          "rowHeaders": [
+            "household activities 2",
+            "Medium/very impaired",
+            "80 years"
+          ],
+          "columnHeaders": [
+            "Table 4. Moderation of intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for and 12",
+            "E↵ect After 12 Months",
+            "Coe↵."
+          ]
+        },
+        {
+          "value": "1.26",
+          "rowHeaders": [
+            "household activities 2",
+            "Medium/very impaired",
+            "80 years"
+          ],
+          "columnHeaders": [
+            "Table 4. Moderation of intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for and 12",
+            "E↵ect After 12 Months",
+            "SE"
+          ]
+        },
+        {
+          "value": "0.02",
+          "rowHeaders": [
+            "household activities 2",
+            "Medium/very impaired",
+            "80 years"
+          ],
+          "columnHeaders": [
+            "Table 4. Moderation of intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for and 12",
+            "E↵ect After 12 Months",
+            "p"
+          ]
+        },
+        {
+          "value": "0.11",
+          "rowHeaders": [
+            "household activities 2",
+            "Middle education",
+            "Low education"
+          ],
+          "columnHeaders": [
+            "Table 4. Moderation of intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for and 12",
+            "E↵ect After 6 Months",
+            "Coe↵."
+          ]
+        },
+        {
+          "value": "0.11",
+          "rowHeaders": [
+            "household activities 2",
+            "Middle education",
+            "Low education"
+          ],
+          "columnHeaders": [
+            "Table 4. Moderation of intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for and 12",
+            "E↵ect After 6 Months",
+            "SE"
+          ]
+        },
+        {
+          "value": "0.32",
+          "rowHeaders": [
+            "household activities 2",
+            "Middle education",
+            "Low education"
+          ],
+          "columnHeaders": [
+            "Table 4. Moderation of intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for and 12",
+            "E↵ect After 6 Months",
+            "p"
+          ]
+        },
+        {
+          "value": "0.13",
+          "rowHeaders": [
+            "household activities 2",
+            "Middle education",
+            "Low education"
+          ],
+          "columnHeaders": [
+            "Table 4. Moderation of intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for and 12",
+            "E↵ect After 12 Months",
+            "Coe↵."
+          ]
+        },
+        {
+          "value": "0.11",
+          "rowHeaders": [
+            "household activities 2",
+            "Medium/very impaired",
+            "Low education"
+          ],
+          "columnHeaders": [
+            "Table 4. Moderation of intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for and 12",
+            "E↵ect After 12 Months",
+            "SE"
+          ]
+        },
+        {
+          "value": "0.24",
+          "rowHeaders": [
+            "household activities 2",
+            "Medium/very impaired",
+            "Low education"
+          ],
+          "columnHeaders": [
+            "Table 4. Moderation of intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for and 12",
+            "E↵ect After 12 Months",
+            "p"
+          ]
+        },
+        {
+          "value": "0.44",
+          "rowHeaders": [
+            "household activities 2",
+            "Middle education"
+          ],
+          "columnHeaders": [
+            "Table 4. Moderation of intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for and 12",
+            "E↵ect After 6 Months",
+            "Coe↵."
+          ]
+        },
+        {
+          "value": "0.17",
+          "rowHeaders": [
+            "household activities 2",
+            "Middle education"
+          ],
+          "columnHeaders": [
+            "Table 4. Moderation of intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for and 12",
+            "E↵ect After 6 Months",
+            "SE"
+          ]
+        },
+        {
+          "value": "0.01",
+          "rowHeaders": [
+            "household activities 2",
+            "Middle education"
+          ],
+          "columnHeaders": [
+            "Table 4. Moderation of intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for and 12",
+            "E↵ect After 6 Months",
+            "p"
+          ]
+        },
+        {
+          "value": "0.22",
+          "rowHeaders": [
+            "household activities 2",
+            "Middle education"
+          ],
+          "columnHeaders": [
+            "Table 4. Moderation of intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for and 12",
+            "E↵ect After 12 Months",
+            "Coe↵."
+          ]
+        },
+        {
+          "value": "0.17",
+          "rowHeaders": [
+            "household activities 2",
+            "Middle education"
+          ],
+          "columnHeaders": [
+            "Table 4. Moderation of intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for and 12",
+            "E↵ect After 12 Months",
+            "SE"
+          ]
+        },
+        {
+          "value": "0.21",
+          "rowHeaders": [
+            "household activities 2",
+            "Middle education"
+          ],
+          "columnHeaders": [
+            "Table 4. Moderation of intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for and 12",
+            "E↵ect After 12 Months",
+            "p"
+          ]
+        },
+        {
+          "value": "0.14",
+          "rowHeaders": [
+            "household activities 2",
+            "Middle education",
+            "High education"
+          ],
+          "columnHeaders": [
+            "Table 4. Moderation of intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for and 12",
+            "E↵ect After 6 Months",
+            "Coe↵."
+          ]
+        },
+        {
+          "value": "0.14",
+          "rowHeaders": [
+            "household activities 2",
+            "Middle education",
+            "High education"
+          ],
+          "columnHeaders": [
+            "Table 4. Moderation of intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for and 12",
+            "E↵ect After 6 Months",
+            "SE"
+          ]
+        },
+        {
+          "value": "0.31",
+          "rowHeaders": [
+            "household activities 2",
+            "Middle education",
+            "High education"
+          ],
+          "columnHeaders": [
+            "Table 4. Moderation of intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for and 12",
+            "E↵ect After 6 Months",
+            "p"
+          ]
+        },
+        {
+          "value": "0.07",
+          "rowHeaders": [
+            "household activities 2",
+            "Middle education",
+            "High education"
+          ],
+          "columnHeaders": [
+            "Table 4. Moderation of intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for and 12",
+            "E↵ect After 12 Months",
+            "Coe↵."
+          ]
+        },
+        {
+          "value": "0.14",
+          "rowHeaders": [
+            "household activities 2",
+            "Middle education",
+            "High education"
+          ],
+          "columnHeaders": [
+            "Table 4. Moderation of intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for and 12",
+            "E↵ect After 12 Months",
+            "SE"
+          ]
+        },
+        {
+          "value": "0.62",
+          "rowHeaders": [
+            "household activities 2",
+            "Middle education",
+            "High education"
+          ],
+          "columnHeaders": [
+            "Table 4. Moderation of intervention e↵ects (Group ⇥ Time interaction) on PA outcomes for and 12",
+            "E↵ect After 12 Months",
+            "p"
+          ]
+        }
+      ],
+      "page": 1
+    }
+  ]
+}

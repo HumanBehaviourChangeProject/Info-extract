@@ -1,0 +1,712 @@
+{
+  "blocks": [
+    {
+      "type": "LINES",
+      "value": "Feasibility and effect of a physical activity counselling session with or without provision of an activity tracker on maintenance of physical activity in women with breast cancer -A randomised controlled trial",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Objectives: The SAFE-Maintain study sought to evaluate the effect and acceptability of a physical activity counselling (PAC) session, versus a PAC session plus provision of a Fitbit (Charge HR ® ; PAC + F), on maintenance of physical activity levels 12 weeks following participation in a supervised exercise intervention. Design: Fifty-two women with stage II + breast cancer who had recently (within the previous 7 days) completed a 12-week supervised exercise program were randomised to the PAC or PAC + F group. Methods: Physical activity levels, including weekly minutes of total physical activity (min/week), daily step count (steps/day), and weekly minutes of moderate to vigorous physical activity (MVPA, min/week), were assessed using the Active Australia survey and Actigraph ® GT3X+ accelerometers. Self-reported outcomes were assessed at baseline and 12-week follow-up, while objectively-measured outcomes were only available at 12-week follow-up. Results: Compared with the PAC group, the PAC + F group had higher self-reported MVPA and self-reported total activity (between-group mean difference: 78.2 [95% CI = −8.3, 164.9] min/week, p < 0.01, and 171.9 [95% CI = 46.1, 297.8] min/week, p < 0.01, respectively) at 12-week follow-up. Higher objectively-assessed MVPA (p = 0.03) and steps/day (p = 0.07) at 12-week follow-up was also observed in the PAC + F group compared with the PAC group. Most (>80%) of the PAC + F group reported high levels of Fitbit use and considered the device to be beneficial for physical activity maintenance. Conclusions: Findings suggest that activity trackers show promise as an effective, feasible and acceptable approach to support physical activity maintenance following completion of a supervised exercise intervention.\nTrial registration: Prospectively registered on the Australian and New Zealand Clinical Trials Registry (ANZCTR, Trial registration number: ACTRN12616000954426).",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "• When using physical activity trackers to support physical activity maintenance, allied health professionals need to work with the patient to ensure they understand how the activity tracker can support goal-setting and monitoring of physical activity.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Increases in physical activity levels, alongside improvements in physiological and functional outcomes, have been observed immediately following participation in supervised exercise interventions involving women with breast cancer. However, declines in physical activity levels have been observed up to 12 months after participation in intervention trials. Higher physical activity levels are associated with improved physical, functional and mental health, as well as higher overall quality of life and survival following breast cancer. As such, there is a clear need to explore strategies which may assist women to remain sufficiently active beyond participation in an exercise intervention.\nThe association between the use of behaviour change theory in physical activity interventions and physical activity levels on completion of the intervention among women with breast cancer was evaluated in a recent systematic review. Findings showed larger effects on physical activity levels immediately post-intervention in studies that involved greater use of behaviour change theory (effect size for use of behaviour change strategies versus limited or no implementation = 0.76 versus 0.28, respectively). Further, in another related systematic review, it was identified that successful maintenance of physical activity levels beyond the intervention period was achieved in trials that implemented a median of five behaviour change techniques. These techniques included (but were not limited to) goal-setting, self-monitoring, feedback and review of goals, and identifying and overcoming barriers.\nPhysical activity trackers have potential to support improvements and maintenance of physical activity levels as their use incorporates goal-setting, feedback and self-monitoring. Over the past 10 years, the popularity of these devices has grown exponentially into a $330+ million (US) industry. Further, findings from a cross-sectional survey on a convenience sample indicated that two in five women with breast cancer own a physical activity tracker. Over the past five years, Fitbits have been one of the most popular physical activity trackers on the market, and are considered feasible, comfortable to wear and easy to use among men with prostate cancer (n = 26), women with endometrial cancer (n = 25), survivors of childhood cancer (n = 60) and women with breast cancer (n = 42). The use of various other physical activity trackers have also been shown to be feasible, acceptable and effective for increasing physical activity specifically among breast cancer survivors. Overall, high satisfaction and positive experiences with physical activity trackers have been reported among cancer cohorts, with self-monitoring and increased awareness of physical activity highlighted as motivating factors when using the devices. , The Fitbit has been evaluated among cancer populations for its ability to increase physical activity in three previous studies. Findings from two of these studies, one a randomised controlled trial (RCT) evaluating a Fitbit plus behaviour change counselling among a sample of women with breast cancer (n = 87) and one a pre-post trial involving women with ovarian cancer (n = 10), showed increases in physical activity associated with the use of a Fitbit. In contrast, results of another RCT evaluating a Fitbitbased intervention among 14-to 18-year-old cancer survivors (n = 60) showed an increase in motivation to be physically active, but no effect on physical activity levels. To date, only one study, involving a sample of mixed cancer types (n = 24), has specifically evaluated the effect of a Fitbit-based intervention on physical activ-ity maintenance following participation in a 12-week, supervised exercise intervention. Findings from this study showed that a Fitbit alongside tailored text messages and brief health coaching sessions was associated with maintenance of physical activity at the 4-week follow-up assessment. The mixed findings, small sample sizes and limited evaluation of the role of a Fitbit for physical activity maintenance, highlights scope for further research and improved understanding in this area. Therefore, the purpose of this 12-week RCT, the SAFE-Maintain study, was to evaluate the effect and feasibility of a physical activity counselling session plus the provision of an activity tracker (PAC + F) versus physical activity counselling alone (PAC), on physical activity maintenance among women with breast cancer who had recently completed participation in a 12-week supervised exercise intervention.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "This study involved a convenience sample of participants who had recently completed participation in a randomised controlled exercise intervention study (the SAFE trial, trial registration number: ACTRN12616000547448). The SAFE trial (n = 60) evaluated the effect of a 12-week intervention, with a weekly exercise target of 150 min of combined aerobic-and resistance-based exercise at moderate to high intensity, delivered over five (n = 30) or 20 (n = 30) supervised sessions (depending on randomisation) with an exercise physiologist. The exercise physiologist developed an individualised exercise prescription that aimed to meet the intervention weekly exercise target while accommodating patient circumstances. Supervised sessions integrated the provision of physical activity behaviour change education and advice including goal-setting, planning, and identifying and overcoming barriers to exercise. Eligibility criteria for the SAFE trial included women with a diagnosis of stage II-IV breast cancer, residing in the greater Brisbane region (urban-based women), who were either currently undergoing treatment for breast cancer or had completed treatment within the previous five years. Participants were also required to be physically inactive (defined as not currently meeting the national physical activity guidelines of 150 min per week of moderate-intensity physical activity) and be diagnosed with at least one other chronic condition/comorbidity (e.g., diabetes) or experiencing at least one persistent, breast cancer treatmentrelated side effect (e.g., fatigue). Participants who completed SAFE were subsequently ineligible to participate in SAFE-Maintain, if at the time of recruitment into this follow-on study, they were planning to become pregnant, undergo additional surgery (e.g., reconstructive), travel during the study period, were unable to provide informed consent, or were newly diagnosed with a medical condition that would prohibit participation in home-based, unsupervised exercise (e.g., unstable hypertension). Ethical approval for this trial was obtained from the Human Research Ethics Committee at the Queensland University of Technology (approval number: HREC 16000 00631).\nFollowing receipt of informed consent, eligible women completed baseline assessments, which included measurement of outcomes and self-reported collection of personal, demographic, clinical and health history information. Comorbidities assessed by self-report included history of cardiovascular disease, hypertension, high cholesterol, high blood glucose, diabetes, heart attack, stroke, emphysema, chronic bronchitis, arthritis, thyroid condition, peripheral vascular disease, osteoporosis, inflammatory condition or asthma. Treatment-related side effects assessed via self-report included (but were not limited to) pain, fatigue, nausea, hair loss, sleep problems, peripheral neuropathy, arthralgia (joint pain), hot flushes and lymphoedema. All participants completed baseline assessment for SAFE-Maintain within 7 days of finishing the SAFE trial. Participants were randomly allocated, using a computerised 1:1 random number generator, to the PAC or PAC + F group, immediately after baseline assessment.\nAll participants (irrespective of group allocation) received one counselling session and a physical activity booklet, with the Theory of Planned Behaviour 21 used as the framework for development of the booklet. An exercise physiologist used the booklet content to guide the one-on-one session (approximate duration: 60 min), with discussions centred around encouraging achievement and maintenance of engaging in 150 min per week of moderate-intensity (or higher if appropriate) combined aerobic-and resistance-based exercise. Examples of topics covered during the counselling session included how to maintain physical activity in the presence of breast cancer treatment-related side effects, goal setting, identifying and problem-solving barriers, and using motivators to stay active. Discussions represented reinforcement of advice and education received during participation in the SAFE trial. Participants were advised to use the booklet during the follow-up study period as desired and at a self-selected pace.\nParticipants allocated to the PAC + F group received an activity tracker (Model: Fitbit ® Charge HR: Fitbit Inc., San Francisco, California) for use throughout the 12-week follow-up period. Participants received basic instruction on using and setting-up the Fitbit, and brief advice on interpreting data and using the Fitbit to support physical activity. This included: (1) how to use the basic functions of the Fitbit (including charging the battery); (2) how to interpret basic features (e.g., step counts, heart rate); (3) looking at the data displayed on the Fitbit to self-monitor physical activity (e.g. step counts); and (4) a brief explanation on how to use the associated website and mobile-device application. No specific physical activity goals based around the Fitbit were provided, although minimal advice on how the Fitbit could be used to support goal-setting that was outlined in the booklet was integrated into the session on an individualised basis (e.g., \"You may decide to use the Fitbit to monitor your steps and distance during your morning walk\"). Participants were told that they could use their device (and its associated website and mobile-device application) as desired to self-monitor and manage their physical activity in whatever way that was deemed useful to them during the follow-up period. There was no further scheduled contact between study staff and participants during the 12-week follow-up period, unless a participant was reporting an adverse event or experienced technical difficulties with their Fitbit and needed assistance.\nThe primary outcome of interest was physical activity levels, which were evaluated using a self-report questionnaire (at baseline and 12-week follow-up) and objective assessment (at 12-week follow-up). Self-reported physical activity was assessed using the Active Australia Survey. The questionnaire assesses weekly minutes of walking, moderate and vigorous activities, and household and gardening activities (in the past 7 days), and has been shown to have moderate test-retest reliability (Kappa = 0.52), with correlations ranging between 0.56 for moderate-intensity activity to 0.64 for overall minutes of activity. Outcomes obtained using the Active Australia questionnaire included minutes per week of moderate-intensity activity; minutes per week of vigorousintensity activity; self-reported moderate to vigorous physical activity (S-MVPA), calculated as the sum of minutes spent doing moderate and vigorous (weighted by two) activities; and total activity, calculated by summing minutes reported for walking, moderate and vigorous activity (weighted by two; noting that values >1680 min per week were truncated to reduce overreporting). Total activity was then reported as a continuous variable (minutes per week) and categorical variables, by reporting proportion (n, %) of participants meeting physical activity guidelines of at least 150 min per week of total S-MVPA and total activity. Further, participants were also categorised according to whether they maintained, or increased or decreased their S-MVPA and total activity by >30 min per week between baseline and the 12-week follow-up.\nObjectively-measured physical activity was collected using a tri-axial accelerometer (Actigraph ® GT3X+). Participants were instructed to wear the accelerometer on their hip at all times, excluding sleep and water-based activities during week 12 (that is, for 7 days) of the 12-week follow-up period. Data were then downloaded using the Actigraph ® software (ActiLife ® , version 6.10.2) and screened for completeness and irregularities. A minimum of 10 h per day was used as the cut-off fora valid day of measurement and a minimum of 4 days of data were required. Bouts of ≥90 min of zero counts per minute (allowing for <3 min of 1-49 counts per minute) were coded as non-wear time. Activity minutes were analysed as minutes per week for consistency with the intervention objective of 150 min per week. The accelerometer recorded the maximum activity count in 60 s epochs at a sampling rate of 80 Hz, providing data on time spent in light, moderate, and vigorous physical activity, as well as steps. Standard calibration thresholds were used to aggregate data into minutes per week of moderate and vigorous activity using the Freedson cut-points. The cut-points were: sedentary (≤100 counts), light (101-1951), moderate (1952-5724), or vigorous (>5725). All minutes with ≥1952 count per minute were classified as MVPA and were summed for each day and averaged across valid days, then multiplied by seven to compute a weekly value. The average step counts from valid wear days was used to compute steps per day. Outcomes derived from the Actigraph ® accelerometer included objectively-measured MVPA (O-MVPA) at 12-weeks (as determined by moderate-intensity minutes per week plus vigorous intensity minutes per week), daily steps at 12 weeks (steps per day), and proportions (n, %) of participants meeting physical activity guidelines of at least 150 min per week of moderate to vigorous intensity physical activity at 12 weeks.\nThe Fitbit was considered feasible if all the following criteria were met:\n1 Participants wore the Fitbit for 10 or more hours a day on at least five out of seven days in an average week (based on group mean); 2 >80% of participants found the Fitbit easy to use; 3 >80% of participants found the Fitbit comfortable to wear; 4 >80% of participants were satisfied with the Fitbit as a means of supporting physical activity maintenance; 5 >80% participants would continue to use the Fitbit in future.\nWhile the 80% cut-point is somewhat arbitrary, if met, results will indicate that the majority of the sample find the Fitbit feasible. This cut-point is also inline with the cut-points used by others to determine feasibility of activity monitor use among women with breast cancer. Acceptability of the Fitbit was assessed by evaluating the use of the device, as well as likes, dislikes and barriers experienced by the participants, as recorded through a participantcompleted satisfaction questionnaire at the 12-week follow-up. The satisfaction questionnaire included questions relating to frequency of use and features that participants liked and disliked.\nBaseline characteristics and continuous outcomes were assessed for normality and are described using means and standard deviations (SDs) for normally distributed outcomes and medians (minimum, maximum) for non-normally distributed outcomes. Categorical outcomes were described using n (%). Continuous outcomes were modelled using generalised estimating equations (GEE) to evaluate time (baseline and 12-week follow-up) and group (PAC and PAC + F) effects, and the time × group interaction. Means and 95% confidence intervals (CI) were reported for each estimate. GEEs were considered the most appropriate modelling technique because it can accommodate non-parametric data and unlike traditional repeated measures approaches, incorporates all available baseline and follow-up data (that is, participants with missing data remain in the model). Due to non-normal distribution, objectively-measured physical activity assessed at 12-week follow-up was compared between groups using the Mann-Whitney test. Between group comparisons were undertaken to compare (1) the proportions of participants meeting physical activity guidelines at 12-week follow-up in each group based on S-MVPA, O-MVPA and total activity; and (2) the proportions of participants that either increased, decreased or maintained their physical activity levels during the 12-week period in each group using Chi-square tests. Statistical significance was set at 0.05 and all analyses were completed using SPSS statistical software (Version 22.0, IBM corporation, Somers, NY, USA). For S-MVPA, 30 min per week was considered a clinically meaningful change. With a sample size of 52 participants (n = 26 per group), the study had 65% power (5% significance, two-sided) to detect a 30 min per week (SD = 100) difference in total activity as statistically significant.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Fifty-four participants completed the SAFE trial and were eligible for entry into this follow-up study (Supplementary Fig.). Of these, two women refused consent (declined to participate due to disease progression, n = 1; declined to participate due to commencing new treatment, n = 1). A total of 52 women consented, completed baseline assessment and were subsequently randomised into the PAC + F or PAC group (Supplementary Fig.). Baseline demographic and clinical characteristics between the SAFE sample (n = 60) and subsequent SAFE-Maintain sample (n = 52) were similar (data not shown). One participant in the PAC group was lost to follow-up (uncontactable), resulting in no 12week follow-up data. Objective assessment of physical activity was missing for one participant in the PAC + F group at the 12-week follow-up (participant forgot to wear device). There were no other missing data and no adverse events reported during the 12-week period.\nRandomisation achieved balance in the majority of personal, medical and lifestyle characteristics between groups at baseline, except for employment, private health cover, smoking history and previous intervention group in the initial SAFE study, which had absolute between group differences of greater than 10% (Table). An equal proportion of participants between groups were meeting recommended physical activity levels consistent with national guidelines at the start of SAFE-Maintain. O-MVPA (p = 0.03) and high-intensity activity (p = 0.02) were higher for those in the PAC + F group at the 12-week follow-up compared with the PAC group (Table). Daily steps and moderateintensity activity were also higher for those in the PAC + F versus the PAC group at 12-weeks follow-up, but findings were not supported statistically. Results of self-reported physical activity showed significant group by time interactions for weekly minutes of walking, moderate-intensity physical activity, S-MVPA and total physical activity (all p < 0.01, Table). The PAC group showed statistically significant reductions in self-reported walking (mean change: −100.   At 12-week follow-up, the proportions of participants who were undertaking physical activity levels recommended by national guidelines in the PAC and PAC + F groups were respectively 52% and 77% for self-reported total activity, 12% and 38% for S-MVPA and 36% and 64% for O-MVPA (Supplementary Fig.). Supplementary Fig. shows the proportions of participants in each group that either increased or decreased their physical activity (by 30 minor more per week), or remained stable between baseline and 12-week follow-up. In the PAC and PAC + F groups, 28% and 42% reported an increase in total self-reported physical activity, respectively (increases ranged between 30-120 min per week for participants in the PAC, and between 45-375 min per week for PAC + F), while 64% (PAC) and 50% (PAC + F) reported decreases (ranging between 50-408 min per weeks for PAC and between 30-210 min per week for PAC + F participants, respectively). For S-MVPA, 20% (PAC) and 35% (PAC + F) showed an increase, while 44% (PAC) and 42% (PAC + F) reported decreases.\nMost PAC + F participants reported wearing the Fitbit 'Most of the time' or 'Always' (n = 22, 80.8%) during the 12-week period. Mean wear time was 17.3 (SD = 5.7) hours per day (out of 24 h per day) and 6.1 (SD = 0.8) days per week (out of 7 days per week). The two most common reasons for not wearing the Fitbit on certain days were due to the device requiring charging or low battery (n = 17, 65.4%) and forgetting to wear it (n = 12, 46.2%). One participant (4%) reported not regularly wearing the Fitbit due to skin irritation or discomfort.\nMost participants responded 'Somewhat' or 'Very much' when asked if using the Fitbit helped to increase their physical activity (n = 18, 69%), assist with self-monitoring (n = 21, 81%) and meet their physical activity targets (n = 19, 73%) during the follow-up period. In the final week of the intervention, most participants (n = 20, 77%) reported that the Fitbits caused them to increase their physical activity, whereas three (12%) participants reported that it caused them to reduce their physical activity.\nThe most commonly viewed feature or measure was daily steps, with over half of participants (n = 15, 58%) viewing daily stepson the display screen four or more times per day. The least viewed measure was energy expenditure, with over half of participants (n = 15, 58%) not looking at their energy expenditure in atypical day. When looking at the display screen to view their physical activity data, the most common reason was to determine whether they had reached their daily physical activity goal (n = 19, 73%).\nAlmost half of participants (n = 11, 42%) uploaded their data onto a computer or smartphone at least once per week, and 10 (39%) participants viewed their data at least once per week (n = 5, 19% participants did not upload their data; n = 6, 23% did not view their data). The most common reasons for using the website or mobile application were to look at their physical activity graphs in more specific detail (n = 17, 65%), to look at their progress over the 12 weeks (n = 12, 46%), and because the graphs and daily/weekly/monthly summaries were an easy way to monitor physical activity overtime (n = 10, 38%).\nPositive aspects of the Fitbit identified in relation to physical activity maintenance were the ability to use the Fitbit as part of goal-setting, and that Fitbit data enabled self-monitoring, provided a sense of achievement and was motivational. Major themes that were identified in terms of limitations of the Fitbit was the inability to monitor certain activities, including water-based exercise and resistance exercise, forgetting to wear the device, having to charge it regularly or forgetting to charge it, and technical difficulties with uploading physical activity data using the website or mobile application.\nMost participants reported that the Fitbit was easy to use (n = 24, 92%), and comfortable to wear (n = 22, 84%). Overall, participants were satisfied with how the device assisted them to meet their weekly physical activity goals (n = 23, 88%). Twenty-five participants (96%) said they would continue to use an activity tracker in the future. A summary of all feasibility and acceptability outcomes with respect to the predefined criteria are shown in Supplementary Table. All five pre-defined criteria for feasibility were met.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "These findings suggest that those who received an activity tracker, alongside a one-off physical activity counselling session, had, on average, higher physical activity levels at 12-week followup, compared with participants who did not receive an activity tracker. Further, nearly two-thirds (64%) of those who did not receive the activity tracker showed clinically relevant reductions in their physical activity during the 12-week follow-up period, with the mean reduction in S-MVPA estimated at 81 min per week. Nonetheless, provision of an activity tracker was insufficient for maintaining physical activity levels for all participants; up to one in two participants in the PAC + F group also showed clinically relevant declines in physical activity by the 12-week follow-up, despite mean activity levels for the group remaining stable. The previously established association between physical activity levels and health outcomes following breast cancer highlights the importance of finding acceptable and feasible strategies which can prevent declines in physical activity that typically occur following participation in an exercise intervention.\nAt time of enrolment in this trial, participants had just completed participation in the SAFE trial. This meant participants had either received five or 20 supervised sessions with an exercise physiologist over the preceding 12 weeks. Irrespective of the degree of supervision, all participants received the same behaviour change advice, although this occurred less frequently and in a more  compressed form for those who received five sessions with an exercise physiologist compared with those who received 20 sessions. Recently, it has been reported that higher levels of supervision during an exercise intervention (24 weeks supervised + 24 weeks unsupervised compared with 48 weeks of unsupervised exercise) lead to greater positive effects on physical activity levels at 48 weeks follow-up among women with breast cancer. There was no evidence to support that our 12-week follow-up physical activity findings were influenced by the degree of supervision received as part of the SAFE trial. This may suggest that the use of activity trackers, such as a Fitbit, may promote longer-term maintenance irrespective of the previous level of exercise supervision and exposure to behaviour change strategies. We also observed an average increase of 26 min per week of walking in those in the PAC + F group at the 12-week follow-up. This is consistent with previous findings that have suggested pedometers and activity trackers appear effective at promoting walking, which was the preferred exercise mode and most commonly prescribed mode for the participants in the SAFE and SAFE-Maintain trials.\nFindings shown here demonstrate that changes in group means may misrepresent the effects that occur at the individual level. Specifically, while mean physical activity levels for those in the PAC + F group were stable, 50% of PAC + F participants showed a reduction in weekly physical activity levels by >30 min per week at the 12-week follow-up. These individual changes suggest the need for more research to help understand who benefits from what tools and strategies, and why, and how this information can then be used to help most women stay active for the longer term. As is the case with exercise prescription, the provision of longer-term physical activity behaviour change strategies, such as the use of an activity tracker and physical activity counselling, also needs to be targeted and individualised.\nRecruitment and retention in this study was high (96% and 98%, respectively). This was expected given the motivated convenience sample eligible for participation, and since time requirements of study participation were low. Similarly, previous trials that have evaluated Fitbit- and pedometer-based interventions among women with breast cancer (but that have required greater time commitments from participants compared with SAFE-Maintain) have also reported high recruitment and retention rates (ranging between 70% to 90%). Nonetheless, it is important to consider the circumstances of the two participants who completed SAFE but refused to participate in this follow-up study. One woman declined to participate due to disease progression, while the other stated reasons relating to commencing new treatments. It is plausible that these two women were at greatest risk of experiencing declines in physical activity levels and other health outcomes, potentially biasing the observed results in the least conservative direction. Moreover, one participant in the PAC group was lost to follow-up. This participant was also more likely to have experienced a reduction in physical activity during this time. As such, omission of her data may have meant that physical activity levels of the PAC group were higher at 12 weeks than they would have been with inclusion of her data. This potential recruitment and retention bias suggest that women inmost need for longer-term advice and support may also be the most difficult to engage.\nThe Fitbit was considered an acceptable strategy for helping to maintain physical activity in this study sample. This is consistent with previous findings from studies involving women with breast cancer. Participants in the PAC + F group liked the simple features of the activity trackers (e.g., the clear and achievable step-goal display, instant feedback and ease of use). In line with previous findings among women with breast cancer, most PAC + F participants (69-73%) said the device assisted with self-monitoring and meeting their activity goals. This supports the previous findings that devices may encourage greater awareness of behaviour when an individual attends to feedback from the device. Other positive aspects identified from using the Fitbit were related to improved self-awareness of physical activity levels and motivation to be physically active, and that the information provided by the activity tracker was useful for goal-setting, feedback related to goals and providing a sense of achievement. Most (>90%) PAC + F participants expressed an interest to continue using an activity tracker in the future, suggesting that individuals with breast cancer can easily integrate Fitbits in their daily lives.\nMost participants (>80%) were able to use the basic features of the Fitbit device with ease. However, low battery and forgetting to wear the Fitbit were common, while one participant (4%) reported some discomfort with wearing the device. A notable dislike was the limited ability of the Fitbit to monitor and record certain activities, mostly non-walking-based activities. It seems plausible that provision of individualised instruction on how to most effectively use the Fitbit in the context of an individual's physical activity goals may have improved Fitbit use and effect on maintaining physical activity levels for some participants.\nThis study involved recruiting a convenience sample of participants who had recently completed participation in a 12-week supervised intervention that involved a target of 150 min per week of moderate-intensity combined aerobic-and resistance-based exercise. As such, generalisability of the study findings maybe limited to women with breast cancer who are newly, sufficiently active. While findings reported here were derived from underpowered analyses, clinically important differences were observed between the groups at the 12-week follow-up, in favour of the PAC + F intervention. It is unclear whether these benefits, derived from the use of a Fitbit, would be the same for women who had not previously been exposed to the SAFE intervention. Nonetheless, prior to participation in the SAFE study, the sample recruited were insufficiently physical active or sedentary and all participants were experiencing at least one additional chronic disease or comorbidity, or at least one persistent treatment-related side effect. As such, the recruited sample was arguably at risk of declines on commencement of this follow-up study, and findings suggest that implementation of a Fitbit as part of a low-intensive intervention is a potential approach to support physical activity maintenance. Finally, the SAFE-Maintain follow-up period was relatively short. Achieving the maintenance stage of behaviour change can take nine months to years for individuals and it is plausible that the potential longer-term effect of a Fitbit on physical activity maintenance is less than that observed here, highlighting an area warranting future research attention. Nonetheless, SAFE-Maintain is the first study in the breast cancer survivorship setting to specifically evaluate the potential role of providing an activity tracker at the point of supervision cessation on physical activity maintenance.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The positive, albeit preliminary findings, highlight that activity trackers maybe a cost-effective and feasible strategy for promotion of longer-term physical activity. As newer models of physical activity devices are released on the market regularly, with newer devices typically including innovative technology and features (e.g. extended battery life, individualised goal-setting) and updated designs, their potential for making a difference to physical activity levels may continue to improve. Overall, these findings suggest that activity trackers show promise as an effective, feasible and acceptable method to support physical activity maintenance following completion of a supervised exercise intervention.\n",
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "52.8 (9.5)",
+          "rowHeaders": [
+            "Age (years), mean (SD)",
+            "Previously (prior to diagnosis, yes)"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "PAC",
+            "N = 26"
+          ]
+        },
+        {
+          "value": "49.5 (8.6)",
+          "rowHeaders": [
+            "Age (years), mean (SD)",
+            "Previously (prior to diagnosis, yes)"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "PAC + F",
+            "N = 26"
+          ]
+        },
+        {
+          "value": "48.9 (11.3)",
+          "rowHeaders": [
+            "Age at diagnosis (years), mean (SD)",
+            "Previously (prior to diagnosis, yes)"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "PAC",
+            "N = 26"
+          ]
+        },
+        {
+          "value": "47.3 (8.0)",
+          "rowHeaders": [
+            "Age at diagnosis (years), mean (SD)",
+            "Previously (prior to diagnosis, yes)"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "PAC + F",
+            "N = 26"
+          ]
+        },
+        {
+          "value": "2 ), mean (SD)",
+          "rowHeaders": [
+            "Age (years), mean (SD)",
+            "Divorced/separated"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "PAC",
+            "N = 26"
+          ]
+        },
+        {
+          "value": "28.5 (5.2)",
+          "rowHeaders": [
+            "Body mass index (kg/m",
+            "Previously (prior to diagnosis, yes)"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "PAC",
+            "N = 26"
+          ]
+        },
+        {
+          "value": "28.7 (6.0)",
+          "rowHeaders": [
+            "Body mass index (kg/m",
+            "Previously (prior to diagnosis, yes)"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "PAC + F",
+            "N = 26"
+          ]
+        },
+        {
+          "value": "0 (0.0%)",
+          "rowHeaders": [
+            "Previously (prior to diagnosis, yes)"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "PAC",
+            "N = 26"
+          ]
+        },
+        {
+          "value": "0 (0.0%)",
+          "rowHeaders": [
+            "Previously (prior to diagnosis, yes)"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "PAC + F",
+            "N = 26"
+          ]
+        },
+        {
+          "value": "6 (23.1%)",
+          "rowHeaders": [
+            "Age at diagnosis (years), mean (SD)",
+            "Previously (prior to diagnosis, yes)"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "PAC",
+            "N = 26"
+          ]
+        },
+        {
+          "value": "2 (7.7%)",
+          "rowHeaders": [
+            "Single"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "PAC",
+            "N = 26"
+          ]
+        },
+        {
+          "value": "4 (15.5%)",
+          "rowHeaders": [
+            "Single"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "PAC + F",
+            "N = 26"
+          ]
+        },
+        {
+          "value": "6 (23.1%)",
+          "rowHeaders": [
+            "Divorced/separated"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "PAC",
+            "N = 26"
+          ]
+        },
+        {
+          "value": "3 (11.5%)",
+          "rowHeaders": [
+            "Divorced/separated"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "PAC + F",
+            "N = 26"
+          ]
+        },
+        {
+          "value": "1 (3.8%)",
+          "rowHeaders": [
+            "Widowed"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "PAC",
+            "N = 26"
+          ]
+        },
+        {
+          "value": "1 (3.8%)",
+          "rowHeaders": [
+            "Widowed"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "PAC + F",
+            "N = 26"
+          ]
+        },
+        {
+          "value": "9 (34.6%)",
+          "rowHeaders": [
+            "High school (Grade 12 or lower)"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "PAC",
+            "N = 26"
+          ]
+        },
+        {
+          "value": "9 (34.6%)",
+          "rowHeaders": [
+            "High school (Grade 12 or lower)"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "PAC + F",
+            "N = 26"
+          ]
+        },
+        {
+          "value": "9 (34.6%)",
+          "rowHeaders": [
+            "Trade, certificate or diploma"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "PAC",
+            "N = 26"
+          ]
+        },
+        {
+          "value": "8 (30.8%)",
+          "rowHeaders": [
+            "Trade, certificate or diploma"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "PAC + F",
+            "N = 26"
+          ]
+        },
+        {
+          "value": "8 (30.8%)",
+          "rowHeaders": [
+            "Bachelor's degree or higher degree"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "PAC",
+            "N = 26"
+          ]
+        },
+        {
+          "value": "9 (34.6%)",
+          "rowHeaders": [
+            "Bachelor's degree or higher degree"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "PAC + F",
+            "N = 26"
+          ]
+        },
+        {
+          "value": "7 (26.9%)",
+          "rowHeaders": [
+            "Full-time"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "PAC",
+            "N = 26"
+          ]
+        },
+        {
+          "value": "4 (15.4%)",
+          "rowHeaders": [
+            "Full-time"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "PAC + F",
+            "N = 26"
+          ]
+        },
+        {
+          "value": "2 (7.7%)",
+          "rowHeaders": [
+            "Part-time"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "PAC",
+            "N = 26"
+          ]
+        },
+        {
+          "value": "1 (3.8%)",
+          "rowHeaders": [
+            "Casual"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "PAC",
+            "N = 26"
+          ]
+        },
+        {
+          "value": "0 (0.0%)",
+          "rowHeaders": [
+            "Casual"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "PAC + F",
+            "N = 26"
+          ]
+        },
+        {
+          "value": "5 (19.2%)",
+          "rowHeaders": [
+            "Retired"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "PAC",
+            "N = 26"
+          ]
+        },
+        {
+          "value": "1 (3.8%)",
+          "rowHeaders": [
+            "Retired"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "PAC + F",
+            "N = 26"
+          ]
+        },
+        {
+          "value": "9.2 (12.5)",
+          "rowHeaders": [
+            "Number of work hours in paid"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "PAC",
+            "N = 26"
+          ]
+        },
+        {
+          "value": "12.9 (14.5)",
+          "rowHeaders": [
+            "Number of work hours in paid"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "PAC + F",
+            "N = 26"
+          ]
+        },
+        {
+          "value": "9 (34.6%)",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 1",
+            "PAC + F",
+            "N = 26"
+          ]
+        },
+        {
+          "value": "7 (26.9%)",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 1",
+            "PAC",
+            "N = 26"
+          ]
+        },
+        {
+          "value": "5 (19.2%)",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 1",
+            "PAC",
+            "N = 26"
+          ]
+        },
+        {
+          "value": "3 (11.5%)",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 1",
+            "PAC + F",
+            "N = 26"
+          ]
+        },
+        {
+          "value": "4 (15.4%)",
+          "rowHeaders": [
+            "Missing"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "PAC",
+            "N = 26"
+          ]
+        },
+        {
+          "value": "2 (7.7%)",
+          "rowHeaders": [
+            "Missing"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "PAC + F",
+            "N = 26"
+          ]
+        },
+        {
+          "value": "9 (34.6%)",
+          "rowHeaders": [
+            "III"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "PAC",
+            "N = 26"
+          ]
+        },
+        {
+          "value": "3 (11.5%)",
+          "rowHeaders": [
+            "IV"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "PAC",
+            "N = 26"
+          ]
+        },
+        {
+          "value": "2 (7.7%)",
+          "rowHeaders": [
+            "IV"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "PAC + F",
+            "N = 26"
+          ]
+        },
+        {
+          "value": "2 (7.7%)",
+          "rowHeaders": [
+            "Missing"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "PAC",
+            "N = 26"
+          ]
+        },
+        {
+          "value": "2 (7.7%)",
+          "rowHeaders": [
+            "Missing"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "PAC + F",
+            "N = 26"
+          ]
+        },
+        {
+          "value": "8 (30.8%)",
+          "rowHeaders": [
+            "Right"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "PAC + F",
+            "N = 26"
+          ]
+        },
+        {
+          "value": "2 (7.6%)",
+          "rowHeaders": [
+            "Both"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "PAC",
+            "N = 26"
+          ]
+        },
+        {
+          "value": "3 (11.5%)",
+          "rowHeaders": [
+            "Both"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "PAC + F",
+            "N = 26"
+          ]
+        },
+        {
+          "value": "3 (11.5%)",
+          "rowHeaders": [
+            "Chemotherapy"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "PAC",
+            "N = 26"
+          ]
+        },
+        {
+          "value": "1 (3.8%)",
+          "rowHeaders": [
+            "Chemotherapy"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "PAC + F",
+            "N = 26"
+          ]
+        },
+        {
+          "value": "1 (3.8%)",
+          "rowHeaders": [
+            "Radiotherapy"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "PAC",
+            "N = 26"
+          ]
+        },
+        {
+          "value": "1 (3.8%)",
+          "rowHeaders": [
+            "Radiotherapy"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "PAC + F",
+            "N = 26"
+          ]
+        },
+        {
+          "value": "3 (11.6%)",
+          "rowHeaders": [
+            "Current"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "PAC",
+            "N = 26"
+          ]
+        },
+        {
+          "value": "1 (3.8%)",
+          "rowHeaders": [
+            "Current"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "PAC + F",
+            "N = 26"
+          ]
+        },
+        {
+          "value": "1 (3.8%)",
+          "rowHeaders": [
+            "Current"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "PAC",
+            "N = 26"
+          ]
+        },
+        {
+          "value": "1 (3.8%)",
+          "rowHeaders": [
+            "Current"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "PAC + F",
+            "N = 26"
+          ]
+        },
+        {
+          "value": "2 (7.1%)",
+          "rowHeaders": [
+            "Herceptin"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "PAC",
+            "N = 26"
+          ]
+        },
+        {
+          "value": "3 (11.5%)",
+          "rowHeaders": [
+            "Herceptin"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "PAC + F",
+            "N = 26"
+          ]
+        },
+        {
+          "value": "1 (3.8%)",
+          "rowHeaders": [
+            "Time since treatment completion in",
+            "Herceptin and immunotherapy"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "PAC",
+            "N = 26"
+          ]
+        },
+        {
+          "value": "0 (0%)",
+          "rowHeaders": [
+            "Time since treatment completion in",
+            "Herceptin and immunotherapy"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "PAC + F",
+            "N = 26"
+          ]
+        },
+        {
+          "value": "9 (1, 47)",
+          "rowHeaders": [
+            "Time since treatment completion in"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "PAC + F",
+            "N = 26"
+          ]
+        },
+        {
+          "value": "3.5 (1.7)",
+          "rowHeaders": [
+            "Mean (SD)"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "PAC",
+            "N = 26"
+          ]
+        },
+        {
+          "value": "2.5 (1.7)",
+          "rowHeaders": [
+            "Mean (SD)"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "PAC + F",
+            "N = 26"
+          ]
+        }
+      ],
+      "page": 1
+    }
+  ]
+}

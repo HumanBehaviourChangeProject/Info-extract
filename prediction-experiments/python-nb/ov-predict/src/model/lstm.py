@@ -2,7 +2,7 @@ from keras.layers import LSTM, Bidirectional
 from keras.models import Sequential
 from keras.layers import Dropout
 from keras import layers
-from tensorflow.keras import backend as K
+from keras import backend as K
 
 OPTIMIZER='rmsprop'
 ACTIVATION='sigmoid'
@@ -14,7 +14,7 @@ LSTM_DIM=64 # LSTM Encoding size
 FILTER_SIZE=32
 
 def rmse(y_true, y_pred):
-        return K.sqrt(K.mean(K.square(y_pred - y_true)))
+    return K.sqrt(K.mean(K.square(y_pred - y_true)))
  
 def buildModel(num_classes, vsize, emb_dim, maxlen, emb_matrix, bidirectional=True):
     if (num_classes > 0):
@@ -46,7 +46,7 @@ def buildModel(num_classes, vsize, emb_dim, maxlen, emb_matrix, bidirectional=Tr
     #model.add(layers.Dense(20, activation=ACTIVATION))
     model.add(layers.Dense(output_dim, activation=activation_fn, name='output_vals'))
     model.compile(optimizer=OPTIMIZER,
-                  loss = loss_fn,
+                  loss=loss_fn,
                   metrics=eval_metrics)
     model.summary()
     return model

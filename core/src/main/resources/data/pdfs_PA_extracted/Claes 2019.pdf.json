@@ -1,0 +1,2249 @@
+{
+  "blocks": [
+    {
+      "type": "LINES",
+      "value": "Feasibility, Acceptability, and Clinical Effectiveness of a Technology-Enabled Cardiac Rehabilitation Platform (Physical Activity Toward Health-I): Randomized Controlled Trial",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Background: Cardiac rehabilitation (CR) is highly effective as secondary prevention for cardiovascular diseases (CVDs). Uptake of CR remains suboptimal (30% of eligible patients), and long-term adherence to a physically active lifestyle is even lower. Innovative strategies are needed to counteract this phenomenon. Objective: The Physical Activity Toward Health (PATHway) system was developed to provide a comprehensive, remotely monitored, home-based CR program for CVD patients. The PATHway-I study aimed to investigate its feasibility and clinical efficacy during phase III CR. Methods: Participants were randomized on a 1:1 basis to the PATHway (PW) intervention group or usual care (UC) control group in a single-blind, multicenter, randomized controlled pilot trial. Outcomes were assessed at completion of phase II CR and 6-month follow-up. The primary outcome was physical activity (PA; Actigraph GT9X link). Secondary outcomes included measures of physical fitness, modifiable cardiovascular risk factors, endothelial function, intima-media thickness of the common carotid artery, and quality of life. System usability and patients' experiences were evaluated only in PW. A mixed-model analysis of variance with Bonferroni adjustment was used to analyze between-group effects overtime. Missing values were handled by means of an intention-to-treat analysis. Statistical significance was set at a 2-sided alpha level of .05. Data are reported as mean (SD). Results: A convenience sample of 120 CVD patients (mean 61.4 years, SD 13.5 years; 22 women) was included. The PATHway system was deployed in the homes of 60 participants. System use decreased overtime and system usability was average with a score of 65.7 (SD 19.7;",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Globally, cardiovascular disease (CVD) is responsible for over 17.3 million deaths annually and accounts for 45% of noncommunicable deaths. In Europe, over 1.4 million people die prematurely from cardiovascular-related diseases with a projected 25% increase in the incidence of CVD by 2030. Cardiac rehabilitation (CR) is an important component of the current multidisciplinary approach to the management of patients with various presentations of CVD. Despite the growing evidence of the benefits and importance of CR, uptake remains low with only 30% of eligible patients taking part in an ambulatory center-based CR program and only 50% of those maintaining an active lifestyle 6 months after completion of the program.\nThe reason for low participation rate is multifactorial and includes time constraints, poor accessibility, transportation issues, lack of motivation to change behavior, and low self-efficacy. Home-based programs have proven to be safe and effective and have enormous potential to widen access to CR. Furthermore, home-based CR increases self-efficacy to participate in exercise, leading to better adherence to a physically active lifestyle in comparison with usual care groups. However, home-based CR interventions often fail to combine the core components of center-based CR into one intervention. These core components are identified as exercise, education, and psychosocial support.\nWearable sensors, often worn as a wristband or embedded in a smartwatch or mobile phone, are now ubiquitous and provide real-time activity and physiological information that allows patients to monitor and adjust physical activity (PA) levels and exercise intensity to meet their rehabilitation goals. Many CVD patients have internet access, use wearable sensors, and have a high interest in technology-enabled home-based CR. In addition, low cost, motion-capturing cameras can facilitate the execution of appropriate movement patterns in the home. Frederix et al identified telemonitoring, e-learning, telecoaching, and social networking as the main focus areas of an effective telerehabilitation intervention, but only 16% of publications about telerehabilitation combined 2 focus areas and only 5% combined more than 2 focus areas.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Physical Activity Toward Health (PATHway) was developed as an innovative internet-enabled, personalized exercise platform that incorporates all the core components of CR as well as all focus areas of telerehabilitation. It provides regular exercise sessions as the basis upon which to provide a personalized, comprehensive lifestyle intervention program to enable patients to self-manage their CVD and to lead a healthier lifestyle in general. The aim of this trial was to assess the feasibility, acceptance, and short-term clinical effectiveness of the PATHway system for maintaining PA and physical fitness of patients with CVD after completion of an ambulatory center-based CR program.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The PATHway-I trial is a single-blind parallel 2-group randomized controlled multicenter pilot study (identifier at ClinicalTrials.gov: NCT02717806) with participant recruitment from 3 European hospitals (University hospitals Leuven [Belgium], Mater Misericordiae University hospital in Dublin, and Beaumont University hospital in Dublin [Ireland]), and measurements were performed between May 2017 and July 2018. The study protocol was approved by the ethics committees of UZ Leuven/KU Leuven (Belgium; S59023), the Research Ethics Committees of both Irish hospitals (1/378/1846), and the ethics committee of Dublin City University (DCU; REC2016/123), Ireland. The study adhered to the guidelines set forth by the declaration of Helsinki, and participants provided written informed consent before inclusion. The PATHway-I trial was conducted and reported in accordance with the Consolidated Standards of Reporting Trials guidelines. Our full trial protocol has been published previously.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "A convenience sample of 120 eligible patients with CVD (aged 40-80 years) was randomized on a 1:1 basis, stratified by country, to usual care control group (UC) or PATHway intervention group (PW) during the last 4 weeks of a phase II outpatient CR program. The randomization schedules were generated for the different centers using a computerized random number generator.\nThe inclusion and exclusion criteria have been reported previously. To be eligible, patients between 40 and 80 years had to have documented CVD for which they were enrolled for the first time in a CR program. Patients needed to be medically and pharmacologically stable and had to have internet access and sufficient space at home for deployment of the PATHway system.\nExclusion criteria were significant illness during the last 6 weeks, known severe ventricular arrhythmia with functional or prognostic significance, significant myocardial ischemia, hemodynamic deterioration or exercise-induced arrhythmia at baseline testing, cardiac disease that limits exercise tolerance (valve disease with significant hemodynamic consequences, hypertrophic cardiomyopathy, etc), comorbidity that may significantly influence 1-year prognosis, functional or mental disability that may limit exercise, acute or chronic inflammatory diseases or malignancy, the use of anti-inflammatory drugs or immune suppression, severe chronic obstructive pulmonary disease (forced expiratory volume in 1 second <50%), New York Heart Association class 4, and participation in another clinical trial.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "A detailed description of the PATHway system and its development can be found in. During the last 4 weeks of their ambulatory, center-based phase II CR program, participants allocated to PW enrolled in a weekly familiarization session alongside their standard CR to get acquainted with the PATHway intervention. At the same time, the PATHway system was also installed in the participant's home, and participants were encouraged to interact with the system between familiarization sessions. Figure depicts the flow of participant enrollment in the study and describes the content of each familiarization session. After completion of the center-based CR program, participants completed a cardiopulmonary exercise test (CPET). The results of the CPET were used to determine the individual training heart rates, which were then entered into the PATHway system. Each participant was guided to train at a heart rate between their first and second ventilatory thresholds (VT1 and VT2). Heart rate zones were adjusted according to the results of the 3-month follow-up CPET. Participants were encouraged to achieve the PA goal of 150 min of moderate intensity PA per week according to prevailing guidelines. Different exercise modalities (Exerclass, Exergame, Active lifestyle activity) were available to the participant to achieve this goal. In addition, participants in PW were able to set goals for other lifestyle behaviors, that is, smoking, diet, alcohol consumption, stress, and medication adherence. For each of these goals, the participants had the option to log their behavior and to receive personalized, automatically generated text messages or emails to support adherence and progress toward achieving the goal(s).\nParticipants allocated to UC received verbal advice on how to best maintain PA and a heart-healthy lifestyle after completion of the center-based CR program. They did not receive direct feedback or support with regard to their PA behavior during the 6-month follow-up period. Both groups continued to receive optimal medical and pharmacological care according to national and international guidelines.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Screening procedures and outcome assessments were performed at local study centers (KU Leuven, Belgium, and DCU, Ireland). PA behavior, physical fitness, vascular function, blood samples, and psychosocial well-being were evaluated 4 weeks before completion of the center-based phase II CR program and reassessed 3 months and 6 months after completion of the center-based CR program. Although staff involved in the intervention delivery and troubleshooting of the PATHway system were clearly not blinded to group allocation, the investigators collecting the outcome measures were blinded to group allocation. Patients were instructed not to reveal their group allocation to these investigators.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The primary outcome was the total amount of PA performed with at least moderate intensity (≥3 metabolic equivalent task units; moderate-to-vigorous physical activity [MVPA]) per day, measured using an Actigraph GT9X Link (Actigraph). Participants were instructed to wear the Actigraph GT9X Link on the nondominant wrist for 24 h per day during 7 consecutive days. Data collection was considered valid when at least 4 days with a recording period of ≥21 h were available. The Freedson combination algorithm was used to estimate energy expenditure (EE), whereas the Freedson adult algorithm was used to estimate MET and cut points for MVPA. Absolute time spent in sedentary (<0.11 METs), light (0.12-2.99 METs), moderate (3.00-5.99 METs), and vigorous (≥6.00 METs) activity, as well as the average amount of steps taken per day, were analyzed.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Health-related physical fitness outcome measures at baseline and 6 months are summarized in Table. During the follow-up period, there were no significant differences between groups regarding peak VO 2 (P interaction =.64), predicted peak VO 2 (P interaction =.79), and VO 2 at VT1 (P interaction =.91). Significant time-effects were found for isometric (P time <.001) and isokinetic (P time =.046) quadriceps strength as well as the 30-second sit-to-stand test (P time <.001), without leading to significant interaction effects. c Wasserman %: percent predicted oxygen uptake according to Hansen et al.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Participants in PW maintained a stable CV risk score, whereas participants in UC increased their risk during the 6-month follow-up period (P interaction =.03). The same applies for diastolic blood pressure (P interaction =.004) and the trends that could be seen in waist-hip ratio (P interaction =.07), LDL-C (P interaction =.12), and systolic blood pressure (P interaction =.10; Table). There was no significant difference in FMD or cIMT between PW and UC at anytime point. There was a significant time main effect for left cIMT (P=.03), indicating a significant decrease between baseline and 6 months.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Table provides a detailed overview of the questionnaire scores assessing lifestyle, health behaviors, and quality of life. Overall, a small decrease in exercise self-efficacy was observed over the 6-month period (P time =.03), without differences between groups (P interaction =.24). Except fora trend toward a subtle decrease in alcohol consumption in PW (P interaction =.08), lifestyle behaviors including medication adherence, diet, and stress remained stable overtime in both groups. Measures of mental well-being, as assessed by the Warwick-Edinburgh Mental Well-Being Scale, were improved after the intervention period (P time =.03), without any interaction effect between groups. HRQoL as assessed by means of the SF-36 did not changeover the 6-month period.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The rates of AEs were similar in PW and UC (Figure). No AEs related to exercise occurred.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "PATHway usage data were analyzed using RStudio version 3.5.1 (R-foundation). Spearman correlation coefficients were calculated to explore possible links between the PATHway usage and health outcomes and demographics. A correlation of 0.00 to 0.10 was considered negligible, 0.10 to 0.39 as weak, 0.40 to 0.69 as moderate, 0.70 to 0.89 as strong, and 0.90 to 1.0 as very strong.\nStatistical significance was set at a 2-sided P value of <.05.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "A convenience sample of 120 participants out of 218 eligible patients with CVD was enrolled from May 2017 through December 2017 (Figure) at the 3 different sites (University Hospitals Leuven [n=60], Beaumont University Hospital Dublin [n=38], and Mater Misericordiae University Hospital Dublin [n=22]). A total of 20 participants (20/120, 16.7%) dropped out (7 PW, 13 UC) during the 6-month period of which 4 were due to a SAE (Figure). Participants who dropped out from the study did not differ from participants who completed the study.\nBaseline characteristics of the participants are summarized in Table. Except fora higher total EE (P=.02) and lower sedentary time in UC (P=.045), baseline characteristics of both groups were comparable. This difference in EE remained present also after correcting for bodyweight. The mean age of participants was 61.4 years and 82% were men. A total of 83.3% (100/120) of participants were overweight (BMI>25 kg/m²), and 26.7% (32/120) were obese (BMI>30 kg/m²). A total of 80.8% (97/120) of participants were referred to CR after a percutaneous coronary intervention or coronary artery bypass grafting; and 45.0% (54/120) had a higher degree of education. Upon completion of the phase II CR program, participants showed an average physical fitness level of 96% when compared with their healthy sedentary peers. A comparison between eligible consenting (n=120) and nonconsenting participants (n=98) revealed a significant difference in age, with older participants being less likely to enroll in the study   e Wasserman %: percent predicted oxygen uptake.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Average daily MVPA increased significantly in PW between baseline and 6 months (P=.01). There was no change in the average daily minutes of MVPA in UC (P=.60; Figure). This resulted in a significant interaction effect between groups overtime (P interaction =.04). A significant decrease in low-intensity PA in UC overtime was present (P=.04), which resulted in a trend toward a significant interaction effect (P interaction =.11). Table provides point measures on all PA outcomes.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": ".60 −0.11 76.1 (18.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "PATHway use was defined as the total amount of time spent using the Active lifestyle, Exerclass, or Exergame option. If a spearman correlation between PATHway use and age, PA, and physical fitness outcomes was significant, then the magnitude of the correlation is depicted in Figure. Only the change in peak heart rate, change in peak systolic blood pressure, and change in peak load during CPET were significantly correlated with PATHway use, but the correlations were weak with values of −0.30, −0.31, and −0.33, respectively. Furthermore, no significant differences were present concerning PA and physical fitness outcomes between users and nonusers of the PATHway system. Exploratory analysis of significant correlation coefficients between Physical Activity Toward Health use and demographics, physical activity, and physical fitness. diff: difference; EE: energy expenditure; HRVAT: heart rate at the first ventilatory threshold; MVPA: moderate-to-vigorous physical activity; pHR: peak heart rate; pLoad: peak load; pRER: peak respiratory exchange ratio; pSBP: peak systolic blood pressure; percentVO2VAT: percent oxygen uptake at first ventilatory threshold; predicted_VO2: predicted oxygen uptake according to Hansen; pVE: peak ventilation; pVO2: peak oxygen consumption; VO2VAT: oxygen uptake at first ventilatory threshold; WVAT: load at first ventilatory threshold; Sed: sedentary time.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The most frequently used PA component was Active lifestyle recorded by means of the Microsoft band 2 (median number of sessions during 6 months: 27, range 2.5-89.5), followed by Exerclasses (median number of sessions during 6 months: 14.5, range: 3-35.8), Exergames (median number of sessions during 6 months: 1, range: 0-3), and manually inserted yet not objectively measured activities (median: 0 range: 0-4). A total of 34 participants (34/60, 57%) set at least one extra goal for CVD risk factor modification using the behavior change module. From the selected goals, 54% related to healthy eating, followed by stress management (17%), alcohol moderation (13%), and medication adherence (12%). PATHway usage decreased overtime with a significant lower number of performed exercise sessions using the PATHway system starting at month 4 compared with month 1 (P<.001). Figure depicts the decrease in PATHway use overtime.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "In total, 46 participants (46/60, 77%) in PW completed the UEQ and SUS. Of which, 4 out of 6 scales of the UEQ, including the 2 scales assessing the hedonic quality of a product, had an above average mean score of more than (such as attractiveness, perspicuity, stimulation, and novelty). The 2 other scales (dependability and efficiency), indicating pragmatic quality of a product, scored below average with mean scores of less than 1.\nThe mean score (SD) of the SUS was 65.5 (19.7), and 5 participants indicated the usability of the PATHway system as the best imaginable, 13 participants as excellent, 18 participants as good, 4 participants as OK, 5 participants as poor, and 1 participant as the worst imaginable.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "This study evaluated the feasibility, acceptability, and clinical effectiveness on MVPA and cardiovascular risk profile of a comprehensive technology-enabled, home-based CR system. We found above average scores on 4 out of 6 scales of user experience, 78% of participants indicated at least good usability of the system, and there were no usage-related AEs. Moreover, the PW intervention seems effective for supporting MVPA in daily life after graduating from hospital-based CR.\nIt was hypothesized that the PATHway platform would aid in maintaining the adherence to a heart healthy active lifestyle following completion of a supervised phase II CR program. MVPA increased in PW by 11%, whereas the levels of MVPA decreased by 2% in UC, resulting in a significant interaction-effect between groups overtime and an effect size of 0.42. Previous studies have also reported a better short-term maintenance of PA following telerehabilitation. Nevertheless, as absolute MVPA levels at 6-month follow-up are almost equal for both groups in our study, we need to acknowledge that some effects of regression toward the mean might be present, and these positive results need confirmation\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "RenderX from larger trials. Our effect on MVPA did not translate into a positive effect on exercise capacity, the parameter most strongly related to morbidity and mortality, indicating that this effect might not be large enough to be clinically meaningful, at least not in this short timeframe of 6 months. Interestingly, daily MVPA at both baseline and 6 months were more than 3 times greater than the values reported by Prince et al regarding CR graduates (63.6 [SD 9.6] years, 75% male, peak VO 2 after CR of 25.2 [SD 6.6] mL/min/kg) wearing Actigraph GT3X accelerometer at the hip during waking hours. Participants in this study wore the Actigraph GT9X Link on the nondominant wrist for 24 h/day. Research shows that more accurate MVPA results are obtained when the device is worn on the hip compared with the wrist, which might in part be due to the lack of validated accelerometry algorithms for wrist-worn devices. As such, daily MVPA found in this study may have been overestimated. In line with this thought, high MVPA values were also found in a sample of obese individuals wearing the Actigraph GT3X at the wrist.\nFor physical fitness as well as most other outcome measures, we could only document trivial (<.2) effect sizes. Because participants were on average quite fit (96% of predicted sedentary values) at completion of phase II CR, no further improvement in physical fitness was to be expected. Contrary to our hypothesis, whereby we expected a larger decrease in physical fitness in UC, both groups were able to maintain their level of physical fitness. The lack of differences between both groups could be attributable to the small study groups, the motivation to remain fit because of the scheduled follow-up testing as well as the relatively short time period of the trial.\nOn the other hand, the hypothesized deterioration in UC did occur in relation to the cardiovascular risk score and diastolic blood pressure. Both increased significantly in UC (P=.003 and P<.001, respectively), while remaining stable in PW and this resulted in significant differences between groups overtime. A potential explanation for this finding might be the use of the behavior change module in PW. This module is based on 22 behavior change techniques that can help increase compliance to healthy behaviors and thus have an influence on total cardiovascular risk score. However, our data cannot support this assumption, as the choice to set healthy living goals was not statistically translated into better outcome scores.\nParticipants' usage of the PATHway system decreased overtime, with the decline starting in the 4th month. Weaknesses of the chosen heart rate tracker, as well as the rather limited suite of exercises/games incorporated into the PATHway system may have been a contributing factor to the decline in usage. Studies examining the use of PA trackers to maintain levels of PA also indicate a gradual decrease in usage, with a sustainability of the use of this technology ranging from 129 days to 5 to 7 months. Factors that increase sustained technology use include ease of use, absence of technology failure, high educational background, younger age, and female gender. It is important to note that use of technology is not necessarily equal to adherence to a desired health behavior. We reported the participants' engagement with the PATHway system by means of usage data, but engagement is a complex construct and should likely be measured by a combination of methods, which are also context dependent.\nTo maximize engagement, usability, and adherence, the PATHway system was developed in consultation with the target users. The majority of the study participants found PATHway easy to use. However, software problems were identified when the system was first deployed in the participant's home. The software issues were resolved with 2 major updates during the study, resulting in a more mature system emerging during the later phase of the trial. It is likely that persistent technology-related issues may have frustrated the study participants and have had a negative impact on the use of the system. In line with this thought, the debrief interviews that will be described in detail separately, documented the need for future improvements and expansion to increase the longevity of this mode of CR delivery. In agreement with Hermsen et al, we also found that younger CR patients were more likely than older patients to participate in the study. Although almost 90% of participants in PW had completed secondary education and 50% had a higher education degree, we did not find a significant relation between PATHway usage and educational level.\nThe documented decrease in exercise self-efficacy may also help explain a decrease in use of technology. It is possible that baseline self-efficacy scores are too optimistic because at the time of baseline measurements, the study participants were still participating in supervised, very structured, and well-organized phase II CR. When the participants graduated from CR and needed to implement an exercise routine in their home environment, they may have come to a better understanding of the requirements and challenges of exercise self-efficacy, resulting in lower scores. On the other hand, one might also argue that reaching daily PA goals could also give the participant the feeling he/she no longer needs the PATHway technology to remain physically active. Indeed, the decrease in PATHway usage did not result in a decrease in the daily MVPA and physical fitness.\nThe study participants in this project were predominantly men, as is inline with how men and women are distributed in ambulatory CR in todays practice in the hospitals participating in this trial. One reason for this might be that the ambulatory CR program in its current format is more appealing to men, compared with women. Furthermore, there is some evidence that women are also significantly less likely to be referred for CR programs following revascularization compared with men. Advances in cardiovascular research is documenting sex-specific differences with regard to diagnosis and treatment of heart disease. To be able to draw conclusions that apply to both sexes, it would have been better to have an equal distribution of women and men in this study. For now, our results should be interpreted with more caution when applied to women with heart disease.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "This study was a pilot study including 120 participants. Post hoc power analysis for the outcome measure of MVPA (primary outcome) revealed that our sample size was more than sufficient (100% power). Also, for the cardiovascular risk score, our sample size was sufficient. The number of participants would need to be (much) greater for detecting differences inmost of the secondary outcome measures. For example, based on obtained effect size, a sample size of 170 patients in total would have been needed to achieve 80% power at an alpha-error probability of .05 for the outcome measure of peak VO 2 . Furthermore, it is worth mentioning that a longer follow-up duration might have resulted in a larger difference between intervention and control group because regression to a more sedentary lifestyle might not show straightaway in cardiovascular risk factors and physical fitness. Therefore, a longer follow-up should be envisaged in future research with better power.\nBecause participants could only be enrolled in the study if they completed phase II CR, selection bias toward a highly motivated and physical active study group might have existed. The follow-up period of 6 months can be considered short as the aim of home-based CR is to induce changes in the remaining life of the participant.\nDespite extensive testing of the PATHway platform during development, technical errors occurred during the early part of the trial when a significant number of participants started using the PATHway platform at the same time. Complex technology should be stress-tested on a larger scale before implementation in atrial of this size. This seems to be of particular concern for systems that incorporate multiple components, hosted at different sites with use of the internet for communication.\nAs there are no adequately validated algorithms for the wrist-worn Actigraph GT9X Link, the choice to wear it at the nondominant wrist resulted in high absolute PA values and absolute values might thus not be accurate. However, since we opted fora 24 h/day protocol and the watch had also to be worn during the night, wearing the device at the wrist would most likely result in better wear-time compliance, which is why this device was chosen. As both PW and UC received the same wearing instructions and the same set-up protocol was applied at baseline and 6-month follow-up, we believe our results concerning detected differences in PA are reliable.\nWe observed a significant age difference between consenting and nonconsenting participants, suggesting that caution is warranted when extrapolating the results of acceptability and feasibility of a technological intervention to all CR participants.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Usage of the PATHway platform for home-based CR following completion of ambulatory CR was demonstrated to be feasible and acceptable for the participants and allowed for safe training sessions. The PATHway platform showed preliminary effectiveness for improving adherence to a physically active lifestyle. The PATHway platform was well received by the users, yet several challenges were identified that should be tackled to result in a more mature technological solution and to increase long-term adoption of a heart-healthy physically active lifestyle. The results of this work can be used as a basis for the design of future RCTs and for sample size calculations to reach statistical power. Future long-term and well-powered studies should focus on implementing those features of the PATHway system that were used most frequently and deemed most useful according to the users. Moreover, the variety of the offered exercises and exercise modes should be increased to improve adherence on the longer term.\n",
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": ".36",
+          "rowHeaders": [
+            "Total daily energy expenditure, kcal/day"
+          ],
+          "columnHeaders": [
+            "Table 2. Intervention effects on daily physical activity behavior (N=111).",
+            "P value",
+            "6 months"
+          ]
+        },
+        {
+          "value": "0.14",
+          "rowHeaders": [
+            "Total daily energy expenditure, kcal/day"
+          ],
+          "columnHeaders": [
+            "Table 2. Intervention effects on daily physical activity behavior (N=111).",
+            "Effect size",
+            "6 months"
+          ]
+        },
+        {
+          "value": ".11",
+          "rowHeaders": [
+            "Sedentary time, min/day"
+          ],
+          "columnHeaders": [
+            "Table 2. Intervention effects on daily physical activity behavior (N=111).",
+            "P value",
+            "6 months"
+          ]
+        },
+        {
+          "value": "−0.32",
+          "rowHeaders": [
+            "Sedentary time, min/day"
+          ],
+          "columnHeaders": [
+            "Table 2. Intervention effects on daily physical activity behavior (N=111).",
+            "Effect size",
+            "6 months"
+          ]
+        },
+        {
+          "value": "675 (98.0)",
+          "rowHeaders": [
+            "Sedentary time, min/day"
+          ],
+          "columnHeaders": [
+            "Table 2. Intervention effects on daily physical activity behavior (N=111).",
+            "Usual care, mean (SD)",
+            "6 months"
+          ]
+        },
+        {
+          "value": "649 (89.0)",
+          "rowHeaders": [
+            "Sedentary time, min/day"
+          ],
+          "columnHeaders": [
+            "Table 2. Intervention effects on daily physical activity behavior (N=111).",
+            "Usual care, mean (SD)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "698 (130)",
+          "rowHeaders": [
+            "Sedentary time, min/day"
+          ],
+          "columnHeaders": [
+            "Table 2. Intervention effects on daily physical activity behavior (N=111).",
+            ", mean (SD)",
+            "6 months"
+          ]
+        },
+        {
+          "value": "659 (137)",
+          "rowHeaders": [
+            "Sedentary time, min/day"
+          ],
+          "columnHeaders": [
+            "Table 2. Intervention effects on daily physical activity behavior (N=111).",
+            "PATHway",
+            "Baseline"
+          ]
+        },
+        {
+          "value": ".11",
+          "rowHeaders": [
+            "Light physical activity time, min/day"
+          ],
+          "columnHeaders": [
+            "Table 2. Intervention effects on daily physical activity behavior (N=111).",
+            "P value",
+            "6 months"
+          ]
+        },
+        {
+          "value": "0.33",
+          "rowHeaders": [
+            "Light physical activity time, min/day"
+          ],
+          "columnHeaders": [
+            "Table 2. Intervention effects on daily physical activity behavior (N=111).",
+            "Effect size",
+            "6 months"
+          ]
+        },
+        {
+          "value": "576 (86.0)",
+          "rowHeaders": [
+            "Light physical activity time, min/day"
+          ],
+          "columnHeaders": [
+            "Table 2. Intervention effects on daily physical activity behavior (N=111).",
+            "Usual care, mean (SD)",
+            "6 months"
+          ]
+        },
+        {
+          "value": "596 (75.0)",
+          "rowHeaders": [
+            "Light physical activity time, min/day"
+          ],
+          "columnHeaders": [
+            "Table 2. Intervention effects on daily physical activity behavior (N=111).",
+            "Usual care, mean (SD)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "579 (74)",
+          "rowHeaders": [
+            "Light physical activity time, min/day"
+          ],
+          "columnHeaders": [
+            "Table 2. Intervention effects on daily physical activity behavior (N=111).",
+            ", mean (SD)",
+            "6 months"
+          ]
+        },
+        {
+          "value": "576 (75)",
+          "rowHeaders": [
+            "Light physical activity time, min/day"
+          ],
+          "columnHeaders": [
+            "Table 2. Intervention effects on daily physical activity behavior (N=111).",
+            "PATHway",
+            "Baseline"
+          ]
+        },
+        {
+          "value": ".04",
+          "rowHeaders": [
+            "Moderate-to-vigorous physical activity, min/day"
+          ],
+          "columnHeaders": [
+            "Table 2. Intervention effects on daily physical activity behavior (N=111).",
+            "P value",
+            "6 months"
+          ]
+        },
+        {
+          "value": "0.42",
+          "rowHeaders": [
+            "Moderate-to-vigorous physical activity, min/day"
+          ],
+          "columnHeaders": [
+            "Table 2. Intervention effects on daily physical activity behavior (N=111).",
+            "Effect size",
+            "6 months"
+          ]
+        },
+        {
+          "value": "143 (70.6)",
+          "rowHeaders": [
+            "Moderate-to-vigorous physical activity, min/day"
+          ],
+          "columnHeaders": [
+            "Table 2. Intervention effects on daily physical activity behavior (N=111).",
+            "Usual care, mean (SD)",
+            "6 months"
+          ]
+        },
+        {
+          "value": "146 (65.9)",
+          "rowHeaders": [
+            "Moderate-to-vigorous physical activity, min/day"
+          ],
+          "columnHeaders": [
+            "Table 2. Intervention effects on daily physical activity behavior (N=111).",
+            "Usual care, mean (SD)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "141 (69.1)",
+          "rowHeaders": [
+            "Moderate-to-vigorous physical activity, min/day"
+          ],
+          "columnHeaders": [
+            "Table 2. Intervention effects on daily physical activity behavior (N=111).",
+            ", mean (SD)",
+            "6 months"
+          ]
+        },
+        {
+          "value": "127 (57.9)",
+          "rowHeaders": [
+            "Moderate-to-vigorous physical activity, min/day"
+          ],
+          "columnHeaders": [
+            "Table 2. Intervention effects on daily physical activity behavior (N=111).",
+            "PATHway",
+            "Baseline"
+          ]
+        },
+        {
+          "value": ".20",
+          "rowHeaders": [
+            "Steps, n/day"
+          ],
+          "columnHeaders": [
+            "Table 2. Intervention effects on daily physical activity behavior (N=111).",
+            "P value",
+            "6 months"
+          ]
+        },
+        {
+          "value": "0.28",
+          "rowHeaders": [
+            "Steps, n/day"
+          ],
+          "columnHeaders": [
+            "Table 2. Intervention effects on daily physical activity behavior (N=111).",
+            "Effect size",
+            "6 months"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": ".64",
+          "rowHeaders": [
+            "Peak VO",
+            "b",
+            ", mL/min/kg"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects on health-related physical fitness.",
+            "P value",
+            "6 months"
+          ]
+        },
+        {
+          "value": "0.09",
+          "rowHeaders": [
+            "Peak VO",
+            "b",
+            ", mL/min/kg"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects on health-related physical fitness.",
+            "Effect size",
+            "6 months"
+          ]
+        },
+        {
+          "value": "24.5 (6.50)",
+          "rowHeaders": [
+            "Peak VO",
+            "b",
+            ", mL/min/kg"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects on health-related physical fitness.",
+            "Usual care, mean (SD)",
+            "6 months"
+          ]
+        },
+        {
+          "value": "24.5 (7.10)",
+          "rowHeaders": [
+            "Peak VO",
+            "b",
+            ", mL/min/kg"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects on health-related physical fitness.",
+            "Usual care, mean (SD)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "24.1 (5.82)",
+          "rowHeaders": [
+            "Peak VO",
+            "b",
+            ", mL/min/kg"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects on health-related physical fitness.",
+            ", mean (SD)",
+            "months"
+          ]
+        },
+        {
+          "value": "23.8 (5.47)",
+          "rowHeaders": [
+            "Peak VO",
+            "b",
+            ", mL/min/kg"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects on health-related physical fitness.",
+            "PATHway",
+            "Baseline"
+          ]
+        },
+        {
+          "value": ".79",
+          "rowHeaders": [
+            "Wasserman %c"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects on health-related physical fitness.",
+            "P value",
+            "6 months"
+          ]
+        },
+        {
+          "value": "0.05",
+          "rowHeaders": [
+            "Wasserman %c"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects on health-related physical fitness.",
+            "Effect size",
+            "6 months"
+          ]
+        },
+        {
+          "value": "99.3 (20.4)",
+          "rowHeaders": [
+            "Wasserman %c"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects on health-related physical fitness.",
+            "Usual care, mean (SD)",
+            "6 months"
+          ]
+        },
+        {
+          "value": "98.8 (21.8)",
+          "rowHeaders": [
+            "Wasserman %c"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects on health-related physical fitness.",
+            "Usual care, mean (SD)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "95.4 (18.5)",
+          "rowHeaders": [
+            "Wasserman %c"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects on health-related physical fitness.",
+            ", mean (SD)",
+            "months"
+          ]
+        },
+        {
+          "value": "94.0 (21.3)",
+          "rowHeaders": [
+            "Wasserman %c"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects on health-related physical fitness.",
+            "PATHway",
+            "Baseline"
+          ]
+        },
+        {
+          "value": ".55",
+          "rowHeaders": [
+            "Peak respiratory exchange rate"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects on health-related physical fitness.",
+            "P value",
+            "6 months"
+          ]
+        },
+        {
+          "value": "−0.11",
+          "rowHeaders": [
+            "Peak respiratory exchange rate"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects on health-related physical fitness.",
+            "Effect size",
+            "6 months"
+          ]
+        },
+        {
+          "value": "1.25 (0.10)",
+          "rowHeaders": [
+            "Peak respiratory exchange rate"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects on health-related physical fitness.",
+            "Usual care, mean (SD)",
+            "6 months"
+          ]
+        },
+        {
+          "value": "1.24 (0.09)",
+          "rowHeaders": [
+            "Peak respiratory exchange rate"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects on health-related physical fitness.",
+            "Usual care, mean (SD)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "1.27 (0.10)",
+          "rowHeaders": [
+            "Peak respiratory exchange rate"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects on health-related physical fitness.",
+            ", mean (SD)",
+            "months"
+          ]
+        },
+        {
+          "value": "1.27 (0.11)",
+          "rowHeaders": [
+            "Peak respiratory exchange rate"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects on health-related physical fitness.",
+            "PATHway",
+            "Baseline"
+          ]
+        },
+        {
+          "value": ".91",
+          "rowHeaders": [
+            "VO",
+            "2 at first threshold, mL/min"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects on health-related physical fitness.",
+            "P value",
+            "6 months"
+          ]
+        },
+        {
+          "value": "−0.02",
+          "rowHeaders": [
+            "VO",
+            "2 at first threshold, mL/min"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects on health-related physical fitness.",
+            "Effect size",
+            "6 months"
+          ]
+        },
+        {
+          "value": ".89",
+          "rowHeaders": [
+            "Handgrip strength nondominant side (n=118), kg"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects on health-related physical fitness.",
+            "P value",
+            "6 months"
+          ]
+        },
+        {
+          "value": "0.03",
+          "rowHeaders": [
+            "Handgrip strength nondominant side (n=118), kg"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects on health-related physical fitness.",
+            "Effect size",
+            "6 months"
+          ]
+        },
+        {
+          "value": ".83",
+          "rowHeaders": [
+            "Handgrip strength dominant side (n=118), kg"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects on health-related physical fitness.",
+            "P value",
+            "6 months"
+          ]
+        },
+        {
+          "value": "−0.04",
+          "rowHeaders": [
+            "Handgrip strength dominant side (n=118), kg"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects on health-related physical fitness.",
+            "Effect size",
+            "6 months"
+          ]
+        },
+        {
+          "value": "39.5 (11.4)",
+          "rowHeaders": [
+            "Handgrip strength dominant side (n=118), kg"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects on health-related physical fitness.",
+            "Usual care, mean (SD)",
+            "6 months"
+          ]
+        },
+        {
+          "value": "39.4 (11.0)",
+          "rowHeaders": [
+            "Handgrip strength dominant side (n=118), kg"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects on health-related physical fitness.",
+            "Usual care, mean (SD)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "40.1 (11.4)",
+          "rowHeaders": [
+            "Handgrip strength dominant side (n=118), kg"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects on health-related physical fitness.",
+            ", mean (SD)",
+            "months"
+          ]
+        },
+        {
+          "value": "40.1 (11.0)",
+          "rowHeaders": [
+            "Handgrip strength dominant side (n=118), kg"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects on health-related physical fitness.",
+            "PATHway",
+            "Baseline"
+          ]
+        },
+        {
+          "value": ".57",
+          "rowHeaders": [
+            "Handgrip strength nondominant side (n=118), kg"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects on health-related physical fitness.",
+            "P value",
+            "6 months"
+          ]
+        },
+        {
+          "value": "0.11",
+          "rowHeaders": [
+            "Handgrip strength nondominant side (n=118), kg"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects on health-related physical fitness.",
+            "Effect size",
+            "6 months"
+          ]
+        },
+        {
+          "value": "36.4 (10.4)",
+          "rowHeaders": [
+            "Handgrip strength nondominant side (n=118), kg"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects on health-related physical fitness.",
+            "Usual care, mean (SD)",
+            "6 months"
+          ]
+        },
+        {
+          "value": "36.6 (10.1)",
+          "rowHeaders": [
+            "Handgrip strength nondominant side (n=118), kg"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects on health-related physical fitness.",
+            "Usual care, mean (SD)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "38.7 (10.0)",
+          "rowHeaders": [
+            "Handgrip strength nondominant side (n=118), kg"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects on health-related physical fitness.",
+            ", mean (SD)",
+            "months"
+          ]
+        },
+        {
+          "value": "38.3 (9.90)",
+          "rowHeaders": [
+            "Handgrip strength nondominant side (n=118), kg"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects on health-related physical fitness.",
+            "PATHway",
+            "Baseline"
+          ]
+        },
+        {
+          "value": ".38",
+          "rowHeaders": [
+            "Isometric quadriceps strength (n=117), Nm"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects on health-related physical fitness.",
+            "P value",
+            "6 months"
+          ]
+        },
+        {
+          "value": "−0.16",
+          "rowHeaders": [
+            "Isometric quadriceps strength (n=117), Nm"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects on health-related physical fitness.",
+            "Effect size",
+            "6 months"
+          ]
+        },
+        {
+          "value": ".66",
+          "rowHeaders": [
+            "Isokinetic upper leg strength (n=117), J"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects on health-related physical fitness.",
+            "P value",
+            "6 months"
+          ]
+        },
+        {
+          "value": "0.09",
+          "rowHeaders": [
+            "Isokinetic upper leg strength (n=117), J"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects on health-related physical fitness.",
+            "Effect size",
+            "6 months"
+          ]
+        },
+        {
+          "value": ".94",
+          "rowHeaders": [
+            "30s sit-to-stand test (n=118), n"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects on health-related physical fitness.",
+            "P value",
+            "6 months"
+          ]
+        },
+        {
+          "value": "−0.01",
+          "rowHeaders": [
+            "30s sit-to-stand test (n=118), n"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects on health-related physical fitness.",
+            "Effect size",
+            "6 months"
+          ]
+        },
+        {
+          "value": "22.0 (7.00)",
+          "rowHeaders": [
+            "30s sit-to-stand test (n=118), n"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects on health-related physical fitness.",
+            "Usual care, mean (SD)",
+            "6 months"
+          ]
+        },
+        {
+          "value": "18.0 (7.00)",
+          "rowHeaders": [
+            "30s sit-to-stand test (n=118), n"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects on health-related physical fitness.",
+            "Usual care, mean (SD)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "22.0 (6.00)",
+          "rowHeaders": [
+            "30s sit-to-stand test (n=118), n"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects on health-related physical fitness.",
+            ", mean (SD)",
+            "months"
+          ]
+        },
+        {
+          "value": "19.0 (4.00)",
+          "rowHeaders": [
+            "30s sit-to-stand test (n=118), n"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects on health-related physical fitness.",
+            "PATHway",
+            "Baseline"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": ".03",
+          "rowHeaders": [
+            "Risk score (n=115), %"
+          ],
+          "columnHeaders": [
+            "Table 4. Intervention effects on cardiovascular risk profile and vascular function.",
+            "P value",
+            "6 months"
+          ]
+        },
+        {
+          "value": "−0.36",
+          "rowHeaders": [
+            "Risk score (n=115), %"
+          ],
+          "columnHeaders": [
+            "Table 4. Intervention effects on cardiovascular risk profile and vascular function.",
+            "Effect size",
+            "6 months"
+          ]
+        },
+        {
+          "value": "15.7 (10.9)",
+          "rowHeaders": [
+            "Risk score (n=115), %"
+          ],
+          "columnHeaders": [
+            "Table 4. Intervention effects on cardiovascular risk profile and vascular function.",
+            "Usual care, mean (SD)",
+            "6 months"
+          ]
+        },
+        {
+          "value": "14.5 (9.70)",
+          "rowHeaders": [
+            "Risk score (n=115), %"
+          ],
+          "columnHeaders": [
+            "Table 4. Intervention effects on cardiovascular risk profile and vascular function.",
+            "Usual care, mean (SD)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "15.5 (10.5)",
+          "rowHeaders": [
+            "Risk score (n=115), %"
+          ],
+          "columnHeaders": [
+            "Table 4. Intervention effects on cardiovascular risk profile and vascular function.",
+            ", mean (SD)",
+            "6 months"
+          ]
+        },
+        {
+          "value": "15.9 (10.4)",
+          "rowHeaders": [
+            "Risk score (n=115), %"
+          ],
+          "columnHeaders": [
+            "Table 4. Intervention effects on cardiovascular risk profile and vascular function.",
+            "PATHway",
+            "Baseline"
+          ]
+        },
+        {
+          "value": ".23",
+          "rowHeaders": [
+            "Body mass index (n=120), kg/m²"
+          ],
+          "columnHeaders": [
+            "Table 4. Intervention effects on cardiovascular risk profile and vascular function.",
+            "P value",
+            "6 months"
+          ]
+        },
+        {
+          "value": "−0.19",
+          "rowHeaders": [
+            "Body mass index (n=120), kg/m²"
+          ],
+          "columnHeaders": [
+            "Table 4. Intervention effects on cardiovascular risk profile and vascular function.",
+            "Effect size",
+            "6 months"
+          ]
+        },
+        {
+          "value": "29.2 (4.30)",
+          "rowHeaders": [
+            "Body mass index (n=120), kg/m²"
+          ],
+          "columnHeaders": [
+            "Table 4. Intervention effects on cardiovascular risk profile and vascular function.",
+            "Usual care, mean (SD)",
+            "6 months"
+          ]
+        },
+        {
+          "value": "28.9 (4.20)",
+          "rowHeaders": [
+            "Body mass index (n=120), kg/m²"
+          ],
+          "columnHeaders": [
+            "Table 4. Intervention effects on cardiovascular risk profile and vascular function.",
+            "Usual care, mean (SD)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "27.5 (3.60)",
+          "rowHeaders": [
+            "Body mass index (n=120), kg/m²"
+          ],
+          "columnHeaders": [
+            "Table 4. Intervention effects on cardiovascular risk profile and vascular function.",
+            ", mean (SD)",
+            "6 months"
+          ]
+        },
+        {
+          "value": "27.4 (3.60)",
+          "rowHeaders": [
+            "Body mass index (n=120), kg/m²"
+          ],
+          "columnHeaders": [
+            "Table 4. Intervention effects on cardiovascular risk profile and vascular function.",
+            "PATHway",
+            "Baseline"
+          ]
+        },
+        {
+          "value": ".85",
+          "rowHeaders": [
+            "Body fatb (n=120), %"
+          ],
+          "columnHeaders": [
+            "Table 4. Intervention effects on cardiovascular risk profile and vascular function.",
+            "P value",
+            "6 months"
+          ]
+        },
+        {
+          "value": "−0.03",
+          "rowHeaders": [
+            "Body fatb (n=120), %"
+          ],
+          "columnHeaders": [
+            "Table 4. Intervention effects on cardiovascular risk profile and vascular function.",
+            "Effect size",
+            "6 months"
+          ]
+        },
+        {
+          "value": "31.4 (7.10)",
+          "rowHeaders": [
+            "Body fatb (n=120), %"
+          ],
+          "columnHeaders": [
+            "Table 4. Intervention effects on cardiovascular risk profile and vascular function.",
+            "Usual care, mean (SD)",
+            "6 months"
+          ]
+        },
+        {
+          "value": "30.8 (7.30)",
+          "rowHeaders": [
+            "Body fatb (n=120), %"
+          ],
+          "columnHeaders": [
+            "Table 4. Intervention effects on cardiovascular risk profile and vascular function.",
+            "Usual care, mean (SD)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "29.2 (5.80)",
+          "rowHeaders": [
+            "Body fatb (n=120), %"
+          ],
+          "columnHeaders": [
+            "Table 4. Intervention effects on cardiovascular risk profile and vascular function.",
+            ", mean (SD)",
+            "6 months"
+          ]
+        },
+        {
+          "value": "28.7 (5.80)",
+          "rowHeaders": [
+            "Body fatb (n=120), %"
+          ],
+          "columnHeaders": [
+            "Table 4. Intervention effects on cardiovascular risk profile and vascular function.",
+            "PATHway",
+            "Baseline"
+          ]
+        },
+        {
+          "value": ".07",
+          "rowHeaders": [
+            "Waist/hip ratio (n=120)"
+          ],
+          "columnHeaders": [
+            "Table 4. Intervention effects on cardiovascular risk profile and vascular function.",
+            "P value",
+            "6 months"
+          ]
+        },
+        {
+          "value": "0.08",
+          "rowHeaders": [
+            "Waist/hip ratio (n=120)"
+          ],
+          "columnHeaders": [
+            "Table 4. Intervention effects on cardiovascular risk profile and vascular function.",
+            "Effect size",
+            "6 months"
+          ]
+        },
+        {
+          "value": "0.96 (0.08)",
+          "rowHeaders": [
+            "Waist/hip ratio (n=120)"
+          ],
+          "columnHeaders": [
+            "Table 4. Intervention effects on cardiovascular risk profile and vascular function.",
+            "Usual care, mean (SD)",
+            "6 months"
+          ]
+        },
+        {
+          "value": "0.96 (0.08)",
+          "rowHeaders": [
+            "Waist/hip ratio (n=120)"
+          ],
+          "columnHeaders": [
+            "Table 4. Intervention effects on cardiovascular risk profile and vascular function.",
+            "Usual care, mean (SD)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "0.94 (0.08)",
+          "rowHeaders": [
+            "Waist/hip ratio (n=120)"
+          ],
+          "columnHeaders": [
+            "Table 4. Intervention effects on cardiovascular risk profile and vascular function.",
+            ", mean (SD)",
+            "6 months"
+          ]
+        },
+        {
+          "value": "0.95 (0.09)",
+          "rowHeaders": [
+            "Waist/hip ratio (n=120)"
+          ],
+          "columnHeaders": [
+            "Table 4. Intervention effects on cardiovascular risk profile and vascular function.",
+            "PATHway",
+            "Baseline"
+          ]
+        },
+        {
+          "value": ".48",
+          "rowHeaders": [
+            "Glucose (n=119), mmol/L"
+          ],
+          "columnHeaders": [
+            "Table 4. Intervention effects on cardiovascular risk profile and vascular function.",
+            "P value",
+            "6 months"
+          ]
+        },
+        {
+          "value": "−0.10",
+          "rowHeaders": [
+            "Glucose (n=119), mmol/L"
+          ],
+          "columnHeaders": [
+            "Table 4. Intervention effects on cardiovascular risk profile and vascular function.",
+            "Effect size",
+            "6 months"
+          ]
+        },
+        {
+          "value": "5.91 (1.88)",
+          "rowHeaders": [
+            "Glucose (n=119), mmol/L"
+          ],
+          "columnHeaders": [
+            "Table 4. Intervention effects on cardiovascular risk profile and vascular function.",
+            "Usual care, mean (SD)",
+            "6 months"
+          ]
+        },
+        {
+          "value": "5.70 (1.66)",
+          "rowHeaders": [
+            "Glucose (n=119), mmol/L"
+          ],
+          "columnHeaders": [
+            "Table 4. Intervention effects on cardiovascular risk profile and vascular function.",
+            "Usual care, mean (SD)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "5.83 (1.26)",
+          "rowHeaders": [
+            "Glucose (n=119), mmol/L"
+          ],
+          "columnHeaders": [
+            "Table 4. Intervention effects on cardiovascular risk profile and vascular function.",
+            ", mean (SD)",
+            "6 months"
+          ]
+        },
+        {
+          "value": "5.72 (1.24)",
+          "rowHeaders": [
+            "Glucose (n=119), mmol/L"
+          ],
+          "columnHeaders": [
+            "Table 4. Intervention effects on cardiovascular risk profile and vascular function.",
+            "PATHway",
+            "Baseline"
+          ]
+        },
+        {
+          "value": ".81",
+          "rowHeaders": [
+            "Insulin (n=104), pmol/L"
+          ],
+          "columnHeaders": [
+            "Table 4. Intervention effects on cardiovascular risk profile and vascular function.",
+            "P value",
+            "6 months"
+          ]
+        },
+        {
+          "value": "0.03",
+          "rowHeaders": [
+            "Insulin (n=104), pmol/L"
+          ],
+          "columnHeaders": [
+            "Table 4. Intervention effects on cardiovascular risk profile and vascular function.",
+            "Effect size",
+            "6 months"
+          ]
+        },
+        {
+          "value": "64.3 (34.9)",
+          "rowHeaders": [
+            "Insulin (n=104), pmol/L"
+          ],
+          "columnHeaders": [
+            "Table 4. Intervention effects on cardiovascular risk profile and vascular function.",
+            "Usual care, mean (SD)",
+            "6 months"
+          ]
+        },
+        {
+          "value": "57.1 (29.7)",
+          "rowHeaders": [
+            "Insulin (n=104), pmol/L"
+          ],
+          "columnHeaders": [
+            "Table 4. Intervention effects on cardiovascular risk profile and vascular function.",
+            "Usual care, mean (SD)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "71.0 (52.3)",
+          "rowHeaders": [
+            "Insulin (n=104), pmol/L"
+          ],
+          "columnHeaders": [
+            "Table 4. Intervention effects on cardiovascular risk profile and vascular function.",
+            ", mean (SD)",
+            "6 months"
+          ]
+        },
+        {
+          "value": "61.3 (35.3)",
+          "rowHeaders": [
+            "Insulin (n=104), pmol/L"
+          ],
+          "columnHeaders": [
+            "Table 4. Intervention effects on cardiovascular risk profile and vascular function.",
+            "PATHway",
+            "Baseline"
+          ]
+        },
+        {
+          "value": ".99",
+          "rowHeaders": [
+            "HOMA1-IR",
+            "c",
+            "(n=104)"
+          ],
+          "columnHeaders": [
+            "Table 4. Intervention effects on cardiovascular risk profile and vascular function.",
+            "P value",
+            "6 months"
+          ]
+        },
+        {
+          "value": "−0.02",
+          "rowHeaders": [
+            "HOMA1-IR",
+            "c",
+            "(n=104)"
+          ],
+          "columnHeaders": [
+            "Table 4. Intervention effects on cardiovascular risk profile and vascular function.",
+            "Effect size",
+            "6 months"
+          ]
+        },
+        {
+          "value": "2.46 (1.61)",
+          "rowHeaders": [
+            "HOMA1-IR",
+            "c",
+            "(n=104)"
+          ],
+          "columnHeaders": [
+            "Table 4. Intervention effects on cardiovascular risk profile and vascular function.",
+            "Usual care, mean (SD)",
+            "6 months"
+          ]
+        },
+        {
+          "value": "2.07 (1.11)",
+          "rowHeaders": [
+            "HOMA1-IR",
+            "c",
+            "(n=104)"
+          ],
+          "columnHeaders": [
+            "Table 4. Intervention effects on cardiovascular risk profile and vascular function.",
+            "Usual care, mean (SD)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "2.73 (2.42)",
+          "rowHeaders": [
+            "HOMA1-IR",
+            "c",
+            "(n=104)"
+          ],
+          "columnHeaders": [
+            "Table 4. Intervention effects on cardiovascular risk profile and vascular function.",
+            ", mean (SD)",
+            "6 months"
+          ]
+        },
+        {
+          "value": "2.30 (1.61)",
+          "rowHeaders": [
+            "HOMA1-IR",
+            "c",
+            "(n=104)"
+          ],
+          "columnHeaders": [
+            "Table 4. Intervention effects on cardiovascular risk profile and vascular function.",
+            "PATHway",
+            "Baseline"
+          ]
+        },
+        {
+          "value": ".15",
+          "rowHeaders": [
+            "Total cholesterol (n=120), mmol/L"
+          ],
+          "columnHeaders": [
+            "Table 4. Intervention effects on cardiovascular risk profile and vascular function.",
+            "P value",
+            "6 months"
+          ]
+        },
+        {
+          "value": "−0.25",
+          "rowHeaders": [
+            "Total cholesterol (n=120), mmol/L"
+          ],
+          "columnHeaders": [
+            "Table 4. Intervention effects on cardiovascular risk profile and vascular function.",
+            "Effect size",
+            "6 months"
+          ]
+        },
+        {
+          "value": "3.84 (1.08)",
+          "rowHeaders": [
+            "Total cholesterol (n=120), mmol/L"
+          ],
+          "columnHeaders": [
+            "Table 4. Intervention effects on cardiovascular risk profile and vascular function.",
+            "Usual care, mean (SD)",
+            "6 months"
+          ]
+        },
+        {
+          "value": "3.66 (0.95)",
+          "rowHeaders": [
+            "Total cholesterol (n=120), mmol/L"
+          ],
+          "columnHeaders": [
+            "Table 4. Intervention effects on cardiovascular risk profile and vascular function.",
+            "Usual care, mean (SD)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "3.81 (1.01)",
+          "rowHeaders": [
+            "Total cholesterol (n=120), mmol/L"
+          ],
+          "columnHeaders": [
+            "Table 4. Intervention effects on cardiovascular risk profile and vascular function.",
+            ", mean (SD)",
+            "6 months"
+          ]
+        },
+        {
+          "value": "3.82 (0.97)",
+          "rowHeaders": [
+            "Total cholesterol (n=120), mmol/L"
+          ],
+          "columnHeaders": [
+            "Table 4. Intervention effects on cardiovascular risk profile and vascular function.",
+            "PATHway",
+            "Baseline"
+          ]
+        },
+        {
+          "value": ".29",
+          "rowHeaders": [
+            "High-density lipoprotein cholesterol (n=120),"
+          ],
+          "columnHeaders": [
+            "Table 4. Intervention effects on cardiovascular risk profile and vascular function.",
+            "P value",
+            "6 months"
+          ]
+        },
+        {
+          "value": "−0.18",
+          "rowHeaders": [
+            "High-density lipoprotein cholesterol (n=120),"
+          ],
+          "columnHeaders": [
+            "Table 4. Intervention effects on cardiovascular risk profile and vascular function.",
+            "Effect size",
+            "6 months"
+          ]
+        },
+        {
+          "value": "1.34 (0.47)",
+          "rowHeaders": [
+            "High-density lipoprotein cholesterol (n=120),"
+          ],
+          "columnHeaders": [
+            "Table 4. Intervention effects on cardiovascular risk profile and vascular function.",
+            "Usual care, mean (SD)",
+            "6 months"
+          ]
+        },
+        {
+          "value": "1.30 (0.41)",
+          "rowHeaders": [
+            "High-density lipoprotein cholesterol (n=120),"
+          ],
+          "columnHeaders": [
+            "Table 4. Intervention effects on cardiovascular risk profile and vascular function.",
+            "Usual care, mean (SD)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "1.28 (0.33)",
+          "rowHeaders": [
+            "High-density lipoprotein cholesterol (n=120),"
+          ],
+          "columnHeaders": [
+            "Table 4. Intervention effects on cardiovascular risk profile and vascular function.",
+            ", mean (SD)",
+            "6 months"
+          ]
+        },
+        {
+          "value": "1.29 (0.36)",
+          "rowHeaders": [
+            "High-density lipoprotein cholesterol (n=120),"
+          ],
+          "columnHeaders": [
+            "Table 4. Intervention effects on cardiovascular risk profile and vascular function.",
+            "PATHway",
+            "Baseline"
+          ]
+        },
+        {
+          "value": ".12",
+          "rowHeaders": [
+            "Low-density lipoprotein cholesterol (n=120),"
+          ],
+          "columnHeaders": [
+            "Table 4. Intervention effects on cardiovascular risk profile and vascular function.",
+            "P value",
+            "6 months"
+          ]
+        },
+        {
+          "value": "−0.26",
+          "rowHeaders": [
+            "Low-density lipoprotein cholesterol (n=120),"
+          ],
+          "columnHeaders": [
+            "Table 4. Intervention effects on cardiovascular risk profile and vascular function.",
+            "Effect size",
+            "6 months"
+          ]
+        },
+        {
+          "value": "2.01 (0.87)",
+          "rowHeaders": [
+            "Low-density lipoprotein cholesterol (n=120),"
+          ],
+          "columnHeaders": [
+            "Table 4. Intervention effects on cardiovascular risk profile and vascular function.",
+            "Usual care, mean (SD)",
+            "6 months"
+          ]
+        },
+        {
+          "value": "1.84 (0.78)",
+          "rowHeaders": [
+            "Low-density lipoprotein cholesterol (n=120),"
+          ],
+          "columnHeaders": [
+            "Table 4. Intervention effects on cardiovascular risk profile and vascular function.",
+            "Usual care, mean (SD)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "1.95 (0.80)",
+          "rowHeaders": [
+            "Low-density lipoprotein cholesterol (n=120),"
+          ],
+          "columnHeaders": [
+            "Table 4. Intervention effects on cardiovascular risk profile and vascular function.",
+            ", mean (SD)",
+            "6 months"
+          ]
+        },
+        {
+          "value": "1.96 (0.79)",
+          "rowHeaders": [
+            "Low-density lipoprotein cholesterol (n=120),"
+          ],
+          "columnHeaders": [
+            "Table 4. Intervention effects on cardiovascular risk profile and vascular function.",
+            "PATHway",
+            "Baseline"
+          ]
+        },
+        {
+          "value": ".31",
+          "rowHeaders": [
+            "Low-density lipoprotein cholesterol (n=120),"
+          ],
+          "columnHeaders": [
+            "Table 4. Intervention effects on cardiovascular risk profile and vascular function.",
+            "P value",
+            "6 months"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": ".48",
+          "rowHeaders": [
+            "Exercise intentions"
+          ],
+          "columnHeaders": [
+            "Table 5. Intervention effects on lifestyle, health behaviors, and quality-of-life outcomes.",
+            "Intervention effects on lifestyle, health behaviors, and quality-",
+            "P value",
+            "6 months"
+          ]
+        },
+        {
+          "value": "0.14",
+          "rowHeaders": [
+            "Exercise intentions"
+          ],
+          "columnHeaders": [
+            "Table 5. Intervention effects on lifestyle, health behaviors, and quality-of-life outcomes.",
+            "Intervention effects on lifestyle, health behaviors, and quality-",
+            "Effect size",
+            "6 months"
+          ]
+        },
+        {
+          "value": "20.7 (3.52)",
+          "rowHeaders": [
+            "Exercise intentions"
+          ],
+          "columnHeaders": [
+            "Table 5. Intervention effects on lifestyle, health behaviors, and quality-of-life outcomes.",
+            "Intervention effects on lifestyle, health behaviors, and quality-",
+            "Usual care, mean (SD)",
+            "6 months"
+          ]
+        },
+        {
+          "value": "21.1 (2.67)",
+          "rowHeaders": [
+            "Exercise intentions"
+          ],
+          "columnHeaders": [
+            "Table 5. Intervention effects on lifestyle, health behaviors, and quality-of-life outcomes.",
+            "Intervention effects on lifestyle, health behaviors, and quality-",
+            "Usual care, mean (SD)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "20.5 (3.06)",
+          "rowHeaders": [
+            "Exercise intentions"
+          ],
+          "columnHeaders": [
+            "Table 5. Intervention effects on lifestyle, health behaviors, and quality-of-life outcomes.",
+            "Intervention effects on lifestyle, health behaviors, and quality-",
+            ", mean (SD)",
+            "6 months"
+          ]
+        },
+        {
+          "value": "21.3 (2.57)",
+          "rowHeaders": [
+            "Exercise intentions"
+          ],
+          "columnHeaders": [
+            "Table 5. Intervention effects on lifestyle, health behaviors, and quality-of-life outcomes.",
+            "Intervention effects on lifestyle, health behaviors, and quality-",
+            "PATHway",
+            "Baseline"
+          ]
+        },
+        {
+          "value": ".19",
+          "rowHeaders": [
+            "Exercise planning"
+          ],
+          "columnHeaders": [
+            "Table 5. Intervention effects on lifestyle, health behaviors, and quality-of-life outcomes.",
+            "Intervention effects on lifestyle, health behaviors, and quality-",
+            "P value",
+            "6 months"
+          ]
+        },
+        {
+          "value": "0.14",
+          "rowHeaders": [
+            "Exercise planning"
+          ],
+          "columnHeaders": [
+            "Table 5. Intervention effects on lifestyle, health behaviors, and quality-of-life outcomes.",
+            "Intervention effects on lifestyle, health behaviors, and quality-",
+            "Effect size",
+            "6 months"
+          ]
+        },
+        {
+          "value": "28.1 (6.73)",
+          "rowHeaders": [
+            "Exercise planning"
+          ],
+          "columnHeaders": [
+            "Table 5. Intervention effects on lifestyle, health behaviors, and quality-of-life outcomes.",
+            "Intervention effects on lifestyle, health behaviors, and quality-",
+            "Usual care, mean (SD)",
+            "6 months"
+          ]
+        },
+        {
+          "value": "28.4 (5.83)",
+          "rowHeaders": [
+            "Exercise planning"
+          ],
+          "columnHeaders": [
+            "Table 5. Intervention effects on lifestyle, health behaviors, and quality-of-life outcomes.",
+            "Intervention effects on lifestyle, health behaviors, and quality-",
+            "Usual care, mean (SD)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "28.3 (6.98)",
+          "rowHeaders": [
+            "Exercise planning"
+          ],
+          "columnHeaders": [
+            "Table 5. Intervention effects on lifestyle, health behaviors, and quality-of-life outcomes.",
+            "Intervention effects on lifestyle, health behaviors, and quality-",
+            ", mean (SD)",
+            "6 months"
+          ]
+        },
+        {
+          "value": "27.3 (6.30)",
+          "rowHeaders": [
+            "Exercise planning"
+          ],
+          "columnHeaders": [
+            "Table 5. Intervention effects on lifestyle, health behaviors, and quality-of-life outcomes.",
+            "Intervention effects on lifestyle, health behaviors, and quality-",
+            "PATHway",
+            "Baseline"
+          ]
+        },
+        {
+          "value": ".83",
+          "rowHeaders": [
+            "Exercise barriers (barriers self-efficacy scale)"
+          ],
+          "columnHeaders": [
+            "Table 5. Intervention effects on lifestyle, health behaviors, and quality-of-life outcomes.",
+            "Intervention effects on lifestyle, health behaviors, and quality-",
+            "P value",
+            "6 months"
+          ]
+        },
+        {
+          "value": "0.04",
+          "rowHeaders": [
+            "Exercise barriers (barriers self-efficacy scale)"
+          ],
+          "columnHeaders": [
+            "Table 5. Intervention effects on lifestyle, health behaviors, and quality-of-life outcomes.",
+            "Intervention effects on lifestyle, health behaviors, and quality-",
+            "Effect size",
+            "6 months"
+          ]
+        },
+        {
+          "value": "68.9 (22.8)",
+          "rowHeaders": [
+            "Exercise barriers (barriers self-efficacy scale)"
+          ],
+          "columnHeaders": [
+            "Table 5. Intervention effects on lifestyle, health behaviors, and quality-of-life outcomes.",
+            "Intervention effects on lifestyle, health behaviors, and quality-",
+            "Usual care, mean (SD)",
+            "6 months"
+          ]
+        },
+        {
+          "value": "70.5 (21.5)",
+          "rowHeaders": [
+            "Exercise barriers (barriers self-efficacy scale)"
+          ],
+          "columnHeaders": [
+            "Table 5. Intervention effects on lifestyle, health behaviors, and quality-of-life outcomes.",
+            "Intervention effects on lifestyle, health behaviors, and quality-",
+            "Usual care, mean (SD)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "67.3 (22.5)",
+          "rowHeaders": [
+            "Exercise barriers (barriers self-efficacy scale)"
+          ],
+          "columnHeaders": [
+            "Table 5. Intervention effects on lifestyle, health behaviors, and quality-of-life outcomes.",
+            "Intervention effects on lifestyle, health behaviors, and quality-",
+            ", mean (SD)",
+            "6 months"
+          ]
+        },
+        {
+          "value": "68.1 (23.1)",
+          "rowHeaders": [
+            "Exercise barriers (barriers self-efficacy scale)"
+          ],
+          "columnHeaders": [
+            "Table 5. Intervention effects on lifestyle, health behaviors, and quality-of-life outcomes.",
+            "Intervention effects on lifestyle, health behaviors, and quality-",
+            "PATHway",
+            "Baseline"
+          ]
+        },
+        {
+          "value": ".24",
+          "rowHeaders": [
+            "Exercise self-efficacy (exercise self-efficacy scale)"
+          ],
+          "columnHeaders": [
+            "Table 5. Intervention effects on lifestyle, health behaviors, and quality-of-life outcomes.",
+            "Intervention effects on lifestyle, health behaviors, and quality-",
+            "P value",
+            "6 months"
+          ]
+        },
+        {
+          "value": "−0.23",
+          "rowHeaders": [
+            "Exercise self-efficacy (exercise self-efficacy scale)"
+          ],
+          "columnHeaders": [
+            "Table 5. Intervention effects on lifestyle, health behaviors, and quality-of-life outcomes.",
+            "Intervention effects on lifestyle, health behaviors, and quality-",
+            "Effect size",
+            "6 months"
+          ]
+        },
+        {
+          "value": "79.7 (20.0)",
+          "rowHeaders": [
+            "Exercise self-efficacy (exercise self-efficacy scale)"
+          ],
+          "columnHeaders": [
+            "Table 5. Intervention effects on lifestyle, health behaviors, and quality-of-life outcomes.",
+            "Intervention effects on lifestyle, health behaviors, and quality-",
+            "Usual care, mean (SD)",
+            "6 months"
+          ]
+        },
+        {
+          "value": "81.1 (19.1)",
+          "rowHeaders": [
+            "Exercise self-efficacy (exercise self-efficacy scale)"
+          ],
+          "columnHeaders": [
+            "Table 5. Intervention effects on lifestyle, health behaviors, and quality-of-life outcomes.",
+            "Intervention effects on lifestyle, health behaviors, and quality-",
+            "Usual care, mean (SD)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "78.3 (18.3)",
+          "rowHeaders": [
+            "Exercise self-efficacy (exercise self-efficacy scale)"
+          ],
+          "columnHeaders": [
+            "Table 5. Intervention effects on lifestyle, health behaviors, and quality-of-life outcomes.",
+            "Intervention effects on lifestyle, health behaviors, and quality-",
+            ", mean (SD)",
+            "6 months"
+          ]
+        },
+        {
+          "value": "83.3 (17.7)",
+          "rowHeaders": [
+            "Exercise self-efficacy (exercise self-efficacy scale)"
+          ],
+          "columnHeaders": [
+            "Table 5. Intervention effects on lifestyle, health behaviors, and quality-of-life outcomes.",
+            "Intervention effects on lifestyle, health behaviors, and quality-",
+            "PATHway",
+            "Baseline"
+          ]
+        },
+        {
+          "value": ".94",
+          "rowHeaders": [
+            "Social support (ENRICHDb social support instrument)"
+          ],
+          "columnHeaders": [
+            "Table 5. Intervention effects on lifestyle, health behaviors, and quality-of-life outcomes.",
+            "Intervention effects on lifestyle, health behaviors, and quality-",
+            "P value",
+            "6 months"
+          ]
+        },
+        {
+          "value": "−0.02",
+          "rowHeaders": [
+            "Social support (ENRICHDb social support instrument)"
+          ],
+          "columnHeaders": [
+            "Table 5. Intervention effects on lifestyle, health behaviors, and quality-of-life outcomes.",
+            "Intervention effects on lifestyle, health behaviors, and quality-",
+            "Effect size",
+            "6 months"
+          ]
+        },
+        {
+          "value": "27.0 (3.61)",
+          "rowHeaders": [
+            "Social support (ENRICHDb social support instrument)"
+          ],
+          "columnHeaders": [
+            "Table 5. Intervention effects on lifestyle, health behaviors, and quality-of-life outcomes.",
+            "Intervention effects on lifestyle, health behaviors, and quality-",
+            "Usual care, mean (SD)",
+            "6 months"
+          ]
+        },
+        {
+          "value": "27.0 (3.36)",
+          "rowHeaders": [
+            "Social support (ENRICHDb social support instrument)"
+          ],
+          "columnHeaders": [
+            "Table 5. Intervention effects on lifestyle, health behaviors, and quality-of-life outcomes.",
+            "Intervention effects on lifestyle, health behaviors, and quality-",
+            "Usual care, mean (SD)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "27.2 (3.95)",
+          "rowHeaders": [
+            "Social support (ENRICHDb social support instrument)"
+          ],
+          "columnHeaders": [
+            "Table 5. Intervention effects on lifestyle, health behaviors, and quality-of-life outcomes.",
+            "Intervention effects on lifestyle, health behaviors, and quality-",
+            ", mean (SD)",
+            "6 months"
+          ]
+        },
+        {
+          "value": "27.3 (3.56)",
+          "rowHeaders": [
+            "Social support (ENRICHDb social support instrument)"
+          ],
+          "columnHeaders": [
+            "Table 5. Intervention effects on lifestyle, health behaviors, and quality-of-life outcomes.",
+            "Intervention effects on lifestyle, health behaviors, and quality-",
+            "PATHway",
+            "Baseline"
+          ]
+        },
+        {
+          "value": ".25",
+          "rowHeaders": [
+            "Diet (Mediterranean diet adherence screener)"
+          ],
+          "columnHeaders": [
+            "Table 5. Intervention effects on lifestyle, health behaviors, and quality-of-life outcomes.",
+            "Intervention effects on lifestyle, health behaviors, and quality-",
+            "P value",
+            "6 months"
+          ]
+        },
+        {
+          "value": "−0.20",
+          "rowHeaders": [
+            "Diet (Mediterranean diet adherence screener)"
+          ],
+          "columnHeaders": [
+            "Table 5. Intervention effects on lifestyle, health behaviors, and quality-of-life outcomes.",
+            "Intervention effects on lifestyle, health behaviors, and quality-",
+            "Effect size",
+            "6 months"
+          ]
+        },
+        {
+          "value": "6.20 (2.15)",
+          "rowHeaders": [
+            "Diet (Mediterranean diet adherence screener)"
+          ],
+          "columnHeaders": [
+            "Table 5. Intervention effects on lifestyle, health behaviors, and quality-of-life outcomes.",
+            "Intervention effects on lifestyle, health behaviors, and quality-",
+            "Usual care, mean (SD)",
+            "6 months"
+          ]
+        },
+        {
+          "value": "5.95 (2.08)",
+          "rowHeaders": [
+            "Diet (Mediterranean diet adherence screener)"
+          ],
+          "columnHeaders": [
+            "Table 5. Intervention effects on lifestyle, health behaviors, and quality-of-life outcomes.",
+            "Intervention effects on lifestyle, health behaviors, and quality-",
+            "Usual care, mean (SD)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "6.35 (1.93)",
+          "rowHeaders": [
+            "Diet (Mediterranean diet adherence screener)"
+          ],
+          "columnHeaders": [
+            "Table 5. Intervention effects on lifestyle, health behaviors, and quality-of-life outcomes.",
+            "Intervention effects on lifestyle, health behaviors, and quality-",
+            ", mean (SD)",
+            "6 months"
+          ]
+        },
+        {
+          "value": "6.47 (2.12)",
+          "rowHeaders": [
+            "Diet (Mediterranean diet adherence screener)"
+          ],
+          "columnHeaders": [
+            "Table 5. Intervention effects on lifestyle, health behaviors, and quality-of-life outcomes.",
+            "Intervention effects on lifestyle, health behaviors, and quality-",
+            "PATHway",
+            "Baseline"
+          ]
+        },
+        {
+          "value": ".30",
+          "rowHeaders": [
+            "Medication adherence (Morisky medication adherence"
+          ],
+          "columnHeaders": [
+            "Table 5. Intervention effects on lifestyle, health behaviors, and quality-of-life outcomes.",
+            "Intervention effects on lifestyle, health behaviors, and quality-",
+            "P value",
+            "6 months"
+          ]
+        },
+        {
+          "value": "−0.09",
+          "rowHeaders": [
+            "Medication adherence (Morisky medication adherence"
+          ],
+          "columnHeaders": [
+            "Table 5. Intervention effects on lifestyle, health behaviors, and quality-of-life outcomes.",
+            "Intervention effects on lifestyle, health behaviors, and quality-",
+            "Effect size",
+            "6 months"
+          ]
+        },
+        {
+          "value": "6.78 (0.87)",
+          "rowHeaders": [
+            "Medication adherence (Morisky medication adherence"
+          ],
+          "columnHeaders": [
+            "Table 5. Intervention effects on lifestyle, health behaviors, and quality-of-life outcomes.",
+            "Intervention effects on lifestyle, health behaviors, and quality-",
+            "Usual care, mean (SD)",
+            "6 months"
+          ]
+        },
+        {
+          "value": "6.70 (1.01)",
+          "rowHeaders": [
+            "Medication adherence (Morisky medication adherence"
+          ],
+          "columnHeaders": [
+            "Table 5. Intervention effects on lifestyle, health behaviors, and quality-of-life outcomes.",
+            "Intervention effects on lifestyle, health behaviors, and quality-",
+            "Usual care, mean (SD)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "6.70 (0.89)",
+          "rowHeaders": [
+            "Medication adherence (Morisky medication adherence"
+          ],
+          "columnHeaders": [
+            "Table 5. Intervention effects on lifestyle, health behaviors, and quality-of-life outcomes.",
+            "Intervention effects on lifestyle, health behaviors, and quality-",
+            ", mean (SD)",
+            "6 months"
+          ]
+        },
+        {
+          "value": "6.78 (0.98)",
+          "rowHeaders": [
+            "Medication adherence (Morisky medication adherence"
+          ],
+          "columnHeaders": [
+            "Table 5. Intervention effects on lifestyle, health behaviors, and quality-of-life outcomes.",
+            "Intervention effects on lifestyle, health behaviors, and quality-",
+            "PATHway",
+            "Baseline"
+          ]
+        },
+        {
+          "value": ".86",
+          "rowHeaders": [
+            "Stress (perceived stress scale)"
+          ],
+          "columnHeaders": [
+            "Table 5. Intervention effects on lifestyle, health behaviors, and quality-of-life outcomes.",
+            "Intervention effects on lifestyle, health behaviors, and quality-",
+            "P value",
+            "6 months"
+          ]
+        },
+        {
+          "value": "−0.011",
+          "rowHeaders": [
+            "Stress (perceived stress scale)"
+          ],
+          "columnHeaders": [
+            "Table 5. Intervention effects on lifestyle, health behaviors, and quality-of-life outcomes.",
+            "Intervention effects on lifestyle, health behaviors, and quality-",
+            "Effect size",
+            "6 months"
+          ]
+        },
+        {
+          "value": "11.6 (6.98)",
+          "rowHeaders": [
+            "Stress (perceived stress scale)"
+          ],
+          "columnHeaders": [
+            "Table 5. Intervention effects on lifestyle, health behaviors, and quality-of-life outcomes.",
+            "Intervention effects on lifestyle, health behaviors, and quality-",
+            "Usual care, mean (SD)",
+            "6 months"
+          ]
+        },
+        {
+          "value": "11.9 (6.35)",
+          "rowHeaders": [
+            "Stress (perceived stress scale)"
+          ],
+          "columnHeaders": [
+            "Table 5. Intervention effects on lifestyle, health behaviors, and quality-of-life outcomes.",
+            "Intervention effects on lifestyle, health behaviors, and quality-",
+            "Usual care, mean (SD)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "10.9 (7.84)",
+          "rowHeaders": [
+            "Stress (perceived stress scale)"
+          ],
+          "columnHeaders": [
+            "Table 5. Intervention effects on lifestyle, health behaviors, and quality-of-life outcomes.",
+            "Intervention effects on lifestyle, health behaviors, and quality-",
+            ", mean (SD)",
+            "6 months"
+          ]
+        },
+        {
+          "value": "11.4 (7.22)",
+          "rowHeaders": [
+            "Stress (perceived stress scale)"
+          ],
+          "columnHeaders": [
+            "Table 5. Intervention effects on lifestyle, health behaviors, and quality-of-life outcomes.",
+            "Intervention effects on lifestyle, health behaviors, and quality-",
+            "PATHway",
+            "Baseline"
+          ]
+        },
+        {
+          "value": ".08",
+          "rowHeaders": [
+            "Alcohol consumption (alcohol use disorders identification"
+          ],
+          "columnHeaders": [
+            "Table 5. Intervention effects on lifestyle, health behaviors, and quality-of-life outcomes.",
+            "Intervention effects on lifestyle, health behaviors, and quality-",
+            "P value",
+            "6 months"
+          ]
+        },
+        {
+          "value": "−0.38",
+          "rowHeaders": [
+            "Alcohol consumption (alcohol use disorders identification"
+          ],
+          "columnHeaders": [
+            "Table 5. Intervention effects on lifestyle, health behaviors, and quality-of-life outcomes.",
+            "Intervention effects on lifestyle, health behaviors, and quality-",
+            "Effect size",
+            "6 months"
+          ]
+        },
+        {
+          "value": "3.08 (2.29)",
+          "rowHeaders": [
+            "Alcohol consumption (alcohol use disorders identification"
+          ],
+          "columnHeaders": [
+            "Table 5. Intervention effects on lifestyle, health behaviors, and quality-of-life outcomes.",
+            "Intervention effects on lifestyle, health behaviors, and quality-",
+            "Usual care, mean (SD)",
+            "6 months"
+          ]
+        },
+        {
+          "value": "2.90 (2.01)",
+          "rowHeaders": [
+            "Alcohol consumption (alcohol use disorders identification"
+          ],
+          "columnHeaders": [
+            "Table 5. Intervention effects on lifestyle, health behaviors, and quality-of-life outcomes.",
+            "Intervention effects on lifestyle, health behaviors, and quality-",
+            "Usual care, mean (SD)",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "3.10 (2.43)",
+          "rowHeaders": [
+            "Alcohol consumption (alcohol use disorders identification"
+          ],
+          "columnHeaders": [
+            "Table 5. Intervention effects on lifestyle, health behaviors, and quality-of-life outcomes.",
+            "Intervention effects on lifestyle, health behaviors, and quality-",
+            ", mean (SD)",
+            "6 months"
+          ]
+        },
+        {
+          "value": "3.23 (2.53)",
+          "rowHeaders": [
+            "Alcohol consumption (alcohol use disorders identification"
+          ],
+          "columnHeaders": [
+            "Table 5. Intervention effects on lifestyle, health behaviors, and quality-of-life outcomes.",
+            "Intervention effects on lifestyle, health behaviors, and quality-",
+            "PATHway",
+            "Baseline"
+          ]
+        }
+      ],
+      "page": 1
+    }
+  ]
+}

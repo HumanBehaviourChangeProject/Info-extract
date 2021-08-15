@@ -1,0 +1,2785 @@
+{
+  "blocks": [
+    {
+      "type": "LINES",
+      "value": "Video Game Play, Child Diet, and Physical Activity Behavior Change: A Randomized Clinical Trial",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Background-Video games designed to promote behavior change area promising venue to enable children to learn healthier behaviors.\nPurpose-Evaluate outcome from playing \"Escape from Diab\" (Diab) and \"Nanoswarm: Invasion from Inner Space\" (Nano) video games on children's diet, physical activity and adiposity.\nDesign-Two-group RCT; assessments occurred at baseline (B), immediately after Diab (P 1 ), immediately after Nano (P 2 ) and 2 months later (P 3 ). Data were collected in 2008-2009, and analyses conducted in 2009-2010.\nSetting/Participants-133 children aged 10-12 years, initially between 50 percentile and 95 percentile BMI.\nIntervention-Treatment group played Diab and Nano in sequence. Control Group played diet and physical activity knowledge-based games on popular websites.\nMain Outcome measures-Servings of fruit, vegetable and water; minutes of moderate to vigorous physical activity. At each point of assessment: 3 nonconsecutive days of 24-hour dietary recalls, 5 consecutive days of physical activity using accelerometers, and assessment of height, weight, waist circumference and triceps skinfold.\nResults-A repeated measures ANCOVA was conducted (analyzed in 2009-2010). Children playing these video games increased fruit and vegetable consumption by about .67 servings per day (p<0.018), but not water, moderate-to-vigorous physical activity, or body composition.",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Conclusions-Playing Diab and Nano resulted in an increase in fruit and vegetable intake. Research is needed on the optimal design of video game components to maximize change.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Youth obesity rose dramatically during recent decades1. While the increases since 1999 have been small, there have been no declines from the high levels2 with resulting increased prevalence of type 2 diabetes3. Obesity results from energy imbalance, with energy intake exceeding expenditure4. Increased fruit and vegetable (FV), and water intakes have been associated with decreased risk of obesity.5 , 6 Many youth consume less than the recommended minimum of five FV servings7 and were physically active for less than the recommended 60 minutes of moderateto-vigorous physical activity (MVPA) per day.8\nSerious video games offer promise of innovative channels for effective behavior change . Once a child's attention has been attracted modeling, tailoring and feedback can increase personal relevance, while games add fun. Most health-related video games had some positive outcome, and video games have effectively promoted dietary change among youth. \"Escape from Diab\" and \"Nanoswarm: Invasion from Inner Space\" (hereinafter called Diab and Nano) were video games designed to lower risks of type 2 diabetes and obesity by changing youth diet and physical activity behaviors. Diab and Nano were designed based on social cognitive , self determination,15 and persuasion16 theories. The current research tested the hypothesis that children aged 10-12 years playing Diab and Nano would increase FV and water intakes and MVPA, in comparison to a control group.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "This small efficacy trial used a two-arm randomized control design with assessments of play at baseline, between games (post 1), immediate postgame (post 2), and 2-months postgame (post 3). Children were randomly assigned to intervention (n=103) or control (n=50) groups. Twice as many treatment as control group participants enabled substantial assessment of game play while maintaining the robustness of the F statistic to heterogeneity of differences in variation between groups.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Inclusionary criteria were being aged 10-12 years, between the 50th and 95th percentile for BMI, allowed to play video games, and having high-speed Internet access (to permit transmission of process evaluation data). Exclusionary criteria were the child not speaking English (since both games were in English), having a medical condition that influenced diet, physical activity, obesity, or the ability to complete questionnaires, a seizure disorder, or a member of a swim team. This project was approved by the Baylor College of Medicine IRB. All parents provided written informed consent and children provided informed assent. Children were recruited primarily with advertisements on a radio station whose listening audience included parents of children in the targeted age groups from ethnic minority communities (African-American, Hispanic). Sample size was set by the funding agency. Power analysis fora repeated measures ANCOVA (RM ANCOVA) to test the outcome, and independent t-tests for pairwise comparisons of the outcomes revealed that 2 groups, 4 repeated measures, a constant correlation of 0.3, an alpha of 0.05, and a sample size of 153, there was 80% power to detect a small-to-moderate overall effect (Cohen's d=0.25). For independent t-tests of post hoc pairwise changes for intervention and control groups, respectively, and an alpha of 0.0125 per pair, there was 80% power to detect moderate change in outcome).20 Inclusion of covariates in ANCOVAs decreases the power to detect significant effects.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Quantitative and qualitative methods (i.e., surveys and focus groups) were used to examine child preferences for storyline genres and plot content of nonviolent video games as well as computer access, knowledge and game-play frequency in a sample of predominantly lowincome urban middle school students in Texas (n=196) and rural middle school students in North Carolina (n=66). Each game had 9 sessions and a minimum of approximately 40 minutes of game-play per session. This totaled approximately 6 hours of new game-play per game. A session-bysession description of each of the components in Diab is in the game overview grid (see Appendix A, available online at www.ajpm-online.net). Each session had a knowledge minigame designed to provide practical knowledge related to change goals. Energy balance was divided into 18 sequential learning activities such that each ensuing learning session was predicated on mastering that material, which built on material in the previous session. Goal setting included action and coping (anticipatory problem solving) implementation intentions ; a behavioral inoculation component involving a motivational message with a reasons statement linking the selected behavior change to a personally selected value23; and a goal behavior menu tailored to usual dietary or physical activity behaviors. A more detailed description of Diab has been presented16. A similar structure was used for Nano. Children were allowed to take as long as desired in completing all sessions, but completing all sessions was required in the intervention group. Project staff called participants within 3 days of an expected session not played. Duration between measurements was used as a covariate in analysis.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The control group received a knowledge enhancing Internet experience presented in two parts (one for Diab, one for Nano). Each part included a booklet with two discs: one disc connecting to 8 sessions of game-based websites (each related to diet, physical activity and obesity), with questions on the disc to be answered after each session (with immediate feedback); and the second containing a knowledge-based nutrition game (Part 1: \"Good Food and Play Make a Balance Day\" and Part 2: \"Dish It Up\") that was played with the 8 session websites. This control group experience was offered to meet recruitees' expectations of playing health-related video games, and thereby avoid their disappointment and possible higher dropout rate .\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Treatment group participants were loaned 24 inch iMac computers with the games and Microsoft Windows XP operating system preinstalled, but had no applications other than the video game interventions. Intervention coordinators monitored child use of the games by organizing and reviewing email messages each time a child completed a session, answering call-in questions, guiding repair of minor hardware or software malfunctions, and arranging for speedy repair of larger malfunctions.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Graduated incentives were provided for child participation in data collection: $25 for baseline assessment; $30 for between-game assessments; $35 for immediate postgame assessment; and $40 for 2-month follow-up.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "For anthropometric assessments and 24-hour dietary recalls, data collectors were blinded to group assignment. Height was measured twice using a PE-AIM-101 stadiometer from Perspective Enterprises (Portage, MI) and averaged. Weight was measured twice using SECA Alpha 882 from the SECA Corporation (Hamburg, GR) and averaged. Waist circumference was measured twice at the iliac crest using a Gulick tape from Fitness Wholesale (Park Twinsburg, OH) and averaged. Triceps skinfold was measured twice on the right side of the body using a Lange Caliper from Cambridge Scientific Industries, Inc (Cambridge, MD) and averaged. If each pair of the anthropometric assessments were not within specified limits (± 1 cm for height, ± 0.2 kg for weight, ± 2 cm for WC, ± 10% for skinfold thickness), a third reading was obtained and the two closest averaged. Anthropometric data collection staff were all trained on standardized protocols and certified against an accomplished senior staff person.\nPhysical activity was assessed using Actigraph AM-7164 accelerometers (Manufacturing Technology Inc. Health Services Division, Ft. Walton Beach, Florida) which provide accurate and reliable indices of physical activity among children26. Participants were included in the accelerometer analysis only if they provided at least 4 days of valid accelerometer data. Periods in which 20 or more minutes of zero counts were obtained were interpreted as time when the monitor was not worn. Counts of 32767 indicated a malfunction. Each day of accelerometer data was considered valid if data were obtained for at least 800 minutes. Non-wear and malfunction time periods were removed from analysis. Few children were excluded due to invalid accelerometer data. On average 96% of the children participating in assessment provided 4 or more valid days of accelerometer data across all four time assessments. Among the children providing valid accelerometry, 95% included at least 1 valid weekend day. Little's chi-square (MCAR=130, df=130, p=.473) indicated accelerometer data were missing at random. Mean counts per minute, which provides an indication of the overall volume of physical activity in which a child engaged was calculated for all participants. MVPA was measured as the number of minutes above a specific threshold, averaged across all valid days. The thresholds used in defining sedentary, light, moderate, and vigorous activity levels were based on the thresholds identified by Treuth et al27. The ranges in counts per minute were: sedentary (1-100), light (101-2999), moderate-vigorous (≥3000). Mean minutes per activity level was computed as the minutes across valid days. Mean counts per minute was computed as the number of counts per day divided by the number of minutes per day, then averaged.\nThree 24-hour dietary recalls were conducted, the first one in person, and the subsequent two over the telephone by RDs who were trained and certified in Nutrient Data System-Research (NDS-R) following accepted procedures . Regular vegetable (V) intake was defined to exclude high-fat vegetables (e.g., French fries).\nThe social-desirability-of-response scale (the \"lie\" scale29) had nine items with a fourcategory (\"never true of me\", \"not sure\", \"sometimes true of me\", \"always true of me\") (0-3) response format and alpha reliability of 0.81 (assessed at baseline only).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Descriptive statistics were calculated as appropriate in 2009-2010. Bivariate correlations (Pearson or Spearman) assessed associations (depending on distributional characteristics) between key variables. A mixed model, accounting for missing repeated measures, examined whether children playing Diab and Nano increased FV, water, or physical activity, compared to the control group. The model contained time (a within-subjects factor: post 1, post 2, post 3) and study group (a between-subjects factor: intervention, control). Separate models were used for each dependent variable (e.g., FV, water intake, physical activity) with baseline used as covariate. A significant main effect was the primary test of outcome. A significant time-by-group interaction indicated a difference in outcome overtime between the study groups. For significant interactions, post hoc contrasts indicated a linear or quadratic trend overtime for each group. The level of significance was adjusted using the Bonferroni correction, when warranted, for post hoc analyses. In addition to the baseline measure, the model controlled for potential confounding variables (e.g., demographic characteristics, social desirability of response, and duration of game play). The magnitude of the overall effect was explained through the magnitude of the standardized effect size for the F statistic, where 0.10, 0.25, and 0.40 represent small, medium, and large effects, respectively. To descriptively present the significant outcomes, smoothed density function graphs were generated for the treatment and control groups at the time of biggest group difference.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The CONSORT statement flowchart (Figure) indicates that 260 children were initially contacted with 133 providing complete data. There were no significant differences in any demographic variables between treatment and control groups, or between those retained or eliminated from the sample. The sample had more 10-year-olds, men/boys, whites, and parents with a college degree or higher (Table). There were no differences in demographics or anthropometrics between participants with or without missing data. Only 7.5% of all the data were missing across all four time periods. Little's chi-square test of all variables indicated data were missing completely at random [X2=549.25, df=547, p=0.465]. Analyses were performed with and without imputed data and the results were similar.\nDespite randomization there were differences in mean levels of FV, nonfat vegetables, total energy, MVPA, counts per minute, BMI percentile and BMI z-score, by group at baseline (Table). The diet outcome analyses revealed significant treatment versus control effects at all post assessments on FV intake (small effect size=0.18, p=0.018) and its component F intake (moderate effect size=0.26, p=0.001) with the largest between-group FV difference (M=0.67, 95%CI=0.25, 1.09) at post test 3 assessment (marginal group × visit p=0.083) (Table). The density function graph (Figure) showed mean FV differences with the treatment group having higher intake in the right tail, while the control group had higher intake in the center of the distribution. There were no significant effects for the other variables. Post game questionnaires with children and interviews with parents revealed that most children (80%-90%) enjoyed playing both Diab and Nano.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Diab and Nano combined had a meaningful effect on dietary FV intake which is comparable to others reported in the literature. The average BMI percentile across both groups at baseline was 78 percentile. Since most interventions showing effects did so primarily among samples with a minimum participation requirement above the 85 percentile, repeating this intervention with a higher-risk group may result in more positive outcomes.\nAlthough these findings advance research on effects of video games on changing children's FV intake and physical activity, several limitations should be noted. Most measures including FV intake, involved self-reported data which are subject to memory error and reliability concerns. However, physical activity was measured with accelerometry . Despite random assignment to conditions, initial differences in key measures may have impaired the ability to detect changes. The sample size (set by the funding agency) was underpowered to detect some of the outcome effects. While the games were designed and were reported to be enjoyable, it is not clear what percentage of children would have played to completion without the measurement incentives. It is possible that making advancement in the games conditional on behavior change (e.g., actual physical activity or FV intake) would have enhanced efficacy. The possible mediation of knowledge needs to be addressed in future research. There was an increase in sedentary behavior in the treatment group; while not significant, this requires future attention.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Diab and Nano were designed as epic video game adventures, comparable to commercial quality video games. These games incorporated abroad diversity of behavior change procedures woven in and around engrossing stories. The games motivated players to substantially improve diet behaviors. FV and water consumption and physical activity were still below the minimum recommendations indicating that more work is needed. Serious video games hold promise, but their effectiveness and mechanisms of change among youth need to be more thoroughly investigated.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Refer to Web version on PubMed Central for supplementary material. A CONSORT statement figure of loss of participants by point after initial recruitment Density function graph of group difference in fruit and vegetable intake at Post-test 3 a The probability density function is between 0-1, where 0=0% probability and 1=100% probability  a Mixed model included the school random effect and controlled forage group, gender, race, household education, social desirability, and baseline assessment of the variable of interest.\nb Effect sizes (Cohen's f): f = sqrt ((df/N)*(F−1)); Small effect (.10), Medium effect (.25), Large effect (.40)\nIndicates variables for which there were baseline differences.\n",
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "50 (34.6)",
+          "rowHeaders": [
+            "Total n (% within row)"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Control",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "10",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 1",
+            "Treatment",
+            "Characteristics"
+          ]
+        },
+        {
+          "value": "43 (41.7)",
+          "rowHeaders": [
+            "Total n (% within row)"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Treatment",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "22 (44.0)",
+          "rowHeaders": [
+            "Total n (% within row)"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Control",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "65 (42.5)",
+          "rowHeaders": [
+            "Total n (% within row)"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Total",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "11",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 1",
+            "Treatment",
+            "Characteristics"
+          ]
+        },
+        {
+          "value": "34 (33.0)",
+          "rowHeaders": [
+            "Total n (% within row)"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Treatment",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "16 (32.0)",
+          "rowHeaders": [
+            "Total n (% within row)"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Control",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "50 (32.7)",
+          "rowHeaders": [
+            "Total n (% within row)"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Total",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "12",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 1",
+            "Treatment",
+            "Characteristics"
+          ]
+        },
+        {
+          "value": "26 (25.2)",
+          "rowHeaders": [
+            "Total n (% within row)"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Treatment",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "12 (24.0)",
+          "rowHeaders": [
+            "Total n (% within row)"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Control",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "38 (24.8)",
+          "rowHeaders": [
+            "Total n (% within row)"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Total",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "45 (43.7)",
+          "rowHeaders": [
+            "Female"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Treatment",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "22 (44.0)",
+          "rowHeaders": [
+            "Female"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Control",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "67 (43.8)",
+          "rowHeaders": [
+            "Female"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Total",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "58 (56.3)",
+          "rowHeaders": [
+            "Male"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Treatment",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "28 (56.0)",
+          "rowHeaders": [
+            "Male"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Control",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "86 (56.2)",
+          "rowHeaders": [
+            "Male"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Total",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "37 (35.9)",
+          "rowHeaders": [
+            "White"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Treatment",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "24 (48.0)",
+          "rowHeaders": [
+            "White"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Control",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "61 (39.9)",
+          "rowHeaders": [
+            "White"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Total",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "28 (27.2)",
+          "rowHeaders": [
+            "African-American"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Treatment",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "37 (24.2)",
+          "rowHeaders": [
+            "African-American"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Total",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "28 (27.2)",
+          "rowHeaders": [
+            "Hispanic"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Treatment",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "15 (30.0)",
+          "rowHeaders": [
+            "Hispanic"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Control",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "43 (28.1)",
+          "rowHeaders": [
+            "Hispanic"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Total",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "10 (9.7)",
+          "rowHeaders": [
+            "Other"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Treatment",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "12 (7.8)",
+          "rowHeaders": [
+            "Other"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Total",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "31 (30.1)",
+          "rowHeaders": [
+            "Some college or less"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Treatment",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "17 (34.0)",
+          "rowHeaders": [
+            "Some college or less"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Control",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "48 (31.4)",
+          "rowHeaders": [
+            "Some college or less"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Total",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "72 (69.9)",
+          "rowHeaders": [
+            "College degree or more"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Treatment",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "33 (66.0)",
+          "rowHeaders": [
+            "College degree or more"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Control",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "1.65 (0.11)",
+          "rowHeaders": [
+            "FVb"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Treatment",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "2.21 (0.18)",
+          "rowHeaders": [
+            "FVb"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Control",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "1.83 (0.10)",
+          "rowHeaders": [
+            "FVb"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Total",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "0.53 (0.06)",
+          "rowHeaders": [
+            "F"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Treatment",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "0.65 (0.12)",
+          "rowHeaders": [
+            "F"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Control",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "0.57 (0.05)",
+          "rowHeaders": [
+            "F"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Total",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "0.70 (0.05)",
+          "rowHeaders": [
+            "RVEGc"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Treatment",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "0.92 (0.09)",
+          "rowHeaders": [
+            "RVEGc"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Control",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "0.78 (0.05)",
+          "rowHeaders": [
+            "RVEGc"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Total",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "11.35 (1.14)",
+          "rowHeaders": [
+            "Water"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Treatment",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "12.16 (1.57)",
+          "rowHeaders": [
+            "Water"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Control",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "11.61 (0.92)",
+          "rowHeaders": [
+            "Water"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Total",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "18 (1)",
+          "rowHeaders": [
+            "Moderate-to-Vigorous",
+            "e"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Treatment",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "23 (2)",
+          "rowHeaders": [
+            "Moderate-to-Vigorous",
+            "e"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Control",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "20 (1)",
+          "rowHeaders": [
+            "Moderate-to-Vigorous",
+            "e"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Total",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "79.61 (1.26)",
+          "rowHeaders": [
+            "BMI percentile",
+            "g"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Treatment",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "74.24 (1.99)",
+          "rowHeaders": [
+            "BMI percentile",
+            "g"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Control",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "77.86 (1.09)",
+          "rowHeaders": [
+            "BMI percentile",
+            "g"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Total",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "0.92 (0.05)",
+          "rowHeaders": [
+            "BMI z-score",
+            "h"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Treatment",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "0.73 (0.07)",
+          "rowHeaders": [
+            "BMI z-score",
+            "h"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Control",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "0.86 (0.04)",
+          "rowHeaders": [
+            "BMI z-score",
+            "h"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Total",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "16.61 (0.45)",
+          "rowHeaders": [
+            "Triceps"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Treatment",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "16.41 (0.71)",
+          "rowHeaders": [
+            "Triceps"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Control",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "16.54 (0.38)",
+          "rowHeaders": [
+            "Triceps"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Total",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "72.01 (0.75)",
+          "rowHeaders": [
+            "Waist Circumference"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Treatment",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "70.48 (1.00)",
+          "rowHeaders": [
+            "Waist Circumference"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Control",
+            "n (%)"
+          ]
+        },
+        {
+          "value": "71.51 (0.60)",
+          "rowHeaders": [
+            "Waist Circumference"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Total",
+            "n (%)"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "5.73",
+          "rowHeaders": [
+            "FVc",
+            "c",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group",
+            "F",
+            "Diet (Servings)"
+          ]
+        },
+        {
+          "value": "0.018",
+          "rowHeaders": [
+            "FVc",
+            "c",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group",
+            "p",
+            "Diet (Servings)"
+          ]
+        },
+        {
+          "value": "0.18",
+          "rowHeaders": [
+            "FVc",
+            "c",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group",
+            "fb",
+            "Diet (Servings)"
+          ]
+        },
+        {
+          "value": "2.51",
+          "rowHeaders": [
+            "FVc",
+            "c",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group×Visit",
+            "F",
+            "(n=98)"
+          ]
+        },
+        {
+          "value": "0.083",
+          "rowHeaders": [
+            "FVc",
+            "c",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group×Visit",
+            "p",
+            "(n=98)"
+          ]
+        },
+        {
+          "value": "0.14",
+          "rowHeaders": [
+            "FVc",
+            "c",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group×Visit",
+            "fb",
+            "(n=98)"
+          ]
+        },
+        {
+          "value": "1.88 (0.13)",
+          "rowHeaders": [
+            "FVc",
+            "c",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Treatment",
+            "Post 1",
+            "fb",
+            "(n=98)"
+          ]
+        },
+        {
+          "value": "1.85 (0.13)",
+          "rowHeaders": [
+            "FVc",
+            "c",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Treatment",
+            "Post 2",
+            "fb",
+            "(n=92)"
+          ]
+        },
+        {
+          "value": "2.15 (0.13)",
+          "rowHeaders": [
+            "FVc",
+            "c",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Treatment",
+            "Post 3",
+            "fb",
+            "(n=93)"
+          ]
+        },
+        {
+          "value": "1.56 (0.18)",
+          "rowHeaders": [
+            "FVc",
+            "c",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Control",
+            "Post 1",
+            "fb",
+            "(n=49)"
+          ]
+        },
+        {
+          "value": "1.72 (0.19)",
+          "rowHeaders": [
+            "Triceps (mm)",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Control",
+            "Post 2",
+            "fb",
+            "(n=42)"
+          ]
+        },
+        {
+          "value": "1.48 (0.19)",
+          "rowHeaders": [
+            "Triceps (mm)",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Control",
+            "Post 3",
+            "fb",
+            "(n=40)"
+          ]
+        },
+        {
+          "value": "10.93",
+          "rowHeaders": [
+            "F",
+            "c",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group",
+            "F",
+            "Diet (Servings)"
+          ]
+        },
+        {
+          "value": "0.001",
+          "rowHeaders": [
+            "F",
+            "c",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group",
+            "p",
+            "Diet (Servings)"
+          ]
+        },
+        {
+          "value": "0.26",
+          "rowHeaders": [
+            "F",
+            "c",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group",
+            "fb",
+            "Diet (Servings)"
+          ]
+        },
+        {
+          "value": "3.57",
+          "rowHeaders": [
+            "F",
+            "c",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group×Visit",
+            "F",
+            "(n=98)"
+          ]
+        },
+        {
+          "value": "0.029",
+          "rowHeaders": [
+            "F",
+            "c",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group×Visit",
+            "p",
+            "(n=98)"
+          ]
+        },
+        {
+          "value": "0.19",
+          "rowHeaders": [
+            "F",
+            "c",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group×Visit",
+            "fb",
+            "(n=98)"
+          ]
+        },
+        {
+          "value": "0.58 (0.06)",
+          "rowHeaders": [
+            "F",
+            "c",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Treatment",
+            "Post 1",
+            "fb",
+            "(n=98)"
+          ]
+        },
+        {
+          "value": "0.49 (0.07)",
+          "rowHeaders": [
+            "F",
+            "c",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Treatment",
+            "Post 2",
+            "fb",
+            "(n=92)"
+          ]
+        },
+        {
+          "value": "0.63 (0.07)",
+          "rowHeaders": [
+            "F",
+            "c",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Treatment",
+            "Post 3",
+            "fb",
+            "(n=93)"
+          ]
+        },
+        {
+          "value": "0.42 (0.09)",
+          "rowHeaders": [
+            "F",
+            "c",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Control",
+            "Post 1",
+            "fb",
+            "(n=49)"
+          ]
+        },
+        {
+          "value": "0.34 (0.10)",
+          "rowHeaders": [
+            "Triceps (mm)",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Control",
+            "Post 2",
+            "fb",
+            "(n=42)"
+          ]
+        },
+        {
+          "value": "0.19 (0.10)",
+          "rowHeaders": [
+            "Triceps (mm)",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Control",
+            "Post 3",
+            "fb",
+            "(n=40)"
+          ]
+        },
+        {
+          "value": "0.44",
+          "rowHeaders": [
+            "RVc",
+            "c",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group",
+            "F",
+            "Diet (Servings)"
+          ]
+        },
+        {
+          "value": "0.508",
+          "rowHeaders": [
+            "RVc",
+            "c",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group",
+            "p",
+            "Diet (Servings)"
+          ]
+        },
+        {
+          "value": "0.00",
+          "rowHeaders": [
+            "RVc",
+            "c",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group",
+            "fb",
+            "Diet (Servings)"
+          ]
+        },
+        {
+          "value": "2.45",
+          "rowHeaders": [
+            "RVc",
+            "c",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group×Visit",
+            "F",
+            "(n=98)"
+          ]
+        },
+        {
+          "value": "0.089",
+          "rowHeaders": [
+            "RVc",
+            "c",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group×Visit",
+            "p",
+            "(n=98)"
+          ]
+        },
+        {
+          "value": "0.14",
+          "rowHeaders": [
+            "RVc",
+            "c",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group×Visit",
+            "fb",
+            "(n=98)"
+          ]
+        },
+        {
+          "value": "0.75 (0.07)",
+          "rowHeaders": [
+            "RVc",
+            "c",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Treatment",
+            "Post 1",
+            "fb",
+            "(n=98)"
+          ]
+        },
+        {
+          "value": "0.79 (0.07)",
+          "rowHeaders": [
+            "RVc",
+            "c",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Treatment",
+            "Post 2",
+            "fb",
+            "(n=92)"
+          ]
+        },
+        {
+          "value": "0.85 (0.07)",
+          "rowHeaders": [
+            "RVc",
+            "c",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Treatment",
+            "Post 3",
+            "fb",
+            "(n=93)"
+          ]
+        },
+        {
+          "value": "0.76 (0.10)",
+          "rowHeaders": [
+            "Triceps (mm)",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Control",
+            "Post 1",
+            "fb",
+            "(n=49)"
+          ]
+        },
+        {
+          "value": "1.02 (0.10)",
+          "rowHeaders": [
+            "Triceps (mm)",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Control",
+            "Post 2",
+            "fb",
+            "(n=42)"
+          ]
+        },
+        {
+          "value": "0.77 (0.11)",
+          "rowHeaders": [
+            "Triceps (mm)",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Control",
+            "Post 3",
+            "fb",
+            "(n=40)"
+          ]
+        },
+        {
+          "value": "2.51",
+          "rowHeaders": [
+            "Water (oz) c",
+            "c",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group",
+            "F",
+            "Diet (Servings)"
+          ]
+        },
+        {
+          "value": "0.116",
+          "rowHeaders": [
+            "Water (oz) c",
+            "c",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group",
+            "p",
+            "Diet (Servings)"
+          ]
+        },
+        {
+          "value": "0.10",
+          "rowHeaders": [
+            "Water (oz) c",
+            "c",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group",
+            "fb",
+            "Diet (Servings)"
+          ]
+        },
+        {
+          "value": "0.35",
+          "rowHeaders": [
+            "Water (oz) c",
+            "c",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group×Visit",
+            "F",
+            "(n=98)"
+          ]
+        },
+        {
+          "value": "0.704",
+          "rowHeaders": [
+            "Water (oz) c",
+            "c",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group×Visit",
+            "p",
+            "(n=98)"
+          ]
+        },
+        {
+          "value": "0.00",
+          "rowHeaders": [
+            "Water (oz) c",
+            "c",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group×Visit",
+            "fb",
+            "(n=98)"
+          ]
+        },
+        {
+          "value": "12.81 (1.09)",
+          "rowHeaders": [
+            "Water (oz) c",
+            "c",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Treatment",
+            "Post 1",
+            "fb",
+            "(n=98)"
+          ]
+        },
+        {
+          "value": "12.82 (1.12)",
+          "rowHeaders": [
+            "Water (oz) c",
+            "c",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Treatment",
+            "Post 2",
+            "fb",
+            "(n=92)"
+          ]
+        },
+        {
+          "value": "12.32 (1.12)",
+          "rowHeaders": [
+            "Triceps (mm)",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Treatment",
+            "Post 3",
+            "fb",
+            "(n=93)"
+          ]
+        },
+        {
+          "value": "11.69 (1.52)",
+          "rowHeaders": [
+            "Triceps (mm)",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Control",
+            "Post 1",
+            "fb",
+            "(n=49)"
+          ]
+        },
+        {
+          "value": "10.07 (1.62)",
+          "rowHeaders": [
+            "Triceps (mm)",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Control",
+            "Post 2",
+            "fb",
+            "(n=42)"
+          ]
+        },
+        {
+          "value": "9.99 (1.65)",
+          "rowHeaders": [
+            "Triceps (mm)",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Control",
+            "Post 3",
+            "fb",
+            "(n=40)"
+          ]
+        },
+        {
+          "value": "1.69",
+          "rowHeaders": [
+            "Tot Energy (kcal)",
+            "c",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group",
+            "F",
+            "Diet (Servings)"
+          ]
+        },
+        {
+          "value": "0.196",
+          "rowHeaders": [
+            "Tot Energy (kcal)",
+            "c",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group",
+            "p",
+            "Diet (Servings)"
+          ]
+        },
+        {
+          "value": "0.07",
+          "rowHeaders": [
+            "Tot Energy (kcal)",
+            "c",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group",
+            "fb",
+            "Diet (Servings)"
+          ]
+        },
+        {
+          "value": "1.00",
+          "rowHeaders": [
+            "Tot Energy (kcal)",
+            "c",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group×Visit",
+            "F",
+            "(n=98)"
+          ]
+        },
+        {
+          "value": "0.370",
+          "rowHeaders": [
+            "Tot Energy (kcal)",
+            "c",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group×Visit",
+            "p",
+            "(n=98)"
+          ]
+        },
+        {
+          "value": "0.00",
+          "rowHeaders": [
+            "Tot Energy (kcal)",
+            "c",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group×Visit",
+            "fb",
+            "(n=98)"
+          ]
+        },
+        {
+          "value": "1.92",
+          "rowHeaders": [
+            "Mod-Vigorous PAc",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group",
+            "F",
+            "Diet (Servings)",
+            "Physical Activity (min)"
+          ]
+        },
+        {
+          "value": "0.169",
+          "rowHeaders": [
+            "Mod-Vigorous PAc",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group",
+            "p",
+            "Diet (Servings)",
+            "Physical Activity (min)"
+          ]
+        },
+        {
+          "value": "0.08",
+          "rowHeaders": [
+            "Mod-Vigorous PAc",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group",
+            "fb",
+            "Diet (Servings)",
+            "Physical Activity (min)"
+          ]
+        },
+        {
+          "value": "0.01",
+          "rowHeaders": [
+            "Mod-Vigorous PAc",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group×Visit",
+            "F",
+            "(n=98)",
+            "(n=94)"
+          ]
+        },
+        {
+          "value": "0.988",
+          "rowHeaders": [
+            "Mod-Vigorous PAc",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group×Visit",
+            "p",
+            "(n=98)",
+            "(n=94)"
+          ]
+        },
+        {
+          "value": "0.00",
+          "rowHeaders": [
+            "Mod-Vigorous PAc",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group×Visit",
+            "fb",
+            "(n=98)",
+            "(n=94)"
+          ]
+        },
+        {
+          "value": "2.71",
+          "rowHeaders": [
+            "Mod-Vigorous PAc",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group",
+            "F",
+            "Diet (Servings)",
+            "Physical Activity (min)"
+          ]
+        },
+        {
+          "value": "0.102",
+          "rowHeaders": [
+            "Mod-Vigorous PAc",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group",
+            "p",
+            "Diet (Servings)",
+            "Physical Activity (min)"
+          ]
+        },
+        {
+          "value": "0.11",
+          "rowHeaders": [
+            "Mod-Vigorous PAc",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group",
+            "fb",
+            "Diet (Servings)",
+            "Physical Activity (min)"
+          ]
+        },
+        {
+          "value": "0.17",
+          "rowHeaders": [
+            "Mod-Vigorous PAc",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group×Visit",
+            "F",
+            "(n=98)",
+            "(n=94)"
+          ]
+        },
+        {
+          "value": "0.848",
+          "rowHeaders": [
+            "Mod-Vigorous PAc",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group×Visit",
+            "p",
+            "(n=98)",
+            "(n=94)"
+          ]
+        },
+        {
+          "value": "0.00",
+          "rowHeaders": [
+            "Mod-Vigorous PAc"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group×Visit",
+            "fb",
+            "(n=98)",
+            "(n=94)"
+          ]
+        },
+        {
+          "value": "0.47",
+          "rowHeaders": [
+            "Mod-Vigorous PAc",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group",
+            "F",
+            "Diet (Servings)",
+            "Physical Activity (min)"
+          ]
+        },
+        {
+          "value": "0.496",
+          "rowHeaders": [
+            "Mod-Vigorous PAc",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group",
+            "p",
+            "Diet (Servings)",
+            "Physical Activity (min)"
+          ]
+        },
+        {
+          "value": "0.00",
+          "rowHeaders": [
+            "Mod-Vigorous PAc",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group",
+            "fb",
+            "Diet (Servings)",
+            "Physical Activity (min)"
+          ]
+        },
+        {
+          "value": "1.49",
+          "rowHeaders": [
+            "Mod-Vigorous PAc",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group×Visit",
+            "F",
+            "(n=98)",
+            "(n=94)"
+          ]
+        },
+        {
+          "value": "0.228",
+          "rowHeaders": [
+            "Mod-Vigorous PAc"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group×Visit",
+            "p",
+            "(n=98)",
+            "(n=94)"
+          ]
+        },
+        {
+          "value": "0.08",
+          "rowHeaders": [
+            "Mod-Vigorous PAc"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group×Visit",
+            "fb",
+            "(n=98)",
+            "(n=94)"
+          ]
+        },
+        {
+          "value": "0.08",
+          "rowHeaders": [
+            "Mod-Vigorous PAc",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group",
+            "F",
+            "Diet (Servings)",
+            "Physical Activity (min)"
+          ]
+        },
+        {
+          "value": "0.785",
+          "rowHeaders": [
+            "Mod-Vigorous PAc",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group",
+            "p",
+            "Diet (Servings)",
+            "Physical Activity (min)"
+          ]
+        },
+        {
+          "value": "0.00",
+          "rowHeaders": [
+            "Mod-Vigorous PAc"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group",
+            "fb",
+            "Diet (Servings)",
+            "Physical Activity (min)"
+          ]
+        },
+        {
+          "value": "0.92",
+          "rowHeaders": [
+            "Mod-Vigorous PAc"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group×Visit",
+            "F",
+            "(n=98)",
+            "(n=94)"
+          ]
+        },
+        {
+          "value": "0.399",
+          "rowHeaders": [
+            "Mod-Vigorous PAc"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group×Visit",
+            "p",
+            "(n=98)",
+            "(n=94)"
+          ]
+        },
+        {
+          "value": "0.00",
+          "rowHeaders": [
+            "Mod-Vigorous PAc"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group×Visit",
+            "fb",
+            "(n=98)",
+            "(n=94)"
+          ]
+        },
+        {
+          "value": "2.63",
+          "rowHeaders": [
+            "Mod-Vigorous PAc"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group",
+            "F",
+            "Diet (Servings)",
+            "Physical Activity (min)",
+            "Body Composition"
+          ]
+        },
+        {
+          "value": "0.107",
+          "rowHeaders": [
+            "Mod-Vigorous PAc"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group",
+            "p",
+            "Diet (Servings)",
+            "Physical Activity (min)",
+            "Body Composition"
+          ]
+        },
+        {
+          "value": "0.11",
+          "rowHeaders": [
+            "Mod-Vigorous PAc"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group",
+            "fb",
+            "Diet (Servings)",
+            "Physical Activity (min)",
+            "Body Composition"
+          ]
+        },
+        {
+          "value": "0.68",
+          "rowHeaders": [
+            "Mod-Vigorous PAc"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group×Visit",
+            "F",
+            "(n=98)",
+            "(n=94)",
+            "(n=98)"
+          ]
+        },
+        {
+          "value": "0.509",
+          "rowHeaders": [
+            "Mod-Vigorous PAc"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group×Visit",
+            "p",
+            "(n=98)",
+            "(n=94)",
+            "(n=98)"
+          ]
+        },
+        {
+          "value": "0.00",
+          "rowHeaders": [
+            "Mod-Vigorous PAc"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group×Visit",
+            "fb",
+            "(n=98)",
+            "(n=94)",
+            "(n=98)"
+          ]
+        },
+        {
+          "value": "77.41 (0.74)",
+          "rowHeaders": [
+            "Mod-Vigorous PAc"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Treatment",
+            "Post 1",
+            "fb",
+            "(n=98)",
+            "(n=94)",
+            "(n=98)"
+          ]
+        },
+        {
+          "value": "77.42 (0.75)",
+          "rowHeaders": [
+            "Mod-Vigorous PAc"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Treatment",
+            "Post 2",
+            "fb",
+            "(n=92)",
+            "(n=90)",
+            "(n=92)"
+          ]
+        },
+        {
+          "value": "77.28 (0.75)",
+          "rowHeaders": [
+            "Mod-Vigorous PAc"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Treatment",
+            "Post 3",
+            "fb",
+            "(n=93)",
+            "(n=88)",
+            "(n=93)"
+          ]
+        },
+        {
+          "value": "75.12 (1.04)",
+          "rowHeaders": [
+            "Mod-Vigorous PAc"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Control",
+            "Post 1",
+            "fb",
+            "(n=49)",
+            "(n=46)",
+            "(n=49)"
+          ]
+        },
+        {
+          "value": "76.04 (1.08)",
+          "rowHeaders": [
+            "Mod-Vigorous PAc"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Control",
+            "Post 2",
+            "fb",
+            "(n=42)",
+            "(n=37)",
+            "(n=42)"
+          ]
+        },
+        {
+          "value": "75.98 (1.09)",
+          "rowHeaders": [
+            "Mod-Vigorous PAc"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Control",
+            "Post 3",
+            "fb",
+            "(n=40)",
+            "(n=38)",
+            "(n=40)"
+          ]
+        },
+        {
+          "value": "2.03",
+          "rowHeaders": [
+            "Mod-Vigorous PAc",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group",
+            "F",
+            "Diet (Servings)",
+            "Physical Activity (min)",
+            "Body Composition"
+          ]
+        },
+        {
+          "value": "0.156",
+          "rowHeaders": [
+            "Mod-Vigorous PAc",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group",
+            "p",
+            "Diet (Servings)",
+            "Physical Activity (min)",
+            "Body Composition"
+          ]
+        },
+        {
+          "value": "0.08",
+          "rowHeaders": [
+            "Mod-Vigorous PAc",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group",
+            "fb",
+            "Diet (Servings)",
+            "Physical Activity (min)",
+            "Body Composition"
+          ]
+        },
+        {
+          "value": "0.81",
+          "rowHeaders": [
+            "Mod-Vigorous PAc",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group×Visit",
+            "F",
+            "(n=98)",
+            "(n=94)",
+            "(n=98)"
+          ]
+        },
+        {
+          "value": "0.448",
+          "rowHeaders": [
+            "Mod-Vigorous PAc",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group×Visit",
+            "p",
+            "(n=98)",
+            "(n=94)",
+            "(n=98)"
+          ]
+        },
+        {
+          "value": "0.00",
+          "rowHeaders": [
+            "Mod-Vigorous PAc",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group×Visit",
+            "fb",
+            "(n=98)",
+            "(n=94)",
+            "(n=98)"
+          ]
+        },
+        {
+          "value": "0.85 (0.02)",
+          "rowHeaders": [
+            "Mod-Vigorous PAc",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Treatment",
+            "Post 1",
+            "fb",
+            "(n=98)",
+            "(n=94)",
+            "(n=98)"
+          ]
+        },
+        {
+          "value": "0.84 (0.02)",
+          "rowHeaders": [
+            "Mod-Vigorous PAc",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Treatment",
+            "Post 2",
+            "fb",
+            "(n=92)",
+            "(n=90)",
+            "(n=92)"
+          ]
+        },
+        {
+          "value": "0.83 (0.02)",
+          "rowHeaders": [
+            "Mod-Vigorous PAc",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Treatment",
+            "Post 3",
+            "fb",
+            "(n=93)",
+            "(n=88)",
+            "(n=93)"
+          ]
+        },
+        {
+          "value": "0.78 (0.03)",
+          "rowHeaders": [
+            "Mod-Vigorous PAc",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Control",
+            "Post 1",
+            "fb",
+            "(n=49)",
+            "(n=46)",
+            "(n=49)"
+          ]
+        },
+        {
+          "value": "0.81 (0.03)",
+          "rowHeaders": [
+            "Mod-Vigorous PAc",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Control",
+            "Post 2",
+            "fb",
+            "(n=42)",
+            "(n=37)",
+            "(n=42)"
+          ]
+        },
+        {
+          "value": "0.80 (0.03)",
+          "rowHeaders": [
+            "Mod-Vigorous PAc",
+            "c"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Control",
+            "Post 3",
+            "fb",
+            "(n=40)",
+            "(n=38)",
+            "(n=40)"
+          ]
+        },
+        {
+          "value": "0.05",
+          "rowHeaders": [
+            "Mod-Vigorous PAc"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group",
+            "F",
+            "Diet (Servings)",
+            "Physical Activity (min)",
+            "Body Composition"
+          ]
+        },
+        {
+          "value": "0.825",
+          "rowHeaders": [
+            "Mod-Vigorous PAc"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group",
+            "p",
+            "Diet (Servings)",
+            "Physical Activity (min)",
+            "Body Composition"
+          ]
+        },
+        {
+          "value": "0.00",
+          "rowHeaders": [
+            "Mod-Vigorous PAc"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group",
+            "fb",
+            "Diet (Servings)",
+            "Physical Activity (min)",
+            "Body Composition"
+          ]
+        },
+        {
+          "value": "0.28",
+          "rowHeaders": [
+            "Mod-Vigorous PAc"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group×Visit",
+            "F",
+            "(n=98)",
+            "(n=94)",
+            "(n=98)"
+          ]
+        },
+        {
+          "value": "0.758",
+          "rowHeaders": [
+            "Mod-Vigorous PAc"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group×Visit",
+            "p",
+            "(n=98)",
+            "(n=94)",
+            "(n=98)"
+          ]
+        },
+        {
+          "value": "0.00",
+          "rowHeaders": [
+            "Mod-Vigorous PAc"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group×Visit",
+            "fb",
+            "(n=98)",
+            "(n=94)",
+            "(n=98)"
+          ]
+        },
+        {
+          "value": "15.94 (0.28)",
+          "rowHeaders": [
+            "Mod-Vigorous PAc"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Treatment",
+            "Post 1",
+            "fb",
+            "(n=98)",
+            "(n=94)",
+            "(n=98)"
+          ]
+        },
+        {
+          "value": "15.34 (0.29)",
+          "rowHeaders": [
+            "Mod-Vigorous PAc"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Treatment",
+            "Post 2",
+            "fb",
+            "(n=92)",
+            "(n=90)",
+            "(n=92)"
+          ]
+        },
+        {
+          "value": "15.20 (0.29)",
+          "rowHeaders": [
+            "Mod-Vigorous PAc"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Treatment",
+            "Post 3",
+            "fb",
+            "(n=93)",
+            "(n=88)",
+            "(n=93)"
+          ]
+        },
+        {
+          "value": "15.73 (0.39)",
+          "rowHeaders": [
+            "Mod-Vigorous PAc"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Control",
+            "Post 1",
+            "fb",
+            "(n=49)",
+            "(n=46)",
+            "(n=49)"
+          ]
+        },
+        {
+          "value": "15.42 (0.41)",
+          "rowHeaders": [
+            "Mod-Vigorous PAc"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Control",
+            "Post 2",
+            "fb",
+            "(n=42)",
+            "(n=37)",
+            "(n=42)"
+          ]
+        },
+        {
+          "value": "15.09 (0.41)",
+          "rowHeaders": [
+            "Mod-Vigorous PAc"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Control",
+            "Post 3",
+            "fb",
+            "(n=40)",
+            "(n=38)",
+            "(n=40)"
+          ]
+        },
+        {
+          "value": "0.48",
+          "rowHeaders": [
+            "Mod-Vigorous PAc"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group",
+            "F",
+            "Diet (Servings)",
+            "Physical Activity (min)",
+            "Body Composition"
+          ]
+        },
+        {
+          "value": "0.489",
+          "rowHeaders": [
+            "Mod-Vigorous PAc"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group",
+            "p",
+            "Diet (Servings)",
+            "Physical Activity (min)",
+            "Body Composition"
+          ]
+        },
+        {
+          "value": "0.00",
+          "rowHeaders": [
+            "Mod-Vigorous PAc"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group",
+            "fb",
+            "Diet (Servings)",
+            "Physical Activity (min)",
+            "Body Composition"
+          ]
+        },
+        {
+          "value": "0.39",
+          "rowHeaders": [
+            "Mod-Vigorous PAc"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group×Visit",
+            "F",
+            "(n=98)",
+            "(n=94)",
+            "(n=98)"
+          ]
+        },
+        {
+          "value": "0.680",
+          "rowHeaders": [
+            "Mod-Vigorous PAc"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group×Visit",
+            "p",
+            "(n=98)",
+            "(n=94)",
+            "(n=98)"
+          ]
+        },
+        {
+          "value": "0.00",
+          "rowHeaders": [
+            "Mod-Vigorous PAc"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Statistics, effect size",
+            "Group×Visit",
+            "fb",
+            "(n=98)",
+            "(n=94)",
+            "(n=98)"
+          ]
+        },
+        {
+          "value": "71.14 (0.43)",
+          "rowHeaders": [
+            "Mod-Vigorous PAc"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Treatment",
+            "Post 1",
+            "fb",
+            "(n=98)",
+            "(n=94)",
+            "(n=98)"
+          ]
+        },
+        {
+          "value": "71.83 (0.44)",
+          "rowHeaders": [
+            "Mod-Vigorous PAc"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Treatment",
+            "Post 2",
+            "fb",
+            "(n=92)",
+            "(n=90)",
+            "(n=92)"
+          ]
+        },
+        {
+          "value": "72.38 (0.44)",
+          "rowHeaders": [
+            "Mod-Vigorous PAc"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Treatment",
+            "Post 3",
+            "fb",
+            "(n=93)",
+            "(n=88)",
+            "(n=93)"
+          ]
+        },
+        {
+          "value": "71.01 (0.60)",
+          "rowHeaders": [
+            "Mod-Vigorous PAc"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Control",
+            "Post 1",
+            "fb",
+            "(n=49)",
+            "(n=46)",
+            "(n=49)"
+          ]
+        },
+        {
+          "value": "71.58 (0.63)",
+          "rowHeaders": [
+            "Mod-Vigorous PAc"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Control",
+            "Post 2",
+            "fb",
+            "(n=42)",
+            "(n=37)",
+            "(n=42)"
+          ]
+        },
+        {
+          "value": "71.63 (0.64)",
+          "rowHeaders": [
+            "Mod-Vigorous PAc"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Control",
+            "Post 3",
+            "fb",
+            "(n=40)",
+            "(n=38)",
+            "(n=40)"
+          ]
+        }
+      ],
+      "page": 1
+    }
+  ]
+}

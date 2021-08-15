@@ -1,0 +1,1962 @@
+{
+  "blocks": [
+    {
+      "type": "LINES",
+      "value": "Results of MyPlan 2.0 on Physical Activity in Older Belgian Adults: Randomized Controlled Trial",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The beneficial effects of physical activity (PA) for older adults are well known. However, few older adults reach the health guideline of 150 min per week of moderate-to-vigorous PA (MVPA). Electronic health (eHealth) interventions are effective in increasing PA levels in older adults in the short term but, rarely, intermediate-term effects after a period without the support of a website or an app have been examined. Furthermore, current theory-based interventions focus mainly on preintentional determinants, although postintentional determinants should also be included to increase the likelihood of successful behavior change.\nObjective: This study aimed to investigate the effect of the theory-based eHealth intervention, MyPlan 2.0, focusing on preand postintentional determinants on both accelerometer-based and self-reported PA levels in older Belgian adults in the short and intermediate term. Methods: This study was a randomized controlled trial with three data collection points: baseline (N=72), post (five weeks after baseline; N=65), and follow-up (three months after baseline; N=65). The study took place in Ghent, and older adults (aged ≥65 years) were recruited through a combination of random and convenience sampling. At all the time points, participants were visited by the research team. Self-reported domain-specific PA was assessed using the International Physical Activity Questionnaire, and accelerometers were used to objectively assess PA. Participants in the intervention group got access to the eHealth intervention, MyPlan 2.0, and used it independently for five consecutive weeks after baseline. MyPlan 2.0 was based on the self-regulatory theory and focused on both pre-and postintentional processes to increase PA. Multilevel mixed-models repeated measures analyses were performed in R (R Foundation for Statistical Computing). Results: Significant (borderline) positive intervention effects were found for accelerometer-based MVPA (baseline−follow-up: intervention group +5 min per day and control group −5 min per day; P=.07) and for accelerometer-based total PA (baseline−post: intervention group +20 min per day and control group −24 min per day; P=.05). MyPlan 2.0 was also effective in increasing self-reported PA, mainly in the intermediate term. A positive intermediate-term intervention effect was found for leisure-time vigorous PA (P=.02), moderate household-related PA (P=.01), and moderate PA in the garden (P=.04). Negative intermediate-term intervention effects were found for leisure-time moderate PA (P=.01) and cycling for transport (P=.07).\nThe findings suggest that theory-based eHealth interventions focusing on pre-and postintentional determinants have the potential for behavior change in older adults. If future studies including larger samples and long-term follow-up can",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The beneficial effects of physical activity (PA) for older adults (aged ≥65 years) are well known. PA reduces the risk of developing common chronic diseases, such as type 2 diabetes, cardiovascular diseases, and hypertension. In addition, PA has a positive effect on overall physical and mental functioning and on morbidity and mortality rates. However, many older adults are not sufficiently active. The World Health Organization (WHO) states that \"older adults should do at least 150 min of moderate-intensity aerobic PA or 75 min of vigorous-intensity aerobic PA throughout the week, or a combination of both.\". However, depending on the country, 60% to 70% of older adults in Western countries do not reach the PA health guideline. Similarly, only 31% of older Belgian adults aged between 65 and 74 years are sufficiently physically active. In those aged 75 years and older, this is only 12%. Given these low levels of PA, it is necessary to develop effective interventions for this particular age group. Overall, health behavior interventions are often not theory based. Nonetheless, it has been shown that the use of a theoretical framework for intervention development enhances the effectiveness of an intervention. For example, the theoretical framework of self-regulation is useful for intervention development. Self-regulation is defined as \"a goal-guidance process aimed at the attainment and maintenance of personal goals\". The process of behavior change can be divided in a pre-and a postintentional phase. In the preintentional phase, an individual acknowledges a problem (eg, the lack of PA) and develops intentions to solve this problem. In the postintentional phase, an individual sets goals and makes action plans to achieve them. In the past, interventions to increase PA levels in older adults that made use of a theoretical framework primarily targeted preintentional determinants (eg, attitude, self-efficacy, and expected outcomes) of PA. However, changing these determinants does not necessarily imply that people will change their actual behavior. This is the so-called intention behavior gap. To achieve actual behavior change, postintentional determinants (eg, making action plans and engaging in goal pursuit and goal adaptation) must also be integrated in an intervention. By focusing on the whole process of behavior change, the likelihood of successful behavior change increases.\nIn the last decade, researchers started using mobile apps and websites to promote PA and well-being in different age groups. One of the major advantages of this evolution is the increasing accessibility of healthcare. In addition, face-to-face contact is no longer needed, and tailored interventions can be executed at home. Furthermore, delivering electronic health (eHealth) interventions is less expensive than providing traditional interventions. Research also indicated that eHealth interventions are suitable for older adults. In 2015, The Federal Public Service of economy of Belgium reported that approximately 73% of adults aged 65 to 74 years used the internet on a daily basis. As this percentage is still increasing, eHealth interventions become more and more appropriate to promote PA in older adults.\nPrevious studies already showed that a tailored eHealth intervention, based on the self-regulation theory, could increase PA in (older) adults. Degroote et al and Plaete et al showed that MyPlan 1.0, a website based on the self-regulation theory and the Health Action Process Approach (a specific model of self-regulation), was effective in increasing PA levels in adults after a month of intervention. Similar effects were found in older adults.\nDespite the promising results of the previous MyPlan 1.0 intervention studies, several research questions remain unanswered. In the 3 studies mentioned above, assessments took place a week and a month after the start of the intervention, that is, after a period of continuous website support. On the basis of this protocol, it is impossible to determine whether these effects last fora longer period, especially when support from the website is no longer being provided. Overall, such evidence is still lacking. As it is important to maintain a physically active lifestyle, this study will focus on the effects of the eHealth website, MyPlan 2.0, on PA levels in older adults after a period of 2 months without website support.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Furthermore, previous studies mainly used self-reported PA data that are known to be subject to recall bias and over-reporting. To overcome this problem, this study combines self-reported and objective methods to assess PA. Consequently, the aim of this study was to examine the shortand intermediate-term effects of the MyPlan 2.0 eHealth intervention on objectively measured and self-reported PA levels in older adults. It was expected that self-reported and objectively measured PA levels would increase in the intervention group immediately after using the website for 5 weeks (short-term effects), compared with the control group. As the intervention was based on self-regulation, that is, guiding individuals gradually toward their goals, it was also expected that the short-term effects would be maintained in the intermediate term, after a period without website support.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The study took place in Ghent and its suburbs. Ghent is the second largest city in Flanders, which is the Dutch-speaking part of Belgium. It has approximately 260,000 inhabitants.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "First, the Public Service of Ghent provided names and addresses of 1000 randomly selected adults aged between 65 and 80 years. Second, the research team randomly sent 500 invitation letters to participate in the MyPlan 2.0 intervention and 500 invitation letters to be part of a control group receiving no intervention. As the response rate was very low, the research team additionally recruited participants by handing out flyers in local service centers (ie, convenience sampling).\nThe inclusion criteria for this study were the following: being aged 65 to 80 years, retired, able to walk 100 m without any help (ie, devices or help from persons), Dutch-speaking, and have an email address. The email address was needed for logging in to the website and for sending the weekly reminders to visit the website. Eligible participants were asked to confirm their participation by email or phone. Afterward, participants received an email with extra information about the study.\nThe study comprised 6 appointments in person (Figure). Data were collected from November 2016 to June 2017. During the first appointment (baseline data collection), all participants signed the informed consent, filled out the long International Physical Activity Questionnaire (IPAQ, interview version) and a demographic questionnaire, and received an accelerometer (Figure). At least one week later (appointment 2), the accelerometer was recollected and participants of the intervention group were invited to use the MyPlan 2.0 intervention for 5 consecutive weeks (ie, 5 website visits). The control group did not get access to the website. After 5 weeks, when the intervention group completed the MyPlan 2.0 intervention, the post data collection took place: participants were interviewed (long IPAQ) and asked to wear the accelerometer for the second time (appointment 3). A week later, the accelerometer was recollected (appointment 4). A total of 3 months after baseline, follow-up measurements were conducted. The participants wore the accelerometer and filled out the IPAQ (interview) for the last time (appointment 5). A week later, during the final appointment, the accelerometer was recollected. The study protocol was approved by the Ethics Committee of the Ghent University Hospital (project number 2015/1502).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "In this study, MyPlan 2.0, an improved version of MyPlan 1.0, was used. MyPlan 1.0 was mainly theory based, whereas MyPlan 2.0 is theory-and user-based. Several qualitative studies were performed to optimally adapt the intervention to the users' needs. For example, users of MyPlan 1.0 indicated that they felt demotivated by the extensive questionnaires they had to complete to receive tailored feedback and stated that they did not understand why creating coping plans would help alter their behavior. In MyPlan 2.0, these questionnaires were significantly shortened and rationales for the implemented behavior change techniques were added. Moreover, Vandelanotte et al showed that interventions with minimum 5 contact moments (eg, appointments, Web modules, and emails) were more successful. Therefore, MyPlan 2.0 comprised 5 website visits in contrast to the 3 obligatory website visits of MyPlan 1.0. The first website visit (for details see below) contained pre-and postintentional processes. The following 4 website visits mainly contained postintentional processes. Participants could independently use the website, without researcher involvement.\nDuring the first website visit, participants had to complete a short PA questionnaire and based on the answers, they received computer-tailored or personalized feedback. By doing so, the preintentional processes were targeted (Figure). This personalized feedback was based on a comparison of the users' PA levels with the health guidelines of 150 min per week of moderate-to-vigorous PA (MVPA). To increase knowledge, users had the option to complete a quiz about PA and its beneficial effects. As shown in Figure, postintentional processes were targeted by asking the participants to make an action plan. By doing so, the gap between intentions and behavior was bridged. Participants were asked what they wanted to do (eg, being more active by cycling during leisure), when (eg, every Sunday morning), where (eg, in the streets nearby), and for how long (eg, 60 min) they were planning to do the activity. After providing answers to these questions, participants could identify difficult situations and possible barriers (ie, coping planning) while pursuing their goals, using a predefined list of situations and barriers. Depending on which barriers they selected, specific solutions were given, and participants could choose which ones they considered most appropriate and applicable. At the end of this first website visit, users could indicate how they wanted to self-monitor their behavior (eg, using an agenda), and they could read more information about how to receive support toward PA from their social environment. Finally, the personal action plan could be printed weekly (optional). Multimedia Appendix 1 provides screenshots from the website and links these to the self-regulation techniques that were used.\nA week after finishing the first website visit, participants received an email to revisit the website. During this second visit, they received feedback about their behavioral change process and goals (eg, did you reach your goal or not?). Afterward, participants had the possibility to adapt their action plan (eg, setting new, more realistic goals) and reconsider coping plans based on the barriers they experienced while pursuing their goals. Furthermore, participants could optionally read tips on how to increase PA.\nWebsite visits 3, 4, and 5 were respectively activated 1 week after the previous visit. Again, participants were reminded by email. These 3 last visits were identical to the second visit (reviewing the action and coping plans). If participants did not revisit the website after 1 week, the research team phoned them reminding them to revisit the website. Figure provides an overview of the intervention.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Baseline descriptive statistics are shown in Table. At baseline, older adults (38 in intervention group and 34 in control group) participated in this study, 51% (37/72) were male. The participants' mean age was 70.9 (SD 4.1) years, and mean body mass index was 26.4 (SD 4.2) g/m 2 . In total, 64% (46/72) of all participants were married, and 47% (34/72) had a college or university degree. There were no significant baseline differences in sociodemographic characteristics between the intervention and the control group. Consequently, no covariates were included in further analyses.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The following sociodemographic variables were assessed at baseline: age, gender, height and weight, marital status (married, widowed, divorced, cohabiting, and living alone), and highest degree of education (primary school, secondary school, college, and university).\nSelf-reported PA was assessed at baseline, post, and follow-up, using the long Dutch IPAQ interview version (usual week version). This questionnaire assesses the frequency and duration of walking, cycling, moderate-intensity PA, and vigorous-intensity PA in 4 domains: (voluntary) work, transport, leisure, and household (home and garden). The IPAQ has good reliability (intraclass range from 0.46-0.96), and the criterion validity is fair-to-moderate with Spearman rho ranging from 0.30 to 0.37. As the IPAQ has a tendency of over-reporting, all data were truncated according to the official IPAQ guidelines.\nObjective PA was assessed at baseline, post, and follow-up, using an ActiGraph GT3X+ accelerometer. Participants wore the accelerometer for 7 days on the right hip. They were asked to wear it during waking hours but not when swimming, showering, or practicing a contact sport. The accelerometers were initialized and processed using Actilife 6.13.3. Valid wear time was set as at least four days with at least ten hours of wear time. Non-wear time was defined as ≥60 min of consecutive zeros. The epoch was set at 60 seconds, and the cut point used to determine MVPA was set at 1952 counts per minute (cpm). The cut point for light-intensity activity was set at 100 to 1951 cpm. The level of total PA was calculated by adding up light-intensity PA and MVPA.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Baseline sociodemographic characteristics of the intervention and control group were compared using independent sample t tests (continuous variables) and chi-square tests (categorical variables) in SPSS 25.0. To evaluate the intervention effects on accelerometer-assessed and self-reported PA, multilevel mixed-models repeated measures analyses were performed in R (package lme4). Multilevel modeling (2-level: measurement-participant) was applied to take into account the clustering of the 3 measurements (pre-post-follow-up) in participants. On the basis of the recommendations of Chakraborty and Gu, no ad hoc data imputation was applied. As almost all PA variables, except for accelerometer-based total PA, were positively skewed, square-root transformations were applied to improve normality. To increase the comprehensibility of the tables, raw descriptive data have been reported, although analyses were conducted using the square-root transformed data. For each PA variable (2 accelerometer-based and 11 self-reported PA variables), a separate regression model was fitted. The reported beta value for the interaction effect between time and condition can be interpreted as the difference in change in outcome between preand posttest, pre-and follow-up test, and post-and follow-up test according to the condition to which participants belong (intervention vs control condition). Statistical significance was set at P<.05 but because of the small sample size, borderline significant results (P<.10) were also reported.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Results of the multilevel mixed-models repeated measures analyses for accelerometer-based PA are shown in Table. A borderline significant intervention effect between baseline and post was found for accelerometer-assessed total PA (P=.07).\nParticipants in the intervention group increased their total PA, whereas those in the control group had a decrease in total PA between baseline and post. Similarly, the intervention effect (baseline−follow-up) was borderline significant for accelerometer-based MVPA (P=.07); accelerometer-based MVPA increased in the intervention and decreased in the control group.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Results of the multilevel mixed-models repeated measures analyses for self-reported domain-specific PA levels are shown in Table. For leisure-time PA, (borderline) significant group×time interaction effects were found for vigorous (baseline−follow-up; P=.02) and moderate (baseline−post; P=.09 and baseline−follow-up; P=.01) PA. Leisure-time vigorous PA increased in the intervention and decreased in the control group. For leisure-time moderate PA, the intervention effects were inverse: participants in the control group increased their leisure-time moderate PA, whereas this increased less strongly (baseline−post) or decreased (baseline−follow-up) in the intervention group. For overall leisure-time PA, no significant intervention effects were found. For household-related PA, significant intervention effects were found for moderate PA in the garden (baseline−follow-up; P=.04 and post−follow-up; P<.001) and moderate household-related PA at home (baseline−post; P=.04 and baseline−follow-up; P=.01). All intervention effects were in the expected direction: regarding moderate PA in the garden, participants in the intervention group had a steeper increase than participants in the control group. Moderate household-related PA at home increased in the intervention and decreased in the control group. Similarly, a positive intervention effect was found for overall household-related PA (baseline−follow-up; P=.05). Finally, a negative intervention effect was found for cycling for transport (post−follow-up; P=.07; borderline significant): participants in the control group had a stronger increase in cycling for transport between post and follow-up than participants in the intervention group. For overall transport-related PA, no significant intervention effects were found.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "This study aimed to examine the short-and intermediate-term effects of the MyPlan 2.0 eHealth intervention on objectively measured and self-reported PA levels in older adults. Regarding objectively measured PA, the results showed that MyPlan 2.0 had positive but only borderline significant effects for accelerometer-based total PA in the short term and accelerometer-based MVPA in the intermediate term, when support of the website was no longer present. If our findings can be confirmed in a larger study sample, this could suggest that integrating self-regulation principles in behavior change interventions can lead to behavior change. The intermediate-term effects found in this study are promising toward health promotion in older adults in the future. Our results are inline with a study by Irvine et al, showing intermediate-term effects of an eHealth intervention in adults aged older than 55 years. In that study, most of the positive intervention effects on self-reported PA were maintained after a 3-month period without support from the intervention. To our knowledge, no other study previously examined whether effects of an eHealth intervention on PA in older adults remained after a period without support from the website. The positive intermediate-term effects on MVPA, in the absence of short-term effects, might be explained by the fact that self-regulation can be seen as a goal-guiding process during which individuals are gradually guided toward their goals; it might take sometime to reach these goals. In addition, it maybe that participants start with increasing light-intensity PA, which is more easily achievable and can be reflected in an increase of total PA. When they feel sufficiently comfortable and ready fora next step, they might switch to specifically increasing MVPA after a few weeks.\nFrom a health perspective, the effects on accelerometer-based MVPA are very promising. The WHO states that older adults should be physically active for at least 150 min per week. The eHealth intervention MyPlan 2.0 was able to increase the levels of MVPA in older adults with an average of 5 min per day between baseline and follow-up. This equals an average increase of 35 min per week, which can have a large impact on population health if the intervention would be implemented on a larger scale.\nWhen taking a closer look at the results of objectively assessed PA, it is notable that objectively assessed MVPA decreases between baseline and follow-up in the control group, whereas the intervention group shows an increase. This maybe because of seasonal effects. A study by Tucker and Gilliland states that PA levels vary with seasonality. As our baseline measurements took place during an exceptionally warm autumn, post measurements during winter, and follow-up measurements during the beginning of spring (cold and rainy weather), this maybe an important reason why MVPA levels decreased between baseline and follow-up in the control group. When linked to the increase in MVPA found in the intervention group, it could be that MyPlan 2.0 might prevent the seasonal decline in MVPA that is common in older adults, as was observed in the control group. This suggests that, if this study was conducted during 1 season, a greater absolute increase in the intervention group might have been established. Evidently, this is a post hoc explanation and requires further scrutiny.\nBesides the effects on objective PA data, this study also investigated the effects of MyPlan 2.0 on self-reported domain-specific PA. Positive (borderline) significant intervention effects were found for leisure-time vigorous PA, moderate PA in the garden, and moderate household-related PA. However, inverse effects were found for leisure-time moderate PA and cycling for transport. There was no clear consistency in the timing of the positive intervention effects; most effects were found between baseline and follow-up or between post and follow-up, indicating intermediate-term effects. Again, the positive intermediate-term effects, in the absence of short-term effects, might suggest that it takes time for self-regulation techniques to be adopted and used by participants.\nIt is important to note that 3 intervention effects were inverse. Cycling for transport (between post and follow-up, borderline significant) and leisure-time moderate PA (both between baseline and post, borderline significant, and between baseline and follow-up, significant) increased more in the control group than the intervention group (small increase or decrease). This suggests that the intervention had a negative effect on these 2 PA domains. It is important to note that users could choose which domain they targeted in their action plans. When examining the content of the action plans in detail, it became clear that no action plans specifically focused on increasing cycling for transport and few action plans (11 out of 59) focused on leisure-time moderate PA (eg, jogging, swimming, and cycling). Of these 11 action plans, 6 focused on both moderate PA and walking. So, the increases in these behaviors in the control group, as opposed to the decreases or less steep increases in the intervention group, maybe because of other reasons that remain unclear until now. A potential other reason could be that some individuals from the control group bought anew bike during the intervention period and, consequently, increased their cycling for transport and/or leisure-time moderate PA. However, this is speculative reasoning as we did not assess whether or not individuals of the control group bought anew bike.\nExploring the content of the action plans in more detail also revealed that many action plans focused on walking during leisure-time (solely or in combination with other leisure-time behaviors: 19/59) and PA at home or in the garden (15/59). This can explain the effects found on household-related PA, but, remarkably, no intervention effects were found on walking during leisure-time. This suggests that participants might not always act upon their proposed action plans. It should be noted that participants were allowed to make more than one action plan, and a previous study showed that participants who formulated multiple action plans focusing on different PA domains were notable to fulfill all these plans. Of course, this is a post hoc reasoning that should be substantiated with data (eg, from personal interviews with participants) to make it possible to draw definite conclusions.\nOverall, the finding that effects were mainly found in the intermediate term, when support of the website was no longer present, confirms the practical relevance of developing theory-based eHealth interventions using a self-regulatory perspective. Although our study sample was small, and the results needed to be confirmed in atrial with a longer period without website support, the findings tentatively suggest that eHealth interventions, focusing on pre-and postintentional determinants using specific behavior change techniques, have potential for behavior change in older adults. Consequently, researchers and practitioners should be encouraged to use principles of the self-regulation theory when developing eHealth interventions.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The main limitation of this study was the low response rate. Of the 1000 retired adults who received a letter, only 5% participated in the study. Additional recruiting (convenience sampling) was needed until the baseline sample of 72 older adults was reached. This indicated that participants were probably very motivated to increase their PA levels, which may have biased the results. Owing to the low response rate, it is not possible to generalize these study results to the general population of older adults. Second, baseline accelerometer-based MVPA differed between the intervention and control group (average difference of 12.3 min per day). Although a multilevel analysis approach was used taking into account clustering of measurements within participants and controlling for baseline PA levels, this large baseline difference in MVPA might have influenced our results. Finally, only retired older adults were included in this study. As PA levels of retired adults might differ from those of working adults, this limits the generalizability of our findings and the comparability with other studies.\nThe study also had some methodological and theoretical contributions. First of all, the dropout rate was low (10%, 7/72). The study of Degroote et al examining MyPlan1.0 in adults had a dropout rate of 76% in the intervention group and 56% in the control group. In this study, this was 6.9% in the intervention group and 2.8% in the control group, respectively. This very low dropout might be explained by the improvements that were done to the MyPlan website and also by the fact that older adults were targeted in this study. It has been shown that older adults are less likely to dropout from studies than adults. Furthermore, telephone calls were conducted to remind participants to revisit the website when this was not done timely. This might have helped to limit the dropout. However, it is important to keep in mind that follow-up telephone calls might not be feasible when the intervention would be implemented on a larger scale. This may lead to higher attrition rates. Second, objective and self-reported PA levels were measured using validated instruments. Finally, this was one of the first studies to examine the intermediate-term effects of an eHealth intervention when support from the website was no longer available.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Future research should examine whether these intervention effects last in the long term in a larger sample. Furthermore, other self-regulation interventions should aim to examine intermediate-and long-term intervention effects instead of focusing mainly on short-term effects. Ideally, the follow-up period should be extended to 6 months to 1 year. In this way, the evidence base on the intermediate-and long-term potential of eHealth interventions aiming to increase PA can be strengthened. To increase the response rate, other recruitment strategies should be used. Recruiting older adults through local service centers, community health centers, and associations for older adults maybe more promising than simple random selection through a postal invitation letter. Providing small incentives can also help increase the response rate. Finally, studies using a comparable study protocol and intervention in different countries worldwide should be encouraged. Internet use in older adults differs strongly across countries, so it would be useful to discover whether these differences affect the effects and attrition rates of eHealth interventions.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "In conclusion, this study adds evidence for the effectiveness of eHealth interventions after a period without support from the website. MyPlan 2.0 was effective in increasing self-reported leisure-time vigorous PA and moderate household-related PA (home and garden), mainly in the intermediate term when support of the website was no longer present. Although the findings for accelerometer-based MVPA were only borderline significant, this study provided a first indication of the potential of eHealth interventions to increase objectively assessed MVPA in older adults. Future studies with larger samples and long-term follow-up are needed to confirm and clarify these findings.\n",
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": ".65",
+          "rowHeaders": [
+            "Control",
+            "Post:",
+            "Follow-up:"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "Van Dyck et al",
+            "Group×time",
+            "(N=65),",
+            "P value",
+            "trol×post, beta (SE)"
+          ]
+        },
+        {
+          "value": "1.5 (3.3)",
+          "rowHeaders": [
+            "Control",
+            "Post:",
+            "Follow-up:"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "Van Dyck et al",
+            "Group×time",
+            "(N=65),",
+            "Reference = Con-",
+            "trol×post, beta (SE)"
+          ]
+        },
+        {
+          "value": ".23",
+          "rowHeaders": [
+            "Control",
+            "Post:"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "Van Dyck et al",
+            "Group×time",
+            "(N=65),",
+            "P value",
+            "trol×pre, beta (SE)"
+          ]
+        },
+        {
+          "value": "−3.9 (3.2)",
+          "rowHeaders": [
+            "Control",
+            "Post:"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "JOURNAL OF MEDICAL INTERNET RESEARCH",
+            "Group×time",
+            "(N=65),",
+            "Reference = Con-",
+            "trol×pre, beta (SE)"
+          ]
+        },
+        {
+          "value": "270.2",
+          "rowHeaders": [
+            "Control"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "JOURNAL OF MEDICAL INTERNET RESEARCH",
+            "Follow-up",
+            "(N=65),",
+            "Reference = Con-",
+            "trol×pre, beta (SE)"
+          ]
+        },
+        {
+          "value": "324.5",
+          "rowHeaders": [
+            "Control"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "JOURNAL OF MEDICAL INTERNET RESEARCH",
+            "Post (N=65),",
+            "mean (SD)",
+            "Reference = Con-",
+            "trol×pre, beta (SE)"
+          ]
+        },
+        {
+          "value": "214.3 (252.3)",
+          "rowHeaders": [
+            "Control"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "JOURNAL OF MEDICAL INTERNET RESEARCH",
+            "Baseline (N=72),",
+            "mean (SD)",
+            "Reference = Con-",
+            "trol×pre, beta (SE)"
+          ]
+        },
+        {
+          "value": ".43",
+          "rowHeaders": [
+            "Intervention",
+            "Follow-up:"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "Van Dyck et al",
+            "Group×time",
+            "(N=65),",
+            "P value",
+            "trol×pre, beta (SE)"
+          ]
+        },
+        {
+          "value": "−2.4 (3.0)",
+          "rowHeaders": [
+            "Intervention",
+            "Follow-up:"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "Van Dyck et al",
+            "Group×time",
+            "(N=65),",
+            "Reference = Con-",
+            "trol×pre, beta (SE)"
+          ]
+        },
+        {
+          "value": "185.9",
+          "rowHeaders": [
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "JOURNAL OF MEDICAL INTERNET RESEARCH",
+            "Follow-up",
+            "(N=65),",
+            "Reference = Con-",
+            "trol×pre, beta (SE)"
+          ]
+        },
+        {
+          "value": "220.2",
+          "rowHeaders": [
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "JOURNAL OF MEDICAL INTERNET RESEARCH",
+            "Post (N=65),",
+            "mean (SD)",
+            "Reference = Con-",
+            "trol×pre, beta (SE)"
+          ]
+        },
+        {
+          "value": "169.9 (197.2)",
+          "rowHeaders": [
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "JOURNAL OF MEDICAL INTERNET RESEARCH",
+            "Baseline (N=72),",
+            "mean (SD)",
+            "Reference = Con-",
+            "trol×pre, beta (SE)"
+          ]
+        },
+        {
+          "value": ".31",
+          "rowHeaders": [
+            "Control",
+            "Post:",
+            "Follow-up:"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "Van Dyck et al",
+            "Group×time",
+            "(N=65),",
+            "P value",
+            "trol×post, beta (SE)"
+          ]
+        },
+        {
+          "value": "2.3 (2.3)",
+          "rowHeaders": [
+            "Control",
+            "Post:",
+            "Follow-up:"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "Van Dyck et al",
+            "Group×time",
+            "(N=65),",
+            "Reference = Con-",
+            "trol×post, beta (SE)"
+          ]
+        },
+        {
+          "value": ".32",
+          "rowHeaders": [
+            "Control",
+            "Post:"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "Van Dyck et al",
+            "Group×time",
+            "(N=65),",
+            "P value",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": "−2.3 (2.3)",
+          "rowHeaders": [
+            "Control",
+            "Post:"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "JOURNAL OF MEDICAL INTERNET RESEARCH",
+            "Group×time",
+            "(N=65),",
+            "Reference = Con-",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": "150.6",
+          "rowHeaders": [
+            "Control"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "JOURNAL OF MEDICAL INTERNET RESEARCH",
+            "Follow-up",
+            "(N=65),",
+            "Reference = Con-",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": "195.8",
+          "rowHeaders": [
+            "Control"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "JOURNAL OF MEDICAL INTERNET RESEARCH",
+            "Post (N=65),",
+            "mean (SD)",
+            "Reference = Con-",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": "156.3 (214.5)",
+          "rowHeaders": [
+            "Control"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "JOURNAL OF MEDICAL INTERNET RESEARCH",
+            "Baseline (N=72),",
+            "mean (SD)",
+            "Reference = Con-",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": ".97",
+          "rowHeaders": [
+            "Intervention",
+            "Follow-up:"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "Van Dyck et al",
+            "Group×time",
+            "(N=65),",
+            "P value",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": "−3.8 (9.6)",
+          "rowHeaders": [
+            "Intervention",
+            "Follow-up:"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "Van Dyck et al",
+            "Group×time",
+            "(N=65),",
+            "Reference = Con-",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": "103.8",
+          "rowHeaders": [
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "JOURNAL OF MEDICAL INTERNET RESEARCH",
+            "Follow-up",
+            "(N=65),",
+            "Reference = Con-",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": "109.6",
+          "rowHeaders": [
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "JOURNAL OF MEDICAL INTERNET RESEARCH",
+            "Post (N=65),",
+            "mean (SD)",
+            "Reference = Con-",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": "92.4 (159.8)",
+          "rowHeaders": [
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "JOURNAL OF MEDICAL INTERNET RESEARCH",
+            "Baseline (N=72),",
+            "mean (SD)",
+            "Reference = Con-",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": ".77",
+          "rowHeaders": [
+            "Control",
+            "Post:",
+            "Follow-up:"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "Van Dyck et al",
+            "Group×time",
+            "(N=65),",
+            "P value",
+            "trol×post, beta (SE)"
+          ]
+        },
+        {
+          "value": "0.4 (1.4)",
+          "rowHeaders": [
+            "Control",
+            "Post:",
+            "Follow-up:"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "Van Dyck et al",
+            "Group×time",
+            "(N=65),",
+            "Reference = Con-",
+            "trol×post, beta (SE)"
+          ]
+        },
+        {
+          "value": ".11",
+          "rowHeaders": [
+            "Control",
+            "Post:"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "Van Dyck et al",
+            "Group×time",
+            "(N=65),",
+            "P value",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": "1.8 (1.1)",
+          "rowHeaders": [
+            "Control",
+            "Post:"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "JOURNAL OF MEDICAL INTERNET RESEARCH",
+            "Group×time",
+            "(N=65),",
+            "Reference = Con-",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": "15.5 (86.2)",
+          "rowHeaders": [
+            "Control"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "JOURNAL OF MEDICAL INTERNET RESEARCH",
+            "Follow-up",
+            "(N=65),",
+            "Reference = Con-",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": "15.5 (57.9)",
+          "rowHeaders": [
+            "Control"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "JOURNAL OF MEDICAL INTERNET RESEARCH",
+            "Post (N=65),",
+            "mean (SD)",
+            "Reference = Con-",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": "32.6 (146.3)",
+          "rowHeaders": [
+            "Control"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "JOURNAL OF MEDICAL INTERNET RESEARCH",
+            "Baseline (N=72),",
+            "mean (SD)",
+            "Reference = Con-",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": ".02",
+          "rowHeaders": [
+            "Intervention",
+            "Follow-up:"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "Van Dyck et al",
+            "Group×time",
+            "(N=65),",
+            "P value",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": "1.1 (0.5)",
+          "rowHeaders": [
+            "Intervention",
+            "Follow-up:"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "Van Dyck et al",
+            "Group×time",
+            "(N=65),",
+            "Reference = Con-",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": "22.1 (78.0)",
+          "rowHeaders": [
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "JOURNAL OF MEDICAL INTERNET RESEARCH",
+            "Follow-up",
+            "(N=65),",
+            "Reference = Con-",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": "30.0 (145.0)",
+          "rowHeaders": [
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "JOURNAL OF MEDICAL INTERNET RESEARCH",
+            "Post (N=65),",
+            "mean (SD)",
+            "Reference = Con-",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": "0.00 (0.00)",
+          "rowHeaders": [
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "JOURNAL OF MEDICAL INTERNET RESEARCH",
+            "Baseline (N=72),",
+            "mean (SD)",
+            "Reference = Con-",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": ".39",
+          "rowHeaders": [
+            "Control",
+            "Post:",
+            "Follow-up:"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "Van Dyck et al",
+            "Group×time",
+            "(N=65),",
+            "P value",
+            "trol×post, beta (SE)"
+          ]
+        },
+        {
+          "value": "−2.1 (2.4)",
+          "rowHeaders": [
+            "Control",
+            "Post:",
+            "Follow-up:"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "Van Dyck et al",
+            "Group×time",
+            "(N=65),",
+            "Reference = Con-",
+            "trol×post, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": ".09",
+          "rowHeaders": [
+            "Control",
+            "Post:"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "Van Dyck et al",
+            "Group×time",
+            "(N=65),",
+            "P value",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": "−3.6 (2.1)",
+          "rowHeaders": [
+            "Control",
+            "Post:"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "JOURNAL OF MEDICAL INTERNET RESEARCH",
+            "Group×time",
+            "(N=65),",
+            "Reference = Con-",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": "104.0",
+          "rowHeaders": [
+            "Control"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "JOURNAL OF MEDICAL INTERNET RESEARCH",
+            "Follow-up",
+            "(N=65),",
+            "Reference = Con-",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": "113.2",
+          "rowHeaders": [
+            "Control"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "JOURNAL OF MEDICAL INTERNET RESEARCH",
+            "Post (N=65),",
+            "mean (SD)",
+            "Reference = Con-",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": "25.3 (55.2)",
+          "rowHeaders": [
+            "Control"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "JOURNAL OF MEDICAL INTERNET RESEARCH",
+            "Baseline (N=72),",
+            "mean (SD)",
+            "Reference = Con-",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": ".01",
+          "rowHeaders": [
+            "Intervention",
+            "Follow-up:"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "Van Dyck et al",
+            "Group×time",
+            "(N=65),",
+            "P value",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": "−2.9 (1.0)",
+          "rowHeaders": [
+            "Intervention",
+            "Follow-up:"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "Van Dyck et al",
+            "Group×time",
+            "(N=65),",
+            "Reference = Con-",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": "60.0 (159.8)",
+          "rowHeaders": [
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "JOURNAL OF MEDICAL INTERNET RESEARCH",
+            "Follow-up",
+            "(N=65),",
+            "Reference = Con-",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": "80.6 (137.0)",
+          "rowHeaders": [
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "JOURNAL OF MEDICAL INTERNET RESEARCH",
+            "Post (N=65),",
+            "mean (SD)",
+            "Reference = Con-",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": "77.5 (153.1)",
+          "rowHeaders": [
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "JOURNAL OF MEDICAL INTERNET RESEARCH",
+            "Baseline (N=72),",
+            "mean (SD)",
+            "Reference = Con-",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": ".30",
+          "rowHeaders": [
+            "Control",
+            "Post:",
+            "Follow-up:"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "Van Dyck et al",
+            "Group×time",
+            "(N=65),",
+            "P value",
+            "trol×post, beta (SE)"
+          ]
+        },
+        {
+          "value": "3.6 (3.5)",
+          "rowHeaders": [
+            "Control",
+            "Post:",
+            "Follow-up:"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "Van Dyck et al",
+            "Group×time",
+            "(N=65),",
+            "Reference = Con-",
+            "trol×post, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": ".36",
+          "rowHeaders": [
+            "Control",
+            "Post:"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "Van Dyck et al",
+            "Group×time",
+            "(N=65),",
+            "P value",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": "3.0 (3.3)",
+          "rowHeaders": [
+            "Control",
+            "Post:"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "JOURNAL OF MEDICAL INTERNET RESEARCH",
+            "Group×time",
+            "(N=65),",
+            "Reference = Con-",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": "385.6",
+          "rowHeaders": [
+            "Control"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "JOURNAL OF MEDICAL INTERNET RESEARCH",
+            "Follow-up",
+            "(N=65),",
+            "Reference = Con-",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": "345.8",
+          "rowHeaders": [
+            "Control"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "JOURNAL OF MEDICAL INTERNET RESEARCH",
+            "Post (N=65),",
+            "mean (SD)",
+            "Reference = Con-",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": "345.6 (292.2)",
+          "rowHeaders": [
+            "Control"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "JOURNAL OF MEDICAL INTERNET RESEARCH",
+            "Baseline (N=72),",
+            "mean (SD)",
+            "Reference = Con-",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": ".05",
+          "rowHeaders": [
+            "Intervention",
+            "Follow-up:"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "Van Dyck et al",
+            "Group×time",
+            "(N=65),",
+            "P value",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": "6.6 (3.4)",
+          "rowHeaders": [
+            "Intervention",
+            "Follow-up:"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "Van Dyck et al",
+            "Group×time",
+            "(N=65),",
+            "Reference = Con-",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": "603.2",
+          "rowHeaders": [
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "JOURNAL OF MEDICAL INTERNET RESEARCH",
+            "Follow-up",
+            "(N=65),",
+            "Reference = Con-",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": "414.3",
+          "rowHeaders": [
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "JOURNAL OF MEDICAL INTERNET RESEARCH",
+            "Post (N=65),",
+            "mean (SD)",
+            "Reference = Con-",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": "360.8 (360.2)",
+          "rowHeaders": [
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "JOURNAL OF MEDICAL INTERNET RESEARCH",
+            "Baseline (N=72),",
+            "mean (SD)",
+            "Reference = Con-",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": "<.001",
+          "rowHeaders": [
+            "Control",
+            "Post:",
+            "Follow-up:"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "Van Dyck et al",
+            "Group×time",
+            "(N=65),",
+            "P value",
+            "trol×post, beta (SE)"
+          ]
+        },
+        {
+          "value": "6.7 (1.9)",
+          "rowHeaders": [
+            "Control",
+            "Post:",
+            "Follow-up:"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "Van Dyck et al",
+            "Group×time",
+            "(N=65),",
+            "Reference = Con-",
+            "trol×post, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": ".28",
+          "rowHeaders": [
+            "Control",
+            "Post:"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "Van Dyck et al",
+            "Group×time",
+            "(N=65),",
+            "P value",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": "−2.1 (1.9)",
+          "rowHeaders": [
+            "Control",
+            "Post:"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "JOURNAL OF MEDICAL INTERNET RESEARCH",
+            "Group×time",
+            "(N=65),",
+            "Reference = Con-",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": "82.3 (216.1)",
+          "rowHeaders": [
+            "Control"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "JOURNAL OF MEDICAL INTERNET RESEARCH",
+            "Follow-up",
+            "(N=65),",
+            "Reference = Con-",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": "74.4 (184.6)",
+          "rowHeaders": [
+            "Control"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "JOURNAL OF MEDICAL INTERNET RESEARCH",
+            "Post (N=65),",
+            "mean (SD)",
+            "Reference = Con-",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": "30.8 (60.3)",
+          "rowHeaders": [
+            "Control"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "JOURNAL OF MEDICAL INTERNET RESEARCH",
+            "Baseline (N=72),",
+            "mean (SD)",
+            "Reference = Con-",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": ".04",
+          "rowHeaders": [
+            "Intervention",
+            "Follow-up:"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "Van Dyck et al",
+            "Group×time",
+            "(N=65),",
+            "P value",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": "2.4 (1.1)",
+          "rowHeaders": [
+            "Intervention",
+            "Follow-up:"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "Van Dyck et al",
+            "Group×time",
+            "(N=65),",
+            "Reference = Con-",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": "150.0",
+          "rowHeaders": [
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "JOURNAL OF MEDICAL INTERNET RESEARCH",
+            "Follow-up",
+            "(N=65),",
+            "Reference = Con-",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": "17.6 (56.8)",
+          "rowHeaders": [
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "JOURNAL OF MEDICAL INTERNET RESEARCH",
+            "Post (N=65),",
+            "mean (SD)",
+            "Reference = Con-",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": "32.8 (74.3)",
+          "rowHeaders": [
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "JOURNAL OF MEDICAL INTERNET RESEARCH",
+            "Baseline (N=72),",
+            "mean (SD)",
+            "Reference = Con-",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": ".15",
+          "rowHeaders": [
+            "Control",
+            "Post:",
+            "Follow-up:"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "Van Dyck et al",
+            "Group×time",
+            "(N=65),",
+            "P value",
+            "trol×post, beta (SE)"
+          ]
+        },
+        {
+          "value": "−3.2 (2.2)",
+          "rowHeaders": [
+            "Control",
+            "Post:",
+            "Follow-up:"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "Van Dyck et al",
+            "Group×time",
+            "(N=65),",
+            "Reference = Con-",
+            "trol×post, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": ".44",
+          "rowHeaders": [
+            "Control",
+            "Post:"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "Van Dyck et al",
+            "Group×time",
+            "(N=65),",
+            "P value",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": "1.5 (2.0)",
+          "rowHeaders": [
+            "Control",
+            "Post:"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "JOURNAL OF MEDICAL INTERNET RESEARCH",
+            "Group×time",
+            "(N=65),",
+            "Reference = Con-",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": "61.9 (212.1)",
+          "rowHeaders": [
+            "Control"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "JOURNAL OF MEDICAL INTERNET RESEARCH",
+            "Follow-up",
+            "(N=65),",
+            "Reference = Con-",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": "23.2 (129.3)",
+          "rowHeaders": [
+            "Control"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "JOURNAL OF MEDICAL INTERNET RESEARCH",
+            "Post (N=65),",
+            "mean (SD)",
+            "Reference = Con-",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": "17.6 (84.2)",
+          "rowHeaders": [
+            "Control"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "JOURNAL OF MEDICAL INTERNET RESEARCH",
+            "Baseline (N=72),",
+            "mean (SD)",
+            "Reference = Con-",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": ".40",
+          "rowHeaders": [
+            "Intervention",
+            "Follow-up:"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "Van Dyck et al",
+            "Group×time",
+            "(N=65),",
+            "P value",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": "−.8 (1.0)",
+          "rowHeaders": [
+            "Intervention",
+            "Follow-up:"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "Van Dyck et al",
+            "Group×time",
+            "(N=65),",
+            "Reference = Con-",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": "22.9 (100.2)",
+          "rowHeaders": [
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "JOURNAL OF MEDICAL INTERNET RESEARCH",
+            "Follow-up",
+            "(N=65),",
+            "Reference = Con-",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": "58.2 (168.7)",
+          "rowHeaders": [
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "JOURNAL OF MEDICAL INTERNET RESEARCH",
+            "Post (N=65),",
+            "mean (SD)",
+            "Reference = Con-",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": "37.9 (165.3)",
+          "rowHeaders": [
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "JOURNAL OF MEDICAL INTERNET RESEARCH",
+            "Baseline (N=72),",
+            "mean (SD)",
+            "Reference = Con-",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": ".19",
+          "rowHeaders": [
+            "Control",
+            "Post:",
+            "Follow-up:"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "Van Dyck et al",
+            "Group×time",
+            "(N=65),",
+            "P value",
+            "trol×post, beta (SE)"
+          ]
+        },
+        {
+          "value": "3.1 (2.4)",
+          "rowHeaders": [
+            "Control",
+            "Post:",
+            "Follow-up:"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "Van Dyck et al",
+            "Group×time",
+            "(N=65),",
+            "Reference = Con-",
+            "trol×post, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": ".04",
+          "rowHeaders": [
+            "Control",
+            "Post:"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "Van Dyck et al",
+            "Group×time",
+            "(N=65),",
+            "P value",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": "4.5 (2.2)",
+          "rowHeaders": [
+            "Control",
+            "Post:"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "JOURNAL OF MEDICAL INTERNET RESEARCH",
+            "Group×time",
+            "(N=65),",
+            "Reference = Con-",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": "241.5",
+          "rowHeaders": [
+            "Control"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "JOURNAL OF MEDICAL INTERNET RESEARCH",
+            "Follow-up",
+            "(N=65),",
+            "Reference = Con-",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": "248.2",
+          "rowHeaders": [
+            "Control"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "JOURNAL OF MEDICAL INTERNET RESEARCH",
+            "Post (N=65),",
+            "mean (SD)",
+            "Reference = Con-",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": "297.1 (290.6)",
+          "rowHeaders": [
+            "Control"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "JOURNAL OF MEDICAL INTERNET RESEARCH",
+            "Baseline (N=72),",
+            "mean (SD)",
+            "Reference = Con-",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": ".01",
+          "rowHeaders": [
+            "Intervention",
+            "Follow-up:"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "Van Dyck et al",
+            "Group×time",
+            "(N=65),",
+            "P value",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": "3.7 (1.4)",
+          "rowHeaders": [
+            "Intervention",
+            "Follow-up:"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "Van Dyck et al",
+            "Group×time",
+            "(N=65),",
+            "Reference = Con-",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": "430.3",
+          "rowHeaders": [
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "JOURNAL OF MEDICAL INTERNET RESEARCH",
+            "Follow-up",
+            "(N=65),",
+            "Reference = Con-",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": "338.4",
+          "rowHeaders": [
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "JOURNAL OF MEDICAL INTERNET RESEARCH",
+            "Post (N=65),",
+            "mean (SD)",
+            "Reference = Con-",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": "290.1 (309.5)",
+          "rowHeaders": [
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "JOURNAL OF MEDICAL INTERNET RESEARCH",
+            "Baseline (N=72),",
+            "mean (SD)",
+            "Reference = Con-",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": ".52",
+          "rowHeaders": [
+            "Control",
+            "Post:",
+            "Follow-up:"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "Van Dyck et al",
+            "Group×time",
+            "(N=65),",
+            "P value",
+            "trol×post, beta (SE)"
+          ]
+        },
+        {
+          "value": "−1.7 (2.7)",
+          "rowHeaders": [
+            "Control",
+            "Post:",
+            "Follow-up:"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "Van Dyck et al",
+            "Group×time",
+            "(N=65),",
+            "Reference = Con-",
+            "trol×post, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": ".52",
+          "rowHeaders": [
+            "Control",
+            "Post:"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "Van Dyck et al",
+            "Group×time",
+            "(N=65),",
+            "P value",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": "−1.8 (2.8)",
+          "rowHeaders": [
+            "Control",
+            "Post:"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "JOURNAL OF MEDICAL INTERNET RESEARCH",
+            "Group×time",
+            "(N=65),",
+            "Reference = Con-",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": "277.9",
+          "rowHeaders": [
+            "Control"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "JOURNAL OF MEDICAL INTERNET RESEARCH",
+            "Follow-up",
+            "(N=65),",
+            "Reference = Con-",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": "205.5",
+          "rowHeaders": [
+            "Control"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "JOURNAL OF MEDICAL INTERNET RESEARCH",
+            "Post (N=65),",
+            "mean (SD)",
+            "Reference = Con-",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": "196.6 (228.7)",
+          "rowHeaders": [
+            "Control"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "JOURNAL OF MEDICAL INTERNET RESEARCH",
+            "Baseline (N=72),",
+            "mean (SD)",
+            "Reference = Con-",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": ".24",
+          "rowHeaders": [
+            "Intervention",
+            "Follow-up:"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "Van Dyck et al",
+            "Group×time",
+            "(N=65),",
+            "P value",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": "−3.5 (2.9)",
+          "rowHeaders": [
+            "Intervention",
+            "Follow-up:"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "Van Dyck et al",
+            "Group×time",
+            "(N=65),",
+            "Reference = Con-",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": "153.5",
+          "rowHeaders": [
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "JOURNAL OF MEDICAL INTERNET RESEARCH",
+            "Follow-up",
+            "(N=65),",
+            "Reference = Con-",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": "136.8",
+          "rowHeaders": [
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "JOURNAL OF MEDICAL INTERNET RESEARCH",
+            "Post (N=65),",
+            "mean (SD)",
+            "Reference = Con-",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": "190.8 (284.8)",
+          "rowHeaders": [
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "JOURNAL OF MEDICAL INTERNET RESEARCH",
+            "Baseline (N=72),",
+            "mean (SD)",
+            "Reference = Con-",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": ".88",
+          "rowHeaders": [
+            "Control",
+            "Post:",
+            "Follow-up:"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "Van Dyck et al",
+            "Group×time",
+            "(N=65),",
+            "P value",
+            "trol×post, beta (SE)"
+          ]
+        },
+        {
+          "value": "−0.3 (0.9)",
+          "rowHeaders": [
+            "Control",
+            "Post:",
+            "Follow-up:"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "Van Dyck et al",
+            "Group×time",
+            "(N=65),",
+            "Reference = Con-",
+            "trol×post, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": ".66",
+          "rowHeaders": [
+            "Control",
+            "Post:"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "Van Dyck et al",
+            "Group×time",
+            "(N=65),",
+            "P value",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": "−1.0 (2.2)",
+          "rowHeaders": [
+            "Control",
+            "Post:"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "JOURNAL OF MEDICAL INTERNET RESEARCH",
+            "Group×time",
+            "(N=65),",
+            "Reference = Con-",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": "171.8",
+          "rowHeaders": [
+            "Control"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "JOURNAL OF MEDICAL INTERNET RESEARCH",
+            "Follow-up",
+            "(N=65),",
+            "Reference = Con-",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": "161.6",
+          "rowHeaders": [
+            "Control"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "JOURNAL OF MEDICAL INTERNET RESEARCH",
+            "Post (N=65),",
+            "mean (SD)",
+            "Reference = Con-",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": "148.7 (180.2)",
+          "rowHeaders": [
+            "Control"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "JOURNAL OF MEDICAL INTERNET RESEARCH",
+            "Baseline (N=72),",
+            "mean (SD)",
+            "Reference = Con-",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": ".59",
+          "rowHeaders": [
+            "Intervention",
+            "Follow-up:"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "Van Dyck et al",
+            "Group×time",
+            "(N=65),",
+            "P value",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": "−5.9 (1.1)",
+          "rowHeaders": [
+            "Intervention",
+            "Follow-up:"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "Van Dyck et al",
+            "Group×time",
+            "(N=65),",
+            "Reference = Con-",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": "99.7 (134.7)",
+          "rowHeaders": [
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "JOURNAL OF MEDICAL INTERNET RESEARCH",
+            "Follow-up",
+            "(N=65),",
+            "Reference = Con-",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": "92.9 (122.6)",
+          "rowHeaders": [
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "JOURNAL OF MEDICAL INTERNET RESEARCH",
+            "Post (N=65),",
+            "mean (SD)",
+            "Reference = Con-",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        },
+        {
+          "value": "133.8 (216.6)",
+          "rowHeaders": [
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 3. Intervention effects (time-by-group interactions) for self-reported domain-specific physical activity (number of participants in the intervention",
+            "JOURNAL OF MEDICAL INTERNET RESEARCH",
+            "Baseline (N=72),",
+            "mean (SD)",
+            "Reference = Con-",
+            "trol×pre, beta (SE)",
+            "-a"
+          ]
+        }
+      ],
+      "page": 1
+    }
+  ]
+}

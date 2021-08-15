@@ -1,0 +1,398 @@
+{
+  "blocks": [
+    {
+      "type": "LINES",
+      "value": "Peers Promoting Physical Activity among Breast Cancer Survivors: A Randomized Controlled Trial",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Objective-Although studies have shown that physical activity (PA) can reduce some treatmentrelated side-effects of breast cancer, there is a need to offer PA programs outside of research settings to reach more cancer survivors. We partnered with the American Cancer Society's Reach to Recovery program (RTR) to train their volunteers (breast cancer survivors) to deliver a 12-week PA intervention to other breast cancer survivors.\nMethods-We conducted a randomized controlled trial to compare the PA intervention delivered by RTR volunteers (PA plus RTR) with contact control (RTR Control). Eighteen RTR volunteers/ coaches (mean age=54.9 years, mean years since diagnosis=7.0) delivered the contact control condition or the PA intervention. Seventy-six breast cancer survivors in New England (mean age=55.6 years, mean years since diagnosis=1.1) were randomized to one of the two groups. At baseline, 12 weeks (post-intervention) and at 24 weeks, participants wore an accelerometer for seven days, were interviewed about their PA and reported their motivational readiness for PA.\nResults-Adjusted mixed effects longitudinal regression models showed significant group differences favoring the PA plus RTR group in minutes of moderate to vigorous PA at 12 weeks (mean difference=103 minutes/ week, p<.001) and 24 weeks (mean difference=34.7 minutes/ week, p=.03). Results were corroborated with significant group differences in accelerometer data favoring the PA plus RTR group at both time-points.\nConclusions-Peer volunteers were able to significantly increase PA among cancer survivors relative to contact control. Partnerships with existing volunteer programs can help to widen the reach of behavioral interventions among cancer survivors.",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Physical activity (PA) has been recommended for cancer patients to improve their recovery and functioning. The recommendations were based on several trials testing the effects of PA adoption among patients treated for various cancers with the majority of these efficacy studies conducted among middle-aged patients with early-stage breast cancer. With the growing evidence of the role that PA can play in cancer recovery, it is timely to extend the reach of PA interventions into the \"real world.\" One approach to scaling up an intervention is the training of peer/ community volunteers to encourage survivors to become physically active.\nThere are quasi-experimental studies that support the use of trained peer volunteers providing PA advice by telephone to middle-aged and older adults. More recently, in a 12-month randomized controlled trial of 12 volunteer peer mentors and 181 initially inactive adults aged 50 years and older, researchers compared telephone-based advice delivered by professional staff to telephone-based advice delivered by trained volunteers and to an attention control arm of telephone advice for nutrition. Both activity arms significantly increased their PA participation relative to the control group at 12 months, but the peer volunteers showed superior quality in intervention content compared to the professional staff. In another randomized controlled trial, 81 sedentary adults received peer-delivered, theorybased support for exercise in a 16-week group-based program vs. a community-based exercise intervention with health education. At 16 weeks, both groups showed similar significant improvements in moderate-to vigorous exercise but at 18 months, the group that received peer support reported significantly greater exercise participation. To the best of our knowledge, a peer mentoring approach has not been used to promote exercise among cancer survivors.\nWe conducted a successful pilot study in collaboration with the American Cancer Society's (ACS) Reach to Recovery (RTR) program in which RTR volunteers offered an evidencebased PA intervention to breast cancer patients. The PA intervention had previously been tested in a randomized controlled trial: the Moving Forward study. The intervention was grounded in the Transtheoretical Model (TTM) and Social Cognitive Theory (SCT). The TTM is based on the stages of adopting anew health behavior and has been adapted to PA. RTR volunteers (who are breast cancer survivors themselves) receive intensive training from the ACS and provide emotional and information support (e.g., empathy for anxiety/fear, making patients aware of community resources) to patients and survivors. These services are offered during an in-person meeting and subsequently in one to two follow-up calls. We used this \"natural fit\" in a single group longitudinal pilot study and found that it was feasible to train these volunteers (n=7) to coach sedentary breast cancer survivors (n=25) over 12 weeks to become more physically active. We also obtained promising results on survivors' self-reported PA and psychological outcomes at 12 and 24 weeks.\nIn the current study, we extended our pilot work by conducting a randomized controlled trial and increased the reach of the intervention to RTR programs in six New England (NE) states. Our goal was to compare the PA counseling provided by the RTR volunteers (coaches) to a contact control condition also provided by the volunteers. The primary aim was to examine the effects of the intervention vs. contact control on participants' selfreported (and hence, similar to the pilot study and to other trials of peer mentoring for PA; activity of moderate to vigorous-intensity PA (MVPA) at 12 and 24 weeks. Secondary outcomes included effects on objective activity monitoring by accelerometer, the proportion of participants who met or exceeded ACSM exercise guidelines for cancer survivors (i.e., 150 minutes/week)  and the proportion of participants who showed progression in motivational readiness for exercise. Our hypotheses were that the intervention group (PA plus RTR) would report greater MVPA and improved secondary outcomes compared to control group (RTR Control) participants at 12 and 24 weeks. An exploratory goal was to examine potential moderators of intervention effects on MVPA such as age, body mass index, seasonal effects, NE state of residence, and coach.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "This randomized controlled trial compared the effects of a theoretically-based 12 week PA program (PA Plus RTR) vs. contact control (RTR Control) offered by RTR volunteers to breast cancer survivors (participants). Participants' MV PA and related outcomes were assessed at baseline, 12 weeks and 24 weeks. The study received approval from the Institutional Review Boards at The Miriam Hospital (RI) and Women & Infants Hospital (RI).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "ACS offices in 6 NE states (CT, MA, ME, NH, RI, and VT) were contacted to assess their interest in partnering with the researchers in this study (there were seven regional offices across the six states that participated in this trial). Of the 6 states, it was not feasible to recruit volunteers to serve as coaches in two states for reasons such as lack of sufficient volunteer pool, difficulty traveling to the ACS offices for training and lack of internet facilities for training. Eligibility to serve as coaches for the study included: having completed RTR training and been a RTR volunteer for at least a year and, willingness to: a) participate in group training, b) provide coaching to 4-5 participants, c) be supervised by telephone, and d) audiotape telephone contacts with study participants. Volunteer coaches completed informed consent procedures and were asked to complete brief questionnaires at the start of the study, at the end of training and at the end of study participation.\nACS staff in the four states approached 335 Reach volunteers about study participation through email, informational mailings, and personal contact. Thirty one volunteers expressed interest in the study, 28 were screened for eligibility (two were lost to follow-up prior to telephone screen, and one was not available for training sessions during the day). Of the 28, 18 volunteers (hereafter referred to as coaches) completed training (64%)( mean age = 54.89 years, SD=7.76, mean 7.00 years post-diagnosis, mean years volunteering with RTR=4.47 years). The reasons for dropping out prior to training completion were: too busy caring for family members (n=3), time constraints (n=2), not interested (n=2), did not like the questionnaires (n=1), lost to follow-up (n=1), and not available for training (n=1).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Coaches were trained in small groups: the training was offered either in person or using video-conferencing. The 4 session training program (approximately 2 hours per session) consisted of didactics on the research program, intervention theory, intervention program, and issues relevant to human subjects certification and HIPAA requirements. Coaches were provided with a training manual and copies of the print materials that participants received. The coaches received training in delivering the RTR Control condition but the majority of the training time was focused on PA counseling. Three sessions focused on role-plays to train skills in PA counseling techniques (e.g., empathy, reflective listening). To ensure safety of participants, the coaches were trained to ask about physical symptoms that maybe indicative of a serious medical issue (e.g., chest pain): in these instances, they were instructed to advise participants to seek medical consultation and to contact the research team. The coaches were also trained to review pulse rate and rates of perceived exertion as reported by participants during home exercise to ensure that participants exercised at least at moderate-intensity levels and did not overexert. If participants became distressed, coaches were trained to notify research staff so that appropriate referrals could be made. Training was terminated after coaches completed a successful mock intervention call (PA Plus RTR) and a RTR Control call.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Women aged ≥21 years with Stage 0-3 breast cancer (diagnosed in the past 5 years) were eligible if they a) had completed surgery (patients receiving on-going chemotherapy, radiation or hormone treatment were eligible); 2) were able to read and speak English; 3) were ambulatory and able to walk half-mile without stopping; 4) were sedentary (i.e., less than 30 minutes/week of vigorous exercise for the past six months or less than 90 minutes per week of moderate-intensity exercise for the past six months); and 5) had access to a telephone and were willing to receive telephone calls. Women with medical or psychiatric problems (e.g., myocardial infarction, stroke, transient ischemic attacks, substance abuse, and orthopedic problems) that might interfere with protocol adherence were excluded. Our goal was to recruit 108 participants.\nOur primary analysis was to compare RTR Control and PA Plus RTR groups on the change from baseline to 12 and 24 weeks on MVPA. Sample size (n=108 before attrition) was projected from an anticipated large effect (delta=0.97) at 12 weeks and a moderate effect (delta =0.60) at 24 weeks. The estimates were obtained from the effect sizes in the pilot study and a prior randomized controlled trial. We anticipated 99% power to detect differential change on MVPA at 12 weeks and 80% power at 24 weeks at a multiplicity-adjusted significance level alpha=0.025. The power estimates were based on the assumption that participant outcomes were independent within each ACS office.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The original recruitment plan was to solicit participants from those who contacted the ACS in New England for RTR services. We found that after 3 months of recruitment in RI, the request for RTR services was very low and we enrolled one participant into the trial. We then used alternative methods of recruitment. Our primary recruitment source was a mailing from the Senior Operations Vice-President for Health Initiatives at the ACS to breast cancer constituents on mailing lists maintained by the ACS in 6 states (n=8111), electronic newsletters sent by the ACS to their constituents in NE, recruitment at ACS sponsored events in RI, and referrals from RTR coordinators (n=26). In addition, we used non-ACS sources of recruitment. These included informational mailings by three hospitals in three states (RI, MA and CT, mailing size = 2425) and three private practices to breast cancer patients in two states (RI and CT) (mailing size = 321), and in-person recruitment atone hospital in RI, health fairs and other events in RI. Recruitment was conducted from January 2010 to April 2012.\nInterested participants were asked to contact the study staff to determine eligibility using a toll-free number. Research staff called those patients who provided contact information at the community events. After completing a phone screen for eligibility, obtaining informed consent from participants and physician consent for study participation, research staff conducted baseline assessments. In total, n=595 potential participants were contacted, 304 were ineligible at initial contact or phone screen (51.1%), n=123 were not interested (20.7%) and 168 were eligible at phone screen (28.2%). Reasons for ineligibility can be seen in Figure. Of the 168 potential participants, 31 were no longer interested, 61 became ineligible and the remaining 76 were eligible and randomized (76/168=45.2%).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Finally, RTR coaches were able to deliver 92.24% of expected calls; mean number of calls across participants was 11.07 (SD=2.24). There were non-significant group differences in the mean number of calls delivered (PA plus RTR: Mean=11.16, SD=2.24 vs. RTR Control: Mean=10.97, SD=2.27, p>.05). As expected, there was a significant difference in mean duration of calls with PA plus RTR call length exceeding that of RTR Control (PA plus RTR: Mean=18.46 minutes, SD=7.36 vs RTR Control: Mean=12.67, SD=4.04, p<.05). There was no association between number of calls or length of calls and PA outcomes (min/ week of MVPA as measured by the 7-Day PAR).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Participants randomized to this group received telephone-based PA counseling, a pedometer (Digiwalker) and a heart rate monitor. The PA intervention was modeled on the \"Moving Forward\" trial and consisted of PA counseling matched to participants' motivational readiness plus PA tipsheets. Counseling focused on building a supportive relationship with participants, assessing motivational readiness, monitoring PA, identifying health concerns, and identifying and problem solving barriers to PA. The goal was to encourage participants to gradually increase the amount of aerobic PA (e.g., brisk walking) over 12 weeks to recommendations of ≥ 30 mins. of moderate-intensity PA on most days of the week. All participants received instructions and were provided logs to monitor PA: participants recorded the duration of their exercise, type of exercise, heart rate, rate of perceived exertion and pedometer steps. Coaches reviewed the logs during the telephone calls; the logs were then sent to the research staff for data entry.\nDuring the weekly calls, if participants reported symptoms such as chest pain, they were referred to their physicians. There were instances of participants reporting chest pain and shortness of breath during exercise (n=6), vertigo (n=1), and ankle injury (n=4) that required that we temporarily suspend their study participation until a physician evaluation and consent were obtained.\nParticipants were also provided RTR informational booklets (available from the ACS) and 12 exercise tipsheets that focused on PA topics (such as exercising safely, staying motivated and the like). Coaches also responded to questions that participants asked about breast cancer and its treatment (similar to the type of information and support provided in the RTR program). Quality control procedures are described in supplementary files. Finally, a feedback report that showed the participant's PA and summarized their barriers to PA and ways to overcome these barriers (as discussed during the calls) was sent to participants at Week 2, 4, 8 and 12.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Our aim was to assess the effects of a structured peer mentoring program on MVPA. Hence, participants assigned to the Control group were asked not to join a structured PA program during the 12-week intervention phase. Although the RTR program generally consists of 1-3 contacts with patients who request services, for the purpose of this study, we extended the contact to 12 calls to control for frequency of contact between the two study groups. During each weekly call, the coach administered the Weekly Symptom Questionnaire that assesses problems such as headaches that people may experience that can affect normal activity of daily life. Participants were also provided RTR informational booklets. Coaches responded to participants' questions about breast cancer and its treatment and provided support as is typical of the RTR program. The PA tipsheets (identical to those sent to the PA Plus RTR group) were provided to these participants at 24 weeks.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Coaches-Prior to training, coaches completed a brief demographic form. We recorded the number and duration of calls (from the audio-tapes) delivered to each participant.\nParticipants-At baseline, participants were asked to provide demographic information (e.g., age, education), height and weight. Information on their cancer diagnosis and treatment was obtained by a form sent to the patients' physicians' offices. Participants were given accelerometers (Actigraphs) with instructions to wear the unit for 7 days and a packet of questionnaires assessing stage of motivational readiness and psychosocial variables.\nParticipants were asked to mail back the Actigraph and the completed questionnaires. A Research Assistant (blind to the participant's group assignment) conducted a PA interview (described below) by telephone and was responsible for collecting all data. The same procedure was repeated to collect data at 12 weeks and 24 weeks. a) Seven Day Physical Activity Recall: (7 Day PAR), a widely used, validated measure of PA was administered by telephone at baseline, 12 and 24 weeks. It assesses hours spent in sleep, moderate activity, hard and very hard activity. We obtained the total minutes of MVPA as our key measure. These data were also used to determine the proportion of participants who reported exercising at national recommendations of 150 minutes/week (U.S. Department of Health and Human Services, 2008). b) Accelerometer: Participants were asked to wear a tri-axis accelerometer (Actigraph GT3X) for seven days at each assessment point. The Actigraph monitors activity counts, energy expenditure and steps taken. Software is available for categorizing the counts into light, moderate, hard or very hard categories. Intensity categories based on monitor data have been developed in a calibration study. For analyses, only activity of at least moderate-intensity was considered. c) Stage of readiness for PA: was measured by a 5-item instrument) that was mailed to participants for completion. It is reliable (kappa=.78), has concurrent validity with the 7 Day PAR and stage progression is significantly associated with fitness improvements.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "As a preliminary step, between group differences in baseline demographics, medical history and MVPA were tested using t-tests for continuous variables and chi-squared tests for categorical variables. In addition, descriptive statistics were calculated for coach data, including both baseline demographics as well as medical history variables.\nUsing a mixed effect longitudinal regression model, the effects of group assignment (PA plus RTR versus RTR Control) on minutes/week of MVPA at 12 and 24 weeks were simultaneously assessed, while controlling for baseline values of the outcome, as well as age and chemotherapy use. Although there were no between-group differences in mean age or chemotherapy use, these covariates were included in the model (and chosen apriori), as they are known to be associated with MVPA adoption amongst this population. Models included random intercepts to account for within-subject correlation of repeated measurements overtime. Ina subsequent step we assessed whether clustering by coach significantly impacted model estimates. Models were run for each of the MVPA outcomes (subjectively collected and objectively measured PA) and results are presented separately for each. In addition, the correlation between MVPA as measured by the 7-day PAR and collected by accelerometer was estimated using Spearman rank order correlations (at each time point). Finally, a series of models to assess moderation were run (which included main effects of the intervention, the potential moderator and the interaction between the two). Moderators included age, body mass index, seasonal effects, NE state of residence, and chemotherapy use.\nUnadjusted proportion of participants meeting ACSM guidelines (defined as reporting at least 150 min/week of at least moderate intensity PA)  were summarized for both groups at each follow-up time (12 and 24 weeks). Using a longitudinal regression model implemented with Generalized Estimating Equations (GEE's) with robust standard errors, we estimated the effect of the intervention on the probability of meeting guidelines at each follow-up, adjusting forage and chemotherapy use. Models included both main effects of time and intervention group, as well as the interaction between them, thus assuming that the slope of the effect changes overtime. Models assumed an unstructured working correlation matrix.\nIn addition, we assessed whether there were between group differences in the probability of increasing stage of motivational readiness from baseline to 12 and 24 weeks respectively. Outcomes were binary (1=increased stage from last follow-up, 0=stayed the same/regressed) and unadjusted proportions were summarized by intervention group. Using a longitudinal regression model implemented with GEE's with robust standard errors, we examined whether the odds of increasing stage of motivational readiness differed overtime and by intervention group, after adjusting forage and chemotherapy use. Models assumed an unstructured working correlation matrix.\nFinally, we assessed whether there were between group differences in number of calls and length of calls during the intervention period using t-tests. In addition, using models similar to those described for the main outcome (min/week of MVPA from the 7-day PAR), we assessed whether there was a dose effect on MVPA outcomes. Models included a main effect of dose (number of calls and length of calls in two separate models respectively) and adjusted forage and chemotherapy use.\nAll analysis was carried out using SAS Version 10.0 and significance level was set apriori at alpha=0.05.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "On average, participants were 55.6 years of age (SD=9.6) and the majority were married/ living with partner (82.9%). The sample identified themselves as predominately Caucasian (98.7%) with 6.6% identifying themselves as Hispanic/Latino. Overall, participants reported 24.6 min/week of MVPA at baseline (SD=30.0) (See Table). There were no between group differences in baseline characteristics (p's>0.05) nor in baseline psychosocial constructs (data not shown). The mean age of the coaches was 54.9 years with an average of 7.0 years since diagnosis. The complete description of the coaches is presented in Supplementary Table. Retention rates at 12 weeks were 92% in the PA plus RTR group relative to 87% in RTR Control (non-significant between group differences). At 24 weeks, retention rates were 92% vs. 84% for PA plus RTR and RTR Control respectively (nonsignificant between group differences). Full consort diagram of participant recruitment and retention is presented in Figure.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Participants randomized to PA plus RTR, increased their self-reported min/week of MVPA from 31.8 min/week at baseline (SD=33.9) to 129.5 at 12 weeks (SD=73.4) and 98.4 at 24 weeks (SD=83.2), whereas RTR Control participants increased from 17.1 min/week at baseline (SD=23.4) to 25.0 at 12 weeks (SD=67.4) and 63.9 at 24 weeks (SD=82.9). Adjusted model results (from the mixed effects models described previously) suggest significant between group differences at both 12 and 24 weeks such that the mean difference in min/week of MVPA between those randomized to PA plus RTR and RTR Control was 103.0 min/week (SD=15.4, p<.001) at 12 weeks and 34.7 min/week (SD=15.5, p=0.03) at 24 weeks (Table). Main effects of the intervention from the mixed effects model was 12.60, SE=14.72 and interactions between intervention and follow-up time were 90.35, SE=18.44, p<.01 at 12 weeks and 22.14, SE=18.54, and p=0.23 at 24 weeks. Note that the interaction between intervention and follow-up time represents change in slope at follow-up for those randomized to PA Plus RTR (see Figure). Further clustering on coach did not significantly impact the results and thus are not included here. In addition, there were no significant moderators of the intervention effects (p-values for interaction terms >.05).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Results suggest a significant correlation between self-reported and objectively measured PA at 12 and 24 weeks (rho=0.59, p<.01 at 12 weeks, rho=0.43, p<.01 at 24 weeks). PA plus RTR participants increased their min/week of MVPA from 13.4 (SD=25.0) at baseline to 70.3 (SD=65.9) at 12 weeks and 54.6 (SD=81.6) at 24 weeks. In contrast, RTR Control participants changed from 14.3 (SD=23.6) at baseline to 16.5 (SD=31.9) at 12 weeks and 13.4 (SD=35.2) at 24 weeks. Regression models suggest a significant difference in min/ week of MVPA as measured by accelerometer at 12 and 24 weeks (p's<.01) such that the mean difference in MVPA between PA plus RTR and RTR Control was 48.5 min/week at 12 weeks (SE=11.9) and 38.7 min/week (SE=12.0) at 24 weeks, after adjusting forage and chemotherapy use (Table). Main effects of intervention from the mixed effects model was -3.52, SE=11.16, p=0.75 and interactions between intervention and follow-up time were 52.05, SE=13.75 p<.01 at 12 weeks and 42.23, SE=13.89, p<.01 at 24 weeks. Note that the interaction between intervention and follow-up time represents change in slope at follow-up for those randomized to PA Plus RTR. Also see Figure.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Amongst those randomized to PA plus RTR, 41.0% met PA guidelines at 12 weeks and 25.6% met guidelines at 24 weeks. Amongst those in RTR Control, these proportions were 5.4% and 16.2% respectively. Regression models suggest a significant intervention effect at 12 weeks (p=0.001) but not at 24 weeks (p=0.29). Specifically, the odds of meeting guidelines was significantly higher amongst PA plus RTR participants, compared to RTR Control (OR=13.1, SE=10.5) at 12 week follow-up. Regression parameters are presented in Supplementary Table.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Unadjusted proportions of participants increasing their stage of motivational readiness are presented in Table for both groups at both follow-up times. Models suggest a significant intervention effect such that the odds of increasing stage of change was greater amongst PA plus RTR participants compared to RTR Controls at 12 weeks (B=2.76, SE=0.62, OR=15.84, p<.01) but not at 24 weeks (p>.05).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The main finding of this trial is that a 12-week telephone-based PA intervention provided by volunteer peer coaches produced significantly greater increases in MVPA in cancer survivors relative to a contact control condition also led by peers. These results are consistent with and extend previous research which indicates that volunteer peer mentors can effectively increase PA among sedentary adults with no history of cancer. Such findings suggest professional staff-led interventions, which are costly and often not feasible in community settings, are not necessary to achieve desired behavior change and increases in MVPA. Results of our previous pilot study demonstrated that volunteer peer coaches can increase PA in cancer survivors in a single group longitudinal design. The current study extends these results by using a randomized clinical trial design. Additionally, we extended the reach of our intervention beyond one state to six NE states. Furthermore, we found that cancer survivors randomized to the peer-led intervention showed significantly greater increases across multiple MVPA outcomes. Specifically, participants in the PA plus RTR arm had increased MVPA at both 12 and 24 weeks on both subjective (7-day PAR) and objective (accelerometer) measures of PA. In addition, those in PA plus RTR condition were more likely to meet ACSM guidelines for PA and to improve their motivational readiness for behavior change at 12 weeks. To our knowledge, this is the first trial to demonstrate a peer coaching intervention can increase PA in cancer survivors.\nOur results are noteworthy in that they are likely to have greater \"real world\" application through the engagement of a large community-based organization (the ACS), which has an established program (RTR) aimed at helping breast cancer survivors navigate the cancer treatment and recovery experience. Previous research has shown that increased PA after cancer can lead to improved physical and emotional health . Thus, the addition of a PA intervention to an established program could increase both the value of the program to participants as well as its potential to positively impact their long-term health outcomes. Integration of a PA intervention component into community-based programs also represents a potentially efficient and cost-effective method of identifying and recruiting both coaches and participants in PA trials as it builds on existing infrastructure and leverages programs that have established positive reputations in the community. In addition, the mechanisms to communicate with participants and deliver the intervention (via volunteer peer coaches) are already in place. Indeed, in many such programs, including RTR, community-based coaches are trained to understand and address the issues survivors face during their cancer experience. In particular, peer coaches have developed skill sets with regard to talking with cancer survivors about various challenging health concerns, have built rapport with those they provide coaching to, and are in position to deliver an evidence-based intervention with minimal additional training and cost to the program. Such an intervention focused on increasing PA is also consistent with recommendations of the ACS and thus the adoption of the intervention into programs is likely to be supported by the organization.\nAnother strength of this study is in the inclusion of both subjective and objective measures of PA as recommended by. Other intervention studies have relied solely on self-reported PA, which maybe subject to overestimation and underestimation of actual engagement. In our study, we found concordance between self-reported PAR and objectively measured accelerometer PA data at both 12 and 24 weeks, suggesting the fidelity of our intervention was strong and adding confidence that our results are valid. The correlations between subjective and objective measures of PA in the present study were moderate but higher than those reported in other studies. It is clear the self-reported exercise exceeded objectively measured activity at all time-points. This is not an unusual occurrence) because each technique uses different measurement approaches. Despite these differences, intervention effects on exercise assessed by both techniques (recall and objective data) were significant at both time-points, thereby increasing confidence in our results.\nAn important outcome is that 41% of the participants in the PA plus RTR arm met ACSM guidelines for PA at the end of the intervention period. Compared with only 5.4% of the controls meeting the guidelines at 12 weeks, these findings underscore that the intervention not only increased absolute levels of MVPA overtime but also raised them to levels that may positive impact overall physical health. Thus, coaches clearly were effective in communicating the importance of meeting guidelines and the potential health benefits of doing so. It is possible that coaching regarding PA may generalize to other health behaviors, potentially having a greater impact on overall health.\nAlthough the results of this trial are positive, there are limitations that warrant consideration. First, our study was conducted solely with female breast cancer survivors. Thus, the generalizability of the findings to survivors of other cancers and male cancer survivors are unknown at this point. On the one hand, the intervention is not disease or gender-specific, so it is plausible that this intervention would also benefit male survivors or those with cancers other than breast. Indeed, other PA trials have been shown to be equally effective with both men and women and across different disease sites. Secondly, we powered our trial on the effect size obtained in the pilot study which showed a larger effect size (d=0.97) than found in a review of exercise interventions for cancer survivors. Thirdly, there are limitations to generalizability in that the response to mailed letters inviting women treated for breast cancer to participate was poor suggesting some limitations to the uptake of this intervention. Among those who responded, a subgroup reported exercising with some regularity and were excluded (23.8%). The response to solicitation for coach volunteers was also not as high as expected and may limit intervention implementation (reasons for the non-responses were not obtained). Fourthly, we did not assess fitness. The current study was not designed to impact fitness or other biomedical outcomes; rather we sought a \"real world\" application of an already tested evidence-based PA intervention delivered to cancer survivors by peer coaches. Another concern is the finding that significant differences in MVPA found at 12 weeks were not maintained to the same extent at 24 weeks. It is plausible that RTR Control participants joined other structured exercise programs after the 12-week assessment and their mean MVPA increased at 24 weeks. The effects may also be attributable to the fact that the weekly telephone calls to both groups ended at 12 weeks. Thus, it is perhaps not surprising that the positive gains in the PA Plus RTR group were attenuated overtime. However, this finding does suggest an area of future research as exercise maintenance is critical to the management of cardiovascular disease, and other chronic conditions among cancer survivors as well as potentially for cancer survival. Maintenance of outcomes is also fundamental to inform the transition of evidence-based behavior interventions into practice. Finally, this trial was powered on the effects on self-reported MVPA found in the pilot study and the large effect size that we found in this prior work is higher than the small-to-moderate effect size found in PA interventions for cancer survivors.\nOur goals were not to test peer mentoring for exercise versus other structured exercise programs (e.g., but to test the effects of peer mentoring on participants' self-reported MPVA) versus those who did not receive the PA counseling but had equal frequency of contact with the peer mentors. Hence, we instructed the RTR Control group not to join a structured exercise program for the first 12 weeks. It is plausible that these instructions may have led some Control participants to artificially constrain their PA during the 12-week intervention phase.\nThe present findings underscore the potential fora large scale dissemination project in collaboration with a large, national community-based organization such as the ACS. Such a project may have wider application for difficult to reach populations including those living in rural areas, minorities, those with less education, and the medically-underserved. A telephone-based intervention may also appeal to older or physically-impaired individuals who may find it difficult to travel to more traditional clinic-based PA intervention programs. A recent review has acknowledged that peer-delivered PA interventions are an overlooked opportunity for PA promotion. The authors point out that in the larger healthcare context, PA prescriptions are probably best left to physicians, physiotherapists and fitness professionals, while peers are probably best suited for the delivery of PA interventions in away that others in the healthcare system may neither have the time nor the training to provide. Before launching a dissemination project, however, future research should explore options for improving efficiency, optimal methods of delivery, and cost effectiveness. For example, while telephone-based interventions maybe effective in modifying PA levels, maintenance of this delivery mode overtime may not be feasible or cost-effective. However, prompts and reminders have been found to be effective to sustain behavior change. Thus, other methods of communication that can help survivors maintain gains in MVPA and do not require individual coach's time, such as text messages, emails, etc. should be considered.\nIn sum, the results suggest that peer coaches identified through existing community-based programs can effectively deliver counseling and increase PA in cancer survivors compared to Control group participants who received equal frequency of contact with peer coaches, RTR print materials and were instructed not to join a structured exercise program for the first 12 weeks. Such peer-led interventions have the potential for large scale dissemination and may positively impact survivors' health behaviors and overall health, particularly among difficult-to-reach populations. Future research focusing on strategies to maintain gains in PA through existing and emerging technologies and time-saving modes of communication may optimize impact.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Refer to Web version on PubMed Central for supplementary material.\nWinningham M. Developing the Symptom Activity 27: An instrument to evaluate perception of symptom effects on activity. Oncology Nursing Forum. 1993; 20:330.   Mean minutes of MVPA (accelerometer data). MVPA = moderate-to-vigorous intensity PA; PA = physical activity; RTR = Reach to Recovery.\n",
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "1",
+          "rowHeaders": [
+            "Table"
+          ],
+          "columnHeaders": [
+            "Table 1"
+          ]
+        },
+        {
+          "value": "55.64 (8.59)",
+          "rowHeaders": [
+            "Age, years a"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Baseline Demographic and Medical History Variables for Participants",
+            "PA plus RTR (N=39)"
+          ]
+        },
+        {
+          "value": "0",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 1",
+            "Baseline Demographic and Medical History Variables for Participants",
+            "PA plus RTR (N=39)",
+            "b",
+            "Race, White b",
+            "Ethnicity, Hispanic/Latino b",
+            "Education, At least Some College b",
+            "Employment Full-time b",
+            "Income, >=40k b"
+          ]
+        },
+        {
+          "value": "1",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 1",
+            "Baseline Demographic and Medical History Variables for Participants",
+            "PA plus RTR (N=39)",
+            "b",
+            "Race, White b",
+            "Ethnicity, Hispanic/Latino b",
+            "Education, At least Some College b",
+            "Employment Full-time b",
+            "Income, >=40k b"
+          ]
+        },
+        {
+          "value": "2",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 1",
+            "Baseline Demographic and Medical History Variables for Participants",
+            "PA plus RTR (N=39)",
+            "b",
+            "Race, White b",
+            "Ethnicity, Hispanic/Latino b",
+            "Education, At least Some College b",
+            "Employment Full-time b",
+            "Income, >=40k b"
+          ]
+        },
+        {
+          "value": "3",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 1",
+            "Baseline Demographic and Medical History Variables for Participants",
+            "PA plus RTR (N=39)",
+            "b",
+            "Race, White b",
+            "Ethnicity, Hispanic/Latino b",
+            "Education, At least Some College b",
+            "Employment Full-time b",
+            "Income, >=40k b"
+          ]
+        },
+        {
+          "value": "1.05 (0.98)",
+          "rowHeaders": [
+            "Years Since Diagnosis a"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Baseline Demographic and Medical History Variables for Participants",
+            "PA plus RTR (N=39)"
+          ]
+        },
+        {
+          "value": "1.16 (1.14)",
+          "rowHeaders": [
+            "Years Since Diagnosis a"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Baseline Demographic and Medical History Variables for Participants",
+            "RTR Control (N=37)"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "12 and",
+          "rowHeaders": [
+            "Adjusted Mean Difference between PA Plus RTR and RTR Control at"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2"
+          ]
+        },
+        {
+          "value": "24 Weeks (Self-reported Mean",
+          "rowHeaders": [
+            "Adjusted Mean Difference between PA Plus RTR and RTR Control at"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2"
+          ]
+        },
+        {
+          "value": "12",
+          "rowHeaders": [
+            "Week"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "a"
+          ]
+        },
+        {
+          "value": "103.0",
+          "rowHeaders": [
+            "Week"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Estimate"
+          ]
+        },
+        {
+          "value": "15.4",
+          "rowHeaders": [
+            "Week"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Standard Error"
+          ]
+        },
+        {
+          "value": "<.001",
+          "rowHeaders": [
+            "Week"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "P-value"
+          ]
+        },
+        {
+          "value": "24",
+          "rowHeaders": [
+            "Week"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "a"
+          ]
+        },
+        {
+          "value": "34.7",
+          "rowHeaders": [
+            "Week"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Estimate"
+          ]
+        },
+        {
+          "value": "15.5",
+          "rowHeaders": [
+            "Week"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "Standard Error"
+          ]
+        },
+        {
+          "value": "0.03",
+          "rowHeaders": [
+            "Week"
+          ],
+          "columnHeaders": [
+            "Table 2",
+            "Table 2",
+            "P-value"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "48.5",
+          "rowHeaders": [
+            "Week 12"
+          ],
+          "columnHeaders": [
+            "Table 3",
+            "Table 3",
+            "Estimate"
+          ]
+        },
+        {
+          "value": "11.9",
+          "rowHeaders": [
+            "Week 12"
+          ],
+          "columnHeaders": [
+            "Table 3",
+            "Table 3",
+            "Standard Error"
+          ]
+        },
+        {
+          "value": "<.01",
+          "rowHeaders": [
+            "Week 12"
+          ],
+          "columnHeaders": [
+            "Table 3",
+            "Table 3",
+            "P-value"
+          ]
+        },
+        {
+          "value": "38.7",
+          "rowHeaders": [
+            "Week 24"
+          ],
+          "columnHeaders": [
+            "Table 3",
+            "Table 3",
+            "Estimate"
+          ]
+        },
+        {
+          "value": "12.0",
+          "rowHeaders": [
+            "Week 24"
+          ],
+          "columnHeaders": [
+            "Table 3",
+            "Table 3",
+            "Standard Error"
+          ]
+        },
+        {
+          "value": "<.01",
+          "rowHeaders": [
+            "Week 24"
+          ],
+          "columnHeaders": [
+            "Table 3",
+            "Table 3",
+            "P-value"
+          ]
+        }
+      ],
+      "page": 1
+    }
+  ]
+}

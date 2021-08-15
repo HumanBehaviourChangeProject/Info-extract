@@ -1,0 +1,457 @@
+{
+  "blocks": [
+    {
+      "type": "LINES",
+      "value": "Patient Education and Counseling",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "During the past decades computer tailored interventions emerged as anew and cost-effective form of theory-driven health education. The behavioural effects of computer tailored interventions have mainly been investigated in adults and efficacy was demonstrated.\nWhile tailored interventions to date have targeted adults in a variety of ways, researchers are only beginning to explore the effects of computer tailored interventions aimed at adolescents. The use of interactive web-based computer tailored interventions may particularly be a promising method to provide health education for adolescents as they are more likely to be familiar with computers and the internet, when compared to adults. In addition, little time, resources and cost would be needed to implement such Internet-delivered interventions in the classroom as in a considerable part of the European countries schools have already fully equipped computer-rooms.\nIn previous studies a youth-based computer tailored intervention was implemented as part of a multi-component intervention in middle schools and showed promising effects. A second follow-up study, investigating the isolated effects of the computer tailored physical activity (PA) intervention, showed that the intervention compared to no intervention was effective for increasing school related PA levels.\nHowever, the key question is whether computer tailored PA education delivered to adolescents in the classroom as part of the health education curriculum is more effective than giving generic information about PA. Hence, the purpose of the present study was to investigate the differences in effects of a computer tailored advice when compared to generic information. It was hypothesized that adolescents' PA levels would increase more if they received the computer tailored PA intervention, when compared to a computerized generic intervention. Tailoring Computer Physical activity Intervention Adolescent\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Objective: To investigate the differences in effects of a computer tailored physical activity advice as compared to generic information in adolescents. Methods: Students (mean age, 14.6 AE 1.2) out of 90 classes from six different Flemish schools were randomly assigned to the tailored intervention (n = 563) or the generic non-tailored intervention (n = 608) condition. Both interventions included information on public health recommendations and tips on becoming more active. Participants in both groups received their assessment and feedback at baseline, at 4 weeks and at 3 months during school hours. Physical activity levels were determined using an adolescent adaptation of the International Physical Activity Questionnaire (IPAQ). Results: After 4 weeks, almost all physical activity scores increased overtime in both the generic and the tailored intervention group. No differences between groups were found (all F 0.07). After 3 months, the generic intervention was more effective for increasing 'walking in leisure time' among students not complying with recommendations. For all other physical activity scores, no differences between groups were found (all F 2.3). Conclusions: In contrast to the expectations, changes in physical activity scores did not differ between the tailored and the non-tailored intervention group. For most of the physical activity scores increases were found in both groups.\nß 2009 Elsevier Ireland Ltd. All rights reserved.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Data gathered for the present study are part of the larger Helena project. For the present study a random sample of 1468 Flemish adolescents out of 90 classes out of 6 different Flemish schools was drawn. A within design was used, with classes from the same school randomly assigned to the tailored or non-tailored intervention group.\nAt baseline (February-March 2007) 1171 adolescents (526 boys, 645 girls, mean age, 14.6 AE 1.2) filled in the computerized screening questionnaires and received a tailored feedback letter or a generic feedback letter. About 90% (1054) of the adolescents went through the screening questionnaires and the interventions a second time after 4 weeks. Three months later, 881 adolescents (75.2%) completed the follow-up questionnaire. Students completed the assessments and interventions at school during school hours.\nParents were sent a letter including a short explanation of the Helena study and request of consent, no parents refused participation. The study protocol was approved by the Ethical Committee of Ghent University.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The youth-based computer tailored intervention for adolescents was previously developed in Flanders and is more fully described in a previous publication. The computer tailored program consisted of three major parts: (a) an introduction page, (b) a diagnostic tool and (c) an advice. The first two parts were interactive, all parts were delivered on-screen. The introduction page provided some general information about the diagnostic tool to get the students started. The questionnaire used in the diagnostic tool could be filled out on the computer screen and consisted of three major parts: a demographic questionnaire, a PA questionnaire and a questionnaire on psychosocial determinants (see Section 2.3).\nAfter questionnaires were completed, feedback was selected out of a database with messages for each possible combination of answers. The PA advice started with a general introduction, followed by normative feedback, which related students' PA levels to the PA guidelines. Readiness to change was used to define the content and approach of the feedback. Finally, students also got tailored feedback on PA determinants. The advice was tailored on stages of change, both by content and by the way in which the participants were approached (a more distant way for precontemplators to avoid resistance, a more personal way for contemplators, a decisive way for preparators and a supporting way for participants inaction or maintenance stage). Further also the constructs of the Theory of Planned Behavior were considered by giving the participants personal advice about intentions, attitudes, selfefficacy, social support, knowledge, benefits and barriers of PA. The tailored feedback could amount to as much as 5 or 6 A4 pages.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The non-tailored intervention group received a one and a half page long advice including information on the benefits of PA, public health recommendations, differences between moderate and vigorous intensity activities and tips on how to become more active. The information was a selection of the most essential information in the tailored advice, but not tailored to each individual.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The computerized screening questionnaires were used to measure PA levels at T1, T2 and T3. Data were immediately sent to a central server and stored.\nPA levels were determined using an adolescent adaptation of the International Physical Activity Questionnaire (IPAQ). Several indexes were computed by multiplying the number of days per week and minutes per day resulting in minutes per week of each activity: walking for transport, cycling for transport, walking in leisure time, moderate activity in leisure time, vigorous activity in leisure time, moderate activity at school, vigorous activity at school. Total activity of at least moderate intensity was computed by summing all minutes of activity of moderate and vigorous activity.\nDeterminant questions were selected and adopted from previous studies with adolescents and adults.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Linear mixed models on post-intervention measures of PA (T2), controlling for baseline values of PA (T1) with condition as between subject factors, were used to explore short term intervention effects (after receiving the intervention once). Gender and gender by condition interaction effects were entered as factors in the model. Also norm (not complying with recommendations, complying with recommendations) and norm by condition interaction effects were added in the model. Analyses were adjusted forage. A three-level structure (pupil-class-school) with random intercepts at the class and school level was modelled. To explore long term intervention effects (after receiving the intervention twice), the same analyses were repeated on long term post-intervention measures of PA (T3), controlling for baseline values of PA (T1). P-values .05 were considered as significant. All analyses were performed using SPSS 15.0.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "There were no significant gender by condition interaction terms, therefore these were removed from the final models. Table shows the analyses including T1 and T2. Results showed no significant main effects for condition (all F 0.07). All PA scores, except for 'moderate activity in leisure time', increased overtime in both the generic and the tailored intervention group.\nTable shows the analyses including T1 and T3. There was a significant condition by norm interaction effect for 'walking in leisure time' (F = 6.87, P 0.01). Post hoc analyses revealed that the generic intervention (+46 min/week) was more effective when compared to the tailored intervention (+17 min/week) among adolescents not complying with PA recommendations. There were no significant differences between both groups among adolescents complying with recommendations. Results showed no significant main effects of condition (all F 2.3). Hence, PA scores changed in the same way in both the tailored and the generic group. Four of the eight PA scores (cycling for transportation, walking for transportation, walking in leisure time and vigorous activity at school) increased overtime in both groups.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The present study evaluated differences in effects of a computer tailored physical activity intervention over a generic advice in a random sample of adolescents. A recent review showed that tailored print interventions outperform generic interventions, although the overall effect size was small. In contrast to these findings, in the present study most PA scores changed in the same way in the tailored and generic group.\nContrary to most previous studies (e.g.), in the present study the exact same procedure (internet-delivered classroom intervention) and layout were used in both intervention groups. The only real difference between both groups was related to the content of the feedback. Ina previously conducted adult study, comparing the effectiveness of a tailored and non-tailored intervention aimed at increasing physical activity, using the exact same procedure and layout in both conditions, results were also inconclusive. Tailored materials resulted in increased physical activity levels in daily lives, but not in total amounts of physical activity. The authors argued that when there is less variability within a population, the differences between tailored and standard materials might be minimal. Related to the present study, most adolescents might benefit from receiving tips on how to become more active, if most of them are insufficiently active.\nSecondly, the lack of additional effects of the tailored intervention could be due to its length. The results of a previous study indicated that some students did not read the information in the advice as it was perceived as too long. Hence, the length of the tailored advice (5-6 pages) might have discouraged some students from starting to read it, while this might not have been the case with the shorter generic advice (1.5 pages). Other studies indeed suggested that shorter interventions might be more effective.\nFinally, all adolescents participated in the classroom-led session. This is in strong contrast with adult studies who mostly recruited convenience samples of very motivated participants. Previous research showed that tailored feedback is especially effective among people who are highly motivated to change. Lots of students not complying with the PA guidelines, might be precontemplators being unaware of their low PA levels before they got their tailored advice. A study in adults already revealed that precontemplators were less likely to evaluate a tailored advice as positive. In that group the general more neutral information provided in the generic advice might indeed have had better effects than the unexpected, personalized and confronting negative information in the tailored advice.\nThe use of self-reports that are more often biased by social desirability and inaccurate responses is a limitation of the present study, especially as students completed them in the classroom, a context in which they are used to try to give good answers to get good grades. However, a purported advantage of completing assessments via a computer is the anonymity involved, which in turn is likely to provide more honest answers. Randomization was used to assign classes within one school to one of both intervention groups, this may have caused some contamination between groups. Hence, it cannot be ruled out that interactions between both groups might have caused the lack of differences between both groups. However, this within school randomized approach was chosen to reduce the possible impact of confounding factors, such as the school environment (e.g. organization of additional extracurricular activities).\nStrengths of this study were the use of an innovative intervention type compared for the first time with a generic intervention in adolescents and our implementation in a real-life setting which increases the external validity of the results.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Although previous research has shown that the youth-based computer tailored PA education has the potential to impact on PA levels in adolescents and such interventions are well appreciated, the shorter generic non-tailored intervention was as effective among adolescents. Future studies should compare the effectiveness of a tailored and non-tailored advice of equal length among motivated and less motivated adolescents to be conclusive about the value of tailored materials for an adolescent population. Furthermore process evaluation should be included in future studies to provide more insight into the underlying mechanisms for the lack of differences between groups.\n",
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "0.52",
+          "rowHeaders": [
+            "Baseline"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "F",
+            "Condition Â gender"
+          ]
+        },
+        {
+          "value": "0.70",
+          "rowHeaders": [
+            "Baseline"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "F",
+            "Condition Â norm"
+          ]
+        },
+        {
+          "value": "0.07",
+          "rowHeaders": [
+            "Baseline"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "B",
+            "Condition"
+          ]
+        },
+        {
+          "value": "À2.01 (7.47)",
+          "rowHeaders": [
+            "Baseline"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Condition (S.E.)",
+            "B",
+            "Condition"
+          ]
+        },
+        {
+          "value": "1.54",
+          "rowHeaders": [
+            "Baseline"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "F",
+            "Condition Â gender"
+          ]
+        },
+        {
+          "value": "4.29",
+          "rowHeaders": [
+            "Baseline"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "F",
+            "Condition Â norm"
+          ]
+        },
+        {
+          "value": "0.00",
+          "rowHeaders": [
+            "Baseline"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "B",
+            "Condition"
+          ]
+        },
+        {
+          "value": "0.32 (10.88)",
+          "rowHeaders": [
+            "Baseline"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Condition (S.E.)",
+            "Condition"
+          ]
+        },
+        {
+          "value": "0.22",
+          "rowHeaders": [
+            "Baseline"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "F",
+            "Condition Â gender"
+          ]
+        },
+        {
+          "value": "1.63",
+          "rowHeaders": [
+            "Baseline"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "F",
+            "Condition Â norm"
+          ]
+        },
+        {
+          "value": "0.02",
+          "rowHeaders": [
+            "Baseline"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "B",
+            "Condition"
+          ]
+        },
+        {
+          "value": "À1.31 (9.41)",
+          "rowHeaders": [
+            "Baseline"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Condition (S.E.)",
+            "Condition"
+          ]
+        },
+        {
+          "value": "2.21",
+          "rowHeaders": [
+            "Baseline"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "F",
+            "Condition Â gender"
+          ]
+        },
+        {
+          "value": "0.04",
+          "rowHeaders": [
+            "Baseline"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "F",
+            "Condition Â norm"
+          ]
+        },
+        {
+          "value": "0.00",
+          "rowHeaders": [
+            "Baseline"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "B",
+            "Condition"
+          ]
+        },
+        {
+          "value": "À0.19 (13.75)",
+          "rowHeaders": [
+            "Baseline"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Condition (S.E.)",
+            "Condition"
+          ]
+        },
+        {
+          "value": "0.08",
+          "rowHeaders": [
+            "Baseline"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "F",
+            "Condition Â gender"
+          ]
+        },
+        {
+          "value": "0.22",
+          "rowHeaders": [
+            "Baseline"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "F",
+            "Condition Â norm"
+          ]
+        },
+        {
+          "value": "0.01",
+          "rowHeaders": [
+            "Baseline"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "B",
+            "Condition"
+          ]
+        },
+        {
+          "value": "1.13 (12.43)",
+          "rowHeaders": [
+            "Baseline"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Condition (S.E.)",
+            "Condition"
+          ]
+        },
+        {
+          "value": "0.14",
+          "rowHeaders": [
+            "Baseline"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "F",
+            "Condition Â gender"
+          ]
+        },
+        {
+          "value": "0.04",
+          "rowHeaders": [
+            "Baseline"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "F",
+            "Condition Â norm"
+          ]
+        },
+        {
+          "value": "0.15",
+          "rowHeaders": [
+            "Baseline"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "B",
+            "Condition"
+          ]
+        },
+        {
+          "value": "À2.34 (5.97)",
+          "rowHeaders": [
+            "Baseline"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Condition (S.E.)",
+            "Condition"
+          ]
+        },
+        {
+          "value": "0.01",
+          "rowHeaders": [
+            "Baseline"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "F",
+            "Condition Â gender"
+          ]
+        },
+        {
+          "value": "2.87",
+          "rowHeaders": [
+            "Baseline"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "F",
+            "Condition Â norm"
+          ]
+        },
+        {
+          "value": "0.00",
+          "rowHeaders": [
+            "Baseline"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "B",
+            "Condition"
+          ]
+        },
+        {
+          "value": "0.02 (5.21)",
+          "rowHeaders": [
+            "Baseline"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Condition (S.E.)",
+            "Condition"
+          ]
+        },
+        {
+          "value": "0.50",
+          "rowHeaders": [
+            "Baseline"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "F",
+            "Condition Â gender"
+          ]
+        },
+        {
+          "value": "0.58",
+          "rowHeaders": [
+            "Baseline"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "F",
+            "Condition Â norm"
+          ]
+        },
+        {
+          "value": "0.06",
+          "rowHeaders": [
+            "Baseline"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "B",
+            "Condition"
+          ]
+        },
+        {
+          "value": "À7.29 (30.32)",
+          "rowHeaders": [
+            "Baseline"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Condition (S.E.)",
+            "Condition"
+          ]
+        },
+        {
+          "value": "0.05.",
+          "rowHeaders": [
+            "p <"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "PA scores (min/week)",
+            "Generic (n = 543)",
+            "1-month",
+            "1-month",
+            "1-month",
+            "1-month",
+            "1-month",
+            "1-month",
+            "1-month",
+            "1-month"
+          ]
+        }
+      ],
+      "page": 1
+    }
+  ]
+}

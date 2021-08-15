@@ -1,0 +1,2588 @@
+{
+  "blocks": [
+    {
+      "type": "LINES",
+      "value": "Efficacy of Participation-Focused Therapy on Performance of Physical Activity Participation Goals and Habitual Physical Activity in Children With Cerebral Palsy: A Randomized Controlled Trial",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Objective: To determine the efficacy of a participation-focused therapy (ParticiPAte CP) on leisure-time physical activity goal performance and satisfaction and habitual physical activity (HPA) in children with CP. Design: Randomized waitlist-controlled trial. Setting: Home and community. Participants: Children classified at Gross Motor Function Classification System (GMFCS) levels I-III were recruited (nZ37; 18 males; mean age AE SD, 10.0AE1.4y) from a population-based register. Interventions: Participants were randomized to ParticiPAte CP (an 8-wk goal-directed, individualized, participation-focused therapy delivered by a physical therapist) or waitlist usual care. Main Outcome Measures: The primary outcome was Canadian Occupational Performance Measure. Accelerometers were worn for objective measurement of HPA (min/d moderate-to-vigorous physical activity [MVPA], sedentary time). Barriers to participation, community participation, and quality-of-life outcomes were also collected. Data were analyzed by intention-to-treat using generalized estimating equations.\nResults: ParticiPAte CP led to significant improvements in goal performance (mean difference [MD]Z3.58; 95% confidence interval [95% CI], 2.19-4.97; P<.001), satisfaction (MDZ1.87; 95% CI, 0.37-3.36, PZ.014), and barriers to participation (MDZ26.39; 95% CI, 6.13-46.67; PZ.011) compared with usual care at 8 weeks. There were no between-group differences on minutes per day of MVPA at 8 weeks (MDZ1.17; 95% CI, À13.27 to 15.61; PZ.874). There was a significant difference in response to intervention between participants who were versus were not meeting HPA guidelines at baseline (MDZ15.85; 95% CI, 3.80-27.89; P<.0061). After ParticiPAte CP, low active participants had increased average MVPA by 5.98AE12.16 minutes per day. Conclusion: ParticiPAte CP was effective at increasing perceived performance of leisure-time physical activity goals in children with CP GMFCS I-III by reducing modifiable barriers to participation. This did not translate into change in HPA on average; however, low active children may have a clinically meaningful response.",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Participation is defined as involvement in a life situation as part of the fulfilment of asocial role. Children with cerebral palsy (CP) participate less frequently and in fewer types of leisure-time physical activities than their typically developing peers. Children with CP are at greater risk for physical inactivity including reduced time in moderate-to-vigorous physical activity (MVPA) and increased sedentary behaviors, and are less likely to meet Australian physical activity guidelines. Australian guidelines recommend that all children aged 5-12 years need to accumulate at least 60 minutes per day of MVPA. Participation in physical activities and daily (habitual) physical activity (HPA) are correlated in children with CP. An intervention that aims to increase participation in physical activities may therefore increase MVPA and/or reduce sedentary behavior.\nPrevious studies of physical activity interventions in children with CP have targeted impairments (eg, strength) or activity limitations (eg, motor skills) under the premise that improvement at these levels translates to increased participation and/or MVPA. Used alone, these impairment-focused approaches are insufficient to increase participation or HPA. Biopsychosocial models of disability recognize that participation restrictions are not caused directly by impairments or activity limitations. Therapy models that integrate strategies aimed at personal, contextual, and environmental factors maybe more effective at enabling participation in physical activities and improving HPA. Participation-based therapy aims to enable participation in children using a goaloriented, family-centered, collaborative, strengths-based, ecological, and self-determined process. There are no randomized controlled trials of interventions aligned with participation-based therapy, though recent goal-directed therapies including environmental and behavior-changing components have emerging evidence of efficacy in nonrandomized studies. ParticiPAte CP is a participation-focused therapy for children with cerebral palsy, targeting barriers to participation in leisuretime physical activity across domains of child and family health, functioning, and behavior. This study aimed to determine the efficacy of ParticiPAte CP on (1) perceived performance and satisfaction with participation in leisure-time physical activity goals and (2) objectively measured physical activity behaviors (HPA) in children with CP. We hypothesized that participants receiving the intervention would demonstrate significantly greater participation goal performance and satisfaction, more minutes per day of MVPA, and reduced sedentary time compared with a group receiving usual care. Secondary aims were to assess the efficacy of ParticiPAte CP on parent-reported behavioral barriers to participation, domains of child-reported quality of life, and parentreported community participation frequency and involvement.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The study methods are described in detail in the published protocol. Ethical approval was obtained from the Children's Health Queensland Human Research Ethics Committee (HREC/15/ QRCH/162) and the University of Queensland Medical Research Ethics Committee (2015001609). The trial was prospectively registered on the Australian New Zealand Clinical Trials Registry (ACTRN12615001064594). Written informed consent was obtained from all parents or guardians, and written assent was obtained from 12-year-old participants.\nParticipants were children aged 8-12 years with a diagnosis of CP (Gross Motor Function Classification System [GMFCS] levels I-III) and 1 or both of their primary caregivers, living within 200 km of South Brisbane, Australia. Children were recruited from populationbased research and outpatient rehabilitation clinic databases at the Queensland Children's Hospital campus between October 2015 and April 2017. All families with potentially eligible children (nZ229) (fig) were invited to contact the research team for further information. Families who returned contact were screened for eligibility and invited to participate. The remainder of families were then contacted again in a random order until the target number was achieved. Children were excluded if they had (1) an unstable medical condition that precluded safe community physical activity; (2) orthopedic and/ or neurologic surgery in the previous 6 months; moderate to severe intellectual disability (IQ<50 ); (4) moderate to severe impairment in communication function (Communication Function Classification System, IV and V); or (5) severe visual impairment or blindness.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "After recruitment, participants underwent stratified randomization (GMFCS I and II vs III and male vs female) in permuted blocks of 4 to either (1) ParticiPAte CP immediately for weeks plus 8 weeks follow-up or (2) waitlist usual care for 16 weeks. Randomization was completed by nonstudy personnel using a computer-generated random number sequence and was concealed using opaque envelopes. Baseline assessments (except HPA monitoring) were completed before revealing group allocation.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "ParticiPAte CP consisted of 8 face-to-face, individual physical therapy sessions of 60 minutes duration over 8 weeks. The first and last sessions were focused on goal setting and scoring, respectively, and were conducted at the research center. The middle 6 sessions were aimed at enabling the child's ongoing participation in leisuretime physical activity using a toolbox of evidence-based therapy strategies and were conducted in the child's home, community, or school environment. The intervention was pragmatic and highly tailored; however, common elements included the following: (1) A clinical reasoning framework informed by the Theoretical Domains Framework (TDF) and Behaviour Change Technique Taxonomy v1, to match modifiable barriers to participation specific to each   The intervention was underpinned by self-determination theory (SDT), which posits that basic psychological needs of autonomy, competence, and relatedness must be fulfilled for people to be intrinsically motivated to pursue goals. The method of matching of behavioral barriers to evidence-based supports is demonstrated in supplemental table S1 (available online only at http://www. archives-pmr.org/). The intervention was delivered by 1 registered physical therapist with 3 years of postgraduate experience who attended a 2-day intermediate training course in motivational interviewing. Parents recorded any unrestricted usual care in standardized diaries to enable reporting of dose and type of therapy. Further details of the intervention are in the published protocol.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "During the 16-week study period, the waitlist control group received unrestricted usual care plus three 60-minute face-to-face sessions with the study therapist. These sessions consisted of the baseline goal-setting session and 2 goal scoring sessions at 8 and 16 weeks (similar to the intervention group but not including any reflection or action planning). The waitlist group received ParticiPAte CP at the end of the 16-week study period, and study outcomes were collected again immediately following at 24 weeks (waitlist group only). This meant that a pooled pre-post intervention dataset was available consisting of all participants (in both groups) who had valid data before and after receiving ParticiPAte CP (see fig).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The primary outcome was a modified version of the Canadian Occupational Performance Measure (COPM), which is valid and reliable in CP. Modification consisted of (1) identification of goals in only the leisure domain; (2) the use of a collaborative scoring paradigm with parent-proxy rating where appropriate due to child age, communication, perceptual, or intellectual functioning ; and (3) addition of the Belief in Goal Self-competence Scale (BiGSS). The BiGSS captures self-efficacy through the level of confidence that a goal can be achieved. An increase of 2 points on the COPM indicates a clinically significant change. At baseline, participants identified 3-5 leisure-time physical activity participation goals. To ensure that goals reflected either participation attendance or involvement, a second independent rater familiar with the family of participation-related constructs reviewed all COPM goals (L.S. and C.E.). Attendance refers to being there (frequency of attending or diversity of activities attended), whereas involvement refers to the experience of participation while attending (eg, motivation, affect, engagement). Goals not adhering to either construct were excluded from analysis. The treating therapist completed the COPM interview. The therapist was not blind to group allocation at 8 and 16 weeks; however, caregivers and children were blind to their previous ratings.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "To measure HPA, participants wore an ActiGraph GT3Xþ a triaxial accelerometer, secured around the waist above the iliac spines at the midaxilliary line on the right side. For each episode of measurement, participants were instructed to wear the monitor during waking hours for 7 consecutive days. The baseline measurement period was conducted immediately after COPM goal setting. All participants were aware that their physical behavior was being monitored by the nature of wearing the accelerometer. Caregivers recorded device on and off times in an activity diary in addition to frequency and duration of water-based activities and cycling, though most of the diaries were incomplete for information about cycling and swimming on visual inspection.\nDevices were initialized with a 30-Hz sampling rate. A valid wear day was at least 10 hours; episodes with at least 1 valid wear day were included in analyses (there were no significant differences after a sensitivity analysis removed episodes of 2d). Data were downloaded and visually inspected using ActiLife version 6.13.3. a A customized Microsoft Excel macro b was used to identify nonwear periods (intervals!60min of consecutive zero counts with allowance for 1-2min of nonzero counts<25 counts/15s), wear time, and physical activity intensity based on vertical axis counts in 15-second epochs with validated GMFCS-specific cut points.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Secondary outcomes are reported in table 5. Parents in the ParticiPAte CP group reported fewer barriers or more facilitators to participation on the BPPA-Q at 8 weeks (MDZ26.39; 95% CI, 6.13-46.67; PZ.011), which was not retained at 16 weeks. There were no differences between groups for domains of quality of life.\nThere were no between-group differences for community participation frequency, involvement, or environmental supportiveness (PEM-CY) despite a within-group increase in the intervention group for community participation frequency (MDZ0.62; 95% CI, 0.25-0.98; PZ.001) and environmental supportiveness (MDZ6.26, 95% CI, 1.29-11.23; PZ.014) at 16 weeks.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Continuous outcomes were inspected for normality and criteria for normality were met. Participant characteristics and demographic variables were summarized for continuous variables and categorical variables. Between-group differences for primary and secondary outcomes were determined using generalized estimating equations to account for the repeated measures design, stratification, and missing data, following an intention-to-treat principle. The distributional family was Gaussian, with an identity link and exchangeable correlation matrix. Covariables were stratification factors (sex and GMFCS) and wear time for accelerometer data. The sample size was based on the primary outcome COPM goal performance, which required a minimum of 11 participants in each group to detect a clinically significant change with a power of 80% and alpha 0.05, based on an SD of 1.7 from trials in a similar population. To increase power for post hoc analysis of HPA, the pre-post pooled dataset was used to examine differential response to ParticiPAte CP on MVPA. To facilitate this, participants were divided into 2 categories based on their MVPA at baseline: <60 minutes per day (low active) versus !60 minutes per day, based on the Australian physical activity guideline (CP guidelines align with this 32 ). Data were analyzed with Stata/IC 14.2. c\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Thirty-seven participants enrolled and were randomized; participant flow is presented in figure and characteristics in table 1. There were no significant differences on demographic characteristics between groups, nor between participants who withdrew and those who continued.\nOn average, participants allocated to ParticiPAte CP completed 5.83AE0.38 of 6 home visits and all completed both goal-setting or scoring appointments, totaling 306 hours of face-to-face contact with the therapist, 256 hours of therapist travel, and approximately 136 hours of indirect therapy time. Indirect time consisted of contact with community organizations, completion of funding paperwork, development of home exercise programs, etc. There were no serious adverse events. Two children fell over while riding bicycles and 1 participant while practicing rugby drills, but there were no injuries and children immediately resumed therapy. One child reported ankle discomfort during running training but did not require medical attention.  Thirty-one (83.8%) parents returned usual care diaries. Children in both groups received a limited amount of usual care therapy (table). Approximately half of the children received no physical therapy (48.6%) or occupational therapy (51.4%). There were no significant differences between groups on usual care.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Characteristics of COPM goals are presented in table 3. One goal, excluded from analyses, was deemed to represent the activity construct (mean eligible goals per participant 3.03AE0.29). The attendance construct was measured in 80.5% of goals, and 37.5% referenced a formal leisure activity. The most frequently mentioned participation goals were cycling (18.8%) and football (11.6%).\nPrimary Valid wear data were available for 68.4% of monitoring periods (see fig). Reasons for missing periods included refusal to wear device (10.8%), participant had dropped out (9.9%), family circumstances (9.0%), and inadequate wear time or battery depletion (1.8%). Participants achieved mean AE SD 5.87AE2.29 and 5.29AE1.77 days of wear at baseline for ParticiPAte CP and waitlist groups, respectively. There were no differences in days of wear or wear time between intervention and waitlist groups at baseline, 8, and 16 weeks (see table). On visual inspection, weekend days were not more likely to be missing than weekdays. There were no differences in baseline characteristics between participants missing none or one monitoring period compared to !2 monitoring periods.\nThere were no differences between the intervention and waitlist groups on any measure of HPA at 8 and 16 weeks (see table). At baseline across both groups, children at GMFCS I (nZ18) had mean AE SD 47.6AE20.4 minutes per day of MVPA compared to GMFCS II (nZ6, mean AE SDZ68.9AE15.2) and III (nZ5, mean AE SDZ50.7AE22.3); the effect of GMFCS on baseline minutes per day of MVPA was not significant at P<.05 (F 2,26 Z2.61, PZ.0925). At baseline, 8 participants (53%) were meeting Australian guidelines for physical activity in the intervention group versus 3 (21%) in the  waitlist group (Fisher exactZ0.128, PZ.082). There was no relation between baseline MVPA and child age, sex, socioeconomic status, or presence of comorbid diagnoses across both groups. A total of 24 participants had complete data available for post hoc testing of the pooled pre-post sample to determine whether there was a differential effect of ParticiPAte CP depending on whether the child met HPA guidelines at baseline. Analysis revealed a difference in response to intervention between participants who were low active at baseline compared to those already meeting guidelines (MDZ15.85; 95% CI, 3.80-27.89; P<.0061). Low active participants had an increase in average daily MVPA of 5.98AE12.16 minutes per day immediately postintervention.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "In this randomized controlled trial, participants receiving Partici-PAte CP achieved statistically significant and clinically meaningful improvement in performance of self-selected leisure-time physical activity goals, compared to the control group. This model of participation-focused therapy enabled children with CP to participate in leisure-time physical activities that met their needs and preferences using a toolbox of strategies to target individualized, modifiable barriers to participation in physical activity. To our knowledge, this is the first randomized trial of participationfocused therapy to improve participation in physical activities in children with CP.\nImproved goal performance did not translate into increased minutes per day of MVPA. Children with CP who did not meet physical activity guidelines at baseline, however, exhibited an increase in MVPA in response to ParticiPAte CP compared to children who already performed !60 minutes per day of MVPA. Most children in the study set frequency of attendance goals saying they would like to participate in an activity on more occasions. Given this, it is plausible that low active children had an additional 60-120 minutes per week of participation in their goal activities after ParticiPAte CP. If approximately one-third of this time can be attributed to MVPA intensity, up to an extra 40 minutes per week (w6min/d) of MVPA maybe expected. This corresponds to the effect size found in the pooled analysis in low active children, demonstrating that this effect maybe clinically meaningful.\nParticipants in both groups had moderate-high levels of MVPA at baseline when GMFCS-specific cut points were applied. Children with CP have a higher energy cost of walking than typically developing children, which increases with increasing GMFCS level. Validated GMFCS-specific cut points are less likely to misclassify activity intensity for children GMFCS II and III compared to nonspecific cut points. Despite a relatively small sample, this was demonstrated in the current study as when GMFCS-specific cut points were applied, GMFCS did not predict minutes per day of MVPA, indicating that children at GMFCS II and III maybe more physically active than previously estimated. Machine learning approaches such as activity class recognition may offer better means to detect both intensity of HPA and activity type (eg, walking vs aerobic sports vs cycling). Activity class recognition is a different method of data reduction (using the same devices) that relies first on detecting the type of activity before applying intensity cut points. This may improve the ability to detect change after an intervention aimed to change participation in individually chosen physical activities. Cycling and swimming goals were however frequently chosen in this study. Furthermore, ActiGraph GT3Xþ are not waterproof and cut point methods with hip wear location are likely to underestimate cycling intensity. It is therefore possible that for some participants, MVPA was underestimated.\nParticiPAte CP was underpinned by theories of human motivation and behavior, including SDT. Motivational interviewing communication strategies (which are consistent with SDT in supporting client autonomy 37 ) were used to help children and caregivers resolve ambivalence to increasing physical activity participation. After ParticiPAte CP, caregivers reported significantly fewer behavioral barriers and/or more facilitators to their child's participation on the BPPA-Q. Furthermore, there were between-group differences at both 8 and 16 weeks on the BiGSS. This supported the hypothesized mechanism of effect that Partici-PAte CP would (1) facilitate participant autonomy and self-efficacy, leading to (2) intrinsic motivation for physical activity behavior change, through (3) reduction of modifiable barriers to participation.\nThe solution-focused approach used in ParticiPAte CP to overcoming barriers to participation has similarities to the Teens Making Environment and Activity Modifications project, Pathways and Resources for Engagement and Participation intervention, and the Local Environment Model. All feature problem-solving approaches, rely on a degree of child and youth involvement and are targeted toward environmental and behavioral barriers to participation. ParticiPAte CP differs from Teens Making Environment and Activity Modifications and Pathways and Resources for Engagement and Participation by its inclusion of child-related strategies, such as functional training (to increase activity capacity). Scaffolded participation in physical activities is also included in the Local Environment Model. Although there were no between-group differences for community participation frequency and community environmental supportiveness, there were small within-group improvements in the intervention group at 16 weeks. It is not clear whether this change is clinically meaningful PEM-CY, though a similar magnitude of change was reported after a pilot trial in 6 participants with CP (MDZ0.6). The PEM-CY community domain captures aspects of participation in 10 community activity types with only 2 being physical activities. Because the intervention was targeted at physical activities only, change across other activity types would not be expected. In addition, the PEM-CY has a 4-month recall period, meaning there was a recall time overlap of 2 months prior to baseline at the 8-week time point, which may have reduced the ability to detect change attributable to the intervention. This could be overcome by selecting a longer followup period or shortening the recall window.\nThe therapy did not lead to improvements in child-reported quality of life. A ceiling effect of the Cerebral Palsy Quality of Life Questionnaire for Children 41 may influence the result given the proportion of high scores at baseline. In addition, a proportion of participating children had a comorbid diagnosis of autism spectrum disorder (ASD), intellectual disability, and/or a learning disability, which may have affected their ability to reliably selfreport quality of life. Future studies may use both parentproxy and child self-report measures.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "This study had strong methodology; however, design limitations must be acknowledged. The process of goal setting was integral to the development of the therapeutic relation, and a knowledge of the participants' progress was required to discuss goal scoring after the intervention. A pragmatic approach was adopted with unblinded rating of the COPM at the postintervention and follow-up time points, which may have introduced bias. To reduce bias, children and caregivers were blinded to their previous ratings as recommended. Future studies may consider assessor-blinded rating of the COPM. This study was powered to detect a difference between groups in performance of participation, but not MVPA. There were some missing data due to refusal to wear the device around the hip. Accelerometer placement on the wrist maybe more comfortable than the hip, leading to increased compliance. All participants who refused to wear devices had a confirmed or suspected\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "This first adequately powered randomized waitlist-controlled trial demonstrated the efficacy of a participation-focused model of therapy to enable leisure-time physical activity participation in children with CP. Outcomes assessing behavioral barriers to change and participant self-efficacy supported the hypothesized mechanism of effect and theorized autonomy-supportive nature of the intervention. Increased perceived performance of participation did not translate into improvements in HPA in children with CP aged 8-12 years. Secondary analysis, however, revealed that the intervention may potentially be effective in children not already meeting physical activity guidelines, and that this effect could be clinically meaningful. As a complex intervention, further analysis is required to evaluate the contents and mechanism of effect. Although there were no between-group differences for com-munity participation frequency and community environmental supportiveness, there were small within-group improvements in the intervention group at 16 weeks. It is not clear whether this change is clinically meaningful PEM-CY, though a similar magnitude of change was reported after a pilot trial in 6 partici-pants with CP (MDZ0.6). The PEM-CY community domain captures aspects of participation in 10 community activity types with only 2 being physical activities. Because the intervention was targeted at physical activities only, change across other ac-tivity types would not be expected. In addition, the PEM-CY has a 4-month recall period, 40 meaning there was a recall time overlap of 2 months prior to baseline at the 8-week time point, which may have reduced the ability to detect change attributable to the intervention. This could be overcome by selecting a longer follow-up period or shortening the recall window. The therapy did not lead to improvements in child-reported quality of life. A ceiling effect of the Cerebral Palsy Quality of Life Questionnaire for Children 41 may influence the result given the proportion of high scores at baseline. In addition, a proportion of participating children had a comorbid diagnosis of autism spectrum disorder (ASD), intellectual disability, and/or a learning disability, which may have affected their ability to reliably self-report quality of life. Future studies may use both parent-proxy and child self-report measures.\n",
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "1",
+          "rowHeaders": [
+            "Table",
+            "I"
+          ],
+          "columnHeaders": [
+            "Table 1 Personal and sociodemographic characteristics of study"
+          ]
+        },
+        {
+          "value": "8 (44.4)",
+          "rowHeaders": [
+            "Table",
+            "Males, n (%)",
+            "Separated/divorced"
+          ],
+          "columnHeaders": [
+            "Table 1 Personal and sociodemographic characteristics of study",
+            "Personal and sociodemographic characteristics of study",
+            "ParticiPAte",
+            "CP (nZ18)"
+          ]
+        },
+        {
+          "value": "9 (50.0)",
+          "rowHeaders": [
+            "Unilateral",
+            "Separated/divorced"
+          ],
+          "columnHeaders": [
+            "Table 1 Personal and sociodemographic characteristics of study",
+            "Personal and sociodemographic characteristics of study",
+            "ParticiPAte",
+            "CP (nZ18)",
+            "9.8AE1.5"
+          ]
+        },
+        {
+          "value": "8 (42.1)",
+          "rowHeaders": [
+            "Unilateral",
+            "Separated/divorced"
+          ],
+          "columnHeaders": [
+            "Table 1 Personal and sociodemographic characteristics of study",
+            "Personal and sociodemographic characteristics of study",
+            "Waitlist",
+            "Control (nZ19)",
+            "10.2AE1.3"
+          ]
+        },
+        {
+          "value": "9 (50.0)",
+          "rowHeaders": [
+            "Bilateral",
+            "Separated/divorced"
+          ],
+          "columnHeaders": [
+            "Table 1 Personal and sociodemographic characteristics of study",
+            "Personal and sociodemographic characteristics of study",
+            "ParticiPAte",
+            "CP (nZ18)",
+            "9.8AE1.5"
+          ]
+        },
+        {
+          "value": "1 (5.6)",
+          "rowHeaders": [
+            "Other",
+            "Separated/divorced"
+          ],
+          "columnHeaders": [
+            "Table 1 Personal and sociodemographic characteristics of study",
+            "Personal and sociodemographic characteristics of study",
+            "ParticiPAte",
+            "CP (nZ18)",
+            "9.8AE1.5"
+          ]
+        },
+        {
+          "value": "2 (10.5)",
+          "rowHeaders": [
+            "Other",
+            "Separated/divorced"
+          ],
+          "columnHeaders": [
+            "Table 1 Personal and sociodemographic characteristics of study",
+            "Personal and sociodemographic characteristics of study",
+            "Waitlist",
+            "Control (nZ19)",
+            "10.2AE1.3"
+          ]
+        },
+        {
+          "value": "9 (50.0)",
+          "rowHeaders": [
+            "I",
+            "Separated/divorced"
+          ],
+          "columnHeaders": [
+            "Table 1 Personal and sociodemographic characteristics of study",
+            "Personal and sociodemographic characteristics of study",
+            "ParticiPAte",
+            "CP (nZ18)",
+            "9.8AE1.5"
+          ]
+        },
+        {
+          "value": "6 (33.3)",
+          "rowHeaders": [
+            "II",
+            "Separated/divorced"
+          ],
+          "columnHeaders": [
+            "Table 1 Personal and sociodemographic characteristics of study",
+            "Personal and sociodemographic characteristics of study",
+            "ParticiPAte",
+            "CP (nZ18)",
+            "9.8AE1.5"
+          ]
+        },
+        {
+          "value": "3 (15.8)",
+          "rowHeaders": [
+            "II",
+            "Separated/divorced"
+          ],
+          "columnHeaders": [
+            "Table 1 Personal and sociodemographic characteristics of study",
+            "Personal and sociodemographic characteristics of study",
+            "Waitlist",
+            "Control (nZ19)",
+            "10.2AE1.3"
+          ]
+        },
+        {
+          "value": "3 (16.7)",
+          "rowHeaders": [
+            "III",
+            "Separated/divorced"
+          ],
+          "columnHeaders": [
+            "Table 1 Personal and sociodemographic characteristics of study",
+            "Personal and sociodemographic characteristics of study",
+            "ParticiPAte",
+            "CP (nZ18)",
+            "9.8AE1.5"
+          ]
+        },
+        {
+          "value": "4 (21.1)",
+          "rowHeaders": [
+            "III",
+            "Separated/divorced"
+          ],
+          "columnHeaders": [
+            "Table 1 Personal and sociodemographic characteristics of study",
+            "Personal and sociodemographic characteristics of study",
+            "Waitlist",
+            "Control (nZ19)",
+            "10.2AE1.3"
+          ]
+        },
+        {
+          "value": "3 (16.7)",
+          "rowHeaders": [
+            "I",
+            "Separated/divorced"
+          ],
+          "columnHeaders": [
+            "Table 1 Personal and sociodemographic characteristics of study",
+            "Personal and sociodemographic characteristics of study",
+            "ParticiPAte",
+            "CP (nZ18)",
+            "9.8AE1.5"
+          ]
+        },
+        {
+          "value": "7 (36.8)",
+          "rowHeaders": [
+            "I",
+            "Separated/divorced"
+          ],
+          "columnHeaders": [
+            "Table 1 Personal and sociodemographic characteristics of study",
+            "Personal and sociodemographic characteristics of study",
+            "Waitlist",
+            "Control (nZ19)",
+            "10.2AE1.3"
+          ]
+        },
+        {
+          "value": "4 (22.2)",
+          "rowHeaders": [
+            "III",
+            "Separated/divorced"
+          ],
+          "columnHeaders": [
+            "Table 1 Personal and sociodemographic characteristics of study",
+            "Personal and sociodemographic characteristics of study",
+            "ParticiPAte",
+            "CP (nZ18)",
+            "9.8AE1.5"
+          ]
+        },
+        {
+          "value": "2 (10.5)",
+          "rowHeaders": [
+            "III",
+            "Separated/divorced"
+          ],
+          "columnHeaders": [
+            "Table 1 Personal and sociodemographic characteristics of study",
+            "Personal and sociodemographic characteristics of study",
+            "Waitlist",
+            "Control (nZ19)",
+            "10.2AE1.3"
+          ]
+        },
+        {
+          "value": "9 (50.0)",
+          "rowHeaders": [
+            "I",
+            "Separated/divorced"
+          ],
+          "columnHeaders": [
+            "Table 1 Personal and sociodemographic characteristics of study",
+            "Personal and sociodemographic characteristics of study",
+            "ParticiPAte",
+            "CP (nZ18)",
+            "9.8AE1.5"
+          ]
+        },
+        {
+          "value": "5 (27.8)",
+          "rowHeaders": [
+            "II",
+            "Separated/divorced"
+          ],
+          "columnHeaders": [
+            "Table 1 Personal and sociodemographic characteristics of study",
+            "Personal and sociodemographic characteristics of study",
+            "ParticiPAte",
+            "CP (nZ18)",
+            "9.8AE1.5"
+          ]
+        },
+        {
+          "value": "5 (26.3)",
+          "rowHeaders": [
+            "II",
+            "Separated/divorced"
+          ],
+          "columnHeaders": [
+            "Table 1 Personal and sociodemographic characteristics of study",
+            "Personal and sociodemographic characteristics of study",
+            "Waitlist",
+            "Control (nZ19)",
+            "10.2AE1.3"
+          ]
+        },
+        {
+          "value": "4 (22.2)",
+          "rowHeaders": [
+            "III",
+            "Separated/divorced"
+          ],
+          "columnHeaders": [
+            "Table 1 Personal and sociodemographic characteristics of study",
+            "Personal and sociodemographic characteristics of study",
+            "ParticiPAte",
+            "CP (nZ18)",
+            "9.8AE1.5"
+          ]
+        },
+        {
+          "value": "2 (10.5)",
+          "rowHeaders": [
+            "III",
+            "Separated/divorced"
+          ],
+          "columnHeaders": [
+            "Table 1 Personal and sociodemographic characteristics of study",
+            "Personal and sociodemographic characteristics of study",
+            "Waitlist",
+            "Control (nZ19)",
+            "10.2AE1.3"
+          ]
+        },
+        {
+          "value": "4 (22.2)",
+          "rowHeaders": [
+            "Epilepsy",
+            "Separated/divorced"
+          ],
+          "columnHeaders": [
+            "Table 1 Personal and sociodemographic characteristics of study",
+            "Personal and sociodemographic characteristics of study",
+            "ParticiPAte",
+            "CP (nZ18)",
+            "9.8AE1.5"
+          ]
+        },
+        {
+          "value": "2 (10.5)",
+          "rowHeaders": [
+            "Epilepsy",
+            "Separated/divorced"
+          ],
+          "columnHeaders": [
+            "Table 1 Personal and sociodemographic characteristics of study",
+            "Personal and sociodemographic characteristics of study",
+            "Waitlist",
+            "Control (nZ19)",
+            "10.2AE1.3"
+          ]
+        },
+        {
+          "value": "1 (5.6)",
+          "rowHeaders": [
+            "Asthma",
+            "Separated/divorced"
+          ],
+          "columnHeaders": [
+            "Table 1 Personal and sociodemographic characteristics of study",
+            "Personal and sociodemographic characteristics of study",
+            "ParticiPAte",
+            "CP (nZ18)",
+            "9.8AE1.5"
+          ]
+        },
+        {
+          "value": "1 (5.3)",
+          "rowHeaders": [
+            "Asthma",
+            "Separated/divorced"
+          ],
+          "columnHeaders": [
+            "Table 1 Personal and sociodemographic characteristics of study",
+            "Personal and sociodemographic characteristics of study",
+            "Waitlist",
+            "Control (nZ19)",
+            "10.2AE1.3"
+          ]
+        },
+        {
+          "value": "2 (11.1)",
+          "rowHeaders": [
+            "ASD",
+            "Separated/divorced"
+          ],
+          "columnHeaders": [
+            "Table 1 Personal and sociodemographic characteristics of study",
+            "Personal and sociodemographic characteristics of study",
+            "ParticiPAte",
+            "CP (nZ18)",
+            "9.8AE1.5"
+          ]
+        },
+        {
+          "value": "6 (31.6)",
+          "rowHeaders": [
+            "ASD",
+            "Separated/divorced"
+          ],
+          "columnHeaders": [
+            "Table 1 Personal and sociodemographic characteristics of study",
+            "Personal and sociodemographic characteristics of study",
+            "Waitlist",
+            "Control (nZ19)",
+            "10.2AE1.3"
+          ]
+        },
+        {
+          "value": "2 (11.1)",
+          "rowHeaders": [
+            "ADHD",
+            "Separated/divorced"
+          ],
+          "columnHeaders": [
+            "Table 1 Personal and sociodemographic characteristics of study",
+            "Personal and sociodemographic characteristics of study",
+            "ParticiPAte",
+            "CP (nZ18)",
+            "9.8AE1.5"
+          ]
+        },
+        {
+          "value": "2 (10.5)",
+          "rowHeaders": [
+            "ADHD",
+            "Separated/divorced"
+          ],
+          "columnHeaders": [
+            "Table 1 Personal and sociodemographic characteristics of study",
+            "Personal and sociodemographic characteristics of study",
+            "Waitlist",
+            "Control (nZ19)",
+            "10.2AE1.3"
+          ]
+        },
+        {
+          "value": "0",
+          "rowHeaders": [
+            "Intellectual disability (IQ<70)",
+            "Separated/divorced"
+          ],
+          "columnHeaders": [
+            "Table 1 Personal and sociodemographic characteristics of study",
+            "Personal and sociodemographic characteristics of study",
+            "ParticiPAte",
+            "CP (nZ18)",
+            "9.8AE1.5"
+          ]
+        },
+        {
+          "value": "3 (15.8)",
+          "rowHeaders": [
+            "Intellectual disability (IQ<70)",
+            "Separated/divorced"
+          ],
+          "columnHeaders": [
+            "Table 1 Personal and sociodemographic characteristics of study",
+            "Personal and sociodemographic characteristics of study",
+            "Waitlist",
+            "Control (nZ19)",
+            "10.2AE1.3"
+          ]
+        },
+        {
+          "value": "3 (16.7)",
+          "rowHeaders": [
+            "Learning disability",
+            "Separated/divorced"
+          ],
+          "columnHeaders": [
+            "Table 1 Personal and sociodemographic characteristics of study",
+            "Personal and sociodemographic characteristics of study",
+            "ParticiPAte",
+            "CP (nZ18)",
+            "9.8AE1.5"
+          ]
+        },
+        {
+          "value": "2 (10.5)",
+          "rowHeaders": [
+            "Learning disability",
+            "Separated/divorced"
+          ],
+          "columnHeaders": [
+            "Table 1 Personal and sociodemographic characteristics of study",
+            "Personal and sociodemographic characteristics of study",
+            "Waitlist",
+            "Control (nZ19)",
+            "10.2AE1.3"
+          ]
+        },
+        {
+          "value": "4 (22.2)",
+          "rowHeaders": [
+            "Sensory impairment",
+            "Separated/divorced"
+          ],
+          "columnHeaders": [
+            "Table 1 Personal and sociodemographic characteristics of study",
+            "Personal and sociodemographic characteristics of study",
+            "ParticiPAte",
+            "CP (nZ18)",
+            "9.8AE1.5"
+          ]
+        },
+        {
+          "value": "3 (15.8)",
+          "rowHeaders": [
+            "Sensory impairment",
+            "Separated/divorced"
+          ],
+          "columnHeaders": [
+            "Table 1 Personal and sociodemographic characteristics of study",
+            "Personal and sociodemographic characteristics of study",
+            "Waitlist",
+            "Control (nZ19)",
+            "10.2AE1.3"
+          ]
+        },
+        {
+          "value": "7 (38.9)",
+          "rowHeaders": [
+            "Mainstream (self-contained)",
+            "Separated/divorced"
+          ],
+          "columnHeaders": [
+            "Table 1 Personal and sociodemographic characteristics of study",
+            "Personal and sociodemographic characteristics of study",
+            "ParticiPAte",
+            "CP (nZ18)",
+            "9.8AE1.5"
+          ]
+        },
+        {
+          "value": "6 (31.6)",
+          "rowHeaders": [
+            "Mainstream (self-contained)",
+            "Separated/divorced"
+          ],
+          "columnHeaders": [
+            "Table 1 Personal and sociodemographic characteristics of study",
+            "Personal and sociodemographic characteristics of study",
+            "Waitlist",
+            "Control (nZ19)",
+            "10.2AE1.3"
+          ]
+        },
+        {
+          "value": "0",
+          "rowHeaders": [
+            "Special school",
+            "Separated/divorced"
+          ],
+          "columnHeaders": [
+            "Table 1 Personal and sociodemographic characteristics of study",
+            "Personal and sociodemographic characteristics of study",
+            "ParticiPAte",
+            "CP (nZ18)",
+            "9.8AE1.5"
+          ]
+        },
+        {
+          "value": "1 (5.3)",
+          "rowHeaders": [
+            "Special school",
+            "Separated/divorced"
+          ],
+          "columnHeaders": [
+            "Table 1 Personal and sociodemographic characteristics of study",
+            "Personal and sociodemographic characteristics of study",
+            "Waitlist",
+            "Control (nZ19)",
+            "10.2AE1.3"
+          ]
+        },
+        {
+          "value": "0",
+          "rowHeaders": [
+            "Home schooled",
+            "Separated/divorced"
+          ],
+          "columnHeaders": [
+            "Table 1 Personal and sociodemographic characteristics of study",
+            "Personal and sociodemographic characteristics of study",
+            "ParticiPAte",
+            "CP (nZ18)",
+            "9.8AE1.5"
+          ]
+        },
+        {
+          "value": "1 (5.3)",
+          "rowHeaders": [
+            "Home schooled",
+            "Separated/divorced"
+          ],
+          "columnHeaders": [
+            "Table 1 Personal and sociodemographic characteristics of study",
+            "Personal and sociodemographic characteristics of study",
+            "Waitlist",
+            "Control (nZ19)",
+            "10.2AE1.3"
+          ]
+        },
+        {
+          "value": "0",
+          "rowHeaders": [
+            "Father",
+            "Separated/divorced"
+          ],
+          "columnHeaders": [
+            "Table 1 Personal and sociodemographic characteristics of study",
+            "Personal and sociodemographic characteristics of study",
+            "ParticiPAte",
+            "CP (nZ18)",
+            "9.8AE1.5"
+          ]
+        },
+        {
+          "value": "3 (15.8)",
+          "rowHeaders": [
+            "Father",
+            "Separated/divorced"
+          ],
+          "columnHeaders": [
+            "Table 1 Personal and sociodemographic characteristics of study",
+            "Personal and sociodemographic characteristics of study",
+            "Waitlist",
+            "Control (nZ19)",
+            "10.2AE1.3"
+          ]
+        },
+        {
+          "value": "4 (22.2)",
+          "rowHeaders": [
+            "Bothy",
+            "Separated/divorced"
+          ],
+          "columnHeaders": [
+            "Table 1 Personal and sociodemographic characteristics of study",
+            "Personal and sociodemographic characteristics of study",
+            "ParticiPAte",
+            "CP (nZ18)",
+            "9.8AE1.5"
+          ]
+        },
+        {
+          "value": "4 (21.1)",
+          "rowHeaders": [
+            "Bothy",
+            "Separated/divorced"
+          ],
+          "columnHeaders": [
+            "Table 1 Personal and sociodemographic characteristics of study",
+            "Personal and sociodemographic characteristics of study",
+            "Waitlist",
+            "Control (nZ19)",
+            "10.2AE1.3"
+          ]
+        },
+        {
+          "value": "2 (11.1)",
+          "rowHeaders": [
+            "ASD",
+            "Separated/divorced"
+          ],
+          "columnHeaders": [
+            "Table 1 Personal and sociodemographic characteristics of study",
+            "Personal and sociodemographic characteristics of study",
+            "ParticiPAte",
+            "CP (nZ18)",
+            "9.8AE1.5"
+          ]
+        },
+        {
+          "value": "5 (26.3)",
+          "rowHeaders": [
+            "Mainstream (self-contained)",
+            "Separated/divorced"
+          ],
+          "columnHeaders": [
+            "Table 1 Personal and sociodemographic characteristics of study",
+            "Personal and sociodemographic characteristics of study",
+            "Waitlist",
+            "Control (nZ19)",
+            "10.2AE1.3"
+          ]
+        },
+        {
+          "value": "1 (5.6)",
+          "rowHeaders": [
+            "ASD",
+            "Never married"
+          ],
+          "columnHeaders": [
+            "Table 1 Personal and sociodemographic characteristics of study",
+            "Personal and sociodemographic characteristics of study",
+            "ParticiPAte",
+            "CP (nZ18)",
+            "9.8AE1.5"
+          ]
+        },
+        {
+          "value": "1 (5.3)",
+          "rowHeaders": [
+            "ASD",
+            "Never married"
+          ],
+          "columnHeaders": [
+            "Table 1 Personal and sociodemographic characteristics of study",
+            "Personal and sociodemographic characteristics of study",
+            "Waitlist",
+            "Control (nZ19)",
+            "10.2AE1.3"
+          ]
+        },
+        {
+          "value": "0",
+          "rowHeaders": [
+            "ASD",
+            "Other"
+          ],
+          "columnHeaders": [
+            "Table 1 Personal and sociodemographic characteristics of study",
+            "Personal and sociodemographic characteristics of study",
+            "ParticiPAte",
+            "CP (nZ18)",
+            "9.8AE1.5"
+          ]
+        },
+        {
+          "value": "1 (5.3)",
+          "rowHeaders": [
+            "ASD",
+            "Other"
+          ],
+          "columnHeaders": [
+            "Table 1 Personal and sociodemographic characteristics of study",
+            "Personal and sociodemographic characteristics of study",
+            "Waitlist",
+            "Control (nZ19)",
+            "10.2AE1.3"
+          ]
+        },
+        {
+          "value": "1 (5.6)",
+          "rowHeaders": [
+            "ASD",
+            "Stepfamily"
+          ],
+          "columnHeaders": [
+            "Table 1 Personal and sociodemographic characteristics of study",
+            "Personal and sociodemographic characteristics of study",
+            "ParticiPAte",
+            "CP (nZ18)",
+            "9.8AE1.5"
+          ]
+        },
+        {
+          "value": "0",
+          "rowHeaders": [
+            "ASD",
+            "Stepfamily"
+          ],
+          "columnHeaders": [
+            "Table 1 Personal and sociodemographic characteristics of study",
+            "Personal and sociodemographic characteristics of study",
+            "Waitlist",
+            "Control (nZ19)",
+            "10.2AE1.3"
+          ]
+        },
+        {
+          "value": "1 (5.6)",
+          "rowHeaders": [
+            "ASD",
+            "Single parent"
+          ],
+          "columnHeaders": [
+            "Table 1 Personal and sociodemographic characteristics of study",
+            "Personal and sociodemographic characteristics of study",
+            "ParticiPAte",
+            "CP (nZ18)",
+            "9.8AE1.5"
+          ]
+        },
+        {
+          "value": "3 (15.8)",
+          "rowHeaders": [
+            "ASD",
+            "Single parent"
+          ],
+          "columnHeaders": [
+            "Table 1 Personal and sociodemographic characteristics of study",
+            "Personal and sociodemographic characteristics of study",
+            "Waitlist",
+            "Control (nZ19)",
+            "10.2AE1.3"
+          ]
+        },
+        {
+          "value": "3 (16.7)",
+          "rowHeaders": [
+            "ASD",
+            "Other"
+          ],
+          "columnHeaders": [
+            "Table 1 Personal and sociodemographic characteristics of study",
+            "Personal and sociodemographic characteristics of study",
+            "ParticiPAte",
+            "CP (nZ18)",
+            "9.8AE1.5"
+          ]
+        },
+        {
+          "value": "3 (15.8)",
+          "rowHeaders": [
+            "ASD",
+            "Other"
+          ],
+          "columnHeaders": [
+            "Table 1 Personal and sociodemographic characteristics of study",
+            "Personal and sociodemographic characteristics of study",
+            "Waitlist",
+            "Control (nZ19)",
+            "10.2AE1.3"
+          ]
+        },
+        {
+          "value": "1 (5.6)",
+          "rowHeaders": [
+            "ASD",
+            "<AUD 25,000"
+          ],
+          "columnHeaders": [
+            "Table 1 Personal and sociodemographic characteristics of study",
+            "Personal and sociodemographic characteristics of study",
+            "ParticiPAte",
+            "CP (nZ18)",
+            "9.8AE1.5"
+          ]
+        },
+        {
+          "value": "3 (15.8)",
+          "rowHeaders": [
+            "ASD",
+            "<AUD 25,000"
+          ],
+          "columnHeaders": [
+            "Table 1 Personal and sociodemographic characteristics of study",
+            "Personal and sociodemographic characteristics of study",
+            "Waitlist",
+            "Control (nZ19)",
+            "10.2AE1.3"
+          ]
+        },
+        {
+          "value": "2 (11.1)",
+          "rowHeaders": [
+            "ASD",
+            "AUD 25,000-49,999"
+          ],
+          "columnHeaders": [
+            "Table 1 Personal and sociodemographic characteristics of study",
+            "Personal and sociodemographic characteristics of study",
+            "ParticiPAte",
+            "CP (nZ18)",
+            "9.8AE1.5"
+          ]
+        },
+        {
+          "value": "2 (10.5)",
+          "rowHeaders": [
+            "ASD",
+            "AUD 25,000-49,999"
+          ],
+          "columnHeaders": [
+            "Table 1 Personal and sociodemographic characteristics of study",
+            "Personal and sociodemographic characteristics of study",
+            "Waitlist",
+            "Control (nZ19)",
+            "10.2AE1.3"
+          ]
+        },
+        {
+          "value": "2 (11.1)",
+          "rowHeaders": [
+            "ASD",
+            "AUD 50,000-74,999"
+          ],
+          "columnHeaders": [
+            "Table 1 Personal and sociodemographic characteristics of study",
+            "Personal and sociodemographic characteristics of study",
+            "ParticiPAte",
+            "CP (nZ18)",
+            "9.8AE1.5"
+          ]
+        },
+        {
+          "value": "4 (21.1)",
+          "rowHeaders": [
+            "ASD",
+            "AUD 50,000-74,999"
+          ],
+          "columnHeaders": [
+            "Table 1 Personal and sociodemographic characteristics of study",
+            "Personal and sociodemographic characteristics of study",
+            "Waitlist",
+            "Control (nZ19)",
+            "10.2AE1.3"
+          ]
+        },
+        {
+          "value": "4 (22.2)",
+          "rowHeaders": [
+            "ASD",
+            "AUD 75,000-100,000"
+          ],
+          "columnHeaders": [
+            "Table 1 Personal and sociodemographic characteristics of study",
+            "Personal and sociodemographic characteristics of study",
+            "ParticiPAte",
+            "CP (nZ18)",
+            "9.8AE1.5"
+          ]
+        },
+        {
+          "value": "4 (21.1)",
+          "rowHeaders": [
+            "ASD",
+            "AUD 75,000-100,000"
+          ],
+          "columnHeaders": [
+            "Table 1 Personal and sociodemographic characteristics of study",
+            "Personal and sociodemographic characteristics of study",
+            "Waitlist",
+            "Control (nZ19)",
+            "10.2AE1.3"
+          ]
+        },
+        {
+          "value": "8 (44.4)",
+          "rowHeaders": [
+            "ASD",
+            ">AUD 100,000"
+          ],
+          "columnHeaders": [
+            "Table 1 Personal and sociodemographic characteristics of study",
+            "Personal and sociodemographic characteristics of study",
+            "ParticiPAte",
+            "CP (nZ18)",
+            "9.8AE1.5"
+          ]
+        },
+        {
+          "value": "5 (26.3)",
+          "rowHeaders": [
+            "ASD",
+            ">AUD 100,000"
+          ],
+          "columnHeaders": [
+            "Table 1 Personal and sociodemographic characteristics of study",
+            "Personal and sociodemographic characteristics of study",
+            "Waitlist",
+            "Control (nZ19)",
+            "10.2AE1.3"
+          ]
+        },
+        {
+          "value": "1 (5.6)",
+          "rowHeaders": [
+            "ASD",
+            "Prefer not to say"
+          ],
+          "columnHeaders": [
+            "Table 1 Personal and sociodemographic characteristics of study",
+            "Personal and sociodemographic characteristics of study",
+            "ParticiPAte",
+            "CP (nZ18)",
+            "9.8AE1.5"
+          ]
+        },
+        {
+          "value": "1 (5.3)",
+          "rowHeaders": [
+            "ASD",
+            "Prefer not to say"
+          ],
+          "columnHeaders": [
+            "Table 1 Personal and sociodemographic characteristics of study",
+            "Personal and sociodemographic characteristics of study",
+            "Waitlist",
+            "Control (nZ19)",
+            "10.2AE1.3"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "2",
+          "rowHeaders": [
+            "Table"
+          ],
+          "columnHeaders": [
+            "Table 2 Usual care diary data from baseline to 16 weeks"
+          ]
+        },
+        {
+          "value": "8 (47.4)",
+          "rowHeaders": [
+            "Table",
+            "None"
+          ],
+          "columnHeaders": [
+            "Table 2 Usual care diary data from baseline to 16 weeks",
+            "Usual care diary data from baseline to 16 weeks",
+            "Waitlist",
+            "(nZ19)"
+          ]
+        },
+        {
+          "value": "3 (16.7)",
+          "rowHeaders": [
+            "Table",
+            "1-2 sessions"
+          ],
+          "columnHeaders": [
+            "Table 2 Usual care diary data from baseline to 16 weeks",
+            "Usual care diary data from baseline to 16 weeks",
+            "ParticiPAte",
+            "CP (nZ18)"
+          ]
+        },
+        {
+          "value": "3 (15.8)",
+          "rowHeaders": [
+            "Table",
+            "1-2 sessions"
+          ],
+          "columnHeaders": [
+            "Table 2 Usual care diary data from baseline to 16 weeks",
+            "Usual care diary data from baseline to 16 weeks",
+            "Waitlist",
+            "(nZ19)"
+          ]
+        },
+        {
+          "value": "4 (22.2)",
+          "rowHeaders": [
+            "Table",
+            "!3 sessions"
+          ],
+          "columnHeaders": [
+            "Table 2 Usual care diary data from baseline to 16 weeks",
+            "Usual care diary data from baseline to 16 weeks",
+            "ParticiPAte",
+            "CP (nZ18)"
+          ]
+        },
+        {
+          "value": "3 (15.8)",
+          "rowHeaders": [
+            "Table",
+            "!3 sessions"
+          ],
+          "columnHeaders": [
+            "Table 2 Usual care diary data from baseline to 16 weeks",
+            "Usual care diary data from baseline to 16 weeks",
+            "Waitlist",
+            "(nZ19)"
+          ]
+        },
+        {
+          "value": "1 (5.6)",
+          "rowHeaders": [
+            "Table",
+            "Missing"
+          ],
+          "columnHeaders": [
+            "Table 2 Usual care diary data from baseline to 16 weeks",
+            "Usual care diary data from baseline to 16 weeks",
+            "ParticiPAte",
+            "CP (nZ18)"
+          ]
+        },
+        {
+          "value": "5 (26.3)",
+          "rowHeaders": [
+            "Table",
+            "Missing"
+          ],
+          "columnHeaders": [
+            "Table 2 Usual care diary data from baseline to 16 weeks",
+            "Usual care diary data from baseline to 16 weeks",
+            "Waitlist",
+            "(nZ19)"
+          ]
+        },
+        {
+          "value": "3",
+          "rowHeaders": [
+            "Table",
+            "Nongovernment"
+          ],
+          "columnHeaders": [
+            "Table 2 Usual care diary data from baseline to 16 weeks",
+            "Usual care diary data from baseline to 16 weeks",
+            "ParticiPAte",
+            "CP (nZ18)"
+          ]
+        },
+        {
+          "value": "2",
+          "rowHeaders": [
+            "Table",
+            "Nongovernment"
+          ],
+          "columnHeaders": [
+            "Table 2 Usual care diary data from baseline to 16 weeks",
+            "Usual care diary data from baseline to 16 weeks",
+            "Waitlist",
+            "(nZ19)"
+          ]
+        },
+        {
+          "value": "3",
+          "rowHeaders": [
+            "Table",
+            "Private"
+          ],
+          "columnHeaders": [
+            "Table 2 Usual care diary data from baseline to 16 weeks",
+            "Usual care diary data from baseline to 16 weeks",
+            "ParticiPAte",
+            "CP (nZ18)"
+          ]
+        },
+        {
+          "value": "4",
+          "rowHeaders": [
+            "Table",
+            "Private"
+          ],
+          "columnHeaders": [
+            "Table 2 Usual care diary data from baseline to 16 weeks",
+            "Usual care diary data from baseline to 16 weeks",
+            "Waitlist",
+            "(nZ19)"
+          ]
+        },
+        {
+          "value": "1",
+          "rowHeaders": [
+            "Table",
+            "School-based"
+          ],
+          "columnHeaders": [
+            "Table 2 Usual care diary data from baseline to 16 weeks",
+            "Usual care diary data from baseline to 16 weeks",
+            "ParticiPAte",
+            "CP (nZ18)"
+          ]
+        },
+        {
+          "value": "0",
+          "rowHeaders": [
+            "Table",
+            "School-based"
+          ],
+          "columnHeaders": [
+            "Table 2 Usual care diary data from baseline to 16 weeks",
+            "Usual care diary data from baseline to 16 weeks",
+            "Waitlist",
+            "(nZ19)"
+          ]
+        },
+        {
+          "value": "3",
+          "rowHeaders": [
+            "Table",
+            "Exercise therapy"
+          ],
+          "columnHeaders": [
+            "Table 2 Usual care diary data from baseline to 16 weeks",
+            "Usual care diary data from baseline to 16 weeks",
+            "ParticiPAte",
+            "CP (nZ18)"
+          ]
+        },
+        {
+          "value": "4",
+          "rowHeaders": [
+            "Table",
+            "Exercise therapy"
+          ],
+          "columnHeaders": [
+            "Table 2 Usual care diary data from baseline to 16 weeks",
+            "Usual care diary data from baseline to 16 weeks",
+            "Waitlist",
+            "(nZ19)"
+          ]
+        },
+        {
+          "value": "1",
+          "rowHeaders": [
+            "Table",
+            "Musculoskeletal"
+          ],
+          "columnHeaders": [
+            "Table 2 Usual care diary data from baseline to 16 weeks",
+            "Usual care diary data from baseline to 16 weeks",
+            "ParticiPAte",
+            "CP (nZ18)"
+          ]
+        },
+        {
+          "value": "2",
+          "rowHeaders": [
+            "Table",
+            "Musculoskeletal"
+          ],
+          "columnHeaders": [
+            "Table 2 Usual care diary data from baseline to 16 weeks",
+            "Usual care diary data from baseline to 16 weeks",
+            "Waitlist",
+            "(nZ19)"
+          ]
+        },
+        {
+          "value": "1",
+          "rowHeaders": [
+            "Educational"
+          ],
+          "columnHeaders": [
+            "Table 2 Usual care diary data from baseline to 16 weeks",
+            "Usual care diary data from baseline to 16 weeks",
+            "ParticiPAte",
+            "CP (nZ18)"
+          ]
+        },
+        {
+          "value": "0",
+          "rowHeaders": [
+            "Educational"
+          ],
+          "columnHeaders": [
+            "Table 2 Usual care diary data from baseline to 16 weeks",
+            "Usual care diary data from baseline to 16 weeks",
+            "Waitlist",
+            "(nZ19)"
+          ]
+        },
+        {
+          "value": "1",
+          "rowHeaders": [
+            "Equipment prescription"
+          ],
+          "columnHeaders": [
+            "Table 2 Usual care diary data from baseline to 16 weeks",
+            "Usual care diary data from baseline to 16 weeks",
+            "ParticiPAte",
+            "CP (nZ18)"
+          ]
+        },
+        {
+          "value": "0",
+          "rowHeaders": [
+            "Equipment prescription"
+          ],
+          "columnHeaders": [
+            "Table 2 Usual care diary data from baseline to 16 weeks",
+            "Usual care diary data from baseline to 16 weeks",
+            "Waitlist",
+            "(nZ19)"
+          ]
+        },
+        {
+          "value": "1",
+          "rowHeaders": [
+            "Hydrotherapy"
+          ],
+          "columnHeaders": [
+            "Table 2 Usual care diary data from baseline to 16 weeks",
+            "Usual care diary data from baseline to 16 weeks",
+            "ParticiPAte",
+            "CP (nZ18)"
+          ]
+        },
+        {
+          "value": "0",
+          "rowHeaders": [
+            "Hydrotherapy"
+          ],
+          "columnHeaders": [
+            "Table 2 Usual care diary data from baseline to 16 weeks",
+            "Usual care diary data from baseline to 16 weeks",
+            "Waitlist",
+            "(nZ19)"
+          ]
+        },
+        {
+          "value": "9 (47.4)",
+          "rowHeaders": [
+            "None"
+          ],
+          "columnHeaders": [
+            "Table 2 Usual care diary data from baseline to 16 weeks",
+            "Usual care diary data from baseline to 16 weeks",
+            "Waitlist",
+            "(nZ19)"
+          ]
+        },
+        {
+          "value": "3 (16.7)",
+          "rowHeaders": [
+            "1-2 sessions"
+          ],
+          "columnHeaders": [
+            "Table 2 Usual care diary data from baseline to 16 weeks",
+            "Usual care diary data from baseline to 16 weeks",
+            "ParticiPAte",
+            "CP (nZ18)"
+          ]
+        },
+        {
+          "value": "1 (5.3)",
+          "rowHeaders": [
+            "1-2 sessions"
+          ],
+          "columnHeaders": [
+            "Table 2 Usual care diary data from baseline to 16 weeks",
+            "Usual care diary data from baseline to 16 weeks",
+            "Waitlist",
+            "(nZ19)"
+          ]
+        },
+        {
+          "value": "4 (22.2)",
+          "rowHeaders": [
+            "!3 sessions"
+          ],
+          "columnHeaders": [
+            "Table 2 Usual care diary data from baseline to 16 weeks",
+            "Usual care diary data from baseline to 16 weeks",
+            "ParticiPAte",
+            "CP (nZ18)"
+          ]
+        },
+        {
+          "value": "4 (21.1)",
+          "rowHeaders": [
+            "!3 sessions"
+          ],
+          "columnHeaders": [
+            "Table 2 Usual care diary data from baseline to 16 weeks",
+            "Usual care diary data from baseline to 16 weeks",
+            "Waitlist",
+            "(nZ19)"
+          ]
+        },
+        {
+          "value": "1 (5.6)",
+          "rowHeaders": [
+            "Missing"
+          ],
+          "columnHeaders": [
+            "Table 2 Usual care diary data from baseline to 16 weeks",
+            "Usual care diary data from baseline to 16 weeks",
+            "ParticiPAte",
+            "CP (nZ18)"
+          ]
+        },
+        {
+          "value": "5 (26.3)",
+          "rowHeaders": [
+            "Missing"
+          ],
+          "columnHeaders": [
+            "Table 2 Usual care diary data from baseline to 16 weeks",
+            "Usual care diary data from baseline to 16 weeks",
+            "Waitlist",
+            "(nZ19)"
+          ]
+        },
+        {
+          "value": "6",
+          "rowHeaders": [
+            "Nongovernment"
+          ],
+          "columnHeaders": [
+            "Table 2 Usual care diary data from baseline to 16 weeks",
+            "Usual care diary data from baseline to 16 weeks",
+            "ParticiPAte",
+            "CP (nZ18)"
+          ]
+        },
+        {
+          "value": "2",
+          "rowHeaders": [
+            "Nongovernment"
+          ],
+          "columnHeaders": [
+            "Table 2 Usual care diary data from baseline to 16 weeks",
+            "Usual care diary data from baseline to 16 weeks",
+            "Waitlist",
+            "(nZ19)"
+          ]
+        },
+        {
+          "value": "1",
+          "rowHeaders": [
+            "Private"
+          ],
+          "columnHeaders": [
+            "Table 2 Usual care diary data from baseline to 16 weeks",
+            "Usual care diary data from baseline to 16 weeks",
+            "ParticiPAte",
+            "CP (nZ18)"
+          ]
+        },
+        {
+          "value": "2",
+          "rowHeaders": [
+            "Private"
+          ],
+          "columnHeaders": [
+            "Table 2 Usual care diary data from baseline to 16 weeks",
+            "Usual care diary data from baseline to 16 weeks",
+            "Waitlist",
+            "(nZ19)"
+          ]
+        },
+        {
+          "value": "0",
+          "rowHeaders": [
+            "School-based"
+          ],
+          "columnHeaders": [
+            "Table 2 Usual care diary data from baseline to 16 weeks",
+            "Usual care diary data from baseline to 16 weeks",
+            "ParticiPAte",
+            "CP (nZ18)"
+          ]
+        },
+        {
+          "value": "1",
+          "rowHeaders": [
+            "School-based"
+          ],
+          "columnHeaders": [
+            "Table 2 Usual care diary data from baseline to 16 weeks",
+            "Usual care diary data from baseline to 16 weeks",
+            "Waitlist",
+            "(nZ19)"
+          ]
+        },
+        {
+          "value": "1 (5.6)",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 2 Usual care diary data from baseline to 16 weeks",
+            "Usual care diary data from baseline to 16 weeks",
+            "ParticiPAte",
+            "CP (nZ18)"
+          ]
+        },
+        {
+          "value": "1 (5.6)",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 2 Usual care diary data from baseline to 16 weeks",
+            "Usual care diary data from baseline to 16 weeks",
+            "Waitlist",
+            "(nZ19)"
+          ]
+        },
+        {
+          "value": "4 (22.2)",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 2 Usual care diary data from baseline to 16 weeks",
+            "Usual care diary data from baseline to 16 weeks",
+            "ParticiPAte",
+            "CP (nZ18)"
+          ]
+        },
+        {
+          "value": "2 (10.5)",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 2 Usual care diary data from baseline to 16 weeks",
+            "Usual care diary data from baseline to 16 weeks",
+            "Waitlist",
+            "(nZ19)"
+          ]
+        },
+        {
+          "value": "1 (5.6)",
+          "rowHeaders": [
+            "Missing"
+          ],
+          "columnHeaders": [
+            "Table 2 Usual care diary data from baseline to 16 weeks",
+            "Usual care diary data from baseline to 16 weeks",
+            "ParticiPAte",
+            "CP (nZ18)"
+          ]
+        },
+        {
+          "value": "5 (26.3)",
+          "rowHeaders": [
+            "Missing"
+          ],
+          "columnHeaders": [
+            "Table 2 Usual care diary data from baseline to 16 weeks",
+            "Usual care diary data from baseline to 16 weeks",
+            "Waitlist",
+            "(nZ19)"
+          ]
+        },
+        {
+          "value": "5",
+          "rowHeaders": [
+            "Nongovernment"
+          ],
+          "columnHeaders": [
+            "Table 2 Usual care diary data from baseline to 16 weeks",
+            "Usual care diary data from baseline to 16 weeks",
+            "ParticiPAte",
+            "CP (nZ18)"
+          ]
+        },
+        {
+          "value": "1",
+          "rowHeaders": [
+            "Nongovernment"
+          ],
+          "columnHeaders": [
+            "Table 2 Usual care diary data from baseline to 16 weeks",
+            "Usual care diary data from baseline to 16 weeks",
+            "Waitlist",
+            "(nZ19)"
+          ]
+        },
+        {
+          "value": "0",
+          "rowHeaders": [
+            "Private"
+          ],
+          "columnHeaders": [
+            "Table 2 Usual care diary data from baseline to 16 weeks",
+            "Usual care diary data from baseline to 16 weeks",
+            "ParticiPAte",
+            "CP (nZ18)"
+          ]
+        },
+        {
+          "value": "1",
+          "rowHeaders": [
+            "Private"
+          ],
+          "columnHeaders": [
+            "Table 2 Usual care diary data from baseline to 16 weeks",
+            "Usual care diary data from baseline to 16 weeks",
+            "Waitlist",
+            "(nZ19)"
+          ]
+        },
+        {
+          "value": "0",
+          "rowHeaders": [
+            "School-based"
+          ],
+          "columnHeaders": [
+            "Table 2 Usual care diary data from baseline to 16 weeks",
+            "Usual care diary data from baseline to 16 weeks",
+            "ParticiPAte",
+            "CP (nZ18)"
+          ]
+        },
+        {
+          "value": "1",
+          "rowHeaders": [
+            "School-based"
+          ],
+          "columnHeaders": [
+            "Table 2 Usual care diary data from baseline to 16 weeks",
+            "Usual care diary data from baseline to 16 weeks",
+            "Waitlist",
+            "(nZ19)"
+          ]
+        },
+        {
+          "value": "1 (5.6)",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 2 Usual care diary data from baseline to 16 weeks",
+            "Usual care diary data from baseline to 16 weeks",
+            "ParticiPAte",
+            "CP (nZ18)"
+          ]
+        },
+        {
+          "value": "1 (5.3)",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 2 Usual care diary data from baseline to 16 weeks",
+            "Usual care diary data from baseline to 16 weeks",
+            "Waitlist",
+            "(nZ19)"
+          ]
+        },
+        {
+          "value": "1 (5.6)",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 2 Usual care diary data from baseline to 16 weeks",
+            "Usual care diary data from baseline to 16 weeks",
+            "ParticiPAte",
+            "CP (nZ18)"
+          ]
+        },
+        {
+          "value": "1 (5.3)",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 2 Usual care diary data from baseline to 16 weeks",
+            "Usual care diary data from baseline to 16 weeks",
+            "Waitlist",
+            "(nZ19)"
+          ]
+        },
+        {
+          "value": "1 (5.6)",
+          "rowHeaders": [
+            "Missing"
+          ],
+          "columnHeaders": [
+            "Table 2 Usual care diary data from baseline to 16 weeks",
+            "Usual care diary data from baseline to 16 weeks",
+            "ParticiPAte",
+            "CP (nZ18)"
+          ]
+        },
+        {
+          "value": "5 (26.3)",
+          "rowHeaders": [
+            "Missing"
+          ],
+          "columnHeaders": [
+            "Table 2 Usual care diary data from baseline to 16 weeks",
+            "Usual care diary data from baseline to 16 weeks",
+            "Waitlist",
+            "(nZ19)"
+          ]
+        },
+        {
+          "value": "0",
+          "rowHeaders": [
+            "Exercise physiology"
+          ],
+          "columnHeaders": [
+            "Table 2 Usual care diary data from baseline to 16 weeks",
+            "Usual care diary data from baseline to 16 weeks",
+            "ParticiPAte",
+            "CP (nZ18)"
+          ]
+        },
+        {
+          "value": "1",
+          "rowHeaders": [
+            "Exercise physiology"
+          ],
+          "columnHeaders": [
+            "Table 2 Usual care diary data from baseline to 16 weeks",
+            "Usual care diary data from baseline to 16 weeks",
+            "Waitlist",
+            "(nZ19)"
+          ]
+        },
+        {
+          "value": "2",
+          "rowHeaders": [
+            "Educational psychology"
+          ],
+          "columnHeaders": [
+            "Table 2 Usual care diary data from baseline to 16 weeks",
+            "Usual care diary data from baseline to 16 weeks",
+            "ParticiPAte",
+            "CP (nZ18)"
+          ]
+        },
+        {
+          "value": "0",
+          "rowHeaders": [
+            "Educational psychology"
+          ],
+          "columnHeaders": [
+            "Table 2 Usual care diary data from baseline to 16 weeks",
+            "Usual care diary data from baseline to 16 weeks",
+            "Waitlist",
+            "(nZ19)"
+          ]
+        },
+        {
+          "value": "0",
+          "rowHeaders": [
+            "Hippotherapy"
+          ],
+          "columnHeaders": [
+            "Table 2 Usual care diary data from baseline to 16 weeks",
+            "Usual care diary data from baseline to 16 weeks",
+            "ParticiPAte",
+            "CP (nZ18)"
+          ]
+        },
+        {
+          "value": "1",
+          "rowHeaders": [
+            "Hippotherapy"
+          ],
+          "columnHeaders": [
+            "Table 2 Usual care diary data from baseline to 16 weeks",
+            "Usual care diary data from baseline to 16 weeks",
+            "Waitlist",
+            "(nZ19)"
+          ]
+        },
+        {
+          "value": "0",
+          "rowHeaders": [
+            "Upper limb"
+          ],
+          "columnHeaders": [
+            "Table 2 Usual care diary data from baseline to 16 weeks",
+            "Usual care diary data from baseline to 16 weeks",
+            "ParticiPAte",
+            "CP (nZ18)"
+          ]
+        },
+        {
+          "value": "1 (5.3)",
+          "rowHeaders": [
+            "Upper limb"
+          ],
+          "columnHeaders": [
+            "Table 2 Usual care diary data from baseline to 16 weeks",
+            "Usual care diary data from baseline to 16 weeks",
+            "Waitlist",
+            "(nZ19)"
+          ]
+        },
+        {
+          "value": "1 (5.6)",
+          "rowHeaders": [
+            "Lower limb"
+          ],
+          "columnHeaders": [
+            "Table 2 Usual care diary data from baseline to 16 weeks",
+            "Usual care diary data from baseline to 16 weeks",
+            "ParticiPAte",
+            "CP (nZ18)"
+          ]
+        },
+        {
+          "value": "1 (5.3)",
+          "rowHeaders": [
+            "Lower limb"
+          ],
+          "columnHeaders": [
+            "Table 2 Usual care diary data from baseline to 16 weeks",
+            "Usual care diary data from baseline to 16 weeks",
+            "Waitlist",
+            "(nZ19)"
+          ]
+        },
+        {
+          "value": "1 (5.6)",
+          "rowHeaders": [
+            "Missing"
+          ],
+          "columnHeaders": [
+            "Table 2 Usual care diary data from baseline to 16 weeks",
+            "Usual care diary data from baseline to 16 weeks",
+            "ParticiPAte",
+            "CP (nZ18)"
+          ]
+        },
+        {
+          "value": "5 (26.3)",
+          "rowHeaders": [
+            "Missing"
+          ],
+          "columnHeaders": [
+            "Table 2 Usual care diary data from baseline to 16 weeks",
+            "Usual care diary data from baseline to 16 weeks",
+            "Waitlist",
+            "(nZ19)"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "56",
+          "rowHeaders": [
+            "Total COPM goals, n"
+          ],
+          "columnHeaders": [
+            "Table 3 COPM goal descriptive analyses",
+            "COPM goal descriptive analyses",
+            "ParticiPAte CP"
+          ]
+        },
+        {
+          "value": "57",
+          "rowHeaders": [
+            "Total COPM goals, n"
+          ],
+          "columnHeaders": [
+            "Table 3 COPM goal descriptive analyses",
+            "COPM goal descriptive analyses",
+            "Waitlist Control"
+          ]
+        },
+        {
+          "value": "55",
+          "rowHeaders": [
+            "Eligible COPM goals"
+          ],
+          "columnHeaders": [
+            "Table 3 COPM goal descriptive analyses",
+            "COPM goal descriptive analyses",
+            "ParticiPAte CP"
+          ]
+        },
+        {
+          "value": "57",
+          "rowHeaders": [
+            "Eligible COPM goals"
+          ],
+          "columnHeaders": [
+            "Table 3 COPM goal descriptive analyses",
+            "COPM goal descriptive analyses",
+            "Waitlist Control"
+          ]
+        },
+        {
+          "value": "3.06 AE",
+          "rowHeaders": [
+            "Mean AE SD"
+          ],
+          "columnHeaders": [
+            "Table 3 COPM goal descriptive analyses",
+            "COPM goal descriptive analyses",
+            "ParticiPAte CP"
+          ]
+        },
+        {
+          "value": "0.24",
+          "rowHeaders": [
+            "Mean AE SD"
+          ],
+          "columnHeaders": [
+            "Table 3 COPM goal descriptive analyses",
+            "COPM goal descriptive analyses",
+            "ParticiPAte CP"
+          ]
+        },
+        {
+          "value": "3.00 AE",
+          "rowHeaders": [
+            "Mean AE SD"
+          ],
+          "columnHeaders": [
+            "Table 3 COPM goal descriptive analyses",
+            "COPM goal descriptive analyses",
+            "Waitlist Control"
+          ]
+        },
+        {
+          "value": "0.33",
+          "rowHeaders": [
+            "Mean AE SD"
+          ],
+          "columnHeaders": [
+            "Table 3 COPM goal descriptive analyses",
+            "COPM goal descriptive analyses",
+            "Waitlist Control"
+          ]
+        },
+        {
+          "value": "45 (81.8)",
+          "rowHeaders": [
+            "Attendance"
+          ],
+          "columnHeaders": [
+            "Table 3 COPM goal descriptive analyses",
+            "COPM goal descriptive analyses",
+            "ParticiPAte CP"
+          ]
+        },
+        {
+          "value": "46 (80.7)",
+          "rowHeaders": [
+            "Attendance"
+          ],
+          "columnHeaders": [
+            "Table 3 COPM goal descriptive analyses",
+            "COPM goal descriptive analyses",
+            "Waitlist Control"
+          ]
+        },
+        {
+          "value": "10 (18.2)",
+          "rowHeaders": [
+            "Involvement"
+          ],
+          "columnHeaders": [
+            "Table 3 COPM goal descriptive analyses",
+            "COPM goal descriptive analyses",
+            "ParticiPAte CP"
+          ]
+        },
+        {
+          "value": "11 (19.3)",
+          "rowHeaders": [
+            "Involvement"
+          ],
+          "columnHeaders": [
+            "Table 3 COPM goal descriptive analyses",
+            "COPM goal descriptive analyses",
+            "Waitlist Control"
+          ]
+        },
+        {
+          "value": "24 (43.6)",
+          "rowHeaders": [
+            "Formal"
+          ],
+          "columnHeaders": [
+            "Table 3 COPM goal descriptive analyses",
+            "COPM goal descriptive analyses",
+            "ParticiPAte CP"
+          ]
+        },
+        {
+          "value": "18 (31.6)",
+          "rowHeaders": [
+            "Formal"
+          ],
+          "columnHeaders": [
+            "Table 3 COPM goal descriptive analyses",
+            "COPM goal descriptive analyses",
+            "Waitlist Control"
+          ]
+        },
+        {
+          "value": "31 (56.4)",
+          "rowHeaders": [
+            "Informal"
+          ],
+          "columnHeaders": [
+            "Table 3 COPM goal descriptive analyses",
+            "COPM goal descriptive analyses",
+            "ParticiPAte CP"
+          ]
+        },
+        {
+          "value": "39 (68.4)",
+          "rowHeaders": [
+            "Informal"
+          ],
+          "columnHeaders": [
+            "Table 3 COPM goal descriptive analyses",
+            "COPM goal descriptive analyses",
+            "Waitlist Control"
+          ]
+        },
+        {
+          "value": "21 (18.8)",
+          "rowHeaders": [
+            "Cycling"
+          ],
+          "columnHeaders": [
+            "Table 3 COPM goal descriptive analyses",
+            "COPM goal descriptive analyses",
+            "ParticiPAte CP"
+          ]
+        },
+        {
+          "value": "13 (11.6)",
+          "rowHeaders": [
+            "Football (soccer)"
+          ],
+          "columnHeaders": [
+            "Table 3 COPM goal descriptive analyses",
+            "COPM goal descriptive analyses",
+            "ParticiPAte CP"
+          ]
+        },
+        {
+          "value": "12 (10.7)",
+          "rowHeaders": [
+            "Swimming"
+          ],
+          "columnHeaders": [
+            "Table 3 COPM goal descriptive analyses",
+            "COPM goal descriptive analyses",
+            "ParticiPAte CP"
+          ]
+        },
+        {
+          "value": "12 (10.7)",
+          "rowHeaders": [
+            "Othersy"
+          ],
+          "columnHeaders": [
+            "Table 3 COPM goal descriptive analyses",
+            "COPM goal descriptive analyses",
+            "ParticiPAte CP"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "À0.20 (À0.75 to 0.36), PZ.489",
+          "rowHeaders": [
+            "PEM-CY community frequency",
+            "367.96AE133.14 349.54AE159.70 414.09AE270.82 423.16AE205.47 408.22AE218.54 420.39AE179.72",
+            "3.55AE0.85",
+            "3.81AE0.81",
+            "58.82AE29.38",
+            "4.22AE0.74",
+            "3.70AE0.73",
+            "72.75AE22.70",
+            "4.21AE0.69",
+            "50.03AE15.51",
+            "3.94AE0.73"
+          ],
+          "columnHeaders": [
+            "Table 5 Secondary outcome observed data by group and time point and adjusted mean difference according-generalized estimating equations",
+            "Secondary outcome observed data by group and time point and adjusted mean difference according-generalized estimating equations",
+            "Waitlist Control",
+            "8 wk Between-Group",
+            "Difference MD (95% CI), P",
+            "nZ12"
+          ]
+        },
+        {
+          "value": "0.36 (À0.16 to 0.89), PZ.172",
+          "rowHeaders": [
+            "PEM-CY community frequency",
+            "367.96AE133.14 349.54AE159.70 414.09AE270.82 423.16AE205.47 408.22AE218.54 420.39AE179.72",
+            "3.55AE0.85",
+            "3.81AE0.81",
+            "58.82AE29.38",
+            "4.22AE0.74",
+            "3.70AE0.73",
+            "4.21AE0.69",
+            "50.03AE15.51",
+            "3.94AE0.73"
+          ],
+          "columnHeaders": [
+            "Table 5 Secondary outcome observed data by group and time point and adjusted mean difference according-generalized estimating equations",
+            "Secondary outcome observed data by group and time point and adjusted mean difference according-generalized estimating equations",
+            "Waitlist Control",
+            "16 wk Between-Group",
+            "Difference MD (95% CI), P",
+            "nZ12"
+          ]
+        },
+        {
+          "value": "0.02 (À0.46 to 0.49), PZ.947",
+          "rowHeaders": [
+            "PEM-CY community involvement",
+            "367.96AE133.14 349.54AE159.70 414.09AE270.82 423.16AE205.47 408.22AE218.54 420.39AE179.72",
+            "3.91AE0.78",
+            "3.98AE0.45",
+            "58.82AE29.38",
+            "4.03AE0.42",
+            "3.75AE0.80",
+            "72.75AE22.70",
+            "3.86AE0.72",
+            "50.03AE15.51",
+            "4.04AE0.69"
+          ],
+          "columnHeaders": [
+            "Table 5 Secondary outcome observed data by group and time point and adjusted mean difference according-generalized estimating equations",
+            "Secondary outcome observed data by group and time point and adjusted mean difference according-generalized estimating equations",
+            "Waitlist Control",
+            "8 wk Between-Group",
+            "Difference MD (95% CI), P",
+            "nZ12"
+          ]
+        },
+        {
+          "value": "À0.09 (À0.54 to 0.36), PZ.690",
+          "rowHeaders": [
+            "PEM-CY community involvement",
+            "367.96AE133.14 349.54AE159.70 414.09AE270.82 423.16AE205.47 408.22AE218.54 420.39AE179.72",
+            "3.91AE0.78",
+            "3.98AE0.45",
+            "58.82AE29.38",
+            "4.03AE0.42",
+            "3.75AE0.80",
+            "3.86AE0.72",
+            "50.03AE15.51",
+            "4.04AE0.69"
+          ],
+          "columnHeaders": [
+            "Table 5 Secondary outcome observed data by group and time point and adjusted mean difference according-generalized estimating equations",
+            "Secondary outcome observed data by group and time point and adjusted mean difference according-generalized estimating equations",
+            "Waitlist Control",
+            "16 wk Between-Group",
+            "Difference MD (95% CI), P",
+            "nZ12"
+          ]
+        },
+        {
+          "value": "2.76 (À4.91 to 10.44), PZ.481",
+          "rowHeaders": [
+            "PEM-CY community environment",
+            "367.96AE133.14 349.54AE159.70 414.09AE270.82 423.16AE205.47 408.22AE218.54 420.39AE179.72",
+            "77.53AE16.47",
+            "76.44AE6.04",
+            "58.82AE29.38",
+            "84.33AE9.15",
+            "77.34AE10.91",
+            "72.75AE22.70",
+            "78.96AE12.13",
+            "50.03AE15.51",
+            "78.57AE17.38"
+          ],
+          "columnHeaders": [
+            "Table 5 Secondary outcome observed data by group and time point and adjusted mean difference according-generalized estimating equations",
+            "Secondary outcome observed data by group and time point and adjusted mean difference according-generalized estimating equations",
+            "Waitlist Control",
+            "8 wk Between-Group",
+            "Difference MD (95% CI), P",
+            "nZ12"
+          ]
+        },
+        {
+          "value": "4.49 (À2.735 to 11.71), PZ.223",
+          "rowHeaders": [
+            "PEM-CY community environment",
+            "367.96AE133.14 349.54AE159.70 414.09AE270.82 423.16AE205.47 408.22AE218.54 420.39AE179.72",
+            "77.53AE16.47",
+            "76.44AE6.04",
+            "58.82AE29.38",
+            "84.33AE9.15",
+            "77.34AE10.91",
+            "78.96AE12.13",
+            "50.03AE15.51",
+            "78.57AE17.38"
+          ],
+          "columnHeaders": [
+            "Table 5 Secondary outcome observed data by group and time point and adjusted mean difference according-generalized estimating equations",
+            "Secondary outcome observed data by group and time point and adjusted mean difference according-generalized estimating equations",
+            "Waitlist Control",
+            "16 wk Between-Group",
+            "Difference MD (95% CI), P",
+            "nZ12"
+          ]
+        },
+        {
+          "value": "26.39 (6.13-46.67), PZ.011",
+          "rowHeaders": [
+            "BPPA-Q total score",
+            "367.96AE133.14 349.54AE159.70 414.09AE270.82 423.16AE205.47 408.22AE218.54 420.39AE179.72",
+            "288.50AE46.72",
+            "304.58AE32.30",
+            "58.82AE29.38",
+            "308.93AE39.37",
+            "277.67AE37.47",
+            "284.20AE33.81",
+            "50.03AE15.51",
+            "78.57AE17.38",
+            "285.67AE44.14"
+          ],
+          "columnHeaders": [
+            "Table 5 Secondary outcome observed data by group and time point and adjusted mean difference according-generalized estimating equations",
+            "Secondary outcome observed data by group and time point and adjusted mean difference according-generalized estimating equations",
+            "Waitlist Control",
+            "8 wk Between-Group",
+            "Difference MD (95% CI), P",
+            "nZ12",
+            "nZ12"
+          ]
+        },
+        {
+          "value": "17.32 (À1.64 to 36.27), PZ.073",
+          "rowHeaders": [
+            "BPPA-Q total score",
+            "367.96AE133.14 349.54AE159.70 414.09AE270.82 423.16AE205.47 408.22AE218.54 420.39AE179.72",
+            "288.50AE46.72",
+            "304.58AE32.30",
+            "58.82AE29.38",
+            "308.93AE39.37",
+            "277.67AE37.47",
+            "284.20AE33.81",
+            "50.03AE15.51",
+            "78.57AE17.38",
+            "285.67AE44.14"
+          ],
+          "columnHeaders": [
+            "Table 5 Secondary outcome observed data by group and time point and adjusted mean difference according-generalized estimating equations",
+            "Secondary outcome observed data by group and time point and adjusted mean difference according-generalized estimating equations",
+            "Waitlist Control",
+            "16 wk Between-Group",
+            "Difference MD (95% CI), P",
+            "nZ12",
+            "nZ12"
+          ]
+        },
+        {
+          "value": "À6.58 (À17.89 to 4.73), PZ.254",
+          "rowHeaders": [
+            "CP QOL-Child P&PH",
+            "367.96AE133.14 349.54AE159.70 414.09AE270.82 423.16AE205.47 408.22AE218.54 420.39AE179.72",
+            "76.49AE16.90",
+            "77.90AE13.42",
+            "58.82AE29.38",
+            "77.56AE20.02",
+            "66.40AE15.25",
+            "72.75AE22.70",
+            "50.03AE15.51",
+            "74.12AE27.33"
+          ],
+          "columnHeaders": [
+            "Table 5 Secondary outcome observed data by group and time point and adjusted mean difference according-generalized estimating equations",
+            "Secondary outcome observed data by group and time point and adjusted mean difference according-generalized estimating equations",
+            "Waitlist Control",
+            "8 wk Between-Group",
+            "Difference MD (95% CI), P",
+            "nZ12",
+            "nZ12",
+            "nZ10"
+          ]
+        },
+        {
+          "value": "À4.38 (À15.10 to 6.33), PZ.422",
+          "rowHeaders": [
+            "CP QOL-Child P&PH",
+            "367.96AE133.14 349.54AE159.70 414.09AE270.82 423.16AE205.47 408.22AE218.54 420.39AE179.72",
+            "76.49AE16.90",
+            "77.90AE13.42",
+            "58.82AE29.38",
+            "77.56AE20.02",
+            "66.40AE15.25",
+            "72.75AE22.70",
+            "50.03AE15.51",
+            "74.12AE27.33"
+          ],
+          "columnHeaders": [
+            "Table 5 Secondary outcome observed data by group and time point and adjusted mean difference according-generalized estimating equations",
+            "Secondary outcome observed data by group and time point and adjusted mean difference according-generalized estimating equations",
+            "Waitlist Control",
+            "16 wk Between-Group",
+            "Difference MD (95% CI), P",
+            "nZ12",
+            "nZ12",
+            "nZ10"
+          ]
+        },
+        {
+          "value": "2.20 (À7.68 to 12.08), PZ.663",
+          "rowHeaders": [
+            "CP QOL-Child EW&SE",
+            "367.96AE133.14 349.54AE159.70 414.09AE270.82 423.16AE205.47 408.22AE218.54 420.39AE179.72",
+            "85.94AE15.99",
+            "89.02AE17.16",
+            "58.82AE29.38",
+            "86.22AE17.77",
+            "84.24AE11.85",
+            "82.42AE24.31",
+            "50.03AE15.51",
+            "82.29AE25.43"
+          ],
+          "columnHeaders": [
+            "Table 5 Secondary outcome observed data by group and time point and adjusted mean difference according-generalized estimating equations",
+            "Secondary outcome observed data by group and time point and adjusted mean difference according-generalized estimating equations",
+            "Waitlist Control",
+            "8 wk Between-Group",
+            "Difference MD (95% CI), P",
+            "nZ12",
+            "nZ12",
+            "nZ10"
+          ]
+        },
+        {
+          "value": "2.72 (À6.63 to 12.07), PZ.568",
+          "rowHeaders": [
+            "CP QOL-Child EW&SE",
+            "367.96AE133.14 349.54AE159.70 414.09AE270.82 423.16AE205.47 408.22AE218.54 420.39AE179.72",
+            "85.94AE15.99",
+            "89.02AE17.16",
+            "58.82AE29.38",
+            "86.22AE17.77",
+            "84.24AE11.85",
+            "82.42AE24.31",
+            "50.03AE15.51",
+            "82.29AE25.43"
+          ],
+          "columnHeaders": [
+            "Table 5 Secondary outcome observed data by group and time point and adjusted mean difference according-generalized estimating equations",
+            "Secondary outcome observed data by group and time point and adjusted mean difference according-generalized estimating equations",
+            "Waitlist Control",
+            "16 wk Between-Group",
+            "Difference MD (95% CI), P",
+            "nZ12",
+            "nZ12",
+            "nZ10"
+          ]
+        },
+        {
+          "value": "À1.57 (À135.6 to 132.5), PZ.982",
+          "rowHeaders": [
+            "Counts/min",
+            "367.96AE133.14 349.54AE159.70 414.09AE270.82 423.16AE205.47 408.22AE218.54 420.39AE179.72",
+            "58.82AE29.38",
+            "50.03AE15.51",
+            "82.29AE25.43"
+          ],
+          "columnHeaders": [
+            "Table 5 Secondary outcome observed data by group and time point and adjusted mean difference according-generalized estimating equations",
+            "Secondary outcome observed data by group and time point and adjusted mean difference according-generalized estimating equations",
+            "Waitlist Control",
+            "8 wk Between-Group",
+            "Difference MD (95% CI), P",
+            "nZ12",
+            "nZ12",
+            "nZ10",
+            "nZ12",
+            "53 (À1460 to 1565), PZ.945"
+          ]
+        },
+        {
+          "value": "51.63 (À75.24 to 178.5), PZ.425",
+          "rowHeaders": [
+            "Counts/min",
+            "367.96AE133.14 349.54AE159.70 414.09AE270.82 423.16AE205.47 408.22AE218.54 420.39AE179.72",
+            "58.82AE29.38",
+            "50.03AE15.51",
+            "82.29AE25.43"
+          ],
+          "columnHeaders": [
+            "Table 5 Secondary outcome observed data by group and time point and adjusted mean difference according-generalized estimating equations",
+            "Secondary outcome observed data by group and time point and adjusted mean difference according-generalized estimating equations",
+            "Waitlist Control",
+            "16 wk Between-Group",
+            "Difference MD (95% CI), P",
+            "nZ12",
+            "nZ12",
+            "nZ10",
+            "nZ12",
+            "32 (À1395 to 1459), PZ.965"
+          ]
+        },
+        {
+          "value": "2.25 (À12.61 to 17.12), PZ.766",
+          "rowHeaders": [
+            "MVPA weekday",
+            "367.96AE133.14 349.54AE159.70 414.09AE270.82 423.16AE205.47 408.22AE218.54 420.39AE179.72",
+            "55.26AE22.67",
+            "53.40AE23.38",
+            "58.82AE29.38",
+            "47.89AE20.91",
+            "47.61AE15.42",
+            "50.03AE15.51",
+            "82.29AE25.43"
+          ],
+          "columnHeaders": [
+            "Table 5 Secondary outcome observed data by group and time point and adjusted mean difference according-generalized estimating equations",
+            "Secondary outcome observed data by group and time point and adjusted mean difference according-generalized estimating equations",
+            "Waitlist Control",
+            "8 wk Between-Group",
+            "Difference MD (95% CI), P",
+            "nZ12",
+            "nZ12",
+            "nZ10",
+            "nZ12",
+            "53 (À1460 to 1565), PZ.945"
+          ]
+        },
+        {
+          "value": "À0.45 (À14.65 to 13.76), PZ.951",
+          "rowHeaders": [
+            "MVPA weekday",
+            "367.96AE133.14 349.54AE159.70 414.09AE270.82 423.16AE205.47 408.22AE218.54 420.39AE179.72",
+            "55.26AE22.67",
+            "53.40AE23.38",
+            "58.82AE29.38",
+            "47.89AE20.91",
+            "47.61AE15.42",
+            "50.03AE15.51",
+            "82.29AE25.43"
+          ],
+          "columnHeaders": [
+            "Table 5 Secondary outcome observed data by group and time point and adjusted mean difference according-generalized estimating equations",
+            "Secondary outcome observed data by group and time point and adjusted mean difference according-generalized estimating equations",
+            "Waitlist Control",
+            "16 wk Between-Group",
+            "Difference MD (95% CI), P",
+            "nZ12",
+            "nZ12",
+            "nZ10",
+            "nZ12",
+            "32 (À1395 to 1459), PZ.965"
+          ]
+        },
+        {
+          "value": "À12.67 (À47.23 to 21.88), PZ.472",
+          "rowHeaders": [
+            "MVPA weekend",
+            "367.96AE133.14 349.54AE159.70 414.09AE270.82 423.16AE205.47 408.22AE218.54 420.39AE179.72",
+            "60.61AE31.33",
+            "44.39AE29.70",
+            "51.26AE30.92",
+            "53.86AE33.04",
+            "50.73AE29.77",
+            "56.20AE23.16",
+            "82.29AE25.43"
+          ],
+          "columnHeaders": [
+            "Table 5 Secondary outcome observed data by group and time point and adjusted mean difference according-generalized estimating equations",
+            "Secondary outcome observed data by group and time point and adjusted mean difference according-generalized estimating equations",
+            "Waitlist Control",
+            "8 wk Between-Group",
+            "Difference MD (95% CI), P",
+            "nZ12",
+            "nZ12",
+            "nZ10",
+            "nZ12",
+            "53 (À1460 to 1565), PZ.945"
+          ]
+        },
+        {
+          "value": "À9.38 (À40.90 to 22.14), PZ.560",
+          "rowHeaders": [
+            "MVPA weekend",
+            "367.96AE133.14 349.54AE159.70 414.09AE270.82 423.16AE205.47 408.22AE218.54 420.39AE179.72",
+            "60.61AE31.33",
+            "44.39AE29.70",
+            "51.26AE30.92",
+            "53.86AE33.04",
+            "50.73AE29.77",
+            "56.20AE23.16",
+            "82.29AE25.43"
+          ],
+          "columnHeaders": [
+            "Table 5 Secondary outcome observed data by group and time point and adjusted mean difference according-generalized estimating equations",
+            "Secondary outcome observed data by group and time point and adjusted mean difference according-generalized estimating equations",
+            "Waitlist Control",
+            "16 wk Between-Group",
+            "Difference MD (95% CI), P",
+            "nZ12",
+            "nZ12",
+            "nZ10",
+            "nZ12",
+            "32 (À1395 to 1459), PZ.965"
+          ]
+        },
+        {
+          "value": "À6.20 (À30.91 to 18.50), PZ.623",
+          "rowHeaders": [
+            "% days meeting",
+            "367.96AE133.14 349.54AE159.70 414.09AE270.82 423.16AE205.47 408.22AE218.54 420.39AE179.72",
+            "43.36AE34.43",
+            "35.31AE34.10",
+            "40.97AE35.69",
+            "25.92AE30.67",
+            "30.63AE38.55",
+            "27.22AE27.37",
+            "82.29AE25.43"
+          ],
+          "columnHeaders": [
+            "Table 5 Secondary outcome observed data by group and time point and adjusted mean difference according-generalized estimating equations",
+            "Secondary outcome observed data by group and time point and adjusted mean difference according-generalized estimating equations",
+            "Waitlist Control",
+            "8 wk Between-Group",
+            "Difference MD (95% CI), P",
+            "nZ12",
+            "nZ12",
+            "nZ10",
+            "nZ12",
+            "53 (À1460 to 1565), PZ.945"
+          ]
+        },
+        {
+          "value": "À4.13 (À27.44 to 19.18), PZ.728",
+          "rowHeaders": [
+            "% days meeting",
+            "367.96AE133.14 349.54AE159.70 414.09AE270.82 423.16AE205.47 408.22AE218.54 420.39AE179.72",
+            "43.36AE34.43",
+            "35.31AE34.10",
+            "40.97AE35.69",
+            "25.92AE30.67",
+            "30.63AE38.55",
+            "27.22AE27.37",
+            "82.29AE25.43"
+          ],
+          "columnHeaders": [
+            "Table 5 Secondary outcome observed data by group and time point and adjusted mean difference according-generalized estimating equations",
+            "Secondary outcome observed data by group and time point and adjusted mean difference according-generalized estimating equations",
+            "Waitlist Control",
+            "16 wk Between-Group",
+            "Difference MD (95% CI), P",
+            "nZ12",
+            "nZ12",
+            "nZ10",
+            "nZ12",
+            "32 (À1395 to 1459), PZ.965"
+          ]
+        }
+      ],
+      "page": 1
+    }
+  ]
+}

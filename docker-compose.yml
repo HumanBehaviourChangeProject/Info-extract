@@ -8,7 +8,10 @@ services:
 
   hbcp-core:
     container_name: hbcp-core
-    build: ./core
+    build:
+      context: ./core
+      #args:
+        #- ENTITIES_FOR_PREDICTION=src/main/resources/data/jsons/All_annotations_512papers_05March20_reduced.json
     image: hbcp-core
     ports:
       - "8080:8080"
@@ -36,6 +39,17 @@ services:
       - hbcp-core
     environment:
       PORT: 5001
+      TF_SERVING_HOSTNAME: hbcp-prediction-tf-serving
+      TF_SERVING_PORT: 8501
+      LOGGING_LEVEL: INFO
     ports:
       - "5001:5001"
       
+  hbcp-prediction-tf-serving:
+    container_name: hbcp-prediction-tf-serving
+    build: ./prediction-experiments/python-nb/ov-predict
+    image: hbcp-prediction-tf-serving
+    depends_on:
+      - hbcp-prediction-experiments
+    ports:
+      - "8501:8501"

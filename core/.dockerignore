@@ -6,5 +6,6 @@
 !context.xml
 
 !scripts
+!**/*.json
 
 src/main/resources/indexes

@@ -1,0 +1,1015 @@
+{
+  "blocks": [
+    {
+      "type": "LINES",
+      "value": "The Faith, Activity, and Nutrition Program: A Randomized Controlled Trial in African-American Churches",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Background-Faith-based interventions hold promise for promoting health in ethnic minority populations. To date, however, few of these interventions have used a community-based participatory research (CBPR) approach, have targeted both physical activity and healthy eating, and have focused on structural changes in the church.\nPurpose-To report the results of a group randomized CBPR intervention targeting physical activity and healthy eating in African-American churches.\nDesign-Group RCT. Data were collected from 2007 to 2011. Statistical analyses were conducted in 2012.\nSetting/participants-Seventy-four African Methodist Episcopal (AME) churches in South Carolina and 1257 members within them participated in the study.\nIntervention-Churches were randomized to an immediate (intervention) or delayed (control) 15-month intervention that targeted organizational and environmental changes consistent with the structural ecologic model. A CBPR approach guided intervention development. Intervention churches attended a full-day committee training and a full-day cook training. They also received a stipend and 15 months of mailings and technical assistance calls to support intervention implementation.\nMain outcome measures-Primary outcomes were self-reported moderate-to-vigorousintensity physical activity (MVPA), self-reported fruit and vegetable consumption, and measured blood pressure. Secondary outcomes were self-reported fat-and fiber-related behaviors.",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Cardiovascular disease remains the leading cause of death in the U.S., and African Americans have higher rates of morbidity, mortality, and associated risk factors than whites. Partnerships between faith communities and universities offer a unique opportunity to reach large numbers of individuals typically under-represented in health promotion efforts. Faith-based health promotion programs have generally resulted in positive changes, but notable gaps remain in this knowledge base.\nFirst, despite substantial benefits of physical activity, relatively few faith-based interventions have targeted physical activity, and many that have are very small studies and/or do not include measures of physical activity. Second, dietary factors other than fruit and vegetable consumption (e.g., fat, fiber, sodium) have received little attention. Third, with few exceptions, most interventions have focused on individual behaviors rather than church environment and policy/practices, limiting program reach and sustainability. Fourth, a community-based participatory research (CBPR) approach has rarely been used in faith-based interventions or interventions targeting physical activity in African Americans in general, with a few exceptions, despite its increased popularity and potential for making lasting changes.\nIn response to these gaps, the Faith, Activity, and Nutrition (FAN) program was developed. This paper reports primary and secondary outcomes from FAN. It was hypothesized that members of intervention churches would show greater increases in selfreported moderate-to vigorous-intensity physical activity (MVPA) and self-reported fruit and vegetable consumption, greater reductions in measured blood pressure, and greater selfreported use of behaviors to reduce fat and increase fiber intake.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The Faith, Activity, and Nutrition (FAN) program, described in detail elsewhere, tested a 15-month combined physical activity and dietary intervention that targeted social, cultural, and policy influences within African Methodist Episcopal (AME) churches in South Carolina. FAN used a CBPR approach; a planning committee of church and university representatives worked together to develop, implement, evaluate, and disseminate the program. The study tested whether the intervention increased self-reported MVPA and selfreported fruit and vegetable consumption and led to greater improvements in measured blood pressure (primary outcomes) as compared to a delayed intervention control group. Secondary outcomes were self-reported fat-and fiber-related behaviors. In addition, objectively measured MVPA was obtained from a subsample of participants, but the small sample size (both church and participant levels) precluded change analyses.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The FAN Program was a group randomized design with three waves of implementation. In Wave 1, clusters of churches were randomized to receive the intervention immediately after baseline assessments (intervention group) or at the end of a 15-month period (control group). Randomization by clusters was done because churches within them were in relatively close geographic proximity. In practice, however, church members rarely participated in events at churches other than their own. Thus, church-level randomization occurred in Waves 2 and 3.\nSample size calculations, based on α=0.05, 80% power, predicted church intraclass correlation coefficients of 0.01 to 0.02, and small effect sizes projected a need for 30 churches/group and 600 participants/group (after attrition). Randomization was conducted by a study statistician who had no contact with or knowledge of churches. An attempt was made to balance the number of churches and projected participants within each district.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "As reported elsewhere, 131 pastors from four AME districts in South Carolina were sent letters from their presiding elder introducing the program and inviting participation. Program staff made follow-up telephone calls to provide more details about the program and answer questions. Pastors were encouraged to identify a church liaison, often the church health director, to assist with study activities. Three churches were deemed not eligible (one provided worship services in Spanish, one provided outreach but no worship services, one changed denominations and was no longer AME), leaving 128 target churches with an estimated membership of 36,384: of these churches, 56 were small (<100 members); 57 medium (100-500 members); and 15 large (>500 members). Wave 1 targeted 34 churches, Wave 2 targeted 63, and Wave 3 targeted 31.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Pastor-appointed liaisons recruited members of their congregation to take part in baseline measurements. Churches were asked to recruit 13, 32, or 63 members for measurement, depending on their size (small, medium, and large, respectively). At baseline, participants completed an informed consent form approved by the IRB at the University of South Carolina, which first approved this study in 2006, and by the FAN planning committee. Eligible participants were those who reported being aged ≥ 18 years, free of serious medical conditions or disabilities that would make small changes in physical activity or diet difficult, and regular church attendees (for ≥ 1/month to ensure intervention exposure). After participants provided consent, they completed a survey, and physical assessments were taken.\nParticipants were invited by mail to complete the survey and take part in a post-test assessment 15 months later (post-program). Churches were asked to make announcements at worship services to promote participation. Program staff called participants, reminded them to attend, and if they were unable to attend, invited them to attend a future session at a nearby church. Repeated contact attempts were made with participants who did not attend a session to request the return of their survey in a postage-paid envelope. Participants who completed a measurement session entered a drawing (1 of every 15) fora $15 gift card.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The intervention strategies, guided by the structural ecologic model applied to the church setting, were developed by the planning committee during the first year using a CBPR approach. Churches were asked to implement physical activity and healthy eating activities that targeted each of the four structural factors: availability and accessibility, physical structures, social structures, and cultural and media messages. Churches had flexibility in how they addressed each factor, but they were asked to implement a set of core activities: distribute bulletin inserts (provided); share messages from the pulpit; pass out educational materials (provided); create a Faith, Activity, and Nutrition (FAN) Program bulletin board, and suggest physical activity and healthy eating policy/practices that the pastor could set.\nEach church formed a FAN committee with up to five members that included the pastor, health director/FAN coordinator, and cook or lead kitchen staff, and attended an 8-hour training. This approach helped to facilitate structural change and develop organizational capacity. The training provided an overview of the FAN program and its goals, linked study goals to scripture and to the AME church's health mission, defined physical activity and healthy eating, engaged the pastor in supporting FAN, and brainstormed activities the church could do to promote physical activity and healthy eating.\nMembers engaged in a process whereby they assessed their current church activities and selected ways to address, enhance, or expand them. Each FAN committee developed a formal action plan that supported physical activity and dietary change. After submission of their plan and budget, FAN churches received a stipend (up to $1000 depending on church size) to assist with implementation.\nEach church sent two individuals to attend a cooks' training that focused on the Dietary Approaches to Stop Hypertension (DASH) diet plan. The participatory training workshop did the following: tied scripture to healthy eating, helped churches improve healthy meals and snacks, enlisted cooks in hands-on cooking with chef training, engaged cooks in menu planning, encouraged the redesign of favorite recipes to be healthier, and demonstrated the development of flavor in foods through healthy ingredients. Committees (including cooks) and pastors received monthly mailings over the 15-month intervention. Each mailing focused on physical activity or healthy eating, and highlighted a health behavior change strategy consistent with social cognitive theory (e.g., selfmonitoring), and a health condition related to inactivity or diet. Mailings also included incentives that promoted program messages (e.g., church fans, cups, aprons); handouts supporting FAN goals that could be distributed to church members (i.e., bulletin inserts); and tools for cooks (e.g., recipes). Pastor mailings included motivational information, a goal of the month, and an activity for the pastor to try (e.g., sharing pedometer step counts with congregation). Finally, follow-up technical assistance calls were made by intervention staff to pastors, FAN coordinators, and cooks to learn about program implementation and help with problem-solving.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Measurements were taken at baseline and 15 months later during the years 2007 to 2011.\nSociodemographic and health-related variables-Age, gender, race, marital status, total household income, educational attainment, and general health status were reported. Height to the nearest quarter inch and weight to the nearest 1/10 kilogram were obtained. BMI was calculated by standard formula.\nSelf-reported physical activity-The Community Health Activities Model Program for Seniors (CHAMPS) questionnaire 30 measured self-reported MVPA \"in atypical week during the past 4 weeks.\" The measure has strong psychometric properties, including validity, test-retest reliability, and sensitivity to change. The 36-item modified version, similar to the one described by Resnicow et al., was used. Hours per week of selfreported total MVPA (≥3.0 METs) was calculated, as was total hours per week of selfreported leisure-time MVPA (i.e., removal of household and related activities).\nFruit and vegetable intake-The National Cancer Institute (NCI) fruit and vegetable allday screener measured cups per day of self-reported fruit and vegetable consumption over the past month using nine of the original ten items. French fries were excluded due to their high fat content, consistent with other studies, and because they are not included as a vegetable in current dietary recommendations (ChooseMyPlate.gov). This instrument correlates with 24-hour recall measures (men: r = 0.66; women: r = 0.51). A similar measure used in a faith-based intervention with African Americans 20 correlated with 3-day food records (r = 0.51).\nMeasured blood pressure-Resting blood pressure was taken three times on the right arm, after participants sat quietly for 5 minutes, with the automated DinaMap ProCare Monitor (DPC-100X-EN). The average of the second and third measures was used.\nSelf-reported fat-and fiber-related behaviors-The Fat and Fiber-Related Behavior Questionnaire assessed these two behaviors over the past 3 months. Responses to each item were on a 4-point scale. The mean of 27 (fat) and 14 (fiber) items represented the summary scores. For both scales, lower scores indicate more-favorable practices. These scales have high test-retest correlations at 3 months (r = 0.60 to 0.79) and 12 months (r = 0.53 to 0.74) and are moderately correlated with a food frequency questionnaire (r = 0.53 and r = 0.50). Self-reported behaviors were measured instead of intake to reduce participant burden and because the behaviors mapped onto intervention targets. This measure was more responsive to change in a dietary intervention than a detailed food frequency questionnaire. Objectively measured physical activity-The ActiGraph accelerometer (GT1M model) objectively measured MVPA in a subsample of participants. Nonwear time was defined as ≥ 60 minutes of consecutive zeros (data were excluded). Participants wearing the accelerometer for at least 3 days (including at least 1 weekday and 1 weekend day) for 10 hours per day were included. Mean minutes of MVPA using the cutpoint from Freedson et al.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Training evalutions-At the conclusion of all trainings, trainees rated their agreement (1=strongly disagree, 5=strongly agree) with statements about the usefulness of training, perceived ease and time burden of implementation, confidence to implement, perceived importance of intervention targets, and excitement about FAN. Open-ended questions assessed what was most and least liked.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "All analyses were conducted in 2012. Square root transformations corrected skewness in self-reported total MVPA, self-reported leisure-time MVPA, and self-reported fruit and vegetable consumption. Differences in baseline demographic, health, and church-related variables by randomization group and loss to follow-up were examined with t-tests and χ 2 analyses. Data from those lost to follow-up for measured blood pressure and survey data were examined separately. The association between self-reported and objectively reported physical activity at baseline was examined with a Pearson correlation. Mean scores were computed for training evaluation items.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Repeated measures ANOVA (SAS PROC MIXED) tested group X time interactions for all outcomes. Each model controlled for church clustering (i.e., participants nested within churches); wave; size; and participant age, gender, and education (some college or higher versus high school graduate or less). Analyses used a likelihood-based approach to accommodate data missing at random.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Group differences at post were tested with ANCOVAs for all outcomes, limited to those participants who had both pre-and post-data. The group effects represented significant differences in the outcome at post, after controlling for the pre-value of the outcome of interest and the same covariates listed above. A random effect for church was included in all models.\nBecause the unit of randomization changed after Wave 1, all analyses were repeated using the actual unit of randomization (i.e., church cluster for Wave 1 and church for Waves 2 and 3; in all, 58 units). Because the results did not differ, church was used as the clustering variable (74 units) throughout the paper.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "For the intent-to-treat analyses, the effect size (d) equaled the changeover time in the intervention group minus the changeover time in the control group (both with adjusted means), divided by the unadjusted pretest pooled SD. For the completer analyses, the effect size (d) equaled the intervention post minus the control post (adjusted Ms) divided by the unadjusted pretest pooled SD. Effect sizes of d=0.20 were considered small, d=0.50 medium, and d=0.80 large.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The study flowchart is shown in Figure. Baseline participant characteristics are shown in Table. The correlation between self-reported and objectively measured MVPA and leisuretime MVPA at baseline (n=300) was r = 0.27, p<0.0001 and r = 0.33, p<0.0001, respectively.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Sixty-two percent of members provided at least one primary or secondary post-outcome. Participants lost to follow-up were more likely than participants who completed both the pre-and post-survey to be younger (50.6 vs 57.3 years, p<0.0001), had less favorable selfreported fiber (2.9 vs 2.8, p<0.01) and fat (2.7 vs 2.6, p<0.01) behavior scores; had fewer health conditions (1.8 vs 2.1, p<0.001); had higher levels of self-reported leisure-time MVPA (4.4 vs 3.6 hours/week, p< 0.05); and reported attending fewer church activities (3.8 vs 4.2 times per month, p<0.05) than participants who completed both the pre-and postsurvey. There were no differences for gender, education, smoking status, self-rated health, measured blood pressure, self-reported total MVPA, self-reported fruit and vegetable consumption, BMI, participation in worship services, church randomization group, or church size.\nParticipants lost to follow-up were more likely than those who completed both the pre-and post-measures of blood pressure to be current smokers (8.8% vs 5.3%, p<0.05); were younger (51.3 vs 56.4 years, p<0.0001); had fewer health conditions (1.8 vs 2.0, p<0.01); had higher levels of self-reported leisure-time MVPA (4.4 vs 3.6 hours/week, p<0.01), and attended fewer church activities (3.7 vs 4.3 times per month, p<0.01). They were more likely to be from a small than medium-sized church (22.0%, 55.4% vs 16.0%, 61.9%, p<0.05) and from Wave 3 than Wave 1 (26.8%, 44.8% vs 18.1%, 43.4%, p<0.0001).\nIntent-to-treat analyses-As shown in Table, after controlling for all covariates, there was a group X time interaction for self-reported leisure-time MVPA (d=0.18, p=0.02). Selfreported leisure-time MVPA increased in intervention churches but decreased in control churches. There were no other group X time interactions for any other outcomes.\nAnalyses limited to assessment completers-As shown in Table, after controlling for baseline values of the outcome and all other covariates, self-reported leisure-time MVPA (d=0.17, p=0.03) and self-reported fruit and vegetable consumption (d=0.17, p=0.03) were higher at post in intervention than control churches. No group differences were found for any other outcomes.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Both committee (n=104) and cook (n=62) trainees from early churches rated the training very positively, with mean item scores ranging from 4.2 (0.78) to 4.8 (0.43). The mean ratings for the statement that FAN would require too much time were 2.2 (1.3) and 2.5. Common responses for most-liked aspects of the training included the hands on-experience; opportunities for tasting (and the flavor of the food); exercise breaks; information learned; and style and approach of the staff. Most participants indicated that \"nothing\" was leastliked or should be changed. Some commented that the day was too long, especially for the committee training, although others suggested more-frequent or longer training sessions.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The primary finding of this study was that members of intervention churches showed modest but significantly larger increases in self-reported leisure-time MVPA than control churches. Only a few studies to date have shown that faith-based interventions can increase physical activity, and most have focused on group exercise or group-based behavior change programs. The results from this study are unique and promising. Although the intervention effect was small in magnitude, a structural intervention designed to reach the entire congregation was used. Seventy-four churches with an estimated 36,000 members were reached; even if only 50% of members were exposed, the program still had broad reach. Programs that have small effects but reach large numbers are more likely to make a public health impact than highly efficacious programs that reach a small number of individuals.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Several study limitations must be considered. First and most significant was the high attrition. Nearly 40% of members provided no outcomes at the 15-month post measurement. A recent review of physical activity interventions in African Americans reported that high attrition (≥ 40%) was common, particularly when follow-up exceeded 6 months. The Faith, Activity, and Nutrition (FAN) Program did not rigorously screen participants prior to enrollment (e.g., telephone or pre-enrollment visits) and did not provide monetary incentives to each participant for measurement completion. These omissions might have reduced participant commitment and motivation for measurements. Second, two of the primary outcomes were self-report measures. Nonetheless, they represented validated measures that have been used in similar studies. Third, the intervention targeted only the church setting. It is recognized that participants are exposed to many other settings that influence behavior (e.g., family, work, neighborhood). Fourth, no midpoint measures were collected due to budgetary limitations, making it more difficult to document potential early changes. Finally, the intervention training, although perhaps more feasible and realistic than that used in other studies, might not have been intense enough to promote larger changes overtime. Multiple trainings with more booster sessions might have enhanced intervention effects.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The FAN Program was unique in a number of ways. First, it used a CBPR approach to guide all aspects of the study. Studies to date have more commonly developed an intervention that is then delivered by trained research staff to the church. Although some of these studies have used formative work to help develop the intervention, rarely has the church been \"at the table\" at the onset, as they were in this study. A recent review of physical activity intervention studies with African Americans reported that only four used a CBPR approach, and few focused on program reach and sustainability. Second, all churches within targeted districts were invited to participate, and few exclusionary criteria were used. In most other studies, churches and members have been carefully selected and are perhaps less representative of the target population.\nThird, an intervention approach that was flexible allowed for variations from church to church, while still being theoretically grounded. Most previous studies have targeted individual beliefs and behaviors, whereas FAN targeted structural factors within the church (including policy) in an attempt to have greater reach and sustainability. Examples of structural changes include setting guidelines to include healthy options at all events with food, including physical activity breaks in lengthy church meetings, and incorporating messages about physical activity and healthy eating from the pulpit.\nThe FAN Program is one of very few large-scale group RCTs that targeted both physical activity and diet in African-American churches, and the only one with this focus, to our knowledge, that used CBPR. Although an ecologic approach has the potential for greater reach and impact, it may also require more time to make organizational-level changes. Results from analyses limited to participants who completed both pre-and post-measures paralleled the intent-to-treat analyses, with one important addition: intervention churches also had higher self-reported fruit and vegetable consumption at post-intervention than control churches. Those who completed the measurements may have been more motivated to improve their health or had greater intervention exposure. These post-hoc analyses suggest that in \"best case\" scenarios, the structural intervention tested can improve both physical activity and self-reported fruit and vegetable consumption, albeit at modest levels. In contrast, the intervention had no impact on the other study outcomes (measured blood pressure and self-reported fat-and fiber-related behaviors). It is likely that the amount of change reported in both physical activity and fruit and vegetable consumption was not large enough to translate into improvements in blood pressure, or that other variables not measured were important (e.g., sodium intake).\nIn the FAN Program, training and technical assistance focused on integrating physical activity and healthy eating activities into existing church programs, rather than creating new programs that would require members to attend church additional days or times. The church trainings were not overly burdensome, and the potential for broader dissemination is great.\nThese trainings have been translated into online training modules (www.health-e-ame.com), along with all print materials, to have even greater reach and to allow trained FAN churches to bring new members into their health/FAN ministry. The effects of FAN might have been even greater with more training, and additional technical assistance and physical activity programs. Future papers will focus on program implementation in relation to outcomes, which is not included here.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Several important lessons were learned in this study. First, conducting CBPR is complex in large hierarchic organizations, particularly when these organizations experience substantial staff turnover. For example, two presiding elders and many pastors changed over the course of the project. It was difficult to fully engage new church leaders and get them fully 'up to speed' in a program begun by their predecessors. Time and attention must be given to engaging current leaders and developing trusting relationships with new leaders when there is turnover. Also, the CBPR process occurred with a planning committee, and the process was far less participatory for the actual churches invited to participate. How to enhance or modify CBPR in hierarchic organizational settings merits further attention.\nSecond, flexibility and compromise are required for this type of research. Churches provide, in many ways, an ideal setting to implement health promotion efforts, but health is not the primary mission of the church, and logistic challenges are common. These challenges include full church calendars, competing activities and missions, and overstretched pastors and church staff. Helping leaders integrate the program into existing efforts (e.g., existing health ministry) maximizes the likelihood of success and sustainability.\nThird, the geographic distance between the universities and most of the churches in FAN posed many logistic challenges. In-depth process evaluation (e.g., observations) was not feasible, and flexibility for measurement sessions was limited (e.g., difficult to conduct multiple sessions at a given church or even home visits). Closer proximity maybe required for this type of work, particularly in efficacy or effectiveness trials.\nFinally, organizational change requires a great deal of time, energy, patience, and persistence. Research was new to many of the churches, and study protocols and timelines, need for training and consistency, and other research design issues (e.g., following a cohort) were not always understood. The intervention lasted 15 months; additional time maybe needed for organizational-level changes to take place. However, extending study timelines is challenging given the typical 5-year funding cycle.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Note: Small was defined as <100 members, medium as 100-500 members, and large as >500 members. S, small; M, medium; L, large  Changes in primary and secondary outcomes: limited to participants who completed pre-and post-measurements\n",
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "54.1 (14.1)",
+          "rowHeaders": [
+            "Age, years",
+            "African American / Black"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Total Sample (n=1257)",
+            "Mean (SD) or %"
+          ]
+        },
+        {
+          "value": "53.8 (14.0)",
+          "rowHeaders": [
+            "Age, years",
+            "African American / Black"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Intervention (n=749)",
+            "Mean (SD) or %"
+          ]
+        },
+        {
+          "value": "54.6 (14.4)",
+          "rowHeaders": [
+            "Age, years",
+            "African American / Black"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Control (n=508)",
+            "Mean (SD) or %"
+          ]
+        },
+        {
+          "value": "0.32",
+          "rowHeaders": [
+            "Age, years",
+            "African American / Black"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Control (n=508)",
+            "p"
+          ]
+        },
+        {
+          "value": "0.72",
+          "rowHeaders": [
+            "Race",
+            "African American / Black"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Control (n=508)",
+            "p"
+          ]
+        },
+        {
+          "value": "99.4",
+          "rowHeaders": [
+            "Age, years",
+            "African American / Black"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Total Sample (n=1257)",
+            "Mean (SD) or %"
+          ]
+        },
+        {
+          "value": "99.3",
+          "rowHeaders": [
+            "Age, years",
+            "African American / Black"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Intervention (n=749)",
+            "Mean (SD) or %"
+          ]
+        },
+        {
+          "value": "99.6",
+          "rowHeaders": [
+            "Age, years",
+            "African American / Black"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Control (n=508)",
+            "Mean (SD) or %"
+          ]
+        },
+        {
+          "value": "0.4",
+          "rowHeaders": [
+            "White"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Total Sample (n=1257)",
+            "Mean (SD) or %"
+          ]
+        },
+        {
+          "value": "0.4",
+          "rowHeaders": [
+            "White"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Intervention (n=749)",
+            "Mean (SD) or %"
+          ]
+        },
+        {
+          "value": "0.4",
+          "rowHeaders": [
+            "White"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Control (n=508)",
+            "Mean (SD) or %"
+          ]
+        },
+        {
+          "value": "0.2",
+          "rowHeaders": [
+            "Other"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Total Sample (n=1257)",
+            "Mean (SD) or %"
+          ]
+        },
+        {
+          "value": "0.2",
+          "rowHeaders": [
+            "Other"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Intervention (n=749)",
+            "Mean (SD) or %"
+          ]
+        },
+        {
+          "value": "0.0",
+          "rowHeaders": [
+            "Other"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Control (n=508)",
+            "Mean (SD) or %"
+          ]
+        },
+        {
+          "value": "0.66",
+          "rowHeaders": [
+            "Gender",
+            "African American / Black"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Control (n=508)",
+            "p"
+          ]
+        },
+        {
+          "value": "75.7",
+          "rowHeaders": [
+            "Women"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Total Sample (n=1257)",
+            "Mean (SD) or %"
+          ]
+        },
+        {
+          "value": "75.3",
+          "rowHeaders": [
+            "Women"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Intervention (n=749)",
+            "Mean (SD) or %"
+          ]
+        },
+        {
+          "value": "76.4",
+          "rowHeaders": [
+            "Women"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Control (n=508)",
+            "Mean (SD) or %"
+          ]
+        },
+        {
+          "value": "24.3",
+          "rowHeaders": [
+            "Men"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Total Sample (n=1257)",
+            "Mean (SD) or %"
+          ]
+        },
+        {
+          "value": "24.7",
+          "rowHeaders": [
+            "Men"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Intervention (n=749)",
+            "Mean (SD) or %"
+          ]
+        },
+        {
+          "value": "23.6",
+          "rowHeaders": [
+            "Men"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Control (n=508)",
+            "Mean (SD) or %"
+          ]
+        },
+        {
+          "value": "0.63",
+          "rowHeaders": [
+            "Education"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Control (n=508)",
+            "p"
+          ]
+        },
+        {
+          "value": "10.3",
+          "rowHeaders": [
+            "Education",
+            "< High school"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Total Sample (n=1257)",
+            "Mean (SD) or %"
+          ]
+        },
+        {
+          "value": "9.9",
+          "rowHeaders": [
+            "Education",
+            "< High school"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Intervention (n=749)",
+            "Mean (SD) or %"
+          ]
+        },
+        {
+          "value": "10.8",
+          "rowHeaders": [
+            "Education",
+            "< High school"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Control (n=508)",
+            "Mean (SD) or %"
+          ]
+        },
+        {
+          "value": "32.2",
+          "rowHeaders": [
+            "Education",
+            "High school graduate"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Total Sample (n=1257)",
+            "Mean (SD) or %"
+          ]
+        },
+        {
+          "value": "32.6",
+          "rowHeaders": [
+            "Education",
+            "High school graduate"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Intervention (n=749)",
+            "Mean (SD) or %"
+          ]
+        },
+        {
+          "value": "31.7",
+          "rowHeaders": [
+            "Education",
+            "High school graduate"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Control (n=508)",
+            "Mean (SD) or %"
+          ]
+        },
+        {
+          "value": "29.5",
+          "rowHeaders": [
+            "Education",
+            "Some college"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Total Sample (n=1257)",
+            "Mean (SD) or %"
+          ]
+        },
+        {
+          "value": "30.6",
+          "rowHeaders": [
+            "Marital Status",
+            "Some college"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Intervention (n=749)",
+            "Mean (SD) or %"
+          ]
+        },
+        {
+          "value": "28.0",
+          "rowHeaders": [
+            "Marital Status",
+            "Some college"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Control (n=508)",
+            "Mean (SD) or %"
+          ]
+        },
+        {
+          "value": "28.0",
+          "rowHeaders": [
+            "Marital Status",
+            "College graduate"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Total Sample (n=1257)",
+            "Mean (SD) or %"
+          ]
+        },
+        {
+          "value": "27.0",
+          "rowHeaders": [
+            "Marital Status",
+            "College graduate"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Intervention (n=749)",
+            "Mean (SD) or %"
+          ]
+        },
+        {
+          "value": "29.5",
+          "rowHeaders": [
+            "Marital Status",
+            "College graduate"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Control (n=508)",
+            "Mean (SD) or %"
+          ]
+        },
+        {
+          "value": "0.67",
+          "rowHeaders": [
+            "Income",
+            "Married/member of unmarried couple"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Control (n=508)",
+            "p"
+          ]
+        },
+        {
+          "value": "42.7",
+          "rowHeaders": [
+            "Marital Status"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Total Sample (n=1257)",
+            "Mean (SD) or %"
+          ]
+        },
+        {
+          "value": "43.0",
+          "rowHeaders": [
+            "Marital Status"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Intervention (n=749)",
+            "Mean (SD) or %"
+          ]
+        },
+        {
+          "value": "42.4",
+          "rowHeaders": [
+            "Body mass index, kg/m2"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Control (n=508)",
+            "Mean (SD) or %"
+          ]
+        },
+        {
+          "value": "36.6",
+          "rowHeaders": [
+            "Marital Status"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Total Sample (n=1257)",
+            "Mean (SD) or %"
+          ]
+        },
+        {
+          "value": "37.3",
+          "rowHeaders": [
+            "Body mass index, kg/m2"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Intervention (n=749)",
+            "Mean (SD) or %"
+          ]
+        },
+        {
+          "value": "35.7",
+          "rowHeaders": [
+            "Body mass index, kg/m2"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Control (n=508)",
+            "Mean (SD) or %"
+          ]
+        },
+        {
+          "value": "20.7",
+          "rowHeaders": [
+            "Marital Status",
+            "$60,000 or more"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Total Sample (n=1257)",
+            "Mean (SD) or %"
+          ]
+        },
+        {
+          "value": "19.8",
+          "rowHeaders": [
+            "Body mass index, kg/m2",
+            "$60,000 or more"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Intervention (n=749)",
+            "Mean (SD) or %"
+          ]
+        },
+        {
+          "value": "22.0",
+          "rowHeaders": [
+            "Body mass index, kg/m2",
+            "$60,000 or more"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Control (n=508)",
+            "Mean (SD) or %"
+          ]
+        },
+        {
+          "value": "0.54",
+          "rowHeaders": [
+            "Marital Status"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Control (n=508)",
+            "p"
+          ]
+        },
+        {
+          "value": "53.7",
+          "rowHeaders": [
+            "Body mass index, kg/m2",
+            "Married/member of unmarried couple"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Total Sample (n=1257)",
+            "Mean (SD) or %"
+          ]
+        },
+        {
+          "value": "53.0",
+          "rowHeaders": [
+            "Body mass index, kg/m2",
+            "Married/member of unmarried couple"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Intervention (n=749)",
+            "Mean (SD) or %"
+          ]
+        },
+        {
+          "value": "54.8",
+          "rowHeaders": [
+            "Body mass index, kg/m2",
+            "Married/member of unmarried couple"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Control (n=508)",
+            "Mean (SD) or %"
+          ]
+        },
+        {
+          "value": "46.3",
+          "rowHeaders": [
+            "Body mass index, kg/m2",
+            "Not Married"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Total Sample (n=1257)",
+            "Mean (SD) or %"
+          ]
+        },
+        {
+          "value": "47.0",
+          "rowHeaders": [
+            "Body mass index, kg/m2",
+            "Not Married"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Intervention (n=749)",
+            "Mean (SD) or %"
+          ]
+        },
+        {
+          "value": "45.2",
+          "rowHeaders": [
+            "Body mass index, kg/m2",
+            "Not Married"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Control (n=508)",
+            "Mean (SD) or %"
+          ]
+        },
+        {
+          "value": "0.01",
+          "rowHeaders": [
+            "Employment"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Control (n=508)",
+            "p"
+          ]
+        },
+        {
+          "value": "57.7",
+          "rowHeaders": [
+            "Body mass index, kg/m2",
+            "Employed for wages"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Total Sample (n=1257)",
+            "Mean (SD) or %"
+          ]
+        },
+        {
+          "value": "60.7",
+          "rowHeaders": [
+            "Body mass index, kg/m2",
+            "Employed for wages"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Intervention (n=749)",
+            "Mean (SD) or %"
+          ]
+        },
+        {
+          "value": "53.4",
+          "rowHeaders": [
+            "Body mass index, kg/m2",
+            "Employed for wages"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Control (n=508)",
+            "Mean (SD) or %"
+          ]
+        },
+        {
+          "value": "42.3",
+          "rowHeaders": [
+            "Body mass index, kg/m2",
+            "Not Employed for wages"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Total Sample (n=1257)",
+            "Mean (SD) or %"
+          ]
+        },
+        {
+          "value": "39.3",
+          "rowHeaders": [
+            "Body mass index, kg/m2",
+            "Not Employed for wages"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Intervention (n=749)",
+            "Mean (SD) or %"
+          ]
+        },
+        {
+          "value": "46.6",
+          "rowHeaders": [
+            "Body mass index, kg/m2",
+            "Not Employed for wages"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Control (n=508)",
+            "Mean (SD) or %"
+          ]
+        },
+        {
+          "value": "33.0 (7.5)",
+          "rowHeaders": [
+            "Body mass index, kg/m2"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Total Sample (n=1257)",
+            "Mean (SD) or %"
+          ]
+        },
+        {
+          "value": "32.9 (7.2)",
+          "rowHeaders": [
+            "Body mass index, kg/m2"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Intervention (n=749)",
+            "Mean (SD) or %"
+          ]
+        },
+        {
+          "value": "33.1 (7.8)",
+          "rowHeaders": [
+            "Body mass index, kg/m2"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Control (n=508)",
+            "Mean (SD) or %"
+          ]
+        },
+        {
+          "value": "0.50",
+          "rowHeaders": [
+            "Body mass index, kg/m2"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Control (n=508)",
+            "p"
+          ]
+        },
+        {
+          "value": "11.1",
+          "rowHeaders": [
+            "Body mass index, kg/m2",
+            "Normal weight"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Total Sample (n=1257)",
+            "Mean (SD) or %"
+          ]
+        },
+        {
+          "value": "11.2",
+          "rowHeaders": [
+            "Body mass index, kg/m2",
+            "Normal weight"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Intervention (n=749)",
+            "Mean (SD) or %"
+          ]
+        },
+        {
+          "value": "11.0",
+          "rowHeaders": [
+            "Body mass index, kg/m2",
+            "Normal weight"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Control (n=508)",
+            "Mean (SD) or %"
+          ]
+        },
+        {
+          "value": "27.1",
+          "rowHeaders": [
+            "Body mass index, kg/m2",
+            "Overweight"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Total Sample (n=1257)",
+            "Mean (SD) or %"
+          ]
+        },
+        {
+          "value": "27.1",
+          "rowHeaders": [
+            "Body mass index, kg/m2",
+            "Overweight"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Intervention (n=749)",
+            "Mean (SD) or %"
+          ]
+        },
+        {
+          "value": "27.1",
+          "rowHeaders": [
+            "Body mass index, kg/m2",
+            "Overweight"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Control (n=508)",
+            "Mean (SD) or %"
+          ]
+        },
+        {
+          "value": "61.8",
+          "rowHeaders": [
+            "Obese"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Total Sample (n=1257)",
+            "Mean (SD) or %"
+          ]
+        },
+        {
+          "value": "61.7",
+          "rowHeaders": [
+            "Obese"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Intervention (n=749)",
+            "Mean (SD) or %"
+          ]
+        },
+        {
+          "value": "61.9",
+          "rowHeaders": [
+            "Obese"
+          ],
+          "columnHeaders": [
+            "Table 1",
+            "Table 1",
+            "Control (n=508)",
+            "Mean (SD) or %"
+          ]
+        }
+      ],
+      "page": 1
+    }
+  ]
+}

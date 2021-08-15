@@ -1,0 +1,2588 @@
+{
+  "blocks": [
+    {
+      "type": "LINES",
+      "value": "Evaluation of a very brief pedometer-based physical activity intervention delivered in NHS Health Checks in England: The VBI randomised controlled trial",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The majority of people do not achieve recommended levels of physical activity. There is a need for effective, scalable interventions to promote activity. Self-monitoring by pedometer is a potentially suitable strategy. We assessed the effectiveness and cost-effectiveness of a very brief (5-minute) pedometer-based intervention ('Step It Up') delivered as part of National Health Service (NHS) Health Checks in primary care.\nThe Very Brief Intervention (VBI) Trial was a two parallel-group, randomised controlled trial (RCT) with 3-month follow-up, conducted in 23 primary care practices in the East of England.\nParticipants were 1,007 healthy adults aged 40 to 74 years eligible for an NHS Health Check. They were randomly allocated (1:1) using a web-based tool between October 1, 2014, and December 31, 2015, to either intervention (505) or control group (502), stratified by primary care practice. Participants were aware of study group allocation. Control participants received the NHS Health Check only. Intervention participants additionally received\nStep It Up: a 5-minute face-to-face discussion, written materials, pedometer, and step chart.",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The primary outcome was accelerometer-based physical activity volume at 3-month followup adjusted for sex, 5-year age group, and general practice. Secondary outcomes included time spent in different intensities of physical activity, self-reported physical activity, and economic measures. We conducted an in-depth fidelity assessment on a subsample of Health Check consultations.\nParticipants' mean age was 56 years, two-thirds were female, they were predominantly white, and two-thirds were in paid employment. The primary outcome was available in 859 (85.3%) participants. There was no significant between-group difference in activity volume at 3 months (adjusted intervention effect 8.8 counts per minute; 95% CI −18.7 to 36.3; p = 0.53). We found no significant between-group differences in the secondary outcomes of step counts per day, time spent in moderate or vigorous activity, time spent in vigorous activity, and time spent in moderate-intensity activity (accelerometer-derived variables); as well as in total physical activity, home-based activity, work-based activity, leisure-based activity, commuting physical activity, and screen or TV time (self-reported physical activity variables). Of the 505 intervention participants, 491 (97%) received the Step it Up intervention. Analysis of 37 intervention consultations showed that 60% of Step it Up components were delivered faithfully. The intervention cost £18.04 per participant. Incremental cost to the NHS per 1,000-step increase per day was £96 and to society was £239. Adverse events were reported by 5 intervention participants (of which 2 were serious) and 5 control participants (of which 2 were serious). The study's limitations include a participation rate of 16% and low return of audiotapes by practices for fidelity assessment.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "This large, well-conducted trial of a plausible very brief pedometer-based intervention embedded in NHS Health Checks found no evidence of effect on objectively measured activity at 3-month follow-up. Despite the intervention being apparently simple and very brief, fidelity of delivery was suboptimal. Trial participants were more active than might have been expected. Commissioners should consider effect size, context, population, risk, and opportunity cost in commissioning individual health-service-based preventive interventions. Continual adding of preventive actions of limited benefit to clinical encounters may overburden consultations and adversely impact the efficiency and effectiveness of primary care.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Current Controlled Trials (ISRCTN72691150).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "• Systematic reviews support the effectiveness and cost-effectiveness of brief (up to 30 minutes) physical activity interventions in primary care and the effectiveness of intensive pedometer interventions.\n• There is a need for briefer interventions in primary care, where time is limited but potential reach is large.\n• However, the reviews show uncertainty about the effectiveness and cost-effectiveness of very brief (up to 5 minutes) interventions in primary care.\n• Until now, there have been no randomised controlled trials (RCTs) of a very brief pedometer-based intervention to increase physical activity in primary care.\nSecretariat (PCUPA@medschl.cam.ac.uk) after submitting a proposal and signing a data access agreement. Consent for data sharing was not explicitly obtained from participants, but the data are anonymised, and the risk of identification is low.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The global prevalence of self-reported inactivity among adults-defined as less than 150 minutes of moderate-intensity physical activity per week, or less than 75 minutes of vigorousintensity aerobic activity per week, or an equivalent combination of the two-is 23%. Less than half of United Kingdom adults report meeting recommended physical activity levels. When measured by accelerometer, only 5% achieve recommended levels. Worldwide, physical inactivity is responsible for 6% of coronary heart disease, 7% of type 2 diabetes, 10% of breast cancer, 10% of colon cancer, 9% of all-cause mortality, 3.8% of dementia cases, and 13.4 million disability-adjusted life years. The global cost of physical inactivity was estimated at US$67.5 billion (£46.9 billion, €51.0 billion) in 2013, and the direct cost to the UK National Health Service (NHS) was estimated to be £0.9 billion in 2006-2007 (US$1.34 billion, €1.1 billion, converted at 2007 Purchasing Power Parity).\nIn healthcare settings, very brief interventions (VBIs), defined as deliverable within 5 minutes, are promising: they are potentially scalable and can reach many people cheaply with limited time requirement for health practitioners. Very brief opportunistic behaviour change advice in health and care settings is advocated, for instance, by the Department of Health and Social Care for England and local government. Evidence supports the effectiveness [9] and cost-effectiveness of brief interventions of up to 30 minutes (albeit based on selfreported physical activity), but there is uncertainty about VBIs. Meta-analyses have shown that pedometer interventions can increase walking by 2,000 to 2,500 steps per day. Ina preliminary trial. we evaluated 3 VBIs: a pedometer-based VBI showed most promise in terms of potential efficacy, feasibility, acceptability, and cost.\nWe undertook to (1) estimate the effectiveness of a very brief pedometer-based intervention ('Step it Up') in increasing objectively measured physical activity in adults aged 40 to 74 years attending NHS Health Checks in primary care (a cardiovascular disease [CVD] risk reduction programme) compared with the Health Check alone, (2) estimate its cost-effectiveness compared with the Health Check alone from the perspectives of the NHS and society, and (3) assess the fidelity of delivery and mechanisms underlying any intervention effects.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "This was a two parallel-group, randomised controlled trial (RCT) with 1:1 individual allocation. The study was registered before participant recruitment, and the protocol has been published. The trial compared the Step it Up intervention delivered in an NHS Health Check (intervention group) to the NHS Health Check alone (usual care control group). Follow-up was at 3 months after the Health Check. The study was approved by the East of England-Cambridge East Research Ethics Committee (14/EE/1004). The trial is registered with Current Controlled Trials, number ISRCTN72691150.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "We recruited patients who were eligible for the NHS Health Check, aged between 40 and years, with no diagnosis of vascular disease and not on a care pathway for known risk factors (e.g., raised blood pressure). We excluded patients unable to provide written informed consent (e.g., insufficient grasp of the English language) and patients whose General Practitioner considered them unsuitable for inclusion.\nParticipants were recruited from 23 general practices in urban and rural areas across the East of England: 12 practices in Cambridgeshire, 8 in Hertfordshire and Bedfordshire, and 3 in Norfolk. All participants gave written informed consent.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Each practice was given instructions to randomly select a subsample of 250 eligible patients out of all eligible patients on the database, and two practices randomly selected further subsamples. Individual randomisation was stratified by primary care practice. The allocation ratio was 1:1 with randomly permuted blocks of sizes 2, 4, and 6 to ensure even randomisation and low predictability of assignment within each stratum. Practice staff (nurse or healthcare assistant) randomised the participants at the start of the Health Check using a web-based tool (www.sealedenvelope.com). Practitioners and participants were blind to allocation until this point. The statistical analysis plan was completed prior to the receipt of outcome data for analysis and is available as S1 Text.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Healthcare practitioners attended a 3-hour training session on study procedures and intervention delivery at their practice. To promote fidelity of delivery, practitioners were encouraged to use a brief procedure, a case report form (CRF), and the Step it Up intervention booklet during the consultation.\nParticipant recruitment was through the NHS Health Check programme. Participants were invited to the NHS Health Check by mail and were encouraged to make an appointment with their practice and to mention their interest in taking part in the trial.\nAt the start of the Health Check, the health practitioner obtained informed consent from participants following Good Clinical Practice guidelines. Patients who consented were asked to complete a short questionnaire used to characterise the sample and were randomised. The remainder of the consultation was the usual NHS Health Check (control group) and, additionally, Step it Up for intervention participants. Practitioners were asked to use the CRF as a prompt and a written record of the consultation, which included assessment of self-reported baseline physical activity level.\nParticipants in the control group received the usual NHS Health Check only. This included blood pressure measurement, calculation of BMI from measured height and weight, and collection of a blood sample. This information was used to calculate the patient's modelled CVD risk over the next 10 years and guide the offer of appropriate support. Intervention participants received the NHS Health Check, followed by Step it Up, which had been carefully developed and tested for feasibility, fidelity, acceptability, and potential efficacy.\nStep it Up consisted of a 5-minute face-to-face discussion, provision of a Yamax Digiwalker SW200 pedometer (Polygon Direct Ltd, UK), a Step Chart for self-monitoring, and a Step it Up Booklet. The key behaviour change techniques (BCTs) included in Step it Up were goal setting, action planning, feedback, and self-monitoring of behaviour. Participants were told that 10,000 steps per day was a good target to aim for but were encouraged to gradually increase their step goals each week if they were able to. They were given a Step Chart and encouraged to use this to set weekly step goals and record daily steps. The health practitioners did not suggest specific activities but mentioned that any activity that raises heart rate, makes you breathe a little more heavily, and causes alight sweat counts as physical activity.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Baseline data were collected by practitioners. Outcomes were measured by accelerometer and questionnaires 3 months later, which were returned by participants in reply-paid envelopes.\nThe primary outcome was physical activity (total volume of body movement) measured by tri-axial accelerometry (Actigraph GT3X+ or Actigraph w-GT3X-BT, Actigraph, Pensacola, Florida) expressed as average vector magnitude acceleration (counts per minute [cpm]). Participants were posted an accelerometer on an elastic belt and asked to wear it around their waist on the right hip for 7 consecutive days during waking hours. Data were collected at 60 Hz and integrated into 10-second epochs; we removed non-wear time defined as �90 minutes of consecutive zeros (on the vertical axis) and summarised remaining vector magnitude data into average acceleration (cpm). Data were considered valid if there were at least 3 days of data, each day requiring �600 minutes of wear time. Secondary physical activity outcomes derived from accelerometer data were step counts (average step counts per day, derived from frequency analysis) as well as average number of minutes per day spent in moderate activity (2,690-6,166 cpm), vigorous activity (�6,167 cpm), and moderate or vigorous activity (�2,690 cpm). We did not analyse sedentary/light intensity activity (<2,690 cpm) because it represented an internal category of the variable that would not have a practical interpretation. We collected self-reported physical activity data using the validated Recent Physical Activity Questionnaire (RPAQ), which participants completed following accelerometer wear.\nWe assessed primary and secondary NHS care contacts and out-of-pocket expenditure on health, sports clubs, or other physical activities via a bespoke questionnaire. Work place productivity was based on an adapted version of the validated Work Productivity and Activity Impairment (WPAI) Questionnaire.\nProcess measures in the same questionnaire included recall of the Health Check consultation and enactment of key BCTs included in Step it Up such as goal setting and self-monitoring. To assess fidelity, we selected a random sample of 5 NHS Health Check consultations (10%, intervention and control group) from each practice for audio recording. We obtained 63 audio recordings from out of 23 practices: 37 intervention and 26 control consultations. All consultations were independently doubly coded. Interrater reliability was >75% for all but one item, so we used the data of the main coder for analysis. We decided a priori that levels above 60% constituted an acceptable level of fidelity and decided during data analysis on a contamination level of 30% for control participants receiving intervention components.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "We aimed to recruit a sample size of 1,140 (570 per group) to followup 394 participants per group after 3 months, allowing for missing or incomplete accelerometer data for 30% of randomised participants. This provided 80% power to detect a 0.2-SD ('small') difference in mean activity between groups (40 cpm), based on the SD of 200 cpm estimated in our preliminary trial (alpha = 0.05, two-sided test). As attrition was lower than anticipated at 15%, we could recruit fewer participants in accordance with our protocol.\nWe conducted our analyses according to Consolidated Standards of Reporting Trials (CONSORT) guidelines (S1 Table and agreed the analysis plan a priori with the independent Trial Steering Committee. We used analysis of covariance to test for intervention effects on continuous outcomes and quantified these with differences in means and 95% CIs, adjusting for primary care practice, sex, and age. We used an Intention to Treat (ITT) approach, supported by a Per Protocol (PP) analysis for the primary outcome analysis. The PP population comprised the subset of the ITT population who received their randomised intervention as determined from the CRF completed by the practitioners. All significance tests were two-sided and assessed at the 5% level of significance, and secondary outcome results were interpreted cautiously due to multiple comparisons.\nMissing data for the primary outcome were handled within a sensitivity analysis. This examined the robustness of the main analysis result to its 'Missing at Random' (MAR) assumption by exploring the impact of departures from this assumption on the primary outcome results. We examined a set of optimistic and pessimistic scenarios for the intervention effect size in participants with missing data by prespecifying a range for accelerometer cpm from −50 cpm to +50 cpm over which the mean of the 'unobserved outcome data' in a group might depart (or be different) from the mean of the 'observed outcome data' in that group. Three scenarios were examined in the sensitivity analysis. These reflect whether departures from the MAR assumption applied within the intervention group only, within the control group only, or within both groups equally and in the same direction (thereby potentially cancelling out across the sensitivity range, if the dropout rate were to be the same in both groups).\nWe examined prespecified subgroup variables in relation to the primary outcome: baseline CVD risk, sex, age (40-59, 60-74 years), ethnic group, educational qualifications, employment status, household income, marital status, home ownership, vehicle ownership, a deprivation score (calculated by scoring one point for each of the following: no qualifications, unemployed or full-time student, renting their home, no cars), and the Index of Multiple Deprivation (IMD) 2007, derived from the participant's home postal code. For continuous potential moderators, e.g., modelled 10-year cardiovascular risk, we compared the estimated intervention effect in the highest tertile to that in the combined lower and middle tertiles of the moderator. SPSS version 23.0 (IBM Corporation, Armonk, NY) was used for data checking and analyses.\nWe conducted a within-trial economic evaluation from the perspectives of the NHS (comprising costs of delivering Step it Up and patient NHS contacts) and society (defined as the sum of NHS cost, personal out of pocket expenditure, and morbidity-related lost productivity), reporting incremental cost per 1,000 extra steps per day. Full details are reported in S2 Text.\nWe used descriptive analyses for mechanisms of any intervention effect and fidelity.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The trial had strong patient and public involvement from a panel of 4 members, two of whom were also Trial Steering Committee members. They commented on and contributed to the trial protocol, informed consent procedures and use of the web-based randomisation tool, the patient information sheet and consent form, procedures to increase recruitment and retention rates, and the contents and delivery of the Step it Up intervention, follow-up questionnaire, and the findings and dissemination. We have disseminated the results to our participants.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Based). Mean age was 56 years, and two-thirds of participants were female. They were predominantly white. Two-thirds were in paid employment, and 85% reported having a General Certificate of Secondary Education (GCSE), A-level, or degree-level qualification. Thirty-one percent of participants reported being inactive or moderately inactive.\nAccelerometer cpm at 3-month follow-up (Table and Fig 2 were similar in the control and intervention groups (660 versus 668 cpm, respectively). This corresponds to an adjusted intervention effect of 8.8 cpm (95% CI −18.7 to 36.3).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Sensitivity of the result to missing data. Compared to those with missing primary outcome data, participants who completed follow-up with primary outcome had higher modelled 10-year CVD risk (median 6.7% [IQR 2.7%-11.5%] versus 4.9% [1.9%-8.7%], p = 0.005), were less likely to be in paid employment (59% versus 75%, p < 0.001) and manual workers (25% versus 41%, p = 0.002), and were older (56.6 years [SD = 9.4] versus 52.9 years [SD = 9.4]). When adjusting the primary outcome model for other covariates as a post hoc sensitivity analysis, the results remained nonsignificant (the intervention effect ranged from 5.2 to 11.5) (see S2 Table.\nSensitivity of the results to MAR assumption. In the first sensitivity analysis scenario assuming that participants with unobserved outcome data would take mean values from −50 cpm to +50 cpm from the adjusted observed effect, the resulting intervention effect ranged from 2.8 to 14.8, reflecting departures from the MAR assumption within the intervention group only. For departures within the control group only (scenario 2), the resulting intervention effect ranged from 0.1 to 17.5. For departures within both groups equally and in the same direction (scenario 3), the resulting effect ranged from 6.1 to 11.5. All values within these ranges represent a positive nonsignificant intervention effect and indicate that the main result is robust.  PP analysis. The PP analysis showed no difference in conclusion from the ITT results: data differed in only 2.7% of the participants. The adjusted intervention effect was 9.1 cpm (95% CI −18.6 to 36.7; p = 0.52).\nWe found no evidence for heterogeneity of effect between subgroups, except for modelled CVD risk score. The intervention was associated with a reduction in activity among those at highest CVD risk and an increase in activity among those at lowest CVD risk (p = 0.002) (Table).\nFor secondary outcomes, there were no significant differences between groups in accelerometer-derived step counts per day and time spent in moderate or vigorous, vigorous, and moderate-intensity activity (Table. Similarly, we found no significant differences between groups in self-reported total physical activity, home-based activity, work-based activity, leisure-based activity, commuting physical activity, and screen or TV time (Table and Fig).\nThe intervention cost £18.04 per participant (£11.25 pedometer, £4.67 face-to-face consultation time with nurse, £2.12 materials). Other NHS costs were not statistically significantly different between groups (mean [SE] = +£21.55 [£24.21]). Total societal costs (including intervention, NHS, personal out-of-pocket and lost-productivity costs) were not significantly different either (mean [SE] = +£53.46 [£76.97]). Point estimate incremental cost per 1,000 steps per day was £96.32 from the NHS and £238.89 from the societal perspectives.\nBased on practitioner records, 491 of 505 participants received the Step it Up intervention as planned (Fig). Table shows the process evaluation findings. At 3-month follow-up, significantly more intervention than control participants recalled receiving physical activity advice and intervention materials and reported enacting BCTs (e.g., using a pedometer to count their steps) in daily life.\nThe in-depth fidelity assessment revealed that contamination was minimal: intervention components were delivered in more than 30% of control group sessions for 3 components only, related to discussing physical activity recommendations. This was included in routine Health Checks in several practices, constituting variation in routine care rather than contamination.\nAn estimate of fidelity of intervention delivery based on an in-depth assessment of 37 of 505 (7.3%) audio-recorded consultations was 60%, meaning that-on average-9 out of 15 components were delivered. Components that were relatively poorly delivered concerned the BCTs: giving feedback on physical activity (51.4%), mentioning the effectiveness of pedometers (18.9%), and prompting goal setting (21.6%). Components to promote participant engagement were also relatively poorly delivered, e.g., asking participants whether they were aware of the physical activity recommendations (29.7%) and whether they had any questions (18.9%). There was large variability infidelity of delivery across practices and practitioners. The average duration of the Health Check was a mean (SD) of 15 minutes and 16 seconds (6 minutes and 24 seconds). The average duration of VBI delivery was a mean (SD) of 3 minutes and 9 seconds (1 minute and 51 seconds).\nDuring the trial, 10 participants reported adverse events, 5 in the intervention and 5 in the control group. Four of these were serious adverse events, 1 in the intervention group (stitches to ahead injury after falling while cycling) and 2 in the control group (sepsis and surgery after hospital admission, and being fitted with a pacemaker after experiencing blackouts, respectively). The fourth serious adverse event was a suspected unexpected serious adverse event: an intervention participant reported having a pacemaker fitted between the health check and follow-up assessment but had not been diagnosed with a pre-existing condition.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Our trial showed no evidence fora positive effect of a 5-minute pedometer-based intervention delivered as part of NHS Health Checks in primary care on objectively measured and selfreported physical activity after 3 months, compared to the Health Check alone. Sensitivity analysis indicated that the main result is robust.\nStep it Up resulted in an increase of about 9 accelerometer cpm, whereas we considered an increase of 40 counts-equivalent to a small effect size-to be a minimum clinically significant effect. We found no evidence fora positive intervention effect in any prespecified subgroups, except that the intervention appeared to be more effective among participants with lower modelled CVD risk and less so in those with higher risk. The cost per patient of delivering Step it Up was £18, a small amount and known with reasonable certainty. As anticipated, we observed no statistically significant difference in other costs.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "We discuss potential explanations for our findings in terms of study design, intervention, target group, and context. We demonstrated robust trial execution, so results are unlikely to be due to randomisation errors, confounding, selection bias, differential dropout, or contamination. The two groups were well matched at baseline and 3-month follow-up. Retention at follow-up was high at 85%, and any differences between those lost to follow-up and those who completed follow-up were similar enough in the two groups not to influence the main result. Any differences between groups at follow-up may have been attenuated by higher reactivity of control group participants to wearing an accelerometer as they had not previously received a pedometer. Such reactivity has been observed in previous physical activity trials. Contamination was minimal and does not explain the findings. Suboptimal intervention delivery by practitioners, lack of participant engagement, and insufficient use of key recommended strategies in daily life are potential explanations. Setting physical activity goals is a key strategy, but at 3 months, only 49% of intervention participants-compared with 31% of control participants-reported setting physical activity goals. This maybe due to the finding from the in-depth fidelity assessment that practitioners rarely prompted goal setting. Intervention duration was just over 3 minutes, 2 minutes less than planned (as estimated from the audio recordings) and shorter than the 5 minutes in our previous trial, in which fidelity of delivery of the pedometer intervention was higher at 72%. Brief physical activity advice to control participants may have diluted any effect, but the fidelity assessment suggests that this did not happen. Rather, relatively poor delivery of the BCTs and strategies to increase participant engagement may explain the findings. The training in study procedures proved time-consuming and challenging for some practitioners, which may have affected their ability to master intervention delivery. Perhaps practitioners were rushed for time, lacked skills in engaging participants, or lacked confidence in delivering very brief advice. Finally, the intervention content, which focused on self-monitoring using pedometers, may have been ineffective. However, meta-analyses have shown that more intensive pedometer interventions increase physical activity, and we selected and optimised the intervention after extensive development and pilot work.\nOur target group was already relatively active, and there may have been limited capacity fora VBI to have an effect over and above the Health Check alone. At follow-up, objectively measured step counts in the control group (which provides the best estimate of the absolute physical activity distribution at baseline), though not accounting for any NHS Health Check effect, was 8,191 steps per day. This is slightly higher than observed in similar trials of pedometerbased interventions in UK primary care in Pedometer And Consultation Evaluation [PACE-UP]) as well as higher than 7,380 in the control group and 7,314 in the intervention group of Pedometer Accelerometer Consultation Evaluation-Lift (PACE-Lift). Our intervention had a positive effect among participants with lower CVD risk and a negative effect in those with higher risk, although we interpret this cautiously given the inconsistent directions of effect, the number of subgroup tests, and the very small effect size. Other trials have not found significant associations between cardiovascular risk factors and change in physical activity.\nStep it Up was delivered in a consultation focusing on vascular disease risk, which rendered physical activity benefits for disease prevention particularly salient, whereas our participants were on average 56 years and not on disease registers. Health Checks may not have been the optimal context, although participants in our previous studies mentioned that a discussion about physical activity during Health Checks was a good reminder.\nThe effectiveness of Step it Up maybe increased by better delivery of BCTs and patient engagement in the consultation; offering repeated VBIs; referral to follow-up support delivered by digital technologies, by phone, or face to face; and by having an environment that is supportive of walking and cycling. This requires new research into their cost-effectiveness. Given current financial constraints in the NHS, practitioners could signpost apparently healthy adults of preretirement age to relatively cheap external support such as mobile phone applications or encourage them to purchase a pedometer. VBIs to promote physical activity might best be offered opportunistically to people with long-term conditions for which physical activity is an important component of disease management, as well as to older adults to halt the age-related decline in physical activity, alongside prescribing medication to reduce risk. A populationbased study with repeated physical activity measures showed that middle-aged and older adults, including people with CVD and cancer, can live longer by becoming more physically active, irrespective of past activity levels and risk factors. Physical inactivity is a habitual, environmentally cued behaviour. Inactivity is not simply a challenge for the health service but is a societal problem requiring a multisectoral, multidisciplinary public health response.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "A key strength of our trial was its internal validity. We had a sufficiently large sample size to be able to detect a small effect. Our sample was well-balanced, and retention at 3-month followup was high in both arms. We used a validated objective measure of physical activity and population-based sampling from primary care registers. The intervention was novel in terms of its brevity and inclusion of evidence-based BCTs and was based on extensive development and pilot work.\nWhile it could be argued that absence of baseline measurement is a potential limitation, we believe this not to be the case. With a large sample size and high retention, comparison of values of a precise, objective physical activity measure between intervention and control groups gives a valid estimate of effect. Our estimate is also a fairly good measure of change, assuming that physical activity was similar in the two groups at baseline due to randomisation and follow-up too short for population shifts in the outcome. The main advantage of baseline measures is the improvement in precision due to correlation and ability to analyse group changes overtime, but our large sample size provided sufficient precision. On the other hand, baseline measurement in a pragmatic trial of a VBI has several disadvantages. Measurement effects may preclude an intervention effect on behaviour. Our pilot work showed that baseline measurement, which included objectively measured physical activity, reduced NHS Health Check uptake, which was not acceptable to participating practices as Health Checks constitute routine care. Physical activity screening during the Health Check to exclude very active adults prior to randomisation was not feasible as it would have added time and changed routine practice. Our participants were more active than might have been expected, potentially reducing room for improvement, although self-reported physical activity at baseline did not moderate any intervention effects.\nExternal validity or generalisability from clinical trials is limited by participant profile. Sixteen percent (1,007/6,200) of adults invited agreed to take part and were randomised. This participation rate was similar to the PACE-UP trial, which used population-based sampling in a similar age group (10%), and was lower than PACE-Lift (30%), which recruited among adults in the retirement age from practice records. Our participants were representative of adults attending NHS Health Checks in the East of England. During 2015 and 2019, 47.4% of eligible people in England took up an NHS Health Check invitation. The majority of adults aged 40 to 74 years are employed and may lack time for trial participation. Attrition was low overall, slightly greater in the intervention arm, but this was not found to influence the main finding. Finally, only 13 of 23 practices returned audiotapes, and observed fidelity levels may overestimate actual levels.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The UK PACE-Lift trial evaluated a 10-week pedometer-based intervention in primary care consisting of four 30-minute, individually tailored sessions with practice nurses and found a significant effect at 3 and 12 months (1,037 and 609 additional steps per day, respectively). The UK PACE-UP trial evaluated a 12-week pedometer-based intervention delivered by mail only and by mail plus three 20-minute practice nurse consultations. Both interventions significantly increased step counts per day at 12 months (642 for the postal and 677 for the nurse intervention) and 3-year follow-up (627 for the postal and 670 for the nurse intervention) compared to the control group, which received usual care, with no significant additional benefit of the nurse intervention at either follow-up.\nOur findings do not imply that primary care practitioners should refrain from providing (very) brief physical activity advice opportunistically as our evidence is limited to NHS Health Checks. They should be considered in the context of meta-analytic evidence supporting intensive pedometer interventions in predominantly small samples of younger participants, the potential scope for more faithful delivery of VBIs, 30-minute brief physical activity advice in primary care, more intensive pedometer-based interventions in primary care among slightly less active participants who received individualised walking plans, and contacts with practice nurses or research assistants.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "56.5 (9.4)",
+          "rowHeaders": [
+            "Mean (SD) age"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline characteristics of participants allocated to intervention and control groups. Values are percent-",
+            "Control (n = 502)"
+          ]
+        },
+        {
+          "value": "55.7 (9.6)",
+          "rowHeaders": [
+            "Mean (SD) age"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline characteristics of participants allocated to intervention and control groups. Values are percent-",
+            "Intervention (n = 505)"
+          ]
+        },
+        {
+          "value": "61% (305)",
+          "rowHeaders": [
+            "Female"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline characteristics of participants allocated to intervention and control groups. Values are percent-",
+            "Control (n = 502)"
+          ]
+        },
+        {
+          "value": "63% (316)",
+          "rowHeaders": [
+            "Female"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline characteristics of participants allocated to intervention and control groups. Values are percent-",
+            "Intervention (n = 505)"
+          ]
+        },
+        {
+          "value": "95% (476/500)",
+          "rowHeaders": [
+            "White ethnicity"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline characteristics of participants allocated to intervention and control groups. Values are percent-",
+            "Control (n = 502)"
+          ]
+        },
+        {
+          "value": "96% (484/504)",
+          "rowHeaders": [
+            "White ethnicity"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline characteristics of participants allocated to intervention and control groups. Values are percent-",
+            "Intervention (n = 505)"
+          ]
+        },
+        {
+          "value": "81% (375/465)",
+          "rowHeaders": [
+            "Married or cohabiting"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline characteristics of participants allocated to intervention and control groups. Values are percent-",
+            "Control (n = 502)"
+          ]
+        },
+        {
+          "value": "80% (383/480)",
+          "rowHeaders": [
+            "Married or cohabiting"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline characteristics of participants allocated to intervention and control groups. Values are percent-",
+            "Intervention (n = 505)"
+          ]
+        },
+        {
+          "value": "35% (164/468)",
+          "rowHeaders": [
+            "Have dependants"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline characteristics of participants allocated to intervention and control groups. Values are percent-",
+            "Control (n = 502)"
+          ]
+        },
+        {
+          "value": "39% (186/482)",
+          "rowHeaders": [
+            "Have dependants"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline characteristics of participants allocated to intervention and control groups. Values are percent-",
+            "Intervention (n = 505)"
+          ]
+        },
+        {
+          "value": "61% (286)",
+          "rowHeaders": [
+            "Paid work"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline characteristics of participants allocated to intervention and control groups. Values are percent-",
+            "Control (n = 502)",
+            "n = 472"
+          ]
+        },
+        {
+          "value": "62% (301)",
+          "rowHeaders": [
+            "Paid work"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline characteristics of participants allocated to intervention and control groups. Values are percent-",
+            "Intervention (n = 505)",
+            "n = 482"
+          ]
+        },
+        {
+          "value": "32% (153)",
+          "rowHeaders": [
+            "Retired"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline characteristics of participants allocated to intervention and control groups. Values are percent-",
+            "Control (n = 502)",
+            "n = 472"
+          ]
+        },
+        {
+          "value": "31% (148)",
+          "rowHeaders": [
+            "Retired"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline characteristics of participants allocated to intervention and control groups. Values are percent-",
+            "Intervention (n = 505)",
+            "n = 482"
+          ]
+        },
+        {
+          "value": "26% (105)",
+          "rowHeaders": [
+            "Less than £18,000"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline characteristics of participants allocated to intervention and control groups. Values are percent-",
+            "Control (n = 502)",
+            "n = 472",
+            "n = 410"
+          ]
+        },
+        {
+          "value": "21% (88)",
+          "rowHeaders": [
+            "Less than £18,000"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline characteristics of participants allocated to intervention and control groups. Values are percent-",
+            "Intervention (n = 505)",
+            "n = 482",
+            "n = 424"
+          ]
+        },
+        {
+          "value": "22% (91)",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 1. Baseline characteristics of participants allocated to intervention and control groups. Values are percent-",
+            "Control (n = 502)",
+            "n = 472",
+            "n = 410"
+          ]
+        },
+        {
+          "value": "22% (94)",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 1. Baseline characteristics of participants allocated to intervention and control groups. Values are percent-",
+            "Intervention (n = 505)",
+            "n = 482",
+            "n = 424"
+          ]
+        },
+        {
+          "value": "28% (114)",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 1. Baseline characteristics of participants allocated to intervention and control groups. Values are percent-",
+            "Control (n = 502)",
+            "n = 472",
+            "n = 410"
+          ]
+        },
+        {
+          "value": "29% (124)",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 1. Baseline characteristics of participants allocated to intervention and control groups. Values are percent-",
+            "Intervention (n = 505)",
+            "n = 482",
+            "n = 424"
+          ]
+        },
+        {
+          "value": "18% (72)",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 1. Baseline characteristics of participants allocated to intervention and control groups. Values are percent-",
+            "Control (n = 502)",
+            "n = 472",
+            "n = 410"
+          ]
+        },
+        {
+          "value": "20% (85)",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 1. Baseline characteristics of participants allocated to intervention and control groups. Values are percent-",
+            "Intervention (n = 505)",
+            "n = 482",
+            "n = 424"
+          ]
+        },
+        {
+          "value": "24% (71)",
+          "rowHeaders": [
+            "Manual"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline characteristics of participants allocated to intervention and control groups. Values are percent-",
+            "Control (n = 502)",
+            "n = 472",
+            "n = 410",
+            "n = 295"
+          ]
+        },
+        {
+          "value": "27% (84)",
+          "rowHeaders": [
+            "Manual"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline characteristics of participants allocated to intervention and control groups. Values are percent-",
+            "Intervention (n = 505)",
+            "n = 482",
+            "n = 424",
+            "n = 314"
+          ]
+        },
+        {
+          "value": "68% (200)",
+          "rowHeaders": [
+            "Nonmanual"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline characteristics of participants allocated to intervention and control groups. Values are percent-",
+            "Control (n = 502)",
+            "n = 472",
+            "n = 410",
+            "n = 295"
+          ]
+        },
+        {
+          "value": "65% (203)",
+          "rowHeaders": [
+            "Nonmanual"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline characteristics of participants allocated to intervention and control groups. Values are percent-",
+            "Intervention (n = 505)",
+            "n = 482",
+            "n = 424",
+            "n = 314"
+          ]
+        },
+        {
+          "value": "60% (290)",
+          "rowHeaders": [
+            "GCSE"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline characteristics of participants allocated to intervention and control groups. Values are percent-",
+            "Control (n = 502)",
+            "n = 472",
+            "n = 410",
+            "n = 295",
+            "n = 485"
+          ]
+        },
+        {
+          "value": "66% (326)",
+          "rowHeaders": [
+            "GCSE"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline characteristics of participants allocated to intervention and control groups. Values are percent-",
+            "Intervention (n = 505)",
+            "n = 482",
+            "n = 424",
+            "n = 314",
+            "n = 494"
+          ]
+        },
+        {
+          "value": "19% (91)",
+          "rowHeaders": [
+            "Degree"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline characteristics of participants allocated to intervention and control groups. Values are percent-",
+            "Control (n = 502)",
+            "n = 472",
+            "n = 410",
+            "n = 295",
+            "n = 485"
+          ]
+        },
+        {
+          "value": "15% (76)",
+          "rowHeaders": [
+            "Degree"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline characteristics of participants allocated to intervention and control groups. Values are percent-",
+            "Intervention (n = 505)",
+            "n = 482",
+            "n = 424",
+            "n = 314",
+            "n = 494"
+          ]
+        },
+        {
+          "value": "86% (399)",
+          "rowHeaders": [
+            "Ownership"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline characteristics of participants allocated to intervention and control groups. Values are percent-",
+            "Control (n = 502)",
+            "n = 472",
+            "n = 410",
+            "n = 295",
+            "n = 485",
+            "n = 464"
+          ]
+        },
+        {
+          "value": "88% (423)",
+          "rowHeaders": [
+            "Ownership"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline characteristics of participants allocated to intervention and control groups. Values are percent-",
+            "Intervention (n = 505)",
+            "n = 482",
+            "n = 424",
+            "n = 314",
+            "n = 494",
+            "n = 482"
+          ]
+        },
+        {
+          "value": "13% (59)",
+          "rowHeaders": [
+            "Rent"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline characteristics of participants allocated to intervention and control groups. Values are percent-",
+            "Control (n = 502)",
+            "n = 472",
+            "n = 410",
+            "n = 295",
+            "n = 485",
+            "n = 464"
+          ]
+        },
+        {
+          "value": "11% (51)",
+          "rowHeaders": [
+            "Rent"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline characteristics of participants allocated to intervention and control groups. Values are percent-",
+            "Intervention (n = 505)",
+            "n = 482",
+            "n = 424",
+            "n = 314",
+            "n = 494",
+            "n = 482"
+          ]
+        },
+        {
+          "value": "94% (442/469)",
+          "rowHeaders": [
+            "Car ownership"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline characteristics of participants allocated to intervention and control groups. Values are percent-",
+            "Control (n = 502)",
+            "n = 472",
+            "n = 410",
+            "n = 295",
+            "n = 485",
+            "n = 464"
+          ]
+        },
+        {
+          "value": "95% (458/483)",
+          "rowHeaders": [
+            "Car ownership"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline characteristics of participants allocated to intervention and control groups. Values are percent-",
+            "Intervention (n = 505)",
+            "n = 482",
+            "n = 424",
+            "n = 314",
+            "n = 494",
+            "n = 482"
+          ]
+        },
+        {
+          "value": "76% (341)",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 1. Baseline characteristics of participants allocated to intervention and control groups. Values are percent-",
+            "Control (n = 502)",
+            "n = 472",
+            "n = 410",
+            "n = 295",
+            "n = 485",
+            "n = 464",
+            "n = 450"
+          ]
+        },
+        {
+          "value": "81% (384)",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 1. Baseline characteristics of participants allocated to intervention and control groups. Values are percent-",
+            "Intervention (n = 505)",
+            "n = 482",
+            "n = 424",
+            "n = 314",
+            "n = 494",
+            "n = 482",
+            "n = 473"
+          ]
+        },
+        {
+          "value": "19% (84)",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 1. Baseline characteristics of participants allocated to intervention and control groups. Values are percent-",
+            "Control (n = 502)",
+            "n = 472",
+            "n = 410",
+            "n = 295",
+            "n = 485",
+            "n = 464",
+            "n = 450"
+          ]
+        },
+        {
+          "value": "14% (65)",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 1. Baseline characteristics of participants allocated to intervention and control groups. Values are percent-",
+            "Intervention (n = 505)",
+            "n = 482",
+            "n = 424",
+            "n = 314",
+            "n = 494",
+            "n = 482",
+            "n = 473"
+          ]
+        },
+        {
+          "value": "0.2% (1)",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 1. Baseline characteristics of participants allocated to intervention and control groups. Values are percent-",
+            "Control (n = 502)",
+            "n = 472",
+            "n = 410",
+            "n = 295",
+            "n = 485",
+            "n = 464",
+            "n = 450"
+          ]
+        },
+        {
+          "value": "0.2% (1)",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 1. Baseline characteristics of participants allocated to intervention and control groups. Values are percent-",
+            "Control (n = 502)",
+            "n = 472",
+            "n = 410",
+            "n = 295",
+            "n = 485",
+            "n = 464",
+            "n = 450"
+          ]
+        },
+        {
+          "value": "11.1 (5.7-18.9)",
+          "rowHeaders": [
+            "Moderately inactive"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline characteristics of participants allocated to intervention and control groups. Values are percent-",
+            "Control (n = 502)",
+            "n = 472",
+            "n = 410",
+            "n = 295",
+            "n = 485",
+            "n = 464",
+            "n = 450",
+            "n = 502"
+          ]
+        },
+        {
+          "value": "10.9 (5.9-18.0)",
+          "rowHeaders": [
+            "Moderately inactive"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline characteristics of participants allocated to intervention and control groups. Values are percent-",
+            "Intervention (n = 505)",
+            "n = 482",
+            "n = 424",
+            "n = 314",
+            "n = 494",
+            "n = 482",
+            "n = 473",
+            "n = 505"
+          ]
+        },
+        {
+          "value": "6.45% (2.76%-11.34%)",
+          "rowHeaders": [
+            "Moderately inactive"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline characteristics of participants allocated to intervention and control groups. Values are percent-",
+            "Control (n = 502)",
+            "n = 472",
+            "n = 410",
+            "n = 295",
+            "n = 485",
+            "n = 464",
+            "n = 450",
+            "n = 502",
+            "n = 487"
+          ]
+        },
+        {
+          "value": "6.30% (2.40%-10.89%)",
+          "rowHeaders": [
+            "Moderately inactive"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline characteristics of participants allocated to intervention and control groups. Values are percent-",
+            "Intervention (n = 505)",
+            "n = 482",
+            "n = 424",
+            "n = 314",
+            "n = 494",
+            "n = 482",
+            "n = 473",
+            "n = 505",
+            "n = 498"
+          ]
+        },
+        {
+          "value": "12.5% (63)",
+          "rowHeaders": [
+            "Inactive"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline characteristics of participants allocated to intervention and control groups. Values are percent-",
+            "Control (n = 502)",
+            "n = 472",
+            "n = 410",
+            "n = 295",
+            "n = 485",
+            "n = 464",
+            "n = 450",
+            "n = 502",
+            "n = 487",
+            "n = 502"
+          ]
+        },
+        {
+          "value": "13.7% (69)",
+          "rowHeaders": [
+            "Inactive"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline characteristics of participants allocated to intervention and control groups. Values are percent-",
+            "Intervention (n = 505)",
+            "n = 482",
+            "n = 424",
+            "n = 314",
+            "n = 494",
+            "n = 482",
+            "n = 473",
+            "n = 505",
+            "n = 498",
+            "n = 505"
+          ]
+        },
+        {
+          "value": "19.3% (97)",
+          "rowHeaders": [
+            "Moderately inactive"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline characteristics of participants allocated to intervention and control groups. Values are percent-",
+            "Control (n = 502)",
+            "n = 472",
+            "n = 410",
+            "n = 295",
+            "n = 485",
+            "n = 464",
+            "n = 450",
+            "n = 502",
+            "n = 487",
+            "n = 502"
+          ]
+        },
+        {
+          "value": "16.0% (81)",
+          "rowHeaders": [
+            "Moderately inactive"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline characteristics of participants allocated to intervention and control groups. Values are percent-",
+            "Intervention (n = 505)",
+            "n = 482",
+            "n = 424",
+            "n = 314",
+            "n = 494",
+            "n = 482",
+            "n = 473",
+            "n = 505",
+            "n = 498",
+            "n = 505"
+          ]
+        },
+        {
+          "value": "35.1% (176)",
+          "rowHeaders": [
+            "Moderately active"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline characteristics of participants allocated to intervention and control groups. Values are percent-",
+            "Control (n = 502)",
+            "n = 472",
+            "n = 410",
+            "n = 295",
+            "n = 485",
+            "n = 464",
+            "n = 450",
+            "n = 502",
+            "n = 487",
+            "n = 502"
+          ]
+        },
+        {
+          "value": "35.2% (178)",
+          "rowHeaders": [
+            "Moderately active"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline characteristics of participants allocated to intervention and control groups. Values are percent-",
+            "Intervention (n = 505)",
+            "n = 482",
+            "n = 424",
+            "n = 314",
+            "n = 494",
+            "n = 482",
+            "n = 473",
+            "n = 505",
+            "n = 498",
+            "n = 505"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "442",
+          "rowHeaders": [
+            "Total physical activity volume (cpm)"
+          ],
+          "columnHeaders": [
+            "Table 2. Objectively measured physical activity by trial group and between-group differences at 3-month follow-up.",
+            "Control",
+            "N"
+          ]
+        },
+        {
+          "value": "660 (641 to 679)",
+          "rowHeaders": [
+            "Total physical activity volume (cpm)"
+          ],
+          "columnHeaders": [
+            "Table 2. Objectively measured physical activity by trial group and between-group differences at 3-month follow-up.",
+            "Control",
+            "Mean (95% CI)"
+          ]
+        },
+        {
+          "value": "417",
+          "rowHeaders": [
+            "Total physical activity volume (cpm)"
+          ],
+          "columnHeaders": [
+            "Table 2. Objectively measured physical activity by trial group and between-group differences at 3-month follow-up.",
+            "Intervention",
+            "N"
+          ]
+        },
+        {
+          "value": "668 (648 to 689)",
+          "rowHeaders": [
+            "Total physical activity volume (cpm)"
+          ],
+          "columnHeaders": [
+            "Table 2. Objectively measured physical activity by trial group and between-group differences at 3-month follow-up.",
+            "Intervention",
+            "Mean (95% CI)"
+          ]
+        },
+        {
+          "value": "8.8 (−18.7 to",
+          "rowHeaders": [
+            "Total physical activity volume (cpm)"
+          ],
+          "columnHeaders": [
+            "Table 2. Objectively measured physical activity by trial group and between-group differences at 3-month follow-up.",
+            "Intervention relative to control",
+            "Comparison of means"
+          ]
+        },
+        {
+          "value": "36.3)",
+          "rowHeaders": [
+            "Total physical activity volume (cpm)"
+          ],
+          "columnHeaders": [
+            "Table 2. Objectively measured physical activity by trial group and between-group differences at 3-month follow-up.",
+            "Intervention relative to control",
+            "Comparison of means"
+          ]
+        },
+        {
+          "value": "0.53",
+          "rowHeaders": [
+            "Total physical activity volume (cpm)"
+          ],
+          "columnHeaders": [
+            "Table 2. Objectively measured physical activity by trial group and between-group differences at 3-month follow-up.",
+            "Intervention relative to control",
+            "p-Value"
+          ]
+        },
+        {
+          "value": "442",
+          "rowHeaders": [
+            "Step counts per day"
+          ],
+          "columnHeaders": [
+            "Table 2. Objectively measured physical activity by trial group and between-group differences at 3-month follow-up.",
+            "Control",
+            "N"
+          ]
+        },
+        {
+          "value": "417",
+          "rowHeaders": [
+            "Step counts per day",
+            "8,191 (7,911 to 8,471)"
+          ],
+          "columnHeaders": [
+            "Table 2. Objectively measured physical activity by trial group and between-group differences at 3-month follow-up.",
+            "Intervention",
+            "N"
+          ]
+        },
+        {
+          "value": "242 (−172 to 656)",
+          "rowHeaders": [
+            "Step counts per day",
+            "8,191 (7,911 to 8,471)",
+            "8,419 (8,110 to 8,729)"
+          ],
+          "columnHeaders": [
+            "Table 2. Objectively measured physical activity by trial group and between-group differences at 3-month follow-up.",
+            "Intervention relative to control",
+            "Comparison of means"
+          ]
+        },
+        {
+          "value": "0.25",
+          "rowHeaders": [
+            "Step counts per day",
+            "8,191 (7,911 to 8,471)",
+            "8,419 (8,110 to 8,729)"
+          ],
+          "columnHeaders": [
+            "Table 2. Objectively measured physical activity by trial group and between-group differences at 3-month follow-up.",
+            "Intervention relative to control",
+            "p-Value"
+          ]
+        },
+        {
+          "value": "442",
+          "rowHeaders": [
+            "Time (min/d) in moderate or vigorous activity"
+          ],
+          "columnHeaders": [
+            "Table 2. Objectively measured physical activity by trial group and between-group differences at 3-month follow-up.",
+            "Control",
+            "N"
+          ]
+        },
+        {
+          "value": "76.7",
+          "rowHeaders": [
+            "Time (min/d) in moderate or vigorous activity"
+          ],
+          "columnHeaders": [
+            "Table 2. Objectively measured physical activity by trial group and between-group differences at 3-month follow-up.",
+            "Control",
+            "Mean (95% CI)"
+          ]
+        },
+        {
+          "value": "(73.5 to",
+          "rowHeaders": [
+            "Time (min/d) in moderate or vigorous activity"
+          ],
+          "columnHeaders": [
+            "Table 2. Objectively measured physical activity by trial group and between-group differences at 3-month follow-up.",
+            "Control",
+            "Mean (95% CI)"
+          ]
+        },
+        {
+          "value": "80.1)",
+          "rowHeaders": [
+            "Time (min/d) in moderate or vigorous activity"
+          ],
+          "columnHeaders": [
+            "Table 2. Objectively measured physical activity by trial group and between-group differences at 3-month follow-up.",
+            "Control"
+          ]
+        },
+        {
+          "value": "417",
+          "rowHeaders": [
+            "Time (min/d) in moderate or vigorous activity"
+          ],
+          "columnHeaders": [
+            "Table 2. Objectively measured physical activity by trial group and between-group differences at 3-month follow-up.",
+            "Intervention",
+            "N"
+          ]
+        },
+        {
+          "value": "77.3",
+          "rowHeaders": [
+            "Time (min/d) in moderate or vigorous activity"
+          ],
+          "columnHeaders": [
+            "Table 2. Objectively measured physical activity by trial group and between-group differences at 3-month follow-up.",
+            "Intervention",
+            "Mean (95% CI)"
+          ]
+        },
+        {
+          "value": "(73.9 to",
+          "rowHeaders": [
+            "Time (min/d) in moderate or vigorous activity"
+          ],
+          "columnHeaders": [
+            "Table 2. Objectively measured physical activity by trial group and between-group differences at 3-month follow-up.",
+            "Intervention",
+            "Mean (95% CI)"
+          ]
+        },
+        {
+          "value": "80.9)",
+          "rowHeaders": [
+            "Time (min/d) in moderate or vigorous activity"
+          ],
+          "columnHeaders": [
+            "Table 2. Objectively measured physical activity by trial group and between-group differences at 3-month follow-up.",
+            "Intervention"
+          ]
+        },
+        {
+          "value": "0.9% (−4.9% to 7.2%)",
+          "rowHeaders": [
+            "Time (min/d) in moderate or vigorous activity"
+          ],
+          "columnHeaders": [
+            "Table 2. Objectively measured physical activity by trial group and between-group differences at 3-month follow-up.",
+            "Intervention relative to control",
+            "Comparison of means"
+          ]
+        },
+        {
+          "value": "0.76",
+          "rowHeaders": [
+            "Time (min/d) in moderate or vigorous activity"
+          ],
+          "columnHeaders": [
+            "Table 2. Objectively measured physical activity by trial group and between-group differences at 3-month follow-up.",
+            "Intervention relative to control",
+            "p-Value"
+          ]
+        },
+        {
+          "value": "442",
+          "rowHeaders": [
+            "Time (min/d) in vigorous activity"
+          ],
+          "columnHeaders": [
+            "Table 2. Objectively measured physical activity by trial group and between-group differences at 3-month follow-up.",
+            "Control",
+            "N"
+          ]
+        },
+        {
+          "value": "2.9",
+          "rowHeaders": [
+            "Time (min/d) in vigorous activity"
+          ],
+          "columnHeaders": [
+            "Table 2. Objectively measured physical activity by trial group and between-group differences at 3-month follow-up.",
+            "Control",
+            "Mean (95% CI)"
+          ]
+        },
+        {
+          "value": "(2.6 to",
+          "rowHeaders": [
+            "Time (min/d) in vigorous activity"
+          ],
+          "columnHeaders": [
+            "Table 2. Objectively measured physical activity by trial group and between-group differences at 3-month follow-up.",
+            "Control",
+            "Mean (95% CI)"
+          ]
+        },
+        {
+          "value": "3.2)",
+          "rowHeaders": [
+            "Time (min/d) in vigorous activity"
+          ],
+          "columnHeaders": [
+            "Table 2. Objectively measured physical activity by trial group and between-group differences at 3-month follow-up.",
+            "Control",
+            "Mean (95% CI)"
+          ]
+        },
+        {
+          "value": "417",
+          "rowHeaders": [
+            "Time (min/d) in vigorous activity"
+          ],
+          "columnHeaders": [
+            "Table 2. Objectively measured physical activity by trial group and between-group differences at 3-month follow-up.",
+            "Intervention",
+            "N"
+          ]
+        },
+        {
+          "value": "3.2",
+          "rowHeaders": [
+            "Time (min/d) in vigorous activity"
+          ],
+          "columnHeaders": [
+            "Table 2. Objectively measured physical activity by trial group and between-group differences at 3-month follow-up.",
+            "Intervention",
+            "Mean (95% CI)"
+          ]
+        },
+        {
+          "value": "(2.9 to",
+          "rowHeaders": [
+            "Time (min/d) in vigorous activity"
+          ],
+          "columnHeaders": [
+            "Table 2. Objectively measured physical activity by trial group and between-group differences at 3-month follow-up.",
+            "Intervention",
+            "Mean (95% CI)"
+          ]
+        },
+        {
+          "value": "3.6)",
+          "rowHeaders": [
+            "Time (min/d) in vigorous activity"
+          ],
+          "columnHeaders": [
+            "Table 2. Objectively measured physical activity by trial group and between-group differences at 3-month follow-up.",
+            "Intervention",
+            "Mean (95% CI)"
+          ]
+        },
+        {
+          "value": "11.9% (−2.9% to 28.8%)",
+          "rowHeaders": [
+            "Time (min/d) in vigorous activity"
+          ],
+          "columnHeaders": [
+            "Table 2. Objectively measured physical activity by trial group and between-group differences at 3-month follow-up.",
+            "Intervention relative to control",
+            "Comparison of means"
+          ]
+        },
+        {
+          "value": "0.12",
+          "rowHeaders": [
+            "Time (min/d) in vigorous activity"
+          ],
+          "columnHeaders": [
+            "Table 2. Objectively measured physical activity by trial group and between-group differences at 3-month follow-up.",
+            "Intervention relative to control",
+            "p-Value"
+          ]
+        },
+        {
+          "value": "442",
+          "rowHeaders": [
+            "Time (min/d) in moderate activity"
+          ],
+          "columnHeaders": [
+            "Table 2. Objectively measured physical activity by trial group and between-group differences at 3-month follow-up.",
+            "Control",
+            "N"
+          ]
+        },
+        {
+          "value": "71.8",
+          "rowHeaders": [
+            "Time (min/d) in moderate activity"
+          ],
+          "columnHeaders": [
+            "Table 2. Objectively measured physical activity by trial group and between-group differences at 3-month follow-up.",
+            "Control",
+            "Mean (95% CI)"
+          ]
+        },
+        {
+          "value": "(68.9 to",
+          "rowHeaders": [
+            "Time (min/d) in moderate activity"
+          ],
+          "columnHeaders": [
+            "Table 2. Objectively measured physical activity by trial group and between-group differences at 3-month follow-up.",
+            "Control",
+            "Mean (95% CI)"
+          ]
+        },
+        {
+          "value": "74.8)",
+          "rowHeaders": [
+            "Time (min/d) in moderate activity"
+          ],
+          "columnHeaders": [
+            "Table 2. Objectively measured physical activity by trial group and between-group differences at 3-month follow-up.",
+            "Control"
+          ]
+        },
+        {
+          "value": "417",
+          "rowHeaders": [
+            "Time (min/d) in moderate activity"
+          ],
+          "columnHeaders": [
+            "Table 2. Objectively measured physical activity by trial group and between-group differences at 3-month follow-up.",
+            "Intervention",
+            "N"
+          ]
+        },
+        {
+          "value": "72.0",
+          "rowHeaders": [
+            "Time (min/d) in moderate activity"
+          ],
+          "columnHeaders": [
+            "Table 2. Objectively measured physical activity by trial group and between-group differences at 3-month follow-up.",
+            "Intervention",
+            "Mean (95% CI)"
+          ]
+        },
+        {
+          "value": "(68.8 to",
+          "rowHeaders": [
+            "Time (min/d) in moderate activity"
+          ],
+          "columnHeaders": [
+            "Table 2. Objectively measured physical activity by trial group and between-group differences at 3-month follow-up.",
+            "Intervention",
+            "Mean (95% CI)"
+          ]
+        },
+        {
+          "value": "75.2)",
+          "rowHeaders": [
+            "Time (min/d) in moderate activity"
+          ],
+          "columnHeaders": [
+            "Table 2. Objectively measured physical activity by trial group and between-group differences at 3-month follow-up.",
+            "Intervention"
+          ]
+        },
+        {
+          "value": "0.3% (−5.4% to 6.5%)",
+          "rowHeaders": [
+            "Time (min/d) in moderate activity"
+          ],
+          "columnHeaders": [
+            "Table 2. Objectively measured physical activity by trial group and between-group differences at 3-month follow-up.",
+            "Intervention relative to control",
+            "Comparison of means"
+          ]
+        },
+        {
+          "value": "0.91",
+          "rowHeaders": [
+            "Time (min/d) in moderate activity"
+          ],
+          "columnHeaders": [
+            "Table 2. Objectively measured physical activity by trial group and between-group differences at 3-month follow-up.",
+            "Intervention relative to control",
+            "p-Value"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "0.35",
+          "rowHeaders": [
+            "Sex",
+            "Females",
+            "Not manual/other",
+            "Males"
+          ],
+          "columnHeaders": [
+            "Table 3. Subgroup analyses of primary outcome.",
+            "Test between subgroups",
+            "Intervention-Control Mean (95% CI)",
+            "p-Value"
+          ]
+        },
+        {
+          "value": "19.3 (−15.9 to",
+          "rowHeaders": [
+            "Deprivation score"
+          ],
+          "columnHeaders": [
+            "Table 3. Subgroup analyses of primary outcome.",
+            "Subgroup 1",
+            "Intervention-Control Mean (95% CI)",
+            "Difference (95% CI)"
+          ]
+        },
+        {
+          "value": "54.5)",
+          "rowHeaders": [
+            "Deprivation score",
+            "60 to 74 years"
+          ],
+          "columnHeaders": [
+            "Table 3. Subgroup analyses of primary outcome.",
+            "Subgroup 1",
+            "Intervention-Control Mean (95% CI)",
+            "Difference (95% CI)"
+          ]
+        },
+        {
+          "value": "−7.9 (−52.4 to",
+          "rowHeaders": [
+            "Deprivation score",
+            "60 to 74 years",
+            "Not manual/other"
+          ],
+          "columnHeaders": [
+            "Table 3. Subgroup analyses of primary outcome.",
+            "Subgroup 2",
+            "Intervention-Control Mean (95% CI)",
+            "Difference (95% CI)"
+          ]
+        },
+        {
+          "value": "36.6)",
+          "rowHeaders": [
+            "Deprivation score",
+            "Married/cohabiting",
+            "Not manual/other",
+            "40 to 59 years"
+          ],
+          "columnHeaders": [
+            "Table 3. Subgroup analyses of primary outcome.",
+            "Test between subgroups",
+            "Intervention-Control Mean (95% CI)",
+            "Difference (95% CI)"
+          ]
+        },
+        {
+          "value": "0.24",
+          "rowHeaders": [
+            "Age",
+            "60 to 74 years",
+            "Not manual/other",
+            "40 to 59 years"
+          ],
+          "columnHeaders": [
+            "Table 3. Subgroup analyses of primary outcome.",
+            "Test between subgroups",
+            "Intervention-Control Mean (95% CI)",
+            "p-Value"
+          ]
+        },
+        {
+          "value": "−10.3 (−52.6 to",
+          "rowHeaders": [
+            "Deprivation score"
+          ],
+          "columnHeaders": [
+            "Table 3. Subgroup analyses of primary outcome.",
+            "Subgroup 1",
+            "Intervention-Control Mean (95% CI)",
+            "Difference (95% CI)"
+          ]
+        },
+        {
+          "value": "32.0)",
+          "rowHeaders": [
+            "Deprivation score",
+            "60 to 74 years"
+          ],
+          "columnHeaders": [
+            "Table 3. Subgroup analyses of primary outcome.",
+            "Subgroup 2",
+            "Intervention-Control Mean (95% CI)",
+            "Difference (95% CI)"
+          ]
+        },
+        {
+          "value": "23.2 (−13.4 to",
+          "rowHeaders": [
+            "Deprivation score",
+            "Married/cohabiting",
+            "Not manual/other"
+          ],
+          "columnHeaders": [
+            "Table 3. Subgroup analyses of primary outcome.",
+            "Subgroup 2",
+            "Intervention-Control Mean (95% CI)",
+            "Difference (95% CI)"
+          ]
+        },
+        {
+          "value": "59.8)",
+          "rowHeaders": [
+            "Deprivation score",
+            "Married/cohabiting",
+            "Not manual/other",
+            "40 to 59 years"
+          ],
+          "columnHeaders": [
+            "Table 3. Subgroup analyses of primary outcome.",
+            "Test between subgroups",
+            "Intervention-Control Mean (95% CI)",
+            "Difference (95% CI)"
+          ]
+        },
+        {
+          "value": "0.50",
+          "rowHeaders": [
+            "Deprivation score",
+            "Score > 0",
+            "Not manual/other",
+            "Score = 0"
+          ],
+          "columnHeaders": [
+            "Table 3. Subgroup analyses of primary outcome.",
+            "Test between subgroups",
+            "Intervention-Control Mean (95% CI)",
+            "p-Value"
+          ]
+        },
+        {
+          "value": "34.6 (−30.4 to",
+          "rowHeaders": [
+            "Deprivation score"
+          ],
+          "columnHeaders": [
+            "Table 3. Subgroup analyses of primary outcome.",
+            "Subgroup 1",
+            "Intervention-Control Mean (95% CI)",
+            "Difference (95% CI)"
+          ]
+        },
+        {
+          "value": "99.5)",
+          "rowHeaders": [
+            "Deprivation score",
+            "Score > 0"
+          ],
+          "columnHeaders": [
+            "Table 3. Subgroup analyses of primary outcome.",
+            "Subgroup 1",
+            "Intervention-Control Mean (95% CI)",
+            "Difference (95% CI)"
+          ]
+        },
+        {
+          "value": "9.7 (−23.0 to",
+          "rowHeaders": [
+            "Deprivation score",
+            "Married/cohabiting",
+            "Not manual/other"
+          ],
+          "columnHeaders": [
+            "Table 3. Subgroup analyses of primary outcome.",
+            "Subgroup 2",
+            "Intervention-Control Mean (95% CI)",
+            "Difference (95% CI)"
+          ]
+        },
+        {
+          "value": "42.3)",
+          "rowHeaders": [
+            "Deprivation score",
+            "Married/cohabiting",
+            "Not manual/other",
+            "Score = 0"
+          ],
+          "columnHeaders": [
+            "Table 3. Subgroup analyses of primary outcome.",
+            "Subgroup 2",
+            "Intervention-Control Mean (95% CI)",
+            "Difference (95% CI)"
+          ]
+        },
+        {
+          "value": "0.95",
+          "rowHeaders": [
+            "Education",
+            "Other",
+            "Not manual/other",
+            "None or GCSE"
+          ],
+          "columnHeaders": [
+            "Table 3. Subgroup analyses of primary outcome.",
+            "Test between subgroups",
+            "Intervention-Control Mean (95% CI)",
+            "p-Value"
+          ]
+        },
+        {
+          "value": "11.3 (−44.2 to",
+          "rowHeaders": [
+            "Deprivation score"
+          ],
+          "columnHeaders": [
+            "Table 3. Subgroup analyses of primary outcome.",
+            "Subgroup 1",
+            "Intervention-Control Mean (95% CI)",
+            "Difference (95% CI)"
+          ]
+        },
+        {
+          "value": "66.8)",
+          "rowHeaders": [
+            "Deprivation score",
+            "Other"
+          ],
+          "columnHeaders": [
+            "Table 3. Subgroup analyses of primary outcome.",
+            "Subgroup 1",
+            "Intervention-Control Mean (95% CI)",
+            "Difference (95% CI)"
+          ]
+        },
+        {
+          "value": "9.1 (−23.9 to",
+          "rowHeaders": [
+            "Deprivation score",
+            "Married/cohabiting",
+            "Not manual/other"
+          ],
+          "columnHeaders": [
+            "Table 3. Subgroup analyses of primary outcome.",
+            "Subgroup 2",
+            "Intervention-Control Mean (95% CI)",
+            "Difference (95% CI)"
+          ]
+        },
+        {
+          "value": "42.0)",
+          "rowHeaders": [
+            "Deprivation score",
+            "Married/cohabiting",
+            "Not manual/other",
+            "Single"
+          ],
+          "columnHeaders": [
+            "Table 3. Subgroup analyses of primary outcome.",
+            "Subgroup 2",
+            "Intervention-Control Mean (95% CI)",
+            "Difference (95% CI)"
+          ]
+        },
+        {
+          "value": "0.53",
+          "rowHeaders": [
+            "Marital status",
+            "Married/cohabiting",
+            "Not manual/other",
+            "Single"
+          ],
+          "columnHeaders": [
+            "Table 3. Subgroup analyses of primary outcome.",
+            "Test between subgroups",
+            "Intervention-Control Mean (95% CI)",
+            "p-Value"
+          ]
+        },
+        {
+          "value": "4.6 (−27.4 to",
+          "rowHeaders": [
+            "Marital status"
+          ],
+          "columnHeaders": [
+            "Table 3. Subgroup analyses of primary outcome.",
+            "Subgroup 1",
+            "Intervention-Control Mean (95% CI)",
+            "Difference (95% CI)"
+          ]
+        },
+        {
+          "value": "36.7)",
+          "rowHeaders": [
+            "Deprivation score",
+            "Other"
+          ],
+          "columnHeaders": [
+            "Table 3. Subgroup analyses of primary outcome.",
+            "Subgroup 1",
+            "Intervention-Control Mean (95% CI)",
+            "Difference (95% CI)"
+          ]
+        },
+        {
+          "value": "28.0 (−37.5 to",
+          "rowHeaders": [
+            "Deprivation score",
+            "Married/cohabiting",
+            "Not manual/other"
+          ],
+          "columnHeaders": [
+            "Table 3. Subgroup analyses of primary outcome.",
+            "Subgroup 2",
+            "Intervention-Control Mean (95% CI)",
+            "Difference (95% CI)"
+          ]
+        },
+        {
+          "value": "93.4)",
+          "rowHeaders": [
+            "Deprivation score",
+            "Married/cohabiting",
+            "Not manual/other",
+            "Paid work"
+          ],
+          "columnHeaders": [
+            "Table 3. Subgroup analyses of primary outcome.",
+            "Test between subgroups",
+            "Intervention-Control Mean (95% CI)",
+            "Difference (95% CI)"
+          ]
+        },
+        {
+          "value": "0.54",
+          "rowHeaders": [
+            "Paid work",
+            "No paid work",
+            "Not manual/other",
+            "Paid work"
+          ],
+          "columnHeaders": [
+            "Table 3. Subgroup analyses of primary outcome.",
+            "Test between subgroups",
+            "Intervention-Control Mean (95% CI)",
+            "p-Value"
+          ]
+        },
+        {
+          "value": "−3.7 (−48.0 to",
+          "rowHeaders": [
+            "Occupation †"
+          ],
+          "columnHeaders": [
+            "Table 3. Subgroup analyses of primary outcome.",
+            "Subgroup 1",
+            "Intervention-Control Mean (95% CI)",
+            "Difference (95% CI)"
+          ]
+        },
+        {
+          "value": "40.6)",
+          "rowHeaders": [
+            "Marital status",
+            "No paid work"
+          ],
+          "columnHeaders": [
+            "Table 3. Subgroup analyses of primary outcome.",
+            "Subgroup 1",
+            "Intervention-Control Mean (95% CI)",
+            "Difference (95% CI)"
+          ]
+        },
+        {
+          "value": "14.5 (−22.2 to",
+          "rowHeaders": [
+            "Deprivation score",
+            "Married/cohabiting",
+            "Not manual/other"
+          ],
+          "columnHeaders": [
+            "Table 3. Subgroup analyses of primary outcome.",
+            "Subgroup 2",
+            "Intervention-Control Mean (95% CI)",
+            "Difference (95% CI)"
+          ]
+        },
+        {
+          "value": "51.3)",
+          "rowHeaders": [
+            "Deprivation score",
+            "Married/cohabiting",
+            "Not manual/other",
+            "Paid work"
+          ],
+          "columnHeaders": [
+            "Table 3. Subgroup analyses of primary outcome.",
+            "Test between subgroups",
+            "Intervention-Control Mean (95% CI)",
+            "Difference (95% CI)"
+          ]
+        },
+        {
+          "value": "0.23",
+          "rowHeaders": [
+            "Occupation †",
+            "Married/cohabiting",
+            "Not manual/other",
+            "Manual"
+          ],
+          "columnHeaders": [
+            "Table 3. Subgroup analyses of primary outcome.",
+            "Test between subgroups",
+            "Intervention-Control Mean (95% CI)",
+            "p-Value"
+          ]
+        },
+        {
+          "value": "10.3 (−31.6 to",
+          "rowHeaders": [
+            "Occupation †"
+          ],
+          "columnHeaders": [
+            "Table 3. Subgroup analyses of primary outcome.",
+            "Subgroup 1",
+            "Intervention-Control Mean (95% CI)",
+            "Difference (95% CI)"
+          ]
+        },
+        {
+          "value": "52.1)",
+          "rowHeaders": [
+            "Occupation †"
+          ],
+          "columnHeaders": [
+            "Table 3. Subgroup analyses of primary outcome.",
+            "Subgroup 1",
+            "Intervention-Control Mean (95% CI)",
+            "Difference (95% CI)"
+          ]
+        },
+        {
+          "value": "62.1 (−11.3 to",
+          "rowHeaders": [
+            "Occupation †",
+            "Married/cohabiting",
+            "Not manual/other"
+          ],
+          "columnHeaders": [
+            "Table 3. Subgroup analyses of primary outcome.",
+            "Subgroup 2",
+            "Intervention-Control Mean (95% CI)",
+            "Difference (95% CI)"
+          ]
+        },
+        {
+          "value": "135.5)",
+          "rowHeaders": [
+            "Occupation †",
+            "Married/cohabiting",
+            "Not manual/other"
+          ],
+          "columnHeaders": [
+            "Table 3. Subgroup analyses of primary outcome.",
+            "Test between subgroups",
+            "Intervention-Control Mean (95% CI)",
+            "Difference (95% CI)"
+          ]
+        },
+        {
+          "value": "0.35",
+          "rowHeaders": [
+            "Occupation †",
+            "Income"
+          ],
+          "columnHeaders": [
+            "Table 3. Subgroup analyses of primary outcome.",
+            "Test between subgroups",
+            "Intervention-Control Mean (95% CI)",
+            "p-Value"
+          ]
+        },
+        {
+          "value": "−6.5 (−52.5 to",
+          "rowHeaders": [
+            "Occupation †"
+          ],
+          "columnHeaders": [
+            "Table 3. Subgroup analyses of primary outcome.",
+            "Subgroup 1",
+            "Intervention-Control Mean (95% CI)",
+            "Difference (95% CI)"
+          ]
+        },
+        {
+          "value": "39.6)",
+          "rowHeaders": [
+            "Occupation †"
+          ],
+          "columnHeaders": [
+            "Table 3. Subgroup analyses of primary outcome.",
+            "Subgroup 1",
+            "Intervention-Control Mean (95% CI)",
+            "Difference (95% CI)"
+          ]
+        },
+        {
+          "value": "23.7 (−18.1 to",
+          "rowHeaders": [
+            "Occupation †",
+            "Married/cohabiting",
+            "Not manual/other"
+          ],
+          "columnHeaders": [
+            "Table 3. Subgroup analyses of primary outcome.",
+            "Subgroup 2",
+            "Intervention-Control Mean (95% CI)",
+            "Difference (95% CI)"
+          ]
+        },
+        {
+          "value": "65.5)",
+          "rowHeaders": [
+            "Occupation †",
+            "Married/cohabiting",
+            "Not manual/other"
+          ],
+          "columnHeaders": [
+            "Table 3. Subgroup analyses of primary outcome.",
+            "Test between subgroups",
+            "Intervention-Control Mean (95% CI)",
+            "Difference (95% CI)"
+          ]
+        },
+        {
+          "value": "44.0",
+          "rowHeaders": [
+            "Occupation †"
+          ],
+          "columnHeaders": [
+            "Table 3. Subgroup analyses of primary outcome.",
+            "Subgroup 1",
+            "Intervention-Control Mean (95% CI)",
+            "Difference (95% CI)",
+            "Lower and middle tertiles"
+          ]
+        },
+        {
+          "value": "(9.3 to",
+          "rowHeaders": [
+            "Occupation †"
+          ],
+          "columnHeaders": [
+            "Table 3. Subgroup analyses of primary outcome.",
+            "Subgroup 1",
+            "Intervention-Control Mean (95% CI)",
+            "Difference (95% CI)",
+            "Lower and middle tertiles"
+          ]
+        },
+        {
+          "value": "78.7)",
+          "rowHeaders": [
+            "Occupation †"
+          ],
+          "columnHeaders": [
+            "Table 3. Subgroup analyses of primary outcome.",
+            "Subgroup 1",
+            "Intervention-Control Mean (95% CI)",
+            "Difference (95% CI)",
+            "Lower and middle tertiles"
+          ]
+        },
+        {
+          "value": "−48.7 (−96.1 to −1.2)",
+          "rowHeaders": [
+            "Occupation †",
+            "Not manual/other"
+          ],
+          "columnHeaders": [
+            "Table 3. Subgroup analyses of primary outcome.",
+            "Subgroup 2",
+            "Intervention-Control Mean (95% CI)",
+            "Difference (95% CI)",
+            "Upper tertile"
+          ]
+        },
+        {
+          "value": "0.002",
+          "rowHeaders": [
+            "Occupation †",
+            "Married/cohabiting",
+            "Not manual/other"
+          ],
+          "columnHeaders": [
+            "Table 3. Subgroup analyses of primary outcome.",
+            "Test between subgroups",
+            "Intervention-Control Mean (95% CI)",
+            "p-Value",
+            "Upper tertile"
+          ]
+        },
+        {
+          "value": "−3.0 (−36.6 to",
+          "rowHeaders": [
+            "Occupation †"
+          ],
+          "columnHeaders": [
+            "Table 3. Subgroup analyses of primary outcome.",
+            "Subgroup 1",
+            "Intervention-Control Mean (95% CI)",
+            "Difference (95% CI)",
+            "Lower and middle tertiles",
+            "Lower and middle tertiles"
+          ]
+        },
+        {
+          "value": "30.5)",
+          "rowHeaders": [
+            "Occupation †"
+          ],
+          "columnHeaders": [
+            "Table 3. Subgroup analyses of primary outcome.",
+            "Subgroup 1",
+            "Intervention-Control Mean (95% CI)",
+            "Difference (95% CI)",
+            "Lower and middle tertiles",
+            "Lower and middle tertiles"
+          ]
+        },
+        {
+          "value": "36.0 (−12.4 to",
+          "rowHeaders": [
+            "Occupation †",
+            "Not manual/other"
+          ],
+          "columnHeaders": [
+            "Table 3. Subgroup analyses of primary outcome.",
+            "Subgroup 2",
+            "Intervention-Control Mean (95% CI)",
+            "Difference (95% CI)",
+            "Upper tertile",
+            "Upper tertile"
+          ]
+        },
+        {
+          "value": "84.4)",
+          "rowHeaders": [
+            "Occupation †",
+            "Not manual/other"
+          ],
+          "columnHeaders": [
+            "Table 3. Subgroup analyses of primary outcome.",
+            "Test between subgroups",
+            "Intervention-Control Mean (95% CI)",
+            "Difference (95% CI)",
+            "Upper tertile",
+            "Upper tertile"
+          ]
+        },
+        {
+          "value": "0.19",
+          "rowHeaders": [
+            "Occupation †",
+            "Married/cohabiting",
+            "Not manual/other"
+          ],
+          "columnHeaders": [
+            "Table 3. Subgroup analyses of primary outcome.",
+            "Test between subgroups",
+            "Intervention-Control Mean (95% CI)",
+            "p-Value",
+            "Upper tertile",
+            "Upper tertile"
+          ]
+        },
+        {
+          "value": "13.6 (−36.0 to",
+          "rowHeaders": [
+            "Occupation †"
+          ],
+          "columnHeaders": [
+            "Table 3. Subgroup analyses of primary outcome.",
+            "Subgroup 1",
+            "Intervention-Control Mean (95% CI)",
+            "Difference (95% CI)",
+            "Lower and middle tertiles",
+            "Lower and middle tertiles",
+            "Inactive/moderately inactive"
+          ]
+        },
+        {
+          "value": "63.2)",
+          "rowHeaders": [
+            "Occupation †"
+          ],
+          "columnHeaders": [
+            "Table 3. Subgroup analyses of primary outcome.",
+            "Subgroup 1",
+            "Intervention-Control Mean (95% CI)",
+            "Difference (95% CI)",
+            "Lower and middle tertiles",
+            "Lower and middle tertiles",
+            "Inactive/moderately inactive"
+          ]
+        },
+        {
+          "value": "2.1 (−30.4 to",
+          "rowHeaders": [
+            "Occupation †",
+            "Not manual/other"
+          ],
+          "columnHeaders": [
+            "Table 3. Subgroup analyses of primary outcome.",
+            "Subgroup 2",
+            "Intervention-Control Mean (95% CI)",
+            "Difference (95% CI)",
+            "Upper tertile",
+            "Upper tertile",
+            "Moderately active/active"
+          ]
+        },
+        {
+          "value": "34.7)",
+          "rowHeaders": [
+            "Occupation †",
+            "Not manual/other"
+          ],
+          "columnHeaders": [
+            "Table 3. Subgroup analyses of primary outcome.",
+            "Subgroup 2",
+            "Intervention-Control Mean (95% CI)",
+            "Difference (95% CI)",
+            "Upper tertile",
+            "Upper tertile",
+            "Moderately active/active"
+          ]
+        },
+        {
+          "value": "0.71",
+          "rowHeaders": [
+            "Occupation †",
+            "Not manual/other"
+          ],
+          "columnHeaders": [
+            "Table 3. Subgroup analyses of primary outcome.",
+            "Test between subgroups",
+            "Intervention-Control Mean (95% CI)",
+            "p-Value",
+            "Upper tertile",
+            "Upper tertile",
+            "Moderately active/active"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "28.0",
+          "rowHeaders": [
+            "PAEE (kJ/kg/d)"
+          ],
+          "columnHeaders": [
+            "Variable",
+            "Control",
+            "Mean (95% CI)"
+          ]
+        },
+        {
+          "value": "(26.0 to",
+          "rowHeaders": [
+            "PAEE (kJ/kg/d)"
+          ],
+          "columnHeaders": [
+            "Variable",
+            "Control",
+            "Mean (95% CI)"
+          ]
+        },
+        {
+          "value": "30.0)",
+          "rowHeaders": [
+            "PAEE (kJ/kg/d)"
+          ],
+          "columnHeaders": [
+            "Variable",
+            "Control"
+          ]
+        },
+        {
+          "value": "29.5",
+          "rowHeaders": [
+            "PAEE (kJ/kg/d)"
+          ],
+          "columnHeaders": [
+            "Variable",
+            "Intervention",
+            "Mean (95% CI)"
+          ]
+        },
+        {
+          "value": "(27.5 to",
+          "rowHeaders": [
+            "PAEE (kJ/kg/d)"
+          ],
+          "columnHeaders": [
+            "Variable",
+            "Intervention",
+            "Mean (95% CI)"
+          ]
+        },
+        {
+          "value": "31.7)",
+          "rowHeaders": [
+            "PAEE (kJ/kg/d)"
+          ],
+          "columnHeaders": [
+            "Variable",
+            "Intervention"
+          ]
+        },
+        {
+          "value": "5.4% (−4.2% to 16.0%)",
+          "rowHeaders": [
+            "PAEE (kJ/kg/d)"
+          ],
+          "columnHeaders": [
+            "Variable",
+            "Intervention relative to control",
+            "Comparison of means"
+          ]
+        },
+        {
+          "value": "0.28",
+          "rowHeaders": [
+            "PAEE (kJ/kg/d)"
+          ],
+          "columnHeaders": [
+            "Variable",
+            "Intervention relative to control",
+            "p-Value"
+          ]
+        },
+        {
+          "value": "2.7",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/d)"
+          ],
+          "columnHeaders": [
+            "Variable",
+            "Control",
+            "Mean (95% CI)"
+          ]
+        },
+        {
+          "value": "(2.5 to",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/d)"
+          ],
+          "columnHeaders": [
+            "Variable",
+            "Control",
+            "Mean (95% CI)"
+          ]
+        },
+        {
+          "value": "2.9)",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/d)"
+          ],
+          "columnHeaders": [
+            "Variable",
+            "Control",
+            "Mean (95% CI)"
+          ]
+        },
+        {
+          "value": "2.9",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/d)"
+          ],
+          "columnHeaders": [
+            "Variable",
+            "Intervention",
+            "Mean (95% CI)"
+          ]
+        },
+        {
+          "value": "(2.7 to",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/d)"
+          ],
+          "columnHeaders": [
+            "Variable",
+            "Intervention",
+            "Mean (95% CI)"
+          ]
+        },
+        {
+          "value": "3.1)",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/d)"
+          ],
+          "columnHeaders": [
+            "Variable",
+            "Intervention",
+            "Mean (95% CI)"
+          ]
+        },
+        {
+          "value": "6.3% (−5.3% to 19.3%)",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/d)"
+          ],
+          "columnHeaders": [
+            "Variable",
+            "Intervention relative to control",
+            "Comparison of means"
+          ]
+        },
+        {
+          "value": "0.30",
+          "rowHeaders": [
+            "Home-based PAEE (kJ/kg/d)"
+          ],
+          "columnHeaders": [
+            "Variable",
+            "Intervention relative to control",
+            "p-Value"
+          ]
+        },
+        {
+          "value": "11.8",
+          "rowHeaders": [
+            "Work-based PAEE (kJ/kg/d)"
+          ],
+          "columnHeaders": [
+            "Variable",
+            "Control",
+            "Mean (95% CI)"
+          ]
+        },
+        {
+          "value": "(10.6 to",
+          "rowHeaders": [
+            "Work-based PAEE (kJ/kg/d)"
+          ],
+          "columnHeaders": [
+            "Variable",
+            "Control",
+            "Mean (95% CI)"
+          ]
+        },
+        {
+          "value": "13.2)",
+          "rowHeaders": [
+            "Work-based PAEE (kJ/kg/d)"
+          ],
+          "columnHeaders": [
+            "Variable",
+            "Control"
+          ]
+        },
+        {
+          "value": "13.3",
+          "rowHeaders": [
+            "Work-based PAEE (kJ/kg/d)"
+          ],
+          "columnHeaders": [
+            "Variable",
+            "Intervention",
+            "Mean (95% CI)"
+          ]
+        },
+        {
+          "value": "(11.8 to",
+          "rowHeaders": [
+            "Work-based PAEE (kJ/kg/d)"
+          ],
+          "columnHeaders": [
+            "Variable",
+            "Intervention",
+            "Mean (95% CI)"
+          ]
+        },
+        {
+          "value": "15.0)",
+          "rowHeaders": [
+            "Work-based PAEE (kJ/kg/d)"
+          ],
+          "columnHeaders": [
+            "Variable",
+            "Intervention"
+          ]
+        },
+        {
+          "value": "9.0% (−6.5% to 27.1%)",
+          "rowHeaders": [
+            "Work-based PAEE (kJ/kg/d)"
+          ],
+          "columnHeaders": [
+            "Variable",
+            "Intervention relative to control",
+            "Comparison of means"
+          ]
+        },
+        {
+          "value": "0.27",
+          "rowHeaders": [
+            "Work-based PAEE (kJ/kg/d)"
+          ],
+          "columnHeaders": [
+            "Variable",
+            "Intervention relative to control",
+            "p-Value"
+          ]
+        },
+        {
+          "value": "12.0",
+          "rowHeaders": [
+            "Leisure-based PAEE (kJ/kg/d)"
+          ],
+          "columnHeaders": [
+            "Variable",
+            "Control",
+            "Mean (95% CI)"
+          ]
+        },
+        {
+          "value": "(10.7 to",
+          "rowHeaders": [
+            "Leisure-based PAEE (kJ/kg/d)"
+          ],
+          "columnHeaders": [
+            "Variable",
+            "Control",
+            "Mean (95% CI)"
+          ]
+        },
+        {
+          "value": "13.4)",
+          "rowHeaders": [
+            "Leisure-based PAEE (kJ/kg/d)"
+          ],
+          "columnHeaders": [
+            "Variable",
+            "Control"
+          ]
+        },
+        {
+          "value": "12.0",
+          "rowHeaders": [
+            "Leisure-based PAEE (kJ/kg/d)"
+          ],
+          "columnHeaders": [
+            "Variable",
+            "Intervention",
+            "Mean (95% CI)"
+          ]
+        },
+        {
+          "value": "(10.8 to",
+          "rowHeaders": [
+            "Leisure-based PAEE (kJ/kg/d)"
+          ],
+          "columnHeaders": [
+            "Variable",
+            "Intervention",
+            "Mean (95% CI)"
+          ]
+        },
+        {
+          "value": "13.4)",
+          "rowHeaders": [
+            "Leisure-based PAEE (kJ/kg/d)"
+          ],
+          "columnHeaders": [
+            "Variable",
+            "Intervention"
+          ]
+        },
+        {
+          "value": "0.7% (−13.7% to 17.5%)",
+          "rowHeaders": [
+            "Leisure-based PAEE (kJ/kg/d)"
+          ],
+          "columnHeaders": [
+            "Variable",
+            "Intervention relative to control",
+            "Comparison of means"
+          ]
+        },
+        {
+          "value": "0.93",
+          "rowHeaders": [
+            "Leisure-based PAEE (kJ/kg/d)"
+          ],
+          "columnHeaders": [
+            "Variable",
+            "Intervention relative to control",
+            "p-Value"
+          ]
+        },
+        {
+          "value": "0.6",
+          "rowHeaders": [
+            "Commuting PAEE (kJ/kg/d)"
+          ],
+          "columnHeaders": [
+            "Variable",
+            "Control",
+            "Mean (95% CI)"
+          ]
+        },
+        {
+          "value": "(0.5 to",
+          "rowHeaders": [
+            "Commuting PAEE (kJ/kg/d)"
+          ],
+          "columnHeaders": [
+            "Variable",
+            "Control",
+            "Mean (95% CI)"
+          ]
+        },
+        {
+          "value": "0.8)",
+          "rowHeaders": [
+            "Commuting PAEE (kJ/kg/d)"
+          ],
+          "columnHeaders": [
+            "Variable",
+            "Control",
+            "Mean (95% CI)"
+          ]
+        },
+        {
+          "value": "0.6",
+          "rowHeaders": [
+            "Commuting PAEE (kJ/kg/d)"
+          ],
+          "columnHeaders": [
+            "Variable",
+            "Intervention",
+            "Mean (95% CI)"
+          ]
+        },
+        {
+          "value": "(0.4 to",
+          "rowHeaders": [
+            "Commuting PAEE (kJ/kg/d)"
+          ],
+          "columnHeaders": [
+            "Variable",
+            "Intervention",
+            "Mean (95% CI)"
+          ]
+        },
+        {
+          "value": "0.7)",
+          "rowHeaders": [
+            "Commuting PAEE (kJ/kg/d)"
+          ],
+          "columnHeaders": [
+            "Variable",
+            "Intervention",
+            "Mean (95% CI)"
+          ]
+        },
+        {
+          "value": "−10.0% (−34.0% to 22.6%)",
+          "rowHeaders": [
+            "Commuting PAEE (kJ/kg/d)"
+          ],
+          "columnHeaders": [
+            "Variable",
+            "Intervention relative to control",
+            "Comparison of means"
+          ]
+        },
+        {
+          "value": "0.50",
+          "rowHeaders": [
+            "Commuting PAEE (kJ/kg/d)"
+          ],
+          "columnHeaders": [
+            "Variable",
+            "Intervention relative to control",
+            "p-Value"
+          ]
+        },
+        {
+          "value": "2.8",
+          "rowHeaders": [
+            "Screen/TV time (h/d)"
+          ],
+          "columnHeaders": [
+            "Variable",
+            "Control",
+            "Mean (95% CI)"
+          ]
+        },
+        {
+          "value": "(2.6 to",
+          "rowHeaders": [
+            "Screen/TV time (h/d)"
+          ],
+          "columnHeaders": [
+            "Variable",
+            "Control",
+            "Mean (95% CI)"
+          ]
+        },
+        {
+          "value": "2.9)",
+          "rowHeaders": [
+            "Screen/TV time (h/d)"
+          ],
+          "columnHeaders": [
+            "Variable",
+            "Control",
+            "Mean (95% CI)"
+          ]
+        },
+        {
+          "value": "2.8",
+          "rowHeaders": [
+            "Screen/TV time (h/d)"
+          ],
+          "columnHeaders": [
+            "Variable",
+            "Intervention",
+            "Mean (95% CI)"
+          ]
+        },
+        {
+          "value": "(2.6 to",
+          "rowHeaders": [
+            "Screen/TV time (h/d)"
+          ],
+          "columnHeaders": [
+            "Variable",
+            "Intervention",
+            "Mean (95% CI)"
+          ]
+        },
+        {
+          "value": "2.9)",
+          "rowHeaders": [
+            "Screen/TV time (h/d)"
+          ],
+          "columnHeaders": [
+            "Variable",
+            "Intervention",
+            "Mean (95% CI)"
+          ]
+        },
+        {
+          "value": "0.005 (−0.2 to",
+          "rowHeaders": [
+            "Screen/TV time (h/d)"
+          ],
+          "columnHeaders": [
+            "Variable",
+            "Intervention relative to control",
+            "Comparison of means"
+          ]
+        },
+        {
+          "value": "0.2)",
+          "rowHeaders": [
+            "Screen/TV time (h/d)"
+          ],
+          "columnHeaders": [
+            "Variable",
+            "Intervention relative to control",
+            "Comparison of means"
+          ]
+        },
+        {
+          "value": "0.96",
+          "rowHeaders": [
+            "Screen/TV time (h/d)"
+          ],
+          "columnHeaders": [
+            "Variable",
+            "Intervention relative to control",
+            "p-Value"
+          ]
+        }
+      ],
+      "page": 1
+    }
+  ]
+}

@@ -1,0 +1,2834 @@
+{
+  "blocks": [
+    {
+      "type": "LINES",
+      "value": "Long-term effects of the Active for Life Year 5 (AFLY5) school-based cluster-randomised controlled trial",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Long-term effects of the Active for Life Year 5 (AFLY5) school-based clusterrandomised controlled trial.",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Low levels of physical activity and fruit and vegetable consumption in childhood track into adulthood 1-3 and are associated with greater adiposity, adverse cardiometabolic risk factors, behavioural problems, low mood and poorer academic attainment. 1-7 School-based interventions have the potential to efficiently change behaviours to healthier levels, or delay age-related changes in behaviour, since most children attend school. However, previous randomised controlled trials (RCTs) of such interventions have potentially important sources of bias and few have explored long-term outcomes beyond the end of the intervention period.\nA systematic review and meta-analysis of 44 school-based RCTs found beneficial effects on moderate or vigorous physical activity Strengths and limitations of this study ▪ The study was designed to take account of known sources of bias in other randomised controlled trials in this area, with concealed random allocation of participants, outcome assessors who were blinded to which group the schools and children had been randomised to and objective measurements of physical activity and sedentary behaviour with accelerometers. ▪ Our sample size calculation took account of the likely degree of clustering within schools. ▪ The study was undertaken instate schools in the southwest of England that covered a range of deprivation levels and urban and rural communities, but results may not be generalisable to more ethnically diverse populations in the UK or beyond the UK. ▪ There were missing data for the accelerometer assessed outcomes, but a range of sensitivity analyses did not alter our findings and levels of weartime and valid accelerometer data were similar in the intervention and control arms.\n(MVPA) during school hours, but the authors noted that benefit might have been exaggerated due to the outcome assessment being self-reported/parentalreported and not blind to school allocation inmost trials and because of the marked loss to follow-up in several trials. In many of those RCTs, the intervention included extra compulsory physical activity lessons or activities during school break-times. Those have the advantage that they do not interrupt the school curriculum, but in the absence of any long-term follow-up beyond the intervention period, it is impossible to determine whether the greater time spent in MVPA is simply as a result of a level of compulsion to be more active. Evidence from observational epidemiological studies suggests that compulsory physical activity in lessons or break-time in school are associated with more schoolbased activity, but not with more activity outside of school or if the activity stops being compulsory. A systematic review restricted to studies that had used objectively assessed activity using accelerometers and did not restrict the outcome to activity during school hours found some evidence of benefit of a similar magnitude in family-focused and school curriculum interventions, but noted that the magnitude of effect was modest. Reviews of interventions to reduce time spent in sedentary behaviour have similarly noted some evidence of effect, but cautioned about likely sources of bias, including lack of adequate concealment of random allocation, subjective outcome measurements with no blinding of participants and little evaluation that effects were sustained long-term postintervention. Likewise, two systematic reviews of school-based interventions to increase fruit and vegetable consumption found some possible evidence of modest effect but were concerned about lack of adequate concealment of random allocation and failure to take account of clustering within analyses. The Active for Life Year 5 (AFLY5) study was a large school-based cluster RCT. It was designed to address many of the limitations that had been identified in previous RCTs of interventions to improve physical activity and diet in children by objectively measuring physical activity and sedentary behaviour and by determining effects on outcomes immediately after the end of the intervention and 12 months later. At the end of the intervention period (immediate follow-up), the intervention was ineffective at improving any of the three primary outcomes (time spent in moderate to vigorous physical activity, time spent in sedentary activity and fruit and vegetable consumption); however, it did result in improvements in three of the nine secondary outcomes (child-reported time spent screen-viewing at weekends, consumption of snacks and consumption of high-energy drinks). A cluster RCT design was necessary, given the intervention is at the level of schools (rather than individual children).\nIn this paper, we report the long-term effects of the intervention on the primary and secondary outcomes that were assessed ∼12 months postintervention. Our initial aim when designing the study was to be able to determine whether any effects of the intervention would last beyond the period of the intervention. Given we now know the immediate postintervention results, our aim in this paper was to determine whether any effects on primary outcomes emerged at the 12-month follow-up assessment (ie, whether there was a delayed effect of the intervention on the primary outcomes) and whether effects on secondary outcomes that were observed immediately after the intervention were maintained, decreased or increased 12 months after the intervention. In this and the previous paper, the intervention is delivered at the cluster (school) level and outcomes are measured and analysed on individual children, with the clustering appropriately taken account of in the statistical analyses.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "AFLY5 was a school-based, cluster RCT. Clustering was at the level of the schools, with eligibility for study entry being: (1) any state primary or junior schools that (2) provided education to children aged 8-11 years and (3) were within the Bristol City and North Somerset administrative areas (both areas in the southwest of England). All children in UK school year 4 (age 8-9 years) at the time of recruitment were eligible for recruitment if their parents provided consent and they assented (see below).\nA total of 60 state primary and junior schools were recruited between March and July 2011: 46 in Bristol and 14 in North Somerset, southwest England. At the time of recruitment, participants were aged 8-9. Full details of the trial have been published previously, so only a brief summary will be given here. The trial was registered prior to recruitment of schools or data collection (http://www.controlled-trials.com/ ISRCTN50133740). Analyses have been undertaken in accordance with a published analytical plan that was approved by the Trial Steering Committee. Ethical approval and consent Ethical approval was obtained from the University of Bristol Faculty of Medicine and Dentistry Committee for Ethics (reference number 101115). Parents/guardians of children in Year 4 were sent a letter and information sheet about the study, with an opt-out consent form for each of the measurements and the opportunity to contact the research team to discuss the study as well as information about being able to withdraw at any stage. An information sheet for the child was sent at the same time that the letter was sent to the parents. Children were given a second copy of this information sheet at the time that measurements were undertaken and they were asked to give signed assent to each of the measurements.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Schools were defined as having high or low involvement in any initiatives aimed at increasing physical activity, reducing sedentary behaviour or increasing fruit and vegetable consumption, based on their report of involvement in local or national initiatives. Schools were also split into tertiles based on their score on the English Index of Multiple Deprivation 2010 (IMD 2010). Schools were grouped into six mutually exclusive strata by these two characteristics and randomly allocated to control or intervention within these strata. Randomisation was undertaken by DAL who was unaware of any other characteristics of the schools. School was concealed using the Bristol Randomised Trials Collaboration's automated (remote) system. After randomisation, one school refused to undertake the intervention; the head reported that they had hoped they would be randomised to control and did not have the time or capacity to accommodate the intervention. This school was retained in the relevant analyses on an intention-to-treat basis.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The intervention was adapted from a previously evaluated US intervention and is based on Social Cognitive Theory, with a particular emphasis on increasing the children's self-efficacy ( perceived competence) to be physically active and eat a healthy diet. Full details of the trial intervention have been published in the trial protocol and the paper reporting the immediate effect of the intervention.  for the intervention was explained and each lesson and homework activity was discussed and then taught in interactive ways. Time was provided for questions and discussion. Teachers were instructed to deliver 16 lessons, 10 of which had associated homework. They were told that they could adapt the teaching plans and materials, as they would with other lessons, for example, to suit their own style and the range of abilities in their class, but the aims and knowledge/skills to be imparted should not be changed. 2. Provision of 16 lesson plans and teaching materials, including pictures, CDs and journals for teachers or learning support assistants to deliver over two out of the three school-terms (6-7 months). The 16 lessons included 9 that were primarily related to how to be more active and less sedentary and why this was important, 6 to healthy nutrition and how to achieve this and 1 about reducing screen viewing. Each lesson did, however, combine different aspects of healthy behaviour. For example, in the physical activity lessons, the children played games based on the food groups using photographs of food which reinforced the content of the nutrition lessons. Similarly, in the lesson (and associated homework) for reducing screen-viewing (called 'Freeze my TV'), children were taught how to replace regular television watching with active play on some days. 3. Provision of 10 parent-child interaction homework activities. The activities were designed to involve parents and other family members in the behaviour change process and reinforced the messages delivered during lessons. The homeworks included activities such as: 'Freeze my TV', in which a specific time that would normally be spent watching television would be replaced with physically active play involving the parents and other family members that the child would write a log about; cooking simple healthy food at home; playing 'Top Grubs' a card game based on trumps with pictures of food, such that higher scoring (trumping) foods are the healthier ones; and measuring the sugar content of drinks that the family have at home or include in school/work lunch packs. 4. Information was provided for schools to insert (as they wished) in their school newsletters about the importance of increasing physical activity, reducing sedentary behaviour and improving diet. The inserts were sent to all intervention schools on three occasions over the period of the intervention. Schools were free to edit these and insert none, all or some of them. 5. Written information for parents on how to encourage their children to eat healthily and be active was delivered via the schoolchildren at the start of the intervention.\nThe intervention took place when the children were aged 9-10 years (in UK school Year 5) after baseline assessment. Schools randomised to the control group continued standard education provision for the school year, and any involvement in additional healthpromoting activities, but had no access to the intervention teacher training or the teaching materials.\nOutcomes Box 1 lists the three primary and nine secondary outcomes.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Baseline assessment ( prior to intervention) was undertaken either between April and June 2011 or between September and November 2011, when the children were aged 8-9 years (ie, before and after the school summer break). Immediate follow-up assessment was completed immediately postintervention ∼12 months after the baseline assessment and the long-term assessment (with which this paper is concerned) took place 12 months after the immediate assessment, during which time the children were not exposed to the intervention. Every attempt was made to undertake the assessments in the same order, so that the seasons would be similar at each assessment time.\nAssessments measured primary and secondary outcomes, together with demographic characteristics and were conducted identically at each time point following published protocols. They were completed by trained fieldworkers who were blinded as to which arm of the trial schools had been allocated. Full details of these assessments have been published previously and are summarised here. Questionnaires asked for information on dietary intake and screen-time viewing and other characteristics and were administered in the classroom with at least one fieldworker present. Weight, height and waist circumference were measured in a private room by one of the trained fieldworkers, with a second fieldworker present in the room. All fieldworkers had passed Criminal Records Bureau checks, as required for working with children at the time that these data were collected. Physical activity was assessed using ActiGraph GT3X+ accelerometers (Actigraph LLC, Pensacola, Florida, USA) and time spent per day being sedentary and in moderate to vigorous activity were calculated using standard protocols as described previously. Sample size calculation and account of multiple testing Sample size calculations indicated that for the three primary outcome and nine secondary outcome measurements (including taking account of multiple testing with the secondary outcomes), a total of 60 schools with 1500 pupils (750 in each arm) needed to be recruited, so that 1275 (allowing for loss to follow-up) pupils could be included in the analyses. This number provided adequate power to detect what we considered to be minimally important effects. We recruited 60 schools and a total of 2221 pupils, and included between 1066 and 2052 pupils in our analyses for different outcomes. Analyses for accelerometer-based outcomes were on fewer participants than our sample size calculation suggested (N=1066) because of a large proportion of participants not returning or not wearing the accelerometer for at least 8 hours for 3 days, the minimum required to be included in the study. Statistical analyses Full details of the analysis plan have been published previously. Briefly, main analyses assessing the effect of the intervention on the primary and secondary 12 months postintervention were conducted as intention-to-treat, with missing data at baseline being replaced with a value of 999 and a variable to indicate missing data at baseline (0=not missing, 1=missing) being included in regression models, as recommended by White et al. For primary outcomes, the level of statistical significance used was p<0.05 and for secondary outcomes, the level of statistical significance used was p<0.01, after correcting for multiple testing. A series of sensitivity analyses were conducted to test assumptions regarding the nature of missing data at baseline and at each of the follow-up assessments (see detailed analysis plan for discussion of these assumptions and the sensitivity analyses). Multilevel regression models were used to account for clustering (non-independence) of children within schools. All analyses included adjustment for the following baseline variables: age, sex, baseline measure of the outcome being analysed, involvement in other healthy behaviour promoting activities and school level deprivation. A secondary per-protocol analysis was undertaken, in which classes in the intervention arm were only included in analyses if teachers had taught at least 70% (11 of 16) of the AFLY5 lessons. There was one school for which we were unable to confirm how many lessons had been taught. For that school, we first did analyses assuming that they had been taught at least 11 lessons and then repeated them assuming that they had been taught fewer than 11; the results were identical whichever of these alternatives were used. We additionally assessed whether the effect of the intervention on accelerometer-assessed outcomes differed by week or Box 1 AFLY5 primary and secondary outcomes\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Accelerometer-assessed meantime per day spent doing moderate/vigorous physical activity MVPA (min/day) Accelerometer-assessed meantime per day spent in sedentary activity (min/day) Self-reported (validated questionnaire) servings of fruit and vegetables consumed per day (servings per day; treated in all analyses as a continuous variable) Secondary outcomes Self-reported (validated questionnaire) meantime spent screen viewing on atypical weekday (min) Self-reported (validated questionnaire) meantime spent screen viewing on atypical weekend day (min) Self-reported (validated questionnaire) servings of snacks consumed per day (servings per day; treated in all analyses as a continuous variable) Self-reported (validated questionnaire) servings of high-fat foods consumed per day (servings per day; treated in all analyses as a continuous variable) Self-reported (validated questionnaire) servings of high-energy drinks consumed per day (servings per day; treated in all analyses as a continuous variable) Body mass index determined from weight and height measured in classrooms by two study fieldworkers (kg/m 2 ; treated in all analyses as an SD z-score) Waist circumference measured in classrooms by two study fieldworkers (mm; treated in all analyses as an SD z-score) General overweight/obesity, determined by the International Obesity Task Force thresholds of body mass index for children (taking account of their age and sex) (binary outcome) Central overweight/obesity determined by thresholds of UK agespecific and sex-specific reference charts for waist circumference and defined by the International Diabetes Federation (binary outcome)\nweekend day and whether the results were affected by implausible values as defined previously. The researchers undertaking the analyses were blinded to (unaware of ) whether schools had been allocated to intervention or control arms.\nAs detailed in the published statistical protocol, we initially planned to assess change in outcomes between baseline and the long-term follow-up using multilevel models to estimate a trajectory of the repeat measurements (baseline, immediate follow-up, long-term follow-up) within each individual, with random effects to quantify the estimated person-specific deviation from the study mean in terms of the intercept (baseline measurement) and rate of change (slope). However, when we attempted to run these models, they did not converge. This is likely because there were only three measurement occasions, meaning that the model did not have sufficient df. Therefore, we conducted analyses at a single time point as described above (ie, assessed the effect of the intervention on outcomes at the long-term follow-up) and plotted differences between the randomised groups at each time point in order to illustrate any notable changes in estimates of the primary and secondary outcomes between baseline and immediate and long-term follow-up.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Figure shows the trial profile. Of the 2242 potentially eligible children in the 60 participating schools, 10 left the school prior to randomisation and baseline data collection and for 11, their parents or carers did not provide consent to participate in any aspect of the study. All other children (N=2221; 1064 in the schools that were randomised to intervention and 1157 in those randomised to control schools), irrespective of whether or not we have all the data for them, are included in the analyses presented here (with numbers differing for each outcome in the main analyses as a result of some missing data). Proportions with data for each outcome were similar in intervention and control schools at baseline and at the second follow-up assessment at 12 months postintervention (figure). Baseline characteristics were similar between children in intervention schools and those in control schools (table).\nFigure-L shows differences in means or ORs between the control and intervention group for the three primary and nine secondary outcomes at baseline, immediate follow-up and long-term (12 months) follow-up. These show that differences in means (and ORs for general and central overweight/obesity) between children in intervention and control schools Figure Trial profile. Np, number of participants (school pupils). No schools withdrew from the study, so all randomised units are present at baseline and at both follow-up assessments. Percentages for proportions of children with each measurement at baseline and at follow-ups are of total number of children who were pupils in randomised schools at baseline. Not all pupils with follow-up measures necessarily had data on the same measure at baseline (or vice versa), because of different pupils being absent at baseline and follow-up assessments at each time point, and because of pupils leaving or moving between schools. In all analyses, study participants were analysed in the group (intervention or control) to which they were randomised.\nwere essentially the same at this long-term follow-up as they were immediately after the intervention, when examining point estimates. Differences in the primary outcomes were consistent with the null hypothesis (figure). Differences in secondary outcomes were consistent with those seen at the end of the immediate follow-up (figure), with no evidence that the previously reported beneficial effects for child-reported screen viewing at weekends (figure), consumption of snacks (figure) and consumption of high-energy drinks (figure) had notably diminished (or increased) in magnitude overtime (figure). However, there was no strong statistical support for any effect of the intervention on primary and secondary outcomes at 12 months after the intervention. Table shows differences in means or ORs for all outcomes at the long-term follow-up from the main intention-to-treat analyses. None of the three primary outcomes differed, nor the nine secondary outcomes, reached our predefined level of statistical significance for an effect after accounting for multiple testing.\nResults from the per-protocol analyses were consistent with the intention-to-treat analyses results (table). Results were similar in all sensitivity analyses applying).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "In this school-based cluster RCT, aimed at increasing physical activity, reducing sedentary behaviours and improving diet in school aged children, we found results at 12 months after the intervention had ended (ie, with no further lessons or teaching aimed at promoting healthy activity and dietary levels during that 12 months) were essentially the same as those seen immediately after the end of the intervention in terms of size of effect.\nThe lack of any effect on the three primary outcomestime spent in MVPA, time spent in sedentary behaviour and fruit and vegetable consumption-was still observed 12 months later and the beneficial effects on three secondary outcomes (reported screen-viewing at weekends, consumption of snacks and of high-energy drinks) were still somewhat present at 12 months postintervention. However, slight attenuation of the effect on these secondary outcomes meant that at this long-term follow-up, none of our outcomes ( primary or secondary) reached our prespecified level of statistical significance.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "While the effects for these secondary outcomes were consistent in magnitude with those seen at the immediate follow-up, they did not reach our prespecified level of statistical significance. Thus, these results suggest that apparent benefits on these secondary outcomes are due to chance. As discussed in our previous publication of effects immediately at the end of the intervention, the lack of effect on primary outcomes, in particular on the objectively assessed accelerometer outcomes, might highlight the importance of societal and structural changes to support greater levels of activity, over and above any intervention at a school level. Our intervention was based on theory, built on a similar intervention that had been previously shown to work in the USA and in pilot work, conducted by us, it was shown to fit well with the primary school national curriculum in the UK. Furthermore, the detailed process evaluation conducted as part of the full AFLY5 RCT, in which we used quantitative measures of intervention delivery and qualitative focus groups with children and indepth interviews with Outcomes in bold are primary outcomes (p<0.05 indicates statistical significance); all others are secondary outcomes (p<0.01 indicates statistical significance after taking account of multiple testing).\nAll differences in means/ORs with their 95% CIs have been estimated using a multilevel model to account for clustering (non-independence) among children from the same school. Multilevel multivariable linear regression was used for effects of the intervention on continuously measured outcomes and multilevel multivariable logistic regression was used for binary outcomes.\nThe following baseline/school stratifying variables were included: age, gender, the baseline measure of the outcome under consideration, school involvement in other health-promoting behaviours, school area level deprivation. In these analyses, participants were included for each outcome if they had a follow-up measurement of that outcome; for missing baseline data, we used an indicator variable as described by White and Thompson, which means for each outcome, participants are included even if they do not have a baseline measurement. MVPA, moderate to vigorous physical activity (accelerometer assessed); Np, number of participants.\nteachers and parents, showed that on average 77% of the intervention lessons and homeworks were delivered and reached 95% of the children in intervention schools. However, teachers felt lack of time and the need to prioritise numeracy and literacy skills over the health-promoting lessons of our intervention were important barriers to them and the children being more fully engaged with AFLY5. The process evaluation also highlighted that in general, teachers did not like teaching physical activity, and had a tendency to delegate such lessons to teaching assistants. This might also have contributed to the null effects, particularly for the activity outcomes. Finally, our process evaluation suggests that in the context of rapidly developing technologies, the time taken to develop, test the feasibility of, and pilot, school-based interventions before completing large scale RCTs, as we have performed in AFLY5, may mean that by the time school-based interventions get to the full-scale RCT, the intervention is being implemented with out-of-date methods of delivery. While using schools for universal promotion of healthy behaviours is appealing, a key implication of our findings is that this alone is unlikely to have benefit. Pressures on schools to deliver academic success and the fact that teachers do not necessarily feel equipped, responsible for, or in the case of physical activity, enjoy promoting health behaviours, suggest that curriculumbased health promotion alone is unlikely to benefit population health. Our RCT was large and well conducted and the results suggest that further investment in RCTs of curriculum-based interventions (alone) to improve children's diet and activity are not wanted. Whether investing in extracurricular activities, including in the necessary human resources (eg, people who are appropriately trained and skilled), structural resources (appropriate space) and equipment, would be beneficial Per-protocol analysis defined as teaching at least 70% (11 out of the 16) AFLY5 lessons. All participants from the intervention schools where the teacher taught fewer than 11 lessons are excluded from these analyses.\nOutcomes in bold are primary outcomes (p<0.05 indicates statistical significance); all others are secondary outcomes (p<0.01 indicates statistical significance after taking account of multiple testing).\nAll differences in means/ORs with their 95% CI have been estimated using a multilevel model to account for clustering (non-independence) among children from the same school. Multilevel multivariable linear regression was used for effects of the intervention on continuously measured outcomes and multilevel multivariable logistic regression was used for binary outcomes.\nThe following baseline/school stratifying variables were included: age, gender, the baseline measure of the outcome under consideration, school involvement in other health-promoting behaviours, school area level deprivation. In these analyses, after removal of schools that did not teach at least 11 out of 16 of the lessons, participants were only included for each outcome if they had a follow-up measurement of that outcome. For partial missing baseline data, we used an indicator variable as described by White and Thompson, which means for each outcome participants are included even if they do not have a baseline measurement. MVPA, moderate to vigorous physical activity (accelerometer assessed); Np, number of participants.\nat a population level is unclear and may warrant further evaluation. Societal interventions such as those that were envisaged as a legacy of the 2012 Olympics, and the more recent 'sugar tax' maybe beneficial but will require a natural experiment type approach, rather than an RCT, for their evaluation. Evaluation of past major sporting events and early assessments of the 2012 Olympics suggest that like our assessment of a schoolbased curriculum, much more intense, comprehensive (across all levels of society-home, neighbourhoods, schools, work, government, transport systems) and longterm investments are required to support the next generation to be more active and eat healthier.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The study was designed to take account of known sources of bias in other RCTs in this area. A protocol was published before recruitment started, and a detailed analysis plan was written before any access to the study data. We developed an intervention according to guidelines for complex interventions, with the theoretical rationale for the intervention described in detail elsewhere. Our sample size calculation, which took account of the likely degree of clustering within schools, indicated that we needed a total of 1275 children to be included in the analyses. For all outcomes, except those related to accelerometer data, we achieved considerably higher numbers than this target. The number included in the main analyses for accelerometer-based data was somewhat smaller than this at 1066. Sample size calculations are an approximation of the numbers needed, and we doubt that such a small difference will have had a major effect on our conclusions. Furthermore, wear time was similar in children in intervention and control schools; moreover, in sensitivity analyses using different approaches to dealing with missing data and which included 2052 children even for the accelerometer outcomes, the results were essentially the same as in the main analysis. One school refused to deliver any of the intervention, and others did not deliver all of the lessons. However, the per-protocol analysis, which did not differ from the main intention-to-treat analysis, shows that this does not explain the null results.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "This long-term follow-up of a large well-conducted school-based RCT has found similar results to those found immediately after the intervention period. None of the primary or secondary outcomes reached our predefined levels of statistical significance, suggesting that apparent benefits on some secondary outcomes are due to chance. Overall, together with our process evaluation, these findings suggest that curriculum-based interventions alone are unlikely to make a major impact on promoting healthy levels of physical activity and healthy diets in primary schoolchildren.\n",
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "9.5 (0.3)",
+          "rowHeaders": [
+            "Age",
+            "School involved in other",
+            "Mean (SD) years"
+          ],
+          "columnHeaders": [
+            "Table 1 Comparison of baseline characteristics by randomised group",
+            "Comparison of baseline characteristics by randomised group",
+            "Intervention schools",
+            "Number of",
+            "participants=1064",
+            "Number of schools=30",
+            "Distribution"
+          ]
+        },
+        {
+          "value": "9.5 (0.3)",
+          "rowHeaders": [
+            "Age",
+            "School involved in other",
+            "Mean (SD) years",
+            "90 (30 to 240)"
+          ],
+          "columnHeaders": [
+            "Table 1 Comparison of baseline characteristics by randomised group",
+            "Comparison of baseline characteristics by randomised group",
+            "Control schools",
+            "Number of",
+            "participants=1157",
+            "Number of schools=30",
+            "Distribution"
+          ]
+        },
+        {
+          "value": "912",
+          "rowHeaders": [
+            "MVPA*",
+            "School involved in other",
+            "Mean (SD) min"
+          ],
+          "columnHeaders": [
+            "Table 1 Comparison of baseline characteristics by randomised group",
+            "Comparison of baseline characteristics by randomised group",
+            "Intervention schools",
+            "Number of",
+            "participants=1064",
+            "Number of schools=30",
+            "Number"
+          ]
+        },
+        {
+          "value": "928",
+          "rowHeaders": [
+            "MVPA*",
+            "School involved in other",
+            "Mean (SD) min",
+            "90 (30 to 240)"
+          ],
+          "columnHeaders": [
+            "Table 1 Comparison of baseline characteristics by randomised group",
+            "Comparison of baseline characteristics by randomised group",
+            "Control schools",
+            "Number of",
+            "participants=1157",
+            "Number of schools=30",
+            "Number"
+          ]
+        },
+        {
+          "value": "912",
+          "rowHeaders": [
+            "Sedentary behaviour*",
+            "School involved in other",
+            "Mean (SD) min"
+          ],
+          "columnHeaders": [
+            "Table 1 Comparison of baseline characteristics by randomised group",
+            "Comparison of baseline characteristics by randomised group",
+            "Intervention schools",
+            "Number of",
+            "participants=1064",
+            "Number of schools=30",
+            "Number"
+          ]
+        },
+        {
+          "value": "422 (72)",
+          "rowHeaders": [
+            "Sedentary behaviour*",
+            "School involved in other",
+            "Mean (SD) min"
+          ],
+          "columnHeaders": [
+            "Table 1 Comparison of baseline characteristics by randomised group",
+            "Comparison of baseline characteristics by randomised group",
+            "Intervention schools",
+            "Number of",
+            "participants=1064",
+            "Number of schools=30",
+            "Distribution"
+          ]
+        },
+        {
+          "value": "928",
+          "rowHeaders": [
+            "Sedentary behaviour*",
+            "School involved in other",
+            "Mean (SD) min",
+            "90 (30 to 240)"
+          ],
+          "columnHeaders": [
+            "Table 1 Comparison of baseline characteristics by randomised group",
+            "Comparison of baseline characteristics by randomised group",
+            "Control schools",
+            "Number of",
+            "participants=1157",
+            "Number of schools=30",
+            "Number"
+          ]
+        },
+        {
+          "value": "416 (68)",
+          "rowHeaders": [
+            "Sedentary behaviour*",
+            "School involved in other",
+            "Mean (SD) min",
+            "90 (30 to 240)"
+          ],
+          "columnHeaders": [
+            "Table 1 Comparison of baseline characteristics by randomised group",
+            "Comparison of baseline characteristics by randomised group",
+            "Control schools",
+            "Number of",
+            "participants=1157",
+            "Number of schools=30",
+            "Distribution"
+          ]
+        },
+        {
+          "value": "889",
+          "rowHeaders": [
+            "BMI",
+            "School involved in other",
+            "Mean (SD) z-score"
+          ],
+          "columnHeaders": [
+            "Table 1 Comparison of baseline characteristics by randomised group",
+            "Comparison of baseline characteristics by randomised group",
+            "Intervention schools",
+            "Number of",
+            "participants=1064",
+            "Number of schools=30",
+            "Number"
+          ]
+        },
+        {
+          "value": "−0.06 (0.94)",
+          "rowHeaders": [
+            "BMI",
+            "School involved in other",
+            "Mean (SD) z-score"
+          ],
+          "columnHeaders": [
+            "Table 1 Comparison of baseline characteristics by randomised group",
+            "Comparison of baseline characteristics by randomised group",
+            "Intervention schools",
+            "Number of",
+            "participants=1064",
+            "Number of schools=30",
+            "Distribution",
+            "1 (0 to 2)",
+            "2 (1 to 3)",
+            "0 (0 to 1)",
+            "2 (1 to 3)"
+          ]
+        },
+        {
+          "value": "953",
+          "rowHeaders": [
+            "BMI",
+            "School involved in other",
+            "Mean (SD) z-score",
+            "3 (2 to 5)",
+            "90 (30 to 240)"
+          ],
+          "columnHeaders": [
+            "Table 1 Comparison of baseline characteristics by randomised group",
+            "Comparison of baseline characteristics by randomised group",
+            "Control schools",
+            "Number of",
+            "participants=1157",
+            "Number of schools=30",
+            "Number"
+          ]
+        },
+        {
+          "value": "0.05 (1.04)",
+          "rowHeaders": [
+            "BMI",
+            "School involved in other",
+            "Mean (SD) z-score",
+            "3 (2 to 5)",
+            "90 (30 to 240)"
+          ],
+          "columnHeaders": [
+            "Table 1 Comparison of baseline characteristics by randomised group",
+            "Comparison of baseline characteristics by randomised group",
+            "Control schools",
+            "Number of",
+            "participants=1157",
+            "Number of schools=30",
+            "Distribution",
+            "1 (0 to 2)",
+            "2 (1 to 3)",
+            "1 (0 to 1)",
+            "2 (1 to 3)"
+          ]
+        },
+        {
+          "value": "942",
+          "rowHeaders": [
+            "WC",
+            "School involved in other",
+            "Mean (SD) z-score"
+          ],
+          "columnHeaders": [
+            "Table 1 Comparison of baseline characteristics by randomised group",
+            "Comparison of baseline characteristics by randomised group",
+            "Intervention schools",
+            "Number of",
+            "participants=1064",
+            "Number of schools=30",
+            "Number"
+          ]
+        },
+        {
+          "value": "−0.03 (0.97)",
+          "rowHeaders": [
+            "WC",
+            "School involved in other",
+            "Mean (SD) z-score"
+          ],
+          "columnHeaders": [
+            "Table 1 Comparison of baseline characteristics by randomised group",
+            "Comparison of baseline characteristics by randomised group",
+            "Intervention schools",
+            "Number of",
+            "participants=1064",
+            "Number of schools=30",
+            "Distribution",
+            "1 (0 to 2)",
+            "2 (1 to 3)",
+            "0 (0 to 1)",
+            "2 (1 to 3)"
+          ]
+        },
+        {
+          "value": "0.03 (1.02)",
+          "rowHeaders": [
+            "WC",
+            "School involved in other",
+            "Mean (SD) z-score",
+            "3 (2 to 5)",
+            "90 (30 to 240)"
+          ],
+          "columnHeaders": [
+            "Table 1 Comparison of baseline characteristics by randomised group",
+            "Comparison of baseline characteristics by randomised group",
+            "Control schools",
+            "Number of",
+            "participants=1157",
+            "Number of schools=30",
+            "Distribution",
+            "1 (0 to 2)",
+            "2 (1 to 3)",
+            "1 (0 to 1)",
+            "2 (1 to 3)"
+          ]
+        },
+        {
+          "value": "105 (45 to 240)",
+          "rowHeaders": [
+            "Screen-viewing weekday",
+            "School involved in other",
+            "Median (IQR) min"
+          ],
+          "columnHeaders": [
+            "Table 1 Comparison of baseline characteristics by randomised group",
+            "Comparison of baseline characteristics by randomised group",
+            "Intervention schools",
+            "Number of",
+            "participants=1064",
+            "Number of schools=30",
+            "Distribution",
+            "1 (0 to 2)",
+            "2 (1 to 3)",
+            "0 (0 to 1)",
+            "2 (1 to 3)"
+          ]
+        },
+        {
+          "value": "105 (45 to 225)",
+          "rowHeaders": [
+            "Screen-viewing weekday",
+            "health-promoting activities",
+            "Median (IQR) min",
+            "3 (2 to 5)",
+            "90 (30 to 240)"
+          ],
+          "columnHeaders": [
+            "Table 1 Comparison of baseline characteristics by randomised group",
+            "Comparison of baseline characteristics by randomised group",
+            "Control schools",
+            "Number of",
+            "participants=1157",
+            "Number of schools=30",
+            "Distribution",
+            "1 (0 to 2)",
+            "2 (1 to 3)",
+            "1 (0 to 1)",
+            "2 (1 to 3)"
+          ]
+        },
+        {
+          "value": "105 (30 to 240)",
+          "rowHeaders": [
+            "Screen-viewing Saturday",
+            "health-promoting activities",
+            "Median (IQR) min",
+            "3 (2 to 5)",
+            "90 (30 to 240)"
+          ],
+          "columnHeaders": [
+            "Table 1 Comparison of baseline characteristics by randomised group",
+            "Comparison of baseline characteristics by randomised group",
+            "Control schools",
+            "Number of",
+            "participants=1157",
+            "Number of schools=30",
+            "Distribution",
+            "1 (0 to 2)",
+            "2 (1 to 3)",
+            "1 (0 to 1)",
+            "2 (1 to 3)"
+          ]
+        },
+        {
+          "value": "912",
+          "rowHeaders": [
+            "Total number of valid days of wearing",
+            "School involved in other",
+            "Median (IQR) days"
+          ],
+          "columnHeaders": [
+            "Table 1 Comparison of baseline characteristics by randomised group",
+            "Comparison of baseline characteristics by randomised group",
+            "Intervention schools",
+            "Number of",
+            "participants=1064",
+            "Number of schools=30",
+            "Number"
+          ]
+        },
+        {
+          "value": "928",
+          "rowHeaders": [
+            "Total number of valid days of wearing",
+            "School involved in other",
+            "Median (IQR) days",
+            "3 (2 to 5)"
+          ],
+          "columnHeaders": [
+            "Table 1 Comparison of baseline characteristics by randomised group",
+            "Comparison of baseline characteristics by randomised group",
+            "Control schools",
+            "Number of",
+            "participants=1157",
+            "Number of schools=30",
+            "Number"
+          ]
+        },
+        {
+          "value": "979",
+          "rowHeaders": [
+            "Total number of valid weekdays of",
+            "School involved in other",
+            "Median (IQR) days"
+          ],
+          "columnHeaders": [
+            "Table 1 Comparison of baseline characteristics by randomised group",
+            "Comparison of baseline characteristics by randomised group",
+            "Intervention schools",
+            "Number of",
+            "participants=1064",
+            "Number of schools=30",
+            "Number"
+          ]
+        },
+        {
+          "value": "912",
+          "rowHeaders": [
+            "Total hours of wearing accelerometer",
+            "School involved in other",
+            "Mean (SD) hours/day"
+          ],
+          "columnHeaders": [
+            "Table 1 Comparison of baseline characteristics by randomised group",
+            "Comparison of baseline characteristics by randomised group",
+            "Intervention schools",
+            "Number of",
+            "participants=1064",
+            "Number of schools=30",
+            "Number",
+            "2 (2 to 3)"
+          ]
+        },
+        {
+          "value": "11.6 (1.5)",
+          "rowHeaders": [
+            "Total hours of wearing accelerometer",
+            "School involved in other",
+            "Mean (SD) hours/day"
+          ],
+          "columnHeaders": [
+            "Table 1 Comparison of baseline characteristics by randomised group",
+            "Comparison of baseline characteristics by randomised group",
+            "Intervention schools",
+            "Number of",
+            "participants=1064",
+            "Number of schools=30",
+            "Distribution",
+            "1 (0 to 2)",
+            "2 (1 to 3)",
+            "0 (0 to 1)",
+            "2 (1 to 3)",
+            "2 (2 to 3)"
+          ]
+        },
+        {
+          "value": "928",
+          "rowHeaders": [
+            "Total hours of wearing accelerometer",
+            "health-promoting activities",
+            "Mean (SD) hours/day",
+            "3 (2 to 5)",
+            "90 (30 to 240)"
+          ],
+          "columnHeaders": [
+            "Table 1 Comparison of baseline characteristics by randomised group",
+            "Comparison of baseline characteristics by randomised group",
+            "Control schools",
+            "Number of",
+            "participants=1157",
+            "Number of schools=30",
+            "Number"
+          ]
+        },
+        {
+          "value": "11.5 (1.4)",
+          "rowHeaders": [
+            "Total hours of wearing accelerometer",
+            "health-promoting activities",
+            "Mean (SD) hours/day",
+            "3 (2 to 5)",
+            "90 (30 to 240)"
+          ],
+          "columnHeaders": [
+            "Table 1 Comparison of baseline characteristics by randomised group",
+            "Comparison of baseline characteristics by randomised group",
+            "Control schools",
+            "Number of",
+            "participants=1157",
+            "Number of schools=30",
+            "Distribution",
+            "1 (0 to 2)",
+            "2 (1 to 3)",
+            "1 (0 to 1)",
+            "2 (1 to 3)",
+            "2 (1 to 3)"
+          ]
+        },
+        {
+          "value": "896",
+          "rowHeaders": [
+            "Hours of wearing accelerometer on",
+            "School involved in other",
+            "Mean (SD) hours/day"
+          ],
+          "columnHeaders": [
+            "Table 1 Comparison of baseline characteristics by randomised group",
+            "Comparison of baseline characteristics by randomised group",
+            "Intervention schools",
+            "Number of",
+            "participants=1064",
+            "Number of schools=30",
+            "Number",
+            "2 (2 to 3)"
+          ]
+        },
+        {
+          "value": "11.8 (1.6)",
+          "rowHeaders": [
+            "Hours of wearing accelerometer on",
+            "health-promoting activities",
+            "Mean (SD) hours/day"
+          ],
+          "columnHeaders": [
+            "Table 1 Comparison of baseline characteristics by randomised group",
+            "Comparison of baseline characteristics by randomised group",
+            "Intervention schools",
+            "Number of",
+            "participants=1064",
+            "Number of schools=30",
+            "Distribution",
+            "1 (0 to 2)",
+            "2 (1 to 3)",
+            "0 (0 to 1)",
+            "2 (1 to 3)",
+            "2 (2 to 3)"
+          ]
+        },
+        {
+          "value": "919",
+          "rowHeaders": [
+            "Hours of wearing accelerometer on",
+            "health-promoting activities",
+            "Mean (SD) hours/day"
+          ],
+          "columnHeaders": [
+            "Table 1 Comparison of baseline characteristics by randomised group",
+            "Comparison of baseline characteristics by randomised group",
+            "Control schools",
+            "Number of",
+            "participants=1157",
+            "Number of schools=30",
+            "Number"
+          ]
+        },
+        {
+          "value": "11.7 (1.5)",
+          "rowHeaders": [
+            "Hours of wearing accelerometer on",
+            "health-promoting activities",
+            "Mean (SD) hours/day",
+            "3 (2 to 5)",
+            "90 (30 to 240)"
+          ],
+          "columnHeaders": [
+            "Table 1 Comparison of baseline characteristics by randomised group",
+            "Comparison of baseline characteristics by randomised group",
+            "Control schools",
+            "Number of",
+            "participants=1157",
+            "Number of schools=30",
+            "Distribution",
+            "1 (0 to 2)",
+            "2 (1 to 3)",
+            "1 (0 to 1)",
+            "2 (1 to 3)",
+            "2 (1 to 3)"
+          ]
+        },
+        {
+          "value": "520",
+          "rowHeaders": [
+            "Gender",
+            "health-promoting activities",
+            "N (%) female"
+          ],
+          "columnHeaders": [
+            "Table 1 Comparison of baseline characteristics by randomised group",
+            "Comparison of baseline characteristics by randomised group",
+            "Intervention schools",
+            "Number of",
+            "participants=1064",
+            "Number of schools=30",
+            "Number",
+            "2 (2 to 3)"
+          ]
+        },
+        {
+          "value": "608",
+          "rowHeaders": [
+            "Gender",
+            "health-promoting activities",
+            "N (%) female"
+          ],
+          "columnHeaders": [
+            "Table 1 Comparison of baseline characteristics by randomised group",
+            "Comparison of baseline characteristics by randomised group",
+            "Control schools",
+            "Number of",
+            "participants=1157",
+            "Number of schools=30",
+            "Number"
+          ]
+        },
+        {
+          "value": "544",
+          "rowHeaders": [
+            "Total hours of wearing accelerometer",
+            "health-promoting activities",
+            "N (%) male"
+          ],
+          "columnHeaders": [
+            "Table 1 Comparison of baseline characteristics by randomised group",
+            "Comparison of baseline characteristics by randomised group",
+            "Intervention schools",
+            "Number of",
+            "participants=1064",
+            "Number of schools=30",
+            "Number",
+            "2 (2 to 3)"
+          ]
+        },
+        {
+          "value": "549",
+          "rowHeaders": [
+            "Total hours of wearing accelerometer",
+            "health-promoting activities",
+            "N (%) male"
+          ],
+          "columnHeaders": [
+            "Table 1 Comparison of baseline characteristics by randomised group",
+            "Comparison of baseline characteristics by randomised group",
+            "Control schools",
+            "Number of",
+            "participants=1157",
+            "Number of schools=30",
+            "Number"
+          ]
+        },
+        {
+          "value": "717",
+          "rowHeaders": [
+            "General overweight/obesity",
+            "health-promoting activities",
+            "N (%) No"
+          ],
+          "columnHeaders": [
+            "Table 1 Comparison of baseline characteristics by randomised group",
+            "Comparison of baseline characteristics by randomised group",
+            "Intervention schools",
+            "Number of",
+            "participants=1064",
+            "Number of schools=30",
+            "Number",
+            "2 (2 to 3)"
+          ]
+        },
+        {
+          "value": "743",
+          "rowHeaders": [
+            "General overweight/obesity",
+            "health-promoting activities",
+            "N (%) No"
+          ],
+          "columnHeaders": [
+            "Table 1 Comparison of baseline characteristics by randomised group",
+            "Comparison of baseline characteristics by randomised group",
+            "Control schools",
+            "Number of",
+            "participants=1157",
+            "Number of schools=30",
+            "Number"
+          ]
+        },
+        {
+          "value": "172",
+          "rowHeaders": [
+            "Hours of wearing accelerometer on",
+            "health-promoting activities",
+            "N (%) Yes"
+          ],
+          "columnHeaders": [
+            "Table 1 Comparison of baseline characteristics by randomised group",
+            "Comparison of baseline characteristics by randomised group",
+            "Intervention schools",
+            "Number of",
+            "participants=1064",
+            "Number of schools=30",
+            "Number",
+            "2 (2 to 3)"
+          ]
+        },
+        {
+          "value": "210",
+          "rowHeaders": [
+            "Total hours of wearing accelerometer",
+            "health-promoting activities",
+            "N (%) Yes"
+          ],
+          "columnHeaders": [
+            "Table 1 Comparison of baseline characteristics by randomised group",
+            "Comparison of baseline characteristics by randomised group",
+            "Control schools",
+            "Number of",
+            "participants=1157",
+            "Number of schools=30",
+            "Number"
+          ]
+        },
+        {
+          "value": "601",
+          "rowHeaders": [
+            "Central overweight/obesity",
+            "health-promoting activities",
+            "N (%) No"
+          ],
+          "columnHeaders": [
+            "Table 1 Comparison of baseline characteristics by randomised group",
+            "Comparison of baseline characteristics by randomised group",
+            "Intervention schools",
+            "Number of",
+            "participants=1064",
+            "Number of schools=30",
+            "Number",
+            "2 (2 to 3)"
+          ]
+        },
+        {
+          "value": "631",
+          "rowHeaders": [
+            "Central overweight/obesity",
+            "health-promoting activities",
+            "N (%) No"
+          ],
+          "columnHeaders": [
+            "Table 1 Comparison of baseline characteristics by randomised group",
+            "Comparison of baseline characteristics by randomised group",
+            "Control schools",
+            "Number of",
+            "participants=1157",
+            "Number of schools=30",
+            "Number"
+          ]
+        },
+        {
+          "value": "341",
+          "rowHeaders": [
+            "Wore accelerometer for requested",
+            "health-promoting activities",
+            "N (%) Yes"
+          ],
+          "columnHeaders": [
+            "Table 1 Comparison of baseline characteristics by randomised group",
+            "Comparison of baseline characteristics by randomised group",
+            "Intervention schools",
+            "Number of",
+            "participants=1064",
+            "Number of schools=30",
+            "Number",
+            "2 (2 to 3)"
+          ]
+        },
+        {
+          "value": "396",
+          "rowHeaders": [
+            "Wore accelerometer for requested",
+            "health-promoting activities",
+            "N (%) Yes"
+          ],
+          "columnHeaders": [
+            "Table 1 Comparison of baseline characteristics by randomised group",
+            "Comparison of baseline characteristics by randomised group",
+            "Control schools",
+            "Number of",
+            "participants=1157",
+            "Number of schools=30",
+            "Number"
+          ]
+        },
+        {
+          "value": "132",
+          "rowHeaders": [
+            "Returned accelerometer",
+            "health-promoting activities",
+            "N (%) No"
+          ],
+          "columnHeaders": [
+            "Table 1 Comparison of baseline characteristics by randomised group",
+            "Comparison of baseline characteristics by randomised group",
+            "Control schools",
+            "Number of",
+            "participants=1157",
+            "Number of schools=30",
+            "Number"
+          ]
+        },
+        {
+          "value": "979",
+          "rowHeaders": [
+            "Wore accelerometer for requested",
+            "health-promoting activities",
+            "N (%) Yes"
+          ],
+          "columnHeaders": [
+            "Table 1 Comparison of baseline characteristics by randomised group",
+            "Comparison of baseline characteristics by randomised group",
+            "Intervention schools",
+            "Number of",
+            "participants=1064",
+            "Number of schools=30",
+            "Number",
+            "2 (2 to 3)"
+          ]
+        },
+        {
+          "value": "820",
+          "rowHeaders": [
+            "Wore accelerometer for requested",
+            "health-promoting activities",
+            "N (%) No"
+          ],
+          "columnHeaders": [
+            "Table 1 Comparison of baseline characteristics by randomised group",
+            "Comparison of baseline characteristics by randomised group",
+            "Intervention schools",
+            "Number of",
+            "participants=1064",
+            "Number of schools=30",
+            "Number",
+            "2 (2 to 3)"
+          ]
+        },
+        {
+          "value": "953",
+          "rowHeaders": [
+            "Wore accelerometer for requested",
+            "health-promoting activities",
+            "N (%) No"
+          ],
+          "columnHeaders": [
+            "Table 1 Comparison of baseline characteristics by randomised group",
+            "Comparison of baseline characteristics by randomised group",
+            "Control schools",
+            "Number of",
+            "participants=1157",
+            "Number of schools=30",
+            "Number"
+          ]
+        },
+        {
+          "value": "244",
+          "rowHeaders": [
+            "amount of time",
+            "health-promoting activities",
+            "N (%) Yes"
+          ],
+          "columnHeaders": [
+            "Table 1 Comparison of baseline characteristics by randomised group",
+            "Comparison of baseline characteristics by randomised group",
+            "Intervention schools",
+            "Number of",
+            "participants=1064",
+            "Number of schools=30",
+            "Number",
+            "2 (2 to 3)"
+          ]
+        },
+        {
+          "value": "204",
+          "rowHeaders": [
+            "amount of time",
+            "health-promoting activities",
+            "N (%) Yes"
+          ],
+          "columnHeaders": [
+            "Table 1 Comparison of baseline characteristics by randomised group",
+            "Comparison of baseline characteristics by randomised group",
+            "Control schools",
+            "Number of",
+            "participants=1157",
+            "Number of schools=30",
+            "Number"
+          ]
+        },
+        {
+          "value": "418",
+          "rowHeaders": [
+            "Wore accelerometer for required",
+            "health-promoting activities",
+            "N (%) No"
+          ],
+          "columnHeaders": [
+            "Table 1 Comparison of baseline characteristics by randomised group",
+            "Comparison of baseline characteristics by randomised group",
+            "Intervention schools",
+            "Number of",
+            "participants=1064",
+            "Number of schools=30",
+            "Number",
+            "2 (2 to 3)"
+          ]
+        },
+        {
+          "value": "514",
+          "rowHeaders": [
+            "Wore accelerometer for required",
+            "health-promoting activities",
+            "N (%) No"
+          ],
+          "columnHeaders": [
+            "Table 1 Comparison of baseline characteristics by randomised group",
+            "Comparison of baseline characteristics by randomised group",
+            "Control schools",
+            "Number of",
+            "participants=1157",
+            "Number of schools=30",
+            "Number"
+          ]
+        },
+        {
+          "value": "646",
+          "rowHeaders": [
+            "amount of time",
+            "health-promoting activities",
+            "N (%) Yes"
+          ],
+          "columnHeaders": [
+            "Table 1 Comparison of baseline characteristics by randomised group",
+            "Comparison of baseline characteristics by randomised group",
+            "Intervention schools",
+            "Number of",
+            "participants=1064",
+            "Number of schools=30",
+            "Number",
+            "2 (2 to 3)"
+          ]
+        },
+        {
+          "value": "643",
+          "rowHeaders": [
+            "amount of time",
+            "health-promoting activities",
+            "N (%) Yes"
+          ],
+          "columnHeaders": [
+            "Table 1 Comparison of baseline characteristics by randomised group",
+            "Comparison of baseline characteristics by randomised group",
+            "Control schools",
+            "Number of",
+            "participants=1157",
+            "Number of schools=30",
+            "Number"
+          ]
+        },
+        {
+          "value": "264",
+          "rowHeaders": [
+            "Wore accelerometer for requested",
+            "School involved in other",
+            "N (%) No"
+          ],
+          "columnHeaders": [
+            "Table 1 Comparison of baseline characteristics by randomised group",
+            "Comparison of baseline characteristics by randomised group",
+            "Intervention schools",
+            "Number of",
+            "participants=1064",
+            "Number of schools=30",
+            "Number",
+            "2 (2 to 3)"
+          ]
+        },
+        {
+          "value": "446",
+          "rowHeaders": [
+            "Wore accelerometer for requested",
+            "School involved in other",
+            "N (%) No"
+          ],
+          "columnHeaders": [
+            "Table 1 Comparison of baseline characteristics by randomised group",
+            "Comparison of baseline characteristics by randomised group",
+            "Control schools",
+            "Number of",
+            "participants=1157",
+            "Number of schools=30",
+            "Number"
+          ]
+        },
+        {
+          "value": "800",
+          "rowHeaders": [
+            "Wore accelerometer for requested",
+            "health-promoting activities",
+            "N (%) Yes"
+          ],
+          "columnHeaders": [
+            "Table 1 Comparison of baseline characteristics by randomised group",
+            "Comparison of baseline characteristics by randomised group",
+            "Intervention schools",
+            "Number of",
+            "participants=1064",
+            "Number of schools=30",
+            "Number",
+            "2 (2 to 3)"
+          ]
+        },
+        {
+          "value": "711",
+          "rowHeaders": [
+            "Wore accelerometer for requested",
+            "health-promoting activities",
+            "N (%) Yes"
+          ],
+          "columnHeaders": [
+            "Table 1 Comparison of baseline characteristics by randomised group",
+            "Comparison of baseline characteristics by randomised group",
+            "Control schools",
+            "Number of",
+            "participants=1157",
+            "Number of schools=30",
+            "Number"
+          ]
+        },
+        {
+          "value": "315",
+          "rowHeaders": [
+            "Wore accelerometer for requested",
+            "School deprivation score",
+            "N (%) low"
+          ],
+          "columnHeaders": [
+            "Table 1 Comparison of baseline characteristics by randomised group",
+            "Comparison of baseline characteristics by randomised group",
+            "Intervention schools",
+            "Number of",
+            "participants=1064",
+            "Number of schools=30",
+            "Number",
+            "2 (2 to 3)"
+          ]
+        },
+        {
+          "value": "460",
+          "rowHeaders": [
+            "Wore accelerometer for requested",
+            "School deprivation score",
+            "N (%) low"
+          ],
+          "columnHeaders": [
+            "Table 1 Comparison of baseline characteristics by randomised group",
+            "Comparison of baseline characteristics by randomised group",
+            "Control schools",
+            "Number of",
+            "participants=1157",
+            "Number of schools=30",
+            "Number"
+          ]
+        },
+        {
+          "value": "368",
+          "rowHeaders": [
+            "Wore accelerometer for required",
+            "health-promoting activities",
+            "N (%) medium"
+          ],
+          "columnHeaders": [
+            "Table 1 Comparison of baseline characteristics by randomised group",
+            "Comparison of baseline characteristics by randomised group",
+            "Intervention schools",
+            "Number of",
+            "participants=1064",
+            "Number of schools=30",
+            "Number",
+            "2 (2 to 3)"
+          ]
+        },
+        {
+          "value": "345",
+          "rowHeaders": [
+            "Wore accelerometer for requested",
+            "health-promoting activities",
+            "N (%) medium"
+          ],
+          "columnHeaders": [
+            "Table 1 Comparison of baseline characteristics by randomised group",
+            "Comparison of baseline characteristics by randomised group",
+            "Control schools",
+            "Number of",
+            "participants=1157",
+            "Number of schools=30",
+            "Number"
+          ]
+        },
+        {
+          "value": "381",
+          "rowHeaders": [
+            "Wore accelerometer for required",
+            "health-promoting activities",
+            "N (%) high"
+          ],
+          "columnHeaders": [
+            "Table 1 Comparison of baseline characteristics by randomised group",
+            "Comparison of baseline characteristics by randomised group",
+            "Intervention schools",
+            "Number of",
+            "participants=1064",
+            "Number of schools=30",
+            "Number",
+            "2 (2 to 3)"
+          ]
+        },
+        {
+          "value": "352",
+          "rowHeaders": [
+            "Wore accelerometer for requested",
+            "health-promoting activities",
+            "N (%) high"
+          ],
+          "columnHeaders": [
+            "Table 1 Comparison of baseline characteristics by randomised group",
+            "Comparison of baseline characteristics by randomised group",
+            "Control schools",
+            "Number of",
+            "participants=1157",
+            "Number of schools=30",
+            "Number"
+          ]
+        },
+        {
+          "value": "100 because of rounding.",
+          "rowHeaders": [
+            "Wore accelerometer for required",
+            "health-promoting activities",
+            "Note some % within categories do not sum to exactly"
+          ],
+          "columnHeaders": [
+            "Table 1 Comparison of baseline characteristics by randomised group",
+            "Comparison of baseline characteristics by randomised group",
+            "Intervention schools",
+            "Number of",
+            "participants=1064",
+            "Unit and type of",
+            "summary measure",
+            "Median (IQR) number/day",
+            "Median (IQR) number/day",
+            "Median (IQR) number/day",
+            "Median (IQR) number/day",
+            "2 (2 to 3)"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "52.56 (20.67)",
+          "rowHeaders": [
+            "Time spent in MVPA"
+          ],
+          "columnHeaders": [
+            "Table 2 Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Control group",
+            "(reference group)",
+            "Mean (SD) or",
+            "number (%)"
+          ]
+        },
+        {
+          "value": "54.37 (22.23)",
+          "rowHeaders": [
+            "Time spent in MVPA"
+          ],
+          "columnHeaders": [
+            "Table 2 Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main comparison between the two",
+            "Intervention group",
+            "Mean (SD) or",
+            "number (%)"
+          ]
+        },
+        {
+          "value": "2.48 (−1.80 to",
+          "rowHeaders": [
+            "Time spent in MVPA"
+          ],
+          "columnHeaders": [
+            "Table 2 Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main comparison between the two",
+            "groups (intervention vs control)",
+            "Difference in means or",
+            "OR (95% CI)"
+          ]
+        },
+        {
+          "value": "6.77)",
+          "rowHeaders": [
+            "Time spent in MVPA"
+          ],
+          "columnHeaders": [
+            "Table 2 Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main comparison between the two",
+            "groups (intervention vs control)",
+            "Difference in means or",
+            "p Value"
+          ]
+        },
+        {
+          "value": "0.26",
+          "rowHeaders": [
+            "Time spent in MVPA"
+          ],
+          "columnHeaders": [
+            "Table 2 Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main comparison between the two",
+            "groups (intervention vs control)",
+            "Difference in means or",
+            "p Value"
+          ]
+        },
+        {
+          "value": "461.78 (66.33)",
+          "rowHeaders": [
+            "Time spent in sedentary"
+          ],
+          "columnHeaders": [
+            "Table 2 Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Control group",
+            "(reference group)",
+            "Mean (SD) or",
+            "number (%)"
+          ]
+        },
+        {
+          "value": "465.46 (70.61)",
+          "rowHeaders": [
+            "Time spent in sedentary"
+          ],
+          "columnHeaders": [
+            "Table 2 Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main comparison between the two",
+            "Intervention group",
+            "Mean (SD) or",
+            "number (%)"
+          ]
+        },
+        {
+          "value": "2.79 (−7.78 to",
+          "rowHeaders": [
+            "Time spent in sedentary"
+          ],
+          "columnHeaders": [
+            "Table 2 Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main comparison between the two",
+            "groups (intervention vs control)",
+            "Difference in means or",
+            "OR (95% CI)"
+          ]
+        },
+        {
+          "value": "13.37)",
+          "rowHeaders": [
+            "Time spent in sedentary"
+          ],
+          "columnHeaders": [
+            "Table 2 Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main comparison between the two",
+            "groups (intervention vs control)",
+            "Difference in means or",
+            "p Value"
+          ]
+        },
+        {
+          "value": "0.60",
+          "rowHeaders": [
+            "Time spent in sedentary"
+          ],
+          "columnHeaders": [
+            "Table 2 Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main comparison between the two",
+            "groups (intervention vs control)",
+            "Difference in means or",
+            "p Value"
+          ]
+        },
+        {
+          "value": "1.80 (1.55)",
+          "rowHeaders": [
+            "Servings of fruit and"
+          ],
+          "columnHeaders": [
+            "Table 2 Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Control group",
+            "(reference group)",
+            "Mean (SD) or",
+            "number (%)"
+          ]
+        },
+        {
+          "value": "1.82 (1.59)",
+          "rowHeaders": [
+            "Servings of fruit and"
+          ],
+          "columnHeaders": [
+            "Table 2 Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main comparison between the two",
+            "Intervention group",
+            "Mean (SD) or",
+            "number (%)"
+          ]
+        },
+        {
+          "value": "0.01 (−06 to",
+          "rowHeaders": [
+            "Servings of fruit and"
+          ],
+          "columnHeaders": [
+            "Table 2 Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main comparison between the two",
+            "groups (intervention vs control)",
+            "Difference in means or",
+            "OR (95% CI)"
+          ]
+        },
+        {
+          "value": "0.17)",
+          "rowHeaders": [
+            "Servings of fruit and"
+          ],
+          "columnHeaders": [
+            "Table 2 Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main comparison between the two",
+            "groups (intervention vs control)",
+            "Difference in means or",
+            "OR (95% CI)"
+          ]
+        },
+        {
+          "value": "0.94",
+          "rowHeaders": [
+            "Servings of fruit and"
+          ],
+          "columnHeaders": [
+            "Table 2 Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main comparison between the two",
+            "groups (intervention vs control)",
+            "Difference in means or",
+            "p Value"
+          ]
+        },
+        {
+          "value": "148.01 (126.39)",
+          "rowHeaders": [
+            "Time spent screen-viewing"
+          ],
+          "columnHeaders": [
+            "Table 2 Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Control group",
+            "(reference group)",
+            "Mean (SD) or",
+            "number (%)"
+          ]
+        },
+        {
+          "value": "138.88 (125.00)",
+          "rowHeaders": [
+            "Time spent screen-viewing"
+          ],
+          "columnHeaders": [
+            "Table 2 Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main comparison between the two",
+            "Intervention group",
+            "Mean (SD) or",
+            "number (%)"
+          ]
+        },
+        {
+          "value": "−10.74 (−26.30 to",
+          "rowHeaders": [
+            "Time spent screen-viewing"
+          ],
+          "columnHeaders": [
+            "Table 2 Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main comparison between the two",
+            "groups (intervention vs control)",
+            "Difference in means or",
+            "OR (95% CI)"
+          ]
+        },
+        {
+          "value": "4.81)",
+          "rowHeaders": [
+            "Time spent screen-viewing"
+          ],
+          "columnHeaders": [
+            "Table 2 Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main comparison between the two",
+            "groups (intervention vs control)",
+            "Difference in means or",
+            "p Value"
+          ]
+        },
+        {
+          "value": "0.18",
+          "rowHeaders": [
+            "Time spent screen-viewing"
+          ],
+          "columnHeaders": [
+            "Table 2 Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main comparison between the two",
+            "groups (intervention vs control)",
+            "Difference in means or",
+            "p Value"
+          ]
+        },
+        {
+          "value": "180.52 (164.82)",
+          "rowHeaders": [
+            "Time spent screen-viewing"
+          ],
+          "columnHeaders": [
+            "Table 2 Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Control group",
+            "(reference group)",
+            "Mean (SD) or",
+            "number (%)"
+          ]
+        },
+        {
+          "value": "167.71 (156.28)",
+          "rowHeaders": [
+            "Time spent screen-viewing"
+          ],
+          "columnHeaders": [
+            "Table 2 Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main comparison between the two",
+            "Intervention group",
+            "Mean (SD) or",
+            "number (%)"
+          ]
+        },
+        {
+          "value": "−16.03 (−32.82 to",
+          "rowHeaders": [
+            "Time spent screen-viewing"
+          ],
+          "columnHeaders": [
+            "Table 2 Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main comparison between the two",
+            "groups (intervention vs control)",
+            "Difference in means or",
+            "OR (95% CI)"
+          ]
+        },
+        {
+          "value": "0.73)",
+          "rowHeaders": [
+            "Time spent screen-viewing"
+          ],
+          "columnHeaders": [
+            "Table 2 Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main comparison between the two",
+            "groups (intervention vs control)",
+            "Difference in means or",
+            "p Value"
+          ]
+        },
+        {
+          "value": "0.06",
+          "rowHeaders": [
+            "Time spent screen-viewing"
+          ],
+          "columnHeaders": [
+            "Table 2 Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main comparison between the two",
+            "groups (intervention vs control)",
+            "Difference in means or",
+            "p Value"
+          ]
+        },
+        {
+          "value": "0.03 (1.02)",
+          "rowHeaders": [
+            "Body mass index (z-score)"
+          ],
+          "columnHeaders": [
+            "Table 2 Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Control group",
+            "(reference group)",
+            "Mean (SD) or",
+            "number (%)"
+          ]
+        },
+        {
+          "value": "−0.03 (0.97)",
+          "rowHeaders": [
+            "Body mass index (z-score)"
+          ],
+          "columnHeaders": [
+            "Table 2 Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main comparison between the two",
+            "Intervention group",
+            "Mean (SD) or",
+            "number (%)"
+          ]
+        },
+        {
+          "value": "0.01 (−0.04 to",
+          "rowHeaders": [
+            "Body mass index (z-score)"
+          ],
+          "columnHeaders": [
+            "Table 2 Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main comparison between the two",
+            "groups (intervention vs control)",
+            "Difference in means or",
+            "OR (95% CI)"
+          ]
+        },
+        {
+          "value": "0.06)",
+          "rowHeaders": [
+            "Body mass index (z-score)"
+          ],
+          "columnHeaders": [
+            "Table 2 Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main comparison between the two",
+            "groups (intervention vs control)",
+            "Difference in means or",
+            "p Value"
+          ]
+        },
+        {
+          "value": "0.72",
+          "rowHeaders": [
+            "Body mass index (z-score)"
+          ],
+          "columnHeaders": [
+            "Table 2 Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main comparison between the two",
+            "groups (intervention vs control)",
+            "Difference in means or",
+            "p Value"
+          ]
+        },
+        {
+          "value": "0.03 (1.04)",
+          "rowHeaders": [
+            "Waist circumference"
+          ],
+          "columnHeaders": [
+            "Table 2 Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Control group",
+            "(reference group)",
+            "Mean (SD) or",
+            "number (%)"
+          ]
+        },
+        {
+          "value": "−0.03 (0.95)",
+          "rowHeaders": [
+            "Waist circumference"
+          ],
+          "columnHeaders": [
+            "Table 2 Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main comparison between the two",
+            "Intervention group",
+            "Mean (SD) or",
+            "number (%)"
+          ]
+        },
+        {
+          "value": "−0.04 (−0.13 to",
+          "rowHeaders": [
+            "Waist circumference"
+          ],
+          "columnHeaders": [
+            "Table 2 Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main comparison between the two",
+            "groups (intervention vs control)",
+            "Difference in means or",
+            "OR (95% CI)"
+          ]
+        },
+        {
+          "value": "0.05)",
+          "rowHeaders": [
+            "Waist circumference"
+          ],
+          "columnHeaders": [
+            "Table 2 Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main comparison between the two",
+            "groups (intervention vs control)",
+            "Difference in means or",
+            "p Value"
+          ]
+        },
+        {
+          "value": "0.36",
+          "rowHeaders": [
+            "Waist circumference"
+          ],
+          "columnHeaders": [
+            "Table 2 Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main comparison between the two",
+            "groups (intervention vs control)",
+            "Difference in means or",
+            "p Value"
+          ]
+        },
+        {
+          "value": "2.11 (1.55)",
+          "rowHeaders": [
+            "Servings of snacks"
+          ],
+          "columnHeaders": [
+            "Table 2 Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Control group",
+            "(reference group)",
+            "Mean (SD) or",
+            "number (%)"
+          ]
+        },
+        {
+          "value": "1.99 (1.47)",
+          "rowHeaders": [
+            "Servings of snacks"
+          ],
+          "columnHeaders": [
+            "Table 2 Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main comparison between the two",
+            "Intervention group",
+            "Mean (SD) or",
+            "number (%)"
+          ]
+        },
+        {
+          "value": "−0.11 (−0.29 to",
+          "rowHeaders": [
+            "Servings of snacks"
+          ],
+          "columnHeaders": [
+            "Table 2 Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main comparison between the two",
+            "groups (intervention vs control)",
+            "Difference in means or",
+            "OR (95% CI)"
+          ]
+        },
+        {
+          "value": "0.06)",
+          "rowHeaders": [
+            "Servings of snacks"
+          ],
+          "columnHeaders": [
+            "Table 2 Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main comparison between the two",
+            "groups (intervention vs control)",
+            "Difference in means or",
+            "p Value"
+          ]
+        },
+        {
+          "value": "0.19",
+          "rowHeaders": [
+            "Servings of snacks"
+          ],
+          "columnHeaders": [
+            "Table 2 Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main comparison between the two",
+            "groups (intervention vs control)",
+            "Difference in means or",
+            "p Value"
+          ]
+        },
+        {
+          "value": "0.86 (0.94)",
+          "rowHeaders": [
+            "Servings of high-fat foods"
+          ],
+          "columnHeaders": [
+            "Table 2 Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Control group",
+            "(reference group)",
+            "Mean (SD) or",
+            "number (%)"
+          ]
+        },
+        {
+          "value": "0.74 (1.07)",
+          "rowHeaders": [
+            "Servings of high-fat foods"
+          ],
+          "columnHeaders": [
+            "Table 2 Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main comparison between the two",
+            "Intervention group",
+            "Mean (SD) or",
+            "number (%)"
+          ]
+        },
+        {
+          "value": "−0.12 (−0.25 to",
+          "rowHeaders": [
+            "Servings of high-fat foods"
+          ],
+          "columnHeaders": [
+            "Table 2 Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main comparison between the two",
+            "groups (intervention vs control)",
+            "Difference in means or",
+            "OR (95% CI)"
+          ]
+        },
+        {
+          "value": "0.00)",
+          "rowHeaders": [
+            "Servings of high-fat foods"
+          ],
+          "columnHeaders": [
+            "Table 2 Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main comparison between the two",
+            "groups (intervention vs control)",
+            "Difference in means or",
+            "p Value"
+          ]
+        },
+        {
+          "value": "0.05",
+          "rowHeaders": [
+            "Servings of high-fat foods"
+          ],
+          "columnHeaders": [
+            "Table 2 Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main comparison between the two",
+            "groups (intervention vs control)",
+            "Difference in means or",
+            "p Value"
+          ]
+        },
+        {
+          "value": "2.38 (1.58)",
+          "rowHeaders": [
+            "Servings of high-energy"
+          ],
+          "columnHeaders": [
+            "Table 2 Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Control group",
+            "(reference group)",
+            "Mean (SD) or",
+            "number (%)"
+          ]
+        },
+        {
+          "value": "2.19 (1.45)",
+          "rowHeaders": [
+            "Servings of high-energy"
+          ],
+          "columnHeaders": [
+            "Table 2 Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main comparison between the two",
+            "Intervention group",
+            "Mean (SD) or",
+            "number (%)"
+          ]
+        },
+        {
+          "value": "−0.20 (−0.39 to −0.01)",
+          "rowHeaders": [
+            "Servings of high-energy"
+          ],
+          "columnHeaders": [
+            "Table 2 Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main comparison between the two",
+            "groups (intervention vs control)",
+            "Difference in means or",
+            "OR (95% CI)"
+          ]
+        },
+        {
+          "value": "0.04",
+          "rowHeaders": [
+            "Servings of high-energy"
+          ],
+          "columnHeaders": [
+            "Table 2 Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main comparison between the two",
+            "groups (intervention vs control)",
+            "Difference in means or",
+            "p Value"
+          ]
+        },
+        {
+          "value": "1.00",
+          "rowHeaders": [
+            "Generally overweight/obese"
+          ],
+          "columnHeaders": [
+            "Table 2 Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main comparison between the two",
+            "groups (intervention vs control)",
+            "Difference in means or",
+            "OR (95% CI)"
+          ]
+        },
+        {
+          "value": "(0.72 to",
+          "rowHeaders": [
+            "Generally overweight/obese"
+          ],
+          "columnHeaders": [
+            "Table 2 Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main comparison between the two",
+            "groups (intervention vs control)",
+            "Difference in means or",
+            "OR (95% CI)"
+          ]
+        },
+        {
+          "value": "1.37)",
+          "rowHeaders": [
+            "Generally overweight/obese"
+          ],
+          "columnHeaders": [
+            "Table 2 Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main comparison between the two",
+            "groups (intervention vs control)",
+            "Difference in means or",
+            "OR (95% CI)"
+          ]
+        },
+        {
+          "value": "0.98",
+          "rowHeaders": [
+            "Generally overweight/obese"
+          ],
+          "columnHeaders": [
+            "Table 2 Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main comparison between the two",
+            "groups (intervention vs control)",
+            "Difference in means or",
+            "p Value"
+          ]
+        },
+        {
+          "value": "1.08",
+          "rowHeaders": [
+            "Centrally overweight/obese"
+          ],
+          "columnHeaders": [
+            "Table 2 Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main comparison between the two",
+            "groups (intervention vs control)",
+            "Difference in means or",
+            "OR (95% CI)"
+          ]
+        },
+        {
+          "value": "(0.80 to",
+          "rowHeaders": [
+            "Centrally overweight/obese"
+          ],
+          "columnHeaders": [
+            "Table 2 Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main comparison between the two",
+            "groups (intervention vs control)",
+            "Difference in means or",
+            "OR (95% CI)"
+          ]
+        },
+        {
+          "value": "1.46)",
+          "rowHeaders": [
+            "Centrally overweight/obese"
+          ],
+          "columnHeaders": [
+            "Table 2 Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main comparison between the two",
+            "groups (intervention vs control)",
+            "Difference in means or",
+            "OR (95% CI)"
+          ]
+        },
+        {
+          "value": "0.62",
+          "rowHeaders": [
+            "Centrally overweight/obese"
+          ],
+          "columnHeaders": [
+            "Table 2 Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main intention-to-treat analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed",
+            "Main comparison between the two",
+            "groups (intervention vs control)",
+            "Difference in means or",
+            "p Value"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "52.56 (20.67)",
+          "rowHeaders": [
+            "Time spent in MVPA (min/day)"
+          ],
+          "columnHeaders": [
+            "Table 3 Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Control group",
+            "(reference group)",
+            "Mean (SD) or",
+            "number (%)"
+          ]
+        },
+        {
+          "value": "54.15 (22.27)",
+          "rowHeaders": [
+            "Time spent in MVPA (min/day)"
+          ],
+          "columnHeaders": [
+            "Table 3 Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Main comparison between the two",
+            "Intervention group",
+            "Mean (SD) or",
+            "number (%)"
+          ]
+        },
+        {
+          "value": "2.63 (−2.10 to",
+          "rowHeaders": [
+            "Time spent in MVPA (min/day)"
+          ],
+          "columnHeaders": [
+            "Table 3 Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Main comparison between the two",
+            "groups (intervention vs control)",
+            "Difference in means or",
+            "OR (95% CI)"
+          ]
+        },
+        {
+          "value": "7.37)",
+          "rowHeaders": [
+            "Time spent in MVPA (min/day)"
+          ],
+          "columnHeaders": [
+            "Table 3 Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Main comparison between the two",
+            "groups (intervention vs control)",
+            "Difference in means or",
+            "p Value"
+          ]
+        },
+        {
+          "value": "0.28",
+          "rowHeaders": [
+            "Time spent in MVPA (min/day)"
+          ],
+          "columnHeaders": [
+            "Table 3 Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Main comparison between the two",
+            "groups (intervention vs control)",
+            "Difference in means or",
+            "p Value"
+          ]
+        },
+        {
+          "value": "461.78 (66.33)",
+          "rowHeaders": [
+            "Time spent in sedentary"
+          ],
+          "columnHeaders": [
+            "Table 3 Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Control group",
+            "(reference group)",
+            "Mean (SD) or",
+            "number (%)"
+          ]
+        },
+        {
+          "value": "466.17 (70.58)",
+          "rowHeaders": [
+            "Time spent in sedentary"
+          ],
+          "columnHeaders": [
+            "Table 3 Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Main comparison between the two",
+            "Intervention group",
+            "Mean (SD) or",
+            "number (%)"
+          ]
+        },
+        {
+          "value": "3.67 (−8.32 to",
+          "rowHeaders": [
+            "Time spent in sedentary"
+          ],
+          "columnHeaders": [
+            "Table 3 Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Main comparison between the two",
+            "groups (intervention vs control)",
+            "Difference in means or",
+            "OR (95% CI)"
+          ]
+        },
+        {
+          "value": "15.66)",
+          "rowHeaders": [
+            "Time spent in sedentary"
+          ],
+          "columnHeaders": [
+            "Table 3 Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Main comparison between the two",
+            "groups (intervention vs control)",
+            "Difference in means or",
+            "p Value"
+          ]
+        },
+        {
+          "value": "0.55",
+          "rowHeaders": [
+            "Time spent in sedentary"
+          ],
+          "columnHeaders": [
+            "Table 3 Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Main comparison between the two",
+            "groups (intervention vs control)",
+            "Difference in means or",
+            "p Value"
+          ]
+        },
+        {
+          "value": "1.80 (1.55)",
+          "rowHeaders": [
+            "Servings of fruit and"
+          ],
+          "columnHeaders": [
+            "Table 3 Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Control group",
+            "(reference group)",
+            "Mean (SD) or",
+            "number (%)"
+          ]
+        },
+        {
+          "value": "1.91 (1.66)",
+          "rowHeaders": [
+            "Servings of fruit and"
+          ],
+          "columnHeaders": [
+            "Table 3 Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Main comparison between the two",
+            "Intervention group",
+            "Mean (SD) or",
+            "number (%)"
+          ]
+        },
+        {
+          "value": "0.05 (−0.15 to",
+          "rowHeaders": [
+            "Servings of fruit and"
+          ],
+          "columnHeaders": [
+            "Table 3 Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Main comparison between the two",
+            "groups (intervention vs control)",
+            "Difference in means or",
+            "OR (95% CI)"
+          ]
+        },
+        {
+          "value": "0.25)",
+          "rowHeaders": [
+            "Servings of fruit and"
+          ],
+          "columnHeaders": [
+            "Table 3 Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Main comparison between the two",
+            "groups (intervention vs control)",
+            "Difference in means or",
+            "p Value"
+          ]
+        },
+        {
+          "value": "0.63",
+          "rowHeaders": [
+            "Servings of fruit and"
+          ],
+          "columnHeaders": [
+            "Table 3 Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Main comparison between the two",
+            "groups (intervention vs control)",
+            "Difference in means or",
+            "p Value"
+          ]
+        },
+        {
+          "value": "148.01 (126.39)",
+          "rowHeaders": [
+            "Time spent screen-viewing (min/"
+          ],
+          "columnHeaders": [
+            "Table 3 Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Control group",
+            "(reference group)",
+            "Mean (SD) or",
+            "number (%)"
+          ]
+        },
+        {
+          "value": "134.98 (120.94)",
+          "rowHeaders": [
+            "Time spent screen-viewing (min/"
+          ],
+          "columnHeaders": [
+            "Table 3 Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Main comparison between the two",
+            "Intervention group",
+            "Mean (SD) or",
+            "number (%)"
+          ]
+        },
+        {
+          "value": "−8.97 (−26.81 to",
+          "rowHeaders": [
+            "Time spent screen-viewing (min/"
+          ],
+          "columnHeaders": [
+            "Table 3 Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Main comparison between the two",
+            "groups (intervention vs control)",
+            "Difference in means or",
+            "OR (95% CI)"
+          ]
+        },
+        {
+          "value": "8.87)",
+          "rowHeaders": [
+            "Time spent screen-viewing (min/"
+          ],
+          "columnHeaders": [
+            "Table 3 Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Main comparison between the two",
+            "groups (intervention vs control)",
+            "Difference in means or",
+            "p Value"
+          ]
+        },
+        {
+          "value": "0.32",
+          "rowHeaders": [
+            "Time spent screen-viewing (min/"
+          ],
+          "columnHeaders": [
+            "Table 3 Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Main comparison between the two",
+            "groups (intervention vs control)",
+            "Difference in means or",
+            "p Value"
+          ]
+        },
+        {
+          "value": "180.52 (164.82)",
+          "rowHeaders": [
+            "Time spent screen-viewing (min/"
+          ],
+          "columnHeaders": [
+            "Table 3 Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Control group",
+            "(reference group)",
+            "Mean (SD) or",
+            "number (%)"
+          ]
+        },
+        {
+          "value": "159.35 (149.97)",
+          "rowHeaders": [
+            "Time spent screen-viewing (min/"
+          ],
+          "columnHeaders": [
+            "Table 3 Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Main comparison between the two",
+            "Intervention group",
+            "Mean (SD) or",
+            "number (%)"
+          ]
+        },
+        {
+          "value": "−21.73 (−41.19 to −2.26)",
+          "rowHeaders": [
+            "Time spent screen-viewing (min/"
+          ],
+          "columnHeaders": [
+            "Table 3 Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Main comparison between the two",
+            "groups (intervention vs control)",
+            "Difference in means or",
+            "OR (95% CI)"
+          ]
+        },
+        {
+          "value": "0.03",
+          "rowHeaders": [
+            "Time spent screen-viewing (min/"
+          ],
+          "columnHeaders": [
+            "Table 3 Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Main comparison between the two",
+            "groups (intervention vs control)",
+            "Difference in means or",
+            "p Value"
+          ]
+        },
+        {
+          "value": "0.03 (1.02)",
+          "rowHeaders": [
+            "Body mass index (z-score)"
+          ],
+          "columnHeaders": [
+            "Table 3 Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Control group",
+            "(reference group)",
+            "Mean (SD) or",
+            "number (%)"
+          ]
+        },
+        {
+          "value": "−0.03 (0.98)",
+          "rowHeaders": [
+            "Body mass index (z-score)"
+          ],
+          "columnHeaders": [
+            "Table 3 Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Main comparison between the two",
+            "Intervention group",
+            "Mean (SD) or",
+            "number (%)"
+          ]
+        },
+        {
+          "value": "0.01 (−0.05 to",
+          "rowHeaders": [
+            "Body mass index (z-score)"
+          ],
+          "columnHeaders": [
+            "Table 3 Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Main comparison between the two",
+            "groups (intervention vs control)",
+            "Difference in means or",
+            "OR (95% CI)"
+          ]
+        },
+        {
+          "value": "0.07)",
+          "rowHeaders": [
+            "Body mass index (z-score)"
+          ],
+          "columnHeaders": [
+            "Table 3 Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Main comparison between the two",
+            "groups (intervention vs control)",
+            "Difference in means or",
+            "p Value"
+          ]
+        },
+        {
+          "value": "0.69",
+          "rowHeaders": [
+            "Body mass index (z-score)"
+          ],
+          "columnHeaders": [
+            "Table 3 Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Main comparison between the two",
+            "groups (intervention vs control)",
+            "Difference in means or",
+            "p Value"
+          ]
+        },
+        {
+          "value": "0.03 (1.04)",
+          "rowHeaders": [
+            "Waist circumference (z-score)"
+          ],
+          "columnHeaders": [
+            "Table 3 Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Control group",
+            "(reference group)",
+            "Mean (SD) or",
+            "number (%)"
+          ]
+        },
+        {
+          "value": "−0.04 (0.94)",
+          "rowHeaders": [
+            "Waist circumference (z-score)"
+          ],
+          "columnHeaders": [
+            "Table 3 Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Main comparison between the two",
+            "Intervention group",
+            "Mean (SD) or",
+            "number (%)"
+          ]
+        },
+        {
+          "value": "−0.03 (−0.13 to",
+          "rowHeaders": [
+            "Waist circumference (z-score)"
+          ],
+          "columnHeaders": [
+            "Table 3 Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Main comparison between the two",
+            "groups (intervention vs control)",
+            "Difference in means or",
+            "OR (95% CI)"
+          ]
+        },
+        {
+          "value": "0.06)",
+          "rowHeaders": [
+            "Waist circumference (z-score)"
+          ],
+          "columnHeaders": [
+            "Table 3 Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Main comparison between the two",
+            "groups (intervention vs control)",
+            "Difference in means or",
+            "p Value"
+          ]
+        },
+        {
+          "value": "0.52",
+          "rowHeaders": [
+            "Waist circumference (z-score)"
+          ],
+          "columnHeaders": [
+            "Table 3 Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Main comparison between the two",
+            "groups (intervention vs control)",
+            "Difference in means or",
+            "p Value"
+          ]
+        },
+        {
+          "value": "2.11 (1.55)",
+          "rowHeaders": [
+            "Servings of snacks (number per"
+          ],
+          "columnHeaders": [
+            "Table 3 Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Control group",
+            "(reference group)",
+            "Mean (SD) or",
+            "number (%)"
+          ]
+        },
+        {
+          "value": "2.07 (1.48)",
+          "rowHeaders": [
+            "Servings of snacks (number per"
+          ],
+          "columnHeaders": [
+            "Table 3 Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Main comparison between the two",
+            "Intervention group",
+            "Mean (SD) or",
+            "number (%)"
+          ]
+        },
+        {
+          "value": "−0.03 (−0.23 to",
+          "rowHeaders": [
+            "Servings of snacks (number per"
+          ],
+          "columnHeaders": [
+            "Table 3 Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Main comparison between the two",
+            "groups (intervention vs control)",
+            "Difference in means or",
+            "OR (95% CI)"
+          ]
+        },
+        {
+          "value": "0.16)",
+          "rowHeaders": [
+            "Servings of snacks (number per"
+          ],
+          "columnHeaders": [
+            "Table 3 Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Main comparison between the two",
+            "groups (intervention vs control)",
+            "Difference in means or",
+            "p Value"
+          ]
+        },
+        {
+          "value": "0.72",
+          "rowHeaders": [
+            "Servings of snacks (number per"
+          ],
+          "columnHeaders": [
+            "Table 3 Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Main comparison between the two",
+            "groups (intervention vs control)",
+            "Difference in means or",
+            "p Value"
+          ]
+        },
+        {
+          "value": "0.86 (0.94)",
+          "rowHeaders": [
+            "Servings of high-fat foods"
+          ],
+          "columnHeaders": [
+            "Table 3 Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Control group",
+            "(reference group)",
+            "Mean (SD) or",
+            "number (%)"
+          ]
+        },
+        {
+          "value": "0.75 (1.15)",
+          "rowHeaders": [
+            "Servings of high-fat foods"
+          ],
+          "columnHeaders": [
+            "Table 3 Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Main comparison between the two",
+            "Intervention group",
+            "Mean (SD) or",
+            "number (%)"
+          ]
+        },
+        {
+          "value": "−0.11 (−0.26 to",
+          "rowHeaders": [
+            "Servings of high-fat foods"
+          ],
+          "columnHeaders": [
+            "Table 3 Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Main comparison between the two",
+            "groups (intervention vs control)",
+            "Difference in means or",
+            "OR (95% CI)"
+          ]
+        },
+        {
+          "value": "0.04)",
+          "rowHeaders": [
+            "Servings of high-fat foods"
+          ],
+          "columnHeaders": [
+            "Table 3 Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Main comparison between the two",
+            "groups (intervention vs control)",
+            "Difference in means or",
+            "p Value"
+          ]
+        },
+        {
+          "value": "0.14",
+          "rowHeaders": [
+            "Servings of high-fat foods"
+          ],
+          "columnHeaders": [
+            "Table 3 Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Main comparison between the two",
+            "groups (intervention vs control)",
+            "Difference in means or",
+            "p Value"
+          ]
+        },
+        {
+          "value": "2.38 (1.58)",
+          "rowHeaders": [
+            "Servings of high-energy drinks"
+          ],
+          "columnHeaders": [
+            "Table 3 Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Control group",
+            "(reference group)",
+            "Mean (SD) or",
+            "number (%)"
+          ]
+        },
+        {
+          "value": "2.22 (1.43)",
+          "rowHeaders": [
+            "Servings of high-energy drinks"
+          ],
+          "columnHeaders": [
+            "Table 3 Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Main comparison between the two",
+            "Intervention group",
+            "Mean (SD) or",
+            "number (%)"
+          ]
+        },
+        {
+          "value": "−0.18 (−0.41 to",
+          "rowHeaders": [
+            "Servings of high-energy drinks"
+          ],
+          "columnHeaders": [
+            "Table 3 Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Main comparison between the two",
+            "groups (intervention vs control)",
+            "Difference in means or",
+            "OR (95% CI)"
+          ]
+        },
+        {
+          "value": "0.5)",
+          "rowHeaders": [
+            "Servings of high-energy drinks"
+          ],
+          "columnHeaders": [
+            "Table 3 Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Main comparison between the two",
+            "groups (intervention vs control)",
+            "Difference in means or",
+            "OR (95% CI)"
+          ]
+        },
+        {
+          "value": "0.12",
+          "rowHeaders": [
+            "Servings of high-energy drinks"
+          ],
+          "columnHeaders": [
+            "Table 3 Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Main comparison between the two",
+            "groups (intervention vs control)",
+            "Difference in means or",
+            "p Value"
+          ]
+        },
+        {
+          "value": "0.98",
+          "rowHeaders": [
+            "Generally overweight/obese"
+          ],
+          "columnHeaders": [
+            "Table 3 Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Main comparison between the two",
+            "groups (intervention vs control)",
+            "Difference in means or",
+            "OR (95% CI)"
+          ]
+        },
+        {
+          "value": "(0.68 to",
+          "rowHeaders": [
+            "Generally overweight/obese"
+          ],
+          "columnHeaders": [
+            "Table 3 Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Main comparison between the two",
+            "groups (intervention vs control)",
+            "Difference in means or",
+            "OR (95% CI)"
+          ]
+        },
+        {
+          "value": "1.41)",
+          "rowHeaders": [
+            "Generally overweight/obese"
+          ],
+          "columnHeaders": [
+            "Table 3 Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Main comparison between the two",
+            "groups (intervention vs control)",
+            "Difference in means or",
+            "OR (95% CI)"
+          ]
+        },
+        {
+          "value": "0.91",
+          "rowHeaders": [
+            "Generally overweight/obese"
+          ],
+          "columnHeaders": [
+            "Table 3 Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Main comparison between the two",
+            "groups (intervention vs control)",
+            "Difference in means or",
+            "p Value"
+          ]
+        },
+        {
+          "value": "1.06",
+          "rowHeaders": [
+            "Centrally overweight/obese"
+          ],
+          "columnHeaders": [
+            "Table 3 Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Main comparison between the two",
+            "groups (intervention vs control)",
+            "Difference in means or",
+            "OR (95% CI)"
+          ]
+        },
+        {
+          "value": "(0.76 to",
+          "rowHeaders": [
+            "Centrally overweight/obese"
+          ],
+          "columnHeaders": [
+            "Table 3 Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Main comparison between the two",
+            "groups (intervention vs control)",
+            "Difference in means or",
+            "OR (95% CI)"
+          ]
+        },
+        {
+          "value": "1.49)",
+          "rowHeaders": [
+            "Centrally overweight/obese"
+          ],
+          "columnHeaders": [
+            "Table 3 Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Main comparison between the two",
+            "groups (intervention vs control)",
+            "Difference in means or",
+            "OR (95% CI)"
+          ]
+        },
+        {
+          "value": "0.72",
+          "rowHeaders": [
+            "Centrally overweight/obese"
+          ],
+          "columnHeaders": [
+            "Table 3 Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Per-protocol analyses of the effect of AFLY5 intervention on primary and secondary outcomes assessed 12 months",
+            "Main comparison between the two",
+            "groups (intervention vs control)",
+            "Difference in means or",
+            "p Value"
+          ]
+        }
+      ],
+      "page": 1
+    }
+  ]
+}

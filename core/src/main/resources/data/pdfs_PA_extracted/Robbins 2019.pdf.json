@@ -1,0 +1,1881 @@
+{
+  "blocks": [
+    {
+      "type": "LINES",
+      "value": "Intervention Effects of \"Girls on the Move\" on Increasing Physical Activity: A Group Randomized Trial",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Background Limited intervention success in increasing and sustaining girls' moderate-to-vigorous physical activity (MVPA) underscores a need for continued research. Purpose The aim of this study was to evaluate the effect of a 17-week Girls on the Move (GOTM) intervention on increasing MVPA among fifth-to eighth-grade girls. Methods This study is a group (cluster) randomized trial, including 24 schools, pair matched and assigned to intervention (n = 12) or control (n = 12) conditions. Participants included 1,519 girls in racially diverse public schools in urban, underserved areas of the Midwestern USA. The intervention included three components: (i) 90-min after-school physical activity (PA) club offered 3 days/week; (ii) two motivational, individually tailored counseling sessions; and (iii) an interactive Internetbased session at the midpoint of the intervention. Main outcome measures were weighted mean minutes of MVPA per week post-intervention and at 9-month follow-up measured via accelerometer. Results No between-group differences occurred for weighted mean minutes of MVPA per week at postintervention (B = -0.08, p = .207) or 9-month follow-up (B = -0.09, p = .118) while controlling for baseline MVPA. Conclusions Research is needed to identify interventions that assist girls in attaining and maintaining adequate PA. ClinicalTrials.gov Identifier NCT01503333.",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "In the USA, by the time girls begin high school (ninth grade, about 14 years of age), only 20.9% meet U.S. recommendations calling for ≥60 min of mostly moderate-to-vigorous physical activity (MVPA) daily. The percentage is lower for Black (16.6%) than White (19.5%) high school girls. Interventions are needed for girls, especially those of minority or low socioeconomic status (SES) who live in urban areas, before high school (9-12th grade) is reached. A recent systematic review showed only one of five studies elicited significant increases in accelerometer-measured physical activity (PA) among girls in the intervention group compared with the control group. The sample, however, was comprised of primarily White sixth-to eighth-grade girls of varied SES. The modest increase of 1.6 min/day occurred only in the final intervention year. To address the gaps noted in prior research, this intervention targeted urban girls, many of whom were of minority or low SES. To strengthen prior approaches, this intervention supplemented an afterschool opportunity for PA with two evidence-based strategies that included Internet-delivered individually tailored counseling and motivational interviewing sessions to support the girls in increasing their PA.\nWith many schools lacking resources to increase MVPA during school, after-school programs area viable option. However, research indicates mixed effects of after-school interventions on increasing MVPA, and data on their long-term effect on adolescent girls' MVPA remain deficient. The primary aim was to evaluate the effect of a Girls on the Move (GOTM) schoolbased intervention on minutes of MVPA among fifth-to eighth-grade girls.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "A group randomized trial, including 24 public schools in the Midwestern USA, was conducted. During 3 years of the 5-year study, eight schools per year were randomly assigned to either intervention (n = 4/year) or control conditions (n = 4/year; usual school offerings). Prior to randomization, schools were paired based on similar characteristics. Trial conduct and reporting adhered to the Consolidated Standards of Reporting Trials recommendations. The University Institutional Review Board provided ethical approval, and administrators in each school district gave permission to conduct the study. Researchers met with girls at a school assembly for recruitment. Interested girls received packets containing consent and assent forms and a screening tool for determining eligibility status. Inclusion criteria were fifth-to eighth-grade girls; willing to participate in the PA club 3 days/week after school for 17 weeks; available for 9-month follow-up; accept random assignment; and able to read, understand, and speak English. Girls were excluded if they had a health condition preventing PA or were involved in or planning to be involved in organized PA ≥3 days/week. Parents and girls provided informed consent and assent, respectively. The flow diagram of participation is depicted in Fig..\nBased on an effect size of .20, intraclass correlation coefficient of .02, and alpha = .05, power analysis conducted prior to the study indicated that 12 intervention and 12 control schools with 50 girls in each would provide power of .80 for two-tailed comparison to detect a between-group difference of 16 min/week. To allow for attrition, we recruited 62 girls per school.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The 17-week GOTM intervention was based on the Health Promotion Model and Self-Determination Theory and included three components: (i) an afterschool PA club 3 days/week at each school conducted by a club manager (one of whom was male) and three to four female instructors, all of whom had recent experience conducting school-or community-based PA programs that involved girls whose ages were similar to those in this study; (ii) two face-to-face 15-to 20-min motivational, individually tailored counseling sessions (one at the beginning other at the end of intervention) with a female health professional having experience with adolescents (e.g., registered/school nurse); and (iii) an interactive Internetbased session via an iPad (midpoint of intervention) setup by the researchers at each school. Club managers and instructors were racially diverse (mainly Black and White) and ranged in age from early 20s to middle age, whereas the health professionals were mainly White. Although we had initially planned to conduct a 4-hr training session for the club manager and coaches, we decided prior to the intervention to increase the time to 8 hr. Details on the training for intervention delivery along with theoretical underpinnings have been reported. At training sessions conducted prior to the start of the intervention, all interventionists received a procedure manual.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Trained data collectors, all of whom were blinded to group allocation, collected data at baseline and post-intervention. Only PA was measured at 9-month follow-up.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Minutes of MVPA were measured via ActiGraph GT3X+ accelerometers worn on an elastic belt at the right hip for 7 consecutive days, including 5 weekdays and 2 weekend days, at baseline, post-intervention, and 9-month follow-up. Monitors were set to start collecting and storing data in raw format (30 Hz) beginning at 5:00 am on the day after distribution at each school. Data were re-integrated to 15-s epochs and processed using established intensity cut-points. One week after distribution, data collectors returned to each school to collect accelerometers. The vast majority (1390 of 1519 girls, 91.81%) provided ≥8 hr of data on 3 weekdays and 1 weekend day, which is considered by some researchers as complete data to be aggregated for representing a whole week (7 days). Because this assumption may result in a biased estimate of MVPA, an imputation approach based on all available data in hour blocks on all 7 days was implemented in this study. Accelerometer wear time was standardized to 14 hr/weekday (1 hr before each school's actual start time, 7 hr during school, 6 hr after school) and 10 hr/weekend day (later awake time). If any data during an hour block for the 90 hr/week were incomplete, the entire hour was considered to be missing. ActiLife (ActiGraph Corporation, Pensacola, FL) and R statistical software (version 3.2.4) were used to reduce the data and accomplish the imputation.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Age, academic grade, race, ethnicity, and SES (enrolled in free or reduced-price school lunch) were obtained from items on the consent form or screening tool.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Height without shoes was measured twice to the nearest 0.1 cm with a Shorr Board (Shorr Productions, Olney, MD), and body weight to the nearest 0.1 kg was measured twice with a foot-to-foot bioelectric impedance scale (Tanita Corporation, Tokyo, Japan). The two readings from each measure were averaged to determine final values. Body mass index (BMI) was calculated as weight in kilogram per height in meters . A SAS program for Centers for Disease Control and Prevention Growth Charts, available online, was used to determine z-scores and percentiles forage.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The Pubertal Development Scale was used. Validity and reliability have been established with girls as young as fifth grade. Girls rated themselves, as compared to other girls of similar age, on body hair and breast development. Response choices were (1) no, not yet started; (2) yes, barely;\n(3) yes, definitely; and (4) development complete. Girls reported either (1) no menstruation or (4) yes, started. Girls reporting no menstruation and having a summed score for the two characteristics of 2, 3, or >3 were in the pre-pubertal, early, or middle pubertal stage, respectively. Menstruation and a summed score of ≤7 or 8 (hair and breast development) indicated the late or post-pubertal stage, respectively.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Analyses were implemented in IBM SPSS Statistics (version 22.0), R statistical software (version 3.2.4) using the MICE package for imputation and lme4 package for mixed models. Independent t tests or chi-square tests were used to examine whether missingness of one variable was related to others. Based on this analysis, we determined data to be missing at random, and multiple imputation was employed. Based on recommendations and the complexity of the process, 20 imputations were conducted at the individual level. The imputation model included variables, such as baseline demographics, BMI z-score, and pubertal stage, as well as baseline, post-intervention, and follow-up MVPA. Linear mixed-effect models were applied to examine the intervention effect on MVPA at post-intervention and 9-month follow-up. Models included the group variable, cluster random effect of school, and the following fixed effects: age, BMI z-score, race, SES, ethnicity, pubertal stage, and study year. Baseline MVPA was included when evaluating the intervention effect at post-intervention and follow-up.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Both groups of girls (N = 1519) were similar for most baseline characteristics (Table). However, the control group had a higher proportion of Black girls (p = .001) and higher BMI (p = .035) than the intervention group. The intervention group had a higher proportion of healthy weight girls, but a lower proportion of obese girls than the control group (p = .046).\nGirls in the GOTM intervention attended an average of 41% of PA club sessions. Across all three intervention years, girls attained an average of 21.85 min of MVPA during the club. Overall attendance for both the first and second counseling sessions was 98%, and 95% of girls participated in the Internet-based session. Process evaluation details have been reported.\nNo significant difference occurred between intervention and control groups in post-intervention MVPA (B = -0.08, 95% CI [-0.21, 0.05]), with a very small effect size (partial η 2 = 0.0013; Table). Post-intervention, intervention girls' MVPA increased by 0.24 mean min/hr (21.6 mean min/ week) from 3.03 min/hr at baseline to 3.27 min/hr post-intervention, while control girls had an increase of 0.35 mean min/hr (31.5 mean min/week) from 2.92 min/hr at baseline to 3.27 min/hr at post-intervention. The model explained 33.3% of the variances in post-intervention MVPA.\nAfter controlling for baseline MVPA, no significant difference was found between intervention and control groups for 9-month follow-up MVPA (B = -0.09, 95% CI [-0.21, 0.02]), with a very small effect size (partial η 2 = 0.0023; Table). Both groups reported a decrease in MVPA compared with baseline with intervention girls reporting follow-up MVPA of 2.59 min/hr (39.6 min/ week decrease), and control girls reporting 2.64 min/hr (25.2 min/week decrease). The model explained 26% of the variances in follow-up MVPA.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The GOTM intervention had no significant effect on MVPA at post-intervention or 9-month follow-up. Increased MVPA has been difficult to attain in other studies involving an intervention outside the school for girls, especially for those of minority or low SES. In GOTM, the opportunity for girls to be physically active at school ended prior to measurement, leaving girls who attended the club with one less PA opportunity. For girls in economically disadvantaged areas who have sparse resources and community safety issues, removal of interventionists and resources may have reduced their ability to attain MVPA.\nBecause the majority of the intervention occurred in winter, outdoor PA was limited for extended periods due to temperatures below freezing. Less-than-optimal space in some schools at times prevented instructors from offering PAs that might have been more appealing for girls to learn and sustain. Another explanation for the lack of effect on MVPA might have involved difficulties experienced by interventionists with engaging girls in PA at a moderate intensity. Although different PAs (e.g., various sports, dance, fun PA games, or PA videos projected on a screen) were offered, some girls were not interested in any type of MVPA. Understanding what girls wanted from a PA experience was difficult to ascertain even when girls were asked. Ina 20-week after-school program of dance (identified as preferred form of PA for 11-to 12-year-old girls), no effect on accelerometer-measured PA occurred either during the program or 12 months after baseline. Moreover, only a third of intervention group girls attended two-thirds of the sessions provided. In this study, a major barrier to club attendance was having commitments or home-related responsibilities. Innovative strategies are needed to increase girls' MVPA.\nAlthough the GOTM intervention was well received, findings support researchers' conclusions in other well-conducted studies that school-based PA interventions alone maybe insufficient for helping adolescents to attain and sustain adequate MVPA on their own after the intervention ends. Interventions may have to be implemented in multiple contexts, such as school and home settings, simultaneously, to create a potentially synergistic impact on underserved adolescents' MVPA. This contention is aligned with those of other researchers who suggest that support from parents maybe important in interventions. Because adolescents, especially before high school, still rely on parents to meet their needs, their ability to attend a voluntary after-school program and attain adequate MVPA may not be completely under their control. Girls may need continued support from significant others, such as parents, after an intervention ends to help girls maintain increases in MVPA. Unfortunately, a plan for involving parents as one potential solution to try to achieve this objective was not included in the GOTM intervention. Therefore, whether acquiring parental involvement would have increased girls' attendance in the PA club and their MVPA overtime is unknown.\nStrengths included a large sample of at-risk girls, many of whom were Black; blinding of data collectors; use of objective measure of PA; pairing schools based on similar characteristics followed by school-level randomization to conditions after baseline data collection; and multiple imputation to address missing accelerometer data. The study had limitations. Financial costs of the program were not analyzed. Club attendance was less than optimal. Generalizability of the findings maybe reduced because the sample was from a limited geographical area. Although PA was not measured on all of the girls during the intervention period, future researchers may want to consider this approach to determine whether any PA occurring at this time was maintained or whether removal of the sessions resulted in girls returning to their usual PA levels.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Designing\n",
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "1.34",
+          "rowHeaders": [
+            "Intercept",
+            "Intervention (ref: control)"
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Post-intervention 7-day MVPA",
+            "Estimate"
+          ]
+        },
+        {
+          "value": "1.04",
+          "rowHeaders": [
+            "Intercept",
+            "Intervention (ref: control)",
+            "tion) ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Post-intervention 7-day MVPA",
+            "LCL"
+          ]
+        },
+        {
+          "value": "1.65",
+          "rowHeaders": [
+            "Intercept",
+            "Intervention (ref: control)",
+            "residual ICC ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Post-intervention 7-day MVPA",
+            "UCL"
+          ]
+        },
+        {
+          "value": "<.001",
+          "rowHeaders": [
+            "Intercept",
+            "Intervention (ref: control)",
+            "residual ICC ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Post-intervention 7-day MVPA",
+            "p Value"
+          ]
+        },
+        {
+          "value": "0.14",
+          "rowHeaders": [
+            "Intercept",
+            "Intervention (ref: control)",
+            "Model fit statistics: MI = 20, null ICC =",
+            "(interven-"
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Follow-up 7-day MVPA",
+            "FMI"
+          ]
+        },
+        {
+          "value": "1.18",
+          "rowHeaders": [
+            "Intercept",
+            "Intervention (ref: control)",
+            "Model fit statistics: MI = 20, null ICC =",
+            "(interven-"
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Follow-up 7-day MVPA",
+            "Estimate"
+          ]
+        },
+        {
+          "value": "0.90",
+          "rowHeaders": [
+            "Intercept",
+            "Intervention (ref: control)",
+            "Model fit statistics: MI = 20, null ICC =",
+            "(interven-",
+            "ICC ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Follow-up 7-day MVPA",
+            "LCL"
+          ]
+        },
+        {
+          "value": "1.45",
+          "rowHeaders": [
+            "Intercept",
+            "Intervention (ref: control)",
+            "Model fit statistics: MI = 20, null ICC =",
+            "(interven-",
+            "ICC =",
+            "tional R-squared ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Follow-up 7-day MVPA",
+            "UCL"
+          ]
+        },
+        {
+          "value": "<.001",
+          "rowHeaders": [
+            "Intercept",
+            "Intervention (ref: control)",
+            "Model fit statistics: MI = 20, null ICC =",
+            "(interven-",
+            "partial η2 (intervention) =",
+            "marginal R-squared ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Follow-up 7-day MVPA",
+            "p Value"
+          ]
+        },
+        {
+          "value": "0.19",
+          "rowHeaders": [
+            "Intercept",
+            "Intervention (ref: control)",
+            "AIC = 5518, full model AIC = 4928, null model",
+            "(interven-",
+            "partial η2 (intervention) =",
+            "marginal R-squared ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Follow-up 7-day MVPA",
+            "FMI"
+          ]
+        },
+        {
+          "value": "-0.08",
+          "rowHeaders": [
+            "Intercept",
+            "Intervention (ref: control)"
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Post-intervention 7-day MVPA",
+            "Estimate"
+          ]
+        },
+        {
+          "value": "-0.21",
+          "rowHeaders": [
+            "Intercept",
+            "Intervention (ref: control)",
+            "tion) ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Post-intervention 7-day MVPA",
+            "LCL"
+          ]
+        },
+        {
+          "value": "0.05",
+          "rowHeaders": [
+            "Intervention (ref: control)",
+            "BMI z-score",
+            "residual ICC ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Post-intervention 7-day MVPA",
+            "UCL"
+          ]
+        },
+        {
+          "value": ".207",
+          "rowHeaders": [
+            "Intervention (ref: control)",
+            "BMI z-score",
+            "residual ICC ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Post-intervention 7-day MVPA",
+            "p Value"
+          ]
+        },
+        {
+          "value": "0.11",
+          "rowHeaders": [
+            "Intervention (ref: control)",
+            "BMI z-score",
+            "Model fit statistics: MI = 20, null ICC =",
+            "(interven-"
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Follow-up 7-day MVPA",
+            "FMI"
+          ]
+        },
+        {
+          "value": "-0.09",
+          "rowHeaders": [
+            "Intervention (ref: control)",
+            "BMI z-score",
+            "Model fit statistics: MI = 20, null ICC =",
+            "(interven-"
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Follow-up 7-day MVPA",
+            "Estimate"
+          ]
+        },
+        {
+          "value": "-0.21",
+          "rowHeaders": [
+            "Intervention (ref: control)",
+            "BMI z-score",
+            "Model fit statistics: MI = 20, null ICC =",
+            "(interven-",
+            "ICC ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Follow-up 7-day MVPA",
+            "LCL"
+          ]
+        },
+        {
+          "value": "0.02",
+          "rowHeaders": [
+            "Intervention (ref: control)",
+            "BMI z-score",
+            "Model fit statistics: MI = 20, null ICC =",
+            "(interven-",
+            "ICC =",
+            "tional R-squared ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Follow-up 7-day MVPA",
+            "UCL"
+          ]
+        },
+        {
+          "value": ".118",
+          "rowHeaders": [
+            "Intervention (ref: control)",
+            "BMI z-score",
+            "AIC = 5518, full model AIC = 4928, null model",
+            "(interven-",
+            "partial η2 (intervention) =",
+            "marginal R-squared ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Follow-up 7-day MVPA",
+            "p Value"
+          ]
+        },
+        {
+          "value": "0.23",
+          "rowHeaders": [
+            "Intervention (ref: control)",
+            "BMI z-score",
+            "AIC = 5518, full model AIC = 4928, null model",
+            "(interven-",
+            "partial η2 (intervention) =",
+            "marginal R-squared ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Follow-up 7-day MVPA",
+            "FMI"
+          ]
+        },
+        {
+          "value": "-0.02",
+          "rowHeaders": [
+            "Age (centered, 12 years)",
+            "BMI z-score"
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Post-intervention 7-day MVPA",
+            "Estimate"
+          ]
+        },
+        {
+          "value": "-0.10",
+          "rowHeaders": [
+            "Age (centered, 12 years)",
+            "BMI z-score",
+            "tion) ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Post-intervention 7-day MVPA",
+            "LCL"
+          ]
+        },
+        {
+          "value": "0.07",
+          "rowHeaders": [
+            "Age (centered, 12 years)",
+            "BMI z-score",
+            "residual ICC ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Post-intervention 7-day MVPA",
+            "UCL"
+          ]
+        },
+        {
+          "value": ".733",
+          "rowHeaders": [
+            "Age (centered, 12 years)",
+            "BMI z-score",
+            "residual ICC ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Post-intervention 7-day MVPA",
+            "p Value"
+          ]
+        },
+        {
+          "value": "0.09",
+          "rowHeaders": [
+            "Age (centered, 12 years)",
+            "BMI z-score",
+            "Model fit statistics: MI = 20, null ICC =",
+            "(interven-"
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Follow-up 7-day MVPA",
+            "FMI"
+          ]
+        },
+        {
+          "value": "-0.01",
+          "rowHeaders": [
+            "Age (centered, 12 years)",
+            "BMI z-score",
+            "Model fit statistics: MI = 20, null ICC =",
+            "(interven-"
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Follow-up 7-day MVPA",
+            "Estimate"
+          ]
+        },
+        {
+          "value": "-0.09",
+          "rowHeaders": [
+            "Age (centered, 12 years)",
+            "BMI z-score",
+            "Model fit statistics: MI = 20, null ICC =",
+            "(interven-",
+            "ICC ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Follow-up 7-day MVPA",
+            "LCL"
+          ]
+        },
+        {
+          "value": "0.07",
+          "rowHeaders": [
+            "Age (centered, 12 years)",
+            "BMI z-score",
+            "Model fit statistics: MI = 20, null ICC =",
+            "(interven-",
+            "ICC =",
+            "tional R-squared ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Follow-up 7-day MVPA",
+            "UCL"
+          ]
+        },
+        {
+          "value": ".832",
+          "rowHeaders": [
+            "Age (centered, 12 years)",
+            "BMI z-score",
+            "AIC = 5518, full model AIC = 4928, null model",
+            "(interven-",
+            "partial η2 (intervention) =",
+            "marginal R-squared ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Follow-up 7-day MVPA",
+            "p Value"
+          ]
+        },
+        {
+          "value": "0.20",
+          "rowHeaders": [
+            "Age (centered, 12 years)",
+            "BMI z-score",
+            "AIC = 5518, full model AIC = 4928, null model",
+            "(interven-",
+            "partial η2 (intervention) =",
+            "marginal R-squared ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Follow-up 7-day MVPA",
+            "FMI"
+          ]
+        },
+        {
+          "value": "-0.07",
+          "rowHeaders": [
+            "Black (ref: no)",
+            "BMI z-score"
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Post-intervention 7-day MVPA",
+            "Estimate"
+          ]
+        },
+        {
+          "value": "-0.22",
+          "rowHeaders": [
+            "Black (ref: no)",
+            "BMI z-score",
+            "tion) ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Post-intervention 7-day MVPA",
+            "LCL"
+          ]
+        },
+        {
+          "value": "0.08",
+          "rowHeaders": [
+            "Black (ref: no)",
+            "BMI z-score",
+            "residual ICC ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Post-intervention 7-day MVPA",
+            "UCL"
+          ]
+        },
+        {
+          "value": ".383",
+          "rowHeaders": [
+            "Black (ref: no)",
+            "BMI z-score",
+            "residual ICC ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Post-intervention 7-day MVPA",
+            "p Value"
+          ]
+        },
+        {
+          "value": "0.15",
+          "rowHeaders": [
+            "Black (ref: no)",
+            "BMI z-score",
+            "Model fit statistics: MI = 20, null ICC =",
+            "(interven-"
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Follow-up 7-day MVPA",
+            "FMI"
+          ]
+        },
+        {
+          "value": "0.03",
+          "rowHeaders": [
+            "Black (ref: no)",
+            "BMI z-score",
+            "Model fit statistics: MI = 20, null ICC =",
+            "(interven-"
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Follow-up 7-day MVPA",
+            "Estimate"
+          ]
+        },
+        {
+          "value": "-0.10",
+          "rowHeaders": [
+            "Black (ref: no)",
+            "BMI z-score",
+            "Model fit statistics: MI = 20, null ICC =",
+            "(interven-",
+            "ICC ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Follow-up 7-day MVPA",
+            "LCL"
+          ]
+        },
+        {
+          "value": "0.16",
+          "rowHeaders": [
+            "Black (ref: no)",
+            "BMI z-score",
+            "Model fit statistics: MI = 20, null ICC =",
+            "(interven-",
+            "ICC =",
+            "tional R-squared ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Follow-up 7-day MVPA",
+            "UCL"
+          ]
+        },
+        {
+          "value": ".654",
+          "rowHeaders": [
+            "Black (ref: no)",
+            "BMI z-score",
+            "AIC = 5518, full model AIC = 4928, null model",
+            "(interven-",
+            "partial η2 (intervention) =",
+            "marginal R-squared ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Follow-up 7-day MVPA",
+            "p Value"
+          ]
+        },
+        {
+          "value": "0.21",
+          "rowHeaders": [
+            "Black (ref: no)",
+            "BMI z-score",
+            "AIC = 5518, full model AIC = 4928, null model",
+            "(interven-",
+            "partial η2 (intervention) =",
+            "marginal R-squared ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Follow-up 7-day MVPA",
+            "FMI"
+          ]
+        },
+        {
+          "value": "0.11",
+          "rowHeaders": [
+            "Lunch (ref: no)",
+            "BMI z-score"
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Post-intervention 7-day MVPA",
+            "Estimate"
+          ]
+        },
+        {
+          "value": "-0.07",
+          "rowHeaders": [
+            "Lunch (ref: no)",
+            "BMI z-score",
+            "tion) ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Post-intervention 7-day MVPA",
+            "LCL"
+          ]
+        },
+        {
+          "value": "0.28",
+          "rowHeaders": [
+            "Lunch (ref: no)",
+            "BMI z-score",
+            "residual ICC ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Post-intervention 7-day MVPA",
+            "UCL"
+          ]
+        },
+        {
+          "value": ".231",
+          "rowHeaders": [
+            "Lunch (ref: no)",
+            "BMI z-score",
+            "residual ICC ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Post-intervention 7-day MVPA",
+            "p Value"
+          ]
+        },
+        {
+          "value": "0.08",
+          "rowHeaders": [
+            "Lunch (ref: no)",
+            "BMI z-score",
+            "Model fit statistics: MI = 20, null ICC =",
+            "(interven-"
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Follow-up 7-day MVPA",
+            "FMI"
+          ]
+        },
+        {
+          "value": "0.03",
+          "rowHeaders": [
+            "Lunch (ref: no)",
+            "BMI z-score",
+            "Model fit statistics: MI = 20, null ICC =",
+            "(interven-"
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Follow-up 7-day MVPA",
+            "Estimate"
+          ]
+        },
+        {
+          "value": "-0.13",
+          "rowHeaders": [
+            "Lunch (ref: no)",
+            "BMI z-score",
+            "Model fit statistics: MI = 20, null ICC =",
+            "(interven-",
+            "ICC ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Follow-up 7-day MVPA",
+            "LCL"
+          ]
+        },
+        {
+          "value": "0.19",
+          "rowHeaders": [
+            "Lunch (ref: no)",
+            "BMI z-score",
+            "AIC = 5518, full model AIC = 4928, null model",
+            "(interven-",
+            "ICC =",
+            "tional R-squared ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Follow-up 7-day MVPA",
+            "UCL"
+          ]
+        },
+        {
+          "value": ".729",
+          "rowHeaders": [
+            "Lunch (ref: no)",
+            "BMI z-score",
+            "AIC = 5518, full model AIC = 4928, null model",
+            "(interven-",
+            "partial η2 (intervention) =",
+            "marginal R-squared ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Follow-up 7-day MVPA",
+            "p Value"
+          ]
+        },
+        {
+          "value": "0.24",
+          "rowHeaders": [
+            "Lunch (ref: no)",
+            "BMI z-score",
+            "AIC = 5518, full model AIC = 4928, null model",
+            "partial η2 (intervention) =",
+            "marginal R-squared ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Follow-up 7-day MVPA",
+            "FMI"
+          ]
+        },
+        {
+          "value": "-0.06",
+          "rowHeaders": [
+            "Hispanic (ref: no)",
+            "BMI z-score"
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Post-intervention 7-day MVPA",
+            "Estimate"
+          ]
+        },
+        {
+          "value": "-0.27",
+          "rowHeaders": [
+            "Hispanic (ref: no)",
+            "BMI z-score",
+            "tion) ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Post-intervention 7-day MVPA",
+            "LCL"
+          ]
+        },
+        {
+          "value": "0.15",
+          "rowHeaders": [
+            "Hispanic (ref: no)",
+            "BMI z-score",
+            "residual ICC ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Post-intervention 7-day MVPA",
+            "UCL"
+          ]
+        },
+        {
+          "value": ".572",
+          "rowHeaders": [
+            "Hispanic (ref: no)",
+            "BMI z-score",
+            "residual ICC ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Post-intervention 7-day MVPA",
+            "p Value"
+          ]
+        },
+        {
+          "value": "0.26",
+          "rowHeaders": [
+            "Hispanic (ref: no)",
+            "BMI z-score",
+            "Model fit statistics: MI = 20, null ICC =",
+            "(interven-"
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Follow-up 7-day MVPA",
+            "FMI"
+          ]
+        },
+        {
+          "value": "-0.10",
+          "rowHeaders": [
+            "Hispanic (ref: no)",
+            "BMI z-score",
+            "Model fit statistics: MI = 20, null ICC =",
+            "(interven-"
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Follow-up 7-day MVPA",
+            "Estimate"
+          ]
+        },
+        {
+          "value": "-0.28",
+          "rowHeaders": [
+            "Hispanic (ref: no)",
+            "BMI z-score",
+            "Model fit statistics: MI = 20, null ICC =",
+            "(interven-",
+            "ICC ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Follow-up 7-day MVPA",
+            "LCL"
+          ]
+        },
+        {
+          "value": "0.08",
+          "rowHeaders": [
+            "Hispanic (ref: no)",
+            "BMI z-score",
+            "AIC = 5518, full model AIC = 4928, null model",
+            "(interven-",
+            "ICC =",
+            "tional R-squared ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Follow-up 7-day MVPA",
+            "UCL"
+          ]
+        },
+        {
+          "value": ".263",
+          "rowHeaders": [
+            "Hispanic (ref: no)",
+            "BMI z-score",
+            "AIC = 5518, full model AIC = 4928, null model",
+            "(interven-",
+            "partial η2 (intervention) =",
+            "marginal R-squared ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Follow-up 7-day MVPA",
+            "p Value"
+          ]
+        },
+        {
+          "value": "0.31",
+          "rowHeaders": [
+            "Hispanic (ref: no)",
+            "BMI z-score",
+            "AIC = 5518, full model AIC = 4928, null model",
+            "partial η2 (intervention) =",
+            "marginal R-squared ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Follow-up 7-day MVPA",
+            "FMI"
+          ]
+        },
+        {
+          "value": "-0.08",
+          "rowHeaders": [
+            "BMI z-score"
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Post-intervention 7-day MVPA",
+            "Estimate"
+          ]
+        },
+        {
+          "value": "-0.14",
+          "rowHeaders": [
+            "BMI z-score",
+            "tion) ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Post-intervention 7-day MVPA",
+            "LCL"
+          ]
+        },
+        {
+          "value": "-0.01",
+          "rowHeaders": [
+            "BMI z-score",
+            "residual ICC ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Post-intervention 7-day MVPA",
+            "UCL"
+          ]
+        },
+        {
+          "value": ".017",
+          "rowHeaders": [
+            "BMI z-score",
+            "conditional R-squared ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Post-intervention 7-day MVPA",
+            "p Value"
+          ]
+        },
+        {
+          "value": "0.11",
+          "rowHeaders": [
+            "BMI z-score",
+            "Model fit statistics: MI = 20, null ICC =",
+            "(interven-"
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Follow-up 7-day MVPA",
+            "FMI"
+          ]
+        },
+        {
+          "value": "-0.01",
+          "rowHeaders": [
+            "BMI z-score",
+            "Model fit statistics: MI = 20, null ICC =",
+            "(interven-"
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Follow-up 7-day MVPA",
+            "Estimate"
+          ]
+        },
+        {
+          "value": "-0.07",
+          "rowHeaders": [
+            "BMI z-score",
+            "AIC = 5518, full model AIC = 4928, null model",
+            "(interven-",
+            "ICC ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Follow-up 7-day MVPA",
+            "LCL"
+          ]
+        },
+        {
+          "value": "0.05",
+          "rowHeaders": [
+            "BMI z-score",
+            "AIC = 5518, full model AIC = 4928, null model",
+            "(interven-",
+            "ICC =",
+            "tional R-squared ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Follow-up 7-day MVPA",
+            "UCL"
+          ]
+        },
+        {
+          "value": ".772",
+          "rowHeaders": [
+            "BMI z-score",
+            "AIC = 5518, full model AIC = 4928, null model",
+            "partial η2 (intervention) =",
+            "marginal R-squared ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Follow-up 7-day MVPA",
+            "p Value"
+          ]
+        },
+        {
+          "value": "0.22",
+          "rowHeaders": [
+            "BMI z-score",
+            "AIC = 5518, full model AIC = 4928, null model",
+            "partial η2 (intervention) =",
+            "marginal R-squared ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Follow-up 7-day MVPA",
+            "FMI"
+          ]
+        },
+        {
+          "value": "0.66",
+          "rowHeaders": [
+            "BMI z-score",
+            "Baseline MVPA"
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Post-intervention 7-day MVPA",
+            "Estimate"
+          ]
+        },
+        {
+          "value": "0.60",
+          "rowHeaders": [
+            "BMI z-score",
+            "Baseline MVPA",
+            "tion) ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Post-intervention 7-day MVPA",
+            "LCL"
+          ]
+        },
+        {
+          "value": "0.71",
+          "rowHeaders": [
+            "BMI z-score",
+            "Baseline MVPA",
+            "residual ICC ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Post-intervention 7-day MVPA",
+            "UCL"
+          ]
+        },
+        {
+          "value": "<.001",
+          "rowHeaders": [
+            "BMI z-score",
+            "Baseline MVPA",
+            "conditional R-squared ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Post-intervention 7-day MVPA",
+            "p Value"
+          ]
+        },
+        {
+          "value": "0.16",
+          "rowHeaders": [
+            "BMI z-score",
+            "Baseline MVPA",
+            "Model fit statistics: MI = 20, null ICC =",
+            "(interven-"
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Follow-up 7-day MVPA",
+            "FMI"
+          ]
+        },
+        {
+          "value": "0.45",
+          "rowHeaders": [
+            "BMI z-score",
+            "Baseline MVPA",
+            "Model fit statistics: MI = 20, null ICC =",
+            "(interven-"
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Follow-up 7-day MVPA",
+            "Estimate"
+          ]
+        },
+        {
+          "value": "0.41",
+          "rowHeaders": [
+            "BMI z-score",
+            "Baseline MVPA",
+            "AIC = 5518, full model AIC = 4928, null model",
+            "(interven-",
+            "ICC ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Follow-up 7-day MVPA",
+            "LCL"
+          ]
+        },
+        {
+          "value": "0.50",
+          "rowHeaders": [
+            "BMI z-score",
+            "Baseline MVPA",
+            "AIC = 5518, full model AIC = 4928, null model",
+            "(interven-",
+            "ICC =",
+            "tional R-squared ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Follow-up 7-day MVPA",
+            "UCL"
+          ]
+        },
+        {
+          "value": "<.001",
+          "rowHeaders": [
+            "BMI z-score",
+            "Baseline MVPA",
+            "AIC = 5518, full model AIC = 4928, null model",
+            "partial η2 (intervention) =",
+            "marginal R-squared ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Follow-up 7-day MVPA",
+            "p Value"
+          ]
+        },
+        {
+          "value": "0.18",
+          "rowHeaders": [
+            "BMI z-score",
+            "Baseline MVPA",
+            "AIC = 5518, full model AIC = 4928, null model",
+            "partial η2 (intervention) =",
+            "marginal R-squared ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Follow-up 7-day MVPA",
+            "FMI"
+          ]
+        },
+        {
+          "value": "-0.02",
+          "rowHeaders": [
+            "BMI z-score",
+            "Puberty stage (ref: early)"
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Post-intervention 7-day MVPA",
+            "Estimate"
+          ]
+        },
+        {
+          "value": "-0.18",
+          "rowHeaders": [
+            "BMI z-score",
+            "Puberty stage (ref: early)",
+            "tion) ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Post-intervention 7-day MVPA",
+            "LCL"
+          ]
+        },
+        {
+          "value": "0.14",
+          "rowHeaders": [
+            "BMI z-score",
+            "Puberty stage (ref: early)",
+            "residual ICC ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Post-intervention 7-day MVPA",
+            "UCL"
+          ]
+        },
+        {
+          "value": ".824",
+          "rowHeaders": [
+            "BMI z-score",
+            "Puberty stage (ref: early)",
+            "conditional R-squared ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Post-intervention 7-day MVPA",
+            "p Value"
+          ]
+        },
+        {
+          "value": "0.16",
+          "rowHeaders": [
+            "BMI z-score",
+            "Puberty stage (ref: early)",
+            "Model fit statistics: MI = 20, null ICC =",
+            "(interven-"
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Follow-up 7-day MVPA",
+            "FMI"
+          ]
+        },
+        {
+          "value": "0.09",
+          "rowHeaders": [
+            "BMI z-score",
+            "Puberty stage (ref: early)",
+            "Model fit statistics: MI = 20, null ICC =",
+            "(interven-"
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Follow-up 7-day MVPA",
+            "Estimate"
+          ]
+        },
+        {
+          "value": "-0.06",
+          "rowHeaders": [
+            "BMI z-score",
+            "Puberty stage (ref: early)",
+            "AIC = 5518, full model AIC = 4928, null model",
+            "(interven-",
+            "ICC ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Follow-up 7-day MVPA",
+            "LCL"
+          ]
+        },
+        {
+          "value": "0.23",
+          "rowHeaders": [
+            "BMI z-score",
+            "Puberty stage (ref: early)",
+            "AIC = 5518, full model AIC = 4928, null model",
+            "ICC =",
+            "tional R-squared ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Follow-up 7-day MVPA",
+            "UCL"
+          ]
+        },
+        {
+          "value": ".232",
+          "rowHeaders": [
+            "BMI z-score",
+            "Puberty stage (ref: early)",
+            "AIC = 5518, full model AIC = 4928, null model",
+            "partial η2 (intervention) =",
+            "marginal R-squared ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Follow-up 7-day MVPA",
+            "p Value"
+          ]
+        },
+        {
+          "value": "0.27",
+          "rowHeaders": [
+            "BMI z-score",
+            "Puberty stage (ref: early)",
+            "AIC = 5518, full model AIC = 4928, null model",
+            "partial η2 (intervention) =",
+            "marginal R-squared ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Follow-up 7-day MVPA",
+            "FMI"
+          ]
+        },
+        {
+          "value": "0.13",
+          "rowHeaders": [
+            "BMI z-score",
+            "Study Year 2 (ref: year 1)"
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Post-intervention 7-day MVPA",
+            "Estimate"
+          ]
+        },
+        {
+          "value": "-0.11",
+          "rowHeaders": [
+            "BMI z-score",
+            "Study Year 2 (ref: year 1)",
+            "tion) ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Post-intervention 7-day MVPA",
+            "LCL"
+          ]
+        },
+        {
+          "value": "0.37",
+          "rowHeaders": [
+            "BMI z-score",
+            "Study Year 2 (ref: year 1)",
+            "residual ICC ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Post-intervention 7-day MVPA",
+            "UCL"
+          ]
+        },
+        {
+          "value": ".299",
+          "rowHeaders": [
+            "BMI z-score",
+            "Study Year 2 (ref: year 1)",
+            "conditional R-squared ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Post-intervention 7-day MVPA",
+            "p Value"
+          ]
+        },
+        {
+          "value": "0.09",
+          "rowHeaders": [
+            "BMI z-score",
+            "Study Year 2 (ref: year 1)",
+            "Model fit statistics: MI = 20, null ICC =",
+            "(interven-"
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Follow-up 7-day MVPA",
+            "FMI"
+          ]
+        },
+        {
+          "value": "0.08",
+          "rowHeaders": [
+            "BMI z-score",
+            "Study Year 2 (ref: year 1)",
+            "AIC = 5518, full model AIC = 4928, null model",
+            "(interven-"
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Follow-up 7-day MVPA",
+            "Estimate"
+          ]
+        },
+        {
+          "value": "-0.14",
+          "rowHeaders": [
+            "BMI z-score",
+            "Study Year 2 (ref: year 1)",
+            "AIC = 5518, full model AIC = 4928, null model",
+            "ICC ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Follow-up 7-day MVPA",
+            "LCL"
+          ]
+        },
+        {
+          "value": "0.30",
+          "rowHeaders": [
+            "BMI z-score",
+            "Study Year 2 (ref: year 1)",
+            "AIC = 5518, full model AIC = 4928, null model",
+            "ICC =",
+            "tional R-squared ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Follow-up 7-day MVPA",
+            "UCL"
+          ]
+        },
+        {
+          "value": ".459",
+          "rowHeaders": [
+            "BMI z-score",
+            "Study Year 2 (ref: year 1)",
+            "AIC = 5518, full model AIC = 4928, null model",
+            "partial η2 (intervention) =",
+            "marginal R-squared ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Follow-up 7-day MVPA",
+            "p Value"
+          ]
+        },
+        {
+          "value": "0.05",
+          "rowHeaders": [
+            "BMI z-score",
+            "Study Year 2 (ref: year 1)",
+            "AIC = 5518, full model AIC = 4928, null model",
+            "partial η2 (intervention) =",
+            "marginal R-squared ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Follow-up 7-day MVPA",
+            "FMI"
+          ]
+        },
+        {
+          "value": "0.07",
+          "rowHeaders": [
+            "BMI z-score",
+            "Study Year 3 (ref: year 1)"
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Post-intervention 7-day MVPA",
+            "Estimate"
+          ]
+        },
+        {
+          "value": "-0.16",
+          "rowHeaders": [
+            "BMI z-score",
+            "Study Year 3 (ref: year 1)",
+            "tion) ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Post-intervention 7-day MVPA",
+            "LCL"
+          ]
+        },
+        {
+          "value": "0.31",
+          "rowHeaders": [
+            "BMI z-score",
+            "Study Year 3 (ref: year 1)",
+            "residual ICC ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Post-intervention 7-day MVPA",
+            "UCL"
+          ]
+        },
+        {
+          "value": ".544",
+          "rowHeaders": [
+            "BMI z-score",
+            "Study Year 3 (ref: year 1)",
+            "conditional R-squared ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Post-intervention 7-day MVPA",
+            "p Value"
+          ]
+        },
+        {
+          "value": "0.12",
+          "rowHeaders": [
+            "BMI z-score",
+            "Study Year 3 (ref: year 1)",
+            "Model fit statistics: MI = 20, null ICC =",
+            "(interven-"
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Follow-up 7-day MVPA",
+            "FMI"
+          ]
+        },
+        {
+          "value": "0.17",
+          "rowHeaders": [
+            "BMI z-score",
+            "Study Year 3 (ref: year 1)",
+            "AIC = 5518, full model AIC = 4928, null model",
+            "(interven-"
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Follow-up 7-day MVPA",
+            "Estimate"
+          ]
+        },
+        {
+          "value": "-0.05",
+          "rowHeaders": [
+            "BMI z-score",
+            "Study Year 3 (ref: year 1)",
+            "AIC = 5518, full model AIC = 4928, null model",
+            "ICC ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Follow-up 7-day MVPA",
+            "LCL"
+          ]
+        },
+        {
+          "value": "0.39",
+          "rowHeaders": [
+            "BMI z-score",
+            "Study Year 3 (ref: year 1)",
+            "AIC = 5518, full model AIC = 4928, null model",
+            "ICC =",
+            "tional R-squared ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Follow-up 7-day MVPA",
+            "UCL"
+          ]
+        },
+        {
+          "value": ".126",
+          "rowHeaders": [
+            "BMI z-score",
+            "Study Year 3 (ref: year 1)",
+            "AIC = 5518, full model AIC = 4928, null model",
+            "partial η2 (intervention) =",
+            "marginal R-squared ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Follow-up 7-day MVPA",
+            "p Value"
+          ]
+        },
+        {
+          "value": "0.11",
+          "rowHeaders": [
+            "BMI z-score",
+            "Study Year 3 (ref: year 1)",
+            "AIC = 5518, full model AIC = 4928, null model",
+            "partial η2 (intervention) =",
+            "marginal R-squared ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Follow-up 7-day MVPA",
+            "FMI"
+          ]
+        },
+        {
+          "value": "0.0126,",
+          "rowHeaders": [
+            "BMI z-score",
+            "Study Year 3 (ref: year 1)",
+            "Model fit statistics: MI = 20, null ICC ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Follow-up 7-day MVPA",
+            "p Value"
+          ]
+        },
+        {
+          "value": "0.0091, partial η",
+          "rowHeaders": [
+            "BMI z-score",
+            "Study Year 3 (ref: year 1)",
+            "residual ICC ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Post-intervention 7-day MVPA",
+            "UCL"
+          ]
+        },
+        {
+          "value": "0.0013, marginal R-squared =",
+          "rowHeaders": [
+            "BMI z-score",
+            "Study Year 3 (ref: year 1)",
+            "tion) ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Post-intervention 7-day MVPA",
+            "UCL"
+          ]
+        },
+        {
+          "value": "0.3328,",
+          "rowHeaders": [
+            "BMI z-score",
+            "Study Year 3 (ref: year 1)",
+            "tion) ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Follow-up 7-day MVPA",
+            "p Value"
+          ]
+        },
+        {
+          "value": "0.3383, null model",
+          "rowHeaders": [
+            "BMI z-score",
+            "Study Year 3 (ref: year 1)",
+            "conditional R-squared ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Post-intervention 7-day MVPA",
+            "p Value"
+          ]
+        },
+        {
+          "value": "0.0104, residual ICC =",
+          "rowHeaders": [
+            "BMI z-score",
+            "Study Year 3 (ref: year 1)",
+            "residual ICC =",
+            "(interven-",
+            "ICC ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Follow-up 7-day MVPA",
+            "UCL"
+          ]
+        },
+        {
+          "value": "0.0133,",
+          "rowHeaders": [
+            "BMI z-score",
+            "Study Year 3 (ref: year 1)",
+            "residual ICC =",
+            "(interven-",
+            "ICC =",
+            "marginal R-squared ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Follow-up 7-day MVPA",
+            "p Value"
+          ]
+        },
+        {
+          "value": "0.0023,",
+          "rowHeaders": [
+            "BMI z-score",
+            "Study Year 3 (ref: year 1)",
+            "AIC = 5518, full model AIC = 4928, null model",
+            "partial η2 (intervention) =",
+            "marginal R-squared ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Follow-up 7-day MVPA",
+            "p Value"
+          ]
+        },
+        {
+          "value": "0.2562, condi-",
+          "rowHeaders": [
+            "BMI z-score",
+            "Study Year 3 (ref: year 1)",
+            "AIC = 5518, full model AIC = 4928, null model",
+            "ICC =",
+            "marginal R-squared ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Follow-up 7-day MVPA",
+            "p Value"
+          ]
+        },
+        {
+          "value": "0.2661, null model",
+          "rowHeaders": [
+            "BMI z-score",
+            "Study Year 3 (ref: year 1)",
+            "AIC = 5518, full model AIC = 4928, null model",
+            "ICC =",
+            "tional R-squared ="
+          ],
+          "columnHeaders": [
+            "Table 2 Linear mixed-effects model results for MVPA outcomes",
+            "Linear mixed-effects model results for MVPA outcomes",
+            "Follow-up 7-day MVPA",
+            "UCL"
+          ]
+        }
+      ],
+      "page": 1
+    }
+  ]
+}

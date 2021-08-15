@@ -1,0 +1,884 @@
+{
+  "blocks": [
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "F or previous generations of U.S. children, active commuting to school (ACS, walking and cycling to and from school) was a common mode of school travel. In 1969, 47.7% of U.S. children in kindergarten (K) through eighth grade regularly traveled by ACS versus 12.7% in 2009. This drop in ACS represents a loss of a daily source of physical activity that may contribute to age-related drops in physical activity and the childhood obesity epidemic. Greater ACS was associated with greater moderate-to-vigorous physical activity (MVPA), lower BMI z-score, and lower blood pressure ; however, most studies were observational or focused exclusively on walking to school. The rate of cycling to school in the U.S. is only 1% for K-eighth graders, and several studies suggest low-income children's percentage of cycling to school is even lower. Cycling to school offers an important option for children who live far from school and for those who prefer to cycle to school. Increasing children's cycling to school is an objective of U.S. Healthy People 2020. Cycling is more intense than walking and may confer greater health benefits, such as positive improvements in cardiovascular fitness.\nIn the U.S., the federal Safe Routes to School (SRTS) program promotes ACS among elementary and middle schoolers through improvements to schools' walking environments and promotional activities. \"Bicycle trains\" consist of a group of children who cycle to and from school accompanied by adults. Children are picked up and dropped off at set times and the \"train stops\" throughout their neighborhood. Similar to the SRTS program, the walking school bus in which children walk to and from school chaperoned by adults, bicycle trains are designed to increase and teach safety while providing an opportunity for physical activity on the way to and from school. Although several RCTs have reported promising results for walking school buses, no trials have examined bicycle trains. Given that U.S. adults in the lowest income group had the highest rates of cycling, teaching safe cycling behaviors and increasing cycling to school is relevant for low-SES children to prevent inequities in physical activity and injury risk. The primary objective is to conduct a pilot cluster RCT of the bicycle train program among a racially/ethnically diverse sample of children who attend schools that primarily serve low-SES families. The study design was a cluster RCT because bicycle trains and similar SRTS programs (walking school buses ) are implemented at the school level to facilitate groups of commuters and to minimize contamination. The hypotheses include that the bicycle train program will increase children's rates of cycling to school and that regularly cycling to and from school will influence children's behaviors for cycling as transportation in general. It may also encourage cycling as an enjoyable leisure time activity, which will lead to increases in total daily physical activity and not just during the before-and after-school times.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "A convenience sample of four public schools that served K-fifth grade students in the Seattle Public Schools (SPS) was recruited. All eligible schools (n¼27) were designated as federal Title 1 schools (i.e., served substantial numbers of students from lowincome families). School inclusion criteria were: 460% of students qualified for the federal free/reduced lunch program (a proxy for SES), non-Latino white students comprised o50% of the student body, and no existing bicycle train or walking school bus program. For $ 4 weeks prior to randomization, participants were recruited using these inclusion criteria: enrollment as a fourth or fifth grader, ability to ride or learn to ride a bicycle, and residing within 2 miles of the school or parents would transport the child within the 2-mile zone. The 2-mile limit was chosen so that the total route was r45 minutes and was consistent with previous research on distances children are able to travel for ACS. For all child participants, written informed assent and written informed parental consent were obtained prior to Time 1 assessments. As an incentive, children were eligible to keep the study bicycles and equipment after study completion. This RCT was approved by the Research, Evaluation, and Assessment Office of SPS and the IRB of Seattle Children's Hospital.\nThe bicycle train program followed guidelines from the National Center for SRTS. Similar to other SRTS interventions such as the walking school bus, the bicycle train was designed to instill an active lifestyle in children by promoting cycling to and from school over passive commuting (riding in a motor vehicle). Intervention schools were assigned one bicycle train route based on children's addresses with stops located along the route to school. Study staff rode along the route and picked up children at each stop, and together they rode to and from school up to 5 days/week. Riding with the bicycle train was voluntary. The ratio of staff to children was 1:3, with no fewer than two staff members for bicycle trains involving fewer than six children. The morning commute to school generally aimed to have the students arrive at the school 25-30 minutes prior to the school start time, to allow students to participate in the school breakfast program. For the afternoon commute home, the trains left 5-10 minutes after the school end time. The control school participants received the usual information provided by SPS on school transportation, but they received no bicycle train intervention.\nA cluster RCT was used and schools were matched based on when they preferred to participate in the study. Schools were randomly assigned within matched pairs to intervention (n¼2) or control (n¼2) conditions by the study statistician, who assigned a random number to each school within a pair whereby the lower number assigned the intervention condition. The RCT was conducted with Wave 1 among one matched pair of schools in May-June of 2014 and Wave 2 in October-November of 2014. For both waves, Time 1 assessments were obtained in the 1-2 weeks prior to random assignment and initiation of the intervention. Time 2 measurements occurred during weeks 4-6 of the intervention period. Even though blinding of participants, schools, and evaluation staff was possible for Time 1 assessments, it was not possible after random assignment of study condition and for Time 2 assessments, because of the visible nature of the intervention. However, use of objective measures likely minimizes risk of bias.\nThe study objective was to test the short-term efficacy of the bicycle train intervention. Thus, to avoid confounding by income or bicycle ownership, all participants were provided and fitted with bicycles and safety equipment (helmets, locks, and front/rear lights) as well as a 2-to 3-hour professional bicycle riding safety course, regardless of their schools' random assignment. The study's community partners generously provided, in part, free Mendoza et al / Am J Prev Med 2017;53(4):481-489 bicycles for the children and bike maintenance (Bike Works) and led the bicycle riding safety course (Cascade Bicycle Club) in which several children learned to ride a bicycle for the very first time. The bicycle safety course consisted of the following topics: (1) learning to ride (for beginners) and how to ride on city streets, (2) rules of the road, (3) signaling, and (4) a group bicycle ride in the neighborhood, which included communicating with other riders regarding traffic and how to ride and turn as a group.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Study staff measured outcome variables at the schools and these measurements reflect individual-level outcomes rather than school-level outcomes, because the study was not powered or designed to change behaviors at the school level.\nThe primary outcome was the percentage of trips made to school by cycling (% cycling), which was assessed using a valid (convergent validity with parental report, κ¼0.87, po0.001) and reliable (test-retest, κ¼0.97, po0.001) questionnaire every school day for 1 week each during Times 1 and 2. The questionnaire asked in English or Spanish: How did you get to school today? and children chose the one best answer from the following: school bus, carpool, car, metro bus, walked with an adult, walked without an adult, biked. The percentage of trips to school by cycling was calculated for each participant over the course of 1 week.\nThe secondary outcome was MVPA (minutes/day) measured by: (1) a combination of accelerometers and GPS units (for cycling only, described below) and (2) accelerometers only (for all physical activities except cycling). Participants concurrently wore two devices, synchronized to Coordinated Universal Time, on an elastic band over their hip for 7-day periods: (1) the GT3Xþ accelerometer (Actigraph LCC) that recorded raw data at a sample frequency of 30 Hz and later processed into 15-second epochs and (2) the Qstarz BT-1000 XT GPS Data Logger (Qstarz International Co.) that recorded location, time, and velocity at 15-second epochs. Both accelerometer and GPS data were processed using the web-based application, Personal Activity Location Measurement System, version 4 (ucsd-palms-project.wikispaces.com/). Traditional accelerometer processing methods provide an objective and valid estimate of children's physical activity, with the exception of cycling. Thus, machine learning algorithms based on concurrently collected accelerometer and GPS data for distinguishing cycling from other common types of childhood physical activities were developed and validated. For all accelerometer data, the data quality standards of Troiano and colleagues were applied in which non-wear time was defined as 60 consecutive minutes of 0 accelerometer counts, aside from 1-2 minutes of counts between 0 and 100, and accelerometer wear time was defined subtracting non-wear time from 24 hours. For the GPS data, Personal Activity Location Measurement System, version 4 filtered invalid GPS fixes as a result of satellite interference. Because this study applied concurrent accelerometer and GPS data in the estimation of cycling activity, 3 days were used as the minimum amount of valid days for inclusion of combined accelerometer and GPS data to estimate cycling activity, the criteria set by Jerrett et al. (i.e., 44 hours of valid combined data fora minimum of 3 days).\nThe machine learning algorithms to identify cycling behaviors were developed among a separate convenience sample of 36 children aged 9-12 years (mean age¼10.6, SD¼1.0 years), who provided assent and whose parents provided parental consent to participate in this research protocol approved by the IRBs of the University of California, San Diego and Seattle Children's Hospital. Briefly, participants performed five common types of childhood physical activities (cycling, walking, running, riding in a motor vehicle, and sitting stationary) for approximately minutes at a self-chosen pace in one of five random sequences, which was observed and noted by two trained staff as the criterion standard. Participants wore an accelerometer (Actigraph GT3X) at the right hip and a GPS unit (BT-Q1000XT, QStarz). A total of 41 accelerometer features and ten GPS features were extracted and used in 1-minute epochs, and a full description of features is available elsewhere. A random forest algorithm was used, which maps minute-level accelerometer and GPS features to the staffobserved activities. This training phase was followed by hidden Markov smoothing, which uses neighboring minutes to improve the random forest classifier. Leave-one-out cross-validation evaluated the resulting algorithms for balanced accuracy ([sensitivity þ specificity]/2), which yielded 99.9% accuracy for identifying cycling from the other four activities among children following a set protocol of activities. The validated algorithm was then applied to the bicycle train cluster RCT data to identify the dates and times of children's cycling activity. Any minutes identified as cycling were classified as minutes of MVPA, which is consistent with cycling-related physical activity intensity as per the Compendium of Energy Expenditures for Youth and per a validation study that used a portable indirect calorimeter to measure selfpaced cycling-related energy expenditure among children and adolescents at an indoor gymnasium. Data collection times were matched epoch by epoch and for those not identified as cycling, the traditional uniaxial accelerometer data was used to estimate MVPA by applying Evenson and colleagues' cut point for children and adolescents, which had the highest accuracy in youth. Thereafter, cycling MVPA estimated from the machine-learning algorithm was combined with MVPA estimated from the accelerometer-only measurements to obtain the secondary outcome measure of total minutes of MVPA/day.\nFor a planned subanalysis, before-and after-school MVPA on weekdays was examined to estimate the impact of the intervention during those specific school commuting times. The before-school period was defined as the 90 minutes prior to each school's start time on Mondays through Fridays (the bicycle trains arrived 30 minutes prior to each school's start time to allow for school breakfast participation). The after-school period was defined as the 60 minutes after each school's end time on weekdays (the bicycle trains departed each school within 5-10 minutes after each school's end time). MVPA during the before-and after-school time periods were combined to create the before-and after-school MVPA outcome variable.\nParents reported their child's age, sex, and race/ethnicity as well as their home address. Distance from home to school was estimated using the pedestrian option on maps.google.com. For children who lived beyond a 2-mile cycling radius (n=2) and who were driven in a motor vehicle to their bicycle train stop, the distance from their designated bicycle train stop to school was used instead of the distance from their home to school, because they cycled from the bicycle train stop and not necessarily from home. Parents' perceptions of neighborhood safety were assessed using an 8-item neighborhood disorder scale that obtains participants ratings (total scores range from 0 to 32, with 32 indicating the Mendoza et al / Am J Prev Med 2017;53(4):481-489 highest disorder) measuring the quality of their neighborhood with regard to safety, violence, drug traffic, and child victimization. Research staff used a standardized protocol to measure participants' height and weight in duplicate using the Seca stadiometer and the Tanita BWB-800S digital scale. A third measurement was obtained if the initial two values exceeded 0.2 cm or 0.2 kg. The closest two values determined the mean value. BMI (kg/m 2 ) was calculated from mean values of height and weight, and U.S. growth charts calculated BMI z-scores. Because of the brief nature of the intervention period, BMI z-score was not expected to change and instead was considered as a covariate in analyses.\nThe neighborhood built environment (i.e., physical environmental characteristics of neighborhoods) influences children's physical activity, including walking to school. However, few studies on children's cycling examined the influence of the built environment. A recently developed cycling score, Bike Score s , was shown to be moderately correlated with higher rates of work-related cycling trips among participants aged Z15 years from 24 cities in the U.S. (including Seattle) and Canada. Bike Score (www.walkscore.com/ bike-score-methodology.shtml) was obtained to characterize the bike-related environment for each study participant's home address for use as a covariate in analyses. It is based on four criteria: (1) bike lanes, (2) topology (steepest grade), (3) destinations and connectivity, and (4) city-wide percentage that cycles to work. Bike Scores range from 0 to 100 with 100 being the most conducive to cycling.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Although this study was conducted in Seattle, the grant was originally planned for Houston, Texas, and the a priori power analysis was based on enrolling 20 fourth-fifth graders per school from the Houston Independent School District with 10% expected attrition. When stratified by school (N¼4) and given a repeated measures analysis of variance with one between groups factor (intervention, control) and one within-groups factor (pre-, post-), an α of 0.05, a moderate correlation of 0.3 across time, and (N¼72) students, there was adequate power (80%) to detect a large effect (f ¼0.42) (G Power, version 3.1.1 ).\nBased on available resources and informed by the smaller school sizes in Seattle compared with Houston, a maximum of 15 students/school or 60 students altogether was the revised goal for recruitment.\nAnalyses were conducted using Stata, version 12.0, in 2015-2016. For the primary analysis, a repeated measures linear mixed effects model was used to estimate the association between the intervention and the % cycling trips to school, adjusting for covariates (fixed effects) (i.e., age, sex, race/ethnicity, BMI z-score, distance from home to school, Bike Score, and neighborhood disorder). Students (N=54) were nested within schools (N=4) and considered random effects; intervention group, time, and a group X time interaction were included as fixed effects. Child was a random effect to account for within child correlation of measures at Time 1 and Time 2. Additionally, school was included as a random effect to account for within-school correlation of measures at Time 1 and Time 2. Advantages of using the mixed model approach include that they are generally robust to error distribution mis-specification and participants are not dropped from the model when missing data at a single time point. A similar independent and adjusted mixed effects model estimated the association between the intervention and mean MVPA (minutes/day), and additionally included accelerometer wear time as a covariate. For a planned subanalysis, before-and after-school MVPA served as the outcome variable in an adjusted model. Differences between intervention and control groups at Time 1 were not tested as per expert recomendations (e.g., the 2010 CONSORT statement). Analyses were intention to treat, except where noted.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "After sending an introductory letter to all 27 Title 1 elementary and K-eighth grades schools in SPS, eight schools were contacted based on student demographics and input from SPS staff. Although no school refused study participation, the first four schools who agreed to participate in the study were enrolled (Figure). All had high percentages of racial/ethnic minority students (Z81%) and students eligible for the federal free/ reduced-price lunch program (Z63%). The four schools enrolled a total of 421 fourth-fifth graders. Enrollment was limited at each school to 15 students (14.3% of 421 total) to fit the size and scope of the grant funding for this project; thus, changes were not expected at the school level and instead were expected for individual-level outcomes of the students enrolled in the study. Fiftyfour students (12.8%) were enrolled, primarily because one school had a lower number of fourth-fifth graders. The two intervention schools enrolled 24 students (17.1% of their eligible students) whereas the control schools enrolled 30 students (10.7% of their eligible students). At three of four schools, some students (440) had to be turned down from enrolling in the study because enrollment closed once the target number of 15 students per school was reached. Data on the students who did not enroll in the study were not collected. No adverse events occurred during this study, including no cycling-related injuries requiring urgent or emergency department care.\nParticipants had a mean age of 9.9 (SD¼0.7) years, mean BMI z-score of 0.84 (SD¼1.00), 64.8% were female, 27.8% were Latino, 24.0% were non-Latino black, 20.4% were Asian/Pacific Islander, 14.8% were multi-racial/ other, and 5.6% were non-Latino white (Table). Each intervention school had one bicycle train route, which took 10-45 minutes for children to complete, depending on where they were picked up along the route.\nThe intraclass correlation coefficient due to clustering within schools for % cycling to school was o0.001, (95% CI¼ o0.001, 0.12). In the adjusted linear mixed effects model (Table and Appendix Table, available online), intervention participants had an absolute increase in mean percentage of daily commutes by cycling of 44.9% (95% CI¼26.8, 63.0) compared with controls from Time 1 to Time 2. Significant covariates included sex, race/ ethnicity, and distance from home to school.\nThe intraclass correlation coefficient due to clustering within schools for overall MVPA (minutes/day) was 0.12, (95% CI¼ o0.001, 0.39). In the adjusted linear mixed effects model (Table and Appendix Table, available online), intervention participants had an increase in mean MVPA of 21.6 minutes/day (95% CI¼8.7, 34.6), compared with control participants from Time 1 to Time 2. Significant covariates included sex and Bike Score. A similar adjusted linear mixed effects model (Appendix Table, available online) provides estimates for intervention participants' increase in MVPA from cycling only (23.0 minutes/day, 95% CI¼10.7, 35.4).\nFor the planned subanalysis assessing the impact of the bicycle train intervention on before-and after-school MVPA (Appendix Table, available online), intervention participants had an increase in mean before-and after-school MVPA of 12.8 minutes/day (95% CI¼8.5, 17.2) compared with control participants.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "This study is the first RCT of the bicycle train program and resulted in higher rates of cycling to school and MVPA among a predominantly low-SES, racial/ethnic minority sample of elementary schoolchildren. Intervention children had an absolute increase of $45% for their daily average rate of cycling to school versus controls. This increase is comparable to the increase in walking to school reported by the walking school bus program (38% increase) among a similar sample. The bicycle train's substantial increase in rates of cycling to school suggests that it would be a potent intervention to meet objective PA-14.2 of Healthy People 2020 (increase the proportion of trips to school made by cycling). The present study is also consistent with: (1) an RCT of cycling to school in which intervention students demonstrated decreased cardiometabolic risk and (2) previous observational studies on children's cycling to school, which reported inverse associations with obesity and cardiometabolic risk. The present study also builds on a promising RCT testing a cycling training course that reported improvements in children's cycling skills but did not improve rates of cycling to school, suggesting that a more intensive intervention (bicycle train) maybe necessary to change children's cycling to school behaviors.\nThis study uniquely employed novel algorithms, developed outside of the laboratory, to an intervention trial and to assess cycling objectively using a combined accelerometer and GPS approach. The increase in total MVPA for the bicycle train intervention compared with control students was þ21.6 minutes/day, which represents more than one third of the recommended daily amount of MVPA. This increase is larger than: (1) the $7-minute increase in MVPA by a walking school bus program RCT, (2) other previous RCTs on children's active commuting to school, and (3) general childhood physical activity RCTs in which a systematic review reported increases of $4 minutes/day of MVPA. As expected, more than 50% of the additional MVPA achieved by the intervention children was due to  increases in the before-and after-school periods. The remaining increases in MVPA occurred outside of the before-and after-school periods, consistent with the hypothesis that the bicycle train intervention would increase overall daily MVPA.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The pilot study's small sample size precludes detecting small to moderate differences in outcomes. Generalizability is limited by the study's focus on an urban, low-SES, minority sample who volunteered for this study; results may differ for others. The narrow enrollment period of $4 weeks and the cap of 15 students/school excluded some students from enrolling and participating in the bicycle train program and outcomes may not necessarily reflect programs that are allowed to grow naturally. The brief intervention period and assessment, although similar to other school-based physical activity intervention studies, may not reflect long-term outcomes, which are important to indicate sustainability of intervention effects. Multiple studies have reported inequities in MVPA, with girls achieving less MVPA than boys. This study's results are consistent with those studies, and indicate that tailored efforts to increase girls' MVPA and participation in the bicycle train are warranted. Although weather conditions may influence students' mode of commuting to school, weather conditions were not measured in the present pilot RCT. However, given that schools were from the same city, weather conditions were likely similar within each wave of intervention and control participants, which decreases potential confounding. Distance from home to school was estimated using maps. google.com rather than the actual route taken by each student. This pilot RCT was limited in scope and requires confirmation with larger, longer-term RCTs. Future studies should enlist parents, community members, school staff, and other responsible adults as leaders of the bicycle trains to examine program effectiveness.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The pilot bicycle trains significantly increased intervention children's cycling to school and overall MVPA, and provide proof of concept in the short term that requires replication among larger samples in a variety of settings. This pilot study enrolled a diverse sample of students from schools that serve urban, low-SES families, suggesting that bicycle trains may help prevent related health inequities.\n",
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "9.8 Ϯ",
+          "rowHeaders": [
+            "Child age (years)",
+            "Distance home to school (miles)"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Intervention"
+          ]
+        },
+        {
+          "value": "0.8",
+          "rowHeaders": [
+            "Child age (years)",
+            "Distance home to school (miles)"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Intervention"
+          ]
+        },
+        {
+          "value": "10.0 Ϯ",
+          "rowHeaders": [
+            "Child age (years)",
+            "Distance home to school (miles)"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Control"
+          ]
+        },
+        {
+          "value": "0.7",
+          "rowHeaders": [
+            "Child age (years)",
+            "Distance home to school (miles)"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Control"
+          ]
+        },
+        {
+          "value": "9.9 Ϯ",
+          "rowHeaders": [
+            "Child age (years)",
+            "Distance home to school (miles)"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Total (N¼54)"
+          ]
+        },
+        {
+          "value": "0.7",
+          "rowHeaders": [
+            "Child age (years)",
+            "Distance home to school (miles)"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Total (N¼54)"
+          ]
+        },
+        {
+          "value": "0.96 Ϯ",
+          "rowHeaders": [
+            "Child BMI z-score",
+            "Distance home to school (miles)"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Intervention"
+          ]
+        },
+        {
+          "value": "0.94",
+          "rowHeaders": [
+            "Child BMI z-score",
+            "Distance home to school (miles)"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Intervention"
+          ]
+        },
+        {
+          "value": "0.75 Ϯ",
+          "rowHeaders": [
+            "Child BMI z-score",
+            "Distance home to school (miles)"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Control"
+          ]
+        },
+        {
+          "value": "1.05",
+          "rowHeaders": [
+            "Child BMI z-score",
+            "Distance home to school (miles)"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Control"
+          ]
+        },
+        {
+          "value": "0.84 Ϯ",
+          "rowHeaders": [
+            "Child BMI z-score",
+            "Distance home to school (miles)"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Total (N¼54)"
+          ]
+        },
+        {
+          "value": "1.00",
+          "rowHeaders": [
+            "Child BMI z-score",
+            "Distance home to school (miles)"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Total (N¼54)"
+          ]
+        },
+        {
+          "value": "0.8 Ϯ",
+          "rowHeaders": [
+            "Distance home to school (miles)",
+            "Neighborhood disorder"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Intervention"
+          ]
+        },
+        {
+          "value": "0.4",
+          "rowHeaders": [
+            "Distance home to school (miles)",
+            "Neighborhood disorder"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Intervention"
+          ]
+        },
+        {
+          "value": "0.9 Ϯ",
+          "rowHeaders": [
+            "Distance home to school (miles)",
+            "Neighborhood disorder"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Control"
+          ]
+        },
+        {
+          "value": "0.6",
+          "rowHeaders": [
+            "Distance home to school (miles)",
+            "Neighborhood disorder"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Control"
+          ]
+        },
+        {
+          "value": "0.8 Ϯ",
+          "rowHeaders": [
+            "Distance home to school (miles)",
+            "Neighborhood disorder"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Total (N¼54)"
+          ]
+        },
+        {
+          "value": "0.6",
+          "rowHeaders": [
+            "Distance home to school (miles)",
+            "Neighborhood disorder"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Total (N¼54)"
+          ]
+        },
+        {
+          "value": "67.6 Ϯ",
+          "rowHeaders": [
+            "Bike Score"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Intervention"
+          ]
+        },
+        {
+          "value": "15.1",
+          "rowHeaders": [
+            "Bike Score"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Intervention"
+          ]
+        },
+        {
+          "value": "59.3",
+          "rowHeaders": [
+            "Bike Score"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Control"
+          ]
+        },
+        {
+          "value": "Ϯ17.7",
+          "rowHeaders": [
+            "Bike Score"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Control"
+          ]
+        },
+        {
+          "value": "63.2 Ϯ",
+          "rowHeaders": [
+            "Bike Score"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Total (N¼54)"
+          ]
+        },
+        {
+          "value": "16.9",
+          "rowHeaders": [
+            "Bike Score"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Total (N¼54)"
+          ]
+        },
+        {
+          "value": "17.0 Ϯ",
+          "rowHeaders": [
+            "Neighborhood disorder"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Intervention"
+          ]
+        },
+        {
+          "value": "7.5",
+          "rowHeaders": [
+            "Neighborhood disorder"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Intervention"
+          ]
+        },
+        {
+          "value": "14.7 Ϯ",
+          "rowHeaders": [
+            "Neighborhood disorder"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Control"
+          ]
+        },
+        {
+          "value": "7.2",
+          "rowHeaders": [
+            "Neighborhood disorder"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Control"
+          ]
+        },
+        {
+          "value": "15.7 Ϯ",
+          "rowHeaders": [
+            "Neighborhood disorder"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Total (N¼54)"
+          ]
+        },
+        {
+          "value": "7.4",
+          "rowHeaders": [
+            "Neighborhood disorder"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Total (N¼54)"
+          ]
+        },
+        {
+          "value": "1.7 Ϯ",
+          "rowHeaders": [
+            "Neighborhood disorder",
+            "% daily cycling to school"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Intervention"
+          ]
+        },
+        {
+          "value": "8.2",
+          "rowHeaders": [
+            "Neighborhood disorder",
+            "% daily cycling to school"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Intervention"
+          ]
+        },
+        {
+          "value": "0.8 Ϯ",
+          "rowHeaders": [
+            "Neighborhood disorder",
+            "% daily cycling to school"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Control"
+          ]
+        },
+        {
+          "value": "4.6",
+          "rowHeaders": [
+            "Neighborhood disorder",
+            "% daily cycling to school"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Control"
+          ]
+        },
+        {
+          "value": "1.2 Ϯ",
+          "rowHeaders": [
+            "Neighborhood disorder",
+            "% daily cycling to school"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Total (N¼54)"
+          ]
+        },
+        {
+          "value": "6.4",
+          "rowHeaders": [
+            "Neighborhood disorder",
+            "% daily cycling to school"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Total (N¼54)"
+          ]
+        },
+        {
+          "value": "46.1 Ϯ",
+          "rowHeaders": [
+            "MVPA (minutes/day)"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Intervention"
+          ]
+        },
+        {
+          "value": "18.4",
+          "rowHeaders": [
+            "MVPA (minutes/day)"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Intervention"
+          ]
+        },
+        {
+          "value": "43.9 Ϯ",
+          "rowHeaders": [
+            "MVPA (minutes/day)"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Control"
+          ]
+        },
+        {
+          "value": "21.9",
+          "rowHeaders": [
+            "MVPA (minutes/day)"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Control"
+          ]
+        },
+        {
+          "value": "44.8 Ϯ",
+          "rowHeaders": [
+            "MVPA (minutes/day)"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Total (N¼54)"
+          ]
+        },
+        {
+          "value": "20.4",
+          "rowHeaders": [
+            "MVPA (minutes/day)"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Table 1. Participant Characteristics Stratified by Study Group Assignment",
+            "Total (N¼54)"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "-0.02 (-0.15,",
+          "rowHeaders": [
+            "Age",
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 2. Repeated Measures Mixed Effects Model for",
+            "Table 2. Repeated Measures Mixed Effects Model for",
+            "(95% CI)",
+            "ref"
+          ]
+        },
+        {
+          "value": "0.12)",
+          "rowHeaders": [
+            "Age",
+            "Intervention"
+          ],
+          "columnHeaders": [
+            "Table 2. Repeated Measures Mixed Effects Model for",
+            "Table 2. Repeated Measures Mixed Effects Model for",
+            "(95% CI)",
+            "ref"
+          ]
+        },
+        {
+          "value": "0.10 (-0.02,",
+          "rowHeaders": [
+            "Age",
+            "Time 2"
+          ],
+          "columnHeaders": [
+            "Table 2. Repeated Measures Mixed Effects Model for",
+            "Table 2. Repeated Measures Mixed Effects Model for",
+            "(95% CI)",
+            "ref",
+            "ref"
+          ]
+        },
+        {
+          "value": "0.23)",
+          "rowHeaders": [
+            "Age",
+            "Time 2"
+          ],
+          "columnHeaders": [
+            "Table 2. Repeated Measures Mixed Effects Model for",
+            "Table 2. Repeated Measures Mixed Effects Model for",
+            "(95% CI)",
+            "ref",
+            "ref"
+          ]
+        },
+        {
+          "value": "44.9% (26.8%, 63.0%)",
+          "rowHeaders": [
+            "Age",
+            "Group Â Time"
+          ],
+          "columnHeaders": [
+            "Table 2. Repeated Measures Mixed Effects Model for",
+            "Table 2. Repeated Measures Mixed Effects Model for",
+            "(95% CI)",
+            "ref",
+            "ref"
+          ]
+        },
+        {
+          "value": "0.002 (-0.07,",
+          "rowHeaders": [
+            "Age",
+            "Group Â Time"
+          ],
+          "columnHeaders": [
+            "Table 2. Repeated Measures Mixed Effects Model for",
+            "Table 2. Repeated Measures Mixed Effects Model for",
+            "(95% CI)",
+            "ref",
+            "ref"
+          ]
+        },
+        {
+          "value": "0.07)",
+          "rowHeaders": [
+            "Age",
+            "Non-Latino black"
+          ],
+          "columnHeaders": [
+            "Table 2. Repeated Measures Mixed Effects Model for",
+            "Table 2. Repeated Measures Mixed Effects Model for",
+            "(95% CI)",
+            "ref",
+            "ref"
+          ]
+        },
+        {
+          "value": "0.12 (0.007,",
+          "rowHeaders": [
+            "Distance from home to school",
+            "Male"
+          ],
+          "columnHeaders": [
+            "Table 2. Repeated Measures Mixed Effects Model for",
+            "Table 2. Repeated Measures Mixed Effects Model for",
+            "(95% CI)",
+            "ref",
+            "ref",
+            "ref"
+          ]
+        },
+        {
+          "value": "0.23)",
+          "rowHeaders": [
+            "Distance from home to school",
+            "Male"
+          ],
+          "columnHeaders": [
+            "Table 2. Repeated Measures Mixed Effects Model for",
+            "Table 2. Repeated Measures Mixed Effects Model for",
+            "(95% CI)",
+            "ref",
+            "ref",
+            "ref"
+          ]
+        },
+        {
+          "value": "-0.23 (-0.48,",
+          "rowHeaders": [
+            "Distance from home to school",
+            "Non-Latino black"
+          ],
+          "columnHeaders": [
+            "Table 2. Repeated Measures Mixed Effects Model for",
+            "Table 2. Repeated Measures Mixed Effects Model for",
+            "(95% CI)",
+            "ref",
+            "ref",
+            "ref",
+            "ref"
+          ]
+        },
+        {
+          "value": "0.02)",
+          "rowHeaders": [
+            "Distance from home to school",
+            "Non-Latino black"
+          ],
+          "columnHeaders": [
+            "Table 2. Repeated Measures Mixed Effects Model for",
+            "Table 2. Repeated Measures Mixed Effects Model for",
+            "(95% CI)",
+            "ref",
+            "ref",
+            "ref",
+            "ref"
+          ]
+        },
+        {
+          "value": "-0.11 (-0.35,",
+          "rowHeaders": [
+            "Distance from home to school",
+            "Latino"
+          ],
+          "columnHeaders": [
+            "Table 2. Repeated Measures Mixed Effects Model for",
+            "Table 2. Repeated Measures Mixed Effects Model for",
+            "(95% CI)",
+            "ref",
+            "ref",
+            "ref",
+            "ref"
+          ]
+        },
+        {
+          "value": "0.13)",
+          "rowHeaders": [
+            "Distance from home to school",
+            "Latino"
+          ],
+          "columnHeaders": [
+            "Table 2. Repeated Measures Mixed Effects Model for",
+            "Table 2. Repeated Measures Mixed Effects Model for",
+            "(95% CI)",
+            "ref",
+            "ref",
+            "ref",
+            "ref"
+          ]
+        },
+        {
+          "value": "-0.25 (-0.50, -0.01)",
+          "rowHeaders": [
+            "Distance from home to school",
+            "Asian"
+          ],
+          "columnHeaders": [
+            "Table 2. Repeated Measures Mixed Effects Model for",
+            "Table 2. Repeated Measures Mixed Effects Model for",
+            "(95% CI)",
+            "ref",
+            "ref",
+            "ref",
+            "ref"
+          ]
+        },
+        {
+          "value": "-0.26 (-0.51, -0.001)",
+          "rowHeaders": [
+            "Distance from home to school",
+            "Other"
+          ],
+          "columnHeaders": [
+            "Table 2. Repeated Measures Mixed Effects Model for",
+            "Table 2. Repeated Measures Mixed Effects Model for",
+            "(95% CI)",
+            "ref",
+            "ref",
+            "ref",
+            "ref"
+          ]
+        },
+        {
+          "value": "-0.007 (-0.06,",
+          "rowHeaders": [
+            "BMI z-score"
+          ],
+          "columnHeaders": [
+            "Table 2. Repeated Measures Mixed Effects Model for",
+            "Table 2. Repeated Measures Mixed Effects Model for",
+            "(95% CI)",
+            "ref",
+            "ref",
+            "ref",
+            "ref"
+          ]
+        },
+        {
+          "value": "0.05)",
+          "rowHeaders": [
+            "BMI z-score"
+          ],
+          "columnHeaders": [
+            "Table 2. Repeated Measures Mixed Effects Model for",
+            "Table 2. Repeated Measures Mixed Effects Model for",
+            "(95% CI)",
+            "ref",
+            "ref",
+            "ref",
+            "ref"
+          ]
+        },
+        {
+          "value": "0.003 (-0.004,",
+          "rowHeaders": [
+            "Neighborhood disorder"
+          ],
+          "columnHeaders": [
+            "Table 2. Repeated Measures Mixed Effects Model for",
+            "Table 2. Repeated Measures Mixed Effects Model for",
+            "(95% CI)",
+            "ref",
+            "ref",
+            "ref",
+            "ref"
+          ]
+        },
+        {
+          "value": "0.01)",
+          "rowHeaders": [
+            "Neighborhood disorder"
+          ],
+          "columnHeaders": [
+            "Table 2. Repeated Measures Mixed Effects Model for",
+            "Table 2. Repeated Measures Mixed Effects Model for",
+            "(95% CI)",
+            "ref",
+            "ref",
+            "ref",
+            "ref"
+          ]
+        },
+        {
+          "value": "-0.16 (-0.26, -0.06)",
+          "rowHeaders": [
+            "Distance from home to school"
+          ],
+          "columnHeaders": [
+            "Table 2. Repeated Measures Mixed Effects Model for",
+            "Table 2. Repeated Measures Mixed Effects Model for",
+            "(95% CI)",
+            "ref",
+            "ref",
+            "ref",
+            "ref"
+          ]
+        },
+        {
+          "value": "-0.003 (-0.006,",
+          "rowHeaders": [
+            "Bike Score"
+          ],
+          "columnHeaders": [
+            "Table 2. Repeated Measures Mixed Effects Model for",
+            "Table 2. Repeated Measures Mixed Effects Model for",
+            "(95% CI)",
+            "ref",
+            "ref",
+            "ref",
+            "ref"
+          ]
+        },
+        {
+          "value": "0.0004)",
+          "rowHeaders": [
+            "Bike Score"
+          ],
+          "columnHeaders": [
+            "Table 2. Repeated Measures Mixed Effects Model for",
+            "Table 2. Repeated Measures Mixed Effects Model for",
+            "(95% CI)",
+            "ref",
+            "ref",
+            "ref",
+            "ref"
+          ]
+        }
+      ],
+      "page": 1
+    }
+  ]
+}

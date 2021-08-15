@@ -1,0 +1,1896 @@
+{
+  "blocks": [
+    {
+      "type": "LINES",
+      "value": "Effects of a Physical Activity Intervention for Women",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Physical activity is associated with health and reduced mortality risk, yet only 15% of U.S. adults achieve adequate activity. This study is an experimental repeated measures nested design randomizing two similar rural communities to investigate the effectiveness of the Heart and Soul Physical Activity Program (HSPAP) (Peterson, 2002) in promoting physical activity in midlife women (n = 42) aged 35 to 65 years. The HSPAP, an innovative church-based health promotion intervention, is conceptualized in social support and designed to increase physical activity, energy expenditure (EE), and cardiorespiratory fitness (VO 2 max ), measured overtime. A significant interaction (p < .001) was found for EE in one HSPAP group increasing their EE by 1,010 kcals/week. HSPAP participants increased their VO 2 max level by 75% (p < .001) and 10%; comparison groups stayed the same or declined 16%. Study results provide preliminary support for the HSPAP intervention as an effective treatment to improve physical activity levels in sedentary, rural, midlife women.",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Cardiovascular disease (CVD) is the leading cause of death for women in the United States (American Heart Association [AHA], 2004a). One of the major risk factors for CVD is physical inactivity, with fewer women being active than men. Studies indicate that physically active women have a 60% to 75% lower risk of CVD than inactive women. Energy expenditure of 1,000 to 1,500 kilocalories per week above resting metabolism is recommended for cardiorespiratory (CR) fitness and can be achieved by 30 minutes of moderate-intensity activity daily. Healthy People 2010 Goals recommend that all adults attain 30 minutes of moderate-intensity physical activity (PA), preferably daily, to promote health (U.S. Department of Health and Human Services. Unfortunately, only 13% of American women engage in the recommended PA sufficient to reduce their risk of CVD and other chronic debilitating diseases (USDHHS, Centers for Disease. The primary purpose of this study is to determine the effectiveness of a 12-week Heart and Soul Physical Activity Program (HSPAP), a church-based social support intervention, in increasing PA, energy expenditure, and CR fitness in midlife women aged 35 to 65 years old, as compared to women who receive information only.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Several descriptive studies have positively linked social support to PA levels, particularly in women. In two qualitative studies to evaluate PA, one with African American women (aged 35 to 50) and one with European American women (aged 35 to 50), the focus groups identified social support from spouses, family, and friends as the factor that facilitated PA the most. Ina national sample telephone survey of racially diverse women, participants reporting moderate or high levels of social support were much less likely to be sedentary than those reporting little or no support. Findings showed that participants receiving the highest level of social support for PA were twice as likely to have 300 minutes of total weekly activity as those with no or low social support. Results of these studies indicate that social support has been consistently and positively related to PA in women. Although social support has been linked to PA in women in descriptive research, few experimental studies have implemented social support interventions to determine the effects on PA in women.\nFour randomized, controlled studies were found providing evidence that community-based social support interventions improved PA outcomes in midlife or older women. The interventions in these four studies primarily provided informational support or assisted the participants in enlisting support from their own social system to promote PA. In Project Active, participants (men and women, 35 to 60 years) in the lifestyle PA group were encouraged to enlist social support for PA, which resulted in improved levels (p < .001) of PA, total energy expenditure, and other physiological parameters (CR fitness, blood pressure, and percentage of body fat) over a 2-year period similar to a structured exercise group. compared participants (74% female; mean age 37.9) in a group receiving exercise consultation and support for PA with either an information-only group or a fitness assessment-only group. At 6 months, participants in the exercise consultation and support group had greater overall PA levels (p < .001) than those in the fitness assessment or the information-only groups.\nIn the Prime Time Project, postmenopausal women provided emotional support to each other to promote PA and significantly increased (p = .05) the number of exercise sessions they attended weekly, lending credence to the value of social support for women in increasing PA. Similarly, in a fourth study, postmenopausal women (aged 50 to 65 years) received information on walking, finding a walking partner, and continued support for walking over a 2-year period and had a 79% increase in reported number of blocks walked from baseline to Year 2 in the intervention group and a 16% increase in the control group. Conclusions from these studies indicate that it is possible to increase the PA level in women by implementing an intervention incorporating aspects of social support. However, social support was weakly conceptualized and operationalized, and therefore further study is needed.\nIna comprehensive review of literature by the Task Force on Community Preventive Services evaluating the effectiveness of interventions to increase PA, social support interventions provided in community settings improved outcomes of PA. Based on these findings, it was recommended that promoting a physically active lifestyle was done by building, strengthening, and maintaining social networks for health behavior change (Centers for Disease Control and Prevention. However, the studies reviewed were not based on social support theory nor designed to test the specific domains of social support related to PA in midlife women. Studies are needed that define, implement, and measure the specific do-mains of social support that effectively promotes PA in midlife women to replicate a successful intervention.\nAlthough not specific to social support interventions promoting PA, positive health behavior changes have resulted from interventions conducted in faith communities. Ina review of Church-Based Health Promotion Programs (CBHPP;, church-based interventions have been successful in improving diet, increasing mammogram screenings, losing weight, and smoking cessation. Positive changes in health behavior suggest that the support received from the spiritual aspects of an intervention make the church an ideal arena for health promotion/disease prevention strategies.\nAn adaptation of the social comparison theory, as theorized by, provides the conceptual foundation for the HSPAP intervention. Wills postulated that interpersonal relationships provide social support and enhance self-esteem by comparing oneself with others. Wills operationalized four functional domains of social support including appraisal (informational), belonging (emotional), tangible (instrumental), and self-esteem (validation) support. The theoretical benefit of informational support is enhancement of the practical information the individual has, leading to more effective coping. Emotional support reduces threat appraisal, enhances self-esteem, and motivates coping. Instrumental support helps in the resolution of practical problems, allowing time for increasing coping efforts. Validation support provides feedback and positive social comparisons and promotes self-acceptance. By altering cognitive appraisal of events, enhancing self-esteem, and improving problem-solving abilities, social support facilitates health behavior change. Few studies have operationalized the specific domains of social support as part of the intervention to determine their effect on PA outcomes.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The following three hypotheses will be tested in this study: Midlife women who participate in the HSPAP (intervention group) will spend more time in moderate-intensity (≥4.0 METs) physical activity, have greater energy expenditure (kilocalories/week), and have higher levels of CR fitness (VO 2 max ) at 6 and 12 weeks than will women who receive information only (comparison group).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "This study was a community-based clinical trial with a repeated measures nested experimental design and random assignment of communities to intervention or comparison groups. Because the study was conducted in smaller rural communities with populations of less than 25,000, randomization by community was done rather than participant to avoid cross-intervention contamination that could threaten study validity.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The study inclusion criteria were (a) women aged 35 to 65 years, (b) able to read and write English, (c) no self-reported psychiatric conditions, (d) no self-reported physical conditions interfering with ability to ambulate, and (e) low to moderate exercise risk as defined by the American College of Sports Medicine (ACSM;. Exclusion criteria included (a) uncontrolled diabetes, hypertension, major surgery in the last 6 weeks and (b) currently active ≥ 30 minutes of moderate-intensity activity daily. The ACSM Risk Stratification categorizes into low, moderate, or high risk during PA based on serum glucose and lipid levels, body weight, age, blood pressure, cigarette smoking, current activity levels, and family history of cardiac disease. ACSM Risk Stratification suggests that low-and moderaterisk individuals can safely participate in moderate-intensity activities without prior medical examination and exercise testing. All women met the ACSM's guidelines for low/moderate risk for participation in PA.\nThe initial sample included 44 midlife women; however, 2 participants voluntarily withdrew prior to completing baseline data collection, fora final sample of 42 women. Women were obtained from churches in two rural communities in the Midwest. Churches were approached if they had a parish or volunteer nurse working within the church. Two church groups participated in each of the two communities. Women were nested within churches, and churches were nested within groups (intervention or comparison). A total of 20 women received the HSPAP intervention, and 22 were in the comparison group. A power analysis indicated that each treatment group would need at least four churches with 15 participants each to have power of .80 to detect a large (Cohen's f = .39) effect. Power to detect a moderate effect size would require 12 churches per treatment group.\nThe mean age of the intervention group was 53.7 (SD = 9.7, range = 35-64) years and of the comparison group was 48.3 (SD = 7.7, range = 39-64) years. The majority of the sample was Caucasian (95%), married (60%), employed outside the home (60%), and had earned a bachelor's degree or higher in education (75%). Comparing the two groups on baseline demographic characteristics, it was found that the intervention group was significantly older (t = -2.04, p = .048) and less active as young adults (t = 2.4, p = .01) than the comparison group. The women in the intervention group had significantly higher low-density lipoprotein cholesterol (LDL) (t = -2.6, p = .013), were currently less active (t = 2.3, p = .025), and had higher highdensity lipoprotein cholesterol levels (t = -2.9, p = .005).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "One experimental and one comparison group were included in this study. The experimental group received the HSPAP intervention. The HSPAP intervention group received the HSPAP booklet and met weekly for 1 hour for 12 weeks. Appraisal, belonging, tangible, and self-esteem domains of social support provided the basis for the HSPAP intervention. Appraisal support provided in the HSPAP was information on current physical AHA PA recommendations, safety factors, and CVD prevention. Belonging support was the development of group cohesiveness, spiritual messages, and establishing walking partners. Tangible support was the provision of services to assist members in meeting activity goals, including needed resources and facilities for walking. Self-esteem support was provided by positive feedback, self-monitoring fitness and goal attainment, and giving and receiving rewards for accomplishments.\nThe HSPAP booklet is interactive, as participants could document their thoughts, challenges, and successes related to PA. Participants were expected to attend all group meetings, with no one person missing more than 1 week consecutively. If participants missed a session, they were asked to complete the section missed. Participants received an individualized PA plan, a personal copy of a walking video and an audiotape, a pedometer, assistance in identifying physical activities and resources, and social support from the leader and group members. In the group meetings, time was spent in sharing PA goals, challenges, and successes; receiving helpful information to promote PA; and participating in a variety of 15-minute group PAs.\nThe comparison group received the AHA booklet \"Exercise and Your Heart\" (AHA, 2001) and 1 hour of verbal instructions summarizing the AHA booklet and PA recommendations. One follow-up phone call to answer questions, adhering to a standard phone script, was provided to each of the comparison group participants within 2 weeks following the initial 1hour instructional session.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Time spent in PA, energy expenditure (EE), and CR fitness (VO 2 max ) outcomes were measured at baseline and at 6 and 12 weeks in all study participants. Six and 12-week measurements of PA outcomes were chosen because improvements of 5% to 25% in VO 2 max have been noted in 6 weeks, and 12 weeks corresponded with the end of the intervention. Time spent in PA was measured by the 7-Day Activity Recall (7-DAR;. The 7-DAR was conducted by telephone interview, during which participants recalled the amount of time spent in sleep (1 MET) and light (1.5 MET), moderate (4 METS), hard (6 METS), and very hard (10 METS) activities during the previous 7 days. The time in minutes engaging in moderate-intensity activities (≥ 4 METS) was summed across all 7 days to calculate minutes per week. \"Compendium of Physical Activities\" was used to determine intensity or MET level of activities to help assign participants' activities to light, moderate, hard, and very hard activity categories. Test-retest reliability of 0.80 has been previously reported for less vigorous activities and 0.94 for more vigorous time spent in PA. Known groups validity evidence was supported in two studies in which the 7-DAR detected significant differences between active and inactive groups (z = -6.14, p < .0001) and accurately classified the intensity of activities into MET levels.\nEE was also measured by the 7-DAR. EE is reported herein expended kilocalories/kilogram (kg) of body weight (kcals/kg) in activities ≥ 4 METs. EE was calculated by multiplying the MET level for activity at a moderate (4 METs) or greater intensity by time in these activities per week, multiplied by the individual's weight in kilograms. Test-retest reliability of EE measured by the 7-DAR was 0.99 with a 2-week time interval between testing in a group of 21 adults aged 19-52. The measurement of EE was validated in the current study with the Tri-Axial Research Tracker (RT3) accelerometer. The RT3 measures body acceleration and movement and records motion as activity counts. The total daily EE is calculated within the 7-DAR by multiplying the participant's basal metabolic rate and PA EE for the total activity EE in kcals/kg. All participants wore the RT3 for the same week they completed the self-report 7-DAR. High correlations (r = .89 to .99) were found between 7-DAR self-report and the RT3 accelerometer in the current study, validating the measurement of EE on the 7-DAR.\nThe Rockport Walk Test was used to measure CR fitness as an estimate of maximum oxygen uptake (VO max ), in mls O 2 /kg/minute. A 1-mile indoor track was used in both communities. Participants were instructed to walk briskly and to stop walking and rest if they became tired, faint, short of breath, or experienced palpitations or other symptoms. Gender, age, length of time to complete the 1-mile walk, and the participant's heart rate at the end of the mile were recorded and used in calculation of the estimated VO 2 max. Calculation of predicted VO 2 max on each participant was done by using the Rockport Fitness Walking Test VO 2 max calculator. Calculated results have been found to be accurate in the adult population of men and women aged 30 to 69 years. Kline et al. found a correlation of .92 between a 1-mile estimated VO 2 max using the Rockport Walk Test and measured treadmill VO 2 max in 169 men and women 30 to 69 years of age.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Letters of support to participate in the HSPAP study were received from the four churches. The Institutional Review Board granted approval of the proposed research. The majority of the participants were recruited by announcements in church or by word-of-mouth within church groups. After an adequate sample of 10 to 12 midlife women was obtained from each of the four churches, initial screening sessions were arranged to obtain baseline information.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Univariate repeated measures analyses of variance (RMANOVA) were conducted at α = .05 to determine whether there were group differences in changeover time (baseline, 6, and 12 weeks) in PA (time), EE, and VO max . Observations within church groups cannot be considered independent; therefore, church was treated as a random effect, nested within treatment.\nUnlike a fully crossed design with all fixed effects, analyzing a nested design with a random effect requires that different error terms be used for the fixed effects (see Table;.\nBecause inclusion of the baseline measure means that the main effect of group confounds treatment effects with preexisting differences, only the Group × Time and Church (Group) × Time interactions were interpreted. If significant interactions were found, tests of simple main effects were done using α = .025 (adjusted for the number of post hoc tests performed). The Huynh-Feldt (H-F) epsilon was used to adjust the df and p values of within-participant effects for any violations of the sphericity assumption. Eta-squared (η 2 ) was calculated as an effect size using within-or between-participants sums of squares, as appropriate.\nThe following values for interpreting effect size were used: .01 = small; .06 = medium; and .14 = large, equivalent to Cohen's f values of .10, .25, and .40, respectively. The level of significance for the study was .05. Although the treatment group differed in demographic characteristics, as described earlier, the small number of churches in the study made it unfeasible to include those characteristics as covariates in the analyses.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The descriptive data and RMANOVA results for the first hypothesis about time spent in PA are shown in Table. In this study, the Group × Time interaction was not significant (p = .096), indicating that there was no changeover time in the two groups in the amount of time spent in moderateintensity PA (≥ 4.0 METs). Although the finding was not significant, a medium effect size (η 2 = .09) was observed. The Church (Group) × Time interaction also was not significant (p = .163), and a medium effect size (η 2 = .06) was observed.\nThe descriptive data and RMANOVA results for the second hypothesis are shown in Table.\nThe Group × Time interaction for EE between the intervention and comparison group was not significant (p = .604, small η 2 = .03). In contrast, a significant Church (Group) × Time interaction was found (p = .022, medium η 2 = .07), suggesting some differences overtime between church groups in EE. When the interaction of church with time was tested within each group separately, neither was significant at α = .025 (treatment group: p = .035; comparison group: p = .314).\nThe descriptive data and RMANOVA results for the third hypothesis about VO 2 max are shown in Table.\nThe Church (Group) × Time interaction was significant (p < .0005, large η 2 = .15), indicating that the church groups differed significantly in the amount of changeover time. The Group × Time interaction of the VO 2 max was not significant (p = .302; see Table). Although the interaction was nonsignificant, the effect size was .27, indicating a large difference in the degree of change in VO 2 max between the two groups.\nPost hoc tests were conducted on the unweighted group means to analyze the changes in the church groups overtime in VO 2 max . Significant differ-ences (p = .001) were noted in the amount of change in VO 2 max in the intervention group. The simple main effect of time was not significant in the comparison group (p = .071). A significant change was found (p = .0005) overtime for Church 4 but not for Church 3 in the intervention groups. Follow-up, paired t tests indicated that there were significant differences in Intervention Church 4 at all time points: baseline and 6 weeks (t= -5.618, p = .0005); 6 weeks and 12 weeks (t = -5.880, p < .0005); baseline and 12 weeks (t = -5.072, p < .0005).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Although no statistically significant results were found in the amount of time spent in moderate-intensity PA between the two groups, the results were in the hypothesized direction. Medium effect sizes point to the effectiveness of the HSPAP intervention in increasing the amount of time women spent in moderate-intensity PA. Between baseline and 12 weeks, the women in the comparison groups increased, on average, 67 minutes a week and women in the intervention groups increased 141 minutes a week. By 12 weeks, individuals in both groups were well above 150 minutes a week, the minimum amount of time recommended by Healthy People 2010, ACSM. Evaluated against the comparison group, the intervention group was significantly less active at baseline, yet they more than doubled their time spent per week in moderate-intensity PA during the 12-week period.\nPrior investigators reported similar findings in that the amount of time spent in PA increased following PA interventions. In contrast, found that the majority of participants, in both the PA intervention and the comparison groups, did not increase their time spent in PA over a 4-month study. The interventions in Sallis et al.'s study targeted both nutrition and PA behaviors, perhaps making the recommended lifestyle changes more difficult. The lack of significant findings may also be due to the type of contact (mailings and telephone) in Sallis et al.'s study versus the personal contact in the current study and the previously reported research. In this study, women in both intervention and comparison groups had personal contacts and interactions with group members and the leader on the three occasions of data collection. In addition, the HSPAP intervention groups met weekly, formed cohesive groups, and participated in group PAs. Although comparison-group women attended the same church, regular group interaction was not part of their treatment and may explain their smaller increase in minutes walked per week.\nNo significant results were found in change in EE overtime between the two groups; however, the results were in the expected direction. A medium effect size was found supporting the efficacy of the HSPAP intervention in promoting EE. Between baseline and 12 weeks, the women in the comparison groups increased, on average, 1,234 kcals/week (from 1,430 to 2,664 kcals/week), and women in the intervention groups increased 1,458 kcals/ week (from 1,219 to 2,677 kcals). By 12 weeks, individuals in both groups were attaining the recommended 1,000 to 1,500 additional kilocalories per week in planned PA energy expenditure for improving VO 2 max .\nThe Church (Group) × Time interaction was significant, indicating the pattern of change in expended kilocalories overtime was not the same for all churches within each treatment group. Post hoc testing did not indicate a significant difference between church groups within either intervention group, however. Intervention Church 3 had the lowest EE of all four groups at baseline (1,010 kcals/week). Women in this church increased their EE by about 2,000 kcals/week from baseline to 12 weeks, compared to the other three groups in which EE increased an average of 875 to 1,473 kcals/week in the same time frame. Although all women in Intervention Church 3 increased their EE, 2 previously active women, who were sedentary when the study began, quickly resumed their active lifestyles. Both of these women walked at apace of approximately 5 miles/hour at 6-and 12-week data collection points, which is considered vigorous activity and correlates to an EE of ≥ 6 METS. Another woman in Intervention Church 3 group joined an aerobics class (vigorous activity ≥ 6 MET intensity) that met three times weekly for 1 hour. All of these factors contributed to the larger increase in EE in Intervention Church 3 group.\nSimilar to this study, prior investigators) also found that women in PA interventions did expend more energy in response to the interventions. Women who participated in three different counseling interventions increased EE (measured by 7-DAR) over baseline in a 2-year study. found both lifestyle and structured exercise groups in their study significantly increased total EE (measured by 7-DAR) from baseline to 24 months.\nNo significant Group × Time interaction was found in VO 2 max between the groups; however, the results were in the expected direction. The very large effect size suggests that the HSPAP intervention was effective in increasing VO 2 max overtime between church groups. Post hoc testing showed a significant change in fitness in Intervention Church 4 compared to the other church groups. These women increased their fitness levels by 75% (from 16.5 to 28.9 mls/kg/min) during the 12 weeks of the study, even though at baseline, they were older, less active, and had a greater body mass index (28.8), on average, than the other groups. These factors probably explain their significantly lower VO 2 max at baseline compared to the other groups. These women went from a low fitness level to a moderate or average fitness level for women of their age, a meaningful increase in terms of improvement in CR fitness and health benefits. Studies have shown that individuals who have the poorest CR fitness levels can make the largest gain in increasing fitness levels, even with modest increases in activity levels. Women in Intervention Church 3 also increased their VO 2 max by about 10%. In contrast, women in the comparison groups either stayed the same (Comparison Church 2) or declined 16% (Comparison Church 1).\nSimilar increases in VO 2 max were found in other PA intervention studies. found that participants in the lifestyle PA group increased their VO 2 max by approximately 7%, and participants in the structured exercise group increased their VO 2 max by 9% in the 24-month intervention. Additional findings from Dunn et al.'s study indicated that 21% of the lifestyle group and 30% of the structured group had a 10% or more increase in VO 2 max in 24 months.\nThe HSPAP intervention was theorized to increase activity levels by providing participants with informational support and guidance on establishing an individualized PA plan. Information on the MET levels of various household, occupational, and outdoor activities and how to include more of these physical activities into their daily lifestyle was provided. Women were challenged to participate in enjoyable PAs to get them moving and having fun. One woman in the HSPAP group stated that she did not realize how sedentary she had become until she learned about MET levels and reviewed her typical activity in a week.\nThe following limitations need to be considered when interpreting these study findings. The power to detect group differences was minimized due to the nested design and the small number of churches in the study. It was determined in initiation of this study that the threat of cross-intervention contamination would be likely if both the intervention and the comparison protocols had been conducted in one community, given the small population (15,000 to 20,000) of the communities. Furthermore, a degree of nesting was unavoidable, for not only was the treatment designed to be delivered in an intact group, but the cohesion of the group and support it offered was an integral part of the intervention. Another limitation noted was that women in the comparison group were significantly younger, more active, and had better fitness levels at baseline than the intervention group. With a larger number of churches in each group, these baseline differences could betaken into account in the analysis.\nFindings from the current study suggest that women in the HSPAP intervention increased the average amount of time spent in PA, EE, and CR fitness more than women in the comparison information-only group. In the Intervention church group with the lowest mean fitness level, CR fitness was significantly improved in the 12-week study. Although some study findings were not significant in this small study, the moderate to large effect sizes indicate a trend for change in the hypothesized direction. This study warrants further research with more church groups in the sample to test the effectiveness of the HSPAP intervention in promoting PA, EE, and CR fitness in midlife women. To determine the long-term effectiveness of the HSPAP, participants should be followed longer than the 12-week time point used in the current study.\n",
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "126.7 (88.8)",
+          "rowHeaders": [
+            "Church 1",
+            "Group × Timed"
+          ],
+          "columnHeaders": [
+            "TABLE 1: Descriptive Data and RMANOVA of Time (minutes) Spent in",
+            "Descriptive Data and RMANOVA of Time (minutes) Spent in",
+            "Baseline",
+            "Minutes/",
+            "Week",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": "165.0 (163.7)",
+          "rowHeaders": [
+            "Church 1",
+            "Church (Group) × Time"
+          ],
+          "columnHeaders": [
+            "TABLE 1: Descriptive Data and RMANOVA of Time (minutes) Spent in",
+            "Descriptive Data and RMANOVA of Time (minutes) Spent in",
+            "6-Week",
+            "Minutes/",
+            "Week",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": "221.67 (190.9)",
+          "rowHeaders": [
+            "Church 1",
+            "Church (Group) × Time"
+          ],
+          "columnHeaders": [
+            "TABLE 1: Descriptive Data and RMANOVA of Time (minutes) Spent in",
+            "Descriptive Data and RMANOVA of Time (minutes) Spent in",
+            "12-Week",
+            "Minutes/",
+            "Week",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": "142.4 (60.2)",
+          "rowHeaders": [
+            "Church 2",
+            "Group × Timed"
+          ],
+          "columnHeaders": [
+            "TABLE 1: Descriptive Data and RMANOVA of Time (minutes) Spent in",
+            "Descriptive Data and RMANOVA of Time (minutes) Spent in",
+            "Baseline",
+            "Minutes/",
+            "Week",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": "169.2 (108.7)",
+          "rowHeaders": [
+            "Church 2",
+            "Church (Group) × Time"
+          ],
+          "columnHeaders": [
+            "TABLE 1: Descriptive Data and RMANOVA of Time (minutes) Spent in",
+            "Descriptive Data and RMANOVA of Time (minutes) Spent in",
+            "6-Week",
+            "Minutes/",
+            "Week",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": "183.1 (94.4)",
+          "rowHeaders": [
+            "Church 2",
+            "Church (Group) × Time"
+          ],
+          "columnHeaders": [
+            "TABLE 1: Descriptive Data and RMANOVA of Time (minutes) Spent in",
+            "Descriptive Data and RMANOVA of Time (minutes) Spent in",
+            "12-Week",
+            "Minutes/",
+            "Week",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": "134.54",
+          "rowHeaders": [
+            "Total group",
+            "Group × Timed"
+          ],
+          "columnHeaders": [
+            "TABLE 1: Descriptive Data and RMANOVA of Time (minutes) Spent in",
+            "Descriptive Data and RMANOVA of Time (minutes) Spent in",
+            "Baseline",
+            "Minutes/",
+            "Week",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": "167.12",
+          "rowHeaders": [
+            "Total group",
+            "Church (Group) × Time"
+          ],
+          "columnHeaders": [
+            "TABLE 1: Descriptive Data and RMANOVA of Time (minutes) Spent in",
+            "Descriptive Data and RMANOVA of Time (minutes) Spent in",
+            "6-Week",
+            "Minutes/",
+            "Week",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": "202.39",
+          "rowHeaders": [
+            "Total group",
+            "Church (Group) × Time"
+          ],
+          "columnHeaders": [
+            "TABLE 1: Descriptive Data and RMANOVA of Time (minutes) Spent in",
+            "Descriptive Data and RMANOVA of Time (minutes) Spent in",
+            "12-Week",
+            "Minutes/",
+            "Week",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": "90.63 (55.96)",
+          "rowHeaders": [
+            "Group × Timed"
+          ],
+          "columnHeaders": [
+            "TABLE 1: Descriptive Data and RMANOVA of Time (minutes) Spent in",
+            "Descriptive Data and RMANOVA of Time (minutes) Spent in",
+            "Baseline",
+            "Minutes/",
+            "Week",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": "325.63 (252.18)",
+          "rowHeaders": [
+            "Church (Group) × Time"
+          ],
+          "columnHeaders": [
+            "TABLE 1: Descriptive Data and RMANOVA of Time (minutes) Spent in",
+            "Descriptive Data and RMANOVA of Time (minutes) Spent in",
+            "6-Week",
+            "Minutes/",
+            "Week",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": "243.75 (129.17)",
+          "rowHeaders": [
+            "Church (Group) × Time"
+          ],
+          "columnHeaders": [
+            "TABLE 1: Descriptive Data and RMANOVA of Time (minutes) Spent in",
+            "Descriptive Data and RMANOVA of Time (minutes) Spent in",
+            "12-Week",
+            "Minutes/",
+            "Week",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": "107.7 (23.0)",
+          "rowHeaders": [
+            "Group × Timed"
+          ],
+          "columnHeaders": [
+            "TABLE 1: Descriptive Data and RMANOVA of Time (minutes) Spent in",
+            "Descriptive Data and RMANOVA of Time (minutes) Spent in",
+            "Baseline",
+            "Minutes/",
+            "Week",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": "202.27 (88.95)",
+          "rowHeaders": [
+            "Church (Group) × Time"
+          ],
+          "columnHeaders": [
+            "TABLE 1: Descriptive Data and RMANOVA of Time (minutes) Spent in",
+            "Descriptive Data and RMANOVA of Time (minutes) Spent in",
+            "6-Week",
+            "Minutes/",
+            "Week",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": "237.73 (67.76)",
+          "rowHeaders": [
+            "Church (Group) × Time"
+          ],
+          "columnHeaders": [
+            "TABLE 1: Descriptive Data and RMANOVA of Time (minutes) Spent in",
+            "Descriptive Data and RMANOVA of Time (minutes) Spent in",
+            "12-Week",
+            "Minutes/",
+            "Week",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": "99.18",
+          "rowHeaders": [
+            "Church (Group) × Time"
+          ],
+          "columnHeaders": [
+            "TABLE 1: Descriptive Data and RMANOVA of Time (minutes) Spent in",
+            "Descriptive Data and RMANOVA of Time (minutes) Spent in",
+            "Baseline",
+            "Minutes/",
+            "Week",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": "263.95",
+          "rowHeaders": [
+            "Church (Group) × Time"
+          ],
+          "columnHeaders": [
+            "TABLE 1: Descriptive Data and RMANOVA of Time (minutes) Spent in",
+            "Descriptive Data and RMANOVA of Time (minutes) Spent in",
+            "6-Week",
+            "Minutes/",
+            "Week",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": "240.74",
+          "rowHeaders": [
+            "Church (Group) × Time"
+          ],
+          "columnHeaders": [
+            "TABLE 1: Descriptive Data and RMANOVA of Time (minutes) Spent in",
+            "Descriptive Data and RMANOVA of Time (minutes) Spent in",
+            "12-Week",
+            "Minutes/",
+            "Week",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": "3.28",
+          "rowHeaders": [
+            "Group",
+            "Church (Group) × Time"
+          ],
+          "columnHeaders": [
+            "TABLE 1: Descriptive Data and RMANOVA of Time (minutes) Spent in",
+            "Descriptive Data and RMANOVA of Time (minutes) Spent in",
+            "Baseline",
+            "Minutes/",
+            "Week",
+            "M (SD)",
+            "F"
+          ]
+        },
+        {
+          "value": ".212",
+          "rowHeaders": [
+            "Group",
+            "Church (Group) × Time"
+          ],
+          "columnHeaders": [
+            "TABLE 1: Descriptive Data and RMANOVA of Time (minutes) Spent in",
+            "Descriptive Data and RMANOVA of Time (minutes) Spent in",
+            "6-Week",
+            "Minutes/",
+            "Week",
+            "M (SD)",
+            "p"
+          ]
+        },
+        {
+          "value": ".03",
+          "rowHeaders": [
+            "Group",
+            "Church (Group) × Time"
+          ],
+          "columnHeaders": [
+            "TABLE 1: Descriptive Data and RMANOVA of Time (minutes) Spent in",
+            "Descriptive Data and RMANOVA of Time (minutes) Spent in",
+            "12-Week",
+            "Minutes/",
+            "Week",
+            "M (SD)",
+            "Partial"
+          ]
+        },
+        {
+          "value": ".41",
+          "rowHeaders": [
+            "Church (group)",
+            "Church (Group) × Time"
+          ],
+          "columnHeaders": [
+            "TABLE 1: Descriptive Data and RMANOVA of Time (minutes) Spent in",
+            "Descriptive Data and RMANOVA of Time (minutes) Spent in",
+            "Baseline",
+            "Minutes/",
+            "Week",
+            "M (SD)",
+            "F"
+          ]
+        },
+        {
+          "value": ".67",
+          "rowHeaders": [
+            "Church (group)",
+            "Church (Group) × Time"
+          ],
+          "columnHeaders": [
+            "TABLE 1: Descriptive Data and RMANOVA of Time (minutes) Spent in",
+            "Descriptive Data and RMANOVA of Time (minutes) Spent in",
+            "6-Week",
+            "Minutes/",
+            "Week",
+            "M (SD)",
+            "p"
+          ]
+        },
+        {
+          "value": ".02",
+          "rowHeaders": [
+            "Church (group)",
+            "Church (Group) × Time"
+          ],
+          "columnHeaders": [
+            "TABLE 1: Descriptive Data and RMANOVA of Time (minutes) Spent in",
+            "Descriptive Data and RMANOVA of Time (minutes) Spent in",
+            "12-Week",
+            "Minutes/",
+            "Week",
+            "M (SD)",
+            "Partial"
+          ]
+        },
+        {
+          "value": "8.9",
+          "rowHeaders": [
+            "Church (Group) × Time"
+          ],
+          "columnHeaders": [
+            "TABLE 1: Descriptive Data and RMANOVA of Time (minutes) Spent in",
+            "Descriptive Data and RMANOVA of Time (minutes) Spent in",
+            "Baseline",
+            "Minutes/",
+            "Week",
+            "M (SD)",
+            "F"
+          ]
+        },
+        {
+          "value": ".034b",
+          "rowHeaders": [
+            "Church (Group) × Time"
+          ],
+          "columnHeaders": [
+            "TABLE 1: Descriptive Data and RMANOVA of Time (minutes) Spent in",
+            "Descriptive Data and RMANOVA of Time (minutes) Spent in",
+            "6-Week",
+            "Minutes/",
+            "Week",
+            "M (SD)",
+            "p"
+          ]
+        },
+        {
+          "value": ".096",
+          "rowHeaders": [
+            "Church (Group) × Time"
+          ],
+          "columnHeaders": [
+            "TABLE 1: Descriptive Data and RMANOVA of Time (minutes) Spent in",
+            "Descriptive Data and RMANOVA of Time (minutes) Spent in",
+            "6-Week",
+            "Minutes/",
+            "Week",
+            "M (SD)",
+            "Adjusted pb"
+          ]
+        },
+        {
+          "value": ".25",
+          "rowHeaders": [
+            "Church (Group) × Time"
+          ],
+          "columnHeaders": [
+            "TABLE 1: Descriptive Data and RMANOVA of Time (minutes) Spent in",
+            "Descriptive Data and RMANOVA of Time (minutes) Spent in",
+            "12-Week",
+            "Minutes/",
+            "Week",
+            "M (SD)",
+            "Partial"
+          ]
+        },
+        {
+          "value": "2.84",
+          "rowHeaders": [
+            "Church (group)",
+            "Group × Timed"
+          ],
+          "columnHeaders": [
+            "TABLE 1: Descriptive Data and RMANOVA of Time (minutes) Spent in",
+            "Descriptive Data and RMANOVA of Time (minutes) Spent in",
+            "Baseline",
+            "Minutes/",
+            "Week",
+            "M (SD)",
+            "F"
+          ]
+        },
+        {
+          "value": ".096d",
+          "rowHeaders": [
+            "Church (group)",
+            "Group × Timed"
+          ],
+          "columnHeaders": [
+            "TABLE 1: Descriptive Data and RMANOVA of Time (minutes) Spent in",
+            "Descriptive Data and RMANOVA of Time (minutes) Spent in",
+            "6-Week",
+            "Minutes/",
+            "Week",
+            "M (SD)",
+            "p"
+          ]
+        },
+        {
+          "value": ".234",
+          "rowHeaders": [
+            "Church (group)",
+            "Group × Timed"
+          ],
+          "columnHeaders": [
+            "TABLE 1: Descriptive Data and RMANOVA of Time (minutes) Spent in",
+            "Descriptive Data and RMANOVA of Time (minutes) Spent in",
+            "6-Week",
+            "Minutes/",
+            "Week",
+            "M (SD)",
+            "Adjusted pb"
+          ]
+        },
+        {
+          "value": ".09",
+          "rowHeaders": [
+            "Church (group)",
+            "Group × Timed"
+          ],
+          "columnHeaders": [
+            "TABLE 1: Descriptive Data and RMANOVA of Time (minutes) Spent in",
+            "Descriptive Data and RMANOVA of Time (minutes) Spent in",
+            "12-Week",
+            "Minutes/",
+            "Week",
+            "M (SD)",
+            "Partial"
+          ]
+        },
+        {
+          "value": "1.68",
+          "rowHeaders": [
+            "Church (group)",
+            "Church (Group) × Time"
+          ],
+          "columnHeaders": [
+            "TABLE 1: Descriptive Data and RMANOVA of Time (minutes) Spent in",
+            "Descriptive Data and RMANOVA of Time (minutes) Spent in",
+            "Baseline",
+            "Minutes/",
+            "Week",
+            "M (SD)",
+            "F"
+          ]
+        },
+        {
+          "value": ".163e",
+          "rowHeaders": [
+            "Church (group)",
+            "Church (Group) × Time"
+          ],
+          "columnHeaders": [
+            "TABLE 1: Descriptive Data and RMANOVA of Time (minutes) Spent in",
+            "Descriptive Data and RMANOVA of Time (minutes) Spent in",
+            "6-Week",
+            "Minutes/",
+            "Week",
+            "M (SD)",
+            "p"
+          ]
+        },
+        {
+          "value": ".163",
+          "rowHeaders": [
+            "Church (group)",
+            "Church (Group) × Time"
+          ],
+          "columnHeaders": [
+            "TABLE 1: Descriptive Data and RMANOVA of Time (minutes) Spent in",
+            "Descriptive Data and RMANOVA of Time (minutes) Spent in",
+            "6-Week",
+            "Minutes/",
+            "Week",
+            "M (SD)",
+            "Adjusted pb"
+          ]
+        },
+        {
+          "value": ".06",
+          "rowHeaders": [
+            "Church (group)",
+            "Church (Group) × Time"
+          ],
+          "columnHeaders": [
+            "TABLE 1: Descriptive Data and RMANOVA of Time (minutes) Spent in",
+            "Descriptive Data and RMANOVA of Time (minutes) Spent in",
+            "12-Week",
+            "Minutes/",
+            "Week",
+            "M (SD)",
+            "Partial"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "1338.07 (393.90)",
+          "rowHeaders": [
+            "Church 1",
+            "Group × Timed"
+          ],
+          "columnHeaders": [
+            "TABLE 2: Descriptive Data and RMANOVA of Energy Expenditure",
+            "Descriptive Data and RMANOVA of Energy Expenditure",
+            "Baseline",
+            "Kcals/Week",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": "1816.66 (796.66)",
+          "rowHeaders": [
+            "Church 1",
+            "Church (Group) × Time"
+          ],
+          "columnHeaders": [
+            "TABLE 2: Descriptive Data and RMANOVA of Energy Expenditure",
+            "Descriptive Data and RMANOVA of Energy Expenditure",
+            "6-Week",
+            "Kcals/Week",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": "2810.9 (1610.20)",
+          "rowHeaders": [
+            "Church 1",
+            "Church (Group) × Time"
+          ],
+          "columnHeaders": [
+            "TABLE 2: Descriptive Data and RMANOVA of Energy Expenditure",
+            "Descriptive Data and RMANOVA of Energy Expenditure",
+            "12-Week",
+            "Kcals/Week",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": "1522.23 (455.80)",
+          "rowHeaders": [
+            "Church 2",
+            "Group × Timed"
+          ],
+          "columnHeaders": [
+            "TABLE 2: Descriptive Data and RMANOVA of Energy Expenditure",
+            "Descriptive Data and RMANOVA of Energy Expenditure",
+            "Baseline",
+            "Kcals/Week",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": "2104.7 (1073.20)",
+          "rowHeaders": [
+            "Church 2",
+            "Church (Group) × Time"
+          ],
+          "columnHeaders": [
+            "TABLE 2: Descriptive Data and RMANOVA of Energy Expenditure",
+            "Descriptive Data and RMANOVA of Energy Expenditure",
+            "6-Week",
+            "Kcals/Week",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": "2516.33 (1048.50)",
+          "rowHeaders": [
+            "Church 2",
+            "Church (Group) × Time"
+          ],
+          "columnHeaders": [
+            "TABLE 2: Descriptive Data and RMANOVA of Energy Expenditure",
+            "Descriptive Data and RMANOVA of Energy Expenditure",
+            "12-Week",
+            "Kcals/Week",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": "1430.15",
+          "rowHeaders": [
+            "Total group",
+            "Group × Timed"
+          ],
+          "columnHeaders": [
+            "TABLE 2: Descriptive Data and RMANOVA of Energy Expenditure",
+            "Descriptive Data and RMANOVA of Energy Expenditure",
+            "Baseline",
+            "Kcals/Week",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": "1960.67",
+          "rowHeaders": [
+            "Total group",
+            "Church (Group) × Time"
+          ],
+          "columnHeaders": [
+            "TABLE 2: Descriptive Data and RMANOVA of Energy Expenditure",
+            "Descriptive Data and RMANOVA of Energy Expenditure",
+            "6-Week",
+            "Kcals/Week",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": "2663.61",
+          "rowHeaders": [
+            "Total group",
+            "Church (Group) × Time"
+          ],
+          "columnHeaders": [
+            "TABLE 2: Descriptive Data and RMANOVA of Energy Expenditure",
+            "Descriptive Data and RMANOVA of Energy Expenditure",
+            "12-Week",
+            "Kcals/Week",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": "1009.7 (487.10)",
+          "rowHeaders": [
+            "Church 3",
+            "Group × Timed"
+          ],
+          "columnHeaders": [
+            "TABLE 2: Descriptive Data and RMANOVA of Energy Expenditure",
+            "Descriptive Data and RMANOVA of Energy Expenditure",
+            "Baseline",
+            "Kcals/Week",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": "3009.5 (1748.60)",
+          "rowHeaders": [
+            "Church 3",
+            "Church (Group) × Time"
+          ],
+          "columnHeaders": [
+            "TABLE 2: Descriptive Data and RMANOVA of Energy Expenditure",
+            "Descriptive Data and RMANOVA of Energy Expenditure",
+            "6-Week",
+            "Kcals/Week",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": "3049.8 (1393.90)",
+          "rowHeaders": [
+            "Church 3",
+            "Church (Group) × Time"
+          ],
+          "columnHeaders": [
+            "TABLE 2: Descriptive Data and RMANOVA of Energy Expenditure",
+            "Descriptive Data and RMANOVA of Energy Expenditure",
+            "12-Week",
+            "Kcals/Week",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": "1429.2 (436.99)",
+          "rowHeaders": [
+            "Church 4",
+            "Group × Timed"
+          ],
+          "columnHeaders": [
+            "TABLE 2: Descriptive Data and RMANOVA of Energy Expenditure",
+            "Descriptive Data and RMANOVA of Energy Expenditure",
+            "Baseline",
+            "Kcals/Week",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": "2069.35 (373.08)",
+          "rowHeaders": [
+            "Church 4",
+            "Church (Group) × Time"
+          ],
+          "columnHeaders": [
+            "TABLE 2: Descriptive Data and RMANOVA of Energy Expenditure",
+            "Descriptive Data and RMANOVA of Energy Expenditure",
+            "6-Week",
+            "Kcals/Week",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": "2304.52 (482.49)",
+          "rowHeaders": [
+            "Church 4",
+            "Church (Group) × Time"
+          ],
+          "columnHeaders": [
+            "TABLE 2: Descriptive Data and RMANOVA of Energy Expenditure",
+            "Descriptive Data and RMANOVA of Energy Expenditure",
+            "12-Week",
+            "Kcals/Week",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": "1219.47",
+          "rowHeaders": [
+            "Total group",
+            "Group × Timed"
+          ],
+          "columnHeaders": [
+            "TABLE 2: Descriptive Data and RMANOVA of Energy Expenditure",
+            "Descriptive Data and RMANOVA of Energy Expenditure",
+            "Baseline",
+            "Kcals/Week",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": "2536.94",
+          "rowHeaders": [
+            "Total group",
+            "Church (Group) × Time"
+          ],
+          "columnHeaders": [
+            "TABLE 2: Descriptive Data and RMANOVA of Energy Expenditure",
+            "Descriptive Data and RMANOVA of Energy Expenditure",
+            "6-Week",
+            "Kcals/Week",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": "2677.16",
+          "rowHeaders": [
+            "Total group",
+            "Church (Group) × Time"
+          ],
+          "columnHeaders": [
+            "TABLE 2: Descriptive Data and RMANOVA of Energy Expenditure",
+            "Descriptive Data and RMANOVA of Energy Expenditure",
+            "12-Week",
+            "Kcals/Week",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": ".37",
+          "rowHeaders": [
+            "Group",
+            "Church (Group) × Time"
+          ],
+          "columnHeaders": [
+            "TABLE 2: Descriptive Data and RMANOVA of Energy Expenditure",
+            "Descriptive Data and RMANOVA of Energy Expenditure",
+            "6-Week",
+            "Kcals/Week",
+            "M (SD)",
+            "F"
+          ]
+        },
+        {
+          "value": ".607",
+          "rowHeaders": [
+            "Group",
+            "Church (Group) × Time"
+          ],
+          "columnHeaders": [
+            "TABLE 2: Descriptive Data and RMANOVA of Energy Expenditure",
+            "Descriptive Data and RMANOVA of Energy Expenditure",
+            "6-Week",
+            "Kcals/Week",
+            "M (SD)",
+            "p"
+          ]
+        },
+        {
+          "value": ".08",
+          "rowHeaders": [
+            "Group",
+            "Church (Group) × Time"
+          ],
+          "columnHeaders": [
+            "TABLE 2: Descriptive Data and RMANOVA of Energy Expenditure",
+            "Descriptive Data and RMANOVA of Energy Expenditure",
+            "12-Week",
+            "Kcals/Week",
+            "M (SD)",
+            "Partial"
+          ]
+        },
+        {
+          "value": ".83",
+          "rowHeaders": [
+            "Church (Group)",
+            "Church (Group) × Time"
+          ],
+          "columnHeaders": [
+            "TABLE 2: Descriptive Data and RMANOVA of Energy Expenditure",
+            "Descriptive Data and RMANOVA of Energy Expenditure",
+            "6-Week",
+            "Kcals/Week",
+            "M (SD)",
+            "F"
+          ]
+        },
+        {
+          "value": ".444",
+          "rowHeaders": [
+            "Church (Group)",
+            "Church (Group) × Time"
+          ],
+          "columnHeaders": [
+            "TABLE 2: Descriptive Data and RMANOVA of Energy Expenditure",
+            "Descriptive Data and RMANOVA of Energy Expenditure",
+            "6-Week",
+            "Kcals/Week",
+            "M (SD)",
+            "p"
+          ]
+        },
+        {
+          "value": ".04",
+          "rowHeaders": [
+            "Church (Group)",
+            "Church (Group) × Time"
+          ],
+          "columnHeaders": [
+            "TABLE 2: Descriptive Data and RMANOVA of Energy Expenditure",
+            "Descriptive Data and RMANOVA of Energy Expenditure",
+            "12-Week",
+            "Kcals/Week",
+            "M (SD)",
+            "Partial"
+          ]
+        },
+        {
+          "value": "12.25",
+          "rowHeaders": [
+            "Church (Group) × Time"
+          ],
+          "columnHeaders": [
+            "TABLE 2: Descriptive Data and RMANOVA of Energy Expenditure",
+            "Descriptive Data and RMANOVA of Energy Expenditure",
+            "6-Week",
+            "Kcals/Week",
+            "M (SD)",
+            "F"
+          ]
+        },
+        {
+          "value": ".018b",
+          "rowHeaders": [
+            "Church (Group) × Time"
+          ],
+          "columnHeaders": [
+            "TABLE 2: Descriptive Data and RMANOVA of Energy Expenditure",
+            "Descriptive Data and RMANOVA of Energy Expenditure",
+            "6-Week",
+            "Kcals/Week",
+            "M (SD)",
+            "p"
+          ]
+        },
+        {
+          "value": ".039",
+          "rowHeaders": [
+            "Church (Group) × Time"
+          ],
+          "columnHeaders": [
+            "TABLE 2: Descriptive Data and RMANOVA of Energy Expenditure",
+            "Descriptive Data and RMANOVA of Energy Expenditure",
+            "12-Week",
+            "Kcals/Week",
+            "M (SD)",
+            "Adjusted pb"
+          ]
+        },
+        {
+          "value": ".44",
+          "rowHeaders": [
+            "Church (Group) × Time"
+          ],
+          "columnHeaders": [
+            "TABLE 2: Descriptive Data and RMANOVA of Energy Expenditure",
+            "Descriptive Data and RMANOVA of Energy Expenditure",
+            "12-Week",
+            "Kcals/Week",
+            "M (SD)",
+            "Partial"
+          ]
+        },
+        {
+          "value": "1.06",
+          "rowHeaders": [
+            "Church (Group)",
+            "Group × Timed"
+          ],
+          "columnHeaders": [
+            "TABLE 2: Descriptive Data and RMANOVA of Energy Expenditure",
+            "Descriptive Data and RMANOVA of Energy Expenditure",
+            "6-Week",
+            "Kcals/Week",
+            "M (SD)",
+            "F"
+          ]
+        },
+        {
+          "value": ".426d",
+          "rowHeaders": [
+            "Church (Group)",
+            "Group × Timed"
+          ],
+          "columnHeaders": [
+            "TABLE 2: Descriptive Data and RMANOVA of Energy Expenditure",
+            "Descriptive Data and RMANOVA of Energy Expenditure",
+            "6-Week",
+            "Kcals/Week",
+            "M (SD)",
+            "p"
+          ]
+        },
+        {
+          "value": ".604",
+          "rowHeaders": [
+            "Church (Group)",
+            "Group × Timed"
+          ],
+          "columnHeaders": [
+            "TABLE 2: Descriptive Data and RMANOVA of Energy Expenditure",
+            "Descriptive Data and RMANOVA of Energy Expenditure",
+            "12-Week",
+            "Kcals/Week",
+            "M (SD)",
+            "Adjusted pb"
+          ]
+        },
+        {
+          "value": ".03",
+          "rowHeaders": [
+            "Church (Group)",
+            "Group × Timed"
+          ],
+          "columnHeaders": [
+            "TABLE 2: Descriptive Data and RMANOVA of Energy Expenditure",
+            "Descriptive Data and RMANOVA of Energy Expenditure",
+            "12-Week",
+            "Kcals/Week",
+            "M (SD)",
+            "Partial"
+          ]
+        },
+        {
+          "value": "3.04",
+          "rowHeaders": [
+            "Church (Group)",
+            "Church (Group) × Time"
+          ],
+          "columnHeaders": [
+            "TABLE 2: Descriptive Data and RMANOVA of Energy Expenditure",
+            "Descriptive Data and RMANOVA of Energy Expenditure",
+            "6-Week",
+            "Kcals/Week",
+            "M (SD)",
+            "F"
+          ]
+        },
+        {
+          "value": ".022e",
+          "rowHeaders": [
+            "Church (Group)",
+            "Church (Group) × Time"
+          ],
+          "columnHeaders": [
+            "TABLE 2: Descriptive Data and RMANOVA of Energy Expenditure",
+            "Descriptive Data and RMANOVA of Energy Expenditure",
+            "6-Week",
+            "Kcals/Week",
+            "M (SD)",
+            "p"
+          ]
+        },
+        {
+          "value": ".022",
+          "rowHeaders": [
+            "Church (Group)",
+            "Church (Group) × Time"
+          ],
+          "columnHeaders": [
+            "TABLE 2: Descriptive Data and RMANOVA of Energy Expenditure",
+            "Descriptive Data and RMANOVA of Energy Expenditure",
+            "12-Week",
+            "Kcals/Week",
+            "M (SD)",
+            "Adjusted pb"
+          ]
+        },
+        {
+          "value": ".07",
+          "rowHeaders": [
+            "Church (Group)",
+            "Church (Group) × Time"
+          ],
+          "columnHeaders": [
+            "TABLE 2: Descriptive Data and RMANOVA of Energy Expenditure",
+            "Descriptive Data and RMANOVA of Energy Expenditure",
+            "12-Week",
+            "Kcals/Week",
+            "M (SD)",
+            "Partial"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "2 max) by Groups",
+          "rowHeaders": [
+            "Church"
+          ],
+          "columnHeaders": [
+            "TABLE 3: Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "Descriptive Data and RMANOVA of Cardiorespiratory Fitness"
+          ]
+        },
+        {
+          "value": "2 max",
+          "rowHeaders": [
+            "Total group",
+            "Group × Timed",
+            "mls O",
+            "df"
+          ],
+          "columnHeaders": [
+            "TABLE 3: Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "2 max",
+          "rowHeaders": [
+            "Total group",
+            "Church (Group) × Time",
+            "mls O",
+            "VO",
+            "mls O",
+            "p"
+          ],
+          "columnHeaders": [
+            "TABLE 3: Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "6-Week"
+          ]
+        },
+        {
+          "value": "2 max",
+          "rowHeaders": [
+            "Total group",
+            "Church (Group) × Time",
+            "mls O",
+            "VO",
+            "mls O",
+            "VO"
+          ],
+          "columnHeaders": [
+            "TABLE 3: Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "12-Week"
+          ]
+        },
+        {
+          "value": "2/kg/min",
+          "rowHeaders": [
+            "Total group",
+            "Group × Timed"
+          ],
+          "columnHeaders": [
+            "TABLE 3: Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "2/kg/min",
+          "rowHeaders": [
+            "Total group",
+            "Church (Group) × Time",
+            "mls O",
+            "VO",
+            "p"
+          ],
+          "columnHeaders": [
+            "TABLE 3: Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "6-Week"
+          ]
+        },
+        {
+          "value": "2/kg/min",
+          "rowHeaders": [
+            "Total group",
+            "Church (Group) × Time",
+            "mls O",
+            "VO",
+            "mls O",
+            "VO"
+          ],
+          "columnHeaders": [
+            "TABLE 3: Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "12-Week"
+          ]
+        },
+        {
+          "value": "1",
+          "rowHeaders": [
+            "Church"
+          ],
+          "columnHeaders": [
+            "TABLE 3: Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "TABLE 3:",
+            "Baseline",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": "29.7 (7.9)",
+          "rowHeaders": [
+            "Church",
+            "Group × Timed"
+          ],
+          "columnHeaders": [
+            "TABLE 3: Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "Baseline",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": "28.6 (6.7)",
+          "rowHeaders": [
+            "Church",
+            "Church (Group) × Time",
+            "mls O",
+            "VO"
+          ],
+          "columnHeaders": [
+            "TABLE 3: Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "6-Week",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": "24.9 (11.2)",
+          "rowHeaders": [
+            "Church",
+            "Church (Group) × Time",
+            "mls O",
+            "VO",
+            "mls O",
+            "VO"
+          ],
+          "columnHeaders": [
+            "TABLE 3: Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "12-Week",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": "2",
+          "rowHeaders": [
+            "Church"
+          ],
+          "columnHeaders": [
+            "TABLE 3: Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "TABLE 3:",
+            "Baseline",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": "28.0 (7.8)",
+          "rowHeaders": [
+            "Church",
+            "Group × Timed"
+          ],
+          "columnHeaders": [
+            "TABLE 3: Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "Baseline",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": "28.9 (6.7)",
+          "rowHeaders": [
+            "Church",
+            "Church (Group) × Time",
+            "mls O",
+            "VO"
+          ],
+          "columnHeaders": [
+            "TABLE 3: Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "6-Week",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": "28.4 (6.5)",
+          "rowHeaders": [
+            "Church",
+            "Church (Group) × Time",
+            "mls O",
+            "VO",
+            "mls O",
+            "VO"
+          ],
+          "columnHeaders": [
+            "TABLE 3: Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "12-Week",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": "28.9",
+          "rowHeaders": [
+            "Total group",
+            "Group × Timed"
+          ],
+          "columnHeaders": [
+            "TABLE 3: Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "Baseline",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": "28.8",
+          "rowHeaders": [
+            "Total group",
+            "Church (Group) × Time",
+            "mls O",
+            "df"
+          ],
+          "columnHeaders": [
+            "TABLE 3: Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "6-Week",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": "26.67",
+          "rowHeaders": [
+            "Total group",
+            "Church (Group) × Time",
+            "mls O",
+            "df",
+            "mls O",
+            "VO"
+          ],
+          "columnHeaders": [
+            "TABLE 3: Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "12-Week",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": "3",
+          "rowHeaders": [
+            "Church"
+          ],
+          "columnHeaders": [
+            "TABLE 3: Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "TABLE 3:",
+            "Baseline",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": "30.4 (11.9)",
+          "rowHeaders": [
+            "Church",
+            "Group × Timed"
+          ],
+          "columnHeaders": [
+            "TABLE 3: Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "Baseline",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": "32.95 (11.6)",
+          "rowHeaders": [
+            "Church",
+            "Church (Group) × Time",
+            "df"
+          ],
+          "columnHeaders": [
+            "TABLE 3: Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "6-Week",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": "33.3 (12.6)",
+          "rowHeaders": [
+            "Church",
+            "Church (Group) × Time",
+            "df",
+            "p"
+          ],
+          "columnHeaders": [
+            "TABLE 3: Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "12-Week",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": "4",
+          "rowHeaders": [
+            "Church"
+          ],
+          "columnHeaders": [
+            "TABLE 3: Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "TABLE 3:",
+            "Baseline",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": "16.5 (9.3)",
+          "rowHeaders": [
+            "Church",
+            "Church (Group) × Time"
+          ],
+          "columnHeaders": [
+            "TABLE 3: Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "Baseline",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": "23.9 (7.2)",
+          "rowHeaders": [
+            "Church",
+            "Church (Group) × Time",
+            "df"
+          ],
+          "columnHeaders": [
+            "TABLE 3: Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "6-Week",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": "28.9 (7.5)",
+          "rowHeaders": [
+            "Church",
+            "Church (Group) × Time",
+            "df",
+            "p"
+          ],
+          "columnHeaders": [
+            "TABLE 3: Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "12-Week",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": "23.5",
+          "rowHeaders": [
+            "Total group",
+            "Church (Group) × Time"
+          ],
+          "columnHeaders": [
+            "TABLE 3: Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "Baseline",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": "28.4",
+          "rowHeaders": [
+            "Total group",
+            "Church (Group) × Time",
+            "df"
+          ],
+          "columnHeaders": [
+            "TABLE 3: Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "6-Week",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": "31.1",
+          "rowHeaders": [
+            "Total group",
+            "Church (Group) × Time",
+            "df",
+            "p"
+          ],
+          "columnHeaders": [
+            "TABLE 3: Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "12-Week",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": "2",
+          "rowHeaders": [
+            "Source",
+            "Church (Group) × Time",
+            "df",
+            "F",
+            "p",
+            "Adjusted pb",
+            "Partial"
+          ],
+          "columnHeaders": [
+            "TABLE 3: Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "12-Week",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": "1",
+          "rowHeaders": [
+            "Group",
+            "Church (Group) × Time"
+          ],
+          "columnHeaders": [
+            "TABLE 3: Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "Baseline",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": ".00",
+          "rowHeaders": [
+            "Group",
+            "Church (Group) × Time",
+            "df"
+          ],
+          "columnHeaders": [
+            "TABLE 3: Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "Baseline",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": ".987",
+          "rowHeaders": [
+            "Group",
+            "Church (Group) × Time",
+            "df"
+          ],
+          "columnHeaders": [
+            "TABLE 3: Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "6-Week",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": ".000",
+          "rowHeaders": [
+            "Group",
+            "Church (Group) × Time",
+            "df",
+            "p"
+          ],
+          "columnHeaders": [
+            "TABLE 3: Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "12-Week",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": "2",
+          "rowHeaders": [
+            "Church (Group)",
+            "Church (Group) × Time"
+          ],
+          "columnHeaders": [
+            "TABLE 3: Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "Baseline",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": "3.06",
+          "rowHeaders": [
+            "Church (Group)",
+            "Church (Group) × Time",
+            "df"
+          ],
+          "columnHeaders": [
+            "TABLE 3: Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "Baseline",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": ".058",
+          "rowHeaders": [
+            "Church (Group)",
+            "Church (Group) × Time",
+            "df"
+          ],
+          "columnHeaders": [
+            "TABLE 3: Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "6-Week",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": ".14",
+          "rowHeaders": [
+            "Church (Group)",
+            "Church (Group) × Time",
+            "df",
+            "p"
+          ],
+          "columnHeaders": [
+            "TABLE 3: Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "12-Week",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": "2",
+          "rowHeaders": [
+            "Church (Group) × Time"
+          ],
+          "columnHeaders": [
+            "TABLE 3: Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "Baseline",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": "1.09",
+          "rowHeaders": [
+            "Church (Group) × Time",
+            "df"
+          ],
+          "columnHeaders": [
+            "TABLE 3: Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "Baseline",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": ".419b",
+          "rowHeaders": [
+            "Church (Group) × Time",
+            "df"
+          ],
+          "columnHeaders": [
+            "TABLE 3: Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "6-Week",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": ".406",
+          "rowHeaders": [
+            "Church (Group) × Time",
+            "df",
+            "p"
+          ],
+          "columnHeaders": [
+            "TABLE 3: Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "6-Week",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": ".083",
+          "rowHeaders": [
+            "Church (Group) × Time",
+            "df",
+            "p"
+          ],
+          "columnHeaders": [
+            "TABLE 3: Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "12-Week",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": "2",
+          "rowHeaders": [
+            "Church (Group)",
+            "Group × Timed"
+          ],
+          "columnHeaders": [
+            "TABLE 3: Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "Baseline",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": "3.48",
+          "rowHeaders": [
+            "Church (Group)",
+            "Group × Timed",
+            "df"
+          ],
+          "columnHeaders": [
+            "TABLE 3: Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "Baseline",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": ".133d",
+          "rowHeaders": [
+            "Church (Group)",
+            "Group × Timed",
+            "df"
+          ],
+          "columnHeaders": [
+            "TABLE 3: Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "6-Week",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": ".302",
+          "rowHeaders": [
+            "Church (Group)",
+            "Group × Timed",
+            "df",
+            "p"
+          ],
+          "columnHeaders": [
+            "TABLE 3: Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "6-Week",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": ".265",
+          "rowHeaders": [
+            "Church (Group)",
+            "Group × Timed",
+            "df",
+            "p"
+          ],
+          "columnHeaders": [
+            "TABLE 3: Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "12-Week",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": "4",
+          "rowHeaders": [
+            "Church (Group)",
+            "Church (Group) × Time"
+          ],
+          "columnHeaders": [
+            "TABLE 3: Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "Baseline",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": "5.81",
+          "rowHeaders": [
+            "Church (Group)",
+            "Church (Group) × Time",
+            "df"
+          ],
+          "columnHeaders": [
+            "TABLE 3: Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "Baseline",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": ".000e",
+          "rowHeaders": [
+            "Church (Group)",
+            "Church (Group) × Time",
+            "df"
+          ],
+          "columnHeaders": [
+            "TABLE 3: Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "6-Week",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": ".000",
+          "rowHeaders": [
+            "Church (Group)",
+            "Church (Group) × Time",
+            "df",
+            "p"
+          ],
+          "columnHeaders": [
+            "TABLE 3: Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "6-Week",
+            "M (SD)"
+          ]
+        },
+        {
+          "value": ".15",
+          "rowHeaders": [
+            "Church (Group)",
+            "Church (Group) × Time",
+            "df",
+            "p"
+          ],
+          "columnHeaders": [
+            "TABLE 3: Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "Descriptive Data and RMANOVA of Cardiorespiratory Fitness",
+            "12-Week",
+            "M (SD)"
+          ]
+        }
+      ],
+      "page": 1
+    }
+  ]
+}

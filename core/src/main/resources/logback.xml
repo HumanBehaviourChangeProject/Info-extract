@@ -8,7 +8,7 @@
 		<!-- <withJansi>true</withJansi> -->
 		<encoder>
 			<!-- <pattern>%d{HH:mm:ss.SSS} [%thread] %highlight(%-5level) %cyan(%logger{15}) - %msg%n</pattern> -->
-			<pattern>%d{HH:mm:ss.SSS} [%thread] %-5level %logger{15} - %X{user} - %msg%n</pattern>
+			<pattern>%d{HH:mm:ss.SSS} [%thread{10}] %-5level %logger{15} - %X{user} - %msg%n</pattern>
 		</encoder>
 	</appender>
 
@@ -23,14 +23,14 @@
 			<pattern>%d{HH:mm:ss.SSS} [%thread] %-5level %logger{15} - %X{user} - %msg%n</pattern>
 		</encoder>
 	</appender>
-	
+
 	<root level="WARN">
 		<appender-ref ref="STDOUT" />
 		<appender-ref ref="FILE" />
 	</root>
 
-	<logger name="com.ibm.drl.hbcp" level="WARN" />
+	<logger name="com.ibm.drl.hbcp" level="INFO" />
 	<logger name="org.apache.pdfbox.pdmodel.font" level="ERROR" />
 	<logger name="edu.stanford.nlp.process.PTBLexer" level="ERROR" />
-	
+
 </configuration>

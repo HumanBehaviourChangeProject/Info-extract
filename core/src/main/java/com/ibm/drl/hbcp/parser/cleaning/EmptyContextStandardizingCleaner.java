@@ -25,7 +25,7 @@ import java.util.stream.Collectors;
  */
 public class EmptyContextStandardizingCleaner implements Cleaner {
 
-    public static final Logger log = LoggerFactory.getLogger(EmptyContextStandardizingCleaner.class);
+    public static final Logger logger = LoggerFactory.getLogger(EmptyContextStandardizingCleaner.class);
 
     @Override
     public List<AnnotatedAttributeValuePair> clean(Collection<AnnotatedAttributeValuePair> original) {
@@ -55,7 +55,7 @@ public class EmptyContextStandardizingCleaner implements Cleaner {
             } else {
                 String tableCaption = nonEmptyContexts.get(0);
                 if (nonEmptyContexts.size() > 1) {
-                    log.info("In {}: several potential table captions have been detected, taking the first", docName);
+                    logger.debug("In {}: several potential table captions have been detected, taking the first", docName);
                 }
                 // fix all the toFix values (leave context empty, put the table caption as "highlighted text")
                 List<AnnotatedAttributeValuePair> fixed = toFix.stream()

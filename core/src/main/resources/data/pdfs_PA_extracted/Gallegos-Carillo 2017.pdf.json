@@ -1,0 +1,1767 @@
+{
+  "blocks": [
+    {
+      "type": "LINES",
+      "value": "Brief Counseling and Exercise Referral Scheme: A Pragmatic Trial in Mexico",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The effectiveness of clinical-community linkages for promotion of physical activity (PA) has not been explored in low-and middle-income countries. This study assessed the effectiveness of a primary care-based, 16-week intervention rooted in behavioral theory approaches to increase compliance with aerobic PA recommendations.\nStudy design: Pragmatic cluster randomized trial.\nSetting/participants: Patients had diagnosed (o5 years) hypertension, were aged 35-70 years, self-reported as physically inactive, had a stated intention to engage in PA, and attended Primary Healthcare Centers in the Social Security health system in Cuernavaca, Mexico. Of 23 Primary Healthcare Centers, four were selected based on proximity (5 km radius) to a center.\nIntervention: Each center was randomized to a brief PA counseling (BC, n¼2) or an exercise referral (ER, n¼2) intervention. The study was conducted between 2011 and 2012.\nMain outcome measures: Change in objectively measured PA levels (ActiGraph GT3X accelerometers) at baseline, 16, and 24 weeks. Intention-to-treat analyses were used to assess the effectiveness of the intervention overall and according to ER intervention attendance. Longitudinal multilevel mixed-effects analyses considering the interaction (time by intervention) were conducted. Each model was also adjusted by baseline value of the outcome measure, demographic and health variables, social support, PA self-efficacy, and barriers.\nResults: Minutes/week of objectively measured moderate to vigorous PA increased by 40 and 53 minutes in the ER and BC groups, respectively (p¼0.59). Participants attending 450% of ER program sessions increased their moderate to vigorous PA by 104 minutes/week and compliance with aerobic PA recommendations by 23.8%, versus the BC group (both po0.05).\nConclusions: Both BC and ER led to modest improvements in PA levels, with no significant differences between groups. Adequate adherence with the ER program sessions led to significant improvements in compliance with aerobic PA recommendations versus BC. These results can help guide development and implementation of programs integrating standardized PA assessment, counseling, and referrals via clinical-community linkages in Mexico and other low-and middle-income countries in the region.",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "P hysical inactivity is a leading cause of morbidity and mortality, and is responsible fora high burden of non-communicable chronic diseases (NCDs). Improving and maintaining health-enhancing levels of physical activity (PA) leads to reductions in risk factors that contribute heavily to the development of many NCDs. As such, PA has a role, in many cases comparable or superior to pharmaceutical interventions, in the prevention and treatment of NCDs. Insufficient PA affects national economies and health systems, being responsible for an estimated 1.5%-3% of direct healthcare costs in several countries, and recently estimated at $110 billion dollars/year or approximately 10% of the aggregate healthcare expenditure in the U.S.\nTo combat low levels of PA, several proven approaches have been identified. Evidence supports the use of multipronged PA counseling and referral strategies, in particular, those linking counseling in healthcare settings with referral to community-based PA resources. Physician counseling and exercise referral (ER) systems can be effective in improving patients' self-reported PA levels for up to 12 months. 9,10 However, to date, only one study has explored the effectiveness of these approaches using objective PA measurements. Despite increasing evidence regarding the cost effectiveness and scalability of approaches to integrate PA in healthcare settings, widespread implementation has been inconsistent, with a few exceptions. Low and middleincome countries (LMICs) are experiencing a rapid increase in the prevalence of NCDs with 80% of NCD-related deaths occurring in LMICs. Mexico, the 11 th most populated country in the world, is a mediumincome country with some of the highest rates of years of potential life lost due to diabetes and obesity, conditions that are putting Mexico in a vulnerable position, worse than or comparable to other LMIC countries. However, data on the prevalence of physical inactivity are still inconsistent in countries like Mexico, partially because of the use of different assessment tools, scoring approaches, and the self-reported nature of these assessments. For example, the National Institute of Statistics and Geography of Mexico reported a physical inactivity prevalence of 56.2%. On the other hand, Hallal et al. reported a prevalence between 30% and 39% and Medina and colleagues between 16% and 20%. Despite differences in these estimates, physical inactivity and related NCD burden constitute a major public health problem in Mexico. Efforts to adapt proven interventions to the LMIC setting and provide specific contextual Type 3 public health evidence have been emphasized as an area where more PA research is needed.\nInformation about the effectiveness of PA counseling and ER strategies in LMICs will offer critical evidence to guide implementation efforts. Therefore, the aims of this study were to:\n1. evaluate the effectiveness of providing brief behavioral PA counseling (BC) in primary care facilities, compared with an ER scheme among inactive or insufficiently active hypertensive adults; and 2. assess the impact of the intervention according to the level of adherence to the ER program.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The In Cuernavaca, Mexico, of a total of 23 PHCCs, four were selected because they shared similar characteristics such as medium size (average of 27 physicians), population served in terms of socioeconomic characteristics, availability of urban transportation, and proximity to a selected Social Security Center (SSC, 5-km perimeter). Directors of the four PHCCs consented to their participation in the study.\nA pragmatic cluster randomized trial design was used, with PHCCs as the unit of randomization, and patients as the unit of assessment. Four PHCCs were randomized to deliver the ER intervention (n¼2) or the BC intervention (n¼2); this latter one served as a control in the comparison.\nSample size was based on the goal of increasing by 20% the proportion of patients meeting aerobic PA guidelines, plus an additional 40% to account for the high dropout rates reported previously. Therefore, for an 80% power and to detect group differences with the significance level set at 0.05, the final sample size was calculated as 224 patients (112 per intervention group).\nStaff physicians at the four PHCCs participating in the study were 108 men and women aged from 26 to 62 years. All study physicians attended a 2-hour training session focused on the importance of PA in the management of NCDs and were informed about the study's objectives and procedures for patient recruitment. The study took place between 2011 and 2012. A total of 506 potentially eligible inactive hypertensive patients were identified by physicians at the participating PHCCs according to the following criteria:\n1. women and men with IMSS affiliation; 2. aged 35-70 years; 3. mild hypertension for o5 years (o160 mmHg systolic, o100 mmHg diastolic ); 4. o150 minutes of moderate to vigorous PA (MVPA)/week according to current PA WHO guidelines ; and 5. not in a pre-contemplative stage of behavior change (participants without intention to increase their PA in the next months).\nClinical criteria were used to identify patients at a low to moderate cardiovascular disease risk, cleared to engage in low to moderate PA without further exercise testing, according to the American College of Sports Medicine (ACSM) exercise screening recommendations. Inclusion or exclusion criteria were confirmed by trained PHCC healthcare staff using a previously described standardized procedure.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The primary outcome was the difference in the proportion of participants engaging in Z150 minutes of MVPA before and after the intervention, between and within ER and BC groups. In addition, previous ER interventions have identified intervention adherence as a key driver of intervention effectiveness. Therefore, this study collected information about patient attendance to the ER program sessions as a process indicator to explore the role of adequate ER intervention adherence, defined as attending Z50% (24 of 48 total) of the planned sessions.\nParticipants' PA levels were assessed in both groups at T0 (baseline), T1 (16 weeks), and T2 (24 weeks), to estimate changes in percentage of participants meeting PA recommendations, minutes of MVPA/week, and minutes/day of sedentary time. The ER intervention lasted 16 weeks. Primary outcomes and effectiveness assessment relied on objectively assessed PA data via ActiGraph GT3X accelerometers (ActiGraph LLC, Ft. Walton Beach, Florida). Participants wore the device for 7 days during waking hours. Valid wear time was defined as 5 days in 1 week (including at least 1 weekend day) and accumulation of Z600 minutes daily. For comparison purposes, self-reported PA data, using the International Physical Activity Questionnaire, were also collected. Measurement procedures have been reported previously.\nSecondary outcomes were attitudes toward PA participation based on Prochaska's stages of change model, a discrete categorical measure for the assessment of staged of behavior change with mutually exclusive questions. Social support for PA assessed the level of support from family and friends that study participants perceived. Self-efficacy during leisure time, walking, and planned PA was assessed with a questionnaire previously developed for use at IMSS.\nTo help guide PA prescription and detect the potential effect of the ER intervention on functional capacity, change in 6-minute walking distance was measured only in the ER group.\nDemographic and health data were collected, including the Charlson Comorbidity Index and other lifestyle behaviors, as well as barriers to engaging in PA.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "This study defined BC as the provision of written and verbal information to the patient, regarding PA benefits and advice on how to increase PA levels safely and progressively. After physician identification of inactive eligible patients, BC was provided by a primary care nurse trained in behavior change communication techniques in an adjacent room specifically assigned to this research project, at each of the PHCCs. Counseling sessions were on average 15 minutes/patient and used standardized recommendations from ACSM and the Exercise is Medicine Initiative prescription for health series. IMSS had been encouraging providers to deliver PA advice to patients, but the study procedures had not been adequately standardized, with only 13% of PHCCs' physicians reporting regular assessment and providing PA counseling (IMSS, unpublished internal data). After the initial PA counseling session, patients in the BC group continued receiving their usual care.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "This study defined ER as an inclusive strategy combining clinical and community staff and facilities available at IMSS to conduct activities aimed at helping members increase their PA levels. Eligible patients identified by the PHCC primary care providers as inactive and meeting all other inclusion criteria were referred to participate in the ER program at SSC facilities. The ER intervention was based on the Social Cognitive Theory and the Transtheoretic model.\nDuring the first session, a PA prescription was provided, based on the patient's preferences and functional capacity. The 16-week intervention program consisted of 48 moderate-intensity, 1-hour group-based PA sessions (three sessions/week). Sessions were led by IMSS trained and certified fitness instructors. Sessions were adapted for hypertensive patients following ACSM and Exercise is Medicine recommendations. At the end of the program, instructors encouraged participants to continue attending PA sessions at SSC facilities (at no cost for the next 6 months) or to engage in self-directed PA in their preferred setting. BC participants were also allowed to attend weekly PA sessions after the T2 assessment.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Analyses were carried out according to intention to treat. A baseline comparability analysis using t-test or ANOVA was carried out in the BC and ER groups. The Mann-Whitney test was used to compare variables with non-normal distribution.\nModels for multilevel longitudinal data with repeated measurements were used to assess group differences (BC versus ER), for all primary and secondary continuous outcomes, using an interaction term (assessment time X intervention group). In each model, three observed measurements per participant (baseline, 16 weeks, and 24 weeks) were included. If data were missing, multiple imputation techniques were used. Given the longitudinal (repeated measurements) nature of the data, multilevel mixed-effects linear regressions models were used to determine the difference in means for primary and secondary outcomes among participants from PHCCs allocated to ER and BC (ref group), while taking clustering (non-independence) into account among participants from the same PHCC.\nFor categorical outcomes (meeting PA recommendations), multilevel mixed-effects logistic regression models were used. Similar models were used to determine the difference in means by level of adherence (o50% versus Z50% attendance to ER sessions) among the ER group, including an interaction term (assessment time X adherence). Analyses included adjustment for potential confounders and modifier variables. In addition, to assess the effect of the intervention in each model, the baseline measure of the outcome being analyzed was included. The Wald statistic was used to ascertain statistical significance of intervention effects.\nAll procedures were approved by the Ethics Committees of the National Institute of Public Health and IMSS.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Of 506 hypertensive patients identified as potential candidates for the study (for both the ER and BC groups), 5.3% declined to participate, 27.1% were unable to attend or complete assessments, and 21.7% did not meet inclusion criteria.\nAppendix 1 (available online) shows the flow diagram according to CONSORT guidelines. A total of 117 patients (average age, 50.4 years; 67.5% female) were included in the ER group and 115 in the BC group (average age, 51.7 years; 73% female). Of those, 48.4% of ER and 51.6% of BC had blood pressure values under control (o140 mmHg systolic, o90 mmHg diastolic). All ER patients were invited to enroll in the program; however, 21.4% of participants in the ER group did not enroll, failing to show up at the SCC or not completing the eligibility assessment.\nThere were no differences at baseline between ER and BC groups (po0.05) (Table). However, differences were observed in some PA-related variables (stage of change, self-reported PA and sedentary time, and perception of PA barriers) between BC and ER groups (po0.05). In the ER group, 79.7% of participants had a low level of functional capacity, based on published 6-minute walking distance reference values. Figure presents PA data on 73 of 117 ER and 104 of 115 BC participants with complete data at the T2 assessment. Accelerometer-based MVPA minutes/week for the ER group went from 128.5 (SD¼125.1) minutes at T0 to 169.3 (SD¼173.8) minutes at T2; the BC group increased from 100.1 (SD¼127.9) minutes at T0 to 154.1 (SD¼165.2) minutes at T2. ER participants with Z50% program adherence accumulated 219.5 (SD¼176.7) minutes of MVPA at T2, whereas patients with o50% adherence showed 89 (SD¼136.3) minutes of MVPA at T2 (Figure). None of these differences reached statistical significance.\nAmong participants with Z50% ER program adherence, the proportion meeting PA recommendations went from 35.9% at T0 to 59.7% at T2 (p¼0.008), whereas among participants with o50% adherence, it decreased to 22.2% at T2 (p¼0.01) (Figure). In addition, the BC group increased sedentary minutes/day by 98 minutes from T0 to T2, compared with an increase of 4.2 minutes/day from T0 to T2 in the ER group (p¼0.019) (Figure).\nThe proportion of participants meeting PA recommendations increased, between T0 and T2, by 53.9% in the BC group and by 51.9% in the ER group (p¼0.02). Differences remain significant after adjusting for baseline values and potential confounders (OR¼0.49, 95% CI¼0.37, 0.81) (Figure). In the analysis by level of ER program adherence, those who attended at least 24 of the 48 total sessions increased by 53% the proportion of met PA recommendations (p¼0.035), and MVPA increased by 123 minutes/week between T0 and T2 (p¼0.011).\nTable shows significant differences in the proportion of ER and BC participants reporting to be in the \"action\" (p¼0.004) and \"maintenance\" (p¼0.003) stages of behavior change. However, within each group from T0 to T2, differences were only significant for the proportion reporting to be in the \"maintenance\" stage in the ER group (p¼0.013). Self-efficacy increased in both ER and BC groups (po0.001). Multilevel models among the BC group revealed that self-efficacy for planned PA (β¼ -0.63), leisure time PA (β¼ -0.63), and walking (β¼ -0.46) (all po0.001) were significant correlates of the change in accelerometer-based MVPA minutes/week. For ER participants with Z50% program adherence, selfefficacy for planned PA (β¼1.4), leisure time PA (β¼1.7), and walking (β¼1.2) (all po0.01) were significant correlates of the increase in accelerometer-based MVPA minutes/week (Table). The social support perceived by participants did not change across time or between groups (Table).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "This pragmatic clustered randomized trial was conducted under real-life conditions in the primary healthcare setting in Mexico. The study standardized integration of brief PA counseling or a referral to community-based PA programming. Both interventions led to modest increases in objectively assessed PA levels, although no significant differences were detected when interventions were compared to each other. However, the proportion meeting the recommended 150 minutes of MVPA/week increased by 25% among ER participants with Z50% program attendance, compared with the BC group. Furthermore, BC participants significantly increased objectively assessed sedentary time, whereas ER participants remained stable.\nSedentary time has been identified as a risk factor for NCDs, independent of participation in MVPA. In this study, among the BC group, increases in MVPA were detected, along with a compensatory increase in minutes of sedentary time, an unwanted side effect that was not Patients in stage of change (action and maintenance) were included if the minutes of physical activity self-reported (IPAQ) were less than the recommended (o150 minutes per week). Charlson Comorbidity Index: Self-report any of the following conditions: cerebral vascular disease, chronic obstructive pulmonary disease (COPD), failure chronic disease, diabetes, cancer. c Self-report of actual tobacco consumption and also more than 100 cigarettes during whole life. d Information collected through self-report of the number of fruits and vegetables consumed. Social support measured with a 12-item Likert scale. e Only for the exercise-referral group. Low fitness: o25th percentile for sex and age group. Values of reference published by Casanova C, et al. HTN, hypertension; PA, physical activity; SEM, standard error of the mean.\napparent among ER participants with adequate engagement. Systematic reviews have found that PA interventions not focused on reducing sedentary behavior have fewer possibilities of achieving a sedentary time reduction, compared with interventions focused on decreasing sedentary time. In this study, the BC and ER interventions did not aim to reduce sedentary behavior; future interventions may benefit from also including counseling and activities to limit sedentary time.\nPrevious meta-analyses have quantified the effect of PA promotion in healthcare settings at 38 minutes of MVPA/week (self-reported), comparing the intervention group to no intervention controls. In this study, both the ER and BC interventions led to similar increases of 40 and 53 minutes of MVPA/week, respectively, in objectively assessed PA from baseline to 24 weeks of follow-up.\nIn some studies, BC led to increases in PA levels and adding the ER component did not seem to enhance the effect. In other studies, increased PA was reported for intervention and control groups and systematic reviews have shown that both BC and ER interventions can be effective. However, few studies have performed a head-to-head comparison of these two commonly implemented PA promotion strategies. For instance, Sorensen et al. found no difference in maximum oxygen uptake between groups. Differences in study design and procedures for what constitutes \"counseling\" and ER programs make direct comparisons with previous studies difficult. However, the findings are generally consistent with previous reports.\nIn the present study, both ER and BC groups selfreported much higher increases in MVPA after the *SEDENTARY minutes/day: Statistically significant difference between ER and BC groups, tested as the (assessment time*intervention group) interaction, measured via accelerometer (p¼0.032). BC, brief counseling; ER, exercise referral; IPAQ, International Physical Activity Questionnaire; MVPA, moderate-to-vigorous physical activity. intervention than those observed with accelerometers. In the Mexican population, the International Physical Activity Questionnaire has been shown to overestimate PA levels, compared with accelerometer assessments. Inconsistencies between objective and self-reported BMI have also been described in the Mexican population. Therefore, the probability of bias associated with selfreport is one of the limitations of PA interventions relying on such tools to assess change in PA overtime. Nevertheless, in this study, self-reported PA minutes at baseline were more or less consistent with the objective PA assessment for both ER and BC groups. This is inline with previous studies validating simple self-report PA tools. The impact of this behavioral theory-based ER program in helping patients achieve recommended PA levels was modest and heavily influenced by program attendance, as reported previously. A total of 78% of ER participants in this study attended Z50% of program sessions, a high proportion of adherence compared with prior trials. A systematic review of ER schemes reported a pooled level of adherence of 43% (95% CI¼32%, 54%) across six randomized trials. Follow-up measurements were carried out at the PHCC for the BC group (during monthly checkup to refill medication) whereas the ER group assessments were conducted at the SCC. In addition, BC intervention implied less commitment from participants, which could explain the higher dropout rate seen in the ER group. The detailed eligibility assessment conducted in this study might have affected the rate of initial ER program participation (uptake), with 78.6% of enrolled patients attending the initial session in which the exercise program was developed. This uptake rate was comparable to the those reported in similar programs (81%, 95% CI¼68%, 94%). Results among patients meeting adherence goals led to significant increases on MVPA levels (85 minutes/week) and an increase in compliance with PA recommendations (15.4%). Based on these findings, a larger sample size or better uptake and adherence rates maybe needed in future studies to better detect differences between ER and BC groups. In summary, this study shows that at least a 50% level of adherence to an ER scheme must be the programmatic goal; otherwise, BC can be a good alternative to promote PA in primary care settings.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "This study had several limitations. First, the trial's sample size was not calculated to detect differences by level of program adherence to the ER intervention. Second, an   The results in each model include adjustment for intervention group X stage (time) interaction, and baseline value of outcome measure. BC, brief counseling; ER, exercise referral.\nintracluster correlation coefficient was not used in calculating the study's sample size because there were no prior studies or results of local or regional trials to inform it and the use of a non-evidence-based coefficient estimate would have introduced a number of assumptions and potential for error in the study. Although the authors would have liked to use a bigger sample size and enhance the study's power, real-life logistic (time, resources) and budgetary restrictions precluded doing so in this study. However, the multilevel analyses allowed the authors to account for the inherent correlation within the clusters being modeled with mixed-effects analyses including intercepts at the participants' level, nested in PHCCs, respectively. In addition, robust post-estimation was conducted using a bootstrap statistical approach for each model with resampling considering the four clusters used in the randomization. The resulting coefficients showed a similar magnitude of association to the original analyses, adding confidence in the results presented here. Third, MVPA variables were skewed to the left with a spike at 0 but normality transformations did not contribute when compared to the crude variable in the multilevel mixed-effects models. As an additional procedure to deal with this issue, the authors also explored a 0-inflated logistic regression analysis model defining 0 as the ref category and any other value for MVPA minutes as 1. In such a model, the value of the interaction term (assessment time X intervention group), went from 0.74 to 2.03. However, as this approach was not useful to address the main objective of this particular study, which was to determine the effectiveness of an exercise referral scheme to achieve the PA recommendation of 150 minutes of MVPA/week, it was not included in the Results section. The authors acknowledge the limitations of the analyses carried out in this study, which could have affected the efficiency of the models and the magnitude of effects. In addition, owing to logistic limitations, objective assessment of PA at T1 for the BC group was not possible. Finally, the detailed screening assessment maybe difficult to replicate in real-life settings. However, recently the ACSM has published simplified exercise preparticipation guidelines that should facilitate this process. The present results are only generalizable to similar populations in Mexico and the Latin American region. The IMSS population comes from a catchment area representative of a medium-sized city with medium to high SES in Mexico. Therefore, studies are needed in populations with different characteristics to generate detailed contextual evidence to guide implementation. This study also had strengths. First, objective PA assessments were used to ascertain intervention effectiveness. The trial was clustered by PHCC to reduce the risk of intervention contamination. Better results have been obtained when interventions include multiple behavioral change resources and target insufficiently active patients with cardiovascular disease risk factors and motivational readiness to change. Following these recommendations, the ER intervention was rooted in Social Cognitive Theory, with targeted enrollment based on self-reported activity levels, cardiovascular disease risk factors (hypertension), and stages of change.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "In this study, implementing brief BC and an ER program led to modest improvements in PA levels, with no significant differences between groups. However, significant improvements in meeting PA recommendations among patients attending Z50% of ER program sessions were observed. A similar finding has been reported in relation to program adherence for real-world implementation of lifestyle interventions for diabetes prevention. Large discrepancies were found between self-reported and objective PA assessment methods, which suggest exercising caution when using self-report instruments to assess baseline PA levels for intervention eligibility and particularly for assessing intervention effectiveness in future trials. These findings support the recommendation by the U.S. National Academy of Sciences to incorporate objective assessments to capture behavioral domains in electronic health records.\nIn conclusion, integrating PA counseling and providing referrals to community-based programming led by certified PA professionals appear to be promising strategies for implementing PA promotion in Mexico's healthcare system. In Mexico, IMSS is a large healthcare system that already has adequate infrastructure to increase the feasibility of delivering prevention and intervention PA programs via clinical community linkages. Based on the available evidence, future efforts to integrate PA promotion into one of the biggest programs of health promotion in Mexico called \"PREVENIMSS\", IMSS's preventive medicine strategy, are warranted. Under this program, activities such as standardized BC and ER schemes could be added as a benefit for the population. Scaling BC and ER to larger populations will provide an important opportunity to assess the usefulness of these types of program in the context of social security health systems in the Americas.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "This research project was supported by a grant from IMSS's Coordinación de Investigación en Salud (FIS/IMSS/PROT/G10/ 10/841). Special thanks to Global Health Promotion Office,\n",
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "50.4 þ (1.0)",
+          "rowHeaders": [
+            "Educational level, % (95% CI)",
+            "Hypertension only (HTN), % (95% CI)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Exercise referral (n¼117)"
+          ]
+        },
+        {
+          "value": "51.7 þ (0.89)",
+          "rowHeaders": [
+            "Educational level, % (95% CI)",
+            "Hypertension only (HTN), % (95% CI)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Brief counseling (n¼ 115)"
+          ]
+        },
+        {
+          "value": "0.18",
+          "rowHeaders": [
+            "Educational level, % (95% CI)",
+            "Hypertension only (HTN), % (95% CI)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "p-value"
+          ]
+        },
+        {
+          "value": "0.80",
+          "rowHeaders": [
+            "Educational level, % (95% CI)",
+            "Age group, % (95% CI)",
+            "Hypertension only (HTN), % (95% CI)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "p-value"
+          ]
+        },
+        {
+          "value": "43.6 (30.2,",
+          "rowHeaders": [
+            "Hypertension only (HTN), % (95% CI)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Exercise referral (n¼117)"
+          ]
+        },
+        {
+          "value": "59.8)",
+          "rowHeaders": [
+            "Hypertension only (HTN), % (95% CI)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Exercise referral (n¼117)"
+          ]
+        },
+        {
+          "value": "54.9)",
+          "rowHeaders": [
+            "Hypertension only (HTN), % (95% CI)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Brief counseling (n¼ 115)"
+          ]
+        },
+        {
+          "value": "0.58",
+          "rowHeaders": [
+            "Hypertension only (HTN), % (95% CI)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "p-value"
+          ]
+        },
+        {
+          "value": "47.01 (37.7,",
+          "rowHeaders": [
+            "Hypertension only (HTN), % (95% CI)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Exercise referral (n¼117)"
+          ]
+        },
+        {
+          "value": "56.4)",
+          "rowHeaders": [
+            "Hypertension only (HTN), % (95% CI)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Exercise referral (n¼117)"
+          ]
+        },
+        {
+          "value": "51.3 (41.8,",
+          "rowHeaders": [
+            "Hypertension only (HTN), % (95% CI)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Brief counseling (n¼ 115)"
+          ]
+        },
+        {
+          "value": "60.7)",
+          "rowHeaders": [
+            "Hypertension only (HTN), % (95% CI)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Brief counseling (n¼ 115)"
+          ]
+        },
+        {
+          "value": "0.51",
+          "rowHeaders": [
+            "Hypertension only (HTN), % (95% CI)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "p-value"
+          ]
+        },
+        {
+          "value": "9.4 (4.8,",
+          "rowHeaders": [
+            "Hypertension only (HTN), % (95% CI)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Exercise referral (n¼117)"
+          ]
+        },
+        {
+          "value": "16.2)",
+          "rowHeaders": [
+            "Hypertension only (HTN), % (95% CI)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Exercise referral (n¼117)"
+          ]
+        },
+        {
+          "value": "8.7 (4.2,",
+          "rowHeaders": [
+            "Hypertension only (HTN), % (95% CI)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Brief counseling (n¼ 115)"
+          ]
+        },
+        {
+          "value": "15.4)",
+          "rowHeaders": [
+            "Hypertension only (HTN), % (95% CI)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Brief counseling (n¼ 115)"
+          ]
+        },
+        {
+          "value": "0.85",
+          "rowHeaders": [
+            "Hypertension only (HTN), % (95% CI)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "p-value"
+          ]
+        },
+        {
+          "value": "67.5 (58.2,",
+          "rowHeaders": [
+            "Female, % (95% CI)",
+            "Hypertension only (HTN), % (95% CI)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Exercise referral (n¼117)"
+          ]
+        },
+        {
+          "value": "75.8)",
+          "rowHeaders": [
+            "Female, % (95% CI)",
+            "Hypertension only (HTN), % (95% CI)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Exercise referral (n¼117)"
+          ]
+        },
+        {
+          "value": "73.04 (63.9,",
+          "rowHeaders": [
+            "Female, % (95% CI)",
+            "Hypertension only (HTN), % (95% CI)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Brief counseling (n¼ 115)"
+          ]
+        },
+        {
+          "value": "80.1)",
+          "rowHeaders": [
+            "Female, % (95% CI)",
+            "Hypertension only (HTN), % (95% CI)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Brief counseling (n¼ 115)"
+          ]
+        },
+        {
+          "value": "0.35",
+          "rowHeaders": [
+            "Female, % (95% CI)",
+            "Hypertension only (HTN), % (95% CI)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "p-value"
+          ]
+        },
+        {
+          "value": "0.28",
+          "rowHeaders": [
+            "Educational level, % (95% CI)",
+            "Hypertension only (HTN), % (95% CI)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "p-value"
+          ]
+        },
+        {
+          "value": "27.3 (19.5,",
+          "rowHeaders": [
+            "Educational level, % (95% CI)",
+            "Hypertension only (HTN), % (95% CI)",
+            "rElementary school"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Exercise referral (n¼117)"
+          ]
+        },
+        {
+          "value": "36.4)",
+          "rowHeaders": [
+            "Educational level, % (95% CI)",
+            "Hypertension only (HTN), % (95% CI)",
+            "rElementary school"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Exercise referral (n¼117)"
+          ]
+        },
+        {
+          "value": "32.2 (23.7,",
+          "rowHeaders": [
+            "Educational level, % (95% CI)",
+            "Hypertension only (HTN), % (95% CI)",
+            "rElementary school"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Brief counseling (n¼ 115)"
+          ]
+        },
+        {
+          "value": "41.5)",
+          "rowHeaders": [
+            "Educational level, % (95% CI)",
+            "Hypertension only (HTN), % (95% CI)",
+            "rElementary school"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Brief counseling (n¼ 115)"
+          ]
+        },
+        {
+          "value": "0.42",
+          "rowHeaders": [
+            "Diabetes self-reported, % (95% CI)",
+            "Hypertension only (HTN), % (95% CI)",
+            "rElementary school"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "p-value"
+          ]
+        },
+        {
+          "value": "23.9 (16.5,",
+          "rowHeaders": [
+            "Hypertension only (HTN), % (95% CI)",
+            "Middle school"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Exercise referral (n¼117)"
+          ]
+        },
+        {
+          "value": "32.7)",
+          "rowHeaders": [
+            "Hypertension only (HTN), % (95% CI)",
+            "Middle school"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Exercise referral (n¼117)"
+          ]
+        },
+        {
+          "value": "18.3 (11.7,",
+          "rowHeaders": [
+            "Hypertension only (HTN), % (95% CI)",
+            "Middle school"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Brief counseling (n¼ 115)"
+          ]
+        },
+        {
+          "value": "26.5)",
+          "rowHeaders": [
+            "Hypertension only (HTN), % (95% CI)",
+            "Middle school"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Brief counseling (n¼ 115)"
+          ]
+        },
+        {
+          "value": "0.29",
+          "rowHeaders": [
+            "Hypertension only (HTN), % (95% CI)",
+            "Middle school"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "p-value"
+          ]
+        },
+        {
+          "value": "44.4)",
+          "rowHeaders": [
+            "Educational level, % (95% CI)",
+            "Hypertension only (HTN), % (95% CI)",
+            "High school/technical"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Exercise referral (n¼117)"
+          ]
+        },
+        {
+          "value": "28.7 (20.6,",
+          "rowHeaders": [
+            "Diabetes self-reported, % (95% CI)",
+            "Hypertension only (HTN), % (95% CI)",
+            "High school/technical"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Brief counseling (n¼ 115)"
+          ]
+        },
+        {
+          "value": "37.8)",
+          "rowHeaders": [
+            "Diabetes self-reported, % (95% CI)",
+            "Hypertension only (HTN), % (95% CI)",
+            "High school/technical"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Brief counseling (n¼ 115)"
+          ]
+        },
+        {
+          "value": "0.30",
+          "rowHeaders": [
+            "Diabetes self-reported, % (95% CI)",
+            "Hypertension only (HTN), % (95% CI)",
+            "High school/technical"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "p-value"
+          ]
+        },
+        {
+          "value": "13.7 (8.02,",
+          "rowHeaders": [
+            "Diabetes self-reported, % (95% CI)",
+            "Hypertension only (HTN), % (95% CI)",
+            "ZBachelor degree"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Exercise referral (n¼117)"
+          ]
+        },
+        {
+          "value": "21.2)",
+          "rowHeaders": [
+            "Diabetes self-reported, % (95% CI)",
+            "Hypertension only (HTN), % (95% CI)",
+            "ZBachelor degree"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Exercise referral (n¼117)"
+          ]
+        },
+        {
+          "value": "20.9 (13.8,",
+          "rowHeaders": [
+            "Diabetes self-reported, % (95% CI)",
+            "Hypertension only (HTN), % (95% CI)",
+            "ZBachelor degree"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Brief counseling (n¼ 115)"
+          ]
+        },
+        {
+          "value": "24.4)",
+          "rowHeaders": [
+            "Diabetes self-reported, % (95% CI)",
+            "Hypertension only (HTN), % (95% CI)",
+            "ZBachelor degree"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Brief counseling (n¼ 115)"
+          ]
+        },
+        {
+          "value": "0.14",
+          "rowHeaders": [
+            "Diabetes self-reported, % (95% CI)",
+            "Hypertension only (HTN), % (95% CI)",
+            "ZBachelor degree"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "p-value"
+          ]
+        },
+        {
+          "value": "0.52",
+          "rowHeaders": [
+            "Marital status, % (95% CI)",
+            "Hypertension only (HTN), % (95% CI)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "p-value"
+          ]
+        },
+        {
+          "value": "9.4 (4.7,",
+          "rowHeaders": [
+            "Hypertension only (HTN), % (95% CI)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Exercise referral (n¼117)"
+          ]
+        },
+        {
+          "value": "16.2)",
+          "rowHeaders": [
+            "Hypertension only (HTN), % (95% CI)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Exercise referral (n¼117)"
+          ]
+        },
+        {
+          "value": "11.3 (6.2,",
+          "rowHeaders": [
+            "Hypertension only (HTN), % (95% CI)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Brief counseling (n¼ 115)"
+          ]
+        },
+        {
+          "value": "18.5)",
+          "rowHeaders": [
+            "Hypertension only (HTN), % (95% CI)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Brief counseling (n¼ 115)"
+          ]
+        },
+        {
+          "value": "0.63",
+          "rowHeaders": [
+            "Hypertension only (HTN), % (95% CI)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "p-value"
+          ]
+        },
+        {
+          "value": "78.6 (70.1,",
+          "rowHeaders": [
+            "Hypertension only (HTN), % (95% CI)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Exercise referral (n¼117)"
+          ]
+        },
+        {
+          "value": "85.6)",
+          "rowHeaders": [
+            "Hypertension only (HTN), % (95% CI)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Exercise referral (n¼117)"
+          ]
+        },
+        {
+          "value": "71.3 (62.1,",
+          "rowHeaders": [
+            "Hypertension only (HTN), % (95% CI)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Brief counseling (n¼ 115)"
+          ]
+        },
+        {
+          "value": "79.3)",
+          "rowHeaders": [
+            "Hypertension only (HTN), % (95% CI)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Brief counseling (n¼ 115)"
+          ]
+        },
+        {
+          "value": "0.19",
+          "rowHeaders": [
+            "Hypertension only (HTN), % (95% CI)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "p-value"
+          ]
+        },
+        {
+          "value": "5.1 (1.9,",
+          "rowHeaders": [
+            "Hypertension only (HTN), % (95% CI)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Exercise referral (n¼117)"
+          ]
+        },
+        {
+          "value": "10.8)",
+          "rowHeaders": [
+            "Hypertension only (HTN), % (95% CI)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Exercise referral (n¼117)"
+          ]
+        },
+        {
+          "value": "9.6 (4.9,",
+          "rowHeaders": [
+            "Hypertension only (HTN), % (95% CI)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Brief counseling (n¼ 115)"
+          ]
+        },
+        {
+          "value": "16.5)",
+          "rowHeaders": [
+            "Hypertension only (HTN), % (95% CI)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Brief counseling (n¼ 115)"
+          ]
+        },
+        {
+          "value": "0.19",
+          "rowHeaders": [
+            "Hypertension only (HTN), % (95% CI)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "p-value"
+          ]
+        },
+        {
+          "value": "6.8 (2.9,",
+          "rowHeaders": [
+            "Hypertension only (HTN), % (95% CI)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Exercise referral (n¼117)"
+          ]
+        },
+        {
+          "value": "13.02)",
+          "rowHeaders": [
+            "Hypertension only (HTN), % (95% CI)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Exercise referral (n¼117)"
+          ]
+        },
+        {
+          "value": "7.8 (3.6,",
+          "rowHeaders": [
+            "Hypertension only (HTN), % (95% CI)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Brief counseling (n¼ 115)"
+          ]
+        },
+        {
+          "value": "14.3)",
+          "rowHeaders": [
+            "Hypertension only (HTN), % (95% CI)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Brief counseling (n¼ 115)"
+          ]
+        },
+        {
+          "value": "0.77",
+          "rowHeaders": [
+            "Hypertension only (HTN), % (95% CI)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "p-value"
+          ]
+        },
+        {
+          "value": "13.7 (8.02,",
+          "rowHeaders": [
+            "Diabetes self-reported, % (95% CI)",
+            "Hypertension only (HTN), % (95% CI)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Exercise referral (n¼117)"
+          ]
+        },
+        {
+          "value": "21.2)",
+          "rowHeaders": [
+            "Diabetes self-reported, % (95% CI)",
+            "Hypertension only (HTN), % (95% CI)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Exercise referral (n¼117)"
+          ]
+        },
+        {
+          "value": "15.6 (9.6,",
+          "rowHeaders": [
+            "Diabetes self-reported, % (95% CI)",
+            "Hypertension only (HTN), % (95% CI)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Brief counseling (n¼ 115)"
+          ]
+        },
+        {
+          "value": "23.8)",
+          "rowHeaders": [
+            "Diabetes self-reported, % (95% CI)",
+            "Physical activity stage of change, % (95% CI)b"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Brief counseling (n¼ 115)"
+          ]
+        },
+        {
+          "value": "0.54",
+          "rowHeaders": [
+            "Diabetes self-reported, % (95% CI)",
+            "Physical activity stage of change, % (95% CI)b"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "p-value"
+          ]
+        },
+        {
+          "value": "83.8 (75.8,",
+          "rowHeaders": [
+            "Diabetes self-reported, % (95% CI)",
+            "Physical activity stage of change, % (95% CI)b",
+            "Hypertension only (HTN), % (95% CI)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Exercise referral (n¼117)"
+          ]
+        },
+        {
+          "value": "89.9)",
+          "rowHeaders": [
+            "Diabetes self-reported, % (95% CI)",
+            "Physical activity stage of change, % (95% CI)b",
+            "Hypertension only (HTN), % (95% CI)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Exercise referral (n¼117)"
+          ]
+        },
+        {
+          "value": "78.9 (70.3,",
+          "rowHeaders": [
+            "Diabetes self-reported, % (95% CI)",
+            "Physical activity stage of change, % (95% CI)b",
+            "Hypertension only (HTN), % (95% CI)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Brief counseling (n¼ 115)"
+          ]
+        },
+        {
+          "value": "86.02)",
+          "rowHeaders": [
+            "Diabetes self-reported, % (95% CI)",
+            "Physical activity stage of change, % (95% CI)b",
+            "Hypertension only (HTN), % (95% CI)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Brief counseling (n¼ 115)"
+          ]
+        },
+        {
+          "value": "0.34",
+          "rowHeaders": [
+            "Diabetes self-reported, % (95% CI)",
+            "Fruit and vegetable consumption (5 per day), % (95% CI)",
+            "Hypertension only (HTN), % (95% CI)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "p-value"
+          ]
+        },
+        {
+          "value": "16.2 (9.6,",
+          "rowHeaders": [
+            "Diabetes self-reported, % (95% CI)",
+            "HTN þ other, % (95% CI)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Exercise referral (n¼117)"
+          ]
+        },
+        {
+          "value": "27.8)",
+          "rowHeaders": [
+            "Diabetes self-reported, % (95% CI)",
+            "HTN þ other, % (95% CI)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Exercise referral (n¼117)"
+          ]
+        },
+        {
+          "value": "21.1 (13.9,",
+          "rowHeaders": [
+            "Diabetes self-reported, % (95% CI)",
+            "HTN þ other, % (95% CI)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Brief counseling (n¼ 115)"
+          ]
+        },
+        {
+          "value": "32.9)",
+          "rowHeaders": [
+            "Diabetes self-reported, % (95% CI)",
+            "HTN þ other, % (95% CI)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Brief counseling (n¼ 115)"
+          ]
+        },
+        {
+          "value": "0.48",
+          "rowHeaders": [
+            "BMI Mean (SEM)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Exercise referral (n¼117)"
+          ]
+        },
+        {
+          "value": "29.2 þ",
+          "rowHeaders": [
+            "BMI Mean (SEM)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Brief counseling (n¼ 115)"
+          ]
+        },
+        {
+          "value": "0.43",
+          "rowHeaders": [
+            "BMI Mean (SEM)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Brief counseling (n¼ 115)"
+          ]
+        },
+        {
+          "value": "0.11",
+          "rowHeaders": [
+            "BMI Mean (SEM)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "p-value"
+          ]
+        },
+        {
+          "value": "42.2 (33.1,",
+          "rowHeaders": [
+            "Diabetes self-reported, % (95% CI)",
+            "Overweight, Z25 kg/m2",
+            ", % (95% CI)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Exercise referral (n¼117)"
+          ]
+        },
+        {
+          "value": "51.7)",
+          "rowHeaders": [
+            "Diabetes self-reported, % (95% CI)",
+            "Overweight, Z25 kg/m2",
+            ", % (95% CI)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Exercise referral (n¼117)"
+          ]
+        },
+        {
+          "value": "42.6 (33.4,",
+          "rowHeaders": [
+            "Diabetes self-reported, % (95% CI)",
+            "Overweight, Z25 kg/m2",
+            ", % (95% CI)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Brief counseling (n¼ 115)"
+          ]
+        },
+        {
+          "value": "52.2)",
+          "rowHeaders": [
+            "Diabetes self-reported, % (95% CI)",
+            "Overweight, Z25 kg/m2",
+            ", % (95% CI)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Brief counseling (n¼ 115)"
+          ]
+        },
+        {
+          "value": "0.81",
+          "rowHeaders": [
+            "Diabetes self-reported, % (95% CI)",
+            "Overweight, Z25 kg/m2",
+            ", % (95% CI)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "p-value"
+          ]
+        },
+        {
+          "value": "43.1 (33.9,",
+          "rowHeaders": [
+            "Diabetes self-reported, % (95% CI)",
+            "Physical activity stage of change, % (95% CI)b",
+            "Obese, Z0 kg/m2, % (95% CI)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Exercise referral (n¼117)"
+          ]
+        },
+        {
+          "value": "52.6)",
+          "rowHeaders": [
+            "Diabetes self-reported, % (95% CI)",
+            "Physical activity stage of change, % (95% CI)b",
+            "Obese, Z0 kg/m2, % (95% CI)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Exercise referral (n¼117)"
+          ]
+        },
+        {
+          "value": "49.5)",
+          "rowHeaders": [
+            "Diabetes self-reported, % (95% CI)",
+            "Fruit and vegetable consumption (5 per day), % (95% CI)",
+            "Obese, Z0 kg/m2, % (95% CI)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Brief counseling (n¼ 115)"
+          ]
+        },
+        {
+          "value": "29.1 (21,",
+          "rowHeaders": [
+            "Meet PA recommendationa"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Exercise referral (n¼117)"
+          ]
+        },
+        {
+          "value": "38.1)",
+          "rowHeaders": [
+            "Meet PA recommendationa"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Exercise referral (n¼117)"
+          ]
+        },
+        {
+          "value": "28.4)",
+          "rowHeaders": [
+            "Meet PA recommendationa"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Brief counseling (n¼ 115)"
+          ]
+        },
+        {
+          "value": "0.10",
+          "rowHeaders": [
+            "Meet PA recommendationa"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "p-value"
+          ]
+        },
+        {
+          "value": "0.00",
+          "rowHeaders": [
+            "6-min walk test peak heart rate (beats/min), M (SEM)",
+            "Physical activity stage of change, % (95% CI)b"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "p-value"
+          ]
+        },
+        {
+          "value": "9.4 (4.7,",
+          "rowHeaders": [
+            "Contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Exercise referral (n¼117)"
+          ]
+        },
+        {
+          "value": "16.2)",
+          "rowHeaders": [
+            "Contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Exercise referral (n¼117)"
+          ]
+        },
+        {
+          "value": "36.5 (27.7,",
+          "rowHeaders": [
+            "Contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Brief counseling (n¼ 115)"
+          ]
+        },
+        {
+          "value": "46.01)",
+          "rowHeaders": [
+            "Contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Brief counseling (n¼ 115)"
+          ]
+        },
+        {
+          "value": "0.13",
+          "rowHeaders": [
+            "Contemplation"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "p-value"
+          ]
+        },
+        {
+          "value": "53.8 (44.4,",
+          "rowHeaders": [
+            "Preparation"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Exercise referral (n¼117)"
+          ]
+        },
+        {
+          "value": "63.1)",
+          "rowHeaders": [
+            "Preparation"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Exercise referral (n¼117)"
+          ]
+        },
+        {
+          "value": "30.4 (22.2,",
+          "rowHeaders": [
+            "Preparation"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Brief counseling (n¼ 115)"
+          ]
+        },
+        {
+          "value": "39.7)",
+          "rowHeaders": [
+            "Preparation"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Brief counseling (n¼ 115)"
+          ]
+        },
+        {
+          "value": "0.70",
+          "rowHeaders": [
+            "Preparation"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "p-value"
+          ]
+        },
+        {
+          "value": "23.9 (16.5,",
+          "rowHeaders": [
+            "Action"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Exercise referral (n¼117)"
+          ]
+        },
+        {
+          "value": "32.7)",
+          "rowHeaders": [
+            "Action"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Exercise referral (n¼117)"
+          ]
+        },
+        {
+          "value": "26.1 (18.3,",
+          "rowHeaders": [
+            "Action"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Brief counseling (n¼ 115)"
+          ]
+        },
+        {
+          "value": "35.1)",
+          "rowHeaders": [
+            "Action"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Brief counseling (n¼ 115)"
+          ]
+        },
+        {
+          "value": "0.003",
+          "rowHeaders": [
+            "Action"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "p-value"
+          ]
+        },
+        {
+          "value": "12.8 (7.3,",
+          "rowHeaders": [
+            "Maintenance"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Exercise referral (n¼117)"
+          ]
+        },
+        {
+          "value": "20.2)",
+          "rowHeaders": [
+            "Maintenance"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Exercise referral (n¼117)"
+          ]
+        },
+        {
+          "value": "6.9 (3,",
+          "rowHeaders": [
+            "Maintenance"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Brief counseling (n¼ 115)"
+          ]
+        },
+        {
+          "value": "13.2)",
+          "rowHeaders": [
+            "Maintenance"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Brief counseling (n¼ 115)"
+          ]
+        },
+        {
+          "value": "0.001",
+          "rowHeaders": [
+            "Maintenance"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "p-value"
+          ]
+        },
+        {
+          "value": "11.3 (6.1,",
+          "rowHeaders": [
+            "6-min walk test peak heart rate (beats/min), M (SEM)",
+            "Tobacco consumption, % (95% CI)c"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Exercise referral (n¼117)"
+          ]
+        },
+        {
+          "value": "18.5)",
+          "rowHeaders": [
+            "6-min walk test peak heart rate (beats/min), M (SEM)",
+            "Tobacco consumption, % (95% CI)c"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Exercise referral (n¼117)"
+          ]
+        },
+        {
+          "value": "7.8 (3.6,",
+          "rowHeaders": [
+            "6-min walk test peak heart rate (beats/min), M (SEM)",
+            "Tobacco consumption, % (95% CI)c"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Brief counseling (n¼ 115)"
+          ]
+        },
+        {
+          "value": "14.3)",
+          "rowHeaders": [
+            "6-min walk test peak heart rate (beats/min), M (SEM)",
+            "Tobacco consumption, % (95% CI)c"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Brief counseling (n¼ 115)"
+          ]
+        },
+        {
+          "value": "0.37",
+          "rowHeaders": [
+            "6-min walk test peak heart rate (beats/min), M (SEM)",
+            "Tobacco consumption, % (95% CI)c"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "p-value"
+          ]
+        },
+        {
+          "value": "2.6 (0.5,7.4)",
+          "rowHeaders": [
+            "6-min walk test peak heart rate (beats/min), M (SEM)",
+            "Fruit and vegetable consumption (5 per day), % (95% CI)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Exercise referral (n¼117)"
+          ]
+        },
+        {
+          "value": "9.6 (4.8,",
+          "rowHeaders": [
+            "6-min walk test peak heart rate (beats/min), M (SEM)",
+            "Fruit and vegetable consumption (5 per day), % (95% CI)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Brief counseling (n¼ 115)"
+          ]
+        },
+        {
+          "value": "16.5)",
+          "rowHeaders": [
+            "6-min walk test peak heart rate (beats/min), M (SEM)",
+            "Fruit and vegetable consumption (5 per day), % (95% CI)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Brief counseling (n¼ 115)"
+          ]
+        },
+        {
+          "value": "0.02",
+          "rowHeaders": [
+            "6-min walk test peak heart rate (beats/min), M (SEM)",
+            "Fruit and vegetable consumption (5 per day), % (95% CI)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "p-value"
+          ]
+        },
+        {
+          "value": "4.0 þ (0.18)",
+          "rowHeaders": [
+            "Geographical"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Exercise referral (n¼117)"
+          ]
+        },
+        {
+          "value": "4.7 þ (0.24)",
+          "rowHeaders": [
+            "Geographical"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Brief counseling (n¼ 115)"
+          ]
+        },
+        {
+          "value": "0.01",
+          "rowHeaders": [
+            "Geographical"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "p-value"
+          ]
+        },
+        {
+          "value": "3.1 þ (0.15)",
+          "rowHeaders": [
+            "Financial"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Exercise referral (n¼117)"
+          ]
+        },
+        {
+          "value": "2.7 þ (0.15)",
+          "rowHeaders": [
+            "Financial"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Brief counseling (n¼ 115)"
+          ]
+        },
+        {
+          "value": "0.11",
+          "rowHeaders": [
+            "Financial"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "p-value"
+          ]
+        },
+        {
+          "value": "2.7 þ (0.14)",
+          "rowHeaders": [
+            "Administrative"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Exercise referral (n¼117)"
+          ]
+        },
+        {
+          "value": "4.9 þ (0.23)",
+          "rowHeaders": [
+            "Administrative"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Brief counseling (n¼ 115)"
+          ]
+        },
+        {
+          "value": "0.001",
+          "rowHeaders": [
+            "Administrative"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "p-value"
+          ]
+        },
+        {
+          "value": "1.2 þ (0.06)",
+          "rowHeaders": [
+            "Family support"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Exercise referral (n¼117)"
+          ]
+        },
+        {
+          "value": "1.2 þ (0.07)",
+          "rowHeaders": [
+            "Family support"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Brief counseling (n¼ 115)"
+          ]
+        },
+        {
+          "value": "0.64",
+          "rowHeaders": [
+            "Family support"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "p-value"
+          ]
+        },
+        {
+          "value": "1.6 þ (0.09)",
+          "rowHeaders": [
+            "Time available"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Exercise referral (n¼117)"
+          ]
+        },
+        {
+          "value": "1.4 þ (0.09)",
+          "rowHeaders": [
+            "Time available"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Brief counseling (n¼ 115)"
+          ]
+        },
+        {
+          "value": "0.23",
+          "rowHeaders": [
+            "Time available"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "p-value"
+          ]
+        },
+        {
+          "value": "27.6 þ (0.46)",
+          "rowHeaders": [
+            "Social support, M (0-60) (SEM)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Exercise referral (n¼117)"
+          ]
+        },
+        {
+          "value": "28.7 þ (0.51)",
+          "rowHeaders": [
+            "Social support, M (0-60) (SEM)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Brief counseling (n¼ 115)"
+          ]
+        },
+        {
+          "value": "0.10",
+          "rowHeaders": [
+            "Social support, M (0-60) (SEM)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "p-value"
+          ]
+        },
+        {
+          "value": "469.8 þ (8.3)",
+          "rowHeaders": [
+            "6-min walk test peak heart rate (beats/min), M (SEM)",
+            "Meters walked in 6 minutes, M (SEM)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Exercise referral (n¼117)"
+          ]
+        },
+        {
+          "value": "79.7% (69.5-87.7)",
+          "rowHeaders": [
+            "6-min walk test peak heart rate (beats/min), M (SEM)",
+            "Low fitness, % (95% CI)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Exercise referral (n¼117)"
+          ]
+        },
+        {
+          "value": "95.1 þ (2.3)",
+          "rowHeaders": [
+            "6-min walk test peak heart rate (beats/min), M (SEM)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Table 1. Baseline Characteristics Among Exercise Referral and Brief Counseling Groups, Cuernavaca, Mexico 2012",
+            "Exercise referral (n¼117)"
+          ]
+        }
+      ],
+      "page": 1
+    }
+  ]
+}

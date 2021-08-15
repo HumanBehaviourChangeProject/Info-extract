@@ -1,0 +1,378 @@
+{
+  "blocks": [
+    {
+      "type": "LINES",
+      "value": "Effectiveness of YouRAction, an Intervention to Promote Adolescent Physical Activity Using Personal and Environmental Feedback: A Cluster RCT",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "In this study the one and six months effects of the computer-tailored YouRAction (targeting individual level determinants) and YouRAction+e (targeting in addition perceived environmental determinants) on compliance with the moderate-to-vigorous physical activity (MVPA) guideline and weight status are examined. In addition the use and appreciation of both interventions are studied.\nMethods: A three-armed cluster randomized trial was conducted in 2009-2010 with measurements at baseline, one and six months post intervention. School classes were assigned to one of the study arms (YouRaction, YouRAction+e and Generic Information (GI) control group). MVPA was derived from self-reports at baseline, one and six months post intervention. Body Mass Index and waist circumference were measured at baseline and six months post intervention in a random sub-sample of the population. Use of the interventions was measured by webserver logs and appreciation by self-reports. Multilevel regression analyses were conducted to study the effects of the intervention against the GI control group. ANOVA's and chisquare tests were used to describe differences in use and appreciation between study arms.\nResults: There were no statistically significant intervention effects on compliance with the MVPA guideline, overweight or WC. Access to the full intervention was significantly lower for YouRAction (24.0%) and YouRAction+e (21.7%) compared to the GI (54.4%).\nThis study could not demonstrate that the YouRAction and YouRAction+e interventions were effective in promoting MVPA or improve anthropometric outcomes among adolescents, compared to generic information. Insufficient use and exposure to the intervention content maybe an explanation for the lack of effects.",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Promoting physical activity (PA) among adolescents is a public health priority, especially because most adolescents in the Netherlands -like elsewhere do not meet the guideline of being moderate-to-vigorously physically active (MVPA) for at least one hour each day. Additionally, various studies show that PA further declines during adolescence and tracks to a certain extent from adolescence to adulthood. In sum, there is an indisputable need to promote PA among adolescents.\nPA levels can be promoted if interventions target important and modifiable determinants, use theory and evidence based behaviour change methodologies and fit with the target group. Current evidence and theoretical insights suggest that motivational (e.g. intention to be active and attitude towards PA)\nas well as environmental level determinants (e.g. availability of facilities to be active) should be addressed in interventions to improve PA among adolescents. It is likely that there is a large variability in PA levels, awareness of one's own PA level, attitude, self-efficacy, intention to change and opportunities to be active in the residential neighbourhood among adolescents. In promoting PA it is, therefore, important to take these individual differences into account and to adapt the educational content to the behaviour, circumstances and beliefs of each individual adolescent. Computer tailoring is a health education technique that makes such an adaptation of information to individual characteristics possible. Various reviews show that computer-tailoring is a promising technique to promote health behaviours and also PA among adolescents. In addition, it has been shown that compared to information delivered through traditional or print information, computer-based information delivery suited adolescents better. Therefore, a web-based computer-tailored intervention would be a promising intervention strategy to promote PA among adolescents. While socio-ecological models indicate that both individual and (physical) environmental factors are determinants of PA, to date most computer-tailored interventions solely provided tailored feedback on individual level determinants. To promote MVPA among adolescents and to gain insight in the additional effect of incorporating environmental feedback in computer-tailored interventions two versions of the computer tailored Youth of Rotterdam in Action (YouRAction) intervention were developed. The basic YouRAction intervention targets individual level determinants, whereas the YouRAction+e intervention targets individual and perceived environmental determinants (e.g. awareness of availability of sports facilities in the residential neighbourhood). Both versions of the intervention are web-based and developed for use in school classes. The present paper describes the evaluation of the effects of the comprehensive YouRAction interventions as compared to generic information among Dutch adolescents.\nThe technique of computer tailoring facilitates adaptation of information to individual characteristics and is, therefore, expected to be effective for all adolescents regardless of their gender, ethnic background and educational level. Recently, it has been shown that a computer-tailored intervention aimed to increase PA among Flemish adolescents was indeed equally effective across educational groups. Nevertheless, it remains important to evaluate whether tailored interventions are equally effective in relevant subgroups.\nThe aims of this study are to 1) evaluate the effectiveness of the YouRAction and YouRAction+e interventions on compliance with the MVPA guideline and minutes per day spend in MVPA among adolescents in the first year of secondary education in a cluster randomized trial with a generic information (GI) control group 2) evaluate the effectiveness of the two interventions on overweight and waist circumference (WC) in a sub-sample of the study population, 3) explore differential intervention effects for boys and girls, adolescents attending higher and lower levels of education and adolescents with a Western or non-Western ethnic background, and 4) describe use and appreciation of the interventions.\nWe hypothesized that after exposure to the intervention 1) in the YouRAction and YouRAction+e groups compliance with the MVPA guideline is 10% higher as compared to the GI control group atone and six months post-intervention and that average daily minutes spend in MVPA will be higher in the YouRAction and YouRAction+e groups; 2) the sub-sample of adolescents who are allocated to the intervention groups will be more likely to have a normal weight and WC compared to the GI group at six months post-intervention;\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "A three-armed cluster randomized controlled trial was conducted in 2009-2010 with measurements at baseline, one and sixmonths post-intervention. School classes (clusters) were randomly assigned to one of the study arms (i.e. YouRAction, YouRAc-tion+e, GI), in a computer determined sequence. Randomization was done in blocks of nine classes, to ensure that equal numbers of classes were assigned to each study arm. The random allocation sequence was concealed until the study arms were assigned.\nData on demographics, PA behaviour and determinants were collected at all time points by means of questionnaires administered during a school hour. Completion of the questionnaires was supervised through a research assistant (who was blinded to group assignment) and a teacher. Height, weight and WC were measured by a trained research assistant at baseline and six months postintervention in a sub-sample of the study population.\nThe Medical Ethics Committee of the Erasmus Medical Center approved this trial. This trial is registered in the Netherlands Trial Registry (NTR1923). The protocol for this trial and supporting CONSORT checklist are available as supporting information; see Checklist S1 and Protocol S1.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Participants were adolescents aged 12-13 years, in their first year of secondary school, since this was the target group of the interventions. As a first step in recruitment, the health coordinators of 69 schools in the area of Rotterdam (the Netherlands) were contacted by phone. If they were interested in participating, a brochure with more detailed information about the intervention content and the research procedure was send to the schools and a member of the research team visited the schools for further information exchange and planning. In each participating school between 1 and 12 classes (depending on the size of the school), in which regular secondary education was given, were selected for participation. All adolescents in the selected classes were invited to take part in the study.\nBased on a sample size calculation, 17 classes with on average 22 adolescents per class would be needed in each study arm, to detect a 10% difference in compliance with the MVPA guideline at six months post-intervention, compared to the GI group (alpha = 0.05, power = 0.80, ICC = 0.02, expected %compliance with the MVPA guideline in the GI group = 15%).\nIn total 54 classes, from 12 schools, in Rotterdam and surroundings were recruited. Prior to the baseline measurement, adolescents and their parents received detailed information about the trial. Based on this information, the adolescent and his/her parent or carer could decide to decline participation in the trial by returning a written objection form. Of the 1240 adolescents, 27 (2.2%) declined to participate in the study; 1213 adolescents were included in the trial.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The aim of the interventions was to promote compliance with the MVPA guideline by 10%. Following the previously published protocol, this is assessed by the primary outcome measures compliance with the MVPA guideline and minutes spent in MVPA, based on self-reported PA behaviour. Secondary outcome measures were objectively measured PA and objectively assessed BMI and waist-circumference.\nPrimary outcome measures: Compliance with MVPA guideline and minutes spent in MVPA. Compliance with the MVPA guideline and minutes spent in MVPA was calculated for all three time points (baseline, one month and six months postintervention).\nCompliance with the MVPA guideline was assessed by using one item of the PACE+ sixty-minute screening measure for MVPA ''Over the past 7 days, on how many days were you physically active fora total of at least 60 minutes per day?''; 0-7; test-retest ICC = 0.72, r: 0.37, p,0.01 for correlation with accelerometer). This measure was dichotomized into compliance (1; i.e. 7 days at least 60 minutes in MVPA) vs non-compliance (0; i.e. less than 7 days at least 60 minutes in MVPA).\nMinutes spent in MVPA was assessed with an adapted version of the Activity QUestionnaire for Adolescents & Adults (AQUAA; test-retest ICC = 0.54 for moderate-to-vigorous activities, r = 20.23, p.0.05 for correlation with accelerometer). In the adapted version of the questionnaire the frequency (in days per week) and duration (in minutes per day) of walking and cycling to school, walking and cycling in leisure time and participation in sports during the past 7 days were assessed. A MET-score was attached to all activities, based on the compendium of Energy Expenditures for Youth, assuming that activities were done at moderate effort. PA of more than 10 hours per day was considered to be unrealistic and therefore these values were re-coded to missing values. A MVPA score was created by summing the average daily minutes of activities higher than 5 MET, as recommended by the Dutch MVPA guideline. Because data were skewed (skewness ranged from 3.51 to 3.85), the log transformed (natural logarithm) variable was used in the analyses.\nSecondary outcome measures: Anthropometrics and accelerometers. At baseline and six months post-intervention, body weight, body height and WC were measured by trained research assistants in a random subsample (40% of total sample) of adolescents. A calibrated electronic scale (SECA 888) was used to measure body weight with an accuracy of 0.2 kg. A portable height rod (SECA 225) was used to determine body height to the nearest 0.1 cm. Adolescents were measured in their underwear, without shoes. At each measurement height was measured twice and the average value was considered to be the height of the adolescent. Body Mass Index (BMI) was calculated by using the measured height and weight (kg/m 2 ). BMI cut points for adolescents, as defined from the International Obesity Task Force (IOTF), were used to categorize adolescents in ''normal weight'' (including underweight), ''overweight'' and ''obese''.\nWC was measured twice to the nearest 0.1 cm, using SECA 200 circumference measuring tapes. If there was more than 1.0 cm difference between the two measurements, two additional measurements were taken. The average of the last two measures of WC was used as the measure for waist circumference.\nAt baseline, one month and six months post intervention a random 10% subsample of adolescents was asked to wear an accelerometer (Actigraph GT3X) on his or her right hip, for one week, to measure physical activity. Due to high loss of accelerometer data (mainly due to non-wear), too few (i.e. 15) adolescents had full data; therefore it was decided not to conduct analyses and present results for the accelerometer data.\nDemographics. At baseline, questions on date of birth (to calculate age), gender, country of birth of the adolescent and both parents (to determine ethnic background), and the level of education that the adolescent attended (i.e. lower vocational education (lower education) or secondary education preparing for further college or university training (higher education)) were included. Ethnicity was defined according to the procedures of Statistics Netherlands; an adolescent was considered to be of Western background if both parents were born in Europe, North America, Oceania, Indonesia or Japan. If at least one parent was born elsewhere, the adolescent was considered to be of non-Western background. Hence, a dichotomous measure of ethnicity was constructed: Western background (1) vs non-Western background (0).\nProcess evaluation measures on use and appreciation. To assess self-reported exposure to the intervention, adolescents in the YouRAction, YouRAction+e or GI groups reported in how many lessons they had used their assigned intervention (none (0), 1 (1), 2 (2), 3 (3), more than 3 (4)). Additionally adolescents were asked if and how often they had made the YouRAction were obtained on homework assignment (no (0), yes, once (1), yes, twice (2), yes, three times ()). This latter variable was dichotomized into 'none' (0) versus ''made at least one homework assignment''. Objective data on intervention usage were obtained from web server logs (i.e. login frequency, modules accessed). Data were obtained for the number of times an adolescent (attempted) to log-in and for access to the first page of each lesson.\nIn the one month post-intervention questionnaire process measures appreciation, personal relevance, quality, usefulness and usability of the intervention content, as well as technical problems encountered when accessing the intervention (Appendix S1).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The YouRAction interventions are web-based computer tailored PA promotion interventions which were systematically developed based on the Intervention Mapping protocol. These interventions were meant for use in a school-based setting, mainly as part of classroom activities. Teachers were instructed by research staff on how to implement the intervention and they received a teacher manual to assist them in implementing the intervention. The YouRAction interventions consisted of three sessions that could be worked through during three lessons, and homework assignments that were provided after the second and third lesson. All adolescents in one class logged in to the website simultaneously and worked through the class assigned intervention individually. Hereafter the YouRAction interventions will be briefly described; a more thorough description is published elsewhere.\nYouRAction. All three lessons consisted of one or more selfregulatory phases (i.e. monitoring, motivational, goal setting, active goal pursuit and evaluation phases). In the first lesson the focus was on improving knowledge about MVPA and how much activity adolescents should engage in. Subsequently awareness of one's own PA level was increased (monitoring phase). In the second and third lesson the adolescents were motivated (by targeting attitudes, self-efficacy, subjective norm) to make a change in one of the PA sub-behaviours (active transport, leisure time activity or sports), depending on the feedback on their personal PA level (motivational phase). Subsequently adolescents could state a goal and form an action plan for how they wanted to improve their PA level (goal setting phase). Ina week in between two lessons adolescents could evaluate whether they had enacted their plans and achieved their goals (phase of active goal pursuit). They could also make plans for how to deal with difficult situations they had encountered and state anew goal (evaluation phase). Most elements in the YouRAction intervention were theory based and translated in written feedback, cartoons, quizzes and web-movies.\nYouRAction+e. The content of the YouRAction+e is identical to the basic YouRAction intervention, but in addition provides feedback on the availability of PA facilities in the residential neighbourhood of the adolescent via GoogleMaps. This was done by displaying facilities to be active with icons in GoogleMaps; adolescents could click on these icons to get more extensive information about the facility (e.g. website, specific information about sports that could be done).\nThe YouRAction interventions were pilot tested among 133 adolescents from 7 classes on comprehensibility and usability. During this pilot test performance problems were observed (slow website), when a whole class used the intervention. These problems were resolved by the software developers by installing a web server with higher capacity and optimization of processing of tailoring algorithms.\nGI. The GI group received a non-tailored website containing general information on PA and healthy eating. This website was designed for 3 lessons and was also implemented in a class setting by teachers. The visual design of this website was identical to the design of the YouRAction and YouRAction+e interventions. This intervention was also called YouRAction.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Multinomial regression analyses were used to check equality of study groups for adolescents with baseline data. In these regressions, intervention condition was the dependent variable and gender, ethnicity, education and compliance to the MVPA guideline were the independent variables.\nLogistic regression analyses were performed to study whether there was selective drop-out at first and second follow-up assessment. Dropout (in analysis (1)/not in analysis (0)) was regressed on demographics (i.e. gender, age, ethnicity, education), intervention group and compliance with the MVPA guideline at baseline.\nThe effectiveness of YouRAction and YouRAction+e was studied by means of multilevel logistic (for compliance with the MVPA guideline, % overweight) and linear (for average minutes of MVPA, WC) regression analyses, taking possible clustering of students in school classes into account. Separate analyses were performed for the one and six month assessments. The outcome variables assessed atone and six months post-intervention (i.e. compliance with the MVPA guideline, minutes spend in MVPA, body mass index and waist circumference) were regressed on two dummy variables, indicating the YouRAction and YouRAction+e interventions, with the GI as the reference group and the baseline value of the outcome measure understudy. The analyses were further adjusted for demographic factors that significantly differed between study arms at baseline.\nSubsequently it was explored whether gender, ethnicity or level of education moderated the effects of YouRAction and YouR-Action+e on compliance with the MVPA guideline and daily minutes spend in MVPA. This was done by adding, for both interventions simultaneously, an ''intervention dummy * demographic factor'' interaction term to the regression analysis. If these interaction terms were statistically significant at p,0.10, stratified analyses were conducted. Complete case and intention-to-treat with last observation carried forward analyses were conducted. The data and results from the complete case analyses are presented in the tables.\nANOVA's (continuous outcomes) and chi-square tests (dichotomous outcomes) were used to describe group differences in use of the assigned intervention. For adolescents who used their assigned interventions at least once, appreciation of the intervention was also assessed with ANOVA's and chi-square tests.\nExcept for interaction terms, results with a p-value lower than 0.05 fora two-sided test were considered to be statistically significant. All analyses were conducted in STATA 11.0.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "A total of 12 schools with a total of 54 classes and 1213 adolescents participated in the study (Figure). In one school seven classes dropped out after allocation, due to logistic problems at that school. No evidence for selective drop-out between baseline and first follow-up was found. However, adolescents in vocational classes and boys were more likely to have dropped out at the second follow-up. Table shows background information of the participants included in the complete case analyses. The proportion of students attending lower level education was significantly lower in the GI group and all analyses were therefore adjusted for level of education.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Table shows that there were no statistically significant group differences on compliance with the MVPA guideline or minutes spend in MVPA at any of the post-intervention measurements. Table further shows that there were no statistically significant effects of the YouRAction and YouRAction+e interventions on prevalence of overweight including obesity, and WC at the six months post-intervention measurements. Intention-to-treat analyses resulted in similar, non-significant results.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Explorative interaction analyses showed that there was no statistically significant interaction between the dummy variables for intervention groups and gender or education. However, there was a statistically significant interaction between the dummy variable for the YouRAction program and ethnic background on compliance with MVPA guideline at six months post-intervention (Beta: -1.33, 90% CI: -2.59;-0.08). Stratified analyses showed that adolescents of non-Western background in the YouRAction group had lower compliance with the MVPA guideline at the six months post-intervention measurement compared to adolescents in the GI group (Table).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The self-reported number of lessons in which the intervention was used did not differ significantly between the groups. However, webserver logs showed that adolescents in the YouRAction and YouRAction+e group signed in significantly more often than adolescents in the GI. In total 91.3% of the adolescents in YouRAction accessed the second lesson as compared to 71.9% in the GI group (p,0.01) and 78.7% in the YouRAction+e group (p = 0.02). However, access to the third lesson was significantly lower for the YouRAction (24.0%, p,0.01) and YouRAction+e groups (21.7%, p,0.01) when compared to the GI group (54.4%) (Table).\nWith regard to most measures of appreciation of the intervention and the content of the advice and usability of the intervention content no differences between the three study arms were found (Table). However, adolescents in the GI group liked the intervention more than adolescents in the YouRAction group (Table). The YouRAction+e intervention was perceived as more personally relevant than the GI. Technical problems were more often reported by adolescents in the YouRAction group (43.0%, p,0.01) and YouRAction+e group (34.0%, p,0.01) than by those in the GI group (16.4%). More specifically, a slow intervention was a technical problem that was more prevalent among adolescents who received YouRAction (39.2%, p,0.01) and YouRAction+e (25.9%, p = 0.02) as compared to the GI intervention (13.9%) (Table).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "In contrast to our hypothesis and results reported earlier in the scientific literature we could not demonstrate that the computer-tailored YouRAction and YouRAction+e interventions were more effective than a general information intervention in promoting MVPA or weight related outcomes among adolescents; Table. Baseline class and adolescent characteristics of adolescents incomplete case analyses for the YouRAction, YouRAction+e, GI and total group. in explorative analyses some evidence was even found that YouRAction had a negative effect on compliance with the MVPA guideline for adolescents with a non-Western ethnic background. However, the results on negative effects among non-Western adolescents should be interpreted with care, as the low absolute numbers of non-Western adolescents complying with the MVPA guideline may have caused instable results. If confirmed in other studies, future interventions should address these potential differences in intervention effects with regard to ethnicity. Our results showed that the exposure to the tailored interventions was lower than intended and significantly lower than the GI group, which may have affected the potential for finding an effective intervention. Because of the self-regulatory structure of the interventions, the hypothesized effect was dependent on repeated exposure to the intervention. Therefore, it is unclear what the potential effectiveness of a theory and evidence based computertailored intervention is under more favourable implementation conditions and what the added effect of environmental feedback can be. The tailored interventions were developed according to the Intervention Mapping protocol, which facilitates that the intervention is strongly rooted in behaviour change theory.\nTable. Baseline and post-intervention mean scores (SD) or percentages for compliance with the MVPA guideline, minutes spend in MVPA, weight status and waist-circumference and unstandardized regression coefficients from the regression analyses with GI group as reference.  The interventions included a large number of theory based change strategies and were rather extensive. Participants had to complete a substantial number of questions to receive sufficiently tailored feedback on a range of potential behavioural determinants. As a result considerable amounts of data needed to be loaded when adolescents logged in to the website. When many adolescents worked simultaneously on the YouRAction interventions, this caused severe load on the server, resulting in a slow intervention program and log-in problems. Perceived slowness was significantly more prevalent in both YouRAction interventions. The YouRAction interventions were tested extensively before broader implementation, but the problems with regard to higher number of participants evidently only appeared when the intervention was used on a larger scale. It is, therefore, recommended that stresstesting of a program to assess performance of a web-based intervention when multiple people log-in simultaneously are performed in addition to pre-tests in the setting in which the intervention takes place. Besides sub-optimal implementation, factors in the intervention and study design may have further limited the detection of potential intervention effects. First, the evidence for most of the methods used to modify determinants is derived from studies among adults and there is only limited evidence as to how effective these specific strategies are for an adolescent target group. Most of these methods were based on theory, but no empirical evidence is available for their effectiveness when incorporated in a computer-tailored intervention developed for adolescents. Future studies need to examine which methodologies are effective in computer-tailored intervention for adolescents. Secondly, in the design of our evaluation study, the use of a control group that received an intervention is likely to have impacted our findings. It has been shown that effect sizes tend to be lower for computertailored interventions that were tested against a generic information control group as compared to a no-intervention control group. However, the design we used allows drawing conclusions about the effects of tailoring and not only about the effects of an intervention as such.\nDespite the fact that we could not demonstrate the effectiveness of the YouRAction and YouRAction+e interventions, we think it is too early to suggest that the content of the programs or tailoring is ineffective; rather efforts are needed to optimize the implementation and use of these interventions. Therefore, we recommend pursuing research on tailoring and more specifically tailoring with environmental feedback to promote PA among adolescents. The effectiveness of such interventions has not been evaluated a lot, and their effectiveness is relatively unknown but the technique has always been indicated as promising also in other studies. The incorporation of feedback on opportunities in the neighbourhood environment to be active was a unique feature of YouRAction+e. This strategy was found to be promising in supporting the promotion of PA among an older adult sample. However, this strategy has not been applied before in a web-based program for adolescents. Interestingly, the YouRAction+e intervention was perceived as more personally relevant and showed higher point estimates than the YouRAction intervention. Future studies aimed at promoting PA among adolescents should thus consider the incorporation of environmental feedback in tailoring.\nStrengths of the present study include the cluster randomized design and the use of measured anthropometrics in a sub-sample of the study population. Also the use of objective measures on exposure to the interventions is a strength of this study, where previous studies called upon. The use of a self-reported measure of PA is a limitation, as this maybe prone to information and social desirability bias. It maybe that adolescents who received one of the YouRAction interventions were more likely to report their PA more realistically (and thus lower) at the follow-up measures than the GI students, because they received tailored feedback about their levels of PA. Using objective measures of PA, such as accelerometers, may give insight into this; we planned to use accelerometers, however due to the high levels of data loss it was not possible to draw conclusions on the accelerometer data.\nIn conclusion, we could not demonstrate an effect of the theory and evidence based YouRAction and YouRAction+e interventions\n",
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "14.1%",
+          "rowHeaders": [
+            "GI (N = 242/k = 15)"
+          ],
+          "columnHeaders": [
+            "Table 3. Baseline and six month post intervention compliance with the MVPA guideline and unstandardized regression",
+            "% Compliance with MVPA",
+            "guideline at baseline"
+          ]
+        },
+        {
+          "value": "19.0%",
+          "rowHeaders": [
+            "GI (N = 242/k = 15)"
+          ],
+          "columnHeaders": [
+            "Table 3. Baseline and six month post intervention compliance with the MVPA guideline and unstandardized regression",
+            "% Compliance with MVPA guideline",
+            "at six months post-intervention"
+          ]
+        },
+        {
+          "value": "18.4%",
+          "rowHeaders": [
+            "YouRAction (N = 190/k = 15)"
+          ],
+          "columnHeaders": [
+            "Table 3. Baseline and six month post intervention compliance with the MVPA guideline and unstandardized regression",
+            "% Compliance with MVPA",
+            "guideline at baseline"
+          ]
+        },
+        {
+          "value": "15.8%",
+          "rowHeaders": [
+            "YouRAction (N = 190/k = 15)"
+          ],
+          "columnHeaders": [
+            "Table 3. Baseline and six month post intervention compliance with the MVPA guideline and unstandardized regression",
+            "% Compliance with MVPA guideline",
+            "at six months post-intervention"
+          ]
+        },
+        {
+          "value": "20.17 (20.81;0.46)",
+          "rowHeaders": [
+            "YouRAction (N = 190/k = 15)"
+          ],
+          "columnHeaders": [
+            "Table 3. Baseline and six month post intervention compliance with the MVPA guideline and unstandardized regression",
+            "Unstandardized regression",
+            "coefficients{(95% CI)"
+          ]
+        },
+        {
+          "value": "5.8%",
+          "rowHeaders": [
+            "GI (N = 52/k = 13)"
+          ],
+          "columnHeaders": [
+            "Table 3. Baseline and six month post intervention compliance with the MVPA guideline and unstandardized regression",
+            "% Compliance with MVPA",
+            "guideline at baseline"
+          ]
+        },
+        {
+          "value": "17.3%",
+          "rowHeaders": [
+            "GI (N = 52/k = 13)"
+          ],
+          "columnHeaders": [
+            "Table 3. Baseline and six month post intervention compliance with the MVPA guideline and unstandardized regression",
+            "% Compliance with MVPA guideline",
+            "at six months post-intervention"
+          ]
+        },
+        {
+          "value": "14.1%",
+          "rowHeaders": [
+            "YouRAction (N = 64/k = 15)"
+          ],
+          "columnHeaders": [
+            "Table 3. Baseline and six month post intervention compliance with the MVPA guideline and unstandardized regression",
+            "% Compliance with MVPA",
+            "guideline at baseline"
+          ]
+        },
+        {
+          "value": "4.7%",
+          "rowHeaders": [
+            "YouRAction (N = 64/k = 15)"
+          ],
+          "columnHeaders": [
+            "Table 3. Baseline and six month post intervention compliance with the MVPA guideline and unstandardized regression",
+            "% Compliance with MVPA guideline",
+            "at six months post-intervention"
+          ]
+        },
+        {
+          "value": "21.72 (23.18;20.25)*",
+          "rowHeaders": [
+            "YouRAction (N = 64/k = 15)"
+          ],
+          "columnHeaders": [
+            "Table 3. Baseline and six month post intervention compliance with the MVPA guideline and unstandardized regression",
+            "Unstandardized regression",
+            "coefficients{(95% CI)"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "2.46 (1.29)",
+          "rowHeaders": [
+            "Self-reported number of school lessons"
+          ],
+          "columnHeaders": [
+            "Table 4. Self-reported and objectively measured exposure to intervention content by intervention group and differences between",
+            "YouRAction",
+            "Mean(SD)"
+          ]
+        },
+        {
+          "value": "2.63 (1.32)",
+          "rowHeaders": [
+            "Self-reported number of school lessons"
+          ],
+          "columnHeaders": [
+            "Table 4. Self-reported and objectively measured exposure to intervention content by intervention group and differences between",
+            "YouRAction+e",
+            "Mean(SD))"
+          ]
+        },
+        {
+          "value": "2.50 (1.22)",
+          "rowHeaders": [
+            "Self-reported number of school lessons"
+          ],
+          "columnHeaders": [
+            "Table 4. Self-reported and objectively measured exposure to intervention content by intervention group and differences between",
+            "GI",
+            "Mean(SD)"
+          ]
+        },
+        {
+          "value": "2.49 (1.44)",
+          "rowHeaders": [
+            "Objective log in frequency"
+          ],
+          "columnHeaders": [
+            "Table 4. Self-reported and objectively measured exposure to intervention content by intervention group and differences between",
+            "YouRAction",
+            "Mean(SD)"
+          ]
+        },
+        {
+          "value": "2.68 (1.08)",
+          "rowHeaders": [
+            "Objective log in frequency"
+          ],
+          "columnHeaders": [
+            "Table 4. Self-reported and objectively measured exposure to intervention content by intervention group and differences between",
+            "YouRAction+e",
+            "Mean(SD))"
+          ]
+        },
+        {
+          "value": "2.20 (1.03)",
+          "rowHeaders": [
+            "Objective log in frequency"
+          ],
+          "columnHeaders": [
+            "Table 4. Self-reported and objectively measured exposure to intervention content by intervention group and differences between",
+            "GI",
+            "Mean(SD)"
+          ]
+        },
+        {
+          "value": "20.1%",
+          "rowHeaders": [
+            "Made at least 1 homework assignment"
+          ],
+          "columnHeaders": [
+            "Table 4. Self-reported and objectively measured exposure to intervention content by intervention group and differences between",
+            "YouRAction",
+            "Mean(SD)"
+          ]
+        },
+        {
+          "value": "21.0%",
+          "rowHeaders": [
+            "Made at least 1 homework assignment"
+          ],
+          "columnHeaders": [
+            "Table 4. Self-reported and objectively measured exposure to intervention content by intervention group and differences between",
+            "YouRAction+e",
+            "Mean(SD))"
+          ]
+        },
+        {
+          "value": "24.8%",
+          "rowHeaders": [
+            "Made at least 1 homework assignment"
+          ],
+          "columnHeaders": [
+            "Table 4. Self-reported and objectively measured exposure to intervention content by intervention group and differences between",
+            "GI",
+            "Mean(SD)"
+          ]
+        },
+        {
+          "value": "91.3%",
+          "rowHeaders": [
+            "Second lesson (% of visited first lesson)"
+          ],
+          "columnHeaders": [
+            "Table 4. Self-reported and objectively measured exposure to intervention content by intervention group and differences between",
+            "YouRAction",
+            "Mean(SD)"
+          ]
+        },
+        {
+          "value": "78.7%",
+          "rowHeaders": [
+            "Second lesson (% of visited first lesson)"
+          ],
+          "columnHeaders": [
+            "Table 4. Self-reported and objectively measured exposure to intervention content by intervention group and differences between",
+            "YouRAction+e",
+            "Mean(SD))"
+          ]
+        },
+        {
+          "value": "71.9%",
+          "rowHeaders": [
+            "Second lesson (% of visited first lesson)"
+          ],
+          "columnHeaders": [
+            "Table 4. Self-reported and objectively measured exposure to intervention content by intervention group and differences between",
+            "GI",
+            "Mean(SD)"
+          ]
+        },
+        {
+          "value": "0.02)",
+          "rowHeaders": [
+            "Second lesson (% of visited first lesson)",
+            "(p ="
+          ],
+          "columnHeaders": [
+            "Table 4. Self-reported and objectively measured exposure to intervention content by intervention group and differences between",
+            "GI",
+            "Significant differences"
+          ]
+        },
+        {
+          "value": "24.0%",
+          "rowHeaders": [
+            "Third lesson (% of visited first lesson)"
+          ],
+          "columnHeaders": [
+            "Table 4. Self-reported and objectively measured exposure to intervention content by intervention group and differences between",
+            "YouRAction",
+            "Mean(SD)"
+          ]
+        },
+        {
+          "value": "21.7%",
+          "rowHeaders": [
+            "Third lesson (% of visited first lesson)"
+          ],
+          "columnHeaders": [
+            "Table 4. Self-reported and objectively measured exposure to intervention content by intervention group and differences between",
+            "YouRAction+e",
+            "Mean(SD))"
+          ]
+        },
+        {
+          "value": "54.4%",
+          "rowHeaders": [
+            "Third lesson (% of visited first lesson)"
+          ],
+          "columnHeaders": [
+            "Table 4. Self-reported and objectively measured exposure to intervention content by intervention group and differences between",
+            "GI",
+            "Mean(SD)"
+          ]
+        }
+      ],
+      "page": 1
+    }
+  ]
+}

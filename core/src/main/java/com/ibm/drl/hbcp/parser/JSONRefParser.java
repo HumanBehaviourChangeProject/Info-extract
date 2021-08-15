@@ -13,6 +13,7 @@ import com.ibm.drl.hbcp.core.attributes.collection.AttributeValueCollection;
 import com.ibm.drl.hbcp.inforetrieval.indexer.BaseDirInfo;
 import com.ibm.drl.hbcp.parser.cleaning.typing.LineConsistencyChecker;
 import com.ibm.drl.hbcp.parser.jsonstructure.*;
+import com.ibm.drl.hbcp.util.Environment;
 import com.ibm.drl.hbcp.util.FileUtils;
 import com.ibm.drl.hbcp.util.ParsingUtils;
 import com.ibm.drl.hbcp.util.Props;
@@ -66,7 +67,8 @@ public class JSONRefParser implements JSONRefParserBase {
 
     protected static final String ARM_ATTRIBUTE_NAME = "Arm name";
     private static final List<String> CONTEXT_SEPARATORS = Lists.newArrayList(" ; ", " ;;; ");
-    private static Logger logger = LoggerFactory.getLogger(JSONRefParser.class);
+
+    private static final Logger logger = LoggerFactory.getLogger(JSONRefParser.class);
 
     /**
      * Parses a JSON file containing Behaviour Change annotations.
@@ -108,6 +110,15 @@ public class JSONRefParser implements JSONRefParserBase {
 
     public JSONRefParser(URL url) throws IOException, URISyntaxException {
         this(new File(url.toURI()));
+    }
+
+    /** Loads the annotations to train the prediction system (meant for use in the docker-compose setting) */
+    public static AttributeValueCollection<AnnotatedAttributeValuePair> loadAnnotationsForPredictionTraining() throws IOException {
+        File jsonFile = Environment.getAnnotationFileForPrediction();
+        logger.info("Parsing annotations for prediction: " + jsonFile);
+        // parse each file and add the annotations to a shared pool
+        JSONRefParser parsed = new JSONRefParser(jsonFile);
+        return parsed.getAttributeValuePairs();
     }
 
     /**
@@ -310,7 +321,7 @@ public class JSONRefParser implements JSONRefParserBase {
     private boolean shouldCreateSeveralValues(Attribute attribute, String[] values) {
         return attribute.getType() != AttributeType.ARM && (
                 attribute.getType() == AttributeType.INTERVENTION
-                || LineConsistencyChecker.areLinesHomogeneous(values)
+                        || LineConsistencyChecker.areLinesHomogeneous(values)
         );
     }
 

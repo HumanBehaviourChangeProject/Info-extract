@@ -1,0 +1,800 @@
+{
+  "blocks": [
+    {
+      "type": "LINES",
+      "value": "Use of Wearable Technology and Social Media to Improve Physical Activity and Dietary Behaviors among College Students: A 12-Week Randomized Pilot Study",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "College students demonstrate poor physical activity (PA) and dietary behaviors. We evaluated the feasibility of a combined smartwatch and theoretically based, social media-delivered health education intervention versus a comparison on improving college students' health behaviors/outcomes. Thirty-eight students (28 female; X age = 21.5 ± 3.4 years) participated in this two-arm, randomized 12-week pilot trial (2017)(2018). Participants were randomized into: (a) experimental: Polar M400 use and twice-weekly social cognitive theory-and self-determination theory-based Facebook-delivered health education intervention; or (b) comparison: enrollment only in separate, but content-identical, Facebook intervention. Primary outcomes pertained to intervention feasibility. Secondary outcomes included accelerometer-estimated PA, physiological/psychosocial outcomes, and dietary behaviors. Intervention adherence was high (~86%), with a retention of 92.1%. Participants implemented health education tips 1-3 times per week. We observed experimental and comparison groups to have 4.2-and 1.6-min/day increases in moderate-to-vigorous PA (MVPA), respectively, at six weeks-partially maintained at 12 weeks. In both groups, similarly decreased body weight (experimental = −0.6 kg; comparison = −0.5 kg) and increased self-efficacy, social support, and intrinsic motivation were observed pre-and post-intervention. Finally, we observed small decreases in daily caloric consumption overtime (experimental = −41.0 calories; comparison = −143.3). Both interventions were feasible/of interest to college students and demonstrated initial effectiveness at improving health behaviors/outcomes. However, smartwatch provision may not result in an additional benefit.",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "College students demonstrate increased overweight/obesity risk given this population's newfound autonomy and the responsibility of balancing school, work, social, and health demands after beginning college. College students have demonstrated insufficient levels of physical activity (PA) and high levels of sedentary behavior (SB) while also engaging in poor dietary behaviors (e.g., low fruit, vegetable, and wholegrain intake; high sugar-sweetened beverage [SSB] consumption). These behaviors have contributed to college student obesity rates of 25%-30%, with up to 4 kg of weight gain reported during the first two years of college attendance. Upward weight trajectories in young adulthood are concerning and observed to be predictive of higher body mass index (BMI) in middle age-contributing to the subsequent health and economic burden of overweight/obesity-related disease. Given modern-day technology's ubiquitous nature, researchers have been investigating/advocating for health behavior change interventions employing technology capable of population-level health promotion.\nSmartwatch technology is currently used frequently in health behavior change interventions. These devices allow individuals to track metrics such as steps/day which can be viewed on the device and/or an associated smartphone/internet-based application-facilitating health behavior self-regulation (i.e., tracking and modification). Despite these capabilities, smartwatch-based randomized trials in college students have demonstrated mixed effectiveness. For example, college students' Misfit Flash smartwatch use and health education course participation did not improve moderate-to-vigorous PA (MVPA) or reduce SB among experimental participants versus comparison. Moreover, Melton et al. indicated no increase in steps/day among college students provided a Jawbone UP versus comparison participants using the MyFitnessPal smartphone application. Yet, another study observed marginally increased PA among medical students using the Fitbit versus control. These mixed observations mirror smartwatch-based randomized trials in overweight/obese adults, older adults, and post-menopausal women.\nThe limitations of the preceding trials explain the mixed observations. First, most studies concentrated solely on PA, but not dietary behavior. Combined PA and dietary interventions have demonstrated greater effectiveness than interventions concentrating on either behavior exclusively. Future studies must therefore consider PA and dietary health education-perhaps delivered via social media given this technology's ability to reach large, diverse populations in a manner well-integrated into modern lifestyles-particularly college students' lifestyles. Notably, PA interventions delivered to college students via social media have demonstrated the ability to increase PA levels. Yet, smartwatch provision, in addition to a well-integrated social media-delivered health education intervention, may result in greater health behavior/outcome improvements as participants become more aware of their daily PA behaviors while tracking health behaviors with the smartwatch. Second, future studies should consider other health outcomes (e.g., physiological, psychosocial) given the nature of overall wellness. Finally, few studies employed intervention fidelity protocol. A major tenet of intervention fidelity protocol is promoting participant intervention adherence. Thus, greater use of intervention fidelity protocol may improve participant adherence and, possibly, intervention effectiveness.\nThe literature has also indicated the importance of behavioral change theories for the more effective development, implementation, and analysis of health behavior change interventions. Most prior smartwatch-based health behavior change trials have not employed any behavioral change theory. Two health behavior change theories with demonstrated success improving health behaviors are the social cognitive theory (SCT) and self-determination theory (SDT). Briefly, the SCT is predicated upon reciprocal determination between (a) individual characteristics, (b) environmental factor, and (c) behavior. For instance, an individual with low PA self-efficacy (i.e., situational self-confidence) and within an unsupportive environment for PA is less likely to engage in PA behavior. Health behavior change interventions built upon the SCT have improved college students' PA behaviors. The SDT concerns the promotion of intrinsic motivation by assisting individuals in meeting three basic needs: (a) self-determination/autonomy, (b) competence, and (c) relatedness/social interaction. As these needs are met fora behavior, greater degrees of intrinsic motivation will ensue-often conceptualized along a continuum from amotivation to intrinsic motivation (Figure). Increased intrinsic motivation has been observed predictive of college student PA and dietary behaviors.\nThe objective of this 12-week pilot randomized trial was to investigate the feasibility and initial effectiveness of an intervention combining Polar M400 smartwatch use and a twice-weekly SCT-and SDT-based Facebook-delivered health education intervention on improving college students' PA and dietary behaviors. The preceding combined intervention was compared to a group of participants enrolled only in a separate, but content-identical, Facebook-delivered health education intervention (i.e., comparison). Given the study's pilot nature, our primary outcomes included intervention interest, use/acceptability, adherence, and retention, as recommended by the National Institutes of Health's National Center for Complementary and Integrative Health (NCCIH) and others for the reporting of pilot trials. Our secondary outcomes included changes to PA, SB, physiological, SCT-and SDT-related psychosocial, and dietary outcomes from baseline to 12 weeks. Relative to comparison participants, we hypothesized that experimental participants receiving the combined intervention would demonstrate greater improvements in these secondary outcomes during the intervention. Our observations build upon the limitations of past trials and add to the literature given: (a) the concurrent concentration on PA, SB, and dietary behaviors; (b) the use of the SCT and SDT as theoretical frameworks in the intervention design; (c) the use and implementation of SCT-and SDT-based health education delivered via social media; (d) the inclusion of physiological and psychosocial outcomes in addition to behavioral outcomes related to PA, SB, and diet; and (e) the inclusion of routine intervention fidelity procedures employed to promote intervention adherence. Researchers and health professionals on college campuses may modify the methods employed in the current trial to increase intervention effectiveness based upon our observations.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Consolidated standards of reporting trials (CONSORT) guidelines were used when drafting this manuscript. This study was approved by the University of Minnesota Institutional Review Board (Study #: STUDY00000386) in June 2017, with the study also registered at ClinicalTrials.gov (Study #: NCT03253406).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Thirty-eight college students from a large metropolitan Midwest University participated in Fall 2017/Spring 2018. We recruited via flyer/email communication and in-person recruitment presentations. Inclusion criteria were: (a) 18-35 years old; (b) BMI ≥18.5 kg/m 2 ; (c) PA levels below national recommendations over the last month-verified via scripted screening interviews; (d) currently eating less than the recommended daily amount of fruit and vegetables, respectively-verified using food frequency questionnaire; (e) no self-reported diagnosed physical/mental disability; (f) completed physical activity readiness questionnaire; and (g) willing to be randomized. University of Minnesota Institutional Review Board (IRB) approval and participant consent were obtained prior to recruitment/data collection. All participant procedures were performed in accordance with the ethical standards of the Institution and/or national research committee and with the 1964 Helsinki Declaration and its later amendments or comparable ethical standards.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "We used a 12-week two-arm randomized pilot trial design, with participants randomized into (a) the experimental group: provided a Polar M400 smartwatch to track PA duration and steps/day and included in a Facebook group wherein SCT-and SDT-based PA and nutritious eating health education tips were provided twice weekly, or (b) a comparison group: included only in separate, but content-identical, Facebook group, with no smartwatch provided.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Intervention Interest, Use/Acceptability, Adherence, and Retention\nWe received inquiries regarding study interest from 126 college students over six weeks of recruitment. Groups most often reported the health education tips as \"helpful\", with most participants implementing the tips one to three times weekly. The experimental group found the Polar M400 \"somewhat helpful\" to \"helpful\" in assisting to increase PA-rating the device's ease-of-use as \"somewhat easy\". Experimental participants' comments on the Polar M400's positive/negative features are included in Table. We observed high intervention adherence (experimental: 89.8 ± 21.8%; comparison: 84.4 ± 22.3%) and, as mentioned, intervention retention was high. All participants recommended their respective intervention for future implementation.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Baseline comparisons are included in Table. Only one baseline group difference was observed as the experimental group reported higher wholegrain intake versus comparison, t = 2.3, p = 0.03.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Interested students first came to the University laboratory for baseline screening. Participants meeting inclusion criteria completed baseline testing, with SCT and SDT psychosocial construct questionnaires administered first and height, weight, body fat percentage, and cardiorespiratory fitness evaluated thereafter. We then provided participants with an ActiGraph Link to wear for the baseline seven-day testing period during all waking hours. Participants were also provided a wear log to document wear times, with this document containing wear instructions to reinforce adherence. Finally, each participant completed an ASA24 food recall tutorial involving the input of an actual meal they ate the previous day. Participants were encouraged to contact Author #1 with questions and were contacted every three weeks during the study with standardized emails encouraging continued adherence (i.e., intervention fidelity protocol).\nFollowing seven-day baseline testing, participants were informed of group allocation-determined using a random numbers table and a 1:1 allocation ratio by Author #1. Participants randomized into the experimental group received the Polar M400 smartwatch, associated manuals/accessories, and a detailed tutorial of device use. Experimental participants were subsequently placed within the Facebook group wherein SCT-and SDT-based health education tips were provided twice weekly. Briefly, on Mondays, participants were asked to read a PA-related health education tip and to read a nutrition-related health education tip on Thursdays. For example, to increase PA-related self-efficacy and self-determination while simultaneously decreasing PA-related barriers, participants were informed that three daily 10-min PA bouts are enough to meet national PA recommendations. Similar tips were developed for nutritious eating behaviors, with all tips located within Appendix A. Participants randomized into the comparison group were placed within a separate, but content-identical, Facebook group and asked to discontinue smartwatch use for the study's duration. Participants were paid $30 for successful study completion (i.e., all data collection sessions completed and study device[s] returned).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "SPSS 25.0 (IBM Inc., Armonk, NY, USA) was used for all statistical analyses. We used histograms and Shapiro-Wilks statistics to examine for outliers. Chi-square and independent t-tests were then used evaluate baseline group differences in categorical and continuous variables, respectively. We reported primary outcomes (e.g., metrics related to intervention feasibility) descriptively. Recommendations from the NCCIH and others for the reporting of pilot trials dissuade the use of inferential statistics when reporting results related to hypothesis testing. We have therefore also reported our secondary outcomes descriptively. As a supplement, we also evaluated each participant's changes in secondary outcomes as percent change from baseline: ([post-value-baseline value]/[baseline value] * 100%). Mean percent change for each secondary outcome by intervention arm was then reported and better allowed for the interpretation of the variability in our pilot trial's observations for these outcomes.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Figure presents the CONSORT participant flow diagram. Sixty college students were screened for study participation. Forty college students were deemed eligible; however, two participants withdrew their desire to participate after further reviewing study requirements. Thus, 38 participants completed baseline testing and randomization. Retention was 84.2% in the experimental group and 100% in the comparison group. Three experimental group participants dropped out for reasons unrelated to the study-two participants just prior to six-week testing and one participant just before 12-week testing. Dropouts baseline data was not significantly different than completers-thus all data are included in these analyses, congruent with CONSORT. completed baseline testing and randomization. Retention was 84.2% in the experimental group and 100% in the comparison group. Three experimental group participants dropped out for reasons unrelated to the study-two participants just prior to six-week testing and one participant just before 12-week testing. Dropouts baseline data was not significantly different than completers-thus all data are included in these analyses, congruent with CONSORT.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "• \"Exercise Bar\" on main screen that \"filled up\" as participant completed progressively more PA toward daily goal.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Did not possess builtin heart rate monitor. • Global positioning system sometimes poor for outdoor activities.\nNote: At least five participants had to provide approximately the same comment prior to inclusion of a comment in this table.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "• Poor smartwatch to smartphone syncing.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "All PA descriptive statistics by group overtime are provided in Table. Both groups increased MVPA/day from baseline to six weeks (experimental: 4.2 min; comparison: 1.6 min). Although both groups had slight MVPA decreases from the sixth to 12th weeks, MVPA at 12 weeks was still higher than at baseline-yet, percent change values varied widely within each group. No other notable changes were observed.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Table provides descriptive statistics for physiological outcomes by group overtime. Body fat percentage increased by 2.2% and 0.3% in the experimental and comparison groups, respectively, overtime. Interestingly, slightly decreased weight was observed among both groups during the intervention (experimental: −0.6 kg; comparison: −0.5 kg), with the percent change larger in the comparison vs. experimental group (−0.5% vs. −0.2%, respectively). Finally, improved cardiorespiratory fitness was seen for the comparison group (3.3-beat/minute decrease; percent change: −2.0%) but not the experimental group (1.8-beat/minute increase; percent change: +2.6%).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Descriptive statistics for all psychosocial outcomes by group overtime are presented in Table. The most notable changes overtime were observed for self-efficacy (experimental: +33.7%; comparison: +28.7%), social support (experimental: +36.5%; comparison: +19.0%), and intrinsic motivation (experimental: +13.7%; comparison: +12.3%). While changes in enjoyment, outcome expectancy, and barriers were smaller in magnitude, these changes were similar for both groups and in the expected directions.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Table contains descriptive statistics by group overtime for dietary outcomes. Decreased daily caloric intake was observed for both groups (experimental: −41.0 calories, percent change: −0.9%; comparison: −143.3 calories, percent change: −4.6%). Further, the comparison group had a slightly increased vegetable consumption at six weeks versus baseline (+0.4 cups, percent change: 54.5%), but this trend was not observed at 12 weeks. The experimental group demonstrated a small decrease in vegetable consumption at six and 12 weeks (−0.2 cups for both time points), but percent change values indicated these values varied considerably. No other discernable trends were seen.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Observations suggested that while both study interventions were feasible/of interest to college students and demonstrated initial effectiveness, the combination of the Polar M400 smartwatch and SCTand SDT-based, Facebook-delivered health education intervention did not offer a marked advantage over a standalone SCT-and SDT-based, Facebook-delivered health education intervention. Similar between-group observations maybe partially attributed to the Polar M400 smartwatch. As indicated (see Table), experimental participants were often frustrated with the Polar M400's syncing capabilities, its less intuitive design versus other smartwatches, and the bigger watch size. Anecdotally, some participants stated this decreased their desire to pay attention to the watch's data and, at times, the watch size forced them to remove the device during certain activities-possibly decreasing awareness of PA self-regulation. These observations have implications for future trials as they suggest that a smartwatch that is more mainstream, intuitive, and smaller maybe needed when seeking to enhance PA awareness and self-regulation among college students when using this type of wearable technology. Below, we discuss changes in health behaviors/outcomes in relation to our hypothesis and the implications these observations have for the development and implementation of future trials.\nSmall increases were observed in both groups' MVPA, with a slightly greater increase in the experimental group-particularly at six weeks-versus comparison. This observation was partially congruent with our hypothesis. Compared to previous smartwatch-based randomized trials among college students and other populations, the current investigation's MVPA observations are similar or marginally better despite the small magnitude of increase. Leisure-time PA has a well-known positive relationship with health. Thus, the experimental group's MVPA increase at six weeks maybe practically significant as it contributed to nearly min/week more PA than observed at baseline. Further, while college students' LPA and SB durations did not change markedly, the approximate 168 and 547 min/day of LPA and SB observed are similar to durations previous smartwatch-based randomized trials and epidemiological studies in this population. College students' high LPA durations have been suggested reflective of college students' active transportation to and from residencies on/near campus and between classes, while high SB durations maybe indicative of time spent studying, attending classes, and/or watching TV/computer use. High SB durations are particularly disconcerting given the increasing evidence of SB's deleterious health effects. Based upon our observations, we suggest that future larger trials consider investigating ways to ensure the long-term maintenance of MVPA improvements while simultaneously working to decrease SB by more greatly leveraging social media-regardless of whether participants are provided a smartwatch to track PA and SB. For instance, using Facebook, health professionals might consider friendly weekly MVPA and SB competitions between participants which also challenge participants to implement the PA-related health education tip for that week.\nGreater physiological improvements among experimental versus comparison participants were not observed-unsupportive of our hypothesis. Yet, both groups' slightly decreased weight during the intervention is promising given the weight gain typically observed among students during their college years and the notable positive correlations between college student weight trajectories and middle-age BMI. Although both groups had slightly increased body fat percentage, this increase is within the percentage error observed for bioelectrical impedance during interventions and may reflect body water level/electrolyte balance more than actual body composition changes. As for cardiorespiratory fitness, the comparison group's minor improvements and the experimental group's small decreases might be attributable to regression to the mean as the experimental group began the study with better cardiorespiratory fitness (see Tables). Regardless, future trials might consider posting workout programs to Facebook that college students can implement at their discretion to improve body weight, body fat percentage, and cardiorespiratory fitness improvements given the widespread health benefits.\nPsychosocial outcome improvements were not aligned with the study's hypothesis but encouraging nonetheless given both groups demonstrated improvements in self-efficacy, social support, and intrinsic motivation during the intervention. Studies have suggested that self-efficacy predicts college student PA participation and/or nutritious eating behaviors, with social support from friends and other significant figures observed most important in promoting this population's participation in these health behaviors. Indeed, we sought to convert negative efficacy expectations regarding health behavior participation to more positive efficacy expectations using health education tips delivered via a technology-based platform wherein social support could be provided-providing a possible explanation for improvements in these two constructs. Intrinsic motivation is also associated with greater willingness to persist in proper PA and dietary behaviors among college students.\nThe improved intrinsic motivation we observed maybe partially attributable to increased self-efficacy and social support-a fact suggested in prior research. Briefly, when referencing the three basic needs within the SDT, it is plausible that: (a) participants' increased self-efficacy may have led to greater self-determination/autonomy for proper health behavior participation; (b) participants felt greater relatedness to other participants within their respective Facebook groups also trying to improve their health-congruent with increased social support observations; and (c) participants perceived increased competence regarding health behavior participation resulting from the reading/implementation of health education tips. Future trials will have to further investigate these hypothesized interrelationships in a bigger sample.\nOutcome expectancy has also been observed as a significant predictor of whether college students meet PA guidelines. Both groups had high outcome expectancy scores at baseline (combined mean: 9.7; scale range: 0-12 with higher scores better). Therefore, a ceiling effect might have limited any remarkable improvement in this outcome. A similar explanation might also be posited for why little change was seen for perceived barriers (combined mean: 28.6; scale range: 14-56 with lower scores better). College students have cited multiple barriers to health behavior participation (e.g., lack of time, inconvenient recreation center hours, higher cost/longer time needed to cook healthy, etc.). While our barrier-related health education tips built upon barriers cited in past literature, it is possible that the study's tips were too \"generic\". These observations have implications for the design of future trials. Specifically, we believe conducting focus groups with college students to discern what important outcomes and perceived barriers are most relevant to them is warranted. This information could be used to personalize strategies for improving health-related outcome expectancy and perceived barriers while possibly increasing college student enjoyment of personally relevant health behavior participation.\nCombined PA and dietary interventions have stronger effects on health outcomes versus exclusively PA-focused interventions. Unfortunately, we did not observe either group to have improved dietary behaviors overtime. While both groups had decreased caloric consumption from baseline to 12 weeks, these were modest decreases, with the small sample size precluding stating whether this is an actual trend. Further, the fruit, vegetable, and wholegrain consumption levels observed were all lower than national recommendations at all time points, with no discernible trends overtime. Low consumption of fruit, vegetables, and whole grains have been associated with type 2 diabetes, heart disease, and some cancers. While previous web-based nutritional interventions among college students have resulted in improved dietary behaviors, these nutritional interventions were more in-depth than the current study. Specifically, given dietary behavior complexity versus PA behaviors, two weekly posts (only one of which was nutrition-related) were likely not enough to influence dietary behaviors-particularly important given the marked effect the college-built environment can have on college student dietary (and PA) behaviors. Thus, future trials might consider more intensive approaches to promoting proper dietary behaviors-perhaps providing weekly healthy low-cost/easily-prepared recipes to college students using Facebook's document posting features.\nStudy strengths included: (a) randomized design; (b) theory-informed intervention development, implementation, and analysis; (c) low-burden and well-integrated methodology combining two technologies (smartwatches, social media) used frequently by college students; (d) concurrent concentration on PA and dietary behavior health education; (e) high retention rate; and (f) routine implementation of intervention fidelity procedures. However, the following limitations should also be noted. First, no true control group was present which limited the study's ability to detect the additive effect of a Facebook-delivered health education intervention exclusively versus the pairing of this intervention with smartwatch use. Future larger trials may employ a delayed-intervention control. Second, academic year breaks (i.e., Thanksgiving, Christmas, and Spring Breaks) and midterms/finals may have biased PA and dietary behaviors. Indeed, the six-and 12-week assessments often coincided with these breaks/course exam periods which could have decreased PA participation and promoted poorer dietary habits. If possible, future trials' recruitment and intervention implementation strategies should avoid these time periods. Third, while the SCT and SDT factored heavily into this health education intervention's development/implementation, greater use of behavioral techniques (e.g., goal setting, structured feedback) maybe implemented using the novel features of Facebook groups (e.g., quizzes or polls). Finally, the study included a small homogenous sample from a single University-limiting generalizability. A multi-site trial would work well in future studies to increase sample size/diversity-thus increasing generalizability.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Study observations indicated both interventions within the current study to be feasible and of interest to college students. Given the call for health behavior change interventions which are low-cost, low-burden, and have wider reach among diverse populations this study suggested that perhaps a standalone theoretically-based, social media-delivered health education intervention maybe sufficient for scaling and the application for health promotion on a college campus-without the need for smartwatch use. However, our observations suggested that more attention needs to be paid to more in-depth implementation of behavior change strategies and use of the unique features of social media platforms like Facebook. Researchers and health professionals may consider the following in future trials among college students based upon our results: (a) posting Facebook quizzes or polls to assess participant's comprehension of the health education tips provided; (b) using Facebook's document posting features to provide workout programs and easy-to-make recipes; and (c) requesting that participants post their fitness goals within the group so that participants may encourage one another toward these goals. Acknowledgments: In this section you can acknowledge any support given which is not covered by the author contribution or funding sections. This may include administrative and technical support, or donations in kind (e.g., materials used for experiments).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The authors declare no conflict of interest. The funders had no role in the design of the study; in the collection, analyses, or interpretation of data; in the writing of the manuscript, or in the decision to publish the results.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The following tips will be provided twice a week on Monday and Thursday for 12 weeks to all study participants. Specifically, the intervention group and the comparison group will have their own Facebook groups through which these health tips will be provided. Notably, each week includes one physical activity-related posting (Monday) and one nutrition-related posting (Thursday), with Social Cognitive Theory-and Self-Determination Theory-Related health determinants targeted denoted after each tip in bold italics.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Face it, you have put in the time in the gym and, perhaps, even lost a little weight in the process. Consider a monthly or bi-monthly reward. This reward can be anything from the purchase of that one shirt that you have been dying to add to your wardrobe to a night outwith your significant other. Yet, whatever the reward is, make sure that it does not derail your quest for better health and participation in physical activity. Social-cognitive belief(s) targeted: Improving Outcome Expectancy; Self-determination theory constructs potentially influenced: Self-Determination/Autonomy.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Healthy eating is always more fun with friends! Consider a \"Healthy Cooking Night\" with friends where each individual is asked to search fora healthy entrée, side, dessert or beverage to cook/bake. Once each individual has found a recipe for their aspect of the meal, spend the night together cooking and baking! Not only will this increase the likelihood of engagement in healthy eating behaviors, but it is promoting support between each individual for participation in healthier lifestyle behaviors! Social-cognitive belief(s) targeted: Promoting Self-Efficacy, Increasing Enjoyment, Promoting Social Support; Self-determination theory constructs potentially influenced: Relatedness/Social Interactions.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "School work or your job stressing you out? Lucky for you, physical activity releases stress-reducing hormones such as endorphins into the bloodstream even during short 10-min bouts of exercise. All the more reason to set aside a little time each day to be physically active! Social-cognitive belief(s) targeted: Improving Outcome Expectancy; Self-determination theory constructs potentially influenced: Competence.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "0.71",
+          "rowHeaders": [
+            "Cardiorespiratory Fitness [BPM]"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline Group Comparisons.",
+            "p-Value"
+          ]
+        },
+        {
+          "value": "0.20",
+          "rowHeaders": [
+            "Cardiorespiratory Fitness [BPM]"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline Group Comparisons.",
+            "p-Value"
+          ]
+        },
+        {
+          "value": "21.2 (4.0)",
+          "rowHeaders": [
+            "Age [years]"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline Group Comparisons.",
+            "Experimental (n = 19)"
+          ]
+        },
+        {
+          "value": "21.8 (2.8)",
+          "rowHeaders": [
+            "Age [years]"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline Group Comparisons.",
+            "Comparison (n = 19)"
+          ]
+        },
+        {
+          "value": "0.58",
+          "rowHeaders": [
+            "Age [years]"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline Group Comparisons.",
+            "p-Value"
+          ]
+        },
+        {
+          "value": "171.5 (3.9)",
+          "rowHeaders": [
+            "Height [cm]"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline Group Comparisons.",
+            "Experimental (n = 19)"
+          ]
+        },
+        {
+          "value": "170.0 (8.2)",
+          "rowHeaders": [
+            "Height [cm]"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline Group Comparisons.",
+            "Comparison (n = 19)"
+          ]
+        },
+        {
+          "value": "0.48",
+          "rowHeaders": [
+            "Height [cm]"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline Group Comparisons.",
+            "p-Value"
+          ]
+        },
+        {
+          "value": "73.4 (11.3)",
+          "rowHeaders": [
+            "Weight [kg]"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline Group Comparisons.",
+            "Experimental (n = 19)"
+          ]
+        },
+        {
+          "value": "69.0 (15.8)",
+          "rowHeaders": [
+            "Weight [kg]"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline Group Comparisons.",
+            "Comparison (n = 19)"
+          ]
+        },
+        {
+          "value": "0.33",
+          "rowHeaders": [
+            "Weight [kg]"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline Group Comparisons.",
+            "p-Value"
+          ]
+        },
+        {
+          "value": "24.9 (3.3)",
+          "rowHeaders": [
+            "Body Mass Index"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline Group Comparisons.",
+            "Experimental (n = 19)"
+          ]
+        },
+        {
+          "value": "23.8 (4.6)",
+          "rowHeaders": [
+            "Body Mass Index"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline Group Comparisons.",
+            "Comparison (n = 19)"
+          ]
+        },
+        {
+          "value": "0.39",
+          "rowHeaders": [
+            "Body Mass Index"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline Group Comparisons.",
+            "p-Value"
+          ]
+        },
+        {
+          "value": "27.7 (8.0)",
+          "rowHeaders": [
+            "Body Fat Percentage"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline Group Comparisons.",
+            "Experimental (n = 19)"
+          ]
+        },
+        {
+          "value": "26.4 (7.0)",
+          "rowHeaders": [
+            "Body Fat Percentage"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline Group Comparisons.",
+            "Comparison (n = 19)"
+          ]
+        },
+        {
+          "value": "0.61",
+          "rowHeaders": [
+            "Body Fat Percentage"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline Group Comparisons.",
+            "p-Value"
+          ]
+        },
+        {
+          "value": "104.2 (19.1)",
+          "rowHeaders": [
+            "Cardiorespiratory Fitness [BPM]"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline Group Comparisons.",
+            "Experimental (n = 19)"
+          ]
+        },
+        {
+          "value": "112.5 (22.7)",
+          "rowHeaders": [
+            "Cardiorespiratory Fitness [BPM]"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline Group Comparisons.",
+            "Comparison (n = 19)"
+          ]
+        },
+        {
+          "value": "0.23",
+          "rowHeaders": [
+            "Cardiorespiratory Fitness [BPM]"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline Group Comparisons.",
+            "p-Value"
+          ]
+        },
+        {
+          "value": "6.1 (7.0)",
+          "rowHeaders": [
+            "MVPA/Day [min]"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline Group Comparisons.",
+            "Experimental (n = 19)"
+          ]
+        },
+        {
+          "value": "5.8 (5.9)",
+          "rowHeaders": [
+            "MVPA/Day [min]"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline Group Comparisons.",
+            "Comparison (n = 19)"
+          ]
+        },
+        {
+          "value": "0.90",
+          "rowHeaders": [
+            "MVPA/Day [min]"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline Group Comparisons.",
+            "p-Value"
+          ]
+        },
+        {
+          "value": "180.7 (30.7)",
+          "rowHeaders": [
+            "LPA/Day [min]"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline Group Comparisons.",
+            "Experimental (n = 19)"
+          ]
+        },
+        {
+          "value": "161.6 (50.8)",
+          "rowHeaders": [
+            "LPA/Day [min]"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline Group Comparisons.",
+            "Comparison (n = 19)"
+          ]
+        },
+        {
+          "value": "0.17",
+          "rowHeaders": [
+            "LPA/Day [min]"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline Group Comparisons.",
+            "p-Value"
+          ]
+        },
+        {
+          "value": "534.7 (30.3)",
+          "rowHeaders": [
+            "SB/Day [min]"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline Group Comparisons.",
+            "Experimental (n = 19)"
+          ]
+        },
+        {
+          "value": "553.6 (50.3)",
+          "rowHeaders": [
+            "SB/Day [min]"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline Group Comparisons.",
+            "Comparison (n = 19)"
+          ]
+        },
+        {
+          "value": "0.18",
+          "rowHeaders": [
+            "SB/Day [min]"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline Group Comparisons.",
+            "p-Value"
+          ]
+        },
+        {
+          "value": "2.3 (0.4)",
+          "rowHeaders": [
+            "Self-Efficacy"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline Group Comparisons.",
+            "Experimental (n = 19)"
+          ]
+        },
+        {
+          "value": "2.2 (0.8)",
+          "rowHeaders": [
+            "Self-Efficacy"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline Group Comparisons.",
+            "Comparison (n = 19)"
+          ]
+        },
+        {
+          "value": "0.78",
+          "rowHeaders": [
+            "Self-Efficacy"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline Group Comparisons.",
+            "p-Value"
+          ]
+        },
+        {
+          "value": "2.1 (0.5)",
+          "rowHeaders": [
+            "Social Support"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline Group Comparisons.",
+            "Experimental (n = 19)"
+          ]
+        },
+        {
+          "value": "2.2 (0.9)",
+          "rowHeaders": [
+            "Social Support"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline Group Comparisons.",
+            "Comparison (n = 19)"
+          ]
+        },
+        {
+          "value": "0.69",
+          "rowHeaders": [
+            "Social Support"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline Group Comparisons.",
+            "p-Value"
+          ]
+        },
+        {
+          "value": "2.4 (0.4)",
+          "rowHeaders": [
+            "Enjoyment"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline Group Comparisons.",
+            "Experimental (n = 19)"
+          ]
+        },
+        {
+          "value": "2.3 (0.5)",
+          "rowHeaders": [
+            "Enjoyment"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline Group Comparisons.",
+            "Comparison (n = 19)"
+          ]
+        },
+        {
+          "value": "0.57",
+          "rowHeaders": [
+            "Enjoyment"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline Group Comparisons.",
+            "p-Value"
+          ]
+        },
+        {
+          "value": "27.2 (5.0)",
+          "rowHeaders": [
+            "Barriers"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline Group Comparisons.",
+            "Experimental (n = 19)"
+          ]
+        },
+        {
+          "value": "30.0 (5.7)",
+          "rowHeaders": [
+            "Barriers"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline Group Comparisons.",
+            "Comparison (n = 19)"
+          ]
+        },
+        {
+          "value": "0.11",
+          "rowHeaders": [
+            "Barriers"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline Group Comparisons.",
+            "p-Value"
+          ]
+        },
+        {
+          "value": "9.9 (1.8)",
+          "rowHeaders": [
+            "Outcome Expectancy"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline Group Comparisons.",
+            "Experimental (n = 19)"
+          ]
+        },
+        {
+          "value": "9.5 (2.3)",
+          "rowHeaders": [
+            "Outcome Expectancy"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline Group Comparisons.",
+            "Comparison (n = 19)"
+          ]
+        },
+        {
+          "value": "0.53",
+          "rowHeaders": [
+            "Outcome Expectancy"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline Group Comparisons.",
+            "p-Value"
+          ]
+        },
+        {
+          "value": "4.5 (1.0)",
+          "rowHeaders": [
+            "Intrinsic Motivation"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline Group Comparisons.",
+            "Experimental (n = 19)"
+          ]
+        },
+        {
+          "value": "4.5 (1.3)",
+          "rowHeaders": [
+            "Intrinsic Motivation"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline Group Comparisons.",
+            "Comparison (n = 19)"
+          ]
+        },
+        {
+          "value": "0.89",
+          "rowHeaders": [
+            "Intrinsic Motivation"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline Group Comparisons.",
+            "p-Value"
+          ]
+        },
+        {
+          "value": "0.84",
+          "rowHeaders": [
+            "Daily Caloric Consumption [cals]"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline Group Comparisons.",
+            "p-Value"
+          ]
+        },
+        {
+          "value": "0.8 (0.5)",
+          "rowHeaders": [
+            "Daily Fruit Intake [cups]"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline Group Comparisons.",
+            "Experimental (n = 19)"
+          ]
+        },
+        {
+          "value": "0.8 (0.7)",
+          "rowHeaders": [
+            "Daily Fruit Intake [cups]"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline Group Comparisons.",
+            "Comparison (n = 19)"
+          ]
+        },
+        {
+          "value": "0.73",
+          "rowHeaders": [
+            "Daily Fruit Intake [cups]"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline Group Comparisons.",
+            "p-Value"
+          ]
+        },
+        {
+          "value": "1.5 (0.7)",
+          "rowHeaders": [
+            "Daily Vegetable Intake [cups]"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline Group Comparisons.",
+            "Experimental (n = 19)"
+          ]
+        },
+        {
+          "value": "1.3 (0.7)",
+          "rowHeaders": [
+            "Daily Vegetable Intake [cups]"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline Group Comparisons.",
+            "Comparison (n = 19)"
+          ]
+        },
+        {
+          "value": "0.48",
+          "rowHeaders": [
+            "Daily Vegetable Intake [cups]"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline Group Comparisons.",
+            "p-Value"
+          ]
+        },
+        {
+          "value": "1.2 (0.9)",
+          "rowHeaders": [
+            "Daily Whole Grain Intake [oz. equivalents]"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline Group Comparisons.",
+            "Experimental (n = 19)"
+          ]
+        },
+        {
+          "value": "0.6 (0.7)",
+          "rowHeaders": [
+            "Daily Whole Grain Intake [oz. equivalents]"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline Group Comparisons.",
+            "Comparison (n = 19)"
+          ]
+        },
+        {
+          "value": "0.03",
+          "rowHeaders": [
+            "Daily Whole Grain Intake [oz. equivalents]"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline Group Comparisons.",
+            "p-Value"
+          ]
+        },
+        {
+          "value": "110.1 (32.5)",
+          "rowHeaders": [
+            "Daily Sugar-Sweetened Beverage Kcalories"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline Group Comparisons.",
+            "Experimental (n = 19)"
+          ]
+        },
+        {
+          "value": "128.0 (42.9)",
+          "rowHeaders": [
+            "Daily Sugar-Sweetened Beverage Kcalories"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline Group Comparisons.",
+            "Comparison (n = 19)"
+          ]
+        },
+        {
+          "value": "0.48",
+          "rowHeaders": [
+            "Daily Sugar-Sweetened Beverage Kcalories"
+          ],
+          "columnHeaders": [
+            "Table 2. Baseline Group Comparisons.",
+            "p-Value"
+          ]
+        }
+      ],
+      "page": 1
+    }
+  ]
+}

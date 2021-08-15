@@ -1,0 +1,2558 @@
+{
+  "blocks": [
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Conclusions: This remotely delivered intervention did not produce statistically significant between-group differences in minutes of moderate-to-vigorous intensity physical activity. Significant short-term differences in resistance training and short-and medium-term differences in sleep health in favor of the intervention were observed.\nTrial registration: This study is registered at anzctr.org.au ACTRN12617000376347.",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "L arge proportions of the adult population are insufficiently active and also report poor sleep health. Accruing <150 minutes/week of physical activity (PA) is considered insufficient, and poor sleep health is characterized by the presence of one or multiple complaints relating to the duration, quality, or timing of sleep and daytime functioning. The two behaviors are separately associated with increased chronic disease risk (e.g., cardiovascular disease or Type 2 diabetes) and considerable economic burden. Given the high prevalence and associated burden of insufficient PA and poor sleep health in adults, widereaching interventions for PA and sleep health are needed. Mobile health (m-Health) interventions have the capacity to deliver accessible, scalable, and cost effective interventions, and are known to improve PA and reduce the severity of clinical sleep complaints. A meta-analysis of sleep interventions administered to adults without clinical sleep complaints reported that interventions were effective (Hedge's g=0.), yet few were delivered using m-Health. Behavior change interventions, which implement evidence-based strategies that conceptually align with theoretic frameworks, are thought to be more effective than those not informed by theory. This is particularly important when multiple behaviors are combined in a single intervention. Further, given that both PA and sleep are influenced by individual and environmental factors, it is useful for interventions to be guided by a theory that acknowledges this relationship.\nInsufficient PA and poor sleep tend to co-occur, and there is evidence that PA and sleep share a bi-directional relationship. Consequently, interventions targeting PA and sleep concurrently may yield larger improvements in both behaviors and produce greater health benefits than single-behavior interventions. However, it appears that no previous m-Health studies have addressed PA and sleep health simultaneously. This study aimed to test the efficacy of a novel m-Health intervention to improve PA and sleep health in a randomized waitlist-controlled trial.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "In June−August 2017, social media (Facebook) advertisements, lifestyle magazine editorials, and e-Newsletters invited interested individuals to take part. Participants were eligible if they were aged 18−55 years, lived in Australia, reported being insufficiently physically active (<90 minutes/week), and rated their sleep quality as fairly bad or very bad during screening. Exclusion criteria were a BMI <18.5 or >35, recent pregnancy or childbirth (<12 months), any contraindications for being more physically active or changing sleep behaviors, diagnosed sleep disorders (e.g., chronic insomnia or sleep apnea), hypnotics use, shift work, frequent jetlag-inducing travel, current use of an app/tracker to selfmonitor PA or sleep, and no access to an Internet-enabled device (smartphone or tablet). Following completion of baseline assessments, participants (n=160) were randomly allocated to the intervention or a waitlist-control group (1:1 ratio). The concealed allocation sequence (numbered opaque envelopes) was generated according to recommended methods for permuted randomization using blocks of 4 and 8.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The intervention group (n=80) received access to the Balanced app, which provided a platform for personalized goal setting, daily logging with dynamic feedback, and comprehensive educational content for PA (i.e., moderate-to-vigorous intensity PA [MVPA], daily steps, and resistance training [RT]) and for sleep (i.e., bedtimes/waketimes, sleep quality, and sleep hygiene practices). Participants received a series of tool sheets (printed materials via mail, followed up with an electronic copy once a month) that was e-mailed to participants providing guidance on how to set goals, develop action plans, and manage stress. During the 3month intervention period, participants were e-mailed individualized weekly summary reports based on progress in relation to goals (for both behaviors), as well as weekly SMS including educational content and separate SMS prompts to re-engage with selfmonitoring, if necessary (i.e., self-monitoring on <4 days in the last 7 days). The behavior change strategies are described in the context of the theoretic framework (i.e., Social Cognitive Theory) in Appendix Table, available online. Following randomization, participants were mailed a printed handbook including hard copies of the tool sheets and guidance specific to the initial stages of app installation, usage, and troubleshooting, and a pedometer (Yamax SW200) to monitor steps. Waitlist participants (n=80) were offered full access to the intervention after the 6-month assessment.\nSociodemographic and behavioral variables were assessed at baseline. The primary endpoint occurred at 3 months and the secondary endpoint at 6 months. Two co-primary and 21 secondary outcomes were assessed at all 3 time points (baseline, 3 months, and 6 months). All data were collected via online survey between June 2017 and February 2018. One of the two co-primary outcomes was weekly minutes of MVPA. This was assessed using the Active Australia Questionnaire, which is reliable and sensitive to change. Sleep quality was the other co-primary outcome and was assessed using the Pittsburgh Sleep Quality Index (PSQI), which has also shown good reliability and sensitivity to change in intervention studies. Secondary outcomes included the 7 PSQI component scores, RT (frequency and duration/week), minutes/day of sitting (Workforce Sitting Questionnaire), sleep hygiene practices (Sleep Hygiene Index), sleep timing variability (Sleep Timing Questionnaire), insomnia symptom severity (Insomnia Severity Index), daytime sleepiness (Epworth Sleepiness Scale), health-related quality of life (RAND-12), the energy/fatigue subscale of RAND-36, as well as depression, anxiety, and stress symptoms (DASS-21). To measure engagement, the self-monitoring data participants logged in the Balanced app (defined as logged data on a given day for any of the following: active time, steps, RT, sleep duration, sleep quality, sleep hygiene) were exported to calculate the average number of days for which data were logged and the time to nonusage attrition (defined as ≥14 consecutive days of nonengagement at any given point within a person's 84-day intervention period), as previously used. Participant satisfaction with the app was assessed using the System Usability Scale (scores ranged from 0 to 100, with higher scores indicating greater satisfaction) at 3 months only. The outcomes assessed and instruments used in this study are described elsewhere. Assuming an a of 0.025 (adjusting for use of two co-primary outcomes), power of 0.80, moderate effects at the 3-month primary endpoint=0.45, mean=88 minutes, SD=194 minutes for PA; and d=0.65, mean=1.55, SD=2.41 for sleep quality ), and a pre−post correlation of 0.60 (between baseline and 3 months), a total of 60 participants per group were required for PA and 35 for sleep quality. Thus, the larger sample was used for this study. To account for dropout, the sample size was inflated by 25% (calculated as 60/[1−0.25]), resulting in 80 participants needed per group.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Differences in sample characteristics (e.g., age, gender, baseline levels of PA, and sleep quality) between completers and noncompleters (lost to follow-up) were examined using t-tests (continuous data) and chi-squared tests (categorical data).\nBetween-group differences at 3 months and 6 months were estimated using generalized linear mixed models, except for PSQI component scores (mixed effects ordered logistic regression). Owing to positive skewness in the data, both RT outcomes were analyzed as dichotomized outcomes (with RT frequency dichotomized as <2 days/week or ≥2 days/week, as per guidelines, and RT duration dichotomized as <10 minutes/week or ≥10 minutes/week). All models included fixed effects for group and time, group X time interaction, the baseline value of the outcome, and a random intercept for individuals. White−Huber SEs were used if departures of homoscedasticity or normality were observed. Residual diagnostics informed the specification of family and link functions (Table). Models were interpreted using a levels of 0.025 for co-primary outcomes and 0.05 for secondary outcomes.\nThe impact of missing data was assessed using sensitivity analyses. Missing data were imputed using chained equations and predicted mean matching. Twenty data sets were imputed, using baseline values of the outcome, predictors of missingness, and any variables that predicted a given outcome. The models specified for complete-case analyses were repeated using pooled estimates derived from imputed data sets and coefficients compared for consistency, with little deviation from complete-case analyses indicating robustness of findings.\nSecondary analyses using generalized linear mixed models with a binomial logit link function were conducted to examine the proportion of participants meeting guidelines for PA (≥150 minutes of MVPA combined with RT on ≥2 days/week) and reporting good sleep (PSQI total score <5). Data were analyzed in August 2018 using Stata, version 14.2.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The flow of participants throughout the trial is shown in Figure. The baseline sample included 128 women and men, most of whom were middle-aged and overweight. Most were married or in a relationship, highly educated, employed in a professional occupation, and reported having 1 or more chronic conditions. Sociodemographic, health, and behavioral characteristics are provided in Table.\nGroups did not differ in the proportion of withdrawals (p=0.181). Participants who were lost to follow-up reported more severe depression symptoms (p=0.035) and lower mental health (p=0.012). Complete data (primary outcomes) from 125 participants were available at the 3month primary endpoint, which corresponds to an overall retention of 78%. Participant retention at the 6-month follow-up was 56%. Dropout rates (defined as formal withdrawal from the trial) were 9% in both groups. Reasons for withdrawal are listed in Figure.\nThroughout the 84-day intervention period, participants (intervention group only) logged data for at least 1 of the 2 behaviors on an average of 38.2 (SD=30.09) days. Ten percent of participants did not log any data during this period. Nonusage attrition occurred for 89% of participants. The average number of days to nonusage attrition was 32 (SD=25) days. The average number of days on which data were logged and the proportion of participants logging no data did not differ between PA (36 days and 12.5%, respectively) and sleep (37 days and 10%, respectively). Intervention group participants (n=58; assessed at 3 months) reported good usability and acceptance, consistent with a mean system usability score of 70.8 (SD=19.71). At 3 months, the estimated between-group difference in MVPA was 109 minutes in favor of the intervention group, which was not statistically significant (Table), corresponding to a small effect size (p=0.139, d=0.24). At 6 months, this difference was reduced to 5 minutes (p=0.952, d=0.01).\nThe groups showed significant differences in the relative odds of engaging in at least 2 days of RT per week (OR=20.56, 95% CI=2.69, 157.46, p=0.004) and ≥10 minutes of RT/week (OR=6.71, 95% CI=1.52, 29.65, p=0.012), favoring the intervention at 3 months, but these were not maintained at 6 months. Differences in average sitting time were not statistically significant at either time point (Table).\nThe between-group difference in average sleep quality (PSQI total score) at 3 months was À1.3 points, with medium-sized effect estimates showing significantly better sleep quality in the intervention group (p=0.009, d=0.48). This difference was slightly attenuated at 6 months and no longer statistically significant (p=0.040, d=0.46). The intervention group was more likely to report improved subjective sleep quality (p=0.017) and sleep onset latency (p=0.013) (Table). Small-tomedium effect sizes in favor of the intervention were found at 3 months for waketime variability (p=0.018, d=0.40), sleep hygiene (p=0.027, d=0.40), and insomnia severity (p=0.002, d=0.56). At 6 months, significant   differences in favor of the intervention group were maintained for sleep hygiene (p=0.048, d=0.42) and insomnia severity (p=0.002, d=0.69), with an increase in the magnitude of differences for insomnia severity. Additional significant differences at 6 months, which were not statistically significant at months, were observed for bedtime variability (p=0.023, d=0.47), daytime sleepiness (p<0.001, d=0.74), and daytime dysfunction (OR=0.28, 95% CI=0.08, 0.94, p=0.039) (Tables). No significant differences were observed for mental or physical health-related quality of life, energy/fatigue levels, or for depression symptoms, at either time point (all p>0.05). The intervention group reported significantly lower stress symptom severity relative to waitlist controls at 3 months (p=0.032, d=0.38) with an additional increase in magnitude at 6 months (p=0.006, d=0.62). Further, differences in anxiety symptoms at 6 months were statistically significant, in favor of the intervention group (p=0.003, d=0.57).\nResults from analyses using imputed data are provided in Appendix Tables, available online, showing robustness of findings at 3 months for all outcomes, except for stress symptoms, which was no longer statistically significant (p=0.078). Group differences in the co-primary outcome of sleep quality (PSQI total score) were statistically significant at 6 months based on imputed data (p=0.015). Differences in bedtime variability, sleep hygiene, and anxiety measured at months, which were statistically significant based on complete-case analysis, no longer reached statistical significance (all p>0.05).\nSecondary analyses using complete cases showed, at 3 months, participants in the intervention group were significantly more likely to meet aerobic exercise and RT guidelines, relative to participants in the waitlist-control group (OR=16.32, 95% CI=2.24, 119.00, p=0.004). This difference was not maintained at 6 months (OR=1.05, 95% CI=0.08, 13.13, p=0.970) (Appendix Figure, available online). The proportion of participants reporting good sleep (Appendix Figure, available online) was significantly higher in the intervention group relative to the control group at 3 months (OR=13. using imputed data were consistent with these results, except the proportion of participants reporting good sleep quality at 6 months was significantly higher in the intervention group relative to the control group at months (OR=4.05, 95% CI=1.11, 14.75, p=0.034).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The Synergy Study was a combined behavior m-Health intervention that improved sleep quality and a range of secondary outcomes, including RT, sleep time variability, sleep hygiene, subjective sleep quality, sleep onset latency, insomnia severity, and symptoms of stress and anxiety. Moreover, participants were more likely to meet guidelines for aerobic PA and RT and report good sleep quality after the 3-month intervention. Although group differences in MVPA were not statistically significant at either endpoint, several promising changes were observed. At 3 months, the intervention group engaged in an additional 109 minutes/week of MVPA, relative to waitlist control, which is encouraging given that even small improvements in MVPA are beneficial for long-term health. The effect size of this nonsignificant difference (d=0.24) was consistent with previous meta-analyses of m-Health PA interventions. The lack of statistically significant between-group differences in MVPA may have been because of the large variation in activity at all time points and the increased activity reported in the control group, which is commonly observed. Secondary analyses showed a significantly greater proportion of intervention group participants (37.3%) met PA guidelines (≥150 minutes of MVPA and RT on ≥2 days/week). These improvements maybe attributable to the detailed strategies provided for both MVPA and RT and thus supports their use in multibehavior interventions. This finding is relevant from a public health perspective, given that most adults do not engage in RT, and only approximately 15% meet guidelines for both MVPA and RT, although this would confer significant reductions for morbidity and mortality. However, this outcome should be interpreted with caution, as the analyses of meeting PA guidelines were exploratory. Also, although both minutes of MVPA and frequency of RT increased, the higher proportion of participants meeting PA guidelines at 3 months appeared to be largely driven by an increased frequency of RT.\nA unique contribution of this study is that it assessed sleep quality at 3 and 6 months, which is longer than the intervention periods and follow-up intervals of many sleep interventions. The magnitude of the betweengroup difference in favor of the intervention group at 3 months is consistent with findings from trials in subclinical population groups. Although sleep quality continued to improve at 6 months, the difference between groups was no longer statistically significant for complete-case analysis but was for analysis based on multiple imputation (at a=0.025). Given that the observed effect sizes at 3 months (d=0.48) and 6 months (d=0.46) were consistent, this may have been because of improvements in both groups and the lack of power at the 6-month time point. The intervention was designed fora population with poor sleep quality but without a diagnosed sleep disorder. Baseline values of the PSQI, Insomnia Severity Index, and the Epworth Sleepiness Index suggest that most participants did have poor sleep quality but did not have a clinical sleep disorder (e.g., above clinical threshold for insomnia or sleep apnea). A smaller margin for improvement relative to that typically seen in clinical population groups was a function of studying a subclinical group with lower baseline symptom severity. Accordingly, the shift in scores observed in the Synergy Study was deemed satisfactory, especially given that the effect size (d=0.48) associated with between-group differences in sleep quality was comparable to that reported in a systematic review of Internetdelivered cognitive behavioral therapy for insomnia (d=0.49). This is important considering the high percentage of the population with poor sleep quality, but without a clinical sleep disorder and limited access to practitioner-based treatment. PSQI scores <5 indicate remission of sleep problems, and despite the magnitude of improvement observed in the intervention group, average scores remained >5, which is consistent with most studies in subclinical populations. However, the intervention group had 32% more participants reporting good sleep quality (PSQI scores <5) (Appendix Figure, available online) indicating the intervention may have considerable public health utility. The hypothesized synergistic relationship between PA and sleep was not examined in this study. However, changes in MVPA and sleep quality were lower in magnitude than anticipated. It is possible the magnitude of change in PA was not large enough to leverage larger increases in sleep quality and vice versa, or the study duration was too short to detect this. The intervention group further exhibited significantly better sleep hygiene practices and improvements in subjective sleep quality and sleep onset latency. More-pronounced improvements in sleep onset latency for the intervention group were likely a result of adherence to and improvements in sleep hygiene practices, which were targeted specifically in the Synergy Study. Moreover, PA is associated with reduced sleep onset latency, and the large amount of additional MVPA reported in the intervention group (adjusted group difference=109 minutes, d=0.24), albeit not statistically significant, combined with the greater increase in RT may have contributed to improvements in sleep health indicators (i.e., sleep onset latency), which is consistent with the literature. These improvements, combined with those seen for insomnia severity, which capture clinically relevant characteristics of poor sleep health, support the overall finding that the intervention was efficacious in improving sleep.\nThe lack of group differences in health-related quality of life might indicate that changes in these parameters take longer than 3−6 months to manifest and maybe of small magnitude in a population with nonacute conditions. Long-term follow-up assessments therefore are warranted. The Synergy Study provided detailed stress management resources but none specifically for depression or anxiety, which may explain the significantly greater improvements in stress symptoms observed in the intervention group. Given that high stress levels are associated with engagement in unhealthy behaviors and poorer sleep quality, facilitating stress management to reduce symptoms is important for multiple behavior interventions, particularly those targeting sleep.\nApp usability ratings were fair, time to nonusage attrition was 32 days, and 89% of participants suffered nonusage attrition. Although there are few app usage data available from multiple behavior interventions, the proportion of participants making at least one entry (90%) is similar to that observed in single-behavior m-Health programs. However, there is no evidence that defines the minimum amount of app usage needed for behavior change to occur and whether continuous usage differs from intermittent usage with regard to the magnitude of behavior change it confers. Time to nonusage attrition in the current study (32 days) appears to indicate moderate usage in comparison with other studies for which time to nonusage attrition ranged from 1.5 weeks to 25 weeks. These results suggest that targeting 2 behaviors simultaneously does not adversely impact app usage rates. Despite fair participant ratings for app usability and time to nonusage attrition, almost all participants in the intervention group still suffered nonusage attrition during the intervention period. Several devices exist that allow automated self-monitoring of PA and sleep. However, manual data entry was used for pragmatic reasons (e.g., cost) and this may have contributed to nonusage attrition, although it is unknown which method (manual or automated) is optimal for use in behavior change interventions. Moreover, it is possible that some participants reached personal goals relating to PA and sleep sooner than others or lost motivation overtime. Furthermore, participants may have engaged in PA and sleep hygiene practice more frequently than indicated by the completed logs, possibly because of not feeling any need to keep track, or because of time restrictions. This is inline with findings from a study indicating that participants only log approximately 60% of their objectively measured daily activity. To the authors' knowledge, this was the first trial of its kind to target both PA and sleep with an m-Health intervention using an RCT design. Trial strengths included its potential for wide reach, given the remote delivery, which made it accessible for those living outside metropolitan areas, as well as the personalized approach, which reinforced personally meaningful goals.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Several factors reduced the power to detect significant between-group differences in MVPA. Despite requiring that participants report <90 minutes/week to be eligible, 41.25% reported doing >150 minutes at baseline. Discrepancies between the levels of PA participants reported at the eligibility screening and those reported at baseline may have been because of the different methods of assessment used (e.g., eligibility survey: single item versus baseline survey: multiple items). This may indicate that using a single-item measure has limited usefulness as a screening tool for interventions. Self-report measures of PA are subject to recall bias, and there was large variation in minutes of PA at baseline and followup in both groups. In addition, the waitlist-control group reported substantial increases in activity, which reduced the difference between groups. Given that participants volunteered to take part, this could have been because of high levels of readiness to make changes to PA and sleep behaviors upon enrollment in the study, as seen in previous trials. However, participants' readiness to change behavior was not assessed in this study. Moreover, the study was powered based on effect sizes that assumed a synergistic effect between PA and sleep and this may have been overestimated. The use of objective measures (e.g., accelerometry and polysomnography) however, was not feasible in this trial. Moreover, the self-report sleep measure (PSQI) was likely able to better capture the restorative effects of improved sleep, which is not possible using objective measures. A number of secondary outcomes were examined, and this may have increased the risk of Type 1 errors. The classification of RT duration may have been somewhat arbitrary, and it is unknown if a minimum duration of 10 minutes confers a health benefit. Finally, it is possible that access to an Internet-enabled device as an eligibility criterion has reduced the representativeness of the sample. However, the associated risk of bias maybe minimal, given the widespread ownership of smartphones in Australia.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "This remotely delivered intervention produced shortterm improvements in RT and short-and medium-term improvements in sleep health. Some of the group differences seen at 3 months were not sustained at the 6month follow-up. The capacity of m-Health interventions to foster long-term engagement and sustainable changes in behavior remains to be determined, but m-Health interventions maybe useful at least in the short-term to promote a combination of healthy habits.\n",
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "41.1 (9.84)",
+          "rowHeaders": [
+            "Age, years, mean (SD)",
+            "Other (including not working)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Sociodemographic, Health, and Behavioral Characteristics of Study",
+            "Table 1. Baseline Sociodemographic, Health, and Behavioral Characteristics of Study",
+            "IG (n=80)"
+          ]
+        },
+        {
+          "value": "41.9 (10.07)",
+          "rowHeaders": [
+            "Age, years, mean (SD)",
+            "Other (including not working)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Sociodemographic, Health, and Behavioral Characteristics of Study",
+            "Table 1. Baseline Sociodemographic, Health, and Behavioral Characteristics of Study",
+            "WLG (n=80)"
+          ]
+        },
+        {
+          "value": "14 (17.50)",
+          "rowHeaders": [
+            "Other (including not working)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Sociodemographic, Health, and Behavioral Characteristics of Study",
+            "Table 1. Baseline Sociodemographic, Health, and Behavioral Characteristics of Study",
+            "IG (n=80)"
+          ]
+        },
+        {
+          "value": "66 (82.50)",
+          "rowHeaders": [
+            "Other (including not working)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Sociodemographic, Health, and Behavioral Characteristics of Study",
+            "Table 1. Baseline Sociodemographic, Health, and Behavioral Characteristics of Study",
+            "IG (n=80)"
+          ]
+        },
+        {
+          "value": "28.7 (4.64)",
+          "rowHeaders": [
+            "BMI, mean (SD)",
+            "Other (including not working)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Sociodemographic, Health, and Behavioral Characteristics of Study",
+            "Table 1. Baseline Sociodemographic, Health, and Behavioral Characteristics of Study",
+            "IG (n=80)"
+          ]
+        },
+        {
+          "value": "27.2 (4.01)",
+          "rowHeaders": [
+            "BMI, mean (SD)",
+            "Other (including not working)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Sociodemographic, Health, and Behavioral Characteristics of Study",
+            "Table 1. Baseline Sociodemographic, Health, and Behavioral Characteristics of Study",
+            "WLG (n=80)"
+          ]
+        },
+        {
+          "value": "23 (28.75)",
+          "rowHeaders": [
+            "Other (including not working)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Sociodemographic, Health, and Behavioral Characteristics of Study",
+            "Table 1. Baseline Sociodemographic, Health, and Behavioral Characteristics of Study",
+            "IG (n=80)"
+          ]
+        },
+        {
+          "value": "23 (28.75)",
+          "rowHeaders": [
+            "Other (including not working)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Sociodemographic, Health, and Behavioral Characteristics of Study",
+            "Table 1. Baseline Sociodemographic, Health, and Behavioral Characteristics of Study",
+            "IG (n=80)"
+          ]
+        },
+        {
+          "value": "34 (42.50)",
+          "rowHeaders": [
+            "Other (including not working)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Sociodemographic, Health, and Behavioral Characteristics of Study",
+            "Table 1. Baseline Sociodemographic, Health, and Behavioral Characteristics of Study",
+            "IG (n=80)"
+          ]
+        },
+        {
+          "value": "19 (23.75)",
+          "rowHeaders": [
+            "Other (including not working)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Sociodemographic, Health, and Behavioral Characteristics of Study",
+            "Table 1. Baseline Sociodemographic, Health, and Behavioral Characteristics of Study",
+            "WLG (n=80)"
+          ]
+        },
+        {
+          "value": "22 (27.50)",
+          "rowHeaders": [
+            "Other (including not working)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Sociodemographic, Health, and Behavioral Characteristics of Study",
+            "Table 1. Baseline Sociodemographic, Health, and Behavioral Characteristics of Study",
+            "IG (n=80)"
+          ]
+        },
+        {
+          "value": "48 (60.00)",
+          "rowHeaders": [
+            "Other (including not working)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Sociodemographic, Health, and Behavioral Characteristics of Study",
+            "Table 1. Baseline Sociodemographic, Health, and Behavioral Characteristics of Study",
+            "IG (n=80)"
+          ]
+        },
+        {
+          "value": "10 (12.50)",
+          "rowHeaders": [
+            "Other (including not working)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Sociodemographic, Health, and Behavioral Characteristics of Study",
+            "Table 1. Baseline Sociodemographic, Health, and Behavioral Characteristics of Study",
+            "IG (n=80)"
+          ]
+        },
+        {
+          "value": "75 (93.75)",
+          "rowHeaders": [
+            "Other (including not working)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Sociodemographic, Health, and Behavioral Characteristics of Study",
+            "Table 1. Baseline Sociodemographic, Health, and Behavioral Characteristics of Study",
+            "IG (n=80)"
+          ]
+        },
+        {
+          "value": "56 (70.00)",
+          "rowHeaders": [
+            "Major city",
+            "Other (including not working)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Sociodemographic, Health, and Behavioral Characteristics of Study",
+            "Table 1. Baseline Sociodemographic, Health, and Behavioral Characteristics of Study",
+            "IG (n=80)"
+          ]
+        },
+        {
+          "value": "24 (30.00)",
+          "rowHeaders": [
+            "Regional or remote",
+            "Other (including not working)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Sociodemographic, Health, and Behavioral Characteristics of Study",
+            "Table 1. Baseline Sociodemographic, Health, and Behavioral Characteristics of Study",
+            "IG (n=80)"
+          ]
+        },
+        {
+          "value": "16.3 (2.71)",
+          "rowHeaders": [
+            "Education in years, mean (SD)",
+            "Other (including not working)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Sociodemographic, Health, and Behavioral Characteristics of Study",
+            "Table 1. Baseline Sociodemographic, Health, and Behavioral Characteristics of Study",
+            "IG (n=80)"
+          ]
+        },
+        {
+          "value": "15.8 (2.87)",
+          "rowHeaders": [
+            "Education in years, mean (SD)",
+            "Other (including not working)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Sociodemographic, Health, and Behavioral Characteristics of Study",
+            "Table 1. Baseline Sociodemographic, Health, and Behavioral Characteristics of Study",
+            "WLG (n=80)"
+          ]
+        },
+        {
+          "value": "51 (63.75)",
+          "rowHeaders": [
+            "Other (including not working)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Sociodemographic, Health, and Behavioral Characteristics of Study",
+            "Table 1. Baseline Sociodemographic, Health, and Behavioral Characteristics of Study",
+            "IG (n=80)"
+          ]
+        },
+        {
+          "value": "16 (20.00)",
+          "rowHeaders": [
+            "Other (including not working)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Sociodemographic, Health, and Behavioral Characteristics of Study",
+            "Table 1. Baseline Sociodemographic, Health, and Behavioral Characteristics of Study",
+            "IG (n=80)"
+          ]
+        },
+        {
+          "value": "13 (16.25)",
+          "rowHeaders": [
+            "Other (including not working)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Sociodemographic, Health, and Behavioral Characteristics of Study",
+            "Table 1. Baseline Sociodemographic, Health, and Behavioral Characteristics of Study",
+            "IG (n=80)"
+          ]
+        },
+        {
+          "value": "67 (83.75)",
+          "rowHeaders": [
+            "Other (including not working)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Sociodemographic, Health, and Behavioral Characteristics of Study",
+            "Table 1. Baseline Sociodemographic, Health, and Behavioral Characteristics of Study",
+            "IG (n=80)"
+          ]
+        },
+        {
+          "value": "13 (16.25)",
+          "rowHeaders": [
+            "Other (including not working)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Sociodemographic, Health, and Behavioral Characteristics of Study",
+            "Table 1. Baseline Sociodemographic, Health, and Behavioral Characteristics of Study",
+            "IG (n=80)"
+          ]
+        },
+        {
+          "value": "13 (16.25)",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 1. Baseline Sociodemographic, Health, and Behavioral Characteristics of Study",
+            "Table 1. Baseline Sociodemographic, Health, and Behavioral Characteristics of Study",
+            "IG (n=80)"
+          ]
+        },
+        {
+          "value": "13 (16.25)",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 1. Baseline Sociodemographic, Health, and Behavioral Characteristics of Study",
+            "Table 1. Baseline Sociodemographic, Health, and Behavioral Characteristics of Study",
+            "IG (n=80)"
+          ]
+        },
+        {
+          "value": "24 (30.00)",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 1. Baseline Sociodemographic, Health, and Behavioral Characteristics of Study",
+            "Table 1. Baseline Sociodemographic, Health, and Behavioral Characteristics of Study",
+            "IG (n=80)"
+          ]
+        },
+        {
+          "value": "14 (17.50)",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 1. Baseline Sociodemographic, Health, and Behavioral Characteristics of Study",
+            "Table 1. Baseline Sociodemographic, Health, and Behavioral Characteristics of Study",
+            "IG (n=80)"
+          ]
+        },
+        {
+          "value": "26 (32.50)",
+          "rowHeaders": [
+            "None"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Sociodemographic, Health, and Behavioral Characteristics of Study",
+            "Table 1. Baseline Sociodemographic, Health, and Behavioral Characteristics of Study",
+            "IG (n=80)"
+          ]
+        },
+        {
+          "value": "22 (27.50)",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 1. Baseline Sociodemographic, Health, and Behavioral Characteristics of Study",
+            "Table 1. Baseline Sociodemographic, Health, and Behavioral Characteristics of Study",
+            "IG (n=80)"
+          ]
+        },
+        {
+          "value": "19 (23.75)",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 1. Baseline Sociodemographic, Health, and Behavioral Characteristics of Study",
+            "Table 1. Baseline Sociodemographic, Health, and Behavioral Characteristics of Study",
+            "WLG (n=80)"
+          ]
+        },
+        {
+          "value": "32 (40.00)",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 1. Baseline Sociodemographic, Health, and Behavioral Characteristics of Study",
+            "Table 1. Baseline Sociodemographic, Health, and Behavioral Characteristics of Study",
+            "IG (n=80)"
+          ]
+        },
+        {
+          "value": "23 (30.67)",
+          "rowHeaders": [
+            "Monthly or less"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Sociodemographic, Health, and Behavioral Characteristics of Study",
+            "Table 1. Baseline Sociodemographic, Health, and Behavioral Characteristics of Study",
+            "IG (n=80)"
+          ]
+        },
+        {
+          "value": "18 (24.00)",
+          "rowHeaders": [
+            "2-4 times/month"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Sociodemographic, Health, and Behavioral Characteristics of Study",
+            "Table 1. Baseline Sociodemographic, Health, and Behavioral Characteristics of Study",
+            "IG (n=80)"
+          ]
+        },
+        {
+          "value": "19 (25.68)",
+          "rowHeaders": [
+            "2-4 times/month"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Sociodemographic, Health, and Behavioral Characteristics of Study",
+            "Table 1. Baseline Sociodemographic, Health, and Behavioral Characteristics of Study",
+            "WLG (n=80)"
+          ]
+        },
+        {
+          "value": "25 (33.34)",
+          "rowHeaders": [
+            "≥2 times/week"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Sociodemographic, Health, and Behavioral Characteristics of Study",
+            "Table 1. Baseline Sociodemographic, Health, and Behavioral Characteristics of Study",
+            "IG (n=80)"
+          ]
+        },
+        {
+          "value": "20 (26.66)",
+          "rowHeaders": [
+            "2-4 times/month or less"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline Sociodemographic, Health, and Behavioral Characteristics of Study",
+            "Table 1. Baseline Sociodemographic, Health, and Behavioral Characteristics of Study",
+            "IG (n=80)"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "428.4 (523.41)",
+          "rowHeaders": [
+            "MVPA minutes/week"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "3 monthsa",
+            "IG, mean (SD)"
+          ]
+        },
+        {
+          "value": "319.7 (378.23)",
+          "rowHeaders": [
+            "MVPA minutes/week"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "3 monthsa",
+            "WLG, mean (SD)"
+          ]
+        },
+        {
+          "value": "0.139",
+          "rowHeaders": [
+            "MVPA minutes/week"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "3 monthsa",
+            "p-value"
+          ]
+        },
+        {
+          "value": "0.24",
+          "rowHeaders": [
+            "MVPA minutes/week"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "3 monthsa",
+            "d"
+          ]
+        },
+        {
+          "value": "405.3 (491.45)",
+          "rowHeaders": [
+            "MVPA minutes/week"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "6 monthsb",
+            "IG, mean (SD)"
+          ]
+        },
+        {
+          "value": "400.2 (497.80)",
+          "rowHeaders": [
+            "MVPA minutes/week"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "6 monthsb",
+            "WLG, mean (SD)"
+          ]
+        },
+        {
+          "value": "0.952",
+          "rowHeaders": [
+            "MVPA minutes/week"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "6 monthsb",
+            "p-value"
+          ]
+        },
+        {
+          "value": "0.01",
+          "rowHeaders": [
+            "MVPA minutes/week"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "6 monthsb",
+            "d"
+          ]
+        },
+        {
+          "value": "6.7 (3.04)",
+          "rowHeaders": [
+            "Sleep quality (PSQI)e"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "3 monthsa",
+            "IG, mean (SD)"
+          ]
+        },
+        {
+          "value": "8.0 (2.34)",
+          "rowHeaders": [
+            "Sleep quality (PSQI)e"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "3 monthsa",
+            "WLG, mean (SD)"
+          ]
+        },
+        {
+          "value": "0.009",
+          "rowHeaders": [
+            "Sleep quality (PSQI)e"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "3 monthsa",
+            "p-value"
+          ]
+        },
+        {
+          "value": "0.48",
+          "rowHeaders": [
+            "Sleep quality (PSQI)e"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "3 monthsa",
+            "d"
+          ]
+        },
+        {
+          "value": "6.3 (2.98)",
+          "rowHeaders": [
+            "Sleep quality (PSQI)e"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "6 monthsb",
+            "IG, mean (SD)"
+          ]
+        },
+        {
+          "value": "7.5 (2.57)",
+          "rowHeaders": [
+            "Sleep quality (PSQI)e"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "6 monthsb",
+            "WLG, mean (SD)"
+          ]
+        },
+        {
+          "value": "0.040",
+          "rowHeaders": [
+            "Sleep quality (PSQI)e"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "6 monthsb",
+            "p-value"
+          ]
+        },
+        {
+          "value": "0.46",
+          "rowHeaders": [
+            "Sleep quality (PSQI)e"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "6 monthsb",
+            "d"
+          ]
+        },
+        {
+          "value": "612.3 (160.91)",
+          "rowHeaders": [
+            "Sitting minutese"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "3 monthsa",
+            "IG, mean (SD)"
+          ]
+        },
+        {
+          "value": "653.7 (202.12)",
+          "rowHeaders": [
+            "Sitting minutese"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "3 monthsa",
+            "WLG, mean (SD)"
+          ]
+        },
+        {
+          "value": "0.205",
+          "rowHeaders": [
+            "Sitting minutese"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "3 monthsa",
+            "p-value"
+          ]
+        },
+        {
+          "value": "0.22",
+          "rowHeaders": [
+            "Sitting minutese"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "3 monthsa",
+            "d"
+          ]
+        },
+        {
+          "value": "579.7 (187.83)",
+          "rowHeaders": [
+            "Sitting minutese"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "6 monthsb",
+            "IG, mean (SD)"
+          ]
+        },
+        {
+          "value": "581.7 (197.27)",
+          "rowHeaders": [
+            "Sitting minutese"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "6 monthsb",
+            "WLG, mean (SD)"
+          ]
+        },
+        {
+          "value": "0.960",
+          "rowHeaders": [
+            "Sitting minutese"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "6 monthsb",
+            "p-value"
+          ]
+        },
+        {
+          "value": "0.01",
+          "rowHeaders": [
+            "Sitting minutese"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "6 monthsb",
+            "d"
+          ]
+        },
+        {
+          "value": "3.6 (1.70)",
+          "rowHeaders": [
+            "Bedtime variability"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "3 monthsa",
+            "IG, mean (SD)"
+          ]
+        },
+        {
+          "value": "4.1 (2.10)",
+          "rowHeaders": [
+            "Bedtime variability"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "3 monthsa",
+            "WLG, mean (SD)"
+          ]
+        },
+        {
+          "value": "0.171",
+          "rowHeaders": [
+            "Bedtime variability"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "3 monthsa",
+            "p-value"
+          ]
+        },
+        {
+          "value": "0.24",
+          "rowHeaders": [
+            "Bedtime variability"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "3 monthsa",
+            "d"
+          ]
+        },
+        {
+          "value": "3.4 (1.46)",
+          "rowHeaders": [
+            "Bedtime variability"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "6 monthsb",
+            "IG, mean (SD)"
+          ]
+        },
+        {
+          "value": "4.2 (1.92)",
+          "rowHeaders": [
+            "Bedtime variability"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "6 monthsb",
+            "WLG, mean (SD)"
+          ]
+        },
+        {
+          "value": "0.023",
+          "rowHeaders": [
+            "Bedtime variability"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "6 monthsb",
+            "p-value"
+          ]
+        },
+        {
+          "value": "0.47",
+          "rowHeaders": [
+            "Bedtime variability"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "6 monthsb",
+            "d"
+          ]
+        },
+        {
+          "value": "2.5 (1.84)",
+          "rowHeaders": [
+            "Waketime variability"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "3 monthsa",
+            "IG, mean (SD)"
+          ]
+        },
+        {
+          "value": "3.0 (1.95)",
+          "rowHeaders": [
+            "Waketime variability"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "3 monthsa",
+            "WLG, mean (SD)"
+          ]
+        },
+        {
+          "value": "0.018",
+          "rowHeaders": [
+            "Waketime variability"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "3 monthsa",
+            "p-value"
+          ]
+        },
+        {
+          "value": "0.40",
+          "rowHeaders": [
+            "Waketime variability"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "3 monthsa",
+            "d"
+          ]
+        },
+        {
+          "value": "2.6 (1.06)",
+          "rowHeaders": [
+            "Waketime variability"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "6 monthsb",
+            "IG, mean (SD)"
+          ]
+        },
+        {
+          "value": "3.0 (1.92)",
+          "rowHeaders": [
+            "Waketime variability"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "6 monthsb",
+            "WLG, mean (SD)"
+          ]
+        },
+        {
+          "value": "0.236",
+          "rowHeaders": [
+            "Waketime variability"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "6 monthsb",
+            "p-value"
+          ]
+        },
+        {
+          "value": "0.22",
+          "rowHeaders": [
+            "Waketime variability"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "6 monthsb",
+            "d"
+          ]
+        },
+        {
+          "value": "30.0 (4.27)",
+          "rowHeaders": [
+            "Sleep hygiene"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "3 monthsa",
+            "IG, mean (SD)"
+          ]
+        },
+        {
+          "value": "31.6 (3.98)",
+          "rowHeaders": [
+            "Sleep hygiene"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "3 monthsa",
+            "WLG, mean (SD)"
+          ]
+        },
+        {
+          "value": "0.027",
+          "rowHeaders": [
+            "Sleep hygiene"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "3 monthsa",
+            "p-value"
+          ]
+        },
+        {
+          "value": "0.40",
+          "rowHeaders": [
+            "Sleep hygiene"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "3 monthsa",
+            "d"
+          ]
+        },
+        {
+          "value": "30.6 (4.33)",
+          "rowHeaders": [
+            "Sleep hygiene"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "6 monthsb",
+            "IG, mean (SD)"
+          ]
+        },
+        {
+          "value": "32.8 (6.02)",
+          "rowHeaders": [
+            "Sleep hygiene"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "6 monthsb",
+            "WLG, mean (SD)"
+          ]
+        },
+        {
+          "value": "0.048",
+          "rowHeaders": [
+            "Sleep hygiene"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "6 monthsb",
+            "p-value"
+          ]
+        },
+        {
+          "value": "0.42",
+          "rowHeaders": [
+            "Sleep hygiene"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "6 monthsb",
+            "d"
+          ]
+        },
+        {
+          "value": "9.3 (3.80)",
+          "rowHeaders": [
+            "Insomnia severity"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "3 monthsa",
+            "IG, mean (SD)"
+          ]
+        },
+        {
+          "value": "11.3 (3.50)",
+          "rowHeaders": [
+            "Insomnia severity"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "3 monthsa",
+            "WLG, mean (SD)"
+          ]
+        },
+        {
+          "value": "0.002",
+          "rowHeaders": [
+            "Insomnia severity"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "3 monthsa",
+            "p-value"
+          ]
+        },
+        {
+          "value": "0.56",
+          "rowHeaders": [
+            "Insomnia severity"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "3 monthsa",
+            "d"
+          ]
+        },
+        {
+          "value": "8.5 (4.23)",
+          "rowHeaders": [
+            "Insomnia severity"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "6 monthsb",
+            "IG, mean (SD)"
+          ]
+        },
+        {
+          "value": "11.4 (4.11)",
+          "rowHeaders": [
+            "Insomnia severity"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "6 monthsb",
+            "WLG, mean (SD)"
+          ]
+        },
+        {
+          "value": "0.002",
+          "rowHeaders": [
+            "Insomnia severity"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "6 monthsb",
+            "p-value"
+          ]
+        },
+        {
+          "value": "0.69",
+          "rowHeaders": [
+            "Insomnia severity"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "6 monthsb",
+            "d"
+          ]
+        },
+        {
+          "value": "7.1 (3.44)",
+          "rowHeaders": [
+            "Daytime sleepiness"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "3 monthsa",
+            "IG, mean (SD)"
+          ]
+        },
+        {
+          "value": "8.0 (3.31)",
+          "rowHeaders": [
+            "Daytime sleepiness"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "3 monthsa",
+            "WLG, mean (SD)"
+          ]
+        },
+        {
+          "value": "0.103",
+          "rowHeaders": [
+            "Daytime sleepiness"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "3 monthsa",
+            "p-value"
+          ]
+        },
+        {
+          "value": "0.29",
+          "rowHeaders": [
+            "Daytime sleepiness"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "3 monthsa",
+            "d"
+          ]
+        },
+        {
+          "value": "5.7 (2.92)",
+          "rowHeaders": [
+            "Daytime sleepiness"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "6 monthsb",
+            "IG, mean (SD)"
+          ]
+        },
+        {
+          "value": "8.4 (3.98)",
+          "rowHeaders": [
+            "Daytime sleepiness"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "6 monthsb",
+            "WLG, mean (SD)"
+          ]
+        },
+        {
+          "value": "<0.001",
+          "rowHeaders": [
+            "Daytime sleepiness"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "6 monthsb",
+            "p-value"
+          ]
+        },
+        {
+          "value": "0.74",
+          "rowHeaders": [
+            "Daytime sleepiness"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "6 monthsb",
+            "d"
+          ]
+        },
+        {
+          "value": "10.6 (7.62)",
+          "rowHeaders": [
+            "Depression symptomsc,d"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "3 monthsa",
+            "IG, mean (SD)"
+          ]
+        },
+        {
+          "value": "12.6 (7.97)",
+          "rowHeaders": [
+            "Depression symptomsc,d"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "3 monthsa",
+            "WLG, mean (SD)"
+          ]
+        },
+        {
+          "value": "0.120",
+          "rowHeaders": [
+            "Depression symptomsc,d"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "3 monthsa",
+            "p-value"
+          ]
+        },
+        {
+          "value": "0.26",
+          "rowHeaders": [
+            "Depression symptomsc,d"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "3 monthsa",
+            "d"
+          ]
+        },
+        {
+          "value": "10.9 (8.01)",
+          "rowHeaders": [
+            "Depression symptomsc,d"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "6 monthsb",
+            "IG, mean (SD)"
+          ]
+        },
+        {
+          "value": "13.3 (9.49)",
+          "rowHeaders": [
+            "Depression symptomsc,d"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "6 monthsb",
+            "WLG, mean (SD)"
+          ]
+        },
+        {
+          "value": "0.190",
+          "rowHeaders": [
+            "Depression symptomsc,d"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "6 monthsb",
+            "p-value"
+          ]
+        },
+        {
+          "value": "0.27",
+          "rowHeaders": [
+            "Depression symptomsc,d"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "6 monthsb",
+            "d"
+          ]
+        },
+        {
+          "value": "6.4 (3.65)",
+          "rowHeaders": [
+            "Anxiety symptomsd"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "3 monthsa",
+            "IG, mean (SD)"
+          ]
+        },
+        {
+          "value": "7.5 (5.04)",
+          "rowHeaders": [
+            "Anxiety symptomsd"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "3 monthsa",
+            "WLG, mean (SD)"
+          ]
+        },
+        {
+          "value": "0.148",
+          "rowHeaders": [
+            "Anxiety symptomsd"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "3 monthsa",
+            "p-value"
+          ]
+        },
+        {
+          "value": "0.25",
+          "rowHeaders": [
+            "Anxiety symptomsd"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "3 monthsa",
+            "d"
+          ]
+        },
+        {
+          "value": "5.9 (3.54)",
+          "rowHeaders": [
+            "Anxiety symptomsd"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "6 monthsb",
+            "IG, mean (SD)"
+          ]
+        },
+        {
+          "value": "8.9 (4.70)",
+          "rowHeaders": [
+            "Anxiety symptomsd"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "6 monthsb",
+            "WLG, mean (SD)"
+          ]
+        },
+        {
+          "value": "0.003",
+          "rowHeaders": [
+            "Anxiety symptomsd"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "6 monthsb",
+            "p-value"
+          ]
+        },
+        {
+          "value": "0.57",
+          "rowHeaders": [
+            "Anxiety symptomsd"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "6 monthsb",
+            "d"
+          ]
+        },
+        {
+          "value": "13.6 (4.20)",
+          "rowHeaders": [
+            "Stress symptoms"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "3 monthsa",
+            "IG, mean (SD)"
+          ]
+        },
+        {
+          "value": "15.4 (4.97)",
+          "rowHeaders": [
+            "Stress symptoms"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "3 monthsa",
+            "WLG, mean (SD)"
+          ]
+        },
+        {
+          "value": "0.032",
+          "rowHeaders": [
+            "Stress symptoms"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "3 monthsa",
+            "p-value"
+          ]
+        },
+        {
+          "value": "0.38",
+          "rowHeaders": [
+            "Stress symptoms"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "3 monthsa",
+            "d"
+          ]
+        },
+        {
+          "value": "13.0 (5.75)",
+          "rowHeaders": [
+            "Stress symptoms"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "6 monthsb",
+            "IG, mean (SD)"
+          ]
+        },
+        {
+          "value": "16.3 (5.24)",
+          "rowHeaders": [
+            "Stress symptoms"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "6 monthsb",
+            "WLG, mean (SD)"
+          ]
+        },
+        {
+          "value": "0.006",
+          "rowHeaders": [
+            "Stress symptoms"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "6 monthsb",
+            "p-value"
+          ]
+        },
+        {
+          "value": "0.62",
+          "rowHeaders": [
+            "Stress symptoms"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "6 monthsb",
+            "d"
+          ]
+        },
+        {
+          "value": "44.4 (6.81)",
+          "rowHeaders": [
+            "Mental healthe"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "3 monthsa",
+            "IG, mean (SD)"
+          ]
+        },
+        {
+          "value": "44.9 (7.12)",
+          "rowHeaders": [
+            "Mental healthe"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "3 monthsa",
+            "WLG, mean (SD)"
+          ]
+        },
+        {
+          "value": "0.689",
+          "rowHeaders": [
+            "Mental healthe"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "3 monthsa",
+            "p-value"
+          ]
+        },
+        {
+          "value": "0.07",
+          "rowHeaders": [
+            "Mental healthe"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "3 monthsa",
+            "d"
+          ]
+        },
+        {
+          "value": "47.6 (5.53)",
+          "rowHeaders": [
+            "Mental healthe"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "6 monthsb",
+            "IG, mean (SD)"
+          ]
+        },
+        {
+          "value": "45.0 (8.12)",
+          "rowHeaders": [
+            "Mental healthe"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "6 monthsb",
+            "WLG, mean (SD)"
+          ]
+        },
+        {
+          "value": "0.071",
+          "rowHeaders": [
+            "Mental healthe"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "6 monthsb",
+            "p-value"
+          ]
+        },
+        {
+          "value": "0.37",
+          "rowHeaders": [
+            "Mental healthe"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "6 monthsb",
+            "d"
+          ]
+        },
+        {
+          "value": "47.6 (5.21)",
+          "rowHeaders": [
+            "Physical healthe"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "3 monthsa",
+            "IG, mean (SD)"
+          ]
+        },
+        {
+          "value": "46.8 (5.54)",
+          "rowHeaders": [
+            "Physical healthe"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "3 monthsa",
+            "WLG, mean (SD)"
+          ]
+        },
+        {
+          "value": "0.400",
+          "rowHeaders": [
+            "Physical healthe"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "3 monthsa",
+            "p-value"
+          ]
+        },
+        {
+          "value": "0.15",
+          "rowHeaders": [
+            "Physical healthe"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "3 monthsa",
+            "d"
+          ]
+        },
+        {
+          "value": "46.5 (4.95)",
+          "rowHeaders": [
+            "Physical healthe"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "6 monthsb",
+            "IG, mean (SD)"
+          ]
+        },
+        {
+          "value": "47.3 (5.14)",
+          "rowHeaders": [
+            "Physical healthe"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "6 monthsb",
+            "WLG, mean (SD)"
+          ]
+        },
+        {
+          "value": "0.467",
+          "rowHeaders": [
+            "Physical healthe"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "6 monthsb",
+            "p-value"
+          ]
+        },
+        {
+          "value": "0.16",
+          "rowHeaders": [
+            "Physical healthe"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "6 monthsb",
+            "d"
+          ]
+        },
+        {
+          "value": "52.4 (8.29)",
+          "rowHeaders": [
+            "Energy/fatiguee"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "3 monthsa",
+            "IG, mean (SD)"
+          ]
+        },
+        {
+          "value": "53.4 (11.08)",
+          "rowHeaders": [
+            "Energy/fatiguee"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "3 monthsa",
+            "WLG, mean (SD)"
+          ]
+        },
+        {
+          "value": "0.541",
+          "rowHeaders": [
+            "Energy/fatiguee"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "3 monthsa",
+            "p-value"
+          ]
+        },
+        {
+          "value": "0.11",
+          "rowHeaders": [
+            "Energy/fatiguee"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "3 monthsa",
+            "d"
+          ]
+        },
+        {
+          "value": "54.7 (9.90)",
+          "rowHeaders": [
+            "Energy/fatiguee"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "6 monthsb",
+            "IG, mean (SD)"
+          ]
+        },
+        {
+          "value": "51.1 (11.49)",
+          "rowHeaders": [
+            "Energy/fatiguee"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "6 monthsb",
+            "WLG, mean (SD)"
+          ]
+        },
+        {
+          "value": "0.118",
+          "rowHeaders": [
+            "Energy/fatiguee"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "6 monthsb",
+            "p-value"
+          ]
+        },
+        {
+          "value": "0.33",
+          "rowHeaders": [
+            "Energy/fatiguee"
+          ],
+          "columnHeaders": [
+            "Outcomes",
+            "6 monthsb",
+            "d"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "20.56",
+          "rowHeaders": [
+            "Resistance training on ≥2 days/week"
+          ],
+          "columnHeaders": [
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "monthsa",
+            "OR"
+          ]
+        },
+        {
+          "value": "21.36 (2.69,",
+          "rowHeaders": [
+            "Resistance training on ≥2 days/week"
+          ],
+          "columnHeaders": [
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "monthsa",
+            "SE (95% CI)"
+          ]
+        },
+        {
+          "value": "157.46)",
+          "rowHeaders": [
+            "Resistance training on ≥2 days/week"
+          ],
+          "columnHeaders": [
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "monthsa",
+            "SE (95% CI)"
+          ]
+        },
+        {
+          "value": "0.004",
+          "rowHeaders": [
+            "Resistance training on ≥2 days/week"
+          ],
+          "columnHeaders": [
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "monthsa",
+            "p-value"
+          ]
+        },
+        {
+          "value": "1.05",
+          "rowHeaders": [
+            "Resistance training on ≥2 days/week"
+          ],
+          "columnHeaders": [
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "6 monthsb",
+            "OR"
+          ]
+        },
+        {
+          "value": "1.35 (0.08,",
+          "rowHeaders": [
+            "Resistance training on ≥2 days/week"
+          ],
+          "columnHeaders": [
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "6 monthsb",
+            "SE (95% CI)"
+          ]
+        },
+        {
+          "value": "13.13)",
+          "rowHeaders": [
+            "Resistance training on ≥2 days/week"
+          ],
+          "columnHeaders": [
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "6 monthsb",
+            "SE (95% CI)"
+          ]
+        },
+        {
+          "value": "0.970",
+          "rowHeaders": [
+            "Resistance training on ≥2 days/week"
+          ],
+          "columnHeaders": [
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "6 monthsb",
+            "p-value"
+          ]
+        },
+        {
+          "value": "6.71",
+          "rowHeaders": [
+            "Resistance training for ≥10 minutes/week"
+          ],
+          "columnHeaders": [
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "monthsa",
+            "OR"
+          ]
+        },
+        {
+          "value": "5.09 (1.52,",
+          "rowHeaders": [
+            "Resistance training for ≥10 minutes/week"
+          ],
+          "columnHeaders": [
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "monthsa",
+            "SE (95% CI)"
+          ]
+        },
+        {
+          "value": "29.65)",
+          "rowHeaders": [
+            "Resistance training for ≥10 minutes/week"
+          ],
+          "columnHeaders": [
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "monthsa",
+            "SE (95% CI)"
+          ]
+        },
+        {
+          "value": "0.012",
+          "rowHeaders": [
+            "Resistance training for ≥10 minutes/week"
+          ],
+          "columnHeaders": [
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "monthsa",
+            "p-value"
+          ]
+        },
+        {
+          "value": "1.84",
+          "rowHeaders": [
+            "Resistance training for ≥10 minutes/week"
+          ],
+          "columnHeaders": [
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "6 monthsb",
+            "OR"
+          ]
+        },
+        {
+          "value": "1.72 (0.30,",
+          "rowHeaders": [
+            "Resistance training for ≥10 minutes/week"
+          ],
+          "columnHeaders": [
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "6 monthsb",
+            "SE (95% CI)"
+          ]
+        },
+        {
+          "value": "11.43)",
+          "rowHeaders": [
+            "Resistance training for ≥10 minutes/week"
+          ],
+          "columnHeaders": [
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "6 monthsb",
+            "SE (95% CI)"
+          ]
+        },
+        {
+          "value": "0.511",
+          "rowHeaders": [
+            "Resistance training for ≥10 minutes/week"
+          ],
+          "columnHeaders": [
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "6 monthsb",
+            "p-value"
+          ]
+        },
+        {
+          "value": "0.36",
+          "rowHeaders": [
+            "Subjective sleep qualityd,e"
+          ],
+          "columnHeaders": [
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "monthsa",
+            "OR"
+          ]
+        },
+        {
+          "value": "0.15 (0.16,",
+          "rowHeaders": [
+            "Subjective sleep qualityd,e"
+          ],
+          "columnHeaders": [
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "monthsa",
+            "SE (95% CI)"
+          ]
+        },
+        {
+          "value": "0.84)",
+          "rowHeaders": [
+            "Subjective sleep qualityd,e"
+          ],
+          "columnHeaders": [
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "monthsa",
+            "SE (95% CI)"
+          ]
+        },
+        {
+          "value": "0.017",
+          "rowHeaders": [
+            "Subjective sleep qualityd,e"
+          ],
+          "columnHeaders": [
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "monthsa",
+            "p-value"
+          ]
+        },
+        {
+          "value": "0.89",
+          "rowHeaders": [
+            "Subjective sleep qualityd,e"
+          ],
+          "columnHeaders": [
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "6 monthsb",
+            "OR"
+          ]
+        },
+        {
+          "value": "0.50 (0.29,",
+          "rowHeaders": [
+            "Subjective sleep qualityd,e"
+          ],
+          "columnHeaders": [
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "6 monthsb",
+            "SE (95% CI)"
+          ]
+        },
+        {
+          "value": "2.68)",
+          "rowHeaders": [
+            "Subjective sleep qualityd,e"
+          ],
+          "columnHeaders": [
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "6 monthsb",
+            "SE (95% CI)"
+          ]
+        },
+        {
+          "value": "0.832",
+          "rowHeaders": [
+            "Subjective sleep qualityd,e"
+          ],
+          "columnHeaders": [
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "6 monthsb",
+            "p-value"
+          ]
+        },
+        {
+          "value": "0.27",
+          "rowHeaders": [
+            "Sleep onset latency"
+          ],
+          "columnHeaders": [
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "monthsa",
+            "OR"
+          ]
+        },
+        {
+          "value": "0.14 (0.10,",
+          "rowHeaders": [
+            "Sleep onset latency"
+          ],
+          "columnHeaders": [
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "monthsa",
+            "SE (95% CI)"
+          ]
+        },
+        {
+          "value": "0.76)",
+          "rowHeaders": [
+            "Sleep onset latency"
+          ],
+          "columnHeaders": [
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "monthsa",
+            "SE (95% CI)"
+          ]
+        },
+        {
+          "value": "0.013",
+          "rowHeaders": [
+            "Sleep onset latency"
+          ],
+          "columnHeaders": [
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "monthsa",
+            "p-value"
+          ]
+        },
+        {
+          "value": "0.48",
+          "rowHeaders": [
+            "Sleep onset latency"
+          ],
+          "columnHeaders": [
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "6 monthsb",
+            "OR"
+          ]
+        },
+        {
+          "value": "0.32 (0.13,",
+          "rowHeaders": [
+            "Sleep onset latency"
+          ],
+          "columnHeaders": [
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "6 monthsb",
+            "SE (95% CI)"
+          ]
+        },
+        {
+          "value": "1.74)",
+          "rowHeaders": [
+            "Sleep onset latency"
+          ],
+          "columnHeaders": [
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "6 monthsb",
+            "SE (95% CI)"
+          ]
+        },
+        {
+          "value": "0.263",
+          "rowHeaders": [
+            "Sleep onset latency"
+          ],
+          "columnHeaders": [
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "6 monthsb",
+            "p-value"
+          ]
+        },
+        {
+          "value": "0.49",
+          "rowHeaders": [
+            "Sleep durationd,e"
+          ],
+          "columnHeaders": [
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "monthsa",
+            "OR"
+          ]
+        },
+        {
+          "value": "0.25 (0.18,",
+          "rowHeaders": [
+            "Sleep durationd,e"
+          ],
+          "columnHeaders": [
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "monthsa",
+            "SE (95% CI)"
+          ]
+        },
+        {
+          "value": "1.32)",
+          "rowHeaders": [
+            "Sleep durationd,e"
+          ],
+          "columnHeaders": [
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "monthsa",
+            "SE (95% CI)"
+          ]
+        },
+        {
+          "value": "0.158",
+          "rowHeaders": [
+            "Sleep durationd,e"
+          ],
+          "columnHeaders": [
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "monthsa",
+            "p-value"
+          ]
+        },
+        {
+          "value": "0.45",
+          "rowHeaders": [
+            "Sleep durationd,e"
+          ],
+          "columnHeaders": [
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "6 monthsb",
+            "OR"
+          ]
+        },
+        {
+          "value": "0.29 (0.13,",
+          "rowHeaders": [
+            "Sleep durationd,e"
+          ],
+          "columnHeaders": [
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "6 monthsb",
+            "SE (95% CI)"
+          ]
+        },
+        {
+          "value": "1.56)",
+          "rowHeaders": [
+            "Sleep durationd,e"
+          ],
+          "columnHeaders": [
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "6 monthsb",
+            "SE (95% CI)"
+          ]
+        },
+        {
+          "value": "0.208",
+          "rowHeaders": [
+            "Sleep durationd,e"
+          ],
+          "columnHeaders": [
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "6 monthsb",
+            "p-value"
+          ]
+        },
+        {
+          "value": "0.52",
+          "rowHeaders": [
+            "Sleep efficiencyd,e"
+          ],
+          "columnHeaders": [
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "monthsa",
+            "OR"
+          ]
+        },
+        {
+          "value": "0.23 (0.21,",
+          "rowHeaders": [
+            "Sleep efficiencyd,e"
+          ],
+          "columnHeaders": [
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "monthsa",
+            "SE (95% CI)"
+          ]
+        },
+        {
+          "value": "1.25)",
+          "rowHeaders": [
+            "Sleep efficiencyd,e"
+          ],
+          "columnHeaders": [
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "monthsa",
+            "SE (95% CI)"
+          ]
+        },
+        {
+          "value": "0.107",
+          "rowHeaders": [
+            "Sleep efficiencyd,e"
+          ],
+          "columnHeaders": [
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "monthsa",
+            "p-value"
+          ]
+        },
+        {
+          "value": "0.64",
+          "rowHeaders": [
+            "Sleep efficiencyd,e"
+          ],
+          "columnHeaders": [
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "6 monthsb",
+            "OR"
+          ]
+        },
+        {
+          "value": "0.33 (0.23,",
+          "rowHeaders": [
+            "Sleep efficiencyd,e"
+          ],
+          "columnHeaders": [
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "6 monthsb",
+            "SE (95% CI)"
+          ]
+        },
+        {
+          "value": "1.77)",
+          "rowHeaders": [
+            "Sleep efficiencyd,e"
+          ],
+          "columnHeaders": [
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "6 monthsb",
+            "SE (95% CI)"
+          ]
+        },
+        {
+          "value": "0.392",
+          "rowHeaders": [
+            "Sleep efficiencyd,e"
+          ],
+          "columnHeaders": [
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "6 monthsb",
+            "p-value"
+          ]
+        },
+        {
+          "value": "0.34",
+          "rowHeaders": [
+            "Sleep disturbancesd,e"
+          ],
+          "columnHeaders": [
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "monthsa",
+            "OR"
+          ]
+        },
+        {
+          "value": "0.22 (0.10,",
+          "rowHeaders": [
+            "Sleep disturbancesd,e"
+          ],
+          "columnHeaders": [
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "monthsa",
+            "SE (95% CI)"
+          ]
+        },
+        {
+          "value": "1.18)",
+          "rowHeaders": [
+            "Sleep disturbancesd,e"
+          ],
+          "columnHeaders": [
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "monthsa",
+            "SE (95% CI)"
+          ]
+        },
+        {
+          "value": "0.089",
+          "rowHeaders": [
+            "Sleep disturbancesd,e"
+          ],
+          "columnHeaders": [
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "monthsa",
+            "p-value"
+          ]
+        },
+        {
+          "value": "0.25",
+          "rowHeaders": [
+            "Sleep disturbancesd,e"
+          ],
+          "columnHeaders": [
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "6 monthsb",
+            "OR"
+          ]
+        },
+        {
+          "value": "0.20 (0.05,",
+          "rowHeaders": [
+            "Sleep disturbancesd,e"
+          ],
+          "columnHeaders": [
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "6 monthsb",
+            "SE (95% CI)"
+          ]
+        },
+        {
+          "value": "1.22)",
+          "rowHeaders": [
+            "Sleep disturbancesd,e"
+          ],
+          "columnHeaders": [
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "6 monthsb",
+            "SE (95% CI)"
+          ]
+        },
+        {
+          "value": "0.086",
+          "rowHeaders": [
+            "Sleep disturbancesd,e"
+          ],
+          "columnHeaders": [
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "6 monthsb",
+            "p-value"
+          ]
+        },
+        {
+          "value": "0.47",
+          "rowHeaders": [
+            "Sleep medication used,e"
+          ],
+          "columnHeaders": [
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "monthsa",
+            "OR"
+          ]
+        },
+        {
+          "value": "0.42 (0.08,",
+          "rowHeaders": [
+            "Sleep medication used,e"
+          ],
+          "columnHeaders": [
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "monthsa",
+            "SE (95% CI)"
+          ]
+        },
+        {
+          "value": "2.72)",
+          "rowHeaders": [
+            "Sleep medication used,e"
+          ],
+          "columnHeaders": [
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "monthsa",
+            "SE (95% CI)"
+          ]
+        },
+        {
+          "value": "0.402",
+          "rowHeaders": [
+            "Sleep medication used,e"
+          ],
+          "columnHeaders": [
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "monthsa",
+            "p-value"
+          ]
+        },
+        {
+          "value": "0.07",
+          "rowHeaders": [
+            "Sleep medication used,e"
+          ],
+          "columnHeaders": [
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "6 monthsb",
+            "OR"
+          ]
+        },
+        {
+          "value": "0.10 (0.00,",
+          "rowHeaders": [
+            "Sleep medication used,e"
+          ],
+          "columnHeaders": [
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "6 monthsb",
+            "SE (95% CI)"
+          ]
+        },
+        {
+          "value": "1.19)",
+          "rowHeaders": [
+            "Sleep medication used,e"
+          ],
+          "columnHeaders": [
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "6 monthsb",
+            "SE (95% CI)"
+          ]
+        },
+        {
+          "value": "0.066",
+          "rowHeaders": [
+            "Sleep medication used,e"
+          ],
+          "columnHeaders": [
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "6 monthsb",
+            "p-value"
+          ]
+        },
+        {
+          "value": "0.80",
+          "rowHeaders": [
+            "Daytime dysfunctiond,e"
+          ],
+          "columnHeaders": [
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "monthsa",
+            "OR"
+          ]
+        },
+        {
+          "value": "0.41 (0.29,",
+          "rowHeaders": [
+            "Daytime dysfunctiond,e"
+          ],
+          "columnHeaders": [
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "monthsa",
+            "SE (95% CI)"
+          ]
+        },
+        {
+          "value": "2.19)",
+          "rowHeaders": [
+            "Daytime dysfunctiond,e"
+          ],
+          "columnHeaders": [
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "monthsa",
+            "SE (95% CI)"
+          ]
+        },
+        {
+          "value": "0.665",
+          "rowHeaders": [
+            "Daytime dysfunctiond,e"
+          ],
+          "columnHeaders": [
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "monthsa",
+            "p-value"
+          ]
+        },
+        {
+          "value": "0.28",
+          "rowHeaders": [
+            "Daytime dysfunctiond,e"
+          ],
+          "columnHeaders": [
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "6 monthsb",
+            "OR"
+          ]
+        },
+        {
+          "value": "0.17 (0.08,",
+          "rowHeaders": [
+            "Daytime dysfunctiond,e"
+          ],
+          "columnHeaders": [
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "6 monthsb",
+            "SE (95% CI)"
+          ]
+        },
+        {
+          "value": "0.94)",
+          "rowHeaders": [
+            "Daytime dysfunctiond,e"
+          ],
+          "columnHeaders": [
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "6 monthsb",
+            "SE (95% CI)"
+          ]
+        },
+        {
+          "value": "0.039",
+          "rowHeaders": [
+            "Daytime dysfunctiond,e"
+          ],
+          "columnHeaders": [
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "Table 3. ORs, 95% CIs, and Results From Tests of Between-Group Differences for Categorical Outcomes Using Complete",
+            "6 monthsb",
+            "p-value"
+          ]
+        }
+      ],
+      "page": 1
+    }
+  ]
+}

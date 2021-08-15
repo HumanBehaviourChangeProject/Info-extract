@@ -1,0 +1,3464 @@
+{
+  "blocks": [
+    {
+      "type": "LINES",
+      "value": "The iCook 4-H Study: Report on Physical Activity and Sedentary Time in Youth Participating in a Multicomponent Program Promoting Family Cooking, Eating, and Playing Together",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Objective: To report physical activity and sedentary time outcomes of youth in iCook 4-H. Study Design and Setting: iCook 4-H was a 5-state, randomized, control−treatment, family-based childhood obesity prevention intervention promoting cooking, eating, and playing together. Participants and Intervention: Youth aged 9−10 years and the main preparer of their meals participated in the 12-week program followed by monthly newsletters and biyearly booster sessions until 24 months. Main Outcome Measure(s): A total of 155 youth were fitted with an Actigraph GT3X+ accelerometer, which they wore for 7 days at baseline and 4, 12, and 24 months to measure mean daily minutes per hour of waking wear time for sedentary time (ST), light physical activity (PA) (LPA), moderate PA, vigorous PA, and moderate to vigorous PA. Self-reported PA was assessed using the Block Kids Physical Activity Screener and additional questions querying for the program goal of the frequency of family actively playing together. Linear mixed models were used to determine differences from baseline to 24 months. Significance was set at P ≤ .05. Results: There was a significant (P < .05) group £ time interaction for LPA (adjusted interaction B estimate, 95% confidence interval; 0.18 [0.05, 0.30]) and ST (¡0.15 [¡0.26, ¡0.04]); ST increased and LPA decreased in the treatment group. There were no differences in other accelerometer-derived PA measures, self-report Block Kids Physical Activity Screener measures, or frequency of family actively playing together at anytime point. Conclusions and Implications: iCook 4-H was a multicomponent program observing youth aged 9−10 years for 24 months that focused on enhancing cooking skills, mealtime behavior and conversation, and PA through daily family activities. Greater emphasis on developing PA skills, changing environmental factors, and increasing PA both in and after school maybe needed.",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Childhood obesity is a significant problem in the US. Despite recent declines in certain age groups, 34.2% of youth aged 6−11 years remain overweight or obese. Childhood obesity is influenced by demographic factors and eating behaviors as well as alack of physical activity (PA). Overweight and obese children are at increased risk for health consequences including high blood pressure, insulin resistance, type 2 diabetes, elevated cholesterol, cardiovascular disease, and some cancers. The World Health Organization suggests that overweight and obese children and adolescents will grow into overweight and obese adults, leading to an increased number of health concerns later in life. This assumption is inline with results from a systematic review that reported an association between overweight and obesity in childhood and an increased risk for type 2 diabetes, hypertension, coronary heart disease, and mortality in adulthood. McLoone and Morrison 7 also reported that as the body mass index (BMI) of the parent increased, so too did the prevalence of obesity in the child, which suggests a need for interventions aimed at both the parent and child.\nAlthough some causes and consequences of childhood obesity are known, the most effective way to prevent childhood obesity is still debated. It is known that increasing PA can have an important role in preventing childhood obesity. Cited benefits of PA for children include maintenance of a healthier weight, better coordination and movement, healthier musculoskeletal tissues, and a healthier cardiovascular system. Maintaining a healthy weight can also improve self-esteem and body image. According to the 2008 Physical Activity Guidelines for Americans, children and adolescents should engage in at least 60 minutes of moderate to vigorous PA (MVPA) each day to prevent the risk for chronic diseases. Moderate to vigorous PA includes activities such as biking, running, or jumping rope and is defined as an effort of 5−8 on a scale of 0−10. However, despite this recommendation, most children and adolescents in the US do not meet the guidelines. In 2008, Troiano and colleagues reported that 58% of youth aged 6 −11 years did not meet the guidelines and in 2012, Fakhouri and colleagues reported that 75.2% of those aged 12−15 years did not meet them. These results indicate that there is a decline in PA that occurs with age, which was also confirmed by Belcher and colleagues. Furthermore, the lack of PA in adolescents is not limited to those in the US. It was estimated that internationally, only 9% of boys and 1.9% of girls aged 5−17 years are achieving 60 min/d MVPA. It was reported that children aged 6−11 years spend an average of 6 hours in sedentary time such as sitting and watching TV. Reducing sedentary time may also have a role in decreasing and preventing childhood obesity independently of PA. Examples of sedentary behaviors include sitting, sleeping, lying down, and reclining, which are often activities that children do while watching TV or playing video games. Similar to the consequences of low PA, sedentary time is negatively associated with metabolic outcomes. Multiple studies found a positive association between reduced sedentary time and markers associated with health outcomes such as improved insulin sensitivity and lipid levels. It was also shown that spending -->2 h/d watching TV is related to excess weight gain and fat mass. In the most recent guidelines from the Academy of Pediatrics, recommendations for parents are to provide consistent limits regarding media use and to ensure that media use does not interfere with adequate sleep, PA, and other activities related to health behaviors. Currently, 2 types of interventions, school-and family-based, aim to increase PA and reduce sedentary time to address childhood obesity. Although some school-based interventions had positive outcomes, they tended to lack long-term impacts and were reported to be more successful when the parent or family was involved. Studies from Khambalia and colleagues and Li and colleagues both concluded that school-based interventions were more effective when they included a family component. There is strong support in the literature for inclusion of a familybased component to interventions aimed at increasing PA and reducing sedentary time. Family-based interventions may lead to longer-term success because of parental involvement, which transitions the learned behavior into the home. It is also known that children model the behaviors of their parents, which underlines the need for family-based obesity interventions. Brown et al reported in a systematic review that families that included goal setting and planning for PA had increased motivation and changes in PA levels. Recent literature suggested that multicomponent programs such as those including segments on nutrition, PA, and cooking tend to be more successful as well. There is a need for effective multicomponent, family-based interventions to promote healthful behaviors to enhance obesity prevention throughout life. The iCook 4-H program was developed to meet this need. iCook 4-H was a 12week, multicomponent, family-based obesity prevention intervention aimed at increasing basic cooking skills, family mealtimes, and PA in youth aged 9−10 years. This article reports PA and sedentary time outcomes of participants in the intervention.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The intervention was a control−treatment design for youth aged 9−10 years and the preparer of their main meal; it took place in Maine, Nebraska, South Dakota, Tennessee, and West Virginia. A community-based participatory research approach was used to design, implement, and evaluate the intervention. Steering committees were formed in each state and included members from the research team, extension/4-H staff, Expanded Food and Nutrition Education Program staff (EFNEP), community members, and graduate students.\nTo build the curriculum, the researchers employed the 4-H model of empowering youth to reach their full potential by working and learning in partnership with caring adults. By using the 4-H model as the basis for the iCook 4-H program, youth and adults were encouraged to work together while learning new skills and information. The EFNEP personnel were included in the program design to ensure that the curriculum was appropriate for EFNEP programming, which is typically aimed at low-income populations.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Extension or EFNEP staff served as the iCook leaders, who were trained by the research staff on how to deliver the curriculum. To ensure that all leaders received the same training, the research staff developed and recorded training modules. Fidelity of delivery of the curriculum was measured during the intervention; -->90% of all lessons were delivered as planned.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Session leaders recruited participants using flyers, newspaper advertisements, word of mouth, and social media. The following locations were targeted: community organizations, schools, churches, local businesses, 4-H and extension offices, and medical offices and clinics. Recruitment was aimed at low-income and/or rural populations and occurred in late spring and summer, 2013 with the goal of recruiting the sample before the start of September, 2013. Participating youth had to be aged 9 years before the program began in September, 2013 and had to be aged <11 years before December 31, 2013. In addition, youth−adult pairs were eligible to participate only if they were free of food allergies or medical and physical limitations that would hinder participation, were willing to eat meat and dairy, and had access to the Internet in their home. Participants did not have to be current 4-H members or participants in any EFNEP program to participate in the iCook 4-H program.\nA goal of 500 youth−adult pairs (100/state) was set when the study began. Pairs were to be assigned to control or treatment as they confirmed participation in the study, based on random number assignment. Power calculations for the goal sample size were computed for the iCook 4-H primary outcome of youth BMI at 24 months. Sample size was calculated to detect a BMI change of −0.85 difference in mean BMI with a significance of P ≤ .05 and power of 0.8, resulting in a sample size of 274. An initial sample of 500 youth (100/ state) was desired to account for an attrition of 20% expected at 4 months and 30% at 12 and at 24 months. However, recruitment did not yield the desired number of participants; thus, a protocol change was made to the random number generator, assigning 2 participants to treatment for every 1 control participant with the goal of having more treatment than control participant dyads. Both control and treatment group youth participated in anthropometric and survey assessments at 4 time points: 0, 4, 12, and 24 months. The 0-month assessment was the baseline and occurred in August, 2013 before the intervention began. Treatment youth participated in the iCook intervention. The control youth received only the assessments.\nAll youth participants provided verbal assent and parents provided written informed consent. The study was approved by the institutional review board for the protection of human subjects in each participating state university (Maine, Nebraska, South Dakota, Tennessee, and West Virginia).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The iCook 4-H intervention included 6 sessions, each 2 hours long, over 12 weeks from September to December, 2013 in all 5 participating states. The curriculum was developed using Social Cognitive Theory and focused on basic cooking skills, family mealtime, PA, and goal setting in an effort to teach youth−adult pairs to cook, eat, and play together. iCook 4-H was designed as a biweekly curriculum so that participants were allowed time between sessions to apply learned skills and behaviors before returning for another lesson.\nDuring an iCook 4-H session, participants were taught a cooking skill (s), allowed to apply the skill(s) to make a recipe, participate in family mealtime and a 15-to 20-minute PA session, and then conclude by setting goals together as a family. Additional information about the curriculum development is available. The team developed the PA components by adapting components of the existing 4-H curriculum Youth in Motion 49 and resources used in physical education −teacher education curriculum. The activities were designed to promote PA and decrease sedentary behavior through daily lifestyle activity. Youth−adult pairs were taught the importance of PA as well as ways to be physically active together in an everyday setting. Some activities encouraged increasing PA through games that could be played in the home whereas others taught behaviors to reduce sedentary time by demonstrating how to incorporate movement through daily chores. All activities focused on setting weekly goals to increase activity and perform the activities as a family. Table provides a brief description of PA lessons. The number of pairs per session was limited to 6, fora total of 12 participants including youth and adults.\nAnother key component of the iCook 4-H intervention was a secure website where treatment participants from all 5 states could interact. Youth were encouraged to share videos and pictures of them using their new cooking skills or participating in PA at home. All youth were provided with a video camera to record activities and were shown how to upload videos and pictures to the website. iCook 4-H leaders instructed youth−adult pairs to share 1 video or picture per week on the interactive website.\nTo keep treatment participants engaged in iCook 4-H, the interactive website remained in use until the 24-month follow-up assessment. Monthly challenges for cooking and PA encouraged youth to continue posting pictures or videos on the website. Any youth who posted a picture or video for the challenge was entered into a drawing fora $25 or $50 gift card; 1 winner was chosen for each challenge monthly.\nIn addition to the website, a monthly newsletter that included the monthly challenge winners as well as healthy recipes and word searches was sent to treatment participants. Booster events were held twice each year for treatment participants so that youth could interact with other families in their sessions. The booster events focused on active play such as swimming or cooking events that included playing group games.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Control and treatment youth participated in assessments at 0 (baseline), 4, 12, and 24 months by trained researchers who took anthropometric measurements, collected accelerometer data, and administered surveys at each time point. Researchers explained to the youth how to complete the surveys and remained available for questions during completion of the surveys. The baseline assessments occurred before the intervention in August, 2013. Youth and adults were each compensated $10 ($20/pair) for their time in each of the 4 assessments.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Anthropometric assessments included height and weight. Height measurements were taken twice and measured to the nearest 0. Accelerometer-Derived PA and Sedentary Time\nPhysical activity and sedentary time were measured using accelerometers in a subset of the total sample of 228 control and treatment youth. A priori, the goal was set to fit 25% of the sample with accelerometers. However, based on a lower number of the total sample recruited than expected and timing of assessments, accelerometers were provided to the first 155 youth (68%) to measure the frequency, duration, and intensity of activity. Selected youth were given an ActiGraph GT3X+ accelerometer (Pensacola, FL) on an elastic belt of their color choice, along with instructions on how to wear the accelerometer. Youth were instructed to wear the accelerometer fora set 7day period before the start of the classes; the device was collected after the seventh day. A 15-second epoch was used to account for the intermittent and sporadic nature of PA patterns in children and to align with the validation epoch length. Non-wear time was classified as 60 consecutive minutes with no activity counts, not allowing for interruptions. Daily wear time was calculated by subtracting non-wear time from 24 hours of that particular day. For a day to valid, subjects were required to accumulate ≥ 600 minutes (10 hours) of wear time. A minimum of 4 valid days (3 valid weekdays and 1 valid weekend day) were required to meet weartime compliance. Self-Reported Assessment of PA Self-reported PA was measured in all control and treatment youth using the Block Kids Physical Activity Screener (BKPAS), a validated tool to measure self-reported PA in children aged 8−17 years. The tool uses a self-report of activity over the previous 7 days and provides information about the frequency and duration of MPA, VPA, MVPA, and recreational PA.\nAn additional self-reported measure of PA was a program evaluation survey created by the research team to assess for behaviors specifically encouraged in the lessons. The questions were tested for readability and understandability by a small sample of the target population before the intervention began. This evaluation was used to query youth on a scale of 1−5; responses were coded as never = 1, rarely = 2, sometimes = 3, most of the time = 4, and always = 5 for self-reported perception of frequency of family playing together and intensity and duration of PA. Physical activity questions on the program evaluation survey were: How often does your family play together actively? When you think about each day of the week, how often does your heart pump hard and do you sweat when you are being physically active? When you think about each day of the week, how often are you physically active for at least 60 minutes each day?\nThe program evaluation was completed at all assessment time points by treatment and control youth.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The researchers used R data analysis software (version 3.2.3, Vienna, Austria, 2015) to calculate descriptive statistics and analyses for PA data. Linear mixed models were used to analyze accelerometer associations in minutes per hour of sedentary time and PA intensities, BKPAS, and PA program evaluation data at each time point. Fixed effects included group (treatment or control), time (0, 4, 12, and 24 months), and group £ time interaction. Random effects included random intercepts and time slopes for individual youth. In addition to group, time, and group £ time interaction, a set of potential confounders was considered for inclusion in the model as fixed effects (gender, ethnicity/race, state, etc). Potential confounders were included in the model using the best model for each variable with the lowest area under the curve. The b-estimate and 90% confidence interval for interaction terms are reported for adjusted and unadjusted models. Block Kids Physical Activity Screener data that were nonnormally distributed were transformed using square root calculation; differences were determined using the transformed data. P ≤ .05 was set as statistically significant.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The iCook 4-H program included a total of 228 youth−adult pairs (151 treatment and 77 control). Of the total sample, 155 (108 treatment and 47 control) were fitted with accelerometers and 122 (88 treatment and control) met accelerometer compliance standards at baseline. Of these participants, 51% were female and 78% were Caucasian (mean age, 9.4 years); approximately 62% were normal weight (Table). There were no differences in sex, race and ethnicity, and BMI between those who met accelerometer compliance standards and those did not. Moreover, there was no difference in BKPAS-measured PA in those who wore accelerometers and those who did not. In addition, the dropout rate did not differ between treatment and control participants (data not shown).\nTable lists mean minutes per day self-reported BKPAS data. There was a significant difference in VPA overtime in the BKPAS data (P = .02): self-reported VPA increased in both groups from baseline to 24 months. There were no group £ time interaction or group differences in the BKPAS. Table reports program evaluation survey response data. There were no significant differences for participants resulting from treatment in playing together with their families (P = .08) and engaging in PA that made their heart pump more frequently (P = .07). Both groups reported a slight increase (P = .02) in how often they were physically active for at least 60 min/d.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The objective of the current study was to assess accelerometer-derived and self-reported PA and sedentary time from baseline (0 months) to 24 months in youth who participated in the iCook 4-H program. iCook 4-H was designed using Social Cognitive Theory specifically focusing on reciprocal modeling by parents and incorporated opportunities for youth to learn through observation and doing. Although the preparer of the main meal was required to attend the lesson and interact with the youth insetting goals and completing the curriculum activities, mean minutes per hour of PA decreased for all intensity levels and sedentary time increased for those in the treatment group, and there were no changes in the control group in accelerometer-derived data. With the exception of VPA, a similar pattern of PA was observed in the self-reported BKPAS. There were no differences in reported BKPAS recreational time, MPA, or MVPA. There was a decrease in PA and an increase in sedentary time for all youth. Although it was reported that parents may influence children's participation in PA by providing proper informational, emotional, appraisal, and instrumental support, such as enrolling children in the activity, this was not observed in the iCook 4-H program. This lack of change in measured PA may indicate that in addition to individual behavior, which was the focus of this program, inclusion of environmental and policy changes that support opportunities for PA maybe needed to make longterm changes.\nThis decrease in PA that occurred with age in treatment youth is consistent with what others reported. Previous researchers looked at factors affecting activity levels and reported that age, sex, and type of activity all have a role in activity levels. An intervention by Vanhelst and colleagues reported that the PA program was more effective for youth aged <12 years and suggested the need to aim PA interventions at younger age groups. Participants in iCook 4-H were aged 9−10 years when recruited. Results from the current study indicated that interventions might need to start even earlier. Vanhelst and colleagues also reported that team sports had better outcomes than net sports (ie, tennis) and activities should be age and/or sex specific to have the greatest impact. In addition, Jago and colleagues reported that children wanted games that were challenging enough for them (age appropriate) and that they did not like elimination games such as dodgeball. Results from Jago and colleagues also suggested the need for age-and genderspecific PA programs. Although iCook 4-H PA was developmentally appropriate, the activities were not gender specific. The iCook 4-H activities focused on increasing activity through daily living such as chores and playing together, rather than specific PA programing such as the activity that occurs with organized sports.\nIt is also important to consider factors such as time spent in school, which can significantly influence activity levels. On average, children in the US spend the majority of their day (roughly 6.6 h/d) in school. Although schools provide multiple opportunities for students to be physically active, including physical education class, recess, standing desks, and activity breaks, these opportunities are not always used. Many schools do not have the budget or space for physical education classes and choose to cut recess time to allow for more time in the classroom. However, 3 of the 4 assessment times (baseline and 12 conducted a Physical Activity Friendliness Audit and reported that accessibility and safety were predictors of obesity, likely as a result of less PA. A review by Safron and colleagues 67 also reported that neighborhood crime rates, cost of facilities (gyms, wellness centers, etc), and availably within the community for exercise were all factors that affected PA levels of children and adolescents. In contrast, Comstock and colleagues reported that in rural areas, there was alack of association between measured environmental support and the perception of environmental support for PA in youth. Youth's perception of the environment to support PA was associated with greater PA rather than the actual facilities to support PA. Although the current researchers did not measure youth's perception of their PA environment in iCook 4-H, a strength of the iCook 4-H curriculum activities is that they were designed to be completed in environments with limited environmental support for physical activities. However, in addition to parental involvement, greater input from others in the community maybe needed to support enhancements in PA.\nKnowledge of PA and skill to perform activities may also be predictors of activity levels. Jaakkola and colleagues reported that fundamental movement skills, (locomotor, manipulative, and balance skills) and physical fitness (cardiorespiratory endurance and muscle strength) in youth were predictors of PA levels later in life. Cohen and colleagues 70 also reported a correlation between fundamental movement skills with PA levels and cardiorespiratory fitness. Both studies provided support for improving knowledge and competence of movement as a foundation for increasing PA and decreasing sedentary time. One observation seen in the current study was alack of significant change in objective accelerometerderived data overtime but an increase in self-reported VPA in the BKPAS. It is known that self-reported measures of activity are not accurate compared with objective measures owing to overreporting. However, the differences seen in the current study may also indicate that overtime, youth perceived that they were more active particularly in VPA than the accelerometer-derived data indicated. This self-reported increase in PA might be caused by again in knowledge about the PA that occurs with education in the school systems. In addition, in the self-reported data, the participants may have equated the fact that they were out of school as being more active. The baseline and 12-and 24-month assessments were conducted when participants were out of school and the 4-month assessment occurred during months when participants should have been in school.\nA strength of the iCook 4-H program was that it was a control−treatment study with -->50% of youth PA objectively measured using accelerometers over 24 months. A limitation of this study is that participants were recruited through convenience sampling. Those interested in food and nutrition programs may have responded to recruitment efforts more readily than those uninterested in these types of programs; therefore, results may not be generalizable to the entire population. Although participants were recruited through convenience sampling, they were recruited from geographically different areas across the US.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Although the iCook 4-H program did not significantly increase PA or decrease sedentary time, youth selfreported an increase in VPA PA and an increase in the number of days per week that they were PA over 24 months, which may have indicated they intended to be more active. The study also observed youth over 2 years, providing longitudinal information about the activity patterns of participants. The iCook 4-H program was a multicomponent program with a focus on cooking skills, mealtime behavior, family conversation, and playing together as a family to enhance positive health behaviors through reciprocal role modeling through adult and youth interaction. In iCook 4-H, PA was meant to be incorporated into daily living activities with family involvement, with an overall goal of reducing sedentary time. The youth self-reported more VPA and more days per week of being physically active for 60 minutes; however, these increases were not seen in the accelerometer-measured PA and sedentary time. Therefore, the results of the current study imply that obesity prevention interventions aimed at increasing PA or decreasing sedentary time may need to put greater focus on those specific intended outcomes. It may also be important to focus on identifying barriers to PA and facilitators for sedentary time and creating interventions to combat these barriers and facilitators.\nAdditional\n",
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "51",
+          "rowHeaders": [
+            "Female (%)",
+            "South Dakota"
+          ],
+          "columnHeaders": [
+            "Table 2. Demographics of Youth Participants With Accelerometers in",
+            "Journal of Nutrition Education and Behavior",
+            "Youth",
+            "All Participants",
+            "Fitted With",
+            "Accelerometers (n = 155)"
+          ]
+        },
+        {
+          "value": "46.7",
+          "rowHeaders": [
+            "Female (%)",
+            "South Dakota"
+          ],
+          "columnHeaders": [
+            "Table 2. Demographics of Youth Participants With Accelerometers in",
+            "Volume 51, Number 3S, 2019",
+            "Accelerometers",
+            "Participants Who",
+            "Were Accelerometer",
+            "Compliant (n = 122)"
+          ]
+        },
+        {
+          "value": "78.5",
+          "rowHeaders": [
+            "Race (white) (%)",
+            "South Dakota"
+          ],
+          "columnHeaders": [
+            "Table 2. Demographics of Youth Participants With Accelerometers in",
+            "Journal of Nutrition Education and Behavior",
+            "Youth",
+            "All Participants",
+            "Fitted With",
+            "Accelerometers (n = 155)"
+          ]
+        },
+        {
+          "value": "78.1",
+          "rowHeaders": [
+            "Race (white) (%)",
+            "South Dakota"
+          ],
+          "columnHeaders": [
+            "Table 2. Demographics of Youth Participants With Accelerometers in",
+            "Volume 51, Number 3S, 2019",
+            "Accelerometers",
+            "Participants Who",
+            "Were Accelerometer",
+            "Compliant (n = 122)"
+          ]
+        },
+        {
+          "value": "9.4",
+          "rowHeaders": [
+            "Age (mean",
+            "South Dakota",
+            "§ SD)"
+          ],
+          "columnHeaders": [
+            "Table 2. Demographics of Youth Participants With Accelerometers in",
+            "Journal of Nutrition Education and Behavior",
+            "Youth",
+            "All Participants",
+            "Fitted With",
+            "Accelerometers (n = 155)"
+          ]
+        },
+        {
+          "value": "0.6",
+          "rowHeaders": [
+            "Age (mean",
+            "South Dakota",
+            "§ SD)"
+          ],
+          "columnHeaders": [
+            "Table 2. Demographics of Youth Participants With Accelerometers in",
+            "Journal of Nutrition Education and Behavior",
+            "Participants",
+            "All Participants",
+            "Fitted With",
+            "Accelerometers (n = 155)"
+          ]
+        },
+        {
+          "value": "9.4",
+          "rowHeaders": [
+            "Age (mean",
+            "South Dakota",
+            "§ SD)"
+          ],
+          "columnHeaders": [
+            "Table 2. Demographics of Youth Participants With Accelerometers in",
+            "Volume 51, Number 3S, 2019",
+            "Accelerometers",
+            "Participants Who",
+            "Were Accelerometer",
+            "Compliant (n = 122)"
+          ]
+        },
+        {
+          "value": "0.6",
+          "rowHeaders": [
+            "Age (mean",
+            "South Dakota",
+            "§ SD)"
+          ],
+          "columnHeaders": [
+            "Table 2. Demographics of Youth Participants With Accelerometers in",
+            "Volume 51, Number 3S, 2019",
+            "Accelerometers",
+            "Participants Who",
+            "Were Accelerometer",
+            "Compliant (n = 122)"
+          ]
+        },
+        {
+          "value": "50 (32.3)",
+          "rowHeaders": [
+            "South Dakota"
+          ],
+          "columnHeaders": [
+            "Table 2. Demographics of Youth Participants With Accelerometers in",
+            "Journal of Nutrition Education and Behavior",
+            "Youth",
+            "All Participants",
+            "Fitted With",
+            "Accelerometers (n = 155)"
+          ]
+        },
+        {
+          "value": "35 (28.7)",
+          "rowHeaders": [
+            "South Dakota"
+          ],
+          "columnHeaders": [
+            "Table 2. Demographics of Youth Participants With Accelerometers in",
+            "Volume 51, Number 3S, 2019",
+            "Accelerometers",
+            "Participants Who",
+            "Were Accelerometer",
+            "Compliant (n = 122)"
+          ]
+        },
+        {
+          "value": "27 (17.4)",
+          "rowHeaders": [
+            "South Dakota"
+          ],
+          "columnHeaders": [
+            "Table 2. Demographics of Youth Participants With Accelerometers in",
+            "Journal of Nutrition Education and Behavior",
+            "Youth",
+            "All Participants",
+            "Fitted With",
+            "Accelerometers (n = 155)"
+          ]
+        },
+        {
+          "value": "18 (14.8)",
+          "rowHeaders": [
+            "South Dakota"
+          ],
+          "columnHeaders": [
+            "Table 2. Demographics of Youth Participants With Accelerometers in",
+            "Volume 51, Number 3S, 2019",
+            "Accelerometers",
+            "Participants Who",
+            "Were Accelerometer",
+            "Compliant (n = 122)"
+          ]
+        },
+        {
+          "value": "26 (16.8)",
+          "rowHeaders": [
+            "Tennessee"
+          ],
+          "columnHeaders": [
+            "Table 2. Demographics of Youth Participants With Accelerometers in",
+            "Journal of Nutrition Education and Behavior",
+            "Youth",
+            "All Participants",
+            "Fitted With",
+            "Accelerometers (n = 155)"
+          ]
+        },
+        {
+          "value": "21 (17.2)",
+          "rowHeaders": [
+            "Tennessee"
+          ],
+          "columnHeaders": [
+            "Table 2. Demographics of Youth Participants With Accelerometers in",
+            "Volume 51, Number 3S, 2019",
+            "Accelerometers",
+            "Participants Who",
+            "Were Accelerometer",
+            "Compliant (n = 122)"
+          ]
+        },
+        {
+          "value": "46 (29.7)",
+          "rowHeaders": [
+            "West Virginia"
+          ],
+          "columnHeaders": [
+            "Table 2. Demographics of Youth Participants With Accelerometers in",
+            "Journal of Nutrition Education and Behavior",
+            "Youth",
+            "All Participants",
+            "Fitted With",
+            "Accelerometers (n = 155)"
+          ]
+        },
+        {
+          "value": "44 (36.1)",
+          "rowHeaders": [
+            "West Virginia"
+          ],
+          "columnHeaders": [
+            "Table 2. Demographics of Youth Participants With Accelerometers in",
+            "Volume 51, Number 3S, 2019",
+            "Accelerometers",
+            "Participants Who",
+            "Were Accelerometer",
+            "Compliant (n = 122)"
+          ]
+        },
+        {
+          "value": "96 (61.9)",
+          "rowHeaders": [
+            "Normal weight"
+          ],
+          "columnHeaders": [
+            "Table 2. Demographics of Youth Participants With Accelerometers in",
+            "Journal of Nutrition Education and Behavior",
+            "Youth",
+            "All Participants",
+            "Fitted With",
+            "Accelerometers (n = 155)"
+          ]
+        },
+        {
+          "value": "75 (61.5)",
+          "rowHeaders": [
+            "West Virginia",
+            "Normal weight"
+          ],
+          "columnHeaders": [
+            "Table 2. Demographics of Youth Participants With Accelerometers in",
+            "Volume 51, Number 3S, 2019",
+            "Accelerometers",
+            "Participants Who",
+            "Were Accelerometer",
+            "Compliant (n = 122)"
+          ]
+        },
+        {
+          "value": "23 (14.8)",
+          "rowHeaders": [
+            "Overweight"
+          ],
+          "columnHeaders": [
+            "Table 2. Demographics of Youth Participants With Accelerometers in",
+            "Journal of Nutrition Education and Behavior",
+            "Youth",
+            "All Participants",
+            "Fitted With",
+            "Accelerometers (n = 155)"
+          ]
+        },
+        {
+          "value": "19 (15.6)",
+          "rowHeaders": [
+            "Overweight"
+          ],
+          "columnHeaders": [
+            "Table 2. Demographics of Youth Participants With Accelerometers in",
+            "Volume 51, Number 3S, 2019",
+            "Accelerometers",
+            "Participants Who",
+            "Were Accelerometer",
+            "Compliant (n = 122)"
+          ]
+        },
+        {
+          "value": "31 (20)",
+          "rowHeaders": [
+            "Obese"
+          ],
+          "columnHeaders": [
+            "Table 2. Demographics of Youth Participants With Accelerometers in",
+            "Journal of Nutrition Education and Behavior",
+            "Youth",
+            "All Participants",
+            "Fitted With",
+            "Accelerometers (n = 155)"
+          ]
+        },
+        {
+          "value": "23 (18.9)",
+          "rowHeaders": [
+            "Obese"
+          ],
+          "columnHeaders": [
+            "Table 2. Demographics of Youth Participants With Accelerometers in",
+            "Volume 51, Number 3S, 2019",
+            "Accelerometers",
+            "Participants Who",
+            "Were Accelerometer",
+            "Compliant (n = 122)"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "12 Mo",
+          "rowHeaders": [
+            "Physical Activity",
+            "Group",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)"
+          ]
+        },
+        {
+          "value": "24 Mo",
+          "rowHeaders": [
+            "Physical Activity",
+            "Group",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)"
+          ]
+        },
+        {
+          "value": "41.8 (39.9,",
+          "rowHeaders": [
+            "Sedentary Time",
+            "Control"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Sedentary Time/",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "43.6)",
+          "rowHeaders": [
+            "Sedentary Time",
+            "Control",
+            "4 Mo",
+            "0 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Sedentary Time/",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "41.0 (39.0,",
+          "rowHeaders": [
+            "Sedentary Time",
+            "Control",
+            "4 Mo",
+            "0 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Sedentary Time/",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "43.0)",
+          "rowHeaders": [
+            "Sedentary Time",
+            "Control",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "41.3 (39.0,",
+          "rowHeaders": [
+            "Sedentary Time",
+            "Control",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "43.5)",
+          "rowHeaders": [
+            "Sedentary Time",
+            "Control",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "41.8 (38.5,",
+          "rowHeaders": [
+            "Sedentary Time",
+            "Control",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "45.1)",
+          "rowHeaders": [
+            "Sedentary Time",
+            "Control",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "0.18 (0.05,",
+          "rowHeaders": [
+            "Sedentary Time",
+            "Control",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "0.30)",
+          "rowHeaders": [
+            "Sedentary Time",
+            "Control",
+            "§ SD and square root calculations were used to determine P. Bold indicates statistical significance (P ≤",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "0.16 (0.04,",
+          "rowHeaders": [
+            "Sedentary Time",
+            "Control",
+            "§ SD and square root calculations were used to determine P. Bold indicates statistical significance (P ≤",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Unadjusted"
+          ]
+        },
+        {
+          "value": "0.28)",
+          "rowHeaders": [
+            "Sedentary Time",
+            "Control",
+            "§ SD and square root calculations were used to determine P. Bold indicates statistical significance (P ≤",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Unadjusted"
+          ]
+        },
+        {
+          "value": "40.0 (38.7,",
+          "rowHeaders": [
+            "Physical Activity",
+            "Treatment"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Sedentary Time/",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "41.3)",
+          "rowHeaders": [
+            "Physical Activity",
+            "Treatment",
+            "4 Mo",
+            "0 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Sedentary Time/",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "41.8 (40.4,",
+          "rowHeaders": [
+            "Physical Activity",
+            "Treatment",
+            "4 Mo",
+            "0 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Sedentary Time/",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "43.3)",
+          "rowHeaders": [
+            "Physical Activity",
+            "Treatment",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "41.6 (40.0,",
+          "rowHeaders": [
+            "Physical Activity",
+            "Treatment",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "43.3)",
+          "rowHeaders": [
+            "Physical Activity",
+            "Treatment",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "44.2 (42.2,",
+          "rowHeaders": [
+            "Physical Activity",
+            "Treatment",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "46.2)",
+          "rowHeaders": [
+            "Physical Activity",
+            "Treatment",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "15.4 (13.9,",
+          "rowHeaders": [
+            "Light",
+            "Control"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Sedentary Time/",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "6.8)",
+          "rowHeaders": [
+            "Light",
+            "Control",
+            "4 Mo",
+            "0 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Sedentary Time/",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "15.9 (14.4,",
+          "rowHeaders": [
+            "Light",
+            "Control",
+            "4 Mo",
+            "0 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Sedentary Time/",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "17.5)",
+          "rowHeaders": [
+            "Light",
+            "Control",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "15.9 (14.0,",
+          "rowHeaders": [
+            "Light",
+            "Control",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "7.7)",
+          "rowHeaders": [
+            "Light",
+            "Control",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "15.5 (12.8,",
+          "rowHeaders": [
+            "Light",
+            "Control",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "18.2)",
+          "rowHeaders": [
+            "Light",
+            "Control",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "¡0.15 (¡0.26, ¡0.04)",
+          "rowHeaders": [
+            "Light",
+            "Control",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "¡0.14 (¡0.24, ¡0.03)",
+          "rowHeaders": [
+            "Light",
+            "Control",
+            "§ SD and square root calculations were used to determine P. Bold indicates statistical significance (P ≤",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Unadjusted"
+          ]
+        },
+        {
+          "value": "17.1 (16.1,",
+          "rowHeaders": [
+            "Sedentary Time",
+            "Treatment"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Sedentary Time/",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "18.1)",
+          "rowHeaders": [
+            "Physical Activity",
+            "Treatment",
+            "4 Mo",
+            "0 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Sedentary Time/",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "15.6 (14.4,",
+          "rowHeaders": [
+            "Physical Activity",
+            "Treatment",
+            "4 Mo",
+            "0 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Sedentary Time/",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "16.7)",
+          "rowHeaders": [
+            "Physical Activity",
+            "Treatment",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "15.7 (14.5,",
+          "rowHeaders": [
+            "Physical Activity",
+            "Treatment",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "17.0)",
+          "rowHeaders": [
+            "Physical Activity",
+            "Treatment",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "13.6 (12.0,",
+          "rowHeaders": [
+            "Physical Activity",
+            "Treatment",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "15.3)",
+          "rowHeaders": [
+            "Physical Activity",
+            "Treatment",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "2.0 (1.7,",
+          "rowHeaders": [
+            "Moderate",
+            "Control"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Sedentary Time/",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "2.4)",
+          "rowHeaders": [
+            "Moderate",
+            "Control",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Sedentary Time/",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "2.2 (1.9,",
+          "rowHeaders": [
+            "Moderate",
+            "Control",
+            "4 Mo",
+            "0 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Sedentary Time/",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "2.6)",
+          "rowHeaders": [
+            "Moderate",
+            "Control",
+            "4 Mo",
+            "0 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "2.1 (1.7,",
+          "rowHeaders": [
+            "Moderate",
+            "Control",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "2.5)",
+          "rowHeaders": [
+            "Moderate",
+            "Control",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "1.9 (1.3,",
+          "rowHeaders": [
+            "Moderate",
+            "Control",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "2.4)",
+          "rowHeaders": [
+            "Moderate",
+            "Control",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "¡0.02 (¡0.04,",
+          "rowHeaders": [
+            "Moderate",
+            "Control",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "0.01)",
+          "rowHeaders": [
+            "Moderate",
+            "Control",
+            "§ SD and square root calculations were used to determine P. Bold indicates statistical significance (P ≤",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "¡0.01 (¡0.03,",
+          "rowHeaders": [
+            "Moderate",
+            "Control",
+            "§ SD and square root calculations were used to determine P. Bold indicates statistical significance (P ≤",
+            "0 Mo",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Unadjusted"
+          ]
+        },
+        {
+          "value": "0.01)",
+          "rowHeaders": [
+            "Moderate",
+            "Control",
+            "§ SD and square root calculations were used to determine P. Bold indicates statistical significance (P ≤",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Unadjusted"
+          ]
+        },
+        {
+          "value": "2.1 (1.9,",
+          "rowHeaders": [
+            "Moderate to",
+            "Treatment"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Sedentary Time/",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "2.4)",
+          "rowHeaders": [
+            "Sedentary Time",
+            "Treatment",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Sedentary Time/",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "1.8 (1.6,",
+          "rowHeaders": [
+            "Physical Activity",
+            "Treatment",
+            "4 Mo",
+            "0 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Sedentary Time/",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "2.1)",
+          "rowHeaders": [
+            "Physical Activity",
+            "Treatment",
+            "4 Mo",
+            "0 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "1.9 (1.6,",
+          "rowHeaders": [
+            "Physical Activity",
+            "Treatment",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "2.2)",
+          "rowHeaders": [
+            "Physical Activity",
+            "Treatment",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "1.6 (1.3,",
+          "rowHeaders": [
+            "Physical Activity",
+            "Treatment",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "1.9)",
+          "rowHeaders": [
+            "Physical Activity",
+            "Treatment",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "0.8 (0.6,",
+          "rowHeaders": [
+            "Vigorous",
+            "Control"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Sedentary Time/",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "1.1)",
+          "rowHeaders": [
+            "Vigorous",
+            "Control",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Sedentary Time/",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "0.9 (0.7,",
+          "rowHeaders": [
+            "Vigorous",
+            "Control",
+            "4 Mo",
+            "0 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Sedentary Time/",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "1.2)",
+          "rowHeaders": [
+            "Vigorous",
+            "Control",
+            "4 Mo",
+            "0 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "0.8 (0.5,",
+          "rowHeaders": [
+            "Vigorous",
+            "Control",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "1.1)",
+          "rowHeaders": [
+            "Vigorous",
+            "Control",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "0.8 (0.4,",
+          "rowHeaders": [
+            "Vigorous",
+            "Control",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "1.2)",
+          "rowHeaders": [
+            "Vigorous",
+            "Control",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "¡0.01 (¡0.03,",
+          "rowHeaders": [
+            "Vigorous",
+            "Control",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "0.01)",
+          "rowHeaders": [
+            "Vigorous",
+            "Control",
+            "§ SD and square root calculations were used to determine P. Bold indicates statistical significance (P ≤",
+            "0 Mo",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "¡0.01 (¡0.02,",
+          "rowHeaders": [
+            "Vigorous",
+            "Control",
+            "§ SD and square root calculations were used to determine P. Bold indicates statistical significance (P ≤",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Unadjusted"
+          ]
+        },
+        {
+          "value": "0.01)",
+          "rowHeaders": [
+            "Vigorous",
+            "Control",
+            "§ SD and square root calculations were used to determine P. Bold indicates statistical significance (P ≤",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Unadjusted"
+          ]
+        },
+        {
+          "value": "0.9 (0.8,",
+          "rowHeaders": [
+            "Moderate to",
+            "Treatment"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Sedentary Time/",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "1.1)",
+          "rowHeaders": [
+            "Moderate to",
+            "Treatment",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Sedentary Time/",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "0.8 (0.6,",
+          "rowHeaders": [
+            "Moderate to",
+            "Treatment",
+            "4 Mo",
+            "0 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Sedentary Time/",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "1.0)",
+          "rowHeaders": [
+            "Moderate to",
+            "Treatment",
+            "4 Mo",
+            "0 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "0.8 (0.6,",
+          "rowHeaders": [
+            "Moderate to",
+            "Treatment",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "1.0)",
+          "rowHeaders": [
+            "Physical Activity",
+            "Treatment",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "0.6 (0.4,",
+          "rowHeaders": [
+            "Physical Activity",
+            "Treatment",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "0.9)",
+          "rowHeaders": [
+            "Physical Activity",
+            "Treatment",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "2.9 (2.3,",
+          "rowHeaders": [
+            "Moderate to",
+            "Control"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Sedentary Time/",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "3.4)",
+          "rowHeaders": [
+            "Moderate to",
+            "Control",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Sedentary Time/",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "3.1 (2.6,",
+          "rowHeaders": [
+            "Moderate to",
+            "Control",
+            "4 Mo",
+            "0 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Sedentary Time/",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "3.7)",
+          "rowHeaders": [
+            "Moderate to",
+            "Control",
+            "4 Mo",
+            "0 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "2.9 (2.2,",
+          "rowHeaders": [
+            "Moderate to",
+            "Control",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "3.5)",
+          "rowHeaders": [
+            "Moderate to",
+            "Control",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "2.7 (1.8,",
+          "rowHeaders": [
+            "Moderate to",
+            "Control",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "3.5)",
+          "rowHeaders": [
+            "Moderate to",
+            "Control",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "¡0.02 (¡0.06,",
+          "rowHeaders": [
+            "Moderate to",
+            "Control",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "0.01)",
+          "rowHeaders": [
+            "Moderate to",
+            "Control",
+            "§ SD and square root calculations were used to determine P. Bold indicates statistical significance (P ≤",
+            "0 Mo",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "¡0.02 (¡0.05,",
+          "rowHeaders": [
+            "Moderate to",
+            "Control",
+            "§ SD and square root calculations were used to determine P. Bold indicates statistical significance (P ≤",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Unadjusted"
+          ]
+        },
+        {
+          "value": "0.01)",
+          "rowHeaders": [
+            "Moderate to",
+            "Control",
+            "§ SD and square root calculations were used to determine P. Bold indicates statistical significance (P ≤",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Unadjusted"
+          ]
+        },
+        {
+          "value": "3.0 (2.7,",
+          "rowHeaders": [
+            "Moderate to",
+            "Treatment"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Sedentary Time/",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "3.4)",
+          "rowHeaders": [
+            "Moderate to",
+            "Treatment",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Sedentary Time/",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "2.6 (2.2,",
+          "rowHeaders": [
+            "Moderate to",
+            "Treatment",
+            "4 Mo",
+            "0 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Sedentary Time/",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "3.0)",
+          "rowHeaders": [
+            "Moderate to",
+            "Treatment",
+            "4 Mo",
+            "0 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "2.7 (2.2,",
+          "rowHeaders": [
+            "Moderate to",
+            "Treatment",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "3.2)",
+          "rowHeaders": [
+            "Moderate to",
+            "Treatment",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "2.2 (1.7,",
+          "rowHeaders": [
+            "Moderate to",
+            "Treatment",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "2.7)",
+          "rowHeaders": [
+            "Moderate to",
+            "Treatment",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted"
+          ]
+        },
+        {
+          "value": "12 Mo",
+          "rowHeaders": [
+            "Physical",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Sedentary Time/",
+            "Adjusted",
+            "Treatment Group, min/d"
+          ]
+        },
+        {
+          "value": "24 Mo",
+          "rowHeaders": [
+            "Physical",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted",
+            "§ SD, mo"
+          ]
+        },
+        {
+          "value": "12 Mo",
+          "rowHeaders": [
+            "Physical",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted",
+            "Control Group, min/d"
+          ]
+        },
+        {
+          "value": "24 Mo",
+          "rowHeaders": [
+            "Physical",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted",
+            "§ SD, mo"
+          ]
+        },
+        {
+          "value": "82 ±",
+          "rowHeaders": [
+            "Recreational"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Sedentary Time/",
+            "Adjusted",
+            "Treatment Group, min/d",
+            "(n = 144)"
+          ]
+        },
+        {
+          "value": "79",
+          "rowHeaders": [
+            "Recreational"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Sedentary Time/",
+            "Adjusted",
+            "Treatment Group, min/d",
+            "(n = 144)"
+          ]
+        },
+        {
+          "value": "66 ±",
+          "rowHeaders": [
+            "Recreational",
+            "0 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Sedentary Time/",
+            "Adjusted",
+            "Treatment Group, min/d",
+            "(n = 94)"
+          ]
+        },
+        {
+          "value": "67",
+          "rowHeaders": [
+            "Recreational",
+            "0 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Sedentary Time/",
+            "Adjusted",
+            "Treatment Group, min/d",
+            "(n = 94)"
+          ]
+        },
+        {
+          "value": "87 ±",
+          "rowHeaders": [
+            "Recreational",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Sedentary Time/",
+            "Adjusted",
+            "Treatment Group, min/d",
+            "(n = 93)"
+          ]
+        },
+        {
+          "value": "95",
+          "rowHeaders": [
+            "Recreational",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Sedentary Time/",
+            "Adjusted",
+            "§ SD, mo",
+            "(n = 93)"
+          ]
+        },
+        {
+          "value": "99 ± 103",
+          "rowHeaders": [
+            "Recreational",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted",
+            "§ SD, mo",
+            "(n = 65)"
+          ]
+        },
+        {
+          "value": "94 ±",
+          "rowHeaders": [
+            "Recreational",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted",
+            "Control Group, min/d",
+            "(n = 75)"
+          ]
+        },
+        {
+          "value": "76",
+          "rowHeaders": [
+            "Recreational",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted",
+            "Control Group, min/d",
+            "(n = 75)"
+          ]
+        },
+        {
+          "value": "79 ±",
+          "rowHeaders": [
+            "Recreational",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted",
+            "Control Group, min/d",
+            "(n = 41)"
+          ]
+        },
+        {
+          "value": "77",
+          "rowHeaders": [
+            "Recreational",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted",
+            "Control Group, min/d",
+            "(n = 41)"
+          ]
+        },
+        {
+          "value": "96 ±",
+          "rowHeaders": [
+            "Recreational",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted",
+            "Control Group, min/d",
+            "(n = 48)"
+          ]
+        },
+        {
+          "value": "85",
+          "rowHeaders": [
+            "Recreational",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted",
+            "§ SD, mo",
+            "(n = 48)"
+          ]
+        },
+        {
+          "value": "97 ± 102",
+          "rowHeaders": [
+            "Recreational",
+            "Treatment",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted",
+            "§ SD, mo",
+            "(n = 33)"
+          ]
+        },
+        {
+          "value": "0.47",
+          "rowHeaders": [
+            "Recreational",
+            "§ SD and square root calculations were used to determine P. Bold indicates statistical significance (P ≤"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted",
+            "§ SD, mo",
+            "Time"
+          ]
+        },
+        {
+          "value": "0.31",
+          "rowHeaders": [
+            "Recreational",
+            "§ SD and square root calculations were used to determine P. Bold indicates statistical significance (P ≤"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Unadjusted",
+            "§ SD, mo",
+            "Group"
+          ]
+        },
+        {
+          "value": "0.38",
+          "rowHeaders": [
+            "Recreational",
+            "§ SD and square root calculations were used to determine P. Bold indicates statistical significance (P ≤"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Unadjusted",
+            "§ SD, mo",
+            "Group:Time"
+          ]
+        },
+        {
+          "value": "80 ±",
+          "rowHeaders": [
+            "Moderate"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Sedentary Time/",
+            "Adjusted",
+            "Treatment Group, min/d",
+            "(n = 144)"
+          ]
+        },
+        {
+          "value": "66",
+          "rowHeaders": [
+            "Moderate"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Sedentary Time/",
+            "Adjusted",
+            "Treatment Group, min/d",
+            "(n = 144)"
+          ]
+        },
+        {
+          "value": "64 ±",
+          "rowHeaders": [
+            "Moderate",
+            "0 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Sedentary Time/",
+            "Adjusted",
+            "Treatment Group, min/d",
+            "(n = 94)"
+          ]
+        },
+        {
+          "value": "64",
+          "rowHeaders": [
+            "Moderate",
+            "0 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Sedentary Time/",
+            "Adjusted",
+            "Treatment Group, min/d",
+            "(n = 94)"
+          ]
+        },
+        {
+          "value": "74 ±",
+          "rowHeaders": [
+            "Moderate",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Sedentary Time/",
+            "Adjusted",
+            "Treatment Group, min/d",
+            "(n = 93)"
+          ]
+        },
+        {
+          "value": "85",
+          "rowHeaders": [
+            "Moderate",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Sedentary Time/",
+            "Adjusted",
+            "§ SD, mo",
+            "(n = 93)"
+          ]
+        },
+        {
+          "value": "96 ±",
+          "rowHeaders": [
+            "Moderate",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Sedentary Time/",
+            "Adjusted",
+            "§ SD, mo",
+            "(n = 65)"
+          ]
+        },
+        {
+          "value": "98",
+          "rowHeaders": [
+            "Moderate",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted",
+            "§ SD, mo",
+            "(n = 65)"
+          ]
+        },
+        {
+          "value": "86 ±",
+          "rowHeaders": [
+            "Moderate",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted",
+            "Control Group, min/d",
+            "(n = 75)"
+          ]
+        },
+        {
+          "value": "75",
+          "rowHeaders": [
+            "Moderate",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted",
+            "Control Group, min/d",
+            "(n = 75)"
+          ]
+        },
+        {
+          "value": "74 ±",
+          "rowHeaders": [
+            "Moderate",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted",
+            "Control Group, min/d",
+            "(n = 41)"
+          ]
+        },
+        {
+          "value": "55",
+          "rowHeaders": [
+            "Moderate",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted",
+            "Control Group, min/d",
+            "(n = 41)"
+          ]
+        },
+        {
+          "value": "82 ±",
+          "rowHeaders": [
+            "Moderate",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted",
+            "Control Group, min/d",
+            "(n = 48)"
+          ]
+        },
+        {
+          "value": "71",
+          "rowHeaders": [
+            "Moderate",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted",
+            "§ SD, mo",
+            "(n = 48)"
+          ]
+        },
+        {
+          "value": "84 ±",
+          "rowHeaders": [
+            "Moderate",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted",
+            "§ SD, mo",
+            "(n = 33)"
+          ]
+        },
+        {
+          "value": "95",
+          "rowHeaders": [
+            "Moderate",
+            "§ SD and square root calculations were used to determine P. Bold indicates statistical significance (P ≤"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted",
+            "§ SD, mo",
+            "(n = 33)"
+          ]
+        },
+        {
+          "value": "0.64",
+          "rowHeaders": [
+            "Moderate",
+            "§ SD and square root calculations were used to determine P. Bold indicates statistical significance (P ≤"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted",
+            "§ SD, mo",
+            "Time"
+          ]
+        },
+        {
+          "value": "0.69",
+          "rowHeaders": [
+            "Moderate",
+            "§ SD and square root calculations were used to determine P. Bold indicates statistical significance (P ≤"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Unadjusted",
+            "§ SD, mo",
+            "Group"
+          ]
+        },
+        {
+          "value": "0.30",
+          "rowHeaders": [
+            "Moderate",
+            "§ SD and square root calculations were used to determine P. Bold indicates statistical significance (P ≤"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Unadjusted",
+            "§ SD, mo",
+            "Group:Time"
+          ]
+        },
+        {
+          "value": "33 ±",
+          "rowHeaders": [
+            "Vigorous"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Sedentary Time/",
+            "Adjusted",
+            "Treatment Group, min/d",
+            "(n = 144)"
+          ]
+        },
+        {
+          "value": "42",
+          "rowHeaders": [
+            "Vigorous"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Sedentary Time/",
+            "Adjusted",
+            "Treatment Group, min/d",
+            "(n = 144)"
+          ]
+        },
+        {
+          "value": "29 ±",
+          "rowHeaders": [
+            "Vigorous",
+            "0 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Sedentary Time/",
+            "Adjusted",
+            "Treatment Group, min/d",
+            "(n = 94)"
+          ]
+        },
+        {
+          "value": "42",
+          "rowHeaders": [
+            "Vigorous",
+            "0 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Sedentary Time/",
+            "Adjusted",
+            "Treatment Group, min/d",
+            "(n = 94)"
+          ]
+        },
+        {
+          "value": "41 ±",
+          "rowHeaders": [
+            "Vigorous",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Sedentary Time/",
+            "Adjusted",
+            "Treatment Group, min/d",
+            "(n = 93)"
+          ]
+        },
+        {
+          "value": "53",
+          "rowHeaders": [
+            "Vigorous",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Sedentary Time/",
+            "Adjusted",
+            "§ SD, mo",
+            "(n = 93)"
+          ]
+        },
+        {
+          "value": "46 ±",
+          "rowHeaders": [
+            "Vigorous",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Sedentary Time/",
+            "Adjusted",
+            "§ SD, mo",
+            "(n = 65)"
+          ]
+        },
+        {
+          "value": "53",
+          "rowHeaders": [
+            "Vigorous",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted",
+            "§ SD, mo",
+            "(n = 65)"
+          ]
+        },
+        {
+          "value": "37 ±",
+          "rowHeaders": [
+            "Vigorous",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted",
+            "Control Group, min/d",
+            "(n = 75)"
+          ]
+        },
+        {
+          "value": "39",
+          "rowHeaders": [
+            "Vigorous",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted",
+            "Control Group, min/d",
+            "(n = 75)"
+          ]
+        },
+        {
+          "value": "34 ±",
+          "rowHeaders": [
+            "Vigorous",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted",
+            "Control Group, min/d",
+            "(n = 41)"
+          ]
+        },
+        {
+          "value": "41",
+          "rowHeaders": [
+            "Vigorous",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted",
+            "Control Group, min/d",
+            "(n = 41)"
+          ]
+        },
+        {
+          "value": "42 ±",
+          "rowHeaders": [
+            "Vigorous",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted",
+            "Control Group, min/d",
+            "(n = 48)"
+          ]
+        },
+        {
+          "value": "42",
+          "rowHeaders": [
+            "Vigorous",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted",
+            "§ SD, mo",
+            "(n = 48)"
+          ]
+        },
+        {
+          "value": "49 ±",
+          "rowHeaders": [
+            "Vigorous",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted",
+            "§ SD, mo",
+            "(n = 33)"
+          ]
+        },
+        {
+          "value": "54",
+          "rowHeaders": [
+            "Vigorous",
+            "§ SD and square root calculations were used to determine P. Bold indicates statistical significance (P ≤"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted",
+            "§ SD, mo",
+            "(n = 33)"
+          ]
+        },
+        {
+          "value": "0.02",
+          "rowHeaders": [
+            "Vigorous",
+            "§ SD and square root calculations were used to determine P. Bold indicates statistical significance (P ≤"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted",
+            "§ SD, mo",
+            "Time"
+          ]
+        },
+        {
+          "value": "0.20",
+          "rowHeaders": [
+            "Vigorous",
+            "§ SD and square root calculations were used to determine P. Bold indicates statistical significance (P ≤"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Unadjusted",
+            "§ SD, mo",
+            "Group"
+          ]
+        },
+        {
+          "value": "0.74",
+          "rowHeaders": [
+            "Vigorous",
+            "§ SD and square root calculations were used to determine P. Bold indicates statistical significance (P ≤"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Unadjusted",
+            "§ SD, mo",
+            "Group:Time"
+          ]
+        },
+        {
+          "value": "97",
+          "rowHeaders": [
+            "Moderate to"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Sedentary Time/",
+            "Adjusted",
+            "Treatment Group, min/d",
+            "(n = 144)"
+          ]
+        },
+        {
+          "value": "93 ±",
+          "rowHeaders": [
+            "Moderate to",
+            "0 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Sedentary Time/",
+            "Adjusted",
+            "Treatment Group, min/d",
+            "(n = 94)"
+          ]
+        },
+        {
+          "value": "88",
+          "rowHeaders": [
+            "Moderate to",
+            "0 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Sedentary Time/",
+            "Adjusted",
+            "Treatment Group, min/d",
+            "(n = 94)"
+          ]
+        },
+        {
+          "value": "98",
+          "rowHeaders": [
+            "Moderate to",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted",
+            "Control Group, min/d",
+            "(n = 75)"
+          ]
+        },
+        {
+          "value": "87",
+          "rowHeaders": [
+            "Moderate to",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo",
+            "4 Mo",
+            "0 Mo"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted",
+            "Control Group, min/d",
+            "(n = 41)"
+          ]
+        },
+        {
+          "value": "0.17",
+          "rowHeaders": [
+            "Moderate to",
+            "§ SD and square root calculations were used to determine P. Bold indicates statistical significance (P ≤"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted",
+            "§ SD, mo",
+            "Time"
+          ]
+        },
+        {
+          "value": "0.48",
+          "rowHeaders": [
+            "Moderate to",
+            "§ SD and square root calculations were used to determine P. Bold indicates statistical significance (P ≤"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Unadjusted",
+            "§ SD, mo",
+            "Group"
+          ]
+        },
+        {
+          "value": "0.37",
+          "rowHeaders": [
+            "Moderate to",
+            "§ SD and square root calculations were used to determine P. Bold indicates statistical significance (P ≤"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Unadjusted",
+            "§ SD, mo",
+            "Group:Time"
+          ]
+        },
+        {
+          "value": ".05) for both sets of data.",
+          "rowHeaders": [
+            "mean minutes per day",
+            "§ SD and square root calculations were used to determine P. Bold indicates statistical significance (P ≤"
+          ],
+          "columnHeaders": [
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Table 3. Accelerometer-Derived Physical Activity and Sedentary Time and Block Kids Physical Activity Survey in Youth",
+            "Interaction (95% CI)",
+            "Adjusted",
+            "§ SD, mo",
+            "Group"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "0.08",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 4. Youth Program Evaluation Responses to Questions Asking How Often Youth Participated in Physical Activity",
+            "Journal of Nutrition Education and Behavior"
+          ]
+        },
+        {
+          "value": "3.6",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 4. Youth Program Evaluation Responses to Questions Asking How Often Youth Participated in Physical Activity",
+            "Journal of Nutrition Education and Behavior",
+            "rarely,",
+            "as"
+          ]
+        },
+        {
+          "value": "1.2",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 4. Youth Program Evaluation Responses to Questions Asking How Often Youth Participated in Physical Activity",
+            "Journal of Nutrition Education and Behavior",
+            "rarely,"
+          ]
+        },
+        {
+          "value": "3.8",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 4. Youth Program Evaluation Responses to Questions Asking How Often Youth Participated in Physical Activity",
+            "Journal of Nutrition Education and Behavior",
+            "rarely,"
+          ]
+        },
+        {
+          "value": "1.1",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 4. Youth Program Evaluation Responses to Questions Asking How Often Youth Participated in Physical Activity",
+            "Journal of Nutrition Education and Behavior"
+          ]
+        },
+        {
+          "value": "3.9",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 4. Youth Program Evaluation Responses to Questions Asking How Often Youth Participated in Physical Activity",
+            "Journal of Nutrition Education and Behavior"
+          ]
+        },
+        {
+          "value": "1.0",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 4. Youth Program Evaluation Responses to Questions Asking How Often Youth Participated in Physical Activity",
+            "Journal of Nutrition Education and Behavior"
+          ]
+        },
+        {
+          "value": "3.8",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 4. Youth Program Evaluation Responses to Questions Asking How Often Youth Participated in Physical Activity",
+            "Journal of Nutrition Education and Behavior"
+          ]
+        },
+        {
+          "value": "0.9",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 4. Youth Program Evaluation Responses to Questions Asking How Often Youth Participated in Physical Activity",
+            "Journal of Nutrition Education and Behavior"
+          ]
+        },
+        {
+          "value": "3.8",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 4. Youth Program Evaluation Responses to Questions Asking How Often Youth Participated in Physical Activity",
+            "Journal of Nutrition Education and Behavior"
+          ]
+        },
+        {
+          "value": "1.1",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 4. Youth Program Evaluation Responses to Questions Asking How Often Youth Participated in Physical Activity",
+            "Journal of Nutrition Education and Behavior"
+          ]
+        },
+        {
+          "value": "3.5",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 4. Youth Program Evaluation Responses to Questions Asking How Often Youth Participated in Physical Activity",
+            "Journal of Nutrition Education and Behavior"
+          ]
+        },
+        {
+          "value": "1.2",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 4. Youth Program Evaluation Responses to Questions Asking How Often Youth Participated in Physical Activity",
+            "Journal of Nutrition Education and Behavior"
+          ]
+        },
+        {
+          "value": "3.7",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 4. Youth Program Evaluation Responses to Questions Asking How Often Youth Participated in Physical Activity",
+            "Journal of Nutrition Education and Behavior"
+          ]
+        },
+        {
+          "value": "1.3",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 4. Youth Program Evaluation Responses to Questions Asking How Often Youth Participated in Physical Activity",
+            "Journal of Nutrition Education and Behavior"
+          ]
+        },
+        {
+          "value": "3.8",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 4. Youth Program Evaluation Responses to Questions Asking How Often Youth Participated in Physical Activity",
+            "Journal of Nutrition Education and Behavior"
+          ]
+        },
+        {
+          "value": "0.8",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 4. Youth Program Evaluation Responses to Questions Asking How Often Youth Participated in Physical Activity",
+            "Journal of Nutrition Education and Behavior"
+          ]
+        },
+        {
+          "value": "0.59",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 4. Youth Program Evaluation Responses to Questions Asking How Often Youth Participated in Physical Activity",
+            "Journal of Nutrition Education and Behavior"
+          ]
+        },
+        {
+          "value": "0.09",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 4. Youth Program Evaluation Responses to Questions Asking How Often Youth Participated in Physical Activity",
+            "Journal of Nutrition Education and Behavior"
+          ]
+        },
+        {
+          "value": "0.07",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 4. Youth Program Evaluation Responses to Questions Asking How Often Youth Participated in Physical Activity",
+            "Journal of Nutrition Education and Behavior"
+          ]
+        },
+        {
+          "value": "4.0",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 4. Youth Program Evaluation Responses to Questions Asking How Often Youth Participated in Physical Activity",
+            "Volume 51, Number 3S, 2019",
+            "rarely,",
+            "as"
+          ]
+        },
+        {
+          "value": "1.1",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 4. Youth Program Evaluation Responses to Questions Asking How Often Youth Participated in Physical Activity",
+            "Volume 51, Number 3S, 2019",
+            "rarely,"
+          ]
+        },
+        {
+          "value": "4.1",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 4. Youth Program Evaluation Responses to Questions Asking How Often Youth Participated in Physical Activity",
+            "Volume 51, Number 3S, 2019",
+            "rarely,"
+          ]
+        },
+        {
+          "value": "1.1",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 4. Youth Program Evaluation Responses to Questions Asking How Often Youth Participated in Physical Activity",
+            "Volume 51, Number 3S, 2019"
+          ]
+        },
+        {
+          "value": "4.1",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 4. Youth Program Evaluation Responses to Questions Asking How Often Youth Participated in Physical Activity",
+            "Volume 51, Number 3S, 2019"
+          ]
+        },
+        {
+          "value": "0.9",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 4. Youth Program Evaluation Responses to Questions Asking How Often Youth Participated in Physical Activity",
+            "Volume 51, Number 3S, 2019"
+          ]
+        },
+        {
+          "value": "4.1",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 4. Youth Program Evaluation Responses to Questions Asking How Often Youth Participated in Physical Activity",
+            "Volume 51, Number 3S, 2019"
+          ]
+        },
+        {
+          "value": "0.9",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 4. Youth Program Evaluation Responses to Questions Asking How Often Youth Participated in Physical Activity",
+            "Volume 51, Number 3S, 2019"
+          ]
+        },
+        {
+          "value": "3.7",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 4. Youth Program Evaluation Responses to Questions Asking How Often Youth Participated in Physical Activity",
+            "Volume 51, Number 3S, 2019"
+          ]
+        },
+        {
+          "value": "1.1",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 4. Youth Program Evaluation Responses to Questions Asking How Often Youth Participated in Physical Activity",
+            "Volume 51, Number 3S, 2019"
+          ]
+        },
+        {
+          "value": "4.1",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 4. Youth Program Evaluation Responses to Questions Asking How Often Youth Participated in Physical Activity",
+            "Volume 51, Number 3S, 2019"
+          ]
+        },
+        {
+          "value": "1.0",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 4. Youth Program Evaluation Responses to Questions Asking How Often Youth Participated in Physical Activity",
+            "Volume 51, Number 3S, 2019"
+          ]
+        },
+        {
+          "value": "4.2",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 4. Youth Program Evaluation Responses to Questions Asking How Often Youth Participated in Physical Activity",
+            "Volume 51, Number 3S, 2019"
+          ]
+        },
+        {
+          "value": "1.0",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 4. Youth Program Evaluation Responses to Questions Asking How Often Youth Participated in Physical Activity",
+            "Volume 51, Number 3S, 2019"
+          ]
+        },
+        {
+          "value": "4.1",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 4. Youth Program Evaluation Responses to Questions Asking How Often Youth Participated in Physical Activity",
+            "Volume 51, Number 3S, 2019"
+          ]
+        },
+        {
+          "value": "1.0",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 4. Youth Program Evaluation Responses to Questions Asking How Often Youth Participated in Physical Activity",
+            "Volume 51, Number 3S, 2019"
+          ]
+        },
+        {
+          "value": "0.41",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 4. Youth Program Evaluation Responses to Questions Asking How Often Youth Participated in Physical Activity",
+            "Volume 51, Number 3S, 2019"
+          ]
+        },
+        {
+          "value": "0.02",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 4. Youth Program Evaluation Responses to Questions Asking How Often Youth Participated in Physical Activity",
+            "Volume 51, Number 3S, 2019"
+          ]
+        },
+        {
+          "value": "0.59",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 4. Youth Program Evaluation Responses to Questions Asking How Often Youth Participated in Physical Activity",
+            "Volume 51, Number 3S, 2019"
+          ]
+        }
+      ],
+      "page": 1
+    }
+  ]
+}

@@ -1,0 +1,859 @@
+{
+  "blocks": [
+    {
+      "type": "LINES",
+      "value": "The Seamos Saludables Study A Randomized Controlled Physical Activity Trial of Latinas",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Background: Latinas in the U.S. are less physically active than non-Latino white women and also report higher levels of diabetes, obesity, and other conditions related to inactivity. Interventions are needed to address disparities in this high-risk group.\nPurpose: To evaluate the efficacy of a culturally adapted, Spanish-language, individually tailored, computer expert system-driven physical activity print-based intervention for adult Latinas.",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "R egular physical activity (PA) is associated with lower morbidity and mortality from heart disease, diabetes, obesity, hypertension, and other chronic diseases. Yet PA rates in the U.S. are markedly low. Latinos in particular report the highest rates of inactivity (44%) and also suffer disproportionately from conditions linked to sedentary lifestyle, including diabetes, obesity, and metabolic syndrome. These disparities represent a significant public health concern and are especially pronounced among Latino women. Thus, interventions to increase PA in Latinas are especially needed.\nSeveral PA interventions have targeted Latinas by providing materials and site-based programs in Spanish and/or delivering such interventions through bicultural clinicians or researchers. However, retention of and adherence to site-based interventions with Latinas has been challenging, along with a number of barriers to participating in PA (e.g., limited transportation, lack of personal free time). In one study, 151 Latinas were randomized to Spanish-language dance classes in \"storefront\" locations near a community clinic or to a safety education control. Although the women in the aerobic dance group reported more vigorous exercise and improved fitness compared to those in the control group, the authors noted that continuous rigorous outreach from study staff was necessary to maintain attendance at classes. To be both effective and sustainable, then, PA interventions with this population will likely need to allow for flexibility in time and location of activity, in addition to addressing other unique cultural barriers such as the expectation to put the needs of one's family before oneself. Additionally, few interventions have directly targeted psychosocial constructs shown to predict PA adoption in Latinas, signaling a need for interventions that are both culturally adapted to Latinas and targeted to populationspecific, theory-based predictors of PA. Previous research has shown that computer expert system-driven, individually tailored, theory-based print interventions (based on the transtheoretical model and social cognitive theory) can significantly increase PA in predominantly non-Hispanic white individuals. These interventions have potential for increasing PA in Latinas, as they can be delivered through the mail, allowing individuals to exercise wherever and whenever it is convenient for them.\nIn addition, these interventions incorporate theoretic constructs, such as social support and self-efficacy, shown to predict greater activity in Latinas. Therefore, formative research was conducted to culturally and linguistically adapt this intervention for Latinas, and the adapted intervention was tested (N¼93) in a pilot study. Results supported the feasibility and acceptability of using such an approach to promote PA in Latinas. The objective of the current study was to conduct a fully powered RCT (Seamos Saludables) to test the efficacy of the culturally adapted PA intervention for Latinas. It was hypothesized that, after 6 months, women randomized to the intervention arm would report significantly greater increases in weekly moderate-to-vigorous physical activity (MVPA) than those randomized to a wellness contact control condition.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The Seamos Saludables study is an RCT of a 6-month culturally and linguistically adapted, individually tailored PA print intervention for Latinas versus a wellness contact control condition. Data were collected between 2009 and 2012. The primary dependent variable is self-reported weekly PA at baseline and 6 months as measured by the 7-Day Physical Activity Recall (7-Day PAR; for more detailed information on the design, see.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The study was conducted at the Institute for Community Health Promotion at Brown University. Human subjects' approval was obtained from the Brown University IRB. Participants meeting inclusion criteria were adult women (aged 18-65 years) who selfidentified as Hispanic or Latina (or of a group defined as Hispanic/ Latino by the Census Bureau); could read and write in Spanish; and were underactive, which was defined as participating in MVPA r2 days per week for r30 minutes each day. Recruitment involved advertising in local Spanish-language newspapers, radio and TV stations, and recruiting at Latino churches, festivals, and events.\nExclusion criteria included being positive for any item on the Physical Activity Readiness Questionnaire (PAR-Q), a screening tool recommended by the American College of Sports Medicine (ACSM) to determine safety of adopting unsupervised physical activity. Exclusion items included a history of coronary heart disease, diabetes, stroke, osteoarthritis, osteoporosis, orthopedic problems, or any other serious medical condition that could make PA unsafe, as well as current or planned pregnancy, planning to move from the area within the next 12 months, hospitalization due to a psychiatric disorder in the past 3 years, BMI 445, and/or taking medication that may impair PA tolerance (e.g., beta blockers).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "After a telephone screening interview to determine initial eligibility, participants attended an orientation session and completed the informed consent process. At the next session, participants were measured (anthropometry, blood pressure, percentage body fat) and received ActiGraph GT3X accelerometers, with instructions to wear the accelerometer during waking hours for 7 consecutive days. On return of the accelerometers, participants completed baseline PA measures and were randomly assigned to one of two Spanishlanguage print-based mail-delivered intervention conditions: PA or wellness. Group assignment was determined by a list of random numbers (using a permuted block-randomization procedure implemented in MATLAB), which was stratified by stage of change to ensure an equal distribution of various levels of motivational readiness for PA across groups. Research staff was blind to the randomization schedule. All participants received regular mailings over the next 6 months (four mailings in Month 1, two in Months 2-3, and one in Months 4-6) and then returned to the research center for post-intervention assessments (Figure).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Demographics assessed at baseline included age, education, income, occupation, race, ethnicity, history of residence, and marital status. Acculturation and health literacy were assessed using the Brief Acculturation Scale (BrAS), a four-item measure that asks about language use across various life contexts, and the Short Test of Functional Health Literacy in Adults (STOFHLA), a measure designed to evaluate adult literacy in the healthcare setting. For a more detailed account of the measures used, see Pekmezi et al. The primary outcome measure, the 7-Day PAR, was completed at baseline and 6-month assessments. The 7-Day PAR is an interviewer-administered measure of MVPA performed during the prior week across contexts (e.g., leisure, occupation) in a minimum of 10-minute bouts. It has consistently demonstrated acceptable reliability, internal consistency, and congruent validity with other more objective measures of PA (e.g., accelerometers). It is sensitive to changes in moderate-intensity PA overtime and has good test-retest reliability among Latino participants. To corroborate the self-report 7-Day PAR data, participants also wore ActiGraph GT3X accelerometers for 7 days prior to the baseline and 6-month assessments (overlapping with the 7-Day PAR recall period). Accelerometers were used to measure both movement and intensity of activity and have been validated with heart rate telemetry and total energy expenditure. Accelerometer data was processed using ActiLife 5 software, with a cutpoint of 1952 as the minimum threshold for moderate-intensity activity and minimum activity duration of 10 minutes.\nThree psychosocial measures-stage of change, self-efficacy for PA, and the processes of change-were administered face-to-face at baseline and 6 months and via mail at 3 months. Intervention participants also completed these measures at 2, 4, and 5 months to generate the tailored expert-system feedback reports and assess for changes in theoretic constructs directly targeted by the intervention. The four-item stage-of-change measure has demonstrated reliability as well as shown acceptable concurrent validity with measures of self-efficacy and current activity levels. Self-efficacy, or confidence in one's ability to persist with exercising in various situations (e.g., when feeling fatigued, during inclement weather) was measured with a five-item instrument developed by Marcus and colleagues (alpha¼0.82). The 40-item processes measure contains ten subscales that address a variety of processes of PA behavior change. Internal consistency of the subscales ranged from 0.62 to 0.96.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The intervention is based on the social cognitive theory and the transtheoretical model and therefore emphasizes behavioral strategies for increasing PA (e.g., goal-setting, self-monitoring, problem-solving barriers, increasing social support, rewarding oneself for meeting PA goals). The intervention includes regular mailings of PA manuals matched to the participant's current stage of motivational readiness for PA, individually tailored feedback reports, and tip sheets on selected topics (e.g., stretching, measuring heart rate). These reports are generated by a computer expert system and draw from a library of approximately 296 messages regarding motivation, self-efficacy, and cognitive and behavioral strategies for PA adoption based on participants' responses to questionnaires.\nThe expert system also provides feedback on progress overtime and compared to other individuals who have successfully adopted and maintained PA. Participants received pedometers and PA logs to encourage self-monitoring of PA behavior. To better meet the PA intervention needs and preferences of Latinas, the program was provided in Spanish and addressed PA barriers identified by Latinas in focus groups and in the literature review (lack of time, lack of motivation, childcare, partner support, personal empowerment, costs, inclement weather, gender roles, and body-size ideals; see Pekmezi et al. for further details).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "The attention control condition received Spanish-language pamphlets on heart-healthy behaviors (other than PA) developed by the National Heart, Lung, and Blood Institute (NHLBI) for Latinos. The pamphlets focus on diet, smoking, and other factors associated with cardiovascular disease risk and were specifically targeted to Latinos aged 18-54 years with low levels of acculturation, SES, and education.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Differences between conditions on baseline demographics, anthropometric and psychosocial measures were assessed using Wilcoxon rank-sum tests, t-tests, and chi-square tests as appropriate. For the primary outcome, minutes/week of MVPA, unadjusted M, range, and SD were examined and summarized overall and by intervention arm at baseline and 6-month follow-up.\nUsing a mixed-effects longitudinal regression model, betweengroup differences in minutes/week of MVPA were assessed at follow-up, controlling for baseline values, as well as potential covariates (variables not balanced by randomization). Models included random intercepts to account for within-subject correlation between repeated outcomes overtime, and SEs were adjusted to account for clustering. All analyses were conducted on the intent-to-treat sample, including all participants randomized at baseline. Mixed-effects models use a likelihood-based approach to estimation and therefore made use of all available data without directly imputing missing outcome values. As a subsequent step, any occupational activity reported by participants  Using a longitudinal regression model implemented with generalized estimating equations (GEEs) with robust SEs, the effect of treatment assigned was examined on the probability of meeting ACSM guidelines for PA (defined as reporting Z150 minutes/week of MVPA ) at follow-up, controlling for potential confounders (in this case, variables not balanced by randomization). Specifically, binary indicators of meeting criteria on treatment assigned (intervention versus control); baseline level of PA; and potential covariates (as listed previously) were regressed using binomial errors, a logit link function, and a working unstructured correlation to accommodate within-subject correlations. The correlation between the 7-day PAR and the ActiGraph accelerometers was examined using Spearman rank correlations. The primary analysis (testing between-group differences in minutes/week of MVPA at follow-up) was repeated using data collected from the ActiGraph accelerometers at baseline and 6-month follow-up.\nFinally, as an exploratory step, between-group differences were assessed in intermediate variables targeted by the intervention, including self-efficacy, and behavioral and cognitive processes. A series of generalized linear models assessed between-group differences in each of these constructs at 3-month follow-up, controlling for baseline values and potential confounders of the intervention effect. Intermediate variables were assessed at 3 months, as they were proposed a priori as potential mediators of the intervention effect and thus were measured earlier to guarantee that the temporal precedence assumption was met. All analyses were conducted in 2013 using SAS 9.3; significance level was set a priori at 0.05.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Table presents baseline characteristics of the sample, both overall and by intervention arm. Among the 266 women randomized at baseline, the average age was 40.67 years (SD¼9.98) and mean BMI was 29.40 (SD¼4.70). More than 90% were first-generation immigrants to the U.S., and 481% spoke only Spanish or more Spanish than English, suggesting that the group was low in acculturation. The majority were of Caribbean or South-American descent, with the largest groups being Dominican (37%) and Colombian (26%). Participants were also of limited financial means, with nearly half (47%) being unemployed and 54% reporting a family income below $20,000. A full description of the sample is provided in Table and has been presented in detail elsewhere. Significant between-group differences at baseline were found for generation status and blood pressure (systolic and diastolic), p'so0.05; hence, these variables were included as covariates in all final models. Follow-up was 87% at 6 months (no differential loss to follow-up between treatment arms).\nThe median minutes/week of MVPA was zero for both PA intervention and control conditions at baseline (range was 0-35 in the intervention and 0-60 in control). Intervention participants (n¼132) increased their self-reported mean minutes/week of MVPA from 1.87 (SD¼6.86) at baseline to 73.36 minutes/week (SD¼89.73) at the 6-month follow-up. Control participants (n¼134) increased their minutes/week of MVPA from a mean of 3.02 (SD¼10.30) at baseline to 32.98 (SD¼82.82) at 6 months.\nThe longitudinal regression model showed a significant treatment effect such that at 6 months, intervention participants reported an average of 41.36 (SE¼7.93) minutes more MVPA compared to control participants, po0.01, when controlling for baseline values, blood pressure, and generation status. Model results are summarized in Table. There was no significant change in the estimated treatment effect when reported occupational activity was removed from total minutes/week of MVPA. Among participants randomized to the intervention arm, 15 (or 11.36%) reported meeting ACSM guidelines for PA at 6 months, versus only eight (or 5.97%) control participants. When controlling for blood pressure and generation status, there was a nearly significant treatment effect on the odds of meeting PA guidelines at 6-month follow-up (OR¼2.34, p¼0.07).\nResults also indicate a significant correlation between self-reported MVPA and objectively measured activity level at both baseline and 6 months (rho¼0.26, po0.01 at baseline and rho¼0.44, po0.01 at the 6-month followup). Note that correlations at 6 months correspond to the subsample of participants who both completed the 7-Day PAR and had available accelerometer data for the corresponding 7 days (n¼198, 74% at 6 months). Results from a regression model suggest a significant effect of treatment on objectively measured MVPA at 6-month follow-up such that at 6 months, intervention participants were reporting an average of 35.64 (SE¼7.37) more minutes of objectively measured MVPA than control participants, po0.01, when controlling for baseline values, blood pressure, and nativity.\nFinally, initial exploration suggested significant associations between treatment assignment and potential mediators of the intervention effect (psychosocial variables at 3-month follow-up). Unadjusted effects have been summarized in Table. Regression models indicate that intervention participants had higher mean self-efficacy scores (b¼0.52, SE¼0.11, po0.01); cognitive processes (b¼0.37, SE¼0.09, po0.01); and behavioral processes (b¼0.66, SE¼0.08, po0.01) at 3 months compared to control participants.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Findings support the efficacy of this technology-based approach to promoting physical activity in Latinas. As hypothesized, both self-report and objective data show that women randomized to the intervention group reported significantly greater increases in weekly MVPA after 6 months than those randomized to the wellness control condition. Effect sizes were relatively unchanged after removing occupational activity, suggesting that changes were primarily in leisure-time PA. The increase in physical activity produced by the intervention (approximately 70 minutes/ week) may appear modest, but these changes have high potential clinical significance. Even small increases in PA can produce health benefits, especially for those who are initially inactive. Moreover, the current study achieved greater increases in PA than other interventions with this target population. Significant group differences also were found in the theoretic mediators directly targeted by the intervention. After 3 months, those in the intervention group reported significantly greater self-efficacy and cognitive and behavioral processes of change compared to control participants. These psychosocial constructs have been shown to predict PA adoption and maintenance, but there is a paucity of research examining the theoretic mechanisms of action behind PA behavior change in Latinas. Thus, the current study corroborates past results and extends these findings to anew population.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Limitations of the current study include the fact that the participants were self-selected, in that only individuals interested in joining a PA research program were recruited. Participants were also screened for health problems that would limit their ability to engage safely in a PA program. Therefore, this sample consisted of relatively motivated, healthy women with some degree of health literacy and advanced education, who Additionally, although the materials utilized in the study were written at a basic reading level to accommodate individuals varying in levels of education, the print-based nature of the intervention also may limit its generalizability to participants with low literacy rates. Overall, the sample was particularly low-income, with more than half reporting a yearly household income of o$20,000, suggesting that study protocols did not selectively exclude those of limited means, and less than 3% of screened participants were excluded due to low literacy. This finding is consistent with data from the focus groups, in which Latinas indicated that a printbased intervention was their preferred mode of delivery, as it would allow them to share materials with family and friends, suggesting that literacy was not a primary concern for this particular population.\nThis study has a number of strengths, including the RCT design and the diverse sample of Latinas from varying countries of origin. The majority of PA interventions with Latinos have focused on Mexican Americans, yet they may not be representative for all Latino subgroups, which differ in a number of health behaviors including PA. While Mexican Americans are the largest Latino subgroup in the U.S., other subgroups are growing at a faster rate and may suffer from a higher prevalence of chronic diseases than Mexican Americans. Therefore, the inclusion of participants from diverse countries of origin is particularly important. Additionally, the participants in the current study were generally low in acculturation, representing a hard-toreach group that often reports lower leisure-time PA than more highly acculturated Latinos. An additional strength is that the current study used both subjective and objective measures of activity, which demonstrated similar results.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Latinos now constitute the largest (and fastest-growing) ethnic minority group in the U.S. and are projected to constitute nearly one third of the population by 2050. Thus, health promotion programs for this population that are both effective and poised for widespread dissemination have the potential to positively affect public health and reduce health disparities. As the current intervention is automated and mail-delivered, it could have abroad reach, particularly for individuals with limited financial or transportation resources. Past research has shown similar programs to be relatively low cost given that facilities and instructors are not required. In fact, high retention rates were achieved in the current study (87%) with minimal staff contact. Future studies should assess the longer-term effects of such interventions beyond the 6-month mark and evaluate the potential of delivery via other media channels, such as the Internet or text messaging, which could further increase reach and decrease costs. This research was supported by the National Institute of Nursing Research at the NIH (Grant NR011295). The authors thank collaborators Drs. Christina Lee, Charles Neighbors, Ernestine Jennings, and Ronnesia Gaskins for earlier contributions to this study. The authors thank Susan Carton-Lopez, Viveka Ayala-Heredia, Susan Pinheiro, Jane Wheeler, Jamie Longval, Jacqueline Parra, Joshua Marcus-Blank, and Rebecca Levenson of Brown University as well as Raul Fortunet and Rachelle Edgar of the University of California, San Diego, for their valuable assistance with this project. Most importantly, the authors thank the study participants for their time.\nNo financial disclosures were reported by the authors of this paper.  Note: Possible scores ranged from 1 to 5 Self-efficacy: 1 (Not at all confident) to 5 (Extremely confident), and Cognitive and Behavioral processes: 1 (Never) to 5 (Repeatedly).\n",
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "29.59 (4.34)",
+          "rowHeaders": [
+            "Speak only Spanish or more Spanish than",
+            "BMI"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Intervention,",
+            "n=132"
+          ]
+        },
+        {
+          "value": "29.21 (5.03)",
+          "rowHeaders": [
+            "Speak only Spanish or more Spanish than",
+            "BMI"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Wellness contact",
+            "control, n=134"
+          ]
+        },
+        {
+          "value": "41.61 (10.07)",
+          "rowHeaders": [
+            "Speak only Spanish or more Spanish than",
+            "Age, years"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Intervention,",
+            "n=132"
+          ]
+        },
+        {
+          "value": "39.75 (9.84)",
+          "rowHeaders": [
+            "Speak only Spanish or more Spanish than",
+            "Age, years"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Wellness contact",
+            "control, n=134"
+          ]
+        },
+        {
+          "value": "90.9",
+          "rowHeaders": [
+            "Speak only Spanish or more Spanish than",
+            "First"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Intervention,",
+            "n=132"
+          ]
+        },
+        {
+          "value": "96.3",
+          "rowHeaders": [
+            "Speak only Spanish or more Spanish than",
+            "First"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Wellness contact",
+            "control, n=134"
+          ]
+        },
+        {
+          "value": "6.8",
+          "rowHeaders": [
+            "Speak only Spanish or more Spanish than",
+            "Second"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Intervention,",
+            "n=132"
+          ]
+        },
+        {
+          "value": "3.7",
+          "rowHeaders": [
+            "Speak only Spanish or more Spanish than",
+            "Second"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Wellness contact",
+            "control, n=134"
+          ]
+        },
+        {
+          "value": "2.3",
+          "rowHeaders": [
+            "Speak only Spanish or more Spanish than",
+            "Third"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Intervention,",
+            "n=132"
+          ]
+        },
+        {
+          "value": "79.5",
+          "rowHeaders": [
+            "Speak only Spanish or more Spanish than"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Intervention,",
+            "n=132"
+          ]
+        },
+        {
+          "value": "83.4",
+          "rowHeaders": [
+            "Speak only Spanish or more Spanish than"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Wellness contact",
+            "control, n=134"
+          ]
+        },
+        {
+          "value": "10.6",
+          "rowHeaders": [
+            "Speak only Spanish or more Spanish than",
+            "Puerto Rican"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Intervention,",
+            "n=132"
+          ]
+        },
+        {
+          "value": "10.5",
+          "rowHeaders": [
+            "Speak only Spanish or more Spanish than",
+            "Puerto Rican"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Wellness contact",
+            "control, n=134"
+          ]
+        },
+        {
+          "value": "34.1",
+          "rowHeaders": [
+            "Speak only Spanish or more Spanish than",
+            "Dominican"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Intervention,",
+            "n=132"
+          ]
+        },
+        {
+          "value": "40.6",
+          "rowHeaders": [
+            "Speak only Spanish or more Spanish than",
+            "Dominican"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Wellness contact",
+            "control, n=134"
+          ]
+        },
+        {
+          "value": "5.3",
+          "rowHeaders": [
+            "Speak only Spanish or more Spanish than",
+            "Mexican, Mexican-American, Chicana"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Intervention,",
+            "n=132"
+          ]
+        },
+        {
+          "value": "4.5",
+          "rowHeaders": [
+            "Speak only Spanish or more Spanish than",
+            "Mexican, Mexican-American, Chicana"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Wellness contact",
+            "control, n=134"
+          ]
+        },
+        {
+          "value": "6.8",
+          "rowHeaders": [
+            "Education, % at least some college",
+            "Guatemalan"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Intervention,",
+            "n=132"
+          ]
+        },
+        {
+          "value": "11.3",
+          "rowHeaders": [
+            "Education, % at least some college",
+            "Guatemalan"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Wellness contact",
+            "control, n=134"
+          ]
+        },
+        {
+          "value": "30.3",
+          "rowHeaders": [
+            "Education, % at least some college",
+            "Columbian"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Intervention,",
+            "n=132"
+          ]
+        },
+        {
+          "value": "21.8",
+          "rowHeaders": [
+            "Education, % at least some college",
+            "Columbian"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Wellness contact",
+            "control, n=134"
+          ]
+        },
+        {
+          "value": "12.9",
+          "rowHeaders": [
+            "Education, % at least some college",
+            "Other"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Intervention,",
+            "n=132"
+          ]
+        },
+        {
+          "value": "11.3",
+          "rowHeaders": [
+            "Education, % at least some college",
+            "Other"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Wellness contact",
+            "control, n=134"
+          ]
+        },
+        {
+          "value": "47.73",
+          "rowHeaders": [
+            "Education, % at least some college"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Intervention,",
+            "n=132"
+          ]
+        },
+        {
+          "value": "44.78",
+          "rowHeaders": [
+            "Education, % at least some college"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Wellness contact",
+            "control, n=134"
+          ]
+        },
+        {
+          "value": "45.8",
+          "rowHeaders": [
+            "Employment, % unemployed"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Intervention,",
+            "n=132"
+          ]
+        },
+        {
+          "value": "48.12",
+          "rowHeaders": [
+            "Employment, % unemployed"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Wellness contact",
+            "control, n=134"
+          ]
+        },
+        {
+          "value": "52.8",
+          "rowHeaders": [
+            "Education, % at least some college",
+            "o20,000"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Intervention,",
+            "n=132"
+          ]
+        },
+        {
+          "value": "54.4",
+          "rowHeaders": [
+            "Education, % at least some college",
+            "o20,000"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Wellness contact",
+            "control, n=134"
+          ]
+        },
+        {
+          "value": "15.7",
+          "rowHeaders": [
+            "Education, % at least some college"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Wellness contact",
+            "control, n=134"
+          ]
+        },
+        {
+          "value": "6.3",
+          "rowHeaders": [
+            "Marital status (% married/partnered)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Wellness contact",
+            "control, n=134"
+          ]
+        },
+        {
+          "value": "7.1",
+          "rowHeaders": [
+            "Marital status (% married/partnered)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Intervention,",
+            "n=132"
+          ]
+        },
+        {
+          "value": "3.9",
+          "rowHeaders": [
+            "Marital status (% married/partnered)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Wellness contact",
+            "control, n=134"
+          ]
+        },
+        {
+          "value": "6.3",
+          "rowHeaders": [
+            "Marital status (% married/partnered)",
+            "Z50,000"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Intervention,",
+            "n=132"
+          ]
+        },
+        {
+          "value": "4.7",
+          "rowHeaders": [
+            "Marital status (% married/partnered)",
+            "Z50,000"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Wellness contact",
+            "control, n=134"
+          ]
+        },
+        {
+          "value": "7.9",
+          "rowHeaders": [
+            "Marital status (% married/partnered)",
+            "Don't know"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Intervention,",
+            "n=132"
+          ]
+        },
+        {
+          "value": "62.12",
+          "rowHeaders": [
+            "Marital status (% married/partnered)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Intervention,",
+            "n=132"
+          ]
+        },
+        {
+          "value": "51.88",
+          "rowHeaders": [
+            "Marital status (% married/partnered)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Wellness contact",
+            "control, n=134"
+          ]
+        },
+        {
+          "value": "34.78 (4.34)",
+          "rowHeaders": [
+            "Waist (inches)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Intervention,",
+            "n=132"
+          ]
+        },
+        {
+          "value": "34.16 (4.70)",
+          "rowHeaders": [
+            "Waist (inches)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Wellness contact",
+            "control, n=134"
+          ]
+        },
+        {
+          "value": "42.21 (3.49)",
+          "rowHeaders": [
+            "Hips (inches)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Intervention,",
+            "n=132"
+          ]
+        },
+        {
+          "value": "41.82 (4.06)",
+          "rowHeaders": [
+            "Hips (inches)"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Wellness contact",
+            "control, n=134"
+          ]
+        },
+        {
+          "value": "116.68 (11.16)",
+          "rowHeaders": [
+            "Systolic blood pressure*"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Intervention,",
+            "n=132"
+          ]
+        },
+        {
+          "value": "120.07 (10.63)",
+          "rowHeaders": [
+            "Systolic blood pressure*"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Wellness contact",
+            "control, n=134"
+          ]
+        },
+        {
+          "value": "72.92 (8.53)",
+          "rowHeaders": [
+            "Diastolic blood pressure*"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Intervention,",
+            "n=132"
+          ]
+        },
+        {
+          "value": "75.83 (8.14)",
+          "rowHeaders": [
+            "Diastolic blood pressure*"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Wellness contact",
+            "control, n=134"
+          ]
+        },
+        {
+          "value": "31.84 (5.19)",
+          "rowHeaders": [
+            "Health literacy"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Intervention,",
+            "n=132"
+          ]
+        },
+        {
+          "value": "31.81 (5.37)",
+          "rowHeaders": [
+            "Health literacy"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Wellness contact",
+            "control, n=134"
+          ]
+        },
+        {
+          "value": "2.19 (0.81)",
+          "rowHeaders": [
+            "Baseline self-efficacy"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Intervention,",
+            "n=132"
+          ]
+        },
+        {
+          "value": "2.14 (0.76)",
+          "rowHeaders": [
+            "Baseline self-efficacy"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Wellness contact",
+            "control, n=134"
+          ]
+        },
+        {
+          "value": "2.54 (0.83)",
+          "rowHeaders": [
+            "Baseline cognitive processes"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Intervention,",
+            "n=132"
+          ]
+        },
+        {
+          "value": "2.48 (0.83)",
+          "rowHeaders": [
+            "Baseline cognitive processes"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Wellness contact",
+            "control, n=134"
+          ]
+        },
+        {
+          "value": "2.00 (0.63)",
+          "rowHeaders": [
+            "Baseline behavioral processes"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Intervention,",
+            "n=132"
+          ]
+        },
+        {
+          "value": "2.01 (0.64)",
+          "rowHeaders": [
+            "Baseline behavioral processes"
+          ],
+          "columnHeaders": [
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Table 1. Baseline descriptives of study sample, M (SD) unless otherwise indicated",
+            "Wellness contact",
+            "control, n=134"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "À0.03",
+          "rowHeaders": [
+            "Intervention effect"
+          ],
+          "columnHeaders": [
+            "Table 2. Estimated fixed effects from longitudinal model of",
+            "Table 2. Estimated fixed effects from longitudinal model of",
+            "estimate"
+          ]
+        },
+        {
+          "value": "7.17",
+          "rowHeaders": [
+            "Intervention effect"
+          ],
+          "columnHeaders": [
+            "Table 2. Estimated fixed effects from longitudinal model of",
+            "Table 2. Estimated fixed effects from longitudinal model of",
+            "SE"
+          ]
+        },
+        {
+          "value": "0.99",
+          "rowHeaders": [
+            "Intervention effect"
+          ],
+          "columnHeaders": [
+            "Table 2. Estimated fixed effects from longitudinal model of",
+            "Table 2. Estimated fixed effects from longitudinal model of",
+            "p-value"
+          ]
+        },
+        {
+          "value": "29.82",
+          "rowHeaders": [
+            "Indicator of 6-month"
+          ],
+          "columnHeaders": [
+            "Table 2. Estimated fixed effects from longitudinal model of",
+            "Table 2. Estimated fixed effects from longitudinal model of",
+            "estimate"
+          ]
+        },
+        {
+          "value": "7.35",
+          "rowHeaders": [
+            "Indicator of 6-month"
+          ],
+          "columnHeaders": [
+            "Table 2. Estimated fixed effects from longitudinal model of",
+            "Table 2. Estimated fixed effects from longitudinal model of",
+            "SE"
+          ]
+        },
+        {
+          "value": "o0.01",
+          "rowHeaders": [
+            "Indicator of 6-month"
+          ],
+          "columnHeaders": [
+            "Table 2. Estimated fixed effects from longitudinal model of",
+            "Table 2. Estimated fixed effects from longitudinal model of",
+            "p-value"
+          ]
+        },
+        {
+          "value": "41.39",
+          "rowHeaders": [
+            "Intervention X"
+          ],
+          "columnHeaders": [
+            "Table 2. Estimated fixed effects from longitudinal model of",
+            "Table 2. Estimated fixed effects from longitudinal model of",
+            "estimate"
+          ]
+        },
+        {
+          "value": "10.57",
+          "rowHeaders": [
+            "Intervention X"
+          ],
+          "columnHeaders": [
+            "Table 2. Estimated fixed effects from longitudinal model of",
+            "Table 2. Estimated fixed effects from longitudinal model of",
+            "SE"
+          ]
+        },
+        {
+          "value": "o0.01",
+          "rowHeaders": [
+            "Intervention X"
+          ],
+          "columnHeaders": [
+            "Table 2. Estimated fixed effects from longitudinal model of",
+            "Table 2. Estimated fixed effects from longitudinal model of",
+            "p-value"
+          ]
+        }
+      ],
+      "page": 1
+    }
+  ]
+}

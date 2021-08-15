@@ -1,0 +1,1976 @@
+{
+  "blocks": [
+    {
+      "type": "LINES",
+      "value": "Reducing Sedentary Behavior Versus Increasing Moderate-to-Vigorous Intensity Physical Activity in Older Adults: A 12-Week Randomized, Clinical Trial",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Objective: To compare the effects of behavioral interventions targeting decreased sedentary behavior versus increased moderate-to-vigorous intensity physical activity (MVPA) in older adults. Method: Inactive older adults (N = 38, 68 ± 7 years old, 71% female) were randomized to 12-week interventions targeting decreased sedentary behavior (Sit Less) or increased MVPA (Get Active). The SenseWear armband was used to objectively assess activity in real time. Assessments included a blinded armband, the Community Health",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Sedentary behavior, or \"too much sitting, as distinct from too little exercise\", is how Americans spend most of their time. Even individuals meeting current physical activity recommendations for moderate-tovigorous physical activity (MVPA) can be highly sedentary during the remainder of the day. Systematic reviews of observational studies have found consistent, direct associations between more sedentary behavior and a higher risk of cardiovascular disease, diabetes, and mortality, even after adjustment for MVPA. Fewer studies have evaluated older adult populations, but these also identify more sedentary behavior as an independent risk factor for important aging outcomes including declining physical function, decreased bone mineral density in women, greater disability in activities of daily living, and increased mortality.\nOlder adults are the age group least likely to achieve MVPA recommendations (National Center for Health Statistics, 2013), as well as the age group spending the most time, 9.4 hr per day, in sedentary behaviors. MVPA interventions in older adults have improved incident and persistent major mobility disability and physical function, but less is known about whether an intervention simply targeting reduced sedentary behavior in older adults is feasible or will yield such benefits. Two small studies in older adults have used a single individualized counseling session, including review of personal objective monitoring data by accelerometry, to reduce sedentary behavior measured immediately or about 1 week after the consultation. Both studies observed small but significant declines of 2% to 3% in sedentary time, demonstrating short-term feasibility, but these studies were of limited duration or intensity to elicit changes in health outcomes or quality of life (QoL). Moreover, whether interventions targeting decreased sedentary behavior will result in increased MVPA or vice versa remains unclear.\nThus, the primary objective of this study was to compare the effects of interventions targeting decreased sedentary behavior versus increased MVPA on overall pattern of objectively monitored and self-reported activity in older adults over 12 weeks. We hypothesized that an intervention to decrease sedentary behavior may decrease sedentary time and increase MVPA to a greater extent than an intervention targeting increased MVPA. Secondary objectives were to compare the intervention effects on measures of physical function and health-related QoL.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Study participants were recruited between February and July of 2014 through paper mailings and emails to research participant registries or other directories affiliated with the University of Pittsburgh. Interested participants completed a phone screening, an orientation, and then finally a screening visit to determine eligibility for the study. Eligibility criteria included age ≥60 years old, <60 min per week of self-reported MVPA, ability to complete a 400 m walk test without an assistive device, ability to provide medical clearance from a physician to participate in the study, and access to a smartphone with Bluetooth® that was compatible with the BodyMedia FIT System (a component of the intervention). A recent cardiovascular event (<6 months), recent use of psychotropic medications or other treatment for psychological issues (<6 months), any comorbid condition that limited participation in exercise (e.g., severe arthritis, current treatment for cancer), or self-report of >3 alcoholic beverages per day were exclusionary. Study procedures were approved by the University of Pittsburgh institutional review board. All participants gave informed consent to participate in the study.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Participants were randomly assigned to one of two intervention groups with a 1:1 ratio. Randomization was stratified by sex and cohabitation. Cohabiting (e.g., married) participants were randomized at the level of the couple.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Assessments were performed at baseline and 12 weeks, unless otherwise noted. Physical activity and sedentary behavior, the primary outcomes of the study, were assessed both objectively and by self-report. Objective activity was measured by a blinded, SenseWearPro armband (SWA) that did not provide feedback and was separate from the intervention armband described below. Participants were instructed to wear the armband during all waking hours for 7 days and to only remove the armband while bathing or engaging in water activities. The SWA is a small, multi-sensor device worn on the midline of the triceps that measures acceleration, heat flux, skin temperature, and galvanic skin response. The SWA has been validated for assessing free-living, total energy expenditure using doubly labeled water as the gold standard, with recent studies showing correlations ranging from .73 to .89. Specifically across six sedentary and light intensity activities, the SWA had a correlation of .9 (p < .001) with energy expenditure as measured by indirect calorimetry.\nObjective activity data were processed using proprietary algorithms provided by the manufacturer (SenseWear Professional version 7.0). These algorithms combine data from the armband with user-entered participant parameters (age, sex, height, weight, smoking, and handedness) to give estimates of energy expenditure for each minute of wear time, which were converted to metabolic equivalents (METs). Assessments with ≥4 days of ≥10 hr/ day of armband data were considered valid.\nIn addition, the SWA classifies activity as \"awake\" or \"asleep.\" Although participants were instructed to remove the armband when sleeping, some participants wore the armband when sleeping, and classification as \"sleeping\" was sometimes sporadic. To minimize misclassification of sleep time as sedentary time, reflecting the definition of sedentary behavior which excludes sleep (Sedentary Behavior Research Network, 2012), we applied a rule-based approach where each minute within a sleeping bout of ≥10 min was removed from the data. Sporadic bouts of sleeping of ≤10 min were classified as sedentary behavior. On average, this resulted in the reclassification of <1 min per day of sleep as sedentary behavior (range: 0-3 min/day).\nTotal sedentary time was calculated as the sum of \"awake\" minutes for which energy expenditure was ≤1.5 METs and converted to hr/day. Total light intensity physical activity (LPA) and MVPA was similarly calculated as the sum of \"awake\" minutes for which energy expenditure was >1.5 but <3.0 METs and ≥3.0 METs, respectively, and converted to minutes/week by multiplying the daily average by 7. Consistent with current physical activity recommendations (\"Physical Activity Guidelines Advisory Committee, MVPA accumulated in bouts of ≥10 min was also calculated. Again using a rule-based approach, bouts could have 1 min at <3.0 METs within about if both adjacent minutes were ≥3.0 METs.\nSelf-reported MVPA was assessed by the Community Health Activites Model Program for Senior (CHAMPS) questionnaire. MVPA (activities ≥ 3.0 METs) and exercise-related activities (activities ≥ 2.0 METs) were scored using published scoring algorithms. Sedentary behavior was assessed by a six-item questionnaire, adapted from a questionnaire used in the Coronary Artery Risk Development in Young Adults (CARDIA) Study to measure recreational sedentary behavior. The questionnaire used in this study assessed usual time spent in six sedentary activities (e.g., watching TV, using a computer for work or recreation, riding in a car) separately for weekdays and weekends. Weekday and weekend totals were weighted to provide an average of total sedentary time in hours/day.\nPhysical function was assessed by a 400-m walk test) and the Short Physical Performance Battery (SPPB). The 400-m walk test was performed by completing 10 laps of a 20-m walking course and using a standardized script. Time to complete the course was measured to the nearest 100th of a second using a digital stopwatch. Because the 400-m walk test was needed to determine eligibility, participants completed this test first. Then, participants completed questionnaires for approximately 20 to 25 min and lastly completed the SPPB. The SPPB, described in more detail elsewhere, includes three tests (standing balance, gait speed, and chair stands) which contribute up to 4 points each to a score ranging from 0 to 12 points, where 12 points indicate the best physical function. Components of the SPPB score were also considered separately. Gait speed, calculated as the average of the two 4-m walk tests during the SPPB, was also considered separately.\nSelf-reported, health-related QoL was assessed using the RAND 36-item Short Form Survey (SF-36; which yields overall and subcategory QoL scores from 0 to 100, with a higher score indicating a higher health-related QoL. Depressive symptoms were evaluated using the Center for Epidemiological Studies Depression Scale (CES-D), which ranges from 0 to 30, with higher scores indicating more depressive symptoms. Any score ≥13 on the CES-D would have prompted a referral to a primary care physician, but this did not occur during the screening process in our participants.\nHeight (baseline only) and weight were measured in light clothing with shoes removed. Blood pressure was averaged over two consistent (differences of <10 mmHg SBP and <6 mmHg DBP) measures using a Dinamap automated blood pressure system after a 5-min rest period.\nFinally, participants answered program evaluation questionnaires about the intervention and the technology at the end of the study.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Participants were randomized to one of two arms: Sit Less or Get Active. The Sit Less group had a goal to reduce sedentary time by 1 hr each day. The Get Active group had a goal to reach 150 min of MVPA each week, accumulated in bouts of ≥10 min (\"Physical Activity Guidelines Advisory Committee. Both groups received a combination of individual, in-person, and phone consultations with an exercise physiologist coupled with the use of the BodyMedia SWA and interface on their personal smartphone. In-person visits (30-60 min) occurred weekly during Weeks 1 to 4. During Weeks 5 to 12, in-person visits were biweekly and alternated with biweekly scripted phone calls lasting approximately 10 min with the interventionist. Interventionists were assigned exclusively to one arm of the study, to reduce contamination, and behavioral lessons utilizing motivational interviewing, goal-setting, and problem solving were tailored to specifically discuss only reducing sitting/sedentary behaviors (Sit Less) or achieving bouted MVPA (Get Active). Finally, during in-person and phone contacts, interventionists were able to seethe objective SWA data to facilitate interactions with the participant regarding adherence and goal attainment.\nParticipants were instructed to wear the armband during all waking hours for the 12-week study period and were taught to self-monitor sedentary time (Sit Less) or physical activity (Get Active) daily using a Bluetooth connection with their phone. The investigators programmed the interface to provide only minutes of sedentary behavior (≤1.5 METs) and \"active\" behavior (>1.5 METs) to the Sit Less group. The interface was programmed to provide minutes of non-MVPA (<3.0 METs) and MVPA (≥3.0 METs) to the Get Active group. Both groups were able to see volume of activity (steps per day, estimated energy expenditure), though the interventionists were instructed not to counselor provide goals related to these parameters. During the final 12-week assessment, participants continued to wear the intervention armband (switched to the right arm) and additionally wore a blinded assessment armband (left arm). In addition to the assessment armband used at baseline and 12-weeks, the interventionists collected weekly data from the intervention armband on either duration of sedentary behavior (hours/day) in the Sit Less group or bouted MVPA (minutes/week accumulated in bouts of ≥10 min) in the Get Active group. For each week, an average of the relevant parameter was calculated by combining data from each day with ≥10 hr of wear time. At the end of the intervention, participants were asked to evaluate whether they perceived benefit from the program, whether they would continue their health behavior change, and whether they used and would like to continue to use the armband.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Assuming a group difference in sedentary behavior of 1 hr (our intervention target), a standard deviation from a previous study of sedentary behavior in older adults (1.4 hr/day), α = 0.05, power = 80%, and a plausible correlation within subjects (r = 0.65), we estimated a need for n = 18 participants per group (n = 36 total) and recruited n = 19 participants (N = 38 total) per group to allow for attrition.\nData were examined for distribution, overall quality, and missingness. Data that were not normally distributed were transformed or analyzed using nonparametric methods. All analyses were conducted using Stata version 13.1 (College Station, TX).\nStatistical analyses used an intention-to-treat approach; all participants had data for baseline and 12-week outcomes so no missing data approach was needed. Baseline characteristics were summarized and compared across randomized groups. Baseline, 12-week, and change (12-week minus baseline value) in outcomes were compared across groups, and baseline outcomes versus 12-week outcomes were compared within groups. Because durations of objectively monitored MVPA, LPA, and sedentary time can be influenced by monitor wear time, these outcomes were adjusted for wear time, and statistical testing of group, time, and group × time interactions was conducted using linear mixed models. Self-reported MVPA, exercise-related activities, and sedentary behavior were log-transformed for statistical testing by independent and dependent t tests, as appropriate. QoL and CES-D scores were not normally distributed at baseline or 12 weeks and were compared across groups using the Mann-Whitney U test; change scores were normally distributed and were compared using independent and dependent t tests, as appropriate.\nOne participant did not meet the predefined threshold for objective activity data of ≥4 days with ≥10 hr/day of objective monitoring at the 12-week assessment (only 2 days of monitoring were ≥10 hr). Since results were similar whether we used the observed data or carried the baseline data forward for this participant, we included the observed data for this participant.\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Of 241 older adults screened for eligibility, 203 were excluded (Figure). The most common reasons for not meeting eligibility criteria were \"too active\" (41%), \"no smartphone\" (26%), or exclusionary medication or medical condition (16%). Participant characteristics were comparable by group at baseline (Table). The study population was mostly female, about half were employed full time, and the average body mass index (BMI) was in the overweight category. All randomized participants completed the 12-week followup visit (N = 38, n = 19 per group).\nOn average, participants completed 95% (10.5 ± 0.9) of 11 potential intervention contacts, and this was similar by group (p > .99). Prospectively collected adherence data from the objective armband during the intervention for the Sit Less (hours of sedentary time per day, Figure, top) and the Get Active (minutes of MVPA in 10-min bouts per week, Figure, bottom) groups are plotted against the intervention goals across the 12-week period. Though these data are not adjusted for wear time, during the intervention period, participants generally approximated the intervention target of a 1 hr decrease in sedentary time (Sit Less) and achieved 150 min/week of bouted MVPA (Get Active). All participants (100%) reported that they had benefitted from participating in the program, and 9 (24%) and 29 (76%) reported they would probably and definitely continue with their behavior change, respectively. Thirty-two (84%) participants reported wearing the armband everyday, five (13%) reported wearing the armband at least 5 days/week, and one reported wearing the armband less than 1 day/week. If given the opportunity in the future, 23 (61%) participants reported that they would use the armband and interface everyday and another seven (18%) said they would use it at least 3 days/week.\nObjective and self-reported physical activity and sedentary time at baseline and 12 weeks are reported in Table, respectively. From the blinded SWA worn at baseline and at 12-weeks, participants in the Get Active group significantly increased total MVPA (67 ± 29 min/week, p = .020), which happened as a result of increases in the targeted bouted MVPA (75 ± min/week, p < .001). Participants in the Sit Less group did not have a change in total or bouted MVPA, and the group × time interaction (adjusting for wear time) failed to reach statistical significance (all p > .05). Neither objectively measured LPA nor sedentary time changed significantly in either group during the 12-week intervention.\nSelf-reported measures of MVPA and sedentary time (Table) were similar to the objectively measured data, with the exception that reported MVPA increased in both the Sit Less (45 min/week, p = .034) and the Get Active (225 min/week, p = .008) groups during the 12-week intervention, and these increases were not statistically different across groups (p = 0.661). In contrast, exercise-related activities (≥2.0 METs) only increased significantly in the Get Active group (median [25th and 75th percentile] increase of 495 min/week). Although the median [25th and 75th percentile] reported decrease in sedentary time among the Sit Less Group was 0.9 [−2.0, 1.4] hr/ day, this decrease failed to reach statistical significance overtime (p = .595) or when compared with the Get Active group (p = .369).\nBlood pressure did not change in either group, but weight decreased in the Get Active (−0.8 ± 0.4 kg) versus the Sit Less (0.4 ± 0.3 kg) group (p = .026, Table). Time to complete the 400-m walk test did not change in either group. Though the SPPB was high at baseline, the Sit Less group improved significantly from 11.1 ± 0.3 to 11.6 ± 0.1 points over 12 weeks. The Get Active group did not achieve significant improvements in the SPPB (p = 0.386). When components of the SPPB were separated, the improvement in overall score within the Sit Less group was shown to result from a significant improvement in the chair stand component of the test (Figure). Gait speed did not change significantly in either group (Table).\nAlthough QoL scores generally moved in a positive direction, the only significant improvement in QoL occurred in the Sit Less group where median scores [25th and 75th percentile] for pain were 80 at baseline and 90 at 12 weeks (p = .012, Online Supplemental Table), and this improvement was significantly greater than the Get Active group (p = .004). Depressive symptoms were low at baseline and did not change in either group (Online Supplemental Table).\n",
+      "page": 1
+    },
+    {
+      "type": "LINES",
+      "value": "Low MVPA and prolonged sedentary behavior have been linked to adverse health outcomes in older adults. Some researchers have argued that targeting less sedentary behavior might be a successful approach to increase wholeday physical activity in older adults who may have limited mobility, motivation, or self-efficacy for more intense or prolonged bouts of exercise. Thus, the underlying hypothesis of the current study was that targeting less sitting (i.e., 1 hr less per day) could result in a more favorable change in overall activity pattern as compared with the current recommendations of 150 min/week of MVPA among older adults over 12 weeks.\nIn the current study, targeting increased MVPA in older adults increased objectively measured and self-reported total and bouted MVPA with no change in sedentary behavior. Our observed increase in bouted MVPA of 75 min/week is comparable with a recent meta-analysis of 53 exercise interventions studies in community-dwelling older adults that reported a pooled effect equivalent to a 73 min/week increase in physical activity comparing intervention with control groups. A more unique and encouraging contribution of our study is that participants randomized to the Get Active group did not appear to compensate for increased MVPA by increasing sedentary behavior during the remainder of the day, suggesting a favorable effect of the intervention on whole-day activity pattern.\nOn the contrary, our intervention targeting decreased sedentary behavior resulted in increased self-reported but not objectively measured MVPA and did not change either self-reported or objectively measured sedentary time from baseline to 12 weeks in older adults. Despite this, intervention data did suggest that participants were, on average, achieving the sedentary behavior reduction targets. Moreover, physical function (SPPB chair stand) and QoL measures of pain improved in the Sit Less group whereas no improvements were observed in physical function or QoL in the Get Active group. Taken together, though changes in objectively monitored activity pattern were not observed in the Sit Less group at the baseline and 12-week assessments, targeting the highly prevalent behavior of sedentariness in older adults seems to have benefitted aspects of physical function (i.e., standing up from a chair) and QoL (i.e., decreased musculoskeletal pain).\nThe current study adds to the growing body of literature investigating the effectiveness of sedentary behavior interventions to modify behavior. A recent meta-analysis that combined results from 34 studies with interventions that could affect sedentary behavior (physical activity, lifestyle, and/or sedentary behavior) in adults found that sedentary behavior could be reduced in adult populations and, on average, decreased by 22 min/day (p = .004). Specifically in older adults, two small, pre-experimental Note. Data are presented as M ± SE and were compared using independent t tests across groups and dependent t tests within groups overtime.\n(pre-post) studies have reported that individual counseling and review of personal objective accelerometer data reduced sedentary behavior over the following week or two (−3.2%, p < .001 and −2.2% (−24 min/day), p < .001). Although the current pilot study was not powered to detect such a small difference in sedentary time, objective and self-reported assessment of sedentary time at baseline and 12 weeks failed to show any improvement in the Sit Less group. This result was surprising because the intervention data by the SWA indicated that participants were indeed reducing sedentary time as measured by the same device.\nThough not entirely clear, we speculate that potential reasons for the difference in the intervention and assessment findings and the failure to observe even a nonsignificant decrease in objective sedentary time from baseline to 12 weeks in the Sit Less group could have several origins. These could include random variability, measurement differences when wearing the intervention armband on the right arm (for feedback) and a blinded armband on the left arm (for the 12-week assessment), failure to record wear time from the intervention armband, or decreased motivation due to the lack of additional interventionist visits after the 12-week assessment. A better understanding of inter-arm differences in sedentary behavior assessment by the SWA on different arms is an area for future research. However, our results are consistent with the previously mentioned meta-analysis that reported targeting MVPA alone did not change sedentary time (p = .55;.\nDespite unclear findings regarding sedentary behavior change, participants in the Sit Less group did achieve improved physical function and decreased pain as a result of the intervention and, moreover, this benefit was not observed among Get Active participants. The magnitude of the improvement in SPPB might have been below a clinically meaningful threshold, but participants had high scores at the beginning of the study with limited room to improve. Interestingly, the Sit Less group improved their ability to stand up from a seated position (Figure), which logically reflects a specificity of training. That is, the intervention targeted less sitting and, after training, participants were able to getup from a seated position better. The improved SPPB score resulting from the sedentary behavior and not the MVPA intervention adds to epidemiological evidence suggesting an independent effect of sedentary behavior on physical function. Sedentary behavior has been cross-sectionally related to more self-reported functional limitations among older adults in the National Health and Nutrition Examination Survey and prospectively related to greater declines in physical function in the Women's Health Initiative Study, both after adjustment from MVPA. Also, the findings of this study that pain was decreased in the Sit Less group are consistent with workplace intervention studies that have reported reduced pain with the use of heightadjustable workstations to decrease prolonged sitting. We speculate that more frequent movement and position changes involved with reducing sedentary behavior could reduce pain through increased circulation, improved posture, and redistribution of pressure on muscles and joints. Thus, our findings suggest that, in addition to the known health and QoL benefits of regular MVPA, reducing sedentary behavior may yield additional, independent benefits on physical function and health-related QoL in older adults.\nOur intervention used a technology that could inspire increased whole-day activity and decreased sedentary behavior that would not be limited to a certain location or behavior (e.g., height-adjustable desks or decreased television viewing). A contribution of this study is that older adults with Bluetooth® capable cell phones were agreeable to using wearable technology that synced to a mobile device as an intervention tool to increase activity. Other studies have utilized technology, self-monitoring, and feedback to successfully reduce sedentary behavior and increase activity in middle-aged and older adult populations. For example, utilizing smartphone apps with various motivational frames, King, et al. demonstrated that self-reported MVPA increased by 189 ± 289 min/week (p < .001) and discretionary television time decreased by 29 ± 85 min/day (p < .02) in adults ≥45 years old. Nicklas et al. observed greater increases in LPA that approached statistical significance (12.6 vs. 9.8 min/day, p = 0.08) when a self-regulatory intervention utilizing behavioral counseling and a Lifecorder Plus® accelerometer, which provided immediate feedback about LPA, was added to a lifestyle intervention among 41 older adults. Therefore, technology appears to be acceptable and can potentially be used to augment behavioral interventions to increase activity in older adults with demographics similar to those in our sample.\nOur findings address recently identified research priorities for sedentary behavior including tailored interventions to a specific population (older adults) and a focus on important health outcomes beyond chronic disease risk factors (physical function and QoL) in this population. Other strengths of the study included the complete follow-up, an innovative intervention using real-time self-monitoring and technology to target whole-day sedentary behavior or MVPA, and objective and selfreported measurement of MVPA, sedentary time, and physical function. The major limitations of this study were the small sample size (n = 19 per group) and short duration (12 weeks). Some effects that we observed were within groups overtime and not between randomized groups; these results should be interpreted cautiously because factors other than the intervention could have affected our outcomes in such pre-post analyses. Another limitation is that the SWA measures intensity (i.e., METs) but not posture, and this may have limited the effectiveness of the intervention and assessment devices to detect changes in sitting behavior. Finally, our results may not be generalizable to some older adults including those that are older than our study population, with poorer physical function, or who do not have smartphones. Future research of longer duration building on the findings of the current study is warranted to further explore the potential of targeting decreased sedentary behavior to benefit older adults. Furthermore, interventions that combine targets of increased MVPA and decreased sedentary behavior could be the most effective to improve health, function, and QoL in older adults.\nIn conclusion, while a behavioral intervention including self-monitoring technology was effective at increasing objectively monitored MVPA, only the intervention targeting reduced sedentary behavior improved physical function and decreased pain among older adults over 12 weeks. These results suggest that technology and self-monitoring can be helpful tools for promoting physical activity in older adults, increasing MVPA does not necessarily lead to increased sedentary time as compensation, and targeting sedentary behavior can have unique short-term benefits versus increased MVPA. These positive findings should encourage more research of effective intervention methods and the long-term effects of reducing sedentary behavior and increasing whole-day activity on health in the growing population of sedentary and inactive older adults.\n",
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": "5 (26%)",
+          "rowHeaders": [
+            "Male"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant Characteristics at Baseline.",
+            "Sit less (n = 19)"
+          ]
+        },
+        {
+          "value": "6 (32%)",
+          "rowHeaders": [
+            "Male"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant Characteristics at Baseline.",
+            "Get active (n = 19)"
+          ]
+        },
+        {
+          "value": "68.5 ±",
+          "rowHeaders": [
+            "Age, years"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant Characteristics at Baseline.",
+            "Sit less (n = 19)"
+          ]
+        },
+        {
+          "value": "6.7",
+          "rowHeaders": [
+            "Age, years"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant Characteristics at Baseline.",
+            "Sit less (n = 19)"
+          ]
+        },
+        {
+          "value": "67.3 ±",
+          "rowHeaders": [
+            "Age, years"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant Characteristics at Baseline.",
+            "Get active (n = 19)"
+          ]
+        },
+        {
+          "value": "6.5",
+          "rowHeaders": [
+            "Age, years"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant Characteristics at Baseline.",
+            "Get active (n = 19)"
+          ]
+        },
+        {
+          "value": "8 (42%)",
+          "rowHeaders": [
+            "Full-time"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant Characteristics at Baseline.",
+            "Get active (n = 19)"
+          ]
+        },
+        {
+          "value": "1 (5%)",
+          "rowHeaders": [
+            "Part-time"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant Characteristics at Baseline.",
+            "Sit less (n = 19)"
+          ]
+        },
+        {
+          "value": "3 (16%)",
+          "rowHeaders": [
+            "Part-time"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant Characteristics at Baseline.",
+            "Get active (n = 19)"
+          ]
+        },
+        {
+          "value": "8 (42%)",
+          "rowHeaders": [
+            "Retired/homemaker"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant Characteristics at Baseline.",
+            "Sit less (n = 19)"
+          ]
+        },
+        {
+          "value": "8 (42%)",
+          "rowHeaders": [
+            "Retired/homemaker"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant Characteristics at Baseline.",
+            "Get active (n = 19)"
+          ]
+        },
+        {
+          "value": "4 (21%)",
+          "rowHeaders": [
+            "High school or equivalent"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant Characteristics at Baseline.",
+            "Sit less (n = 19)"
+          ]
+        },
+        {
+          "value": "3 (16%)",
+          "rowHeaders": [
+            "High school or equivalent"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant Characteristics at Baseline.",
+            "Get active (n = 19)"
+          ]
+        },
+        {
+          "value": "3 (16%)",
+          "rowHeaders": [
+            "Bachelor's degree"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant Characteristics at Baseline.",
+            "Sit less (n = 19)"
+          ]
+        },
+        {
+          "value": "4 (21%)",
+          "rowHeaders": [
+            "Bachelor's degree"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant Characteristics at Baseline.",
+            "Get active (n = 19)"
+          ]
+        },
+        {
+          "value": "1 (5%)",
+          "rowHeaders": [
+            "Non-White"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant Characteristics at Baseline.",
+            "Sit less (n = 19)"
+          ]
+        },
+        {
+          "value": "5 (26%)",
+          "rowHeaders": [
+            "Non-White"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant Characteristics at Baseline.",
+            "Get active (n = 19)"
+          ]
+        },
+        {
+          "value": "2",
+          "rowHeaders": [
+            "Body mass index, kg/m"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant Characteristics at Baseline.",
+            "Sit less (n = 19)",
+            "Female",
+            "Master's degree or greater",
+            "White"
+          ]
+        },
+        {
+          "value": "28.3 ±",
+          "rowHeaders": [
+            "Body mass index, kg/m"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant Characteristics at Baseline.",
+            "Sit less (n = 19)"
+          ]
+        },
+        {
+          "value": "6.3",
+          "rowHeaders": [
+            "Body mass index, kg/m"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant Characteristics at Baseline.",
+            "Sit less (n = 19)"
+          ]
+        },
+        {
+          "value": "28.9 ±",
+          "rowHeaders": [
+            "Body mass index, kg/m"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant Characteristics at Baseline.",
+            "Get active (n = 19)"
+          ]
+        },
+        {
+          "value": "4.8",
+          "rowHeaders": [
+            "Body mass index, kg/m"
+          ],
+          "columnHeaders": [
+            "Table 1. Participant Characteristics at Baseline.",
+            "Get active (n = 19)"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": ".358",
+          "rowHeaders": [
+            "MVPA (≥3.0",
+            "METs), min/week",
+            "Sit Less"
+          ],
+          "columnHeaders": [
+            "Table 2. Objective Baseline, 12-Week, and Change in Physical Activity and",
+            "p value (time)"
+          ]
+        },
+        {
+          "value": ".020",
+          "rowHeaders": [
+            "METs), total",
+            "METs), min/week",
+            "Get Active"
+          ],
+          "columnHeaders": [
+            "Table 2. Objective Baseline, 12-Week, and Change in Physical Activity and",
+            "p value (time)"
+          ]
+        },
+        {
+          "value": ".519",
+          "rowHeaders": [
+            "min/week",
+            "METs), min/week",
+            "p value"
+          ],
+          "columnHeaders": [
+            "Table 2. Objective Baseline, 12-Week, and Change in Physical Activity and",
+            "Baseline"
+          ]
+        },
+        {
+          "value": ".648",
+          "rowHeaders": [
+            "min/week",
+            "METs), min/week",
+            "p value"
+          ],
+          "columnHeaders": [
+            "Table 2. Objective Baseline, 12-Week, and Change in Physical Activity and",
+            "12-week"
+          ]
+        },
+        {
+          "value": ".134",
+          "rowHeaders": [
+            "min/week",
+            "METs), min/week",
+            "p value"
+          ],
+          "columnHeaders": [
+            "Table 2. Objective Baseline, 12-Week, and Change in Physical Activity and",
+            "Change*"
+          ]
+        },
+        {
+          "value": ".780",
+          "rowHeaders": [
+            "MVPA (≥3.0",
+            "METs), min/week",
+            "Sit Less"
+          ],
+          "columnHeaders": [
+            "Table 2. Objective Baseline, 12-Week, and Change in Physical Activity and",
+            "p value (time)"
+          ]
+        },
+        {
+          "value": "<.001",
+          "rowHeaders": [
+            "Sedentary time",
+            "METs), min/week",
+            "Get Active"
+          ],
+          "columnHeaders": [
+            "Table 2. Objective Baseline, 12-Week, and Change in Physical Activity and",
+            "p value (time)"
+          ]
+        },
+        {
+          "value": ".356",
+          "rowHeaders": [
+            "LPA (>1.5 to",
+            "in 10-min bouts",
+            "p value"
+          ],
+          "columnHeaders": [
+            "Table 2. Objective Baseline, 12-Week, and Change in Physical Activity and",
+            "Baseline"
+          ]
+        },
+        {
+          "value": ".361",
+          "rowHeaders": [
+            "Sedentary time",
+            "in 10-min bouts",
+            "p value"
+          ],
+          "columnHeaders": [
+            "Table 2. Objective Baseline, 12-Week, and Change in Physical Activity and",
+            "12-week"
+          ]
+        },
+        {
+          "value": ".061",
+          "rowHeaders": [
+            "Sedentary time",
+            "in 10-min bouts",
+            "p value"
+          ],
+          "columnHeaders": [
+            "Table 2. Objective Baseline, 12-Week, and Change in Physical Activity and",
+            "Change*"
+          ]
+        },
+        {
+          "value": "<3.0 METs), hr/",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 2. Objective Baseline, 12-Week, and Change in Physical Activity and",
+            "Group"
+          ]
+        },
+        {
+          "value": "3.5 ±",
+          "rowHeaders": [
+            "LPA (>1.5 to",
+            "Sit Less"
+          ],
+          "columnHeaders": [
+            "Table 2. Objective Baseline, 12-Week, and Change in Physical Activity and",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "0.3",
+          "rowHeaders": [
+            "LPA (>1.5 to",
+            "Sit Less"
+          ],
+          "columnHeaders": [
+            "Table 2. Objective Baseline, 12-Week, and Change in Physical Activity and",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "3.1 ±",
+          "rowHeaders": [
+            "LPA (>1.5 to",
+            "Sit Less"
+          ],
+          "columnHeaders": [
+            "Table 2. Objective Baseline, 12-Week, and Change in Physical Activity and",
+            "12-week"
+          ]
+        },
+        {
+          "value": "0.3",
+          "rowHeaders": [
+            "LPA (>1.5 to",
+            "Sit Less"
+          ],
+          "columnHeaders": [
+            "Table 2. Objective Baseline, 12-Week, and Change in Physical Activity and",
+            "12-week"
+          ]
+        },
+        {
+          "value": "−0.5 ±",
+          "rowHeaders": [
+            "LPA (>1.5 to",
+            "Sit Less"
+          ],
+          "columnHeaders": [
+            "Table 2. Objective Baseline, 12-Week, and Change in Physical Activity and",
+            "Change*"
+          ]
+        },
+        {
+          "value": "0.3",
+          "rowHeaders": [
+            "LPA (>1.5 to",
+            "Sit Less"
+          ],
+          "columnHeaders": [
+            "Table 2. Objective Baseline, 12-Week, and Change in Physical Activity and",
+            "Change*"
+          ]
+        },
+        {
+          "value": ".106",
+          "rowHeaders": [
+            "LPA (>1.5 to",
+            "Sit Less"
+          ],
+          "columnHeaders": [
+            "Table 2. Objective Baseline, 12-Week, and Change in Physical Activity and",
+            "p value (time)"
+          ]
+        },
+        {
+          "value": "3.8 ±",
+          "rowHeaders": [
+            "Sedentary time",
+            "METs), min/week",
+            "Get Active"
+          ],
+          "columnHeaders": [
+            "Table 2. Objective Baseline, 12-Week, and Change in Physical Activity and",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "0.5",
+          "rowHeaders": [
+            "Sedentary time",
+            "METs), min/week",
+            "Get Active"
+          ],
+          "columnHeaders": [
+            "Table 2. Objective Baseline, 12-Week, and Change in Physical Activity and",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "3.7 ±",
+          "rowHeaders": [
+            "Sedentary time",
+            "METs), min/week",
+            "Get Active"
+          ],
+          "columnHeaders": [
+            "Table 2. Objective Baseline, 12-Week, and Change in Physical Activity and",
+            "12-week"
+          ]
+        },
+        {
+          "value": "0.5",
+          "rowHeaders": [
+            "Sedentary time",
+            "METs), min/week",
+            "Get Active"
+          ],
+          "columnHeaders": [
+            "Table 2. Objective Baseline, 12-Week, and Change in Physical Activity and",
+            "12-week"
+          ]
+        },
+        {
+          "value": "−0.1 ±",
+          "rowHeaders": [
+            "Sedentary time",
+            "METs), min/week",
+            "Get Active"
+          ],
+          "columnHeaders": [
+            "Table 2. Objective Baseline, 12-Week, and Change in Physical Activity and",
+            "Change*"
+          ]
+        },
+        {
+          "value": "0.4",
+          "rowHeaders": [
+            "Sedentary time",
+            "METs), min/week",
+            "Get Active"
+          ],
+          "columnHeaders": [
+            "Table 2. Objective Baseline, 12-Week, and Change in Physical Activity and",
+            "Change*"
+          ]
+        },
+        {
+          "value": ".780",
+          "rowHeaders": [
+            "Sedentary time",
+            "METs), min/week",
+            "Get Active"
+          ],
+          "columnHeaders": [
+            "Table 2. Objective Baseline, 12-Week, and Change in Physical Activity and",
+            "p value (time)"
+          ]
+        },
+        {
+          "value": ".660",
+          "rowHeaders": [
+            "day",
+            "p value"
+          ],
+          "columnHeaders": [
+            "Table 2. Objective Baseline, 12-Week, and Change in Physical Activity and",
+            "Baseline"
+          ]
+        },
+        {
+          "value": ".411",
+          "rowHeaders": [
+            "day",
+            "p value"
+          ],
+          "columnHeaders": [
+            "Table 2. Objective Baseline, 12-Week, and Change in Physical Activity and",
+            "12-week"
+          ]
+        },
+        {
+          "value": ".544",
+          "rowHeaders": [
+            "day",
+            "p value"
+          ],
+          "columnHeaders": [
+            "Table 2. Objective Baseline, 12-Week, and Change in Physical Activity and",
+            "Change*"
+          ]
+        },
+        {
+          "value": "1.5 METs),",
+          "rowHeaders": [],
+          "columnHeaders": [
+            "Table 2. Objective Baseline, 12-Week, and Change in Physical Activity and",
+            "Group"
+          ]
+        },
+        {
+          "value": "10.5 ±",
+          "rowHeaders": [
+            "Sedentary time",
+            "Sit Less"
+          ],
+          "columnHeaders": [
+            "Table 2. Objective Baseline, 12-Week, and Change in Physical Activity and",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "0.3",
+          "rowHeaders": [
+            "Sedentary time",
+            "Sit Less"
+          ],
+          "columnHeaders": [
+            "Table 2. Objective Baseline, 12-Week, and Change in Physical Activity and",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "11.0 ±",
+          "rowHeaders": [
+            "Sedentary time",
+            "Sit Less"
+          ],
+          "columnHeaders": [
+            "Table 2. Objective Baseline, 12-Week, and Change in Physical Activity and",
+            "12-week"
+          ]
+        },
+        {
+          "value": "0.3",
+          "rowHeaders": [
+            "Sedentary time",
+            "Sit Less"
+          ],
+          "columnHeaders": [
+            "Table 2. Objective Baseline, 12-Week, and Change in Physical Activity and",
+            "12-week"
+          ]
+        },
+        {
+          "value": "0.6 ±",
+          "rowHeaders": [
+            "Sedentary time",
+            "Sit Less"
+          ],
+          "columnHeaders": [
+            "Table 2. Objective Baseline, 12-Week, and Change in Physical Activity and",
+            "Change*"
+          ]
+        },
+        {
+          "value": "0.3",
+          "rowHeaders": [
+            "Sedentary time",
+            "Sit Less"
+          ],
+          "columnHeaders": [
+            "Table 2. Objective Baseline, 12-Week, and Change in Physical Activity and",
+            "Change*"
+          ]
+        },
+        {
+          "value": ".069",
+          "rowHeaders": [
+            "Sedentary time",
+            "Sit Less"
+          ],
+          "columnHeaders": [
+            "Table 2. Objective Baseline, 12-Week, and Change in Physical Activity and",
+            "p value (time)"
+          ]
+        },
+        {
+          "value": "10.3 ±",
+          "rowHeaders": [
+            "Get Active"
+          ],
+          "columnHeaders": [
+            "Table 2. Objective Baseline, 12-Week, and Change in Physical Activity and",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "0.6",
+          "rowHeaders": [
+            "Get Active"
+          ],
+          "columnHeaders": [
+            "Table 2. Objective Baseline, 12-Week, and Change in Physical Activity and",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "10.3 ±",
+          "rowHeaders": [
+            "Get Active"
+          ],
+          "columnHeaders": [
+            "Table 2. Objective Baseline, 12-Week, and Change in Physical Activity and",
+            "12-week"
+          ]
+        },
+        {
+          "value": "0.5",
+          "rowHeaders": [
+            "Get Active"
+          ],
+          "columnHeaders": [
+            "Table 2. Objective Baseline, 12-Week, and Change in Physical Activity and",
+            "12-week"
+          ]
+        },
+        {
+          "value": "−0.1 ±",
+          "rowHeaders": [
+            "Get Active"
+          ],
+          "columnHeaders": [
+            "Table 2. Objective Baseline, 12-Week, and Change in Physical Activity and",
+            "Change*"
+          ]
+        },
+        {
+          "value": "0.4",
+          "rowHeaders": [
+            "Get Active"
+          ],
+          "columnHeaders": [
+            "Table 2. Objective Baseline, 12-Week, and Change in Physical Activity and",
+            "Change*"
+          ]
+        },
+        {
+          "value": ".876",
+          "rowHeaders": [
+            "Get Active"
+          ],
+          "columnHeaders": [
+            "Table 2. Objective Baseline, 12-Week, and Change in Physical Activity and",
+            "p value (time)"
+          ]
+        },
+        {
+          "value": ".767",
+          "rowHeaders": [
+            "hr/day",
+            "p value"
+          ],
+          "columnHeaders": [
+            "Table 2. Objective Baseline, 12-Week, and Change in Physical Activity and",
+            "Baseline"
+          ]
+        },
+        {
+          "value": ".380",
+          "rowHeaders": [
+            "hr/day",
+            "p value"
+          ],
+          "columnHeaders": [
+            "Table 2. Objective Baseline, 12-Week, and Change in Physical Activity and",
+            "12-week"
+          ]
+        },
+        {
+          "value": ".360",
+          "rowHeaders": [
+            "hr/day",
+            "p value"
+          ],
+          "columnHeaders": [
+            "Table 2. Objective Baseline, 12-Week, and Change in Physical Activity and",
+            "Change*"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": ".034",
+          "rowHeaders": [
+            "Self-reported",
+            "Sit Less"
+          ],
+          "columnHeaders": [
+            "Table 3. Self-Reported Baseline, 12-Week, and Change in Physical Activity and",
+            "p value",
+            "(time)"
+          ]
+        },
+        {
+          "value": ".008",
+          "rowHeaders": [
+            "MVPA (≥3.0",
+            "Get Active"
+          ],
+          "columnHeaders": [
+            "Table 3. Self-Reported Baseline, 12-Week, and Change in Physical Activity and",
+            "p value",
+            "(time)"
+          ]
+        },
+        {
+          "value": ".530",
+          "rowHeaders": [
+            "METs), min/",
+            "p value"
+          ],
+          "columnHeaders": [
+            "Table 3. Self-Reported Baseline, 12-Week, and Change in Physical Activity and",
+            "p value",
+            "Baseline"
+          ]
+        },
+        {
+          "value": ".300",
+          "rowHeaders": [
+            "METs), min/",
+            "p value"
+          ],
+          "columnHeaders": [
+            "Table 3. Self-Reported Baseline, 12-Week, and Change in Physical Activity and",
+            "p value",
+            "12-week"
+          ]
+        },
+        {
+          "value": ".661",
+          "rowHeaders": [
+            "METs), min/",
+            "p value"
+          ],
+          "columnHeaders": [
+            "Table 3. Self-Reported Baseline, 12-Week, and Change in Physical Activity and",
+            "p value",
+            "Change"
+          ]
+        },
+        {
+          "value": ".065",
+          "rowHeaders": [
+            "Self-reported",
+            "Sit Less"
+          ],
+          "columnHeaders": [
+            "Table 3. Self-Reported Baseline, 12-Week, and Change in Physical Activity and",
+            "p value",
+            "(time)"
+          ]
+        },
+        {
+          "value": ".018",
+          "rowHeaders": [
+            "exercise-",
+            "Get Active"
+          ],
+          "columnHeaders": [
+            "Table 3. Self-Reported Baseline, 12-Week, and Change in Physical Activity and",
+            "p value",
+            "(time)"
+          ]
+        },
+        {
+          "value": ".942",
+          "rowHeaders": [
+            "related",
+            "p value"
+          ],
+          "columnHeaders": [
+            "Table 3. Self-Reported Baseline, 12-Week, and Change in Physical Activity and",
+            "p value",
+            "Baseline"
+          ]
+        },
+        {
+          "value": ".448",
+          "rowHeaders": [
+            "related",
+            "p value"
+          ],
+          "columnHeaders": [
+            "Table 3. Self-Reported Baseline, 12-Week, and Change in Physical Activity and",
+            "p value",
+            "12-week"
+          ]
+        },
+        {
+          "value": ".935",
+          "rowHeaders": [
+            "related",
+            "p value"
+          ],
+          "columnHeaders": [
+            "Table 3. Self-Reported Baseline, 12-Week, and Change in Physical Activity and",
+            "p value",
+            "Change"
+          ]
+        },
+        {
+          "value": "7.8 [7.1,",
+          "rowHeaders": [
+            "Self-reported",
+            "Sit Less"
+          ],
+          "columnHeaders": [
+            "Table 3. Self-Reported Baseline, 12-Week, and Change in Physical Activity and",
+            "p value",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "10.1]",
+          "rowHeaders": [
+            "Self-reported",
+            "Sit Less"
+          ],
+          "columnHeaders": [
+            "Table 3. Self-Reported Baseline, 12-Week, and Change in Physical Activity and",
+            "p value",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "8.4 [6,",
+          "rowHeaders": [
+            "Self-reported",
+            "Sit Less"
+          ],
+          "columnHeaders": [
+            "Table 3. Self-Reported Baseline, 12-Week, and Change in Physical Activity and",
+            "p value",
+            "12-week"
+          ]
+        },
+        {
+          "value": "9.8]",
+          "rowHeaders": [
+            "Self-reported",
+            "Sit Less"
+          ],
+          "columnHeaders": [
+            "Table 3. Self-Reported Baseline, 12-Week, and Change in Physical Activity and",
+            "p value",
+            "12-week"
+          ]
+        },
+        {
+          "value": "−0.9 [−2.0,",
+          "rowHeaders": [
+            "Self-reported",
+            "Sit Less"
+          ],
+          "columnHeaders": [
+            "Table 3. Self-Reported Baseline, 12-Week, and Change in Physical Activity and",
+            "p value",
+            "Change"
+          ]
+        },
+        {
+          "value": "1.4]",
+          "rowHeaders": [
+            "Self-reported",
+            "Sit Less"
+          ],
+          "columnHeaders": [
+            "Table 3. Self-Reported Baseline, 12-Week, and Change in Physical Activity and",
+            "p value",
+            "Change"
+          ]
+        },
+        {
+          "value": ".595",
+          "rowHeaders": [
+            "Self-reported",
+            "Sit Less"
+          ],
+          "columnHeaders": [
+            "Table 3. Self-Reported Baseline, 12-Week, and Change in Physical Activity and",
+            "p value",
+            "(time)"
+          ]
+        },
+        {
+          "value": "10.3 [6.3,",
+          "rowHeaders": [
+            "sedentary",
+            "Get Active"
+          ],
+          "columnHeaders": [
+            "Table 3. Self-Reported Baseline, 12-Week, and Change in Physical Activity and",
+            "p value",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "13.5]",
+          "rowHeaders": [
+            "sedentary",
+            "Get Active"
+          ],
+          "columnHeaders": [
+            "Table 3. Self-Reported Baseline, 12-Week, and Change in Physical Activity and",
+            "p value",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "10.8 [6.4,",
+          "rowHeaders": [
+            "sedentary",
+            "Get Active"
+          ],
+          "columnHeaders": [
+            "Table 3. Self-Reported Baseline, 12-Week, and Change in Physical Activity and",
+            "p value",
+            "12-week"
+          ]
+        },
+        {
+          "value": "12.7]",
+          "rowHeaders": [
+            "sedentary",
+            "Get Active"
+          ],
+          "columnHeaders": [
+            "Table 3. Self-Reported Baseline, 12-Week, and Change in Physical Activity and",
+            "p value",
+            "12-week"
+          ]
+        },
+        {
+          "value": "0.7 [−3.2,",
+          "rowHeaders": [
+            "sedentary",
+            "Get Active"
+          ],
+          "columnHeaders": [
+            "Table 3. Self-Reported Baseline, 12-Week, and Change in Physical Activity and",
+            "p value",
+            "Change"
+          ]
+        },
+        {
+          "value": "3.2]",
+          "rowHeaders": [
+            "sedentary",
+            "Get Active"
+          ],
+          "columnHeaders": [
+            "Table 3. Self-Reported Baseline, 12-Week, and Change in Physical Activity and",
+            "p value",
+            "Change"
+          ]
+        },
+        {
+          "value": ".459",
+          "rowHeaders": [
+            "sedentary",
+            "Get Active"
+          ],
+          "columnHeaders": [
+            "Table 3. Self-Reported Baseline, 12-Week, and Change in Physical Activity and",
+            "p value",
+            "(time)"
+          ]
+        },
+        {
+          "value": ".639",
+          "rowHeaders": [
+            "time, hr/day",
+            "p value"
+          ],
+          "columnHeaders": [
+            "Table 3. Self-Reported Baseline, 12-Week, and Change in Physical Activity and",
+            "p value",
+            "Baseline"
+          ]
+        },
+        {
+          "value": ".186",
+          "rowHeaders": [
+            "time, hr/day",
+            "p value"
+          ],
+          "columnHeaders": [
+            "Table 3. Self-Reported Baseline, 12-Week, and Change in Physical Activity and",
+            "p value",
+            "12-week"
+          ]
+        },
+        {
+          "value": ".369",
+          "rowHeaders": [
+            "time, hr/day",
+            "p value"
+          ],
+          "columnHeaders": [
+            "Table 3. Self-Reported Baseline, 12-Week, and Change in Physical Activity and",
+            "p value",
+            "Change"
+          ]
+        }
+      ],
+      "page": 1
+    },
+    {
+      "type": "TABLE",
+      "cells": [
+        {
+          "value": ".256",
+          "rowHeaders": [
+            "Systolic blood",
+            "Sit Less"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "p value (time)"
+          ]
+        },
+        {
+          "value": ".225",
+          "rowHeaders": [
+            "pressure,",
+            "Get Active"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "p value (time)"
+          ]
+        },
+        {
+          "value": ".870",
+          "rowHeaders": [
+            "mmHg",
+            "p value"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "Baseline"
+          ]
+        },
+        {
+          "value": ".839",
+          "rowHeaders": [
+            "mmHg",
+            "p value"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "12-week"
+          ]
+        },
+        {
+          "value": ".934",
+          "rowHeaders": [
+            "mmHg",
+            "p value"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "Change"
+          ]
+        },
+        {
+          "value": ".832",
+          "rowHeaders": [
+            "Diastolic",
+            "Sit Less"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "p value (time)"
+          ]
+        },
+        {
+          "value": ".984",
+          "rowHeaders": [
+            "blood",
+            "Get Active"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "p value (time)"
+          ]
+        },
+        {
+          "value": ".024",
+          "rowHeaders": [
+            "pressure,",
+            "p value"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "Baseline"
+          ]
+        },
+        {
+          "value": ".083",
+          "rowHeaders": [
+            "pressure,",
+            "p value"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "12-week"
+          ]
+        },
+        {
+          "value": ".864",
+          "rowHeaders": [
+            "pressure,",
+            "p value"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "Change"
+          ]
+        },
+        {
+          "value": "78.4 ±",
+          "rowHeaders": [
+            "Weight, kg",
+            "Sit Less"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "3.6",
+          "rowHeaders": [
+            "Weight, kg",
+            "Sit Less"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "78.8 ±",
+          "rowHeaders": [
+            "Weight, kg",
+            "Sit Less"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "12-week"
+          ]
+        },
+        {
+          "value": "3.6",
+          "rowHeaders": [
+            "Weight, kg",
+            "Sit Less"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "12-week"
+          ]
+        },
+        {
+          "value": "0.4 ±",
+          "rowHeaders": [
+            "Weight, kg",
+            "Sit Less"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "Change"
+          ]
+        },
+        {
+          "value": "0.3",
+          "rowHeaders": [
+            "Weight, kg",
+            "Sit Less"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "Change"
+          ]
+        },
+        {
+          "value": ".248",
+          "rowHeaders": [
+            "Weight, kg",
+            "Sit Less"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "p value (time)"
+          ]
+        },
+        {
+          "value": "77.3 ± 4",
+          "rowHeaders": [
+            "400-m walk,",
+            "Get Active"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "76.5 ± 4",
+          "rowHeaders": [
+            "400-m walk,",
+            "Get Active"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "12-week"
+          ]
+        },
+        {
+          "value": "−0.8 ±",
+          "rowHeaders": [
+            "400-m walk,",
+            "Get Active"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "Change"
+          ]
+        },
+        {
+          "value": "0.4",
+          "rowHeaders": [
+            "400-m walk,",
+            "Get Active"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "Change"
+          ]
+        },
+        {
+          "value": ".057",
+          "rowHeaders": [
+            "400-m walk,",
+            "Get Active"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "p value (time)"
+          ]
+        },
+        {
+          "value": ".831",
+          "rowHeaders": [
+            "400-m walk,",
+            "p value"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "Baseline"
+          ]
+        },
+        {
+          "value": ".662",
+          "rowHeaders": [
+            "400-m walk,",
+            "p value"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "12-week"
+          ]
+        },
+        {
+          "value": ".026",
+          "rowHeaders": [
+            "400-m walk,",
+            "p value"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "Change"
+          ]
+        },
+        {
+          "value": "6.08 ±",
+          "rowHeaders": [
+            "400-m walk,",
+            "Sit Less"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "0.15",
+          "rowHeaders": [
+            "400-m walk,",
+            "Sit Less"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "6.15 ±",
+          "rowHeaders": [
+            "400-m walk,",
+            "Sit Less"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "12-week"
+          ]
+        },
+        {
+          "value": "0.19",
+          "rowHeaders": [
+            "400-m walk,",
+            "Sit Less"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "12-week"
+          ]
+        },
+        {
+          "value": "0.07 ±",
+          "rowHeaders": [
+            "400-m walk,",
+            "Sit Less"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "Change"
+          ]
+        },
+        {
+          "value": "0.14",
+          "rowHeaders": [
+            "400-m walk,",
+            "Sit Less"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "Change"
+          ]
+        },
+        {
+          "value": ".641",
+          "rowHeaders": [
+            "400-m walk,",
+            "Sit Less"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "p value (time)"
+          ]
+        },
+        {
+          "value": "5.97 ±",
+          "rowHeaders": [
+            "min",
+            "Get Active"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "0.20",
+          "rowHeaders": [
+            "min",
+            "Get Active"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "5.78 ±",
+          "rowHeaders": [
+            "min",
+            "Get Active"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "12-week"
+          ]
+        },
+        {
+          "value": "0.19",
+          "rowHeaders": [
+            "min",
+            "Get Active"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "12-week"
+          ]
+        },
+        {
+          "value": "−0.18 ±",
+          "rowHeaders": [
+            "min",
+            "Get Active"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "Change"
+          ]
+        },
+        {
+          "value": "0.11",
+          "rowHeaders": [
+            "min",
+            "Get Active"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "Change"
+          ]
+        },
+        {
+          "value": ".119",
+          "rowHeaders": [
+            "min",
+            "Get Active"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "p value (time)"
+          ]
+        },
+        {
+          "value": ".644",
+          "rowHeaders": [
+            "Short Physical",
+            "p value"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "Baseline"
+          ]
+        },
+        {
+          "value": ".860",
+          "rowHeaders": [
+            "Short Physical",
+            "p value"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "12-week"
+          ]
+        },
+        {
+          "value": ".317",
+          "rowHeaders": [
+            "Short Physical",
+            "p value"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "Change"
+          ]
+        },
+        {
+          "value": "11.1 ±",
+          "rowHeaders": [
+            "Short Physical",
+            "Sit Less"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "0.3",
+          "rowHeaders": [
+            "Short Physical",
+            "Sit Less"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "11.6 ±",
+          "rowHeaders": [
+            "Short Physical",
+            "Sit Less"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "12-week"
+          ]
+        },
+        {
+          "value": "0.1",
+          "rowHeaders": [
+            "Short Physical",
+            "Sit Less"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "12-week"
+          ]
+        },
+        {
+          "value": "0.5 ±",
+          "rowHeaders": [
+            "Short Physical",
+            "Sit Less"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "Change"
+          ]
+        },
+        {
+          "value": "0.3",
+          "rowHeaders": [
+            "Short Physical",
+            "Sit Less"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "Change"
+          ]
+        },
+        {
+          "value": ".046",
+          "rowHeaders": [
+            "Short Physical",
+            "Sit Less"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "p value (time)"
+          ]
+        },
+        {
+          "value": "11.1 ±",
+          "rowHeaders": [
+            "Performance",
+            "Get Active"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "0.2",
+          "rowHeaders": [
+            "Performance",
+            "Get Active"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "11.3 ±",
+          "rowHeaders": [
+            "Performance",
+            "Get Active"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "12-week"
+          ]
+        },
+        {
+          "value": "0.2",
+          "rowHeaders": [
+            "Performance",
+            "Get Active"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "12-week"
+          ]
+        },
+        {
+          "value": "0.2 ±",
+          "rowHeaders": [
+            "Performance",
+            "Get Active"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "Change"
+          ]
+        },
+        {
+          "value": "0.2",
+          "rowHeaders": [
+            "Performance",
+            "Get Active"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "Change"
+          ]
+        },
+        {
+          "value": ".386",
+          "rowHeaders": [
+            "Performance",
+            "Get Active"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "p value (time)"
+          ]
+        },
+        {
+          "value": ".866",
+          "rowHeaders": [
+            "Battery",
+            "p value"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "Baseline"
+          ]
+        },
+        {
+          "value": ".268",
+          "rowHeaders": [
+            "Battery",
+            "p value"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "12-week"
+          ]
+        },
+        {
+          "value": ".201",
+          "rowHeaders": [
+            "Battery",
+            "p value"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "Change"
+          ]
+        },
+        {
+          "value": "0.93 ±",
+          "rowHeaders": [
+            "Gait speed,",
+            "Sit Less"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "0.02",
+          "rowHeaders": [
+            "Gait speed,",
+            "Sit Less"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "0.88 ±",
+          "rowHeaders": [
+            "Gait speed,",
+            "Sit Less"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "12-week"
+          ]
+        },
+        {
+          "value": "0.03",
+          "rowHeaders": [
+            "Gait speed,",
+            "Sit Less"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "12-week"
+          ]
+        },
+        {
+          "value": "−0.04 ±",
+          "rowHeaders": [
+            "Gait speed,",
+            "Sit Less"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "Change"
+          ]
+        },
+        {
+          "value": "0.03",
+          "rowHeaders": [
+            "Gait speed,",
+            "Sit Less"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "Change"
+          ]
+        },
+        {
+          "value": ".102",
+          "rowHeaders": [
+            "Gait speed,",
+            "Sit Less"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "p value (time)"
+          ]
+        },
+        {
+          "value": "0.87 ±",
+          "rowHeaders": [
+            "m/s",
+            "Get Active"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "0.03",
+          "rowHeaders": [
+            "m/s",
+            "Get Active"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "Baseline"
+          ]
+        },
+        {
+          "value": "0.86 ±",
+          "rowHeaders": [
+            "m/s",
+            "Get Active"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "12-week"
+          ]
+        },
+        {
+          "value": "0.03",
+          "rowHeaders": [
+            "m/s",
+            "Get Active"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "12-week"
+          ]
+        },
+        {
+          "value": "−0.01 ±",
+          "rowHeaders": [
+            "m/s",
+            "Get Active"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "Change"
+          ]
+        },
+        {
+          "value": "0.03",
+          "rowHeaders": [
+            "m/s",
+            "Get Active"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "Change"
+          ]
+        },
+        {
+          "value": ".681",
+          "rowHeaders": [
+            "m/s",
+            "Get Active"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "p value (time)"
+          ]
+        },
+        {
+          "value": ".171",
+          "rowHeaders": [
+            "Gait speed,",
+            "p value"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "Baseline"
+          ]
+        },
+        {
+          "value": ".557",
+          "rowHeaders": [
+            "Performance",
+            "p value"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "12-week"
+          ]
+        },
+        {
+          "value": ".445",
+          "rowHeaders": [
+            "Performance",
+            "p value"
+          ],
+          "columnHeaders": [
+            "Table 4. Baseline, 12-Week, and Changes in Clinical Measures and Physical",
+            "Change"
+          ]
+        }
+      ],
+      "page": 1
+    }
+  ]
+}
