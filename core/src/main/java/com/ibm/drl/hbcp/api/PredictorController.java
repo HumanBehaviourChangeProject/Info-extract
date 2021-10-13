@@ -132,6 +132,8 @@ public class PredictorController {
             @RequestParam(value="intervention") List<String> interventionAttributes,
             @ApiParam(value = "Optional experimental setting attribute")
             @RequestParam(value="expsetting", required = false) List<String> experimentalSettingAttributes,
+            @ApiParam(value = "Name of the prediction model to use")
+            @RequestParam(value="modelName", required = false, defaultValue = "") String modelName,
             @ApiParam(value = "Top K predictions to consider, one of the hyperparameters of the algorithm.")
             @RequestParam(value="top", required = false, defaultValue = "10") int topK,
             @ApiParam(value = "Whether to use the learned model from the annotations or the automatic extractions (false for the latter).")
@@ -145,6 +147,7 @@ public class PredictorController {
                 populationAttributes,
                 interventionAttributes,
                 experimentalSettingAttributes,
+                modelName,
                 topK, useAnnotations, useEffectSize,
                 useNeuralPrediction).toPrettyString();
     }
@@ -162,6 +165,8 @@ public class PredictorController {
     public String recommend(
             @ApiParam(value = "Maximum number of recommended scenarios (the more, the longer the API call).")
             @RequestParam(value="max", required = false, defaultValue = "10") int max,
+            @ApiParam(value = "Name of the prediction model to use")
+            @RequestParam(value="modelName", required = false, defaultValue = "") String modelName,
             @ApiParam(value = "A set of attribute-value pairs representing Behavior Change intervention scenarios serving as input")
             @RequestBody AttributeValue[] query) throws IOException {
         // turn into good old AVPs
@@ -172,7 +177,7 @@ public class PredictorController {
                 .collect(Collectors.toList());
         List<List<AttributeValuePair>> queries = RecommendedInterventions.get().getRecommendedScenarios(avps, max);
         // run the query
-        RankedResults<SearchResult> predictions = runBatchQueries(queries, 1, true, false, true);
+        RankedResults<SearchResult> predictions = runBatchQueries(queries, modelName, 1, true, false, true);
         // build the recommendation results
         List<RecommendedIntervention> res = new ArrayList<>();
         for (int i = 0; i < predictions.getResults().size(); i++) {
@@ -194,6 +199,7 @@ public class PredictorController {
             List<String> populationAttributes,
             List<String> interventionAttributes,
             List<String> experimentalSettingAttributes,
+            String modelName,
             int topK,
             boolean useAnnotations,
             boolean useEffectSize,
@@ -209,17 +215,21 @@ public class PredictorController {
         List<AttributeValueNode> flattenedNodeIds = nodeIdSets.stream()
             .collect(ArrayList::new, ArrayList::addAll, ArrayList::addAll);
         // execute the query
-        return runQuery(flattenedNodeIds, topK, useAnnotations, useEffectSize, useNeuralPrediction);
+        return runQuery(flattenedNodeIds, modelName, topK, useAnnotations, useEffectSize, useNeuralPrediction);
     }
 
-    private RankedResults<SearchResult> runQuery(List<? extends AttributeValuePair> query,
+    private RankedResults<SearchResult> runQuery(List<? extends AttributeValuePair> query, String modelName,
                                                  int topK, boolean useAnnotations, boolean useEffectSize,
                                                  boolean usePredictionApi) {
         if (usePredictionApi || Environment.isPredictionApiOnly()) {
             // create a new predictor service (very fast)
             PredictionServiceConnector connector = PredictionServiceConnector.createForLocalService();
             // request a prediction
-            Optional<PredictionServiceConnector.PredictionWithConfidence> predictionResponse = connector.requestPrediction(query);
+            List<AttributeValuePair> queryForApi = query.stream()
+                    .map(avp -> new AttributeValuePair(avp.getAttribute(), avp.getValue()))
+                    .collect(Collectors.toList());
+            Optional<PredictionServiceConnector.PredictionWithConfidence> predictionResponse =
+                    connector.requestPrediction(queryForApi, modelName);
             List<SearchResult> res = new ArrayList<>();
             if (predictionResponse.isPresent()) {
                 SearchResult sr = new SearchResult(new AttributeValueNode(
@@ -246,14 +256,14 @@ public class PredictorController {
         }
     }
 
-    private RankedResults<SearchResult> runBatchQueries(List<List<AttributeValuePair>> queries,
+    private RankedResults<SearchResult> runBatchQueries(List<List<AttributeValuePair>> queries, String modelName,
                                                  int topK, boolean useAnnotations, boolean useEffectSize,
                                                  boolean usePredictionApi) {
         if (usePredictionApi || Environment.isPredictionApiOnly()) {
             // create a new predictor service (very fast)
             PredictionServiceConnector connector = PredictionServiceConnector.createForLocalService();
             // request a prediction
-            List<PredictionServiceConnector.PredictionWithConfidence> predictionResponses = connector.requestPredictionBatch(queries);
+            List<PredictionServiceConnector.PredictionWithConfidence> predictionResponses = connector.requestPredictionBatch(queries, modelName);
             List<SearchResult> res = predictionResponses.stream()
                     .map(predictionResponse -> new SearchResult(new AttributeValueNode(
                             new AttributeValuePair(Attributes.get().getFromName("Outcome value"), String.valueOf(predictionResponse.getValue()))),
@@ -358,6 +368,8 @@ public class PredictorController {
     public String predictionInsights(
             @ApiParam(value = "Whether to use the neural prediction model.")
             @RequestParam(value="useneuralprediction", required = false, defaultValue = "false") boolean useNeuralPrediction,
+            @ApiParam(value = "Name of the prediction model to use")
+            @RequestParam(value="modelName", required = false, defaultValue = "") String modelName,
             @ApiParam(value = "A set of attribute-value pairs representing a Behavior Change intervention scenario serving as input",
             examples = @Example(value = @ExampleProperty(
                     mediaType = MediaType.APPLICATION_JSON,
@@ -367,7 +379,7 @@ public class PredictorController {
         List<AttributeValuePair> avps = Arrays.stream(query).map(AttributeValue::toAvp).collect(Collectors.toList());
         JsonObjectBuilder res = Json.createObjectBuilder();
         // run the query
-        RankedResults<SearchResult> predictions = runQuery(avps, 1, true, false, useNeuralPrediction);
+        RankedResults<SearchResult> predictions = runQuery(avps, modelName,1, true, false, useNeuralPrediction);
         if (!predictions.getResults().isEmpty()) {
             SearchResult firstResult = predictions.getResults().get(0);
             double firstOutcomeValue = firstResult.node.getNumericValue();
@@ -452,6 +464,7 @@ public class PredictorController {
                         Lists.newArrayList("C:5579089:18"),
                         Lists.newArrayList("I:3673272:1"), // I:3673271:1        I:3675717:1         I:3673272:1
                         Lists.newArrayList(),
+                        "",
                         10,
                         useAnnotations, useEffectSize, false
                 ));

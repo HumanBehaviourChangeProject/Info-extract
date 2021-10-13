@@ -1,0 +1,12 @@
+model_config_list {
+  config {
+    name: 'default_model'
+    base_path: '/models/default_model/'
+    model_platform: 'tensorflow'
+  }
+  config {
+    name: 'default_modelmc'
+    base_path: '/models/default_modelmc/'
+    model_platform: 'tensorflow'
+  }
+}

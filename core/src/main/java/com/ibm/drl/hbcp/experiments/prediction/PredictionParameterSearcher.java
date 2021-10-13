@@ -41,6 +41,7 @@ public class PredictionParameterSearcher {
             RankedResults<SearchResult> results = predictor.predictOutcome(query.getPopulationAttributes(),
                     query.getInterventionAttributes(),
                     query.getExperimentalSettingAttributes(),
+                    "",
                     10, query.isUseAnnotations(), query.isUseEffectSize(), false);
             if (results.getResults().isEmpty()) {
                 // the query will likely return an empty result, we exit with an exception

@@ -31,11 +31,13 @@ TF_SERVING_HOSTNAME = os.environ.get("TF_SERVING_HOSTNAME", "")
 TF_SERVING_PORT = os.environ.get("TF_SERVING_PORT", "")
 USES_TF_SERVING = TF_SERVING_HOSTNAME != "" and TF_SERVING_PORT != ""
 
+
 class FuzzyMatchInfo:
     def __init__(self, closestToken, origValue, replacedValue):
         self.closestToken = closestToken
         self.origValue = origValue
         self.replacedValue = replacedValue
+
 
 class NumpyArrayEncoder(JSONEncoder):
     def default(self, obj):
