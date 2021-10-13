@@ -10,18 +10,16 @@ import com.ibm.drl.hbcp.predictor.data.TrainTestSplitter;
 import com.ibm.drl.hbcp.predictor.graph.AttribNodeRelations;
 import com.ibm.drl.hbcp.predictor.graph.Node2Vec;
 import com.ibm.drl.hbcp.predictor.graph.RelationGraphBuilder;
+import com.ibm.drl.hbcp.util.FileUtils;
 import com.ibm.drl.hbcp.util.Props;
+import lombok.Value;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import java.io.FileInputStream;
-import java.io.FileNotFoundException;
+import java.io.*;
 
-import java.io.IOException;
 import java.util.List;
 import java.util.Properties;
-
-import java.io.FileReader;
 
 public class ParametricGraphKerasDataPreparation extends PredictionWorkflow {
 
@@ -106,17 +104,46 @@ public class ParametricGraphKerasDataPreparation extends PredictionWorkflow {
         return flow;
     }
 
-    public static void main(String[] args) throws IOException {
-
-        String additionalProps = args.length>0? args[0]: null;
-        Properties extraProps = new Properties();
-        if (additionalProps != null) {
-            extraProps.load(new FileReader(additionalProps)); // overriding arguments
+    /** The beginning of the script scripts/predictionresources4api.sh in Java, for use from the API to train prediction
+     * models on the fly
+     * ONLY VALID ON UNIX SYSTEMS, NOT WINDOWS */
+    public static ResourcePaths predictionResources4ApiStart(AttributeValueCollection<AnnotatedAttributeValuePair> annotations,
+                                                    int dimension, int node2VecWindow,
+                                                    double node2VecP, double node2VecQ) throws IOException, InterruptedException {
+        Properties extraProps = PredictionResources4ApiPropertiesGenerator.generate(dimension, node2VecWindow, node2VecP, node2VecQ);
+        main(annotations, extraProps);
+        // executes the end script that merges the global and per-instance vectors
+        String endScriptName = "predictionresources4apiEnd.sh";
+        String scriptPath = FileUtils.potentiallyGetAsResource(new File("scripts/", endScriptName)).getAbsolutePath();
+        ProcessBuilder pb = new ProcessBuilder("sh", scriptPath,
+                PredictionResources4ApiPropertiesGenerator.GNODE_FILE,
+                PredictionResources4ApiPropertiesGenerator.INODE_FILE,
+                PredictionResources4ApiPropertiesGenerator.MERGED_NODE_FILE
+        );
+        pb.inheritIO();
+        pb.directory(new File("."));
+        Process process = pb.start();
+        int exitCode = process.waitFor();
+        // here, the folder resources contains a train set and vector files for prediction training
+        if (exitCode == 0) {
+            return new ResourcePaths(new File(".", PredictionResources4ApiPropertiesGenerator.TRAIN_FILE),
+                    new File(".", PredictionResources4ApiPropertiesGenerator.MERGED_NODE_FILE));
+        } else {
+            throw new IOException("Error during merging of embedding files");
         }
-        Properties props = Props.overrideProps(Props.loadProperties(), extraProps);
+    }
 
-        // the prop file defined above shouldn't override "ref.json", so the method called next is right to ignore these props
-        AttributeValueCollection<AnnotatedAttributeValuePair> annotations = JSONRefParser.loadAnnotationsForPredictionTraining();
+    @Value
+    public static class ResourcePaths {
+        private File trainFile;
+        private File mergedVecFile;
+    }
+
+
+    public static void main(AttributeValueCollection<AnnotatedAttributeValuePair> annotations,
+                                                    Properties extraProperties) throws IOException {
+        Properties props = Props.overrideProps(Props.loadProperties(), extraProperties);
+
         log.info("Annotation stats for prediction training: {} entities in {} documents", annotations.size(), annotations.getDocNames().size());
         String nodeTextConactDictFile = props.getProperty("seqmodel.modified_dict", "prediction/graphs/nodevecs/nodes_and_words.vec");
 
@@ -131,5 +158,16 @@ public class ParametricGraphKerasDataPreparation extends PredictionWorkflow {
             outNodeVecFileName = null;
 
         flow.prepareData(outNodeVecFileName, trainFile, testFile);
+    }
+
+    public static void main(String[] args) throws IOException {
+        String additionalPropsFile = args.length>0? args[0]: null;
+        Properties extraProps = new Properties();
+        if (additionalPropsFile != null) {
+            extraProps = Props.loadProperties(additionalPropsFile);
+        }
+        // the prop file defined above shouldn't override "ref.json", so the method called next is right to ignore these props
+        AttributeValueCollection<AnnotatedAttributeValuePair> annotations = JSONRefParser.loadAnnotationsForPredictionTraining();
+        main(annotations, extraProps);
     }
 }

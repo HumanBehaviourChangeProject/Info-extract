@@ -1,0 +1,1 @@
+{"_default": {"1": {"name": "default_model", "description": "Default smoking cessation outcome prediction model", "emb_path": "../../resources/embfile4api.merged.vec"}, "2": {"name": "default_modelmc", "description": "Default smoking cessation outcome prediction model (confidence scoring)", "emb_path": "../../resources/embfile4api.merged.vec"}}}

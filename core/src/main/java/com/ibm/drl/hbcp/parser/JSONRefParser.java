@@ -18,18 +18,14 @@ import com.ibm.drl.hbcp.util.FileUtils;
 import com.ibm.drl.hbcp.util.ParsingUtils;
 import com.ibm.drl.hbcp.util.Props;
 import lombok.Data;
-import net.arnx.jsonic.JSON;
 import org.apache.commons.lang3.NotImplementedException;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import java.io.File;
-import java.io.IOException;
-import java.io.PrintStream;
+import java.io.*;
 import java.net.URISyntaxException;
 import java.net.URL;
 import java.util.*;
-import java.util.function.Function;
 import java.util.stream.Collectors;
 
 /**
@@ -42,13 +38,6 @@ import java.util.stream.Collectors;
  */
 public class JSONRefParser implements JSONRefParserBase {
 
-    /**
-     * Json file containing the Behaviour Change annotations
-     */
-    private final File jsonFile;
-
-    // output
-    private final JsonAnnotationFile annotationFile; // this can even be discarded, for more memory efficiency
     // attributes in the codesets (all)
     protected final Attributes attributes;
     // arms indexed by their id
@@ -71,18 +60,23 @@ public class JSONRefParser implements JSONRefParserBase {
     private static final Logger logger = LoggerFactory.getLogger(JSONRefParser.class);
 
     /**
+     * Json file containing the Behaviour Change annotations
+     */
+    private File jsonFile;
+    // to sometimes close
+    private final InputStream jsonInputStream;
+
+    /**
      * Parses a JSON file containing Behaviour Change annotations.
      *
      * @param jsonFile a JSON file
      * @throws IOException occurs if the file didn't match the expected JSON structure, or otherwise in other traditional I/O-related cases
      */
-    public JSONRefParser(File jsonFile, boolean isArmifiedBasedOnItemId) throws IOException {
-        jsonFile = FileUtils.potentiallyGetAsResource(jsonFile);
-        this.jsonFile = jsonFile;
+    public JSONRefParser(InputStream jsonFile, boolean isArmifiedBasedOnItemId) throws IOException {
+        this.jsonInputStream = jsonFile;
         this.isArmifiedBasedOnItemId = isArmifiedBasedOnItemId;
-
         // map the JSON to the corresponding POJO objects as a first parsing step
-        annotationFile = getJsonAnnotationFile(jsonFile);
+        JsonAnnotationFile annotationFile = getJsonAnnotationFile(jsonFile);
         // parse the attributes
         attributes = new Attributes(annotationFile);
         // parse the arms
@@ -94,6 +88,12 @@ public class JSONRefParser implements JSONRefParserBase {
         trees = new CodeSetTreeBuilder(annotationFile, attributes, instances).getTrees();
         docNameToPdfInfo = getDocNameToPdfInfo(annotationFile);
         shortTitleToPdfInfo = getShortTitleToPdfInfo(annotationFile);
+    }
+
+    public JSONRefParser(File jsonFile, boolean isArmifiedBasedOnItemId) throws IOException {
+        this(new FileInputStream(FileUtils.potentiallyGetAsResource(jsonFile)), isArmifiedBasedOnItemId);
+        this.jsonFile = jsonFile;
+        jsonInputStream.close();
     }
 
     public JSONRefParser(File jsonFile) throws IOException {
@@ -135,12 +135,18 @@ public class JSONRefParser implements JSONRefParserBase {
         return instances;
     }
 
-    static JsonAnnotationFile getJsonAnnotationFile(File jsonFile) throws IOException {
+    static JsonAnnotationFile getJsonAnnotationFile(InputStream jsonFile) throws IOException {
         ObjectMapper objectMapper = new ObjectMapper()
                 .configure(MapperFeature.USE_STD_BEAN_NAMING, true)
                 .configure(DeserializationFeature.FAIL_ON_UNKNOWN_PROPERTIES, false);
         objectMapper.setPropertyNamingStrategy(new PropertyNamingStrategy.UpperCamelCaseStrategy());
         return objectMapper.readValue(jsonFile, JsonAnnotationFile.class);
+    }
+
+    static JsonAnnotationFile getJsonAnnotationFile(File jsonFile) throws IOException {
+        try (InputStream fis = new FileInputStream(jsonFile)) {
+            return getJsonAnnotationFile(fis);
+        }
     }
 
     protected Map<Integer, Arm> getArms(JsonAnnotationFile json) {

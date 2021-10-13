@@ -10,6 +10,8 @@ import com.ibm.drl.hbcp.util.Environment;
 import lombok.Value;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import org.springframework.http.HttpStatus;
+import org.springframework.web.server.ResponseStatusException;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -46,7 +48,7 @@ public class PredictionServiceConnector {
         return new PredictionServiceConnector(Environment.getPredictionURL(), Environment.getPredictionPort());
     }
 
-    public List<PredictionWithConfidence> requestPredictionBatch(List<List<AttributeValuePair>> queriesAsAvps) {
+    public List<PredictionWithConfidence> requestPredictionBatch(List<List<AttributeValuePair>> queriesAsAvps, String modelName) {
         // format the body to send in POST request
         String queriesString = queriesAsAvps.stream()
                 .map(queryString -> queryString.stream()
@@ -59,7 +61,7 @@ public class PredictionServiceConnector {
         HttpURLConnection con = null;
         try {
             // query the prediction API
-            URL predictionUrl = new URL(PROTOCOL, host, port, ENDPOINT_BATCH);
+            URL predictionUrl = new URL(PROTOCOL, host, port, ENDPOINT_BATCH + modelName);
             con = (HttpURLConnection) predictionUrl.openConnection();
             con.setRequestMethod("POST");
             con.setRequestProperty("Content-Type", "text/plain; charset=utf-8");
@@ -83,12 +85,16 @@ public class PredictionServiceConnector {
             } else {
                 try (BufferedReader in = new BufferedReader(new InputStreamReader(con.getErrorStream()))) {
                     log.error("Error in batch prediction API response for query: {}", queriesAsAvps);
+                    StringBuilder sb = new StringBuilder();
                     String line;
                     while ((line = in.readLine()) != null) {
-                        log.error(line);
+                        sb.append(line);
+                        sb.append("\n");
                     }
+                    String errorMessage = sb.toString();
+                    log.error("ERROR " + con.getResponseCode() + ": " + errorMessage);
+                    throw new ResponseStatusException(HttpStatus.valueOf(con.getResponseCode()), errorMessage);
                 }
-                return new ArrayList<>();
             }
         } catch (IOException e) {
             log.error("Error while batch-querying the prediction API with: " + queriesString, e);
@@ -98,6 +104,14 @@ public class PredictionServiceConnector {
         }
     }
 
+    public Optional<PredictionWithConfidence> requestPrediction(List<AttributeValuePair> avps, String modelName) {
+        List<List<AttributeValuePair>> wrappedSingleQuery = new ArrayList<>();
+        wrappedSingleQuery.add(avps);
+        List<PredictionWithConfidence> res = requestPredictionBatch(wrappedSingleQuery, modelName);
+        return res.isEmpty() ? Optional.empty() : Optional.of(res.get(0));
+    }
+
+    /*
     public Optional<PredictionWithConfidence> requestPrediction(List<? extends AttributeValuePair> avps) {
         // format avps into prediction API input strings
         String queryString = avps.stream()
@@ -134,6 +148,7 @@ public class PredictionServiceConnector {
             if (con != null) con.disconnect();
         }
     }
+    */
 
     @Value
     public static class PredictionWithConfidence {
@@ -156,7 +171,7 @@ public class PredictionServiceConnector {
                 new AttributeValuePair(Attributes.get().getFromId("3673271"), "1"),
                 new AttributeValuePair(Attributes.get().getFromId("4087191"), "6.5")
         );
-        Optional<PredictionWithConfidence> res = con.requestPrediction(query);
+        Optional<PredictionWithConfidence> res = con.requestPrediction(query, "");
         System.out.println(res);
     }
 }

@@ -9,6 +9,7 @@ WORKDIR /app
 RUN apt-get update && apt-get install -y wget && rm -rf /var/lib/apt/lists/*
 RUN wget https://github.com/HumanBehaviourChangeProject/Info-extract/releases/download/0.9.0/best-model.pt -q --show-progress --progress=bar:force:noscroll -O best-model.pt
 # Create the Flair Python env
+RUN conda update -y -n base -c defaults conda
 RUN conda env create -f flairExpEnv.yml
 # Make RUN commands use the new environment:
 SHELL ["conda", "run", "-n", "flairExp", "/bin/bash", "-c"]
@@ -16,4 +17,4 @@ SHELL ["conda", "run", "-n", "flairExp", "/bin/bash", "-c"]
 RUN echo "Make sure flask is installed:"
 RUN python -c "import flask"
 # Serve the Flair-Flask API with the webserver Waitress
-ENTRYPOINT ["conda", "run", "-n", "flairExp", "python", "app.py"]
+ENTRYPOINT ["conda", "run", "-n", "flairExp", "--no-capture-output", "python", "app.py"]

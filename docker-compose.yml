@@ -37,6 +37,8 @@ services:
     image: hbcp-prediction-experiments
     depends_on:
       - hbcp-core
+    volumes:
+      - prediction_tf_serving_models:/python-nb/ov-predict/tf_models/
     environment:
       PORT: 5001
       TF_SERVING_HOSTNAME: hbcp-prediction-tf-serving
@@ -51,5 +53,13 @@ services:
     image: hbcp-prediction-tf-serving
     depends_on:
       - hbcp-prediction-experiments
+    volumes:
+      - prediction_tf_serving_models:/models/
     ports:
       - "8501:8501"
+
+volumes:
+  prediction_tf_serving_models:
+    driver_opts:
+      type: tmpfs
+      device: tmpfs

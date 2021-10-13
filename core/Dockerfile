@@ -10,7 +10,7 @@ WORKDIR /tmp/
 ENV MAVEN_OPTS -Xms512m -Xmx8g
 RUN mvn clean install
 # generate embeddings and training data for prediction
-WORKDIR /tmp/scripts/
+WORKDIR /tmp/src/main/resources/scripts/
 RUN chmod +x ./predictionresources4api.sh
 RUN ./predictionresources4api.sh 100 10 0.1 0.9
 
